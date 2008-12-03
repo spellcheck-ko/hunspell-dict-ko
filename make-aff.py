@@ -467,7 +467,7 @@ def endings_generate():
     working = []
 
     for e in endings:
-        start = filter(lambda e: e[0] != '-' , e['after'])
+        start = [a for a in e['after'] if a[0] != '-']
         if len(start) > 0:
             name = e['name']
 
@@ -506,15 +506,16 @@ def endings_generate():
     return result
 
 def endings_out(ll):
-    keys = set(map(lambda l: l['id'], ll))
+    keys = set([l['id'] for l in ll])
 
     for k in keys:
-        mm = filter(lambda l: l['id'] == k, ll)
+        mm = [l for l in ll if l['id'] == k]
 
         start = set()
         for l in mm:
             start = start.union(l['start'])
-        out('# :%s\n' % ', '.join(map(lambda s: '\'%s\'' % s, list(start))))
+        out('# :%s\n' % ', '.join(["'%s'" % s for s in list(start)]))
+
         lines = []
         for l in mm:
             cond = l['cond']
@@ -522,9 +523,7 @@ def endings_out(ll):
                 strip = l['strip']
             else:
                 strip = ''
-            ending = ''.join(map(lambda s: s.replace('-',''), l['name']))
-            ending = unicodedata.normalize('NFC', ending.decode('UTF-8'))
-            ending = ending.encode('UTF-8')
+            ending = nfc(''.join([s.replace('-', '') for s in l['name']]))
 
             if not isinstance(cond, type([])):
                 cond = [ cond ]

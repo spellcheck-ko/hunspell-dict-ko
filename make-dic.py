@@ -44,13 +44,13 @@ for filename in filenames:
     lines += open(filename).readlines()
 
 # comment out
-lines = filter(lambda line: line[0] != '#', lines)
+lines = [line for line in lines if line[0] != '#']
 
 # remove whitespaces
-lines = map(lambda line: line.strip(), lines)
+lines = [line.strip() for line in lines]
 
 # empty line out
-lines = filter(lambda line: line != '', lines)
+lines = [line for line in lines if line != '']
 
 ## 
 
