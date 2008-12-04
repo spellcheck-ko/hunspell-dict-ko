@@ -59,7 +59,11 @@ def make_entry(str):
     name = d[0]
     info = {}
     for i in d[1:]:
-        key, val = i.split(':')
+        try:
+            key, val = i.split(':')
+        except ValueError:
+            sys.stderr.write('make-dic: wrong info "%s"\n' % i)
+            raise ValueError
         info[key] = val
     return (name, info)
 
