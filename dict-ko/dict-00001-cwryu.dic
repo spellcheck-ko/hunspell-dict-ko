@@ -1,68 +1,5 @@
 # cwryu: 20081124
 # 노무현 국제문제협의회 연설, 2004년 11월 13일
-#1년
-#6자
-#6자회담
-#6자회담에
-#6자회담은
-#6자회담을
-#70년대
-#87년
-#감사합니다
-#거론된
-#것이냐
-#것이라고는
-#것인가
-#것입니다
-#관해서는
-#국제문제협의회
-#국제문제협의회에
-#그럼에도
-#그렇게
-#나은
-#남북간의
-#단계에까지
-#달려있다고
-#당사국들
-#도시입니다
-#된다고
-#말씀드렸지만
-#말씀드리다
-#맥
-#모아주시기
-#무력공격을
-#발전시키기
-#부탁드립니다
-#북핵문제를
-#북핵문제에
-#북핵문제와
-#뿐만
-#생존조차도
-#성공시키기
-#수밖에
-#쌓여왔기
-#쌓이고
-#아니냐의
-#안하고는
-#않을지도
-#앞서도
-#억제수단이라고
-#없다는
-#연계되어
-#요소이기도
-#위험해질
-#의사라기보다는
-#입니다
-#있는지를
-#있다는
-#제기되어
-#지원마저도
-#지켜질
-#진행되면
-#체제안전을
-#하나만으로도
-#하는
-#해결되어야
 가능성 po:noun
 가다 po:verb
 가장 po:adverb
@@ -82,7 +19,7 @@
 강력 po:noun
 강력하다 po:adjective
 강하다 po:adjective
-갖다 po:verb is:가지다
+갖다 po:verb
 같다 po:adjective
 개발 po:noun
 개발하다 po:verb
@@ -217,7 +154,6 @@
 만들다 po:verb
 만약 po:adverb
 많다 po:adjective
-많이
 말 po:noun
 말씀 po:noun
 말씀드리다 po:verb
@@ -309,7 +245,7 @@
 서로 po:adverb
 서방 po:noun
 서부 po:noun
-선뜻
+선뜻 po:adverb
 선택 po:noun
 성공 po:noun
 성공하다 po:verb
@@ -332,25 +268,25 @@
 쌓다 po:verb
 아니다 po:adjective
 아름답다 po:adjective
-아무런
-아주
-아직
+아무런 po:determiner
+아주 po:adverb
+아직 po:adverb
 안녕 po:noun
 안녕하다 po:adjective
 안전 po:noun
 않다 st:아니하다 po:verb
 알다 po:verb
-앞서
+앞서 po:adverb
 약속 po:noun
 양쪽 po:noun
 얘기 po:noun
 얘기하다 po:verb
-어떤
+어떤 po:determiner
 어렵다 po:adjective
 억제 po:noun
 얻다 po:verb
 없다 po:adjective
-여러
+여러 po:determiner
 여러가지 po:noun
 여러분 po:pronoun
 여성 po:noun
@@ -360,10 +296,9 @@
 영향력 po:noun
 오늘 po:noun
 오다 po:verb
-오랜
+오랜 po:determiner
 오랜만 po:noun
 오해 po:noun
-와
 외부 po:noun
 요구 po:noun
 요구하다 po:verb
@@ -400,14 +335,11 @@
 이룩 po:noun
 이룩하다 po:verb
 이르다 po:verb
-이미
-이상
+이미 po:adverb
 이외 po:noun
 이유 po:noun
-이제
 이행 po:noun
 이행하다 po:verb
-이후
 인권 po:noun
 인내 po:noun
 인식 po:noun
@@ -433,7 +365,6 @@
 재앙 po:noun
 잿더미 po:noun
 저 po:noun
-적극
 적극적 po:noun
 적대적 po:noun
 전
