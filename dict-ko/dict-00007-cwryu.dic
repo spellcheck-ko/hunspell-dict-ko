@@ -1,4 +1,4 @@
-# cwryu 2008/12/04
+# cwryu 2008/12/05
 # 임의 추가
 가결되다 po:verb
 가시화 po:noun
@@ -132,6 +132,7 @@
 과세하다 po:verb
 과음 po:noun
 관람불가 po:noun
+관왕 po:counter
 관용 po:noun
 관전하다 po:verb
 광역시 po:noun
@@ -158,6 +159,7 @@
 군청 po:noun
 굴리다 po:verb
 굴욕 po:noun
+권 po:counter # 책 1권
 권력형 po:noun
 궤도 po:noun
 극진하다 po:adjective
@@ -174,6 +176,7 @@
 기린 po:noun
 기말고사 po:noun
 기반 po:noun
+기세 po:noun
 기약 po:noun
 기억력 po:noun
 기장 po:noun
@@ -211,13 +214,14 @@
 누적되다 po:verb
 눈송이 po:noun
 눈썰매 po:noun
-뉴멕시코 po:noun
+뉴멕시코 po:noun from:New_Mexico
 늦추다 po:verb
 늪 po:noun
 니퍼 po:noun from:nipper
 다국적 po:noun
 다리미 po:noun
 다잡다 po:verb
+단 po:counter # 태권도 1단
 단거리 po:noun
 단말기 po:noun
 단어장 po:noun
@@ -264,6 +268,8 @@
 동원하다 po:verb
 동작하다 po:verb
 동해 po:noun
+둔갑 po:noun
+둔갑하다 po:verb
 둔화되다 po:verb
 드라이버 po:noun from:driver
 드레스 po:noun
@@ -275,6 +281,7 @@
 따위 po:noun is:의존명사
 똥 po:noun
 라이선스 po:noun from:license
+랭킹 po:noun from:ranking
 레코드 po:noun from:record
 로그인하다 po:verb
 로마자 po:noun
@@ -285,6 +292,7 @@
 릴리스 po:noun from:release
 릴리스하다 po:verb from:release
 마녀 po:noun
+마일 po:counter from:mile
 마찬가지 po:noun
 막막하다 po:adjective
 만만찮다 po:adjective
@@ -389,6 +397,7 @@
 변환 po:noun
 별관 po:noun
 별똥별 po:noun
+병 po:counter # 음료수 1병
 병신 po:noun
 병원장 po:noun
 보강 po:noun
@@ -405,6 +414,7 @@
 봇물 po:noun
 봉합 po:noun
 봉합하다 po:verb
+부 po:counter # 드라마 1부
 부대찌개 po:noun
 부르트다 po:verb
 부양책 po:noun
@@ -421,6 +431,7 @@
 부활하다 po:verb
 북미 po:noun
 북한어 po:noun
+북핵문제 po:noun
 분기 po:noun
 분담 po:noun
 분양 po:noun
@@ -472,7 +483,7 @@
 서열 po:noun
 서울시 po:noun
 서울특별시 po:noun
-서커스 po:noun
+서커스 po:noun from:circus
 서커스단 po:noun
 서해 po:noun
 선글라스 po:noun from:sunglass
@@ -548,6 +559,7 @@
 술김 po:noun
 스캔들 po:noun from:scandal
 습격 po:noun
+승 po:counter # 경기 1승 1패
 승률 po:noun
 시급 po:noun
 시급하다 po:adjective
@@ -559,7 +571,7 @@
 신조어 po:noun
 신호탄 po:noun
 신혼 po:noun
-실리콘 po:noun
+실리콘 po:noun from:silicon
 실망스럽다 po:verb
 실사 po:noun
 실사하다 po:verb
@@ -588,9 +600,11 @@
 약관 po:noun
 양도세 po:noun
 양해 po:noun
+어미 po:noun
 어민 po:noun
 어업 po:noun
 어음 po:noun
+어항 po:noun
 어휘 po:noun
 얽다 po:verb
 얽히다 po:verb
@@ -600,6 +614,8 @@
 업그레이드하다 po:verb
 에이즈 po:noun from:AIDS
 여탕 po:noun
+여태 po:adverb
+여태껏 po:adverb
 역세권 po:noun
 연관되다 po:verb
 연구팀 po:noun
@@ -608,9 +624,11 @@
 연못 po:noun
 연쇄살인범 po:noun
 연습경기 po:noun
+연승 po:counter
 연장전 po:noun
 연재 po:noun
 연탄 po:noun
+연패 po:counter
 열애설 po:noun
 염기서열 po:noun
 염치 po:noun
@@ -703,20 +721,24 @@
 정보통신 po:noun
 정형외과 po:noun
 정화 po:noun
+정확도 po:noun
 정황 po:noun
 제국 po:noun
 제어 po:noun
 제어하다 po:verb
 제작진 po:noun
+조 po:counter # 팀 1조
 조립 po:noun
 조명탄 po:noun
 조선어 po:noun
 조성하다 po:verb
 조장 po:noun
 존중되다 po:verb
+종 po:counter # 1종, 2종
 종가집 po:noun
 종료되다 po:verb
 종족 po:noun
+종합우승 po:noun
 주기 po:noun
 주도하다 po:verb
 주류 po:noun
@@ -776,6 +798,7 @@
 채무 po:noun
 채용하다 po:verb
 채팅 po:noun from:chatting
+채팅하다 po:verb
 처지다 po:verb
 천문대 po:noun
 천문학 po:noun
@@ -820,7 +843,7 @@
 캄보디아 po:noun from:Cambodia
 캐럴 po:noun from:carol
 캔버스 po:noun from:canvas
-컴파일러 po:noun
+컴파일러 po:noun from:compiler
 코멘트 po:noun from:comment
 콘서트 po:noun from:concert
 쿠폰 po:noun from:coupon
@@ -837,6 +860,7 @@
 탱크 po:noun from:tank
 턱수염 po:noun
 테너 po:noun from:tenor
+통 po:counter # 편지 1통
 통산 po:noun
 통제되다 po:verb
 퇴장 po:noun
@@ -852,10 +876,12 @@
 파격적 po:noun
 파악 po:noun
 판돈 po:noun
+패 po:counter # 경기 1패
 패널 po:noun from:panel
 패션업계 po:noun
 패턴 po:noun
 페루 po:noun from:Peru
+페이지 po:counter from:page
 편 po:noun
 편집권 po:noun
 편집장 po:noun
@@ -909,7 +935,7 @@
 행정부 po:noun
 향후 po:noun
 허리띠 po:noun
-허리케인 po:noun
+허리케인 po:noun from:hurricane
 헌법 po:noun
 헝겊 po:noun
 혈관 po:noun
