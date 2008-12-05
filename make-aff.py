@@ -26,7 +26,7 @@ reload(sys)
 sys.setdefaultencoding('UTF-8')
 
 if len(sys.argv) != 2:
-    sys.stderr.write('Usage: %s flagfile.py\n')
+    err('Usage: %s flagfile.py\n')
     sys.exit(1)
 flaginfo_filename = sys.argv[1]
 
@@ -42,6 +42,9 @@ def out(u8str):
 
 def outnfd(u8str):
     return sys.stdout.write(nfd(u8str))
+
+def err(u8str):
+    return sys.stderr.write(u8str)
 
 ## 모든 자음, 모음
 ## 간략하게 하기 위해 중세국어는 제외
@@ -66,13 +69,13 @@ out('WORDCHARS 0123456789\n')
 trychars = u'\u110b\u1161\u1175\u11ab\u1100\u1109\u1173\u1169\u11bc\u110c\u1165\u116e\u1103\u11af\u1112\u1107\u11a8\u1162\u1105\u1102\u1106\u1166\u1167\u110e\u11b7\u1110\u116a\u1111\u11b8\u116d\u1172\u110f\u1174\u116f\u116c\u11bb\u11ba\u1163\u1101\u1171\u1168\u1104\u11c0\u110a\u11b9\u11bd\u11ae\u11ad\u11c1\u110d\u116b\u11c2\u11be\u1108\u11b0\u1170\u11b1\u11b2\u11a9\u11b6\u11ac\u1164\u11aa\u11b3\u11b4\u11b5\u11bf'
 out('TRY %s\n' % trychars)
 
-print "ICONV 11172"
+out('ICONV 11172\n')
 for k in range(0xac00, 0xd7a3 + 1):
-    print "ICONV %s %s" % (unichr(k), unicodedata.normalize("NFD", unichr(k)))
+    out('ICONV %s %s\n' % (unichr(k), unicodedata.normalize("NFD", unichr(k))))
 
-print "OCONV 11172"
+out('OCONV 11172\n')
 for k in range(0xac00, 0xd7a3 + 1):
-    print "OCONV %s %s" % (unicodedata.normalize("NFD", unichr(k)), unichr(k))
+    out('OCONV %s %s\n' % (unicodedata.normalize("NFD", unichr(k)), unichr(k)))
 
 ## KEY - 두벌식 키보드 배치
 
@@ -160,11 +163,19 @@ endings = [
                                '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'],
     },
+    # 'ㅏ'+'았': ㅏ 탈락
     { 'id': 5,
-      # 'ㅏ'+'았': ㅏ 생략
-      'name': u'-\u1161\u11bb-', 'cond': u'\u1161', 'strip': u'\u1161',
+      'name': u'-\u1161\u11bb-',
+      'cond': u'[%s]\u1161' % all_leading.replace(u'\u11c2', ''), # '하' 제외
+      'strip': u'\u1161',
       'after': ['#용언'],
     },
+    # '~하다' -> '~했'
+    { 'id': 5,
+      'name': u'-\u1162\u11bb-', 'cond': u'하', 'strip': u'\u1161',
+      'after': ['#용언'],
+    },
+    
 # TODO ㅗ 았 -> 왔
 #    { 'id': 5,
 #      'name': u'-\u116a\u11bb-', 'cond': u'\u1169', 'strip': u'\u1169',
@@ -337,10 +348,11 @@ endings = [
     ## '-어', '-아'
     # TODO: 불규칙
     { 'id': 24,
-      'name': u'-어', 'cond': ['[%s]' % all_vowel_ao.replace(u'\u1165',''),
+      'name': u'-어', 'cond': ['[%s]' % all_vowel_ao,
                                '[%s][%s]' % (all_vowel_ao, all_trailing)],
       'after': ['#용언'],
     },
+    # ㅓ 뒤에 -어: ㅓ 탈락하기도 함
     { 'id': 24,
       'name': u'-어', 'cond': u'\u1165', 'strip': u'\u1165',
       'after': ['#용언'],
@@ -352,8 +364,15 @@ endings = [
     },
     # ㅏ 뒤에 -아
     { 'id': 24,
-      'name': u'-\u1161', 'cond': '\u1161', 'strip': '\u1161', 
+      'name': u'-\u1161',
+      'cond': u'[%s]\u1161' % all_leading.replace(u'\u11c2', ''), # '하' 제외
+      'strip': u'\u1161',
       'after': ['#용언'], 
+    },
+    # '~하다'+'아' -> '해'
+    { 'id': 24,
+      'name': u'-\u1162', 'cond': u'하', 'strip': u'\u1161',
+      'after': ['#용언'],
     },
 
     ## '-거나'
@@ -397,11 +416,11 @@ endings = [
     # TODO: 불규칙
     { 'id': 30,
       'name': u'-\u11af까', 'cond': cond_vowel,
-      'after': ['#동사', '-으시-'],
+      'after': ['#이다', '#용언', '-으시-'],
     },
     { 'id': 30,
       'name': u'-\u11af까', 'cond': u'\u11af', 'strip': u'\u11af',
-      'after': ['#동사'],
+      'after': ['#용언'],
     },
     { 'id': 30,
       'name': u'-을까', 'cond': cond_trailing_r,
@@ -409,15 +428,15 @@ endings = [
     },
     { 'id': 30,
       'name': u'-\u11af까요', 'cond': cond_vowel,
-      'after': ['#동사', '-으시-'],
+      'after': ['#이다', '#용언', '-으시-'],
     },
     { 'id': 30,
       'name': u'-\u11af까요', 'cond': u'\u11af', 'strip': u'\u11af',
-      'after': ['#동사'],
+      'after': ['#용언'],
     },
     { 'id': 30,
       'name': u'-을까요', 'cond': cond_trailing_r,
-      'after': ['#동사', '-었-'],
+      'after': ['#용언', '-었-'],
     },
     ## '-어요', '-아요'
     ## TODO: ㅏ 뒤에 -아요
@@ -429,6 +448,18 @@ endings = [
       'name': u'-아요', 'cond': ['[%s]' % u'\u1169',
                                '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'], 
+    },
+    # 'ㅏ'+'아요': ㅏ 탈락
+    { 'id': 31,
+      'name': u'-\u1161요',
+      'cond': u'[%s]\u1161' % all_leading.replace(u'\u11c2', ''), # '하' 제외
+      'strip': u'\u1161',
+      'after': ['#용언'],
+    },
+    # '~하다'+'아요'-> '~해요'
+    { 'id': 31,
+      'name': u'-\u1162요', 'cond': u'하', 'strip': u'\u1161',
+      'after': ['#용언'],
     },
     ## '-ㅂ니까', '-습니다'
     { 'id': 32,
@@ -454,9 +485,23 @@ endings = [
       'after': ['#용언'],
     },
     { 'id': 34,
-      'name': u'-아야', 'cond': cond_ao,
+      'name': u'-아야', 'cond': ['[%s]' % u'\u1169',
+                                 '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'],
     },
+    # 'ㅏ'+'았': ㅏ 탈락
+    { 'id': 34,
+      'name': u'-\u1161야',
+      'cond': u'[%s]\u1161' % all_leading.replace(u'\u11c2', ''), # '하' 제외
+      'strip': u'\u1161',
+      'after': ['#용언'],
+    },
+    # '~하다'+'아야' -> '해야'
+    { 'id': 34,
+      'name': u'-\u1162야', 'cond': u'하', 'strip': u'\u1161',
+      'after': ['#용언'],
+    },
+
     ## '-ㄴ다'
     { 'id': 35,
       'name': u'-\u11ab다', 'cond': cond_vowel,

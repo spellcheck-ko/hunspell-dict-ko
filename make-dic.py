@@ -31,10 +31,13 @@ def nfd(u8str):
 def out(u8str):
     return sys.stdout.write(u8str)
 
+def err(u8str):
+    return sys.stderr.write(u8str)
+
 filenames = sys.argv[1:]
 
 if len(filenames) < 1:
-    print 'Usage: %s filenames...' % sys.argv[0]
+    err('Usage: %s filenames...' % sys.argv[0])
     sys.exit(1)
 
 ## load
@@ -62,7 +65,7 @@ def make_entry(str):
         try:
             key, val = i.split(':')
         except ValueError:
-            sys.stderr.write('make-dic: wrong info "%s"\n' % i)
+            err('make-dic: wrong info "%s"\n' % i)
             raise ValueError
         info[key] = val
     return (name, info)
@@ -83,7 +86,7 @@ def compare_entry(a,b):
 data.sort(compare_entry)
 
 #for i in data:
-#    sys.stderr.write('entry: %s, %s\n' % (i[0], str(i[1])))
+#    err('entry: %s, %s\n' % (i[0], str(i[1])))
 
 def remove_duplicates(data):
     i = 0
@@ -96,10 +99,10 @@ def remove_duplicates(data):
                 elif (data[i][1].has_key('po') and
                       data[i+1][1].has_key('po') and
                       data[i][1]['po'] == data[i+1][1]['po']):
-                    sys.stderr.write('Warning: 삭제 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
+                    err('Warning: 삭제 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
                     del data[i+1]
                 else:
-                    #sys.stderr.write('Warning: 유지 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
+                    #err('Warning: 유지 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
                     i+=1
             else:
                 i+=1
@@ -142,7 +145,7 @@ def print_entry((name,info)):
             flags.append(config.josa_flag)
             flags.append(config.plural_suffix_flag)
     else:
-        sys.stderr.write('Warning: no info on "%s"\n' % name)
+        err('Warning: no info on "%s"\n' % name)
 
     if len(flags) > 0:
         out('%s/%s\n' % (nfd(name), ','.join(map(str, flags))))
