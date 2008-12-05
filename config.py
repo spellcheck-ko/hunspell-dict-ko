@@ -24,6 +24,11 @@ header = '''\
 
 ## FLAG management
 josa_flag = 1                   # 조사
+
 digit_flag = 2                  # 아라비아숫자
 counter_flag = 3                # 숫자와 붙여 쓸 수 있는 의존명사
+
+plural_suffix_flag = 4          # -들
+countable_noun_flag = 5         # "-들" 붙일 수 있는 가산명사
+
 endings_flag_start = 1000       # 어미

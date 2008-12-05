@@ -91,11 +91,14 @@ cond_trailing_r = '[%s]' % all_trailing.replace(u'\u11af', '')
 
 from config import digit_flag
 from config import counter_flag
+from config import countable_noun_flag
+from config import plural_suffix_flag
 
 out('COMPOUNDMIN 1\n')
-out('ONLYINCOMPOUND %d\n' % counter_flag)
-out('COMPOUNDRULE 1\n')
+#out('ONLYINCOMPOUND %d\n' % plural_suffix_flag)
+out('COMPOUNDRULE 2\n')
 out('COMPOUNDRULE (%d)*(%d)(%d)\n' % (digit_flag, digit_flag, counter_flag))
+out('COMPOUNDRULE (%d)(%d)\n' % (countable_noun_flag, plural_suffix_flag))
 
 
 ## 어미

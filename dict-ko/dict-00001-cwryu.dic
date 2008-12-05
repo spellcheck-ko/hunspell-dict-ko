@@ -31,7 +31,7 @@
 거부 po:noun
 거부하다 po:verb
 걸리다 po:verb
-것 po:noun
+#것 po:noun
 결과 po:noun
 결국 po:noun
 결단 po:noun
@@ -54,8 +54,8 @@
 관심사 po:noun
 관하다 po:verb
 교류 po:noun
-국가 po:noun
-국민 po:noun
+#국가 po:noun
+#국민 po:noun
 귀빈 po:noun
 그
 그것 po:pronoun
@@ -88,7 +88,7 @@
 나오다 po:verb
 남다 po:verb
 낫다 po:adjective
-내 po:determiner is:나의
+내 po:determiner orig:나의
 내 po:noun
 내걸다 po:verb
 내놓다 po:verb
@@ -213,7 +213,7 @@
 부탁 po:noun
 북한 po:noun
 북핵 po:noun
-분 po:noun
+분 po:noun prop:가산명사
 분명 po:noun
 분명하다 po:adjective
 분석 po:noun
@@ -230,7 +230,7 @@
 빠르다 po:adjective
 뿐
 사다 po:verb
-사람 po:noun
+#사람 po:noun
 사실 po:noun
 사이 po:noun
 살다 po:verb
@@ -289,7 +289,7 @@
 여러 po:determiner
 여러가지 po:noun
 여러분 po:pronoun
-여성 po:noun
+#여성 po:noun
 역시 po:adverb
 연계 po:noun
 연설 po:noun
@@ -354,7 +354,7 @@
 입장 po:noun
 있다 po:verb
 자리 po:noun
-자신 po:noun
+#자신 po:noun
 자행 po:noun
 자행하다 po:verb
 잘 po:adverb
@@ -476,7 +476,7 @@
 협상전략 po:noun
 활발하다 po:adjective
 회담 po:noun
-회원 po:noun
-회장 po:noun
+#회원 po:noun
+#회장 po:noun
 희망 po:noun
 힘들다 po:adjective

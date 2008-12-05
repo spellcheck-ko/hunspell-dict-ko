@@ -84,7 +84,7 @@
 개그맨 po:noun
 개그우먼 po:noun
 개념 po:noun
-개발자 po:noun
+개발자 po:noun prop:가산명사
 개봉영화 po:noun
 개설 po:noun
 개시 po:noun
@@ -249,14 +249,14 @@
 과일 po:noun
 과정 po:noun
 과학자 po:noun
-관광객 po:noun
+#관광객 po:noun
 관용구 po:noun
 관점 po:noun
 광장 po:noun
 교과서 po:noun
 교도소 po:noun
 교두보 po:noun
-교사 po:noun
+#교사 po:noun
 교수 po:noun
 교재 po:noun
 교전 po:noun
@@ -264,7 +264,7 @@
 구두 po:noun
 구름 po:noun
 구분 po:noun
-구성원 po:noun
+구성원 po:noun prop:가산명사
 구속영장 po:noun
 구역 po:noun
 구인 po:noun
@@ -291,10 +291,10 @@
 귀엽다 po:adjective
 규격 po:noun
 규칙 po:noun
-그룹 po:noun
+#그룹 po:noun
 근위군 po:noun
 근위사단 po:noun
-글 po:noun
+#글 po:noun
 글쇠 po:noun
 글자 po:noun
 금요일 po:noun
@@ -365,16 +365,16 @@
 냉동 po:noun
 넘기다 po:verb
 넘다 po:verb
-네 po:determiner is:너의
+네 po:determiner orig:너의
 네트워크 po:noun
-네티즌 po:noun
+네티즌 po:noun prop:가산명사
 녀석 po:noun
 노동 po:noun
 노동력 po:noun
 노동조합 po:noun
 노선 po:noun
 노인 po:noun
-노조 po:noun
+노조 po:noun prop:가산명사
 논란 po:noun
 논문 po:noun
 논의 po:noun
@@ -441,7 +441,7 @@
 대표적 po:noun
 대표전화 po:noun
 대표팀 po:noun
-대학 po:noun
+#대학 po:noun
 대한민국 po:noun
 대해 po:noun
 대형 po:noun
@@ -500,7 +500,7 @@
 듣다 po:verb
 들리다 po:verb
 들어오다 po:verb
-듯 po:noun is:의존명사
+듯 po:noun prop:의존명사
 등 po:pronoun
 등락 po:noun
 등락폭 po:noun
@@ -801,7 +801,7 @@
 사이다 po:noun
 사이트 po:noun
 사전 po:noun
-사진기 po:noun
+#사진기 po:noun
 사태 po:noun
 사퇴 po:noun
 사퇴압력 po:noun
@@ -1071,7 +1071,7 @@
 엔지니어 po:noun
 여당 po:noun
 여름 po:noun
-여배우 po:noun
+여배우 po:noun prop:가산명사
 여백 po:noun
 여왕 po:noun
 여의도 po:noun
@@ -1177,7 +1177,7 @@
 웅덩이 po:noun
 원격 po:noun
 원고 po:noun
-원내대표 po:noun
+원내대표 po:noun prop:가산명사
 원본 po:noun
 원색 po:noun
 원서 po:noun
@@ -1332,7 +1332,7 @@
 저지당하다 po:verb
 저지하다 po:verb
 저희 po:pronoun
-적 po:noun is:의존명사
+#적 po:noun prop:의존명사
 적군 po:noun
 적용 po:noun
 적용하다 po:verb
@@ -1347,7 +1347,7 @@
 전망하다 po:verb
 전멸 po:noun
 전멸하다 po:verb
-전문가 po:noun
+#전문가 po:noun
 전반적 po:noun
 전부 po:noun
 전산 po:noun
@@ -1486,7 +1486,7 @@
 지휘관 po:noun
 지휘하다 po:verb
 직업 po:noun
-직원 po:noun
+#직원 po:noun
 직접 po:noun
 진격 po:noun
 진격하다 po:verb
@@ -1526,7 +1526,7 @@
 참고 po:noun
 참고하다 po:verb
 참석 po:noun
-참석자 po:noun
+#참석자 po:noun
 참을성 po:noun
 참전 po:noun
 참조 po:noun
@@ -1575,7 +1575,7 @@
 총 po:noun
 총독 po:noun
 총리 po:noun
-총장 po:noun
+#총장 po:noun
 총재 po:noun
 최고조 po:noun
 최북단 po:noun
@@ -1597,7 +1597,7 @@
 출범식 po:noun
 출범하다 po:verb
 출석 po:noun
-출신 po:noun
+#출신 po:noun
 출연진 po:noun
 출판사 po:noun
 춥다 po:adjective
@@ -1757,7 +1757,7 @@
 학교 po:noun
 학살 po:noun
 학살하다 po:verb
-학생 po:noun
+#학생 po:noun
 학설 po:noun
 학습 po:noun
 학원 po:noun
@@ -1880,6 +1880,6 @@
 흡연실 po:noun
 흡착 po:noun
 희생 po:noun
-희생자 po:noun
+희생자 po:noun prop:가산명사
 히트곡 po:noun
 힘 po:noun

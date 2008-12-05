@@ -7,7 +7,7 @@
 자본주의 po:noun
 이상하다 po:adjective
 이용자 po:noun
-이웃 po:noun
+#이웃 po:noun
 장관 po:noun
 인터넷 po:noun
 인터뷰 po:noun
@@ -50,7 +50,7 @@
 폭락 po:noun
 하락 po:noun
 하지만 po:adverb
-헌재 po:noun is:헌법재판소
+헌재 po:noun orig:헌법재판소
 주민등록번호 po:noun
 축구협회 po:noun
 가수 po:noun
@@ -58,7 +58,7 @@
 가입 po:noun
 각오 po:noun
 간단하다 po:adjective
-감독 po:noun
+#감독 po:noun
 개인정보 po:noun
 건강 po:noun
 건설 po:noun
@@ -68,13 +68,13 @@
 고객센터 po:noun
 고속철도 po:noun
 골프 po:noun
-공무원 po:noun
+#공무원 po:noun
 공모전 po:noun
 국제 po:noun
 국제사회 po:noun
 국회 po:noun
 규제 po:noun
-금감원 po:noun is:금융감독원
+금감원 po:noun orig:금융감독원
 기자 po:noun
 가운데 po:noun
 가을 po:noun
@@ -96,7 +96,7 @@
 사실상 po:noun
 사우디아라비아 po:noun
 사장 po:noun
-사진 po:noun
+#사진 po:noun
 사회 po:noun
 산업 po:noun
 삭제 po:noun
@@ -106,7 +106,7 @@
 생방송 po:noun
 생활 po:noun
 서비스 po:noun
-선수 po:noun
+#선수 po:noun
 설치 po:noun
 성폭행 po:noun
 성형 po:noun
@@ -124,7 +124,7 @@
 쇠고기 po:noun
 쇼핑 po:noun
 수류탄 po:noun
-스타 po:noun
+#스타 po:noun
 스타일 po:noun
 승부차기 po:noun
 시각장애인 po:noun
@@ -137,23 +137,23 @@
 어촌 po:noun
 여자 po:noun
 여자친구 po:noun
-여학생 po:noun
+#여학생 po:noun
 여행 po:noun
 축소 po:noun
 출시 po:noun
-회원 po:noun
-회사 po:noun
+#회원 po:noun
+#회사 po:noun
 연락처 po:noun
 연말 po:noun
 연애 po:noun
-영화 po:noun
+#영화 po:noun
 예금 po:noun
 예언 po:noun
 오빠 po:noun
 온라인 po:noun
 오후 po:noun
 외계인 po:noun
-외국인 po:noun
+#외국인 po:noun
 외환 po:noun
 우승 po:noun
 우승하다 po:verb
@@ -179,7 +179,7 @@
 정보 po:noun
 정치 po:noun
 조회 po:noun
-종부세 po:noun is:종합부동산세
+종부세 po:noun orig:종합부동산세
 주소 po:noun
 주변 po:noun
 주식 po:noun
@@ -208,7 +208,7 @@
 무료 po:noun
 물고기 po:noun
 방송 po:noun
-배우 po:noun
+#배우 po:noun
 보험 po:noun
 부동산 po:noun
 블로그 po:noun
@@ -228,14 +228,14 @@
 공개 po:noun
 금융 po:noun
 금지 po:noun
-기사 po:noun
+#기사 po:noun
 기술 po:noun
-기업 po:noun
+#기업 po:noun
 남편 po:noun
 노출 po:noun
 노트북 po:noun
 단독 po:noun
-단체 po:noun
+#단체 po:noun
 돈 po:noun
 무단전재 po:noun
 민주당 po:noun
@@ -356,7 +356,7 @@
 비교 po:noun
 비리 po:noun
 비밀번호 po:noun
-비회원 po:noun
+비회원 po:noun prop:가산명사
 사랑 po:noun
 사업가 po:noun
 상승 po:noun
@@ -393,9 +393,9 @@
 원정 po:noun
 월세 po:noun
 위치 po:noun
-의원 po:noun
+#의원 po:noun
 인물 po:noun
-인사 po:noun
+#인사 po:noun
 재테크 po:noun
 제조 po:noun
 제출 po:noun
@@ -492,7 +492,7 @@
 지정하다 po:verb
 지방자치 po:noun
 지수 po:noun
-지도자 po:noun
+#지도자 po:noun
 증축 po:noun
 중경상 po:noun
 중견업체 po:noun
@@ -500,7 +500,7 @@
 제대 po:noun
 전직 po:noun
 전재 po:noun
-전북 po:noun is:전라북도
+전북 po:noun orig:전라북도
 자존심 po:noun
 소감 po:noun
 소식 po:noun
@@ -509,7 +509,7 @@
 내용 po:noun
 농담 po:noun
 기능 po:noun
-공연 po:noun
+#공연 po:noun
 합의 po:noun
 평가 po:noun
 피해 po:noun

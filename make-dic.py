@@ -121,6 +121,8 @@ def print_entry((name,info)):
         po = info['po']
         if po == 'noun' or po == 'pronoun' or po == 'counter':
             flags.append(config.josa_flag)
+            if info.has_key('prop') and '가산명사' in info['prop'].split(','):
+                flags.append(config.countable_noun_flag)
         if po == 'digit':
             flags.append(config.digit_flag)
         if po == 'counter':
@@ -136,6 +138,9 @@ def print_entry((name,info)):
                     flags.append(flag)
                 elif '#형용사' in fi and po == 'adjective':
                     flags.append(flag)
+        if po == 'plural_suffix':
+            flags.append(config.josa_flag)
+            flags.append(config.plural_suffix_flag)
     else:
         sys.stderr.write('Warning: no info on "%s"\n' % name)
 

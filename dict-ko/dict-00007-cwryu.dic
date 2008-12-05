@@ -1,15 +1,21 @@
 # cwryu 2008/12/05
 # 임의 추가
 가결되다 po:verb
+가동률 po:noun
 가시화 po:noun
 가시화되다 po:verb
+가중되다 po:verb
+가중치 po:noun
 각본 po:noun
+각선미 po:noun
 각양각색 po:noun
 각축전 po:noun
 간암 po:noun
+간접흡연 po:noun
 간통 po:noun
 간통죄 po:noun
 갈매기 po:noun
+감독상 po:noun
 감량 po:noun
 감면 po:noun
 감시 po:noun
@@ -22,6 +28,7 @@
 강판 po:noun
 강행 po:noun
 개국 po:noun
+개발진 po:noun prop:가산명사
 개봉 po:noun
 개봉하다 po:verb
 개연성 po:noun
@@ -32,9 +39,12 @@
 객석 po:noun
 갱년기 po:noun
 거론되다 po:verb
+거북이 po:noun
+거수경례 po:noun
 거슬리다 po:verb
 거제도 po:noun
 건네받다 po:verb
+건설업 po:noun
 겉돌다 po:verb
 게시물 po:noun
 게임기 po:noun
@@ -45,17 +55,21 @@
 격투기 po:noun
 견인하다 po:verb
 견주다 po:verb
+결렬 po:noun
 결별하다 po:verb
 결승골 po:noun
+결승전 po:noun
 결장 po:noun
 결정권 po:noun
 결정적 po:noun
 결정전 po:noun
 결제 po:noun
 결제하다 po:verb
+결혼생활 po:noun
 경계선 po:noun
 경기력 po:noun
 경기부양책 po:noun
+경남 po:noun orig:경상남도
 경매 po:noun
 경범죄 po:noun
 경보 po:noun
@@ -66,16 +80,23 @@
 경영난 po:noun
 경영자 po:noun
 경영진 po:noun
+경유 po:noun
 경제성 po:noun
 경제성장률 po:noun
 경제위기 po:noun
 경제위축 po:noun
+경진대회 po:noun
+경합 po:noun
 계기 po:noun
+계량기 po:noun
 계산서 po:noun
 계열 po:noun
 계열회사 po:noun
 계절적 po:noun
 고강도 po:noun
+고드름 po:noun
+고령자 po:noun
+고무 po:noun
 고문 po:noun
 고물상 po:noun
 고발 po:noun
@@ -85,18 +106,27 @@
 고성 po:noun
 고성능 po:noun
 고소득 po:noun
+고소득층 po:noun
+고액체납자 po:noun
 고약하다 po:adjective
 고어 po:noun
+고용 po:noun
+고용불안 po:noun
+고위급 po:noun
 고철 po:noun
 고철값 po:noun
 고체 po:noun
 고해상도 po:noun
 고혈압 po:noun
 고효율 po:noun
+골다공증 po:noun
+골문 po:noun
 골반 po:noun
+골키퍼 po:noun
 곳간 po:noun
 공감 po:noun
 공개되다 po:verb
+공개방송 po:noun
 공개적 po:noun
 공격력 po:noun
 공격성공률 po:noun
@@ -105,6 +135,8 @@
 공교육 po:noun
 공국 po:noun
 공권력 po:noun
+공급자 po:noun
+공급하다 po:verb
 공단 po:noun
 공대 po:noun
 공동 po:noun
@@ -120,22 +152,27 @@
 공시 po:noun
 공식전 po:noun
 공약 po:noun
-공연 po:noun
+공유 po:noun
 공제 po:noun
 공지사항 po:noun
 공천 po:noun
 공판 po:noun
 공화국 po:noun
 공화당 po:noun
+과감하다 po:adjective
+과격하다 po:adjective
 과다 po:noun
 과다하다 po:adjective
 과세하다 po:verb
 과음 po:noun
+관건 po:noun
 관람불가 po:noun
 관왕 po:counter
 관용 po:noun
 관전하다 po:verb
+관통하다 po:verb
 광역시 po:noun
+괴담 po:noun
 괴이하다 po:adjective
 교민 po:noun
 교섭단체 po:noun
@@ -167,8 +204,10 @@
 근저당 po:noun
 근황 po:noun
 금리 po:noun
+금속 po:noun
 금자탑 po:noun
 금품 po:noun
+급속 po:noun
 급식 po:noun
 급증 po:noun
 기금 po:noun
@@ -181,23 +220,33 @@
 기억력 po:noun
 기장 po:noun
 기준금리 po:noun
+기증 po:noun
+기증하다 po:verb
 기체 po:noun
 기한 po:noun
 기후변화 po:noun
 길들이다 po:verb
 김치찌개 po:noun
+꺼리다 po:verb
+꼭꼭 po:adverb
+꽁꽁 po:adverb
+나돌다 po:verb
 나사 po:noun
 난동 po:noun
 난민 po:noun
 난입 po:noun
+남아공 po:noun
 남우조연상 po:noun
 남우주연상 po:noun
 남탕 po:noun
 남해 po:noun
 납부기한 po:noun
+납북자 po:noun
 내각 po:noun
 내륙지방 po:noun
+내수 po:noun
 내정되다 po:verb
+냉담 po:noun
 넘나들다 po:verb
 노골적 po:noun
 노림수 po:noun
@@ -206,26 +255,33 @@
 농수산물 po:noun
 농협 po:noun
 뇌물 po:noun
-뇌졸증 po:noun
+뇌졸중 po:noun
 뇌종양 po:noun
 누더기 po:noun
 누드 po:noun
 누적 po:noun
 누적되다 po:verb
+눈보라 po:noun
 눈송이 po:noun
+눈시울 po:noun
 눈썰매 po:noun
 뉴멕시코 po:noun from:New_Mexico
+늠름하다 po:adjective
 늦추다 po:verb
 늪 po:noun
 니퍼 po:noun from:nipper
 다국적 po:noun
 다리미 po:noun
+다이어리 po:noun from:diary
 다잡다 po:verb
+다채롭다 po:adjective
 단 po:counter # 태권도 1단
 단거리 po:noun
+단기 po:noun
 단말기 po:noun
 단어장 po:noun
 단원 po:noun
+단행본 po:noun
 달성 po:noun
 달성하다 po:verb
 달아오르다 po:verb
@@ -237,22 +293,28 @@
 당선자 po:noun
 당일 po:noun
 당좌거래 po:noun
+당직자 po:noun prop:가산명사
 당첨 po:noun
 당초 po:noun
 당황 po:noun
 닻 po:noun
+대공황 po:noun
 대기권 po:noun
 대담하다 po:adjective
 대상 po:noun
 대세 po:noun
-대의원 po:noun
+대의원 po:noun prop:가산명사
 대중성 po:noun
 대처 po:noun
 대출이자 po:noun
 대폭 po:noun
+대표이사 po:noun
 대형마트 po:noun
 댄서 po:noun from:dancer
+댄스 po:noun
+덜덜 po:adverb
 덩굴 po:noun
+도 po:counter # 체온 40도
 도메인 po:noun from:domain
 도모하다 po:verb
 도박 po:noun
@@ -263,6 +325,8 @@
 독도 po:noun
 독선 po:noun
 독점계약 po:noun
+돌파 po:noun
+돌파하다 po:verb
 동등하다 po:adjective
 동반 po:noun
 동원하다 po:verb
@@ -271,14 +335,22 @@
 둔갑 po:noun
 둔갑하다 po:verb
 둔화되다 po:verb
+뒤태 po:noun
 드라이버 po:noun from:driver
 드레스 po:noun
 드릴 po:noun from:drill
+들 po:plural_suffix # 접사
 들통 po:noun
 들통나다 po:verb
+듬뿍 po:adverb
+등교 po:noun
+등급 po:noun
+등급 po:noun
+등락률 po:noun
 등록번호 po:noun
 디렉터리 po:noun from:directory
-따위 po:noun is:의존명사
+따위 po:noun prop:의존명사
+땅값 po:noun
 똥 po:noun
 라이선스 po:noun from:license
 랭킹 po:noun from:ranking
@@ -291,9 +363,14 @@
 리스트 po:noun from:list
 릴리스 po:noun from:release
 릴리스하다 po:verb from:release
+마감 po:noun
+마감되다 po:verb
+마감하다 po:verb
 마녀 po:noun
+마법 po:noun
 마일 po:counter from:mile
 마찬가지 po:noun
+마케팅 po:noun
 막막하다 po:adjective
 만만찮다 po:adjective
 만성 po:noun
@@ -314,33 +391,50 @@
 메아리 po:noun
 멕시코 po:noun from:Mexico
 멤버 po:noun from:member
+면제 po:noun
 면허 po:noun
 멸종 po:noun
 명문 po:noun
 명백하다 po:adjective
 명복 po:noun
+명분 po:noun
+명예훼손 po:noun
+명의도용 po:noun
 명품 po:noun
+모바일 po:noun
+모슬렘 po:noun from:Moslem
+모질다 po:adjective
 목매다 po:verb
 목젖 po:noun
 목표물 po:noun
 목표치 po:noun
+몰리다 po:verb
 몰아주다 po:verb
+묘사 po:noun
+묘사하다 po:verb
 무관 po:noun
 무관하다 po:verb
+무더기 po:noun
 무소속 po:noun
 무용지물 po:noun
 무작정 po:noun
 문답 po:noun
+문방구 po:noun
 물량 po:noun
+물류 po:noun
+물류창고 po:noun
 물리다 po:verb
 물리적 po:noun
 물증 po:noun
 물품 po:noun
+미공개 po:noun
 미국산 po:noun
 미국인 po:noun
+미국행 po:noun
 미끼 po:noun
 미녀 po:noun
 미미하다 po:adjective
+민간단체 po:noun prop:가산명사
 민망하다 po:adjective
 민사 po:noun
 민생 po:noun
@@ -369,10 +463,15 @@
 발행하다 po:verb
 발효 po:noun
 발효하다 po:verb
+발휘 po:noun
+방문객 po:noun
+방미 po:noun
+방북 po:noun
 방송사고 po:noun
 방치하다 po:verb
 방침 po:noun
 방침 po:noun
+배 po:counter # 2배 많음
 배달원 po:noun
 배당 po:noun
 배상 po:noun
@@ -380,6 +479,7 @@
 배양 po:noun
 배양하다 po:verb
 배임 po:noun
+배포 po:noun
 배포판 po:noun
 백악관 po:noun
 백조 po:noun
@@ -387,12 +487,14 @@
 밴드 po:noun
 번쩍 po:adverb
 법인세 po:noun
+법학 po:noun
 벗어나다 po:verb
 베드신 po:noun from:bed_scene
 베이스 po:noun from:base
 베팅 po:noun from:betting
 벼랑 po:noun
 변경하다 po:verb
+변수 po:noun
 변형 po:noun
 변환 po:noun
 별관 po:noun
@@ -400,8 +502,10 @@
 병 po:counter # 음료수 1병
 병신 po:noun
 병원장 po:noun
+병장 po:noun
 보강 po:noun
 보강하다 po:verb
+보건 po:noun
 보드 po:noun from:board
 보상금 po:noun
 보수단체 po:noun
@@ -410,14 +514,17 @@
 보증 po:noun
 보험료 po:noun
 보험사 po:noun
+복지 po:noun
 본관 po:noun
 봇물 po:noun
 봉합 po:noun
 봉합하다 po:verb
 부 po:counter # 드라마 1부
+부글부글 po:adverb
 부대찌개 po:noun
 부르트다 po:verb
 부양책 po:noun
+부여하다 po:verb
 부적합 po:noun
 부적합하다 po:adjective
 부정부패 po:noun
@@ -440,13 +547,16 @@
 불균형 po:noun
 불분명 po:noun
 불씨 po:noun
+불임 po:noun
 불장난 po:noun
 불참하다 po:verb
 불청객 po:noun
 불통 po:noun
+불투명 po:noun
 브레이크 po:noun from:brake
 비결 po:noun
 비꼬다 po:verb
+비방 po:noun
 비법 po:noun
 비영리단체 po:noun
 비자금 po:noun
@@ -455,37 +565,62 @@
 빈곤 po:noun
 빗장 po:noun
 빨래터 po:noun
+뻔뻔스럽다 po:adjective
+뻗치다 po:verb
+사극 po:noun
 사령탑 po:noun
 사무총장 po:noun
 사실관계 po:noun
 사양하다 po:verb
+사업비 po:noun
+사업체 po:noun
+사의 po:noun
 사임 po:noun
+사적 po:noun
+사절 po:noun
 사직 po:noun
 사직서 po:noun
 사행성 po:noun
 삭제되다 po:verb
 산업적 po:noun
+산타 po:noun from:Santa
+삼림 po:noun
+상병 po:noun
+상습 po:noun
 상습적 po:noun
 상승하다 po:verb
+상실 po:noun
 상용 po:noun
-상임위 po:noun is:상임위원회
+상임고문 po:noun
+상임위 po:noun orig:상임위원회
+상팔자 po:noun
+상행선 po:noun
+상향 po:noun
+새빨갛다 po:adjective
 새터민 po:noun
 색인 po:noun
 생계 po:noun
+생명보험 po:noun
 생산라인 po:noun
 생생하다 po:adjective
 생성 po:noun
 생성하다 po:verb
 생애 po:noun
+생태계 po:noun
 샤워하다 po:verb from:shower
 서랍장 po:noun
 서버 po:noun from:server
+서비스업 po:noun
+서식 po:noun
 서열 po:noun
 서울시 po:noun
 서울특별시 po:noun
 서커스 po:noun from:circus
 서커스단 po:noun
 서해 po:noun
+석유화학 po:noun
+선거법 po:noun
+선관위 po:noun
 선글라스 po:noun from:sunglass
 선두 po:noun
 선발 po:noun
@@ -504,11 +639,13 @@
 설립되다 po:verb
 설립하다 po:verb
 설명문 po:noun
+설명회 po:noun
 설정 po:noun
 섬유 po:noun
 섭외 po:noun
 성공률 po:noun
 성과급 po:noun
+성과물 po:noun
 성관계 po:noun
 성금 po:noun
 성기 po:noun
@@ -518,15 +655,23 @@
 성인병 po:noun
 성장동력 po:noun
 성형외과 po:noun
+세계인 po:noun prop:가산명사
+세면대 po:noun
 세법 po:noun
 세율 po:noun
 셔츠 po:noun from:shirt
+소곤소곤 po:adverb
 소득세 po:noun
+소매업체 po:noun prop:가산명사
 소명 po:noun
+소방관 po:noun prop:가산명사
 소상공인 po:noun
 소식통 po:noun
+소액 po:noun
 소유권 po:noun
 소장 po:noun
+소총 po:noun
+소통 po:noun
 소프라노 po:noun from:soprano
 소화되다 po:verb
 소환 po:noun
@@ -534,58 +679,84 @@
 속도위반 po:noun
 손가락질 po:noun
 손가락질하다 po:verb
+손난로 po:noun
 손주 po:noun
 수감 po:noun
+수감되다 po:verb
 수갑 po:noun
 수납 po:noun
+수당 po:noun
 수도관 po:noun
 수령 po:noun
 수령자 po:noun
 수산물 po:noun
+수상자 po:noun
+수상작 po:noun
+수상하다 po:verb
+수석합격 po:noun
+수순 po:noun
 수술하다 po:verb
 수습 po:noun
 수습기간 po:noun
+수용하다 po:verb
+수위 po:noun
 수의학 po:noun
 수익률 po:noun
 수입산 po:noun
+수족관 po:noun
 수집가 po:noun
 수출입 po:noun
 수칙 po:noun
+숙박 po:noun
 숙박업 po:noun
 순리 po:noun
 순매도 po:noun
 순매수 po:noun
+순번 po:noun
 순화 po:noun
 술김 po:noun
 스캔들 po:noun from:scandal
+스펀지 po:noun from:sponge
 습격 po:noun
 승 po:counter # 경기 1승 1패
 승률 po:noun
 시급 po:noun
 시급하다 po:adjective
+시승 po:noun
 시연 po:noun
+시행 po:noun
+시행되다 po:verb
+시행령 po:noun
+시행하다 po:verb
 시황 po:noun
 신경외과 po:noun
 신병 po:noun
 신설하다 po:verb
 신조어 po:noun
+신체검사 po:noun
 신호탄 po:noun
 신혼 po:noun
 실리콘 po:noun from:silicon
 실망스럽다 po:verb
+실명 po:noun
 실사 po:noun
 실사하다 po:verb
+실세 po:noun prop:가산명사
 실속 po:noun
 실업률 po:noun
 실탄 po:noun
 실형 po:noun
+심사하다 po:verb
 심화 po:noun
+싹쓸이 po:noun
+싹쓸이하다 po:verb
 쐬다 po:verb
 아동 po:noun
 아몬드 po:noun
 악단 po:noun
 악영향 po:noun
 악화 po:noun
+안보 po:noun
 안전장치 po:noun
 알선 po:noun
 암기 po:noun
@@ -595,9 +766,11 @@
 압박감 po:noun
 압박하다 po:verb
 앞당기다 po:verb
+애꾸눈 po:noun
 액셀러레이터 po:noun from:accelerator
 액체 po:noun
 약관 po:noun
+약체 po:noun
 양도세 po:noun
 양해 po:noun
 어미 po:noun
@@ -613,13 +786,18 @@
 업그레이드 po:noun
 업그레이드하다 po:verb
 에이즈 po:noun from:AIDS
+여신 po:noun
 여탕 po:noun
 여태 po:adverb
 여태껏 po:adverb
+여행객 po:noun prop:가산명사
 역세권 po:noun
+역추적 po:noun
 연관되다 po:verb
 연구팀 po:noun
 연금 po:noun
+연료비 po:noun
+연말연시 po:noun
 연말정산 po:noun
 연못 po:noun
 연쇄살인범 po:noun
@@ -638,6 +816,7 @@
 영업이익 po:noun
 영영사전 po:noun
 영장 po:noun
+영화사 po:noun
 옛말 po:noun
 오디오 po:noun
 오류 po:noun
@@ -655,6 +834,7 @@
 옵션 po:noun from:option
 외래어 po:noun
 용역 po:noun
+우량주 po:noun
 우여곡절 po:noun
 우울증 po:noun
 우위 po:noun
@@ -664,16 +844,24 @@
 운영되다 po:verb
 운영체제 po:noun
 운영하다 po:verb
+원리 po:noun
+원유 po:noun
 위반자 po:noun
 위스키 po:noun
 위암 po:noun
+위자료 po:noun
+윙크 po:noun from:wink
+유권자 po:noun prop:가산명사
 유로 po:noun from:Euro
 유방암 po:noun
 유성 po:noun
 유성우 po:noun
 유전자 po:noun
+유통업체 po:noun prop:가산명사
 유행어 po:noun
 육개장 po:noun
+육성 po:noun
+육성하다 po:verb
 은행장 po:noun
 응급실 po:noun
 응시자 po:noun
@@ -683,6 +871,7 @@
 의문문 po:noun
 이기적 po:noun
 이방인 po:noun
+이병 po:noun
 이비인후과 po:noun
 이상야릇하다 po:adjective
 이슈 po:noun from:issue
@@ -693,31 +882,41 @@
 인공위성 po:noun
 인두 po:noun
 인수인계 po:noun
+인용하다 po:verb
+일병 po:noun
 일본어사전 po:noun
 일선 po:noun
 일지 po:noun
 임의 po:noun
 임직원 po:noun
 입력기 po:noun
+입안자 po:noun prop:가산명사
 입양 po:noun
 잉글랜드 po:noun from:England
+자 po:counter # 1000자 이내
 작업장 po:noun
 작업하다 po:verb
 잔재 po:noun
+잠정 po:noun
 장거리 po:noun
+장기 po:noun
 재계약 po:noun
+재학생 po:noun prop:가산명사
 저물다 po:verb
 저혈압 po:noun
 적신호 po:noun
 적자 po:noun
 적히다 po:verb
-전교조 po:noun is:전국교직원노동조합
+전교조 po:noun orig:전국교직원노동조합
 전두엽 po:noun
 전술 po:noun
 전용도로 po:noun
+전재산 po:noun
 전적 po:noun
 접근성 po:noun
+접속자 po:noun prop:가산명사
 정규직 po:noun
+정보기관 po:noun prop:가산명사
 정보통신 po:noun
 정형외과 po:noun
 정화 po:noun
@@ -755,6 +954,9 @@
 중도금 po:noun
 중상 po:noun
 중심적 po:noun
+중재안 po:noun
+중징계 po:noun
+중화학 po:noun
 즉위 po:noun
 증거물 po:noun
 증명 po:noun
@@ -781,21 +983,27 @@
 질환 po:noun
 집권 po:noun
 집집 po:noun
+집행 po:noun
+집행하다 po:verb
 짓궂다 po:adjective
 징계 po:noun
 징역 po:noun
 짝꿍 po:noun
 차량용 po:noun
 차세대 po:noun
+차익 po:noun
 착안하다 po:verb
 찬성표 po:noun
 찬송가 po:noun
 참고서 po:noun
+참사 po:noun
 창립 po:noun
 창법 po:noun
 창의성 po:noun
 채권단 po:noun
+채권자 po:noun
 채무 po:noun
+채무자 po:noun
 채용하다 po:verb
 채팅 po:noun from:chatting
 채팅하다 po:verb
@@ -814,26 +1022,37 @@
 체감 po:noun
 체감온도 po:noun
 체감하다 po:verb
+체결 po:noun
+체급 po:noun
 체하다 po:verb
 첼로 po:noun from:cello
 초고속 po:noun
 초고층 po:noun
 초유 po:noun
+총력 po:noun
+총선 po:noun
+최소화하다 po:verb
+최우수 po:noun
+추가적 po:noun
 추격 po:noun
 추격자 po:noun
 추격하다 po:verb
+추돌 po:noun
 추정 po:noun
 추정되다 po:verb
 추태 po:noun
 출산하다 po:verb
-충남 po:noun is:충청남도
-충북 po:noun is:충청북도
+출신자 po:noun
+충남 po:noun orig:충청남도
+충북 po:noun orig:충청북도
+충성 po:noun
 충청남도 po:noun
 충청도 po:noun
 충청북도 po:noun
 취급 po:noun
 측정 po:noun
 측정하다 po:verb
+층 po:counter # 건물 2층
 치명상 po:noun
 치명타 po:noun
 친어머니 po:noun
@@ -860,6 +1079,8 @@
 탱크 po:noun from:tank
 턱수염 po:noun
 테너 po:noun from:tenor
+테러리스트 po:noun prop:가산명사
+테러범 po:noun prop:가산명사
 통 po:counter # 편지 1통
 통산 po:noun
 통제되다 po:verb
@@ -872,14 +1093,17 @@
 투자유치 po:noun
 투자자 po:noun
 트로피 po:noun from:trophy
+특사 po:noun
 특정 po:noun
 파격적 po:noun
 파악 po:noun
+파업 po:noun
 판돈 po:noun
 패 po:counter # 경기 1패
 패널 po:noun from:panel
 패션업계 po:noun
 패턴 po:noun
+펑펑 po:adverb
 페루 po:noun from:Peru
 페이지 po:counter from:page
 편 po:noun
@@ -893,7 +1117,11 @@
 포착되다 po:verb
 폭력배 po:noun
 폭발하다 po:verb
+폭설 po:noun
 표기 po:noun
+표명 po:noun
+표명하다 po:verb
+표적 po:noun
 표준말 po:noun
 표준어 po:noun
 표현력 po:noun
@@ -905,20 +1133,30 @@
 핏줄 po:noun
 하루하루 po:noun
 하소연 po:noun
+하행선 po:noun
+하향 po:noun
+학년 po:counter # 초등학교 6학년
+학년도 po:counter # 2008학년도 신입생
 학문 po:noun
 학회 po:noun
+한국판 po:noun
+할인점 po:noun
 함정 po:noun
+합격자 po:noun prop:가산명사
 합격점 po:noun
 합계 po:noun
+합동 po:noun
 합산하다 po:verb
 합의되다 po:verb
 합의하다 po:verb
+항공권 po:noun
 항문 po:noun
 해독 po:noun
 해독하다 po:verb
 해명하다 po:verb
 해몽 po:noun
 해병대 po:noun
+해부학 po:noun
 해상도 po:noun
 해석되다 po:verb
 해설자 po:noun
@@ -926,11 +1164,13 @@
 해초 po:noun
 해충 po:noun
 해치우다 po:verb
+해킹 po:noun from:hacking
 핵폐기물 po:noun
 핵폭발 po:noun
 핸드볼 po:noun
 핸들 po:noun from:handle
 행군 po:noun
+행복감 po:noun
 행사하다 po:verb
 행정부 po:noun
 향후 po:noun
@@ -939,6 +1179,7 @@
 헌법 po:noun
 헝겊 po:noun
 혈관 po:noun
+혈세 po:noun
 혜성 po:noun
 호객 po:noun
 호두 po:noun
@@ -957,9 +1198,11 @@
 화폐 po:noun
 환급 po:noun
 환급금 po:noun
+환란 po:noun
 환상 po:noun
 환상적 po:noun
 환영받다 po:verb
+환희 po:noun
 활성화 po:noun
 활약 po:noun
 활약하다 po:verb
@@ -973,6 +1216,7 @@
 횡령 po:noun
 효모 po:noun
 후보자 po:noun
+후보작 po:noun
 후세 po:noun
 후손 po:noun
 후송 po:noun
@@ -982,7 +1226,9 @@
 후폭풍 po:noun
 훈련소 po:noun
 훈민정음 po:noun
+훈장 po:noun
 훈훈하다 po:adjective
+휘발유 po:noun
 휘청 po:noun
 휘청하다 po:verb
 휘파람 po:noun
@@ -991,6 +1237,8 @@
 휴대형 po:noun
 흑자 po:noun
 흥행 po:noun
+흥행성 po:noun
+흥행작 po:noun
 흥행하다 po:verb
 희로애락 po:noun
 힘세다 po:adjective
