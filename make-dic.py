@@ -44,7 +44,7 @@ for filename in filenames:
     lines += open(filename).readlines()
 
 # comment out
-lines = [line for line in lines if line[0] != '#']
+lines = [line.split('#', 1)[0] for line in lines]
 
 # remove whitespaces
 lines = [line.strip() for line in lines]
