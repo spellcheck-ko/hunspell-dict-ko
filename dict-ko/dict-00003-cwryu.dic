@@ -1,14 +1,15 @@
 # cwryu 2008/11/24
 # 임의 추가
-1월 po:noun
-2월 po:noun
-3월 po:noun
-4월 po:noun
-5월 po:noun
-6월 po:noun
-7월 po:noun
-8월 po:noun
-9월 po:noun
-10월 po:noun
-11월 po:noun
-12월 po:noun
+#
+# 2008/12/05 "숫자+단위"에 대한 규칙으로 변경
+0 po:digit
+1 po:digit
+2 po:digit
+3 po:digit
+4 po:digit
+5 po:digit
+6 po:digit
+7 po:digit
+8 po:digit
+9 po:digit
+월 po:counter

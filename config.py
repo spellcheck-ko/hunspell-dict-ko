@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 version = '0.1.2'
 header = '''\
 # This is the affix file of the Korean hunspell dictionary
@@ -22,5 +23,7 @@ header = '''\
 '''
 
 ## FLAG management
-josa_flag = 1
-endings_flag_start = 1000
+josa_flag = 1                   # 조사
+digit_flag = 2                  # 아라비아숫자
+counter_flag = 3                # 숫자와 붙여 쓸 수 있는 의존명사
+endings_flag_start = 1000       # 어미

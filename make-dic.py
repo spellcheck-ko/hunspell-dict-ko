@@ -99,7 +99,7 @@ def remove_duplicates(data):
                     sys.stderr.write('Warning: 삭제 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
                     del data[i+1]
                 else:
-                    sys.stderr.write('Warning: 유지 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
+                    #sys.stderr.write('Warning: 유지 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
                     i+=1
             else:
                 i+=1
@@ -119,8 +119,12 @@ def print_entry((name,info)):
     flags = []
     if info.has_key('po'):
         po = info['po']
-        if po == 'noun' or po == 'pronoun':
+        if po == 'noun' or po == 'pronoun' or po == 'counter':
             flags.append(config.josa_flag)
+        if po == 'digit':
+            flags.append(config.digit_flag)
+        if po == 'counter':
+            flags.append(config.counter_flag)
         if po == 'verb' or po == 'adjective': # temporary
             for flag in flaginfo.keys():
                 fi = flaginfo[flag]
@@ -132,11 +136,12 @@ def print_entry((name,info)):
                     flags.append(flag)
                 elif '#형용사' in fi and po == 'adjective':
                     flags.append(flag)
+    else:
+        sys.stderr.write('Warning: no info on "%s"\n' % name)
 
     if len(flags) > 0:
         out('%s/%s\n' % (nfd(name), ','.join(map(str, flags))))
     else:
-        sys.stderr.write('Warning: no flags on "%s"\n' % name)
         out('%s\n' % nfd(name))
 
 map(print_entry, data)

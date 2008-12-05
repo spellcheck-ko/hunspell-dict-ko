@@ -68,7 +68,7 @@
 가족 po:noun
 가죽 po:noun
 가지 po:noun
-#가지	의
+가지 po:counter
 가지다 po:verb
 #가지다	보
 가짜 po:noun
@@ -85,7 +85,6 @@
 각자 po:noun
 각자 po:adverb
 각종 po:noun
-간 po:noun
 간 po:noun
 #간	의
 간격 po:noun
@@ -176,10 +175,10 @@
 같이하다 po:verb
 갚다 po:verb
 개 po:noun
-#개	의
+개 po:counter
 개개인 po:noun
 개구리 po:noun
-#개국	의
+개국 po:counter
 개나리 po:noun
 개다 po:verb
 개미 po:noun
@@ -193,7 +192,7 @@
 개선되다 po:verb
 개선하다 po:verb
 개성 po:noun
-#개월	의
+개월 po:counter
 개인 po:noun
 개인적 po:noun
 객관적 po:noun
@@ -506,7 +505,7 @@
 교복 po:noun
 교사 po:noun
 교수 po:noun
-#교시	의
+교시 po:counter
 교실 po:noun
 교양 po:noun
 교외 po:noun
@@ -583,7 +582,7 @@
 군 po:noun
 군 po:noun
 군대 po:noun
-#군데	의
+군데 po:counter
 군사 po:noun
 군사 po:noun
 군인 po:noun
@@ -646,7 +645,7 @@
 #그래서	불
 #그래야	불
 그래픽 po:noun
-#그램	의
+그램 po:counter
 그러나 po:adverb
 그러니까 po:adverb
 그러다 po:verb
@@ -664,7 +663,7 @@
 그렇지 po:interjection
 그렇지만 po:adverb
 그려지다 po:verb
-#그루	의
+그루 po:counter
 그룹 po:noun
 그릇 po:noun
 그리 po:adverb
@@ -1067,10 +1066,10 @@
 넷째 po:determiner
 #넷째	수
 #녀석	의
-#년	의
-#년대	의
-#년도	의
-#년생	의
+년 po:counter
+년대 po:counter
+년도 po:counter
+년생 po:counter
 노동 po:noun
 노동자 po:noun
 노란색 po:noun
@@ -1227,7 +1226,7 @@
 닫다 po:verb
 닫히다 po:verb
 달 po:noun
-#달	의
+달 po:counter
 달걀 po:noun
 달다 po:verb
 달다 po:verb
@@ -1237,7 +1236,7 @@
 달라지다 po:verb
 달래다 po:verb
 달러 po:noun
-#달러	의
+달러 po:counter
 달려가다 po:verb
 달려들다 po:verb
 달려오다 po:verb
@@ -1280,7 +1279,7 @@
 당하다 po:verb
 당황하다 po:verb
 닿다 po:verb
-#대	의
+대 po:counter
 대 po:noun
 #대	의
 #대	의
@@ -1545,7 +1544,7 @@
 #듯이	의
 #듯하다	보
 등 po:noun
-#등	의
+등 po:counter
 #등	의
 #등등	의
 등록 po:noun
@@ -1663,7 +1662,7 @@
 #리	의
 리그 po:noun
 리듬 po:noun
-#리터	의
+리터 po:counter
 마구 po:adverb
 마누라 po:noun
 마늘 po:noun
@@ -1678,7 +1677,7 @@
 마련하다 po:verb
 마루 po:noun
 마르다 po:verb
-#마리	의
+마리 po:counter
 마무리 po:noun
 마사지 po:noun
 마시다 po:verb
@@ -1836,7 +1835,7 @@
 면접 po:noun
 면하다 po:verb
 멸치 po:noun
-#명	의
+명 po:counter
 명단 po:noun
 명령 po:noun
 명령어 po:noun
@@ -2017,7 +2016,7 @@
 미처 po:adverb
 미치다 po:verb
 미치다 po:verb
-#미터	의
+미터 po:counter from:meter
 미팅 po:noun
 미혼 po:noun
 민간 po:noun
@@ -2032,7 +2031,7 @@
 밀가루 po:noun
 밀다 po:verb
 밀리다 po:verb
-#밀리미터	의
+밀리미터 po:counter from:millimeter
 밀접하다 po:adjective
 밉다 po:adjective
 및 po:adverb
@@ -2071,7 +2070,7 @@
 바지 po:noun
 바치다 po:verb
 바퀴 po:noun
-#바퀴	의
+바퀴 po:counter
 바탕 po:noun
 #박	의
 박다 po:verb
@@ -2220,15 +2219,15 @@
 버터 po:noun
 버튼 po:noun
 버티다 po:verb
-#번	의
+번 po:counter
 번개 po:noun
 번거롭다 po:adjective
 번역 po:noun
 번역하다 po:verb
-번지 po:noun
-#번째	의
+번지 po:counter
+번째 po:counter
 번호 po:noun
-#벌	의
+벌 po:counter
 벌 po:noun
 벌 po:noun
 벌금 po:noun
@@ -2414,7 +2413,7 @@
 북부 po:noun
 북쪽 po:noun
 북한 po:noun
-#분	의
+분 po:counter
 #분	의
 분노 po:noun
 분량 po:noun
@@ -2639,7 +2638,7 @@
 산업 po:noun
 산책 po:noun
 살 po:noun
-#살	의
+살 po:counter
 살다 po:verb
 살리다 po:verb
 살림 po:noun
@@ -2838,7 +2837,7 @@
 성질 po:noun
 성함 po:noun
 세 po:determiner
-#세	의
+세 po:counter
 #세	의
 세계 po:noun
 세계관 po:noun
@@ -2865,7 +2864,7 @@
 세트 po:noun
 섹시하다 po:adjective
 센터 po:noun
-#센티미터	의
+센티미터 po:counter from:centimeter
 #셈	의
 #셋	수
 셋째 po:determiner
@@ -3081,11 +3080,11 @@
 승용차 po:noun
 승진 po:noun
 시 po:noun
-#시	의
+시 po:counter
 시 po:noun
 시각 po:noun
-시각 po:noun
-#시간	의
+#시각 po:noun
+시간 po:counter
 시간 po:noun
 시계 po:noun
 시골 po:noun
@@ -3582,7 +3581,7 @@
 에 po:interjection
 에너지 po:noun
 에어컨 po:noun
-#엔	의
+엔 po:counter from:Yen
 엔진 po:noun
 엘리베이터 po:noun
 여 po:noun
@@ -3940,7 +3939,7 @@
 웃음 po:noun
 웃음소리 po:noun
 워낙 po:adverb
-#원	의
+원 po:counter
 원 po:interjection
 원 po:noun
 원고 po:noun
@@ -3951,7 +3950,7 @@
 원장 po:noun
 원피스 po:noun
 원하다 po:verb
-#월	의
+월 po:counter
 월급 po:noun
 월드컵 po:noun
 월세 po:noun
@@ -3961,7 +3960,7 @@
 웬만하다 po:adjective
 웬일 po:noun
 위 po:noun
-#위	의
+위 po:counter
 위 po:noun
 위기 po:noun
 위대하다 po:adjective
@@ -4190,7 +4189,7 @@
 인도 po:noun
 인류 po:noun
 인물 po:noun
-#인분	의
+인분 po:counter
 인사 po:noun
 인사 po:noun
 인사 po:noun
@@ -4224,7 +4223,7 @@
 인형 po:noun
 일 po:noun
 #일	수
-#일	의
+일 po:counter
 #일곱	수
 일기 po:noun
 일기 po:noun
@@ -4414,7 +4413,7 @@
 잡아먹다 po:verb
 잡지 po:noun
 잡히다 po:verb
-#장	의
+장 po:counter
 장 po:noun
 장가 po:noun
 장갑 po:noun
@@ -4589,7 +4588,7 @@
 젊다 po:adjective
 젊은이 po:noun
 젊음 po:noun
-#점	의
+점 po:counter
 점 po:noun
 점검 po:noun
 점수 po:noun
@@ -4760,12 +4759,12 @@
 죄송하다 po:adjective
 죄인 po:noun
 주 po:determiner
-#주	의
+주 po:counter
 주 po:noun
 주거 po:noun
 주고받다 po:verb
 주관적 po:noun
-#주년	의
+주년 po:counter
 #주다	보
 주다 po:verb
 주로 po:adverb
@@ -4794,7 +4793,7 @@
 주의하다 po:verb
 주인 po:noun
 주인공 po:noun
-#주일	의
+주일 po:counter
 주장 po:noun
 주장하다 po:verb
 주저앉다 po:verb
@@ -5013,7 +5012,7 @@
 짧아지다 po:verb
 쩔쩔매다 po:verb
 쪽 po:noun
-#쪽	의
+쪽 po:counter
 #쪽	의
 쫓겨나다 po:verb
 쫓기다 po:verb
@@ -5028,10 +5027,10 @@
 찍히다 po:verb
 찢다 po:verb
 찢어지다 po:verb
-#차	의
+차 po:counter
 차 po:noun
-차 po:noun
-차 po:noun
+#차 po:noun
+#차 po:noun
 차갑다 po:adjective
 차남 po:noun
 차다 po:verb
@@ -5093,7 +5092,7 @@
 찾아다니다 po:verb
 찾아보다 po:verb
 찾아오다 po:verb
-#채	의
+채 po:counter
 #채	의
 채 po:adverb
 채널 po:noun
@@ -5115,7 +5114,7 @@
 처벌 po:noun
 처음 po:noun
 처지 po:noun
-#척	의
+척 po:counter
 #척	의
 #척하다	보
 천 po:noun
@@ -5158,7 +5157,7 @@
 체험 po:noun
 체험하다 po:verb
 쳐다보다 po:verb
-#초	의
+초 po:counter
 #초	의
 초기 po:noun
 초대 po:noun
@@ -5360,9 +5359,9 @@
 키 po:noun
 키스 po:noun
 키우다 po:verb
-#킬로	의
-#킬로그램	의
-#킬로미터	의
+킬로 po:counter
+킬로그램 po:counter
+킬로미터 po:counter
 타고나다 po:verb
 타다 po:verb
 타다 po:verb
@@ -5419,7 +5418,7 @@
 토마토 po:noun
 토요일 po:noun
 토하다 po:verb
-#톤	의
+톤 po:counter
 통 po:noun
 #통	의
 통계 po:noun
@@ -5486,9 +5485,9 @@
 파출소 po:noun
 파티 po:noun
 판 po:noun
-#판	의
-판 po:noun
-판 po:noun
+판 po:counter
+#판 po:noun
+#판 po:noun
 판결 po:noun
 판단 po:noun
 판단하다 po:verb
@@ -5510,13 +5509,13 @@
 팬 po:noun
 팬 po:noun
 팬티 po:noun
-#퍼센트	의
+퍼센트 po:counter
 퍼지다 po:verb
 퍽 po:adverb
 페인트 po:noun
 펴내다 po:verb
 펴다 po:verb
-#편	의
+편 po:counter
 #편	의
 #편	의
 편견 po:noun
@@ -5528,7 +5527,7 @@
 편하다 po:adjective
 편히 po:adverb
 펼쳐지다 po:verb
-#평	의
+평 po:counter
 평 po:noun
 평가 po:noun
 평가되다 po:verb
@@ -5729,7 +5728,7 @@
 항의 po:noun
 #해	의
 해 po:noun
-해 po:noun
+#해 po:noun
 해결 po:noun
 해결되다 po:verb
 해결하다 po:verb
@@ -5822,12 +5821,12 @@
 형태 po:noun
 형편 po:noun
 혜택 po:noun
-#호	의
+호 po:counter
 호기심 po:noun
 호남 po:noun
 호랑이 po:noun
 호박 po:noun
-#호선	의
+호선 po:counter
 호수 po:noun
 호실 po:noun
 호주 po:noun
@@ -5891,7 +5890,7 @@
 활용 po:noun
 활용하다 po:verb
 활짝 po:adverb
-#회	의
+회 po:counter
 회견 po:noun
 회관 po:noun
 회복 po:noun

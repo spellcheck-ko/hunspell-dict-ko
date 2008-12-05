@@ -77,6 +77,7 @@ for k in range(0xac00, 0xd7a3 + 1):
 ## KEY - 두벌식 키보드 배치
 
 
+cond_all = '.'
 # 모음
 cond_vowel = '[%s]' % all_vowel
 # 받침
@@ -85,6 +86,17 @@ cond_trailing = '[%s]' % all_trailing
 cond_vowel_r = '[%s]' % (all_vowel + u'\u11af')
 # ㄹ 제외한 받침
 cond_trailing_r = '[%s]' % all_trailing.replace(u'\u11af', '')
+
+## 숫자+단위
+
+from config import digit_flag
+from config import counter_flag
+
+out('COMPOUNDMIN 1\n')
+out('ONLYINCOMPOUND %d\n' % counter_flag)
+out('COMPOUNDRULE 1\n')
+out('COMPOUNDRULE (%d)*(%d)(%d)\n' % (digit_flag, digit_flag, counter_flag))
+
 
 ## 어미
 
@@ -107,7 +119,7 @@ endings = [
       'after': ['#동사', '있다', '없다', '계시다', '-으시-', '-겠-'],
     },
     ## '-(으)시-'
-    # TODO: 계시다 + -시- 금지
+    # TODO: 계시다,모시다 + -시- 금지
     # TODO: 불규칙
     { 'id': 2,
       'name': '-시-', 'cond': cond_vowel,
@@ -628,6 +640,8 @@ josas = [('이', cond_trailing),
          ('엔', '.'),           # '에는' 준말
          ('이라도', cond_trailing),
          ('라도', cond_trailing),
+         ('밖에', '.'),
+         ('하고', '.'),         # 구어체
          ]
 
 # 주격조사 활용 조사에 덧붙이기
