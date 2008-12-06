@@ -1,6 +1,6 @@
 # cwryu 2008/12/03
 # 임의 추가
-가게 po:noun
+#가게 po:noun
 가결 po:noun
 가계 po:noun
 가급적 po:noun
@@ -58,7 +58,7 @@
 감안하다 po:verb
 감원 po:noun
 감원하다 po:verb
-감자 po:noun
+#감자 po:noun
 감정 po:noun
 감정적 po:noun
 감추다 po:verb
@@ -66,7 +66,7 @@
 갑론을박 po:noun
 갑자기 po:noun
 값 po:noun
-강 po:noun
+#강 po:noun
 강경투쟁 po:noun
 강경하다 po:adjective
 강남 po:noun
@@ -109,26 +109,26 @@
 거절 po:noun
 거절하다 po:verb
 거치다 po:verb
-걱정 po:noun
+#걱정 po:noun
 걱정하다 po:verb
 건강보험 po:noun
 건강식 po:noun
 건너다 po:verb
 건드리다 po:verb
-건물 po:noun
+#건물 po:noun
 건반 po:noun
 건설업체 po:noun
 건의 po:noun
 건전지 po:noun
 걸다 po:verb
 검다 po:adjective
-검사 po:noun
+#검사 po:noun
 검색 po:noun
 검토 po:noun
 검토 po:noun
 검토하다 po:verb
 게르만족 po:noun
-게시판 po:noun
+#게시판 po:noun
 게임 po:noun
 겨우 po:adverb
 겨울 po:noun
@@ -149,7 +149,7 @@
 결합 po:noun
 결합시키다 po:verb
 결합하다 po:verb
-결혼 po:noun
+#결혼 po:noun
 결혼하다 po:verb
 겹모음 po:noun
 겹자음 po:noun
@@ -157,12 +157,12 @@
 경고 po:noun
 경고하다 po:verb
 경과 po:noun
-경기 po:noun
+#경기 po:noun
 경기도 po:noun
 경기둔화 po:noun
 경기부양 po:noun
 경기불황 po:noun
-경기장 po:noun
+#경기장 po:noun
 경기활성화 po:noun
 경력 po:noun
 경비 po:noun
@@ -171,22 +171,22 @@
 경작 po:noun
 경쟁력 po:noun
 경쟁사 po:noun
-경제력 po:noun
+#경제력 po:noun
 경제용어 po:noun
 경제학 po:noun
 경제학자 po:noun
-경찰 po:noun
+#경찰 po:noun
 경품 po:noun
 경향 po:noun
 계급 po:noun
-계산기 po:noun
+#계산기 po:noun
 계속되다 po:verb
 계속하다 po:verb
 계시다 po:verb
-계약 po:noun
+#계약 po:noun
 계정 po:noun
 계통 po:noun
-계획 po:noun
+#계획 po:noun
 고가 po:noun
 고교생 po:noun
 고급 po:noun
@@ -213,7 +213,7 @@
 고수 po:noun
 고시원 po:noun
 고심 po:noun
-고양이 po:noun
+#고양이 po:noun
 고용량 po:noun
 고원 po:noun
 고위 po:noun
@@ -239,34 +239,34 @@
 공채 po:noun
 공포 po:noun
 공학 po:noun
-공항 po:noun
-과거 po:noun
+#공항 po:noun
+#과거 po:noun
 과도하다 po:adjective
 과로 po:noun
 과부하 po:noun
 과세 po:noun
 과속 po:noun
-과일 po:noun
-과정 po:noun
-과학자 po:noun
+#과일 po:noun
+#과정 po:noun
+#과학자 po:noun
 #관광객 po:noun
 관용구 po:noun
 관점 po:noun
-광장 po:noun
-교과서 po:noun
+#광장 po:noun
+#교과서 po:noun
 교도소 po:noun
 교두보 po:noun
 #교사 po:noun
-교수 po:noun
-교재 po:noun
+#교수 po:noun
+#교재 po:noun
 교전 po:noun
 구간 po:noun
 구두 po:noun
-구름 po:noun
+#구름 po:noun
 구분 po:noun
 구성원 po:noun prop:가산명사
 구속영장 po:noun
-구역 po:noun
+#구역 po:noun
 구인 po:noun
 구제 po:noun
 구조조정 po:noun
@@ -282,7 +282,7 @@
 국방부 po:noun
 국어 po:noun
 군단 po:noun
-군사 po:noun
+#군사 po:noun
 군사력 po:noun
 궁금하다 po:adjective
 권리 po:noun
@@ -310,7 +310,7 @@
 기갑군단 po:noun
 기갑부대 po:noun
 기갑사단 po:noun
-기계 po:noun
+#기계 po:noun
 기계식 po:noun
 기대다 po:verb
 기름 po:noun
@@ -321,14 +321,14 @@
 기분 po:noun
 기아 po:noun
 기압 po:noun
-기억 po:noun
+#기억 po:noun
 기업가치 po:noun
 기온 po:noun
 기존 po:noun
-기준 po:noun
+#기준 po:noun
 기차 po:noun
 기출문제 po:noun
-기타 po:noun
+#기타 po:noun
 기호 po:noun
 기획 po:noun
 긴급 po:noun
@@ -352,7 +352,7 @@
 남서쪽 po:noun
 남성 po:noun
 남아있다 po:adjective
-남자 po:noun
+#남자 po:noun
 남쪽 po:noun
 남해안 po:noun
 낭비 po:noun
@@ -361,7 +361,7 @@
 내년 po:noun
 내다 po:verb
 내일 po:noun
-냄비 po:noun
+#냄비 po:noun
 냉동 po:noun
 넘기다 po:verb
 넘다 po:verb
@@ -391,14 +391,14 @@
 늘다 po:verb
 늦다 po:verb
 다과 po:noun
-다리 po:noun
+#다리 po:noun
 다소 po:adverb
 다양하다 po:adjective
 다이어트 po:noun
 다치다 po:verb
 단념하다 po:verb
 단속 po:noun
-단어 po:noun
+#단어 po:noun
 단위 po:noun
 단점 po:noun
 단점 po:noun
@@ -418,8 +418,8 @@
 대검찰청 po:noun
 대구 po:noun
 대규모 po:noun
-대기업 po:noun
-대도시 po:noun
+#대기업 po:noun
+#대도시 po:noun
 대륙 po:noun
 대문 po:noun
 대박 po:noun
@@ -446,15 +446,15 @@
 대해 po:noun
 대형 po:noun
 대회 po:noun
-댓글 po:noun
+댓글 po:noun prop:가산명사
 덜미 po:noun
-덩어리 po:noun
+#덩어리 po:noun
 데이터 po:noun
 데이터베이스 po:noun
 덴마크 po:noun
-도구 po:noun
+#도구 po:noun
 도깨비불 po:noun
-도둑 po:noun
+#도둑 po:noun
 도래지 po:noun
 도망 po:noun
 도약 po:noun
@@ -716,7 +716,7 @@
 본부 po:noun
 본사 po:noun
 본인 po:noun
-볼펜 po:noun
+#볼펜 po:noun
 봄 po:noun
 봉사 po:noun
 봉사하다 po:verb
@@ -870,13 +870,13 @@
 선생 po:noun
 선생님 po:noun
 선언 po:noun
-선진국 po:noun
+#선진국 po:noun
 선택하다 po:verb
 설득하다 po:verb
 설치하다 po:verb
 설탕 po:noun
-섬 po:noun
-성격 po:noun
+#섬 po:noun
+#성격 po:noun
 성경 po:noun
 성과 po:noun
 성매매 po:noun
@@ -885,7 +885,7 @@
 성생활 po:noun
 성서 po:noun
 성추행 po:noun
-세력 po:noun
+세력 po:noun prop:가산명사
 세무조사 po:noun
 세미나 po:noun
 세벌식 po:noun
@@ -901,8 +901,8 @@
 소모적 po:noun
 소방대원 po:noun
 소비에트 po:noun
-소설 po:noun
-소설책 po:noun
+#설 po:noun
+소설책 po:noun prop:가산명사
 소속 po:noun
 소송 po:noun
 소스 po:noun
@@ -1361,13 +1361,13 @@
 전전하다 po:verb
 전진 po:noun
 전진하다 po:verb
-전차 po:noun
-전차부대 po:noun
+전차 po:noun prop:가산명사
+전차부대 po:noun prop:가산명사
 전통 po:noun
-전투 po:noun
-전투기 po:noun
+전투 po:noun prop:가산명사
+전투기 po:noun prop:가산명사
 전투력 po:noun
-전투원 po:noun
+전투원 po:noun prop:가산명사
 전파 po:noun
 전혀 po:adverb
 전환 po:noun
@@ -1381,15 +1381,15 @@
 점수 po:noun
 점점 po:adverb
 접속하다 po:verb
-접촉 po:noun
+#접촉 po:noun
 정당 po:noun
 정당성 po:noun
 정복 po:noun
-정복자 po:noun
+정복자 po:noun prop:가산명사
 정복지 po:noun
 정상화 po:noun
 정찰 po:noun
-정찰기 po:noun
+정찰기 po:noun prop:가산명사
 정찰대 po:noun
 정체 po:noun
 정체성 po:noun
@@ -1626,7 +1626,7 @@
 칭찬 po:noun
 커피 po:noun
 컴퓨터과학 po:noun
-컵 po:noun
+#컵 po:noun
 케이블 po:noun
 코 po:noun
 콜라 po:noun
@@ -1688,7 +1688,7 @@
 패션 po:noun
 패스트푸드 po:noun
 패전 po:noun
-팬 po:noun
+#팬 po:noun
 페이지 po:noun
 펜 po:noun
 편견 po:noun
@@ -1697,14 +1697,14 @@
 편안하다 po:adjective
 편지 po:noun
 편집 po:noun
-편집기 po:noun
+편집기 po:noun prop:가산명사
 펼쳐지다 po:verb
 평균 po:noun
 평년 po:noun
 평등 po:noun
 평등권 po:noun
 평생 po:noun
-평양 po:noun
+#평양 po:noun
 평점 po:noun
 폐쇄적 po:noun
 폐수 po:noun
