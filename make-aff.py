@@ -77,7 +77,7 @@ out('OCONV 11172\n')
 for k in range(0xac00, 0xd7a3 + 1):
     out('OCONV %s %s\n' % (unicodedata.normalize("NFD", unichr(k)), unichr(k)))
 
-## KEY - 두벌식 키보드 배치
+## TODO: KEY - 두벌식 키보드 배치
 
 
 cond_all = '.'
@@ -474,7 +474,8 @@ endings = [
       'name': u'-습니까', 'cond': cond_trailing_r,
       'after': ['#용언', '-었-', '-겠-'],
     },
-    ## '-히'
+    ## 하다 -> '-히'
+    # TODO: 예외, "뚜렷이"
     { 'id': 33,
       'name': u'-히', 'cond': '하', 'strip': '하',
       'after': ['#형용사'],
@@ -489,7 +490,7 @@ endings = [
                                  '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'],
     },
-    # 'ㅏ'+'았': ㅏ 탈락
+    # 'ㅏ'+'아야': ㅏ 탈락
     { 'id': 34,
       'name': u'-\u1161야',
       'cond': u'[%s]\u1161' % all_leading.replace(u'\u11c2', ''), # '하' 제외
@@ -535,12 +536,8 @@ endings = [
     },
     ## '-(으)면서' 연결어미
     { 'id': 38,
-      'name': u'-면서', 'cond': cond_vowel,
+      'name': u'-면서', 'cond': cond_vowel_r,
       'after': ['#용언', '#이다', '-으시-'],
-    },
-    { 'id': 38,
-      'name': u'-면서', 'cond': '\u11af', 'strip': '\u11af',
-      'after': ['#용언', '-으시-'],
     },
     { 'id': 38,
       'name': u'-으면서', 'cond': cond_trailing_r,
@@ -550,6 +547,25 @@ endings = [
     { 'id': 39,
       'name': u'-자마자', 'cond': '.',
       'after': ['#동사', '-으시-'],
+    },
+    ## '-던' 관형사형 어미
+    { 'id': 40,
+      'name': u'-던', 'cond': '.',
+      'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
+    },
+    ## '-ㄴ가' 의문문 종결어미
+    { 'id': 41,
+      'name': u'-\u11ab가', 'cond': cond_vowel,
+      'after': ['#이다', '#형용사', '-으시-'],
+    },
+    { 'id': 41,
+      'name': u'-\u11ab가', 'cond': u'\u11af', 'strip': u'\u11af',
+      'after': ['#형용사'],
+    },
+    # TODO: 형용사 중 있다, 없다, 계시다 제외
+    { 'id': 41,
+      'name': u'-은가', 'cond': cond_trailing_r,
+      'after': ['#형용사'],
     },
 ]
 
