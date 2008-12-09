@@ -93,7 +93,7 @@
 경기부양책 po:noun
 경남 po:noun orig:경상남도
 경매 po:noun
-경범죄 po:noun
+경범죄 po:noun prop:가산명사
 경보 po:noun
 경북 po:noun
 경상남도 po:noun
@@ -177,7 +177,7 @@
 공문 po:noun
 공백 po:noun
 공사비 po:noun
-공사장 po:noun
+공사장 po:noun prop:가산명사
 공시 po:noun
 공식전 po:noun
 공약 po:noun prop:가산명사
@@ -243,7 +243,7 @@
 국보 po:noun prop:가산명사
 국세 po:noun
 국세청장 po:noun
-국어사전 po:noun
+국어사전 po:noun prop:가산명사
 국장 po:noun
 국화 po:noun
 군복무 po:noun
@@ -380,7 +380,7 @@
 달성 po:noun
 달성하다 po:verb
 달아오르다 po:verb
-달인 po:noun
+달인 po:noun prop:가산명사
 달콤하다 po:adjective
 달하다 po:verb
 담보 po:noun
@@ -497,9 +497,9 @@
 레코드 po:noun from:record
 로그인하다 po:verb
 로마자 po:noun
-로비 po:noun from:roby
-루머 po:noun from:rumor
-리더 po:noun from:leader
+로비 po:noun prop:가산명사 from:roby
+루머 po:noun prop:가산명사 from:rumor
+리더 po:noun prop:가산명사 from:leader
 리스트 po:noun from:list
 릴리스 po:noun from:release
 릴리스하다 po:verb from:release
@@ -539,9 +539,9 @@
 메아리 po:noun
 메일링리스트 po:noun prop:가산명사
 멕시코 po:noun from:Mexico
-멤버 po:noun from:member
+멤버 po:noun prop:가산명사 from:member
 면제 po:noun
-면허 po:noun
+면허 po:noun prop:가산명사
 멸종 po:noun
 명문 po:noun
 명물 po:noun prop:가산명사
@@ -602,11 +602,11 @@
 물품 po:noun prop:가산명사
 미공개 po:noun
 미국산 po:noun
-미국인 po:noun
+미국인 po:noun prop:가산명사
 미국행 po:noun
 미끼 po:noun
-미녀 po:noun
-미니스커트 po:noun from:mini-skirt
+미녀 po:noun prop:가산명사
+미니스커트 po:noun from:mini-skirt prop:가산명사
 미미하다 po:adjective
 미분양 po:noun
 미술품 po:noun prop:가산명사
@@ -642,7 +642,7 @@
 발전시키다 po:verb
 발주하다 po:verb
 발행 po:noun
-발행인 po:noun
+발행인 po:noun prop:가산명사
 발행하다 po:verb
 발효 po:noun
 발효되다 po:verb
@@ -830,7 +830,7 @@
 산업적 po:noun
 산출 po:noun
 산출하다 po:verb
-산타 po:noun from:Santa
+산타 po:noun from:Santa prop:가산명사
 살육전 po:noun
 삼림 po:noun
 상병 po:noun
@@ -931,9 +931,9 @@
 소모 po:noun
 소방관 po:noun prop:가산명사
 소비재 po:noun
-소상공인 po:noun
+소상공인 po:noun prop:가산명사
 소속되다 po:verb
-소식통 po:noun
+소식통 po:noun prop:가산명사
 소액 po:noun
 소유권 po:noun
 소장 po:noun
@@ -972,7 +972,7 @@
 수비수 po:noun prop:가산명사
 수비진 po:noun prop:가산명사
 수산물 po:noun
-수상자 po:noun
+수상자 po:noun prop:가산명사
 수상작 po:noun
 수상하다 po:verb
 수석합격 po:noun
@@ -1065,7 +1065,7 @@
 아니하다 po:verb
 아동 po:noun
 아몬드 po:noun
-아이콘 po:noun prop:가산명사
+아이콘 po:noun prop:가산명사 from:icon
 아찔하다 po:adjective
 악단 po:noun
 악영향 po:noun
@@ -1156,9 +1156,9 @@
 염치없다 po:adjective
 영감 po:noun
 영광 po:noun prop:가산명사
-영어사전 po:noun
+영어사전 po:noun prop:가산명사
 영업이익 po:noun
-영영사전 po:noun
+영영사전 po:noun prop:가산명사
 영장 po:noun
 영화사 po:noun
 예고 po:noun
@@ -1240,7 +1240,7 @@
 은퇴하다 po:verb
 은하 po:noun prop:가산명사
 은하수 po:noun
-은행장 po:noun
+은행장 po:noun prop:가산명사
 음향 po:noun
 응급실 po:noun
 응시자 po:noun
@@ -1255,11 +1255,11 @@
 이기적 po:noun
 이끌리다 po:verb
 이뇨제 po:noun
-이방인 po:noun
+이방인 po:noun prop:가산명사
 이병 po:noun
 이비인후과 po:noun
 이상야릇하다 po:adjective
-이슈 po:noun from:issue
+이슈 po:noun from:issue prop:가산명사
 이스터에그 po:noun
 이주민 po:noun prop:가산명사
 이타적 po:noun
@@ -1277,7 +1277,7 @@
 인하되다 po:verb
 인하하다 po:verb
 일병 po:noun
-일본어사전 po:noun
+일본어사전 po:noun prop:가산명사
 일선 po:noun
 일제히 po:adverb
 일지 po:noun
@@ -1459,7 +1459,7 @@
 지배권 po:noun
 지부장 po:noun
 지분 po:noun
-지사장 po:noun
+지사장 po:noun prop:가산명사
 지속하다 po:verb
 지연되다 po:verb
 지자체 po:noun orig:지방자치단체
@@ -1609,7 +1609,6 @@
 컵 po:counter
 케이스 po:noun prop:가산명사 from:case
 코멘트 po:noun from:comment
-콘서트 po:noun from:concert
 쿠폰 po:noun from:coupon
 클러치 po:noun from:clutch
 타개 po:noun

@@ -1,6 +1,6 @@
 # cwryu: 20081124
 # 노무현 국제문제협의회 연설, 2004년 11월 13일
-가능성 po:noun
+#가능성 po:noun
 가다 po:verb
 가장 po:adverb
 #가정 po:noun
@@ -44,7 +44,7 @@
 계속 po:adverb
 고통 po:noun
 곤경 po:noun
-곳 po:noun
+#곳 po:noun
 공격 po:noun
 공격적 po:noun
 공격하다 po:verb
@@ -57,7 +57,7 @@
 #국가 po:noun
 #국민 po:noun
 귀빈 po:noun
-그
+#그
 그것 po:pronoun
 그래서 po:adverb
 그러나 po:adverb
@@ -107,7 +107,7 @@
 다시 po:adverb
 다음 po:noun
 단 po:noun
-단계 po:noun
+#단계 po:noun
 단언 po:noun
 단호하다 po:adjective
 달리다 po:verb
@@ -117,7 +117,7 @@
 대결 po:noun
 대단하다 po:adjective
 대답 po:noun
-대표 po:noun
+#대표 po:noun
 대표하다 po:verb
 대하다 po:verb
 대화 po:noun
@@ -133,7 +133,7 @@
 동맹국 po:noun
 동안 po:noun
 동요 po:noun
-동포 po:noun
+#동포 po:noun
 되다 po:verb
 두 po:determiner
 들어서다 po:verb
@@ -163,7 +163,7 @@
 먼저 po:adverb
 명확 po:noun
 명확하다 po:adjective
-몇
+#몇
 모든 po:determiner
 모르다 po:verb
 모으다 po:verb
@@ -171,14 +171,14 @@
 못하다 po:verb
 무력 po:noun
 무력행사 po:noun
-문제 po:noun
+#문제 po:noun
 문제해결 po:noun
 물론 po:adverb
 미국 po:noun
-미사일 po:noun
+#미사일 po:noun
 민주주의 po:noun
 믿다 po:verb
-믿음 po:noun
+#믿음 po:noun
 바 po:noun
 바라다 po:verb
 바람직하다 po:adjective
@@ -210,7 +210,7 @@
 봉쇄 po:noun
 봉쇄정책 po:noun
 부드럽다 po:adjective
-부탁 po:noun
+#부탁 po:noun
 북한 po:noun
 북핵 po:noun
 분 po:noun prop:가산명사
@@ -228,15 +228,15 @@
 비추다 po:verb
 비핵화 po:noun
 빠르다 po:adjective
-뿐
+#뿐
 사다 po:verb
 #사람 po:noun
-사실 po:noun
-사이 po:noun
+#사실 po:noun
+#사이 po:noun
 살다 po:verb
-삶 po:noun
+#삶 po:noun
 상당하다 po:adjective
-상대 po:noun
+#상대 po:noun
 상황 po:noun
 생각 po:noun
 생각하다 po:verb
@@ -252,7 +252,7 @@
 성의 po:noun
 세계 po:noun
 세월 po:noun
-속
+속 po:noun
 솔직하다 po:adjective
 수 po:noun
 수교 po:noun
@@ -267,14 +267,14 @@
 신뢰 po:noun
 쌓다 po:verb
 아니다 po:adjective
-아름답다 po:adjective
+#아름답다 po:adjective
 아무런 po:determiner
 아주 po:adverb
 아직 po:adverb
 안녕 po:noun
 안녕하다 po:adjective
 안전 po:noun
-않다 st:아니하다 po:verb
+#않다 st:아니하다 po:verb
 알다 po:verb
 앞서 po:adverb
 약속 po:noun
@@ -288,7 +288,7 @@
 없다 po:adjective
 여러 po:determiner
 여러가지 po:noun
-여러분 po:pronoun
+#여러분 po:pronoun
 #여성 po:noun
 역시 po:adverb
 연계 po:noun
@@ -321,14 +321,14 @@
 유일하다 po:adjective
 유지 po:noun
 유지하다 po:verb
-의견 po:noun
+#의견 po:noun
 의도 po:noun
 의문 po:noun
 의사 po:noun
 의지 po:noun
 의하다 po:verb
 의혹 po:noun
-이
+#이
 이것 po:pronoun
 이득 po:noun
 이러하다 po:adjective
@@ -353,7 +353,7 @@
 읽다 po:verb
 입장 po:noun
 있다 po:verb
-자리 po:noun
+#자리 po:noun
 #자신 po:noun
 자행 po:noun
 자행하다 po:verb
@@ -367,16 +367,16 @@
 저 po:noun
 적극적 po:noun
 적대적 po:noun
-전
+#전 po:noun
 전략 po:noun
 전쟁 po:noun
 전쟁위험 po:noun
 전하다 po:verb
 점심 po:noun
-정부 po:noun
+#정부 po:noun
 정서 po:noun
 정책 po:noun
-제
+제 po:pronoun
 제기 po:noun
 제안 po:noun
 제약 po:noun
@@ -399,7 +399,7 @@
 중요 po:noun
 중요하다 po:adjective
 즐기다 po:verb
-지
+지 po:noun prop:의존명사
 지금 po:noun
 지나다 po:verb
 지난 po:determiner
@@ -445,7 +445,7 @@
 포기 po:noun
 포기하다 po:verb
 풀다 po:verb
-프로그램 po:noun
+#프로그램 po:noun
 필요 po:noun
 필요하다 po:adjective
 하나 po:noun

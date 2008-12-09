@@ -15,7 +15,7 @@
 가난하다 po:adjective
 가늘다 po:adjective
 가능 po:noun
-가능성 po:noun
+가능성 po:noun prop:가산명사
 가능하다 po:adjective
 가능해지다 po:verb
 가다 po:verb
@@ -65,7 +65,7 @@
 가져가다 po:verb
 가져다주다 po:verb
 가져오다 po:verb
-가족 po:noun
+가족 po:noun prop:가산명사
 가죽 po:noun
 가지 po:noun
 가지 po:counter
@@ -174,9 +174,9 @@
 같이 po:adverb
 같이하다 po:verb
 갚다 po:verb
-개 po:noun
+개 po:noun prop:가산명사
 개 po:counter
-개개인 po:noun
+개개인 po:noun prop:가산명사
 개구리 po:noun prop:가산명사
 개국 po:counter
 개나리 po:noun
@@ -340,7 +340,7 @@
 계획하다 po:verb
 고개 po:noun prop:가산명사
 #고개 po:noun
-고객 po:noun
+고객 po:noun prop:가산명사
 고교 po:noun
 고구려 po:noun
 고구마 po:noun
@@ -348,7 +348,7 @@
 고급 po:noun
 고급스럽다 po:adjective
 고기 po:noun
-고등학교 po:noun
+고등학교 po:noun prop:가산명사
 고등학생 po:noun prop:가산명사
 고려 po:noun
 고려하다 po:verb
@@ -400,8 +400,9 @@
 골치 po:noun
 골프 po:noun
 골프장 po:noun prop:가산명사
-곰 po:noun
+곰 po:noun prop:가산명사
 곱다 po:adjective
+곳 po:counter
 곳 po:noun
 곳곳 po:noun
 공 po:noun
@@ -803,7 +804,7 @@
 기울이다 po:verb
 기원 po:noun
 기원전 po:noun
-기자 po:noun
+기자 po:noun prop:가산명사
 기적 po:noun
 기준 po:noun prop:가산명사
 기차 po:noun
@@ -1206,6 +1207,7 @@
 닦다 po:verb
 단 po:noun
 단 po:determiner
+단계 po:counter
 단계 po:noun
 단골 po:noun
 단단하다 po:adjective
@@ -1300,12 +1302,12 @@
 대단히 po:adverb
 대답 po:noun
 대답하다 po:verb
-대도시 po:noun
+대도시 po:noun prop:가산명사
 대략 po:adverb
 대량 po:noun
 #대로	의
-대륙 po:noun
-대문 po:noun
+대륙 po:noun prop:가산명사
+대문 po:noun prop:가산명사
 대부분 po:noun
 대비 po:noun
 대비하다 po:verb
@@ -1333,7 +1335,7 @@
 대출 po:noun
 대충 po:adverb
 대통령 po:noun
-대표 po:noun
+대표 po:noun prop:가산명사
 대표적 po:noun
 대표하다 po:verb
 대하다 po:verb
@@ -1425,7 +1427,7 @@
 돌다 po:verb
 돌려주다 po:verb
 돌리다 po:verb
-돌멩이 po:noun
+돌멩이 po:noun prop:가산명사
 돌보다 po:verb
 돌아가다 po:verb
 돌아다니다 po:verb
@@ -1435,36 +1437,36 @@
 돕다 po:verb
 동 po:determiner
 #동	의
-동그라미 po:noun
+동그라미 po:noun prop:가산명사
 동그랗다 po:adjective
 동기 po:noun
 동기 po:noun
 동네 po:noun
 동대문 po:noun
 동대문시장 po:noun
-동료 po:noun
-동물 po:noun
-동물원 po:noun
+동료 po:noun prop:가산명사
+동물 po:noun prop:가산명사
+동물원 po:noun prop:가산명사
 동부 po:noun
-동생 po:noun
+동생 po:noun prop:가산명사
 동서 po:noun
 동서남북 po:noun
 동시 po:noun
 동아리 po:noun
 동안 po:noun
 동양 po:noun
-동양인 po:noun
+동양인 po:noun prop:가산명사
 동의 po:noun
 동의하다 po:verb
 동일하다 po:adjective
 동작 po:noun
-동전 po:noun
+동전 po:noun prop:가산명사
 동쪽 po:noun
 동창 po:noun
-동포 po:noun
+동포 po:noun prop:가산명사
 동행 po:noun
 동화 po:noun
-동화책 po:noun
+동화책 po:noun prop:가산명사
 돼지 po:noun
 돼지고기 po:noun
 되게 po:adverb
@@ -1576,7 +1578,7 @@
 딴 po:determiner
 딸 po:noun
 딸기 po:noun
-딸아이 po:noun
+딸아이 po:noun prop:가산명사
 땀 po:noun
 땅 po:noun
 땅바닥 po:noun
@@ -1643,34 +1645,34 @@
 뜻하다 po:verb
 띄다 po:verb
 띄우다 po:verb
-라디오 po:noun
-라면 po:noun
-라운드 po:noun
-라이벌 po:noun
-라이터 po:noun
-라인 po:noun
-라켓 po:noun
+라디오 po:noun prop:가산명사
+라면 po:noun prop:가산명사
+라운드 po:noun prop:가산명사
+라이벌 po:noun from:rival
+라이터 po:noun from:lighter
+라인 po:noun prop:가산명사
+라켓 po:noun prop:가산명사
 러시아 po:noun
 런던 po:noun
-레몬 po:noun
-레스토랑 po:noun
-레이저 po:noun
-레저 po:noun
-렌즈 po:noun
+레몬 po:noun prop:가산명사
+레스토랑 po:noun from:restaurant prop:가산명사
+레이저 po:noun from:laser
+레저 po:noun from:leisure
+렌즈 po:noun from:lens prop:가산명사
 로봇 po:noun from:robot
-로터리 po:noun
+로터리 po:noun from:lottery
 #리	의
-리그 po:noun
-리듬 po:noun
-리터 po:counter
+리그 po:noun prop:가산명사
+리듬 po:noun from:rhythm
+리터 po:counter from:liter
 마구 po:adverb
 마누라 po:noun
-마늘 po:noun
+마늘 po:noun prop:가산명사
 마당 po:noun
 #마당	의
 마디 po:noun
 마땅하다 po:adjective
-마라톤 po:noun
+마라톤 po:noun from:marathon
 #마련	의
 마련 po:noun
 마련되다 po:verb
@@ -1681,7 +1683,7 @@
 마무리 po:noun
 마사지 po:noun
 마시다 po:verb
-마약 po:noun
+마약 po:noun prop:가산명사
 마요네즈 po:noun
 마을 po:noun
 마음 po:noun
@@ -1761,7 +1763,7 @@
 맛없다 po:adjective
 맛있다 po:adjective
 망설이다 po:verb
-망원경 po:noun
+망원경 po:noun prop:가산명사
 망치다 po:verb
 망하다 po:verb
 맞다 po:verb
@@ -1783,7 +1785,7 @@
 매달리다 po:verb
 매력 po:noun
 매번 po:adverb
-매스컴 po:noun
+매스컴 po:noun from:mass_communication
 매우 po:adverb
 매일 po:adverb
 매일 po:noun
@@ -1797,7 +1799,7 @@
 머리 po:noun
 머리말 po:noun
 머리카락 po:noun
-머리칼 po:noun
+머리칼 po:noun prop:가산명사
 머릿속 po:noun
 머무르다 po:verb
 머물다 po:verb
@@ -1854,7 +1856,7 @@
 #모금	의
 모기 po:noun
 모니터 po:noun
-모델 po:noun
+모델 po:noun prop:가산명사
 모두 po:noun
 모두 po:adverb
 모든 po:determiner
@@ -1955,27 +1957,27 @@
 문득 po:adverb
 문밖 po:noun
 문법 po:noun
-문서 po:noun
-문자 po:noun
-문장 po:noun
-문제 po:noun
+문서 po:noun prop:가산명사
+문자 po:noun prop:가산명사
+문장 po:noun prop:가산명사
+문제 po:noun prop:가산명사
 문제되다 po:verb
-문제점 po:noun
+문제점 po:noun prop:가산명사
 문학 po:noun
 문학적 po:noun
-문화 po:noun
-문화재 po:noun
+문화 po:noun prop:가산명사
+문화재 po:noun prop:가산명사
 문화적 po:noun
 묻다 po:verb
-묻다 po:verb
-묻다 po:verb
+#묻다 po:verb
+#묻다 po:verb
 묻히다 po:verb
-묻히다 po:verb
+#묻히다 po:verb
 물 po:noun
 물가 po:noun
-물건 po:noun
-물결 po:noun
-물고기 po:noun
+물건 po:noun prop:가산명사
+물결 po:noun prop:가산명사
+물고기 po:noun prop:가산명사
 물기 po:noun
 물다 po:verb
 물러나다 po:verb
@@ -1985,9 +1987,9 @@
 물속 po:noun
 물어보다 po:verb
 물음 po:noun
-물질 po:noun
+물질 po:noun prop:가산명사
 물질적 po:noun
-물체 po:noun
+물체 po:noun prop:가산명사
 뭐 po:pronoun
 뭐 po:interjection
 뭘 po:interjection
@@ -2002,32 +2004,32 @@
 미루다 po:verb
 미리 po:adverb
 미만 po:noun
-미사일 po:noun
+미사일 po:noun prop:가산명사
 미소 po:noun
 미술 po:noun
-미술관 po:noun
+미술관 po:noun prop:가산명사
 미스 po:noun
 미안하다 po:adjective
 미역 po:noun
-미용실 po:noun
+미용실 po:noun prop:가산명사
 미움 po:noun
 미워하다 po:verb
-미인 po:noun
+미인 po:noun prop:가산명사
 미처 po:adverb
 미치다 po:verb
-미치다 po:verb
+#미치다 po:verb
 미터 po:counter from:meter
 미팅 po:noun
 미혼 po:noun
 민간 po:noun
 민속 po:noun
-민족 po:noun
+민족 po:noun prop:가산명사
 민주 po:noun
 민주주의 po:noun
 민주화 po:noun
 믿다 po:verb
 믿어지다 po:verb
-믿음 po:noun
+믿음 po:noun prop:가산명사
 밀가루 po:noun
 밀다 po:verb
 밀리다 po:verb
@@ -2204,14 +2206,14 @@
 백두산 po:noun
 백색 po:noun
 백성 po:noun
-백인 po:noun
+백인 po:noun prop:가산명사
 백제 po:noun
-백화점 po:noun
-뱀 po:noun
-뱃사람 po:noun
+백화점 po:noun prop:가산명사
+뱀 po:noun prop:가산명사
+뱃사람 po:noun prop:가산명사
 뱉다 po:verb
 버려지다 po:verb
-버릇 po:noun
+버릇 po:noun prop:가산명사
 버리다 po:verb
 #버리다	보
 버섯 po:noun
@@ -2240,8 +2242,8 @@
 벌어지다 po:verb
 벌이다 po:verb
 범위 po:noun
-범인 po:noun
-범죄 po:noun
+범인 po:noun prop:가산명사
+범죄 po:noun prop:가산명사
 법 po:noun
 #법	의
 법률 po:noun
@@ -2328,20 +2330,20 @@
 복사 po:noun
 복사기 po:noun
 복사하다 po:verb
-복숭아 po:noun
+복숭아 po:noun prop:가산명사
 복습 po:noun
 복습하다 po:verb
 복잡하다 po:adjective
 볶다 po:verb
 볶음 po:noun
-볶음밥 po:noun
+볶음밥 po:noun prop:가산명사
 본 po:determiner
 본격적 po:noun
 본래 po:noun
 본부 po:noun
 본사 po:noun
-본성 po:noun
-본인 po:noun
+본성 po:noun prop:가산명사
+본인 po:noun prop:가산명사
 본질 po:noun
 볼 po:noun
 볼링 po:noun
@@ -2353,18 +2355,18 @@
 봉지 po:noun prop:가산명사
 봉투 po:noun prop:가산명사
 뵈다 po:verb
-뵈다 po:verb
+#뵈다 po:verb
 뵙다 po:verb
 #부	의
 부 po:noun
-부 po:noun
+#부 po:noun
 부근 po:noun
 부끄러움 po:noun
 부끄럽다 po:adjective
-부담 po:noun
+부담 po:noun prop:가산명사
 부담하다 po:verb
 부대 po:noun
-부동산 po:noun
+부동산 po:noun prop:가산명사
 부드럽다 po:adjective
 부딪치다 po:verb
 부딪히다 po:verb
@@ -2373,8 +2375,8 @@
 부럽다 po:adjective
 부르다 po:verb
 부르다 po:adjective
-부모 po:noun
-부모님 po:noun
+부모 po:noun prop:가산명사
+부모님 po:noun prop:가산명사
 부문 po:noun
 부부 po:noun
 부분 po:noun
@@ -2385,31 +2387,31 @@
 부서지다 po:verb
 부엌 po:noun
 부위 po:noun
-부인 po:noun
-부인 po:noun
+부인 po:noun prop:가산명사
+#부인 po:noun
 부자 po:noun
 부작용 po:noun
 부잣집 po:noun
-부장 po:noun
+부장 po:noun prop:가산명사
 부재 po:noun
 부정 po:noun
 부정적 po:noun
 부정하다 po:verb
-부족 po:noun
-부족 po:noun
+부족 po:noun prop:가산명사
+#부족 po:noun
 부족하다 po:adjective
 부지런하다 po:adjective
 부지런히 po:adverb
-부채 po:noun
-부처 po:noun
+부채 po:noun prop:가산명사
+부처 po:noun prop:가산명사 # 정부 부처
 부치다 po:verb
 부친 po:noun
-부탁 po:noun
+부탁 po:noun prop:가산명사
 부탁하다 po:verb
 부품 po:noun
 부피 po:noun
-부회장 po:noun
-북 po:noun
+부회장 po:noun prop:가산명사
+북 po:noun prop:가산명사
 북부 po:noun
 북쪽 po:noun
 북한 po:noun
@@ -2430,7 +2432,7 @@
 분위기 po:noun
 분주하다 po:adjective
 분포하다 po:verb
-분필 po:noun
+분필 po:noun prop:가산명사
 분홍색 po:noun
 불 po:noun
 불가능하다 po:adjective
@@ -2440,15 +2442,15 @@
 불과하다 po:adjective
 불교 po:noun
 불구하다 po:verb
-불꽃 po:noun
+불꽃 po:noun prop:가산명사
 불다 po:verb
 불러일으키다 po:verb
 불리다 po:verb
 불리다 po:verb
 불리하다 po:adjective
-불만 po:noun
+불만 po:noun prop:가산명사
 불법 po:noun
-불법 po:noun
+#불법 po:noun
 불빛 po:noun
 불쌍하다 po:adjective
 불안 po:noun
@@ -2476,28 +2478,28 @@
 브랜드 po:noun
 블라우스 po:noun
 비 po:noun
-비 po:noun
+#비 po:noun
 비교 po:noun
 비교적 po:adverb
 비교하다 po:verb
 비극 po:noun
 비기다 po:verb
-비난 po:noun
-비누 po:noun
+비난 po:noun prop:가산명사
+비누 po:noun prop:가산명사
 비닐 po:noun
-비닐봉지 po:noun
+비닐봉지 po:noun prop:가산명사
 비다 po:verb
 비둘기 po:noun
-비디오 po:noun
+비디오 po:noun prop:가산명사
 비로소 po:adverb
 비롯되다 po:verb
 비롯하다 po:verb
 비만 po:noun
 비명 po:noun
-비밀 po:noun
-비바람 po:noun
+비밀 po:noun prop:가산명사
+비바람 po:noun prop:가산명사
 비비다 po:verb
-비빔밥 po:noun
+비빔밥 po:noun prop:가산명사
 비상 po:noun
 비서 po:noun
 비슷하다 po:adjective
@@ -2511,16 +2513,16 @@
 비치다 po:verb
 비키다 po:verb
 비타민 po:noun
-비판 po:noun
+비판 po:noun prop:가산명사
 비판적 po:noun
 비판하다 po:verb
 비하다 po:verb
 비행 po:noun
-비행 po:noun
-비행기 po:noun
-비행장 po:noun
+#비행 po:noun
+비행기 po:noun prop:가산명사
+비행장 po:noun prop:가산명사
 빌다 po:verb
-빌딩 po:noun
+빌딩 po:noun prop:가산명사
 빌리다 po:verb
 빗 po:noun
 빗물 po:noun
@@ -2540,7 +2542,7 @@
 빨갛다 po:adjective
 빨다 po:verb
 빨다 po:verb
-빨래 po:noun
+빨래 po:noun prop:가산명사
 빨리 po:adverb
 빵 po:noun from:pão
 빼놓다 po:verb
@@ -2558,7 +2560,7 @@
 뿌리 po:noun
 뿌리다 po:verb
 뿌리치다 po:verb
-#뿐	의
+뿐 po:noun prop:의존명사
 #사	수
 사건 po:noun
 사계절 po:noun
@@ -2578,51 +2580,51 @@
 사랑 po:noun
 사랑스럽다 po:adjective
 사랑하다 po:verb
-사례 po:noun
+사례 po:noun prop:가산명사
 사립 po:noun
 사망 po:noun
 사망하다 po:verb
 사모님 po:noun
 사무 po:noun
-사무소 po:noun
-사무실 po:noun
+사무소 po:noun prop:가산명사
+사무실 po:noun prop:가산명사
 사무직 po:noun
-사물 po:noun
+사물 po:noun prop:가산명사
 사방 po:noun
 사상 po:noun
 사생활 po:noun
 사설 po:noun
 사소하다 po:adjective
-사슴 po:noun
-사실 po:noun
+사슴 po:noun prop:가산명사
+사실 po:noun prop:가산명사
 사실 po:adverb
 사실상 po:adverb
 #사십	수
-사업 po:noun
-사업가 po:noun
-사업자 po:noun
+사업 po:noun prop:가산명사
+사업가 po:noun prop:가산명사
+사업자 po:noun prop:가산명사
 사용 po:noun
 사용되다 po:verb
-사용자 po:noun
+사용자 po:noun prop:가산명사
 사용하다 po:verb
-사원 po:noun
+사원 po:noun prop:가산명사
 사월 po:noun
-사위 po:noun
-사이 po:noun
+사위 po:noun prop:가산명사
+사이 po:noun prop:가산명사
 사이사이 po:noun
 사이좋다 po:adjective
 사자 po:noun
-사장 po:noun
-사전 po:noun
-사전 po:noun
+사장 po:noun prop:가산명사
+사전 po:noun prop:가산명사
+#사전 po:noun
 사정 po:noun
 사진 po:noun prop:가산명사
 사진기 po:noun
-사촌 po:noun
+사촌 po:noun prop:가산명사
 사춘기 po:noun
 사탕 po:noun
 사투리 po:noun
-사표 po:noun
+사표 po:noun prop:가산명사
 사회 po:noun
 사회생활 po:noun
 사회자 po:noun
@@ -2632,10 +2634,10 @@
 사흘 po:noun
 산 po:noun
 산길 po:noun prop:가산명사
-산부인과 po:noun
+산부인과 po:noun prop:가산명사
 산소 po:noun
 산속 po:noun
-산업 po:noun
+산업 po:noun prop:가산명사
 산책 po:noun
 살 po:noun
 살 po:counter
@@ -2650,7 +2652,7 @@
 살짝 po:adverb
 살펴보다 po:verb
 살피다 po:verb
-삶 po:noun
+삶 po:noun prop:가산명사
 삶다 po:verb
 #삼	수
 삼가다 po:verb
@@ -2662,23 +2664,23 @@
 삼촌 po:noun
 삼키다 po:verb
 상 po:noun
-상 po:noun
-상 po:noun
-상 po:noun
+#상 po:noun
+#상 po:noun
+#상 po:noun
 상관 po:noun
 상관없다 po:adjective
 상관없이 po:adverb
-상금 po:noun
-상담 po:noun
+상금 po:noun prop:가산명사
+상담 po:noun prop:가산명사
 상당 po:noun
 상당수 po:noun
 상당하다 po:adjective
 상당히 po:adverb
-상대 po:noun
-상대방 po:noun
+상대 po:noun prop:가산명사
+상대방 po:noun prop:가산명사
 상대성 po:noun
 상대적 po:noun
-상대편 po:noun
+상대편 po:noun prop:가산명사
 상류 po:noun
 상반기 po:noun
 상상 po:noun
@@ -2686,16 +2688,16 @@
 상상하다 po:verb
 상식 po:noun
 상업 po:noun
-상인 po:noun
+상인 po:noun prop:가산명사
 상자 po:noun
-상점 po:noun
+상점 po:noun prop:가산명사
 상징적 po:noun
 상징하다 po:verb
-상처 po:noun
+상처 po:noun prop:가산명사
 상추 po:noun
 상쾌하다 po:adjective
 상태 po:noun
-상표 po:noun
+상표 po:noun prop:가산명사
 상품 po:noun
 상하다 po:verb
 상황 po:noun
@@ -2710,14 +2712,14 @@
 새롭다 po:adjective
 새벽 po:noun
 새소리 po:noun
-새우 po:noun
+새우 po:noun prop:가산명사
 새우다 po:verb
 새해 po:noun
 색 po:noun
 색깔 po:noun
 색다르다 po:adjective
-색연필 po:noun
-샌드위치 po:noun
+색연필 po:noun prop:가산명사
+샌드위치 po:noun prop:가산명사
 생 po:noun
 생각 po:noun
 생각나다 po:verb
@@ -2728,19 +2730,19 @@
 생기다 po:verb
 생명 po:noun
 생물 po:noun
-생방송 po:noun
+생방송 po:noun prop:가산명사
 생산 po:noun
 생산되다 po:verb
 생산력 po:noun
 생산자 po:noun
 생산하다 po:verb
-생선 po:noun
+생선 po:noun prop:가산명사
 생신 po:noun
 생일 po:noun
 생활 po:noun
 생활비 po:noun
 생활수준 po:noun
-생활용품 po:noun
+생활용품 po:noun prop:가산명사
 생활하다 po:verb
 생활환경 po:noun
 샤워 po:noun from:shower
@@ -2749,23 +2751,23 @@
 서늘하다 po:adjective
 서다 po:verb
 서두르다 po:verb
-서랍 po:noun
+서랍 po:noun prop:가산명사
 서로 po:adverb
 서로 po:noun
 서류 po:noun
 #서른	수
 서명 po:noun
 서명하다 po:verb
-서민 po:noun
+서민 po:noun prop:가산명사
 서부 po:noun
-서비스 po:noun
+서비스 po:noun prop:가산명사
 서서히 po:adverb
 서양 po:noun
-서양인 po:noun
+서양인 po:noun prop:가산명사
 서울 po:noun
 서울역 po:noun
-서적 po:noun
-서점 po:noun
+서적 po:noun prop:가산명사
+서점 po:noun prop:가산명사
 서쪽 po:noun
 서클 po:noun
 서투르다 po:adjective
@@ -2777,12 +2779,12 @@
 섞다 po:verb
 섞이다 po:verb
 선 po:noun
-선거 po:noun
+선거 po:noun prop:가산명사
 선명하다 po:adjective
-선물 po:noun
+선물 po:noun prop:가산명사
 선물하다 po:verb
-선배 po:noun
-선생 po:noun
+선배 po:noun prop:가산명사
+선생 po:noun prop:가산명사
 선생님 po:noun
 선수 po:noun prop:가산명사
 선언하다 po:verb
@@ -2804,7 +2806,7 @@
 설명 po:noun prop:가산명사
 설명되다 po:verb
 설명하다 po:verb
-설문 po:noun
+설문 po:noun prop:가산명사
 설사 po:adverb
 설악산 po:noun
 설치 po:noun
@@ -2842,14 +2844,14 @@
 세계 po:noun
 세계관 po:noun
 세계적 po:noun
-세금 po:noun
+세금 po:noun prop:가산명사
 세기 po:noun
 세다 po:verb
 세다 po:adjective
 세대 po:noun
 세련되다 po:adjective
 세로 po:noun
-세미나 po:noun
+세미나 po:noun prop:가산명사
 세상 po:noun
 세상에 po:interjection
 세수 po:noun
@@ -2860,7 +2862,7 @@
 세종대왕 po:noun
 세탁 po:noun
 세탁기 po:noun prop:가산명사
-세탁소 po:noun
+세탁소 po:noun prop:가산명사
 세트 po:noun
 섹시하다 po:adjective
 센터 po:noun
@@ -2884,8 +2886,8 @@
 소리 po:noun
 소리치다 po:verb
 소망 po:noun
-소매 po:noun
-소문 po:noun
+소매 po:noun prop:가산명사
+소문 po:noun prop:가산명사
 소문나다 po:verb
 소박하다 po:adjective
 소비 po:noun
@@ -2912,45 +2914,45 @@
 소주 po:noun
 소중하다 po:adjective
 소중히 po:adverb
-소지품 po:noun
+소지품 po:noun prop:가산명사
 소질 po:noun
-소파 po:noun
-소포 po:noun
-소풍 po:noun
-소프트웨어 po:noun
+소파 po:noun prop:가산명사
+소포 po:noun prop:가산명사
+소풍 po:noun prop:가산명사
+소프트웨어 po:noun prop:가산명사
 소형 po:noun
 소홀히 po:adverb
 소화 po:noun
 소화하다 po:verb
 속 po:noun
-속담 po:noun
+속담 po:noun prop:가산명사
 속도 po:noun
 속마음 po:noun
 속삭이다 po:verb
 속상하다 po:adjective
-속옷 po:noun
+속옷 po:noun prop:가산명사
 속이다 po:verb
 속하다 po:verb
-손 po:noun
+손 po:noun prop:가산명사
 손가락 po:noun
 손길 po:noun prop:가산명사
-손녀 po:noun
-손님 po:noun
+손녀 po:noun prop:가산명사
+손님 po:noun prop:가산명사
 손등 po:noun
-손목 po:noun
-손바닥 po:noun
+손목 po:noun prop:가산명사
+손바닥 po:noun prop:가산명사
 손발 po:noun
-손뼉 po:noun
+손뼉 po:noun prop:가산명사
 손수 po:adverb
-손수건 po:noun
+손수건 po:noun prop:가산명사
 손쉽다 po:adjective
 손실 po:noun
-손자 po:noun
+손자 po:noun prop:가산명사
 손잡다 po:verb
-손잡이 po:noun
-손질 po:noun
+손잡이 po:noun prop:가산명사
+손질 po:noun prop:가산명사
 손질하다 po:verb
-손톱 po:noun
+손톱 po:noun prop:가산명사
 손해 po:noun
 솔직하다 po:adjective
 솔직히 po:adverb
@@ -2959,14 +2961,14 @@
 솟다 po:verb
 송아지 po:noun
 송이 po:noun
-송편 po:noun
+송편 po:noun prop:가산명사
 쇠 po:noun
 쇠고기 po:noun
 쇼 po:noun
 쇼핑 po:noun
 #수	의
 수 po:noun
-수 po:noun
+#수 po:noun
 수건 po:noun
 수고 po:noun
 수고하다 po:verb
@@ -2974,7 +2976,7 @@
 수단 po:noun
 수도 po:noun
 수도권 po:noun
-수도꼭지 po:noun
+수도꼭지 po:noun prop:가산명사
 수돗물 po:noun
 수동적 po:noun
 수리하다 po:verb
@@ -2986,21 +2988,21 @@
 수백 po:determiner
 수상 po:noun
 수석 po:noun
-수술 po:noun
+수술 po:noun prop:가산명사
 수시로 po:adverb
 수십 po:determiner
-수업 po:noun
-수업 po:noun
+수업 po:noun prop:가산명사
+#수업 po:noun
 수없이 po:adverb
 수염 po:noun
-수영 po:noun
-수영장 po:noun
+#수영 po:noun
+수영장 po:noun prop:가산명사
 수요 po:noun
 수요일 po:noun
 수입 po:noun
 수입 po:noun
 수입되다 po:verb
-수입품 po:noun
+수입품 po:noun prop:가산명사
 수입하다 po:verb
 수저 po:noun
 수준 po:noun
@@ -3013,15 +3015,15 @@
 수표 po:noun
 수필 po:noun
 수학 po:noun
-수학 po:noun
+#수학 po:noun
 수행하다 po:verb
-수험생 po:noun
+수험생 po:noun prop:가산명사
 수화기 po:noun
 숙녀 po:noun
-숙소 po:noun
+숙소 po:noun prop:가산명사
 숙이다 po:verb
-숙제 po:noun
-순간 po:noun
+숙제 po:noun prop:가산명사
+순간 po:noun prop:가산명사
 순간적 po:noun
 순서 po:noun
 순수 po:noun
@@ -3031,12 +3033,12 @@
 순진하다 po:adjective
 순하다 po:adjective
 숟가락 po:noun
-술 po:noun
+술 po:noun prop:가산명사
 #술	의
-술병 po:noun
-술자리 po:noun
-술잔 po:noun
-술집 po:noun
+술병 po:noun prop:가산명사
+술자리 po:noun prop:가산명사
+술잔 po:noun prop:가산명사
+술집 po:noun prop:가산명사
 숨 po:noun
 숨기다 po:verb
 숨다 po:verb
@@ -3044,7 +3046,7 @@
 숫자 po:noun
 숲 po:noun
 쉬다 po:verb
-쉬다 po:verb
+#쉬다 po:verb
 #쉰	수
 쉽다 po:adjective
 슈퍼마켓 po:noun
@@ -3110,7 +3112,7 @@
 시선 po:noun
 시설 po:noun
 시스템 po:noun
-시아버지 po:noun
+시아버지 po:noun prop:가산명사
 시야 po:noun
 시어머니 po:noun
 시외 po:noun
@@ -3118,7 +3120,7 @@
 시원하다 po:adjective
 시월 po:noun
 시위 po:noun
-시인 po:noun
+시인 po:noun prop:가산명사
 시일 po:noun
 시작 po:noun
 시작되다 po:verb
@@ -3184,7 +3186,7 @@
 신세대 po:noun
 신속하다 po:adjective
 신용 po:noun
-신인 po:noun
+신인 po:noun prop:가산명사
 신입생 po:noun
 신제품 po:noun
 신중하다 po:adjective
@@ -3241,12 +3243,12 @@
 심다 po:verb
 심리 po:noun
 심리적 po:noun
-심부름 po:noun
+심부름 po:noun prop:가산명사
 심사 po:noun
 심심하다 po:adjective
-심장 po:noun
+심장 po:noun prop:가산명사
 심정 po:noun
-심판 po:noun
+심판 po:noun prop:가산명사
 심하다 po:adjective
 심해지다 po:verb
 #십	수
@@ -3301,13 +3303,13 @@
 씻기다 po:verb
 씻다 po:verb
 아 po:interjection
-아가씨 po:noun
+아가씨 po:noun prop:가산명사
 아기 po:noun
 아까 po:adverb
 아까 po:noun
 아깝다 po:adjective
 아끼다 po:verb
-아나운서 po:noun
+아나운서 po:noun prop:가산명사
 아내 po:noun
 아냐 po:interjection
 아뇨 po:interjection
@@ -3317,14 +3319,14 @@
 아니야 po:interjection
 아니요 po:interjection
 #아니하다	보
-아드님 po:noun
-아들 po:noun
+아드님 po:noun prop:가산명사
+아들 po:noun prop:가산명사
 아래 po:noun
 아래쪽 po:noun
 아래층 po:noun
-아랫사람 po:noun
-아르바이트 po:noun
-아름답다 po:adjective
+아랫사람 po:noun prop:가산명사
+아르바이트 po:noun prop:가산명사
+아름답다 po:adjective prop:ㅂ불규칙
 아마 po:adverb
 아마도 po:adverb
 아무 po:determiner
@@ -3336,8 +3338,8 @@
 아무렇다 po:adjective
 아무리 po:adverb
 아무튼 po:adverb
-아버님 po:noun
-아버지 po:noun
+아버님 po:noun prop:가산명사
+아버지 po:noun prop:가산명사
 아빠 po:noun
 아쉬움 po:noun
 아쉽다 po:adjective
@@ -3347,33 +3349,33 @@
 아예 po:adverb
 아울러 po:adverb
 아유 po:interjection
-아이 po:noun
+아이 po:noun prop:가산명사
 아이 po:interjection
 아이고 po:interjection
-아이디어 po:noun
-아이스크림 po:noun
+아이디어 po:noun prop:가산명사 from:idea
+아이스크림 po:noun prop:가산명사 from:icecream
 아저씨 po:noun
 아주 po:adverb
-아주머니 po:noun
-아줌마 po:noun
+아주머니 po:noun prop:가산명사
+아줌마 po:noun prop:가산명사
 아직 po:adverb
 아침 po:noun
-아파트 po:noun
+아파트 po:noun prop:가산명사
 아프다 po:adjective
-아프리카 po:noun
+아프리카 po:noun from:Africa
 아픔 po:noun
 아하 po:interjection
 #아홉	수
 #아흔	수
-악기 po:noun
-악몽 po:noun
+악기 po:noun prop:가산명사
+악몽 po:noun prop:가산명사
 악수 po:noun
 안 po:noun
 안 po:adverb
-안 po:noun
+#안 po:noun
 안개 po:noun
-안경 po:noun
-안과 po:noun
+안경 po:noun prop:가산명사
+안과 po:noun prop:가산명사
 안기다 po:verb
 안기다 po:verb
 안내 po:noun
@@ -3398,7 +3400,7 @@
 안팎 po:noun
 앉다 po:verb
 앉히다 po:verb
-않다 po:verb
+않다 po:verb st:아니하다
 #않다	보
 알 po:noun
 알다 po:verb
@@ -3431,7 +3433,7 @@
 애 po:noun
 애 po:noun
 애쓰다 po:verb
-애인 po:noun
+애인 po:noun prop:가산명사
 애정 po:noun
 애초 po:noun
 액세서리 po:noun
@@ -3511,7 +3513,7 @@
 어리다 po:verb
 어리다 po:adjective
 어리석다 po:adjective
-어린아이 po:noun
+어린아이 po:noun prop:가산명사
 어린애 po:noun
 어린이 po:noun
 어린이날 po:noun
@@ -3539,10 +3541,10 @@
 어찌하다 po:verb
 #억	수
 억울하다 po:adjective
-언니 po:noun
+언니 po:noun prop:가산명사
 언덕 po:noun
-언론 po:noun
-언어 po:noun
+언론 po:noun prop:가산명사
+언어 po:noun prop:가산명사
 언제 po:adverb
 언제 po:pronoun
 언제나 po:adverb
@@ -3550,7 +3552,7 @@
 얹다 po:verb
 얻다 po:verb
 얻어먹다 po:verb
-얼굴 po:noun
+얼굴 po:noun prop:가산명사
 얼다 po:verb
 얼른 po:adverb
 얼리다 po:verb
@@ -3566,7 +3568,7 @@
 업다 po:verb
 업무 po:noun
 업종 po:noun
-업체 po:noun
+업체 po:noun prop:가산명사
 없다 po:adjective
 없애다 po:verb
 없어지다 po:verb
@@ -3601,7 +3603,7 @@
 여동생 po:noun
 #여든	수
 여러 po:determiner
-여러분 po:pronoun
+여러분 po:pronoun prop:가산명사
 여럿 po:noun
 여론 po:noun
 여름 po:noun
@@ -3610,11 +3612,11 @@
 여보세요 po:interjection
 #여섯	수
 여성 po:noun prop:가산명사
-여왕 po:noun
-여우 po:noun
+여왕 po:noun prop:가산명사
+여우 po:noun prop:가산명사
 여유 po:noun
-여인 po:noun
-여자 po:noun
+여인 po:noun prop:가산명사
+여자 po:noun prop:가산명사
 여전하다 po:adjective
 여전히 po:adverb
 여직원 po:noun
@@ -3648,7 +3650,7 @@
 연기 po:noun
 연기 po:noun
 연기되다 po:verb
-연기자 po:noun
+연기자 po:noun prop:가산명사
 연기하다 po:verb
 연두색 po:noun
 연락 po:noun
@@ -3663,8 +3665,8 @@
 연습 po:noun
 연습하다 po:verb
 연애 po:noun
-연예인 po:noun
-연인 po:noun
+연예인 po:noun prop:가산명사
+연인 po:noun prop:가산명사
 연장 po:noun
 연주 po:noun
 연출 po:noun
@@ -3851,7 +3853,7 @@
 외모 po:noun
 외부 po:noun
 외삼촌 po:noun
-외아들 po:noun
+외아들 po:noun prop:가산명사
 외우다 po:verb
 외제 po:noun
 외출 po:noun
@@ -3859,7 +3861,7 @@
 외치다 po:verb
 외침 po:noun
 외할머니 po:noun
-외할아버지 po:noun
+외할아버지 po:noun prop:가산명사
 왼발 po:noun
 왼손 po:noun
 왼쪽 po:noun
@@ -3946,7 +3948,7 @@
 원래 po:noun
 원서 po:noun
 원숭이 po:noun
-원인 po:noun
+원인 po:noun prop:가산명사
 원장 po:noun
 원피스 po:noun
 원하다 po:verb
@@ -4022,8 +4024,8 @@
 으응 po:interjection
 은 po:noun
 은은하다 po:adjective
-은행 po:noun
-은행나무 po:noun
+은행 po:noun prop:가산명사
+은행나무 po:noun prop:가산명사
 음 po:interjection
 음력 po:noun
 음료 po:noun
@@ -4038,7 +4040,7 @@
 음주 po:noun
 응 po:interjection
 응답하다 po:verb
-의견 po:noun
+의견 po:noun prop:가산명사
 의논 po:noun
 의논하다 po:verb
 의도 po:noun
@@ -4125,7 +4127,7 @@
 이불 po:noun
 이빨 po:noun
 이사 po:noun
-이사장 po:noun
+이사장 po:noun prop:가산명사
 이사하다 po:verb
 이상 po:noun
 이상 po:noun
@@ -4188,7 +4190,7 @@
 인기 po:noun
 인도 po:noun
 인류 po:noun
-인물 po:noun
+인물 po:noun prop:가산명사
 인분 po:counter
 인사 po:noun prop:가산명사
 #인사 po:noun
@@ -4205,7 +4207,7 @@
 인쇄 po:noun
 인식하다 po:verb
 인연 po:noun
-인원 po:noun
+인원 po:noun prop:가산명사
 인재 po:noun
 인정되다 po:verb
 인정받다 po:verb
@@ -4231,7 +4233,7 @@
 일대 po:determiner
 일등 po:noun
 일반 po:noun
-일반인 po:noun
+일반인 po:noun prop:가산명사
 일반적 po:noun
 일본 po:noun
 일본어 po:noun
@@ -4252,7 +4254,7 @@
 일으키다 po:verb
 일일이 po:adverb
 일자 po:noun
-일자리 po:noun
+일자리 po:noun prop:가산명사
 일정 po:noun
 일정하다 po:adjective
 일종 po:noun
@@ -4328,11 +4330,11 @@
 자랑 po:noun
 자랑스럽다 po:adjective
 자랑하다 po:verb
-자료 po:noun
+자료 po:noun prop:가산명사
 자르다 po:verb
-자리 po:noun
-자리 po:noun
-자매 po:noun
+자리 po:noun prop:가산명사
+#자리 po:noun
+자매 po:noun prop:가산명사
 자부심 po:noun
 자살 po:noun
 자살하다 po:verb
@@ -4404,8 +4406,8 @@
 잠시 po:adverb
 잠옷 po:noun
 잠자다 po:verb
-잠자리 po:noun
-잠자리 po:noun
+잠자리 po:noun prop:가산명사
+#잠자리 po:noun
 잡다 po:verb
 잡수다 po:verb
 잡수시다 po:verb
@@ -4417,7 +4419,7 @@
 장 po:noun
 장가 po:noun
 장갑 po:noun
-장관 po:noun
+장관 po:noun prop:가산명사
 장군 po:noun
 장기간 po:noun
 장기적 po:noun
@@ -4439,7 +4441,7 @@
 장소 po:noun
 장수 po:noun
 장식 po:noun
-장애인 po:noun
+장애인 po:noun prop:가산명사
 장인 po:noun
 장점 po:noun
 장차 po:adverb
@@ -4627,10 +4629,10 @@
 정반대 po:noun
 정보 po:noun
 정보화 po:noun
-정부 po:noun
+정부 po:noun prop:가산명사
 정비 po:noun
 정상 po:noun
-정상 po:noun
+#정상 po:noun
 정상적 po:noun
 정성 po:noun
 정식 po:noun
@@ -4757,7 +4759,7 @@
 좌우 po:noun
 죄 po:noun
 죄송하다 po:adjective
-죄인 po:noun
+죄인 po:noun prop:가산명사
 주 po:determiner
 주 po:counter
 주 po:noun
@@ -4791,7 +4793,7 @@
 주위 po:noun
 주의 po:noun
 주의하다 po:verb
-주인 po:noun
+주인 po:noun prop:가산명사
 주인공 po:noun prop:가산명사
 주일 po:counter
 주장 po:noun
@@ -4850,7 +4852,7 @@
 중요성 po:noun
 중요시하다 po:verb
 중요하다 po:adjective
-중학교 po:noun
+중학교 po:noun prop:가산명사
 중학생 po:noun prop:가산명사
 쥐 po:noun
 쥐다 po:verb
@@ -4863,15 +4865,15 @@
 즐기다 po:verb
 증가 po:noun
 증가하다 po:verb
-증거 po:noun
+증거 po:noun prop:가산명사
 증권 po:noun
-증권사 po:noun
+증권사 po:noun prop:가산명사
 증명하다 po:verb
-증상 po:noun
-증세 po:noun
+증상 po:noun prop:가산명사
+증세 po:noun prop:가산명사
 #지	의
 지각 po:noun
-지갑 po:noun
+지갑 po:noun prop:가산명사
 지겹다 po:adjective
 #지경	의
 지구 po:noun
@@ -4917,7 +4919,7 @@
 지시 po:noun
 지시하다 po:verb
 지식 po:noun
-지식인 po:noun
+지식인 po:noun prop:가산명사
 지역 po:noun
 지우개 po:noun
 지우다 po:verb
@@ -4948,7 +4950,7 @@
 직업 po:noun
 직원 po:noun prop:가산명사
 직장 po:noun
-직장인 po:noun
+직장인 po:noun prop:가산명사
 직전 po:noun
 직접 po:adverb
 직접 po:noun
@@ -5028,7 +5030,7 @@
 찢다 po:verb
 찢어지다 po:verb
 차 po:counter
-차 po:noun
+차 po:noun prop:가산명사
 #차 po:noun
 #차 po:noun
 차갑다 po:adjective
@@ -5074,12 +5076,12 @@
 참외 po:noun
 참으로 po:adverb
 참조 po:noun
-찻잔 po:noun
-창 po:noun
+찻잔 po:noun prop:가산명사
+창 po:noun prop:가산명사
 창가 po:noun
-창고 po:noun
-창구 po:noun
-창문 po:noun
+창고 po:noun prop:가산명사
+창구 po:noun prop:가산명사
+창문 po:noun prop:가산명사
 창밖 po:noun
 창작 po:noun
 창조 po:noun
@@ -5095,21 +5097,21 @@
 채 po:counter
 #채	의
 채 po:adverb
-채널 po:noun
+채널 po:noun prop:가산명사
 채소 po:noun
 채우다 po:verb
 채점 po:noun
-책 po:noun
-책가방 po:noun
-책방 po:noun
-책상 po:noun
+책 po:noun prop:가산명사
+책가방 po:noun prop:가산명사
+책방 po:noun prop:가산명사
+책상 po:noun prop:가산명사
 책임 po:noun
 책임감 po:noun
 책임자 po:noun
 책임지다 po:verb
-챔피언 po:noun
+챔피언 po:noun prop:가산명사
 챙기다 po:verb
-처녀 po:noun
+처녀 po:noun prop:가산명사
 처리 po:noun
 처벌 po:noun
 처음 po:noun
@@ -5150,8 +5152,8 @@
 체력 po:noun
 체온 po:noun
 체육 po:noun
-체육관 po:noun
-체조 po:noun
+체육관 po:noun prop:가산명사
+체조 po:noun prop:가산명사
 체중 po:noun
 #체하다	보
 체험 po:noun
@@ -5163,14 +5165,14 @@
 초대 po:noun
 초대 po:noun
 초대하다 po:verb
-초등학교 po:noun
+초등학교 po:noun prop:가산명사
 초등학생 po:noun prop:가산명사
 초록색 po:noun
 초반 po:noun
-초밥 po:noun
-초보 po:noun
-초보자 po:noun
-초상화 po:noun
+초밥 po:noun prop:가산명사
+초보 po:noun prop:가산명사
+초보자 po:noun prop:가산명사
+초상화 po:noun prop:가산명사
 초순 po:noun
 초여름 po:noun
 초원 po:noun
@@ -5178,12 +5180,12 @@
 초점 po:noun
 초조하다 po:adjective
 초청 po:noun
-초청장 po:noun
+초청장 po:noun prop:가산명사
 초청하다 po:verb
-초콜릿 po:noun
+초콜릿 po:noun prop:가산명사
 촌스럽다 po:adjective
-촛불 po:noun
-총 po:noun
+촛불 po:noun prop:가산명사
+총 po:noun prop:가산명사
 총 po:determiner
 총각 po:noun
 총리 po:noun
@@ -5209,7 +5211,7 @@
 추가하다 po:verb
 추다 po:verb
 추석 po:noun
-추억 po:noun
+추억 po:noun prop:가산명사
 추위 po:noun
 추진 po:noun
 추진하다 po:verb
@@ -5217,8 +5219,8 @@
 추천하다 po:verb
 추측 po:noun
 축구 po:noun
-축구공 po:noun
-축구장 po:noun
+축구공 po:noun prop:가산명사
+축구장 po:noun prop:가산명사
 축소 po:noun
 축제 po:noun
 축하 po:noun
@@ -5228,7 +5230,7 @@
 출근 po:noun
 출근하다 po:verb
 출발 po:noun
-출발점 po:noun
+출발점 po:noun prop:가산명사
 출발하다 po:verb
 출산 po:noun
 출석하다 po:verb
@@ -5241,9 +5243,9 @@
 출장 po:noun
 출퇴근 po:noun
 출판 po:noun
-출판사 po:noun
+출판사 po:noun prop:가산명사
 출현하다 po:verb
-춤 po:noun
+춤 po:noun prop:가산명사
 춤추다 po:verb
 춥다 po:adjective
 충격 po:noun
@@ -5254,7 +5256,7 @@
 충분하다 po:adjective
 충분히 po:adverb
 충청도 po:noun
-취미 po:noun
+취미 po:noun prop:가산명사
 취소 po:noun
 취소하다 po:verb
 취업 po:noun
@@ -5262,15 +5264,15 @@
 취직 po:noun
 취하다 po:verb
 취하다 po:verb
-취향 po:noun
+취향 po:noun prop:가산명사
 층 po:noun
 치과 po:noun
 치다 po:verb
-치다 po:verb
-치다 po:verb
-치다 po:verb
+#치다 po:verb
+#치다 po:verb
+#치다 po:verb
 치료 po:noun
-치료법 po:noun
+치료법 po:noun prop:가산명사
 치료하다 po:verb
 치르다 po:verb
 치마 po:noun
@@ -5279,47 +5281,47 @@
 치우다 po:verb
 #치우다	보
 치즈 po:noun
-친구 po:noun
+친구 po:noun prop:가산명사
 친절 po:noun
 친절하다 po:adjective
 친정 po:noun
-친척 po:noun
+친척 po:noun prop:가산명사
 친하다 po:adjective
 친해지다 po:verb
 #칠	수
 #칠십	수
 칠월 po:noun
-칠판 po:noun
+칠판 po:noun prop:가산명사
 칠하다 po:verb
-침 po:noun
-침대 po:noun
+침 po:noun prop:가산명사
+침대 po:noun prop:가산명사
 침묵 po:noun
 침실 po:noun
 침착하다 po:adjective
-칫솔 po:noun
+칫솔 po:noun prop:가산명사
 칭찬 po:noun
 칭찬하다 po:verb
-카드 po:noun
+카드 po:noun from:card
 카레 po:noun
-카메라 po:noun
-카운터 po:noun
+카메라 po:noun from:camera
+카운터 po:noun from:counter
 카페 po:noun from:café
 칸 po:noun
-칼 po:noun
+칼 po:noun prop:가산명사
 칼국수 po:noun
 캄캄하다 po:adjective
 캐나다 po:noun
-캐릭터 po:noun
-캠퍼스 po:noun
-캠페인 po:noun
+캐릭터 po:noun prop:가산명사
+캠퍼스 po:noun from:campus
+캠페인 po:noun from:campaign
 커다랗다 po:adjective
 커지다 po:verb
-커튼 po:noun
+커튼 po:noun prop:가산명사
 커피 po:noun
 컨디션 po:noun
 컬러 po:noun
-컴퓨터 po:noun
-컵 po:noun
+컴퓨터 po:noun prop:가산명사
+컵 po:noun prop:가산명사
 케첩 po:noun
 켜다 po:verb
 켜지다 po:verb
@@ -5327,35 +5329,35 @@
 코끝 po:noun
 코끼리 po:noun
 코너 po:noun
-코드 po:noun
-코미디 po:noun
+코드 po:noun prop:가산명사
+코미디 po:noun prop:가산명사
 코스 po:noun
 코스모스 po:noun
-코치 po:noun
-코트 po:noun
+코치 po:noun prop:가산명사
+코트 po:noun prop:가산명사
 코피 po:noun
-콘서트 po:noun from:concert
+콘서트 po:noun from:concert prop:가산명사
 콜라 po:noun
-콤플렉스 po:noun
-콩 po:noun
+콤플렉스 po:noun from:complex
+콩 po:noun prop:가산명사
 콩나물 po:noun
 쾌감 po:noun
-쿠데타 po:noun
+쿠데타 po:noun prop:가산명사 from:coup_d'État
 크기 po:noun
 크다 po:adjective
 크다 po:verb
-크리스마스 po:noun
-크림 po:noun
+크리스마스 po:noun from:christmas
+크림 po:noun from:cream
 큰길 po:noun prop:가산명사
-큰딸 po:noun
-큰소리 po:noun
-큰아들 po:noun
-큰아버지 po:noun
-큰어머니 po:noun
-큰일 po:noun
+큰딸 po:noun prop:가산명사
+큰소리 po:noun prop:가산명사
+큰아들 po:noun prop:가산명사
+큰아버지 po:noun prop:가산명사
+큰어머니 po:noun prop:가산명사
+큰일 po:noun prop:가산명사
 큰절 po:noun
-클래식 po:noun
-클럽 po:noun
+클래식 po:noun from:classic
+클럽 po:noun from:club
 키 po:noun
 키스 po:noun
 키우다 po:verb
@@ -5370,11 +5372,11 @@
 타락 po:noun
 타오르다 po:verb
 타입 po:noun
-타자기 po:noun
+타자기 po:noun prop:가산명사
 탁 po:adverb
 탁구 po:noun
 탁월하다 po:adjective
-탁자 po:noun
+탁자 po:noun prop:가산명사
 탄생 po:noun
 탄생하다 po:verb
 탈출하다 po:verb
@@ -5387,15 +5389,15 @@
 태어나다 po:verb
 태우다 po:verb
 태우다 po:verb
-태풍 po:noun
-택시 po:noun
+태풍 po:noun prop:가산명사
+택시 po:noun prop:가산명사
 택하다 po:verb
-탤런트 po:noun
+탤런트 po:noun prop:가산명사
 터 po:noun
 #터	의
-터널 po:noun
+터널 po:noun prop:가산명사
 터뜨리다 po:verb
-터미널 po:noun
+터미널 po:noun prop:가산명사
 터지다 po:verb
 턱 po:noun
 #턱	의
@@ -5404,18 +5406,18 @@
 텅 po:adverb
 테니스 po:noun
 테러 po:noun
-테스트 po:noun
-테이블 po:noun
-테이프 po:noun
+테스트 po:noun prop:가산명사
+테이블 po:noun prop:가산명사
+테이프 po:noun prop:가산명사
 텍스트 po:noun
-텔레비전 po:noun
-토끼 po:noun
+텔레비전 po:noun prop:가산명사
+토끼 po:noun prop:가산명사
 토대 po:noun
-토론 po:noun
-토론자 po:noun
+토론 po:noun prop:가산명사
+토론자 po:noun prop:가산명사
 토론하다 po:verb
-토론회 po:noun
-토마토 po:noun
+토론회 po:noun prop:가산명사
+토마토 po:noun prop:가산명사
 토요일 po:noun
 토하다 po:verb
 톤 po:counter
@@ -5424,31 +5426,31 @@
 통계 po:noun
 통과 po:noun
 통과하다 po:verb
-통로 po:noun
+통로 po:noun prop:가산명사
 통신 po:noun
 통역 po:noun
 통일 po:noun
 통일하다 po:verb
-통장 po:noun
+통장 po:noun prop:가산명사
 통제 po:noun
-통증 po:noun
+통증 po:noun prop:가산명사
 통하다 po:verb
 통합 po:noun
 통화 po:noun
 통화 po:noun
-퇴근 po:noun
+퇴근 po:noun prop:가산명사
 퇴근하다 po:verb
 퇴원 po:noun
 퇴원하다 po:verb
 퇴직금 po:noun
 투명하다 po:adjective
 투자 po:noun
-투표 po:noun
+투표 po:noun prop:가산명사
 튀기다 po:verb
-튀김 po:noun
+튀김 po:noun prop:가산명사
 튀다 po:verb
 튀어나오다 po:verb
-트럭 po:noun
+트럭 po:noun prop:가산명사
 트이다 po:verb
 특급 po:noun
 특별 po:noun
@@ -5501,18 +5503,18 @@
 팔리다 po:verb
 #팔십	수
 팔월 po:noun
-팝송 po:noun
-패션 po:noun
+팝송 po:noun from:popular_song
+패션 po:noun from:fashion
 팩 po:noun
-팩스 po:noun
-팩시밀리 po:noun
+팩스 po:noun from:fax
+팩시밀리 po:noun from:facsimile
 팬 po:noun prop:가산명사 from:fan
 #팬 po:noun
-팬티 po:noun
-퍼센트 po:counter
+팬티 po:noun from:panties
+퍼센트 po:counter from:percent
 퍼지다 po:verb
 퍽 po:adverb
-페인트 po:noun
+페인트 po:noun from:paint
 펴내다 po:verb
 펴다 po:verb
 편 po:counter
@@ -5546,10 +5548,10 @@
 포기하다 po:verb
 포도 po:noun
 포도주 po:noun
-포스터 po:noun
-포인트 po:noun
-포장 po:noun
-포장마차 po:noun
+포스터 po:noun from:poster
+포인트 po:noun from:point
+포장 po:noun prop:가산명사
+포장마차 po:noun prop:가산명사
 포크 po:noun
 포함 po:noun
 포함되다 po:verb
@@ -5586,11 +5588,11 @@
 풍속 po:noun
 풍습 po:noun
 프랑스 po:noun
-프로 po:noun
-프로 po:noun
-프로그램 po:noun
-프린터 po:noun
-플라스틱 po:noun
+프로 po:noun from:pro prop:가산명사
+#프로 po:noun
+프로그램 po:noun from:program prop:가산명사
+프린터 po:noun from:printer prop:가산명사
+플라스틱 po:noun from:plastic
 피 po:noun
 피곤 po:noun
 피곤하다 po:adjective
@@ -5598,16 +5600,16 @@
 피디 po:noun
 피로 po:noun
 피로하다 po:adjective
-피망 po:noun
+피망 po:noun prop:가산명사
 피부 po:noun
 피시 po:noun
-피아노 po:noun
+피아노 po:noun from:piano
 피우다 po:verb
 피자 po:noun
 피하다 po:verb
 피해 po:noun
 피해자 po:noun prop:가산명사
-필름 po:noun
+필름 po:noun from:film
 필수 po:noun
 필수적 po:noun
 필연적 po:noun
@@ -5643,8 +5645,8 @@
 하품 po:noun
 하필 po:adverb
 하하 po:adverb
-학과 po:noun
-학교 po:noun
+학과 po:noun prop:가산명사
+학교 po:noun prop:가산명사
 학교생활 po:noun
 학급 po:noun
 학기 po:noun
@@ -5711,7 +5713,7 @@
 한평생 po:noun
 한하다 po:verb
 할머니 po:noun
-할아버지 po:noun
+할아버지 po:noun prop:가산명사
 할인 po:noun
 함께 po:adverb
 함께하다 po:verb
@@ -5795,7 +5797,7 @@
 현관문 po:noun
 현금 po:noun
 현대 po:noun
-현대인 po:noun
+현대인 po:noun prop:가산명사
 현대적 po:noun
 현상 po:noun
 현실 po:noun
@@ -5824,37 +5826,37 @@
 호 po:counter
 호기심 po:noun
 호남 po:noun
-호랑이 po:noun
+호랑이 po:noun prop:가산명사
 호박 po:noun
 호선 po:counter
 호수 po:noun
 호실 po:noun
 호주 po:noun
-호주머니 po:noun
-호텔 po:noun
+호주머니 po:noun prop:가산명사
+호텔 po:noun prop:가산명사
 호흡 po:noun
 혹시 po:adverb
 혹은 po:adverb
 혼나다 po:verb
 혼자 po:noun
-혼잣말 po:noun
+혼잣말 po:noun prop:가산명사
 홀로 po:adverb
-홈페이지 po:noun
+홈페이지 po:noun prop:가산명사
 홍보 po:noun
 홍수 po:noun
 홍차 po:noun
 화 po:noun
-화가 po:noun
+화가 po:noun prop:가산명사
 화나다 po:verb
 화려하다 po:adjective
-화면 po:noun
-화분 po:noun
-화살 po:noun
+화면 po:noun prop:가산명사
+화분 po:noun prop:가산명사
+화살 po:noun prop:가산명사
 화요일 po:noun
 화장 po:noun
-화장실 po:noun
-화장지 po:noun
-화장품 po:noun
+화장실 po:noun prop:가산명사
+화장지 po:noun prop:가산명사
+화장품 po:noun prop:가산명사
 화재 po:noun
 화제 po:noun
 화학 po:noun
@@ -5891,7 +5893,7 @@
 활용하다 po:verb
 활짝 po:adverb
 회 po:counter
-회견 po:noun
+회견 po:noun prop:가산명사
 회관 po:noun
 회복 po:noun
 회복되다 po:verb
@@ -5905,30 +5907,30 @@
 회전 po:noun
 회화 po:noun
 횟수 po:noun
-횡단보도 po:noun
+횡단보도 po:noun prop:가산명사
 효과 po:noun
 효과적 po:noun
 효도 po:noun
 효도하다 po:verb
 효율적 po:noun
-효자 po:noun
+효자 po:noun prop:가산명사
 후 po:noun
 후기 po:noun
 후반 po:noun
-후배 po:noun
+후배 po:noun prop:가산명사
 후보 po:noun prop:가산명사
 후춧가루 po:noun
-후회 po:noun
+후회 po:noun prop:가산명사
 후회하다 po:verb
-훈련 po:noun
+훈련 po:noun prop:가산명사
 훌륭하다 po:adjective
 훔치다 po:verb
 훨씬 po:adverb
 휴가 po:noun
 휴식 po:noun
-휴일 po:noun
+휴일 po:noun prop:가산명사
 휴지 po:noun
-휴지통 po:noun
+휴지통 po:noun prop:가산명사
 흉내 po:noun
 흐려지다 po:verb
 흐르다 po:verb
@@ -5936,10 +5938,10 @@
 흐리다 po:verb
 흐리다 po:adjective
 흑백 po:noun
-흑인 po:noun
+흑인 po:noun prop:가산명사
 흔들다 po:verb
 흔들리다 po:verb
-흔적 po:noun
+흔적 po:noun prop:가산명사
 흔하다 po:adjective
 흔히 po:adverb
 흘러가다 po:verb
