@@ -144,6 +144,9 @@ def print_entry((name,info)):
         if po == 'plural_suffix':
             flags.append(config.josa_flag)
             flags.append(config.plural_suffix_flag)
+    elif info.has_key('meta'):
+        if info['meta'] == 'forbidden':
+            flags.append(config.forbidden_flag)
     else:
         err('Warning: no info on "%s"\n' % name)
 
