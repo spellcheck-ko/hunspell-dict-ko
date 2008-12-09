@@ -31,4 +31,6 @@ counter_flag = 3                # 숫자와 붙여 쓸 수 있는 의존명사
 plural_suffix_flag = 4          # -들
 countable_noun_flag = 5         # "-들" 붙일 수 있는 가산명사
 
+forbidden_flag = 6		# 규칙의 예외로 금지할 단어
+
 endings_flag_start = 1000       # 어미
