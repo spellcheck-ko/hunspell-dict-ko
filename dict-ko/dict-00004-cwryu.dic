@@ -51,7 +51,7 @@
 하락 po:noun
 하지만 po:adverb
 헌재 po:noun orig:헌법재판소
-주민등록번호 po:noun
+주민등록번호 po:noun prop:가산명사
 축구협회 po:noun
 가수 po:noun
 가요 po:noun
@@ -148,10 +148,10 @@
 #영화 po:noun
 예금 po:noun
 예언 po:noun
-오빠 po:noun
+#오빠 po:noun
 온라인 po:noun
 오후 po:noun
-외계인 po:noun
+외계인 po:noun prop:가산명사
 #외국인 po:noun
 외환 po:noun
 우승 po:noun
@@ -179,9 +179,9 @@
 정치 po:noun
 조회 po:noun
 종부세 po:noun orig:종합부동산세
-주소 po:noun
+#주소 po:noun
 주변 po:noun
-주식 po:noun
+#주식 po:noun
 주지사 po:noun
 #개인 po:noun
 잡지 po:noun
@@ -189,7 +189,7 @@
 최근 po:noun
 최신 po:noun
 증권 po:noun
-진실 po:noun
+#진실 po:noun
 진통 po:noun
 진출 po:noun
 촬영 po:noun
@@ -245,8 +245,8 @@
 사면 po:noun
 #사무소 po:noun
 사법시험 po:noun
-사설 po:noun
-사상 po:noun
+#사설 po:noun
+#사상 po:noun
 #사업 po:noun
 사이트맵 po:noun
 삼성 po:noun
@@ -267,7 +267,7 @@
 우주 po:noun
 운동 po:noun
 워싱턴 po:noun
-원숭이 po:noun
+#원숭이 po:noun
 웹 po:noun
 웹사이트 po:noun
 웹페이지 po:noun
@@ -278,7 +278,7 @@
 입력 po:noun
 자격증 po:noun
 자식 po:noun
-전화 po:noun
+#전화 po:noun
 정사 po:noun
 제작 po:noun
 제작하다 po:verb
@@ -286,12 +286,12 @@
 제조업체 po:noun prop:가산명사
 제휴 po:noun
 조회수 po:noun
-종목 po:noun
+종목 po:noun prop:가산명사
 좋다 po:adjective
 주요 po:noun
 주제 po:noun
 주파수 po:noun
-주택 po:noun
+#주택 po:noun
 중공업 po:noun
 #지갑 po:noun
 지급 po:noun
@@ -398,18 +398,18 @@
 재테크 po:noun
 제조 po:noun
 제출 po:noun
-제품 po:noun
+#제품 po:noun
 중단 po:noun
 중단하다 po:verb
 중심 po:noun
 #증권사 po:noun
 지상파 po:noun
-지하철 po:noun
+#지하철 po:noun
 직장 po:noun
 #직장인 po:noun
 짠돌이 po:noun
 짠순이 po:noun
-차이 po:noun
+#차이 po:noun
 착수 po:noun
 착시 po:noun
 참여 po:noun
@@ -439,7 +439,7 @@
 취재 po:noun
 치열하다 po:adjective
 컴퓨팅 po:noun
-코끼리 po:noun
+#코끼리 po:noun
 퀴즈 po:noun
 타결 po:noun
 타격 po:noun
@@ -529,7 +529,7 @@
 지명도 po:noun
 지혜 po:noun
 여기 po:noun
-연구 po:noun
+##연구 po:noun
 의미 po:noun
 은퇴자 po:noun
 육로 po:noun
@@ -674,7 +674,7 @@
 초저가 po:noun
 증권투자 po:noun
 주치의 po:noun
-주민 po:noun
+#주민 po:noun
 정권 po:noun
 임플란트 po:noun
 유혹 po:noun

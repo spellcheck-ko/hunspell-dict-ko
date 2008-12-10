@@ -56,7 +56,7 @@
 갱년기 po:noun
 거래하다 po:verb
 거론되다 po:verb
-거북이 po:noun
+거북이 po:noun prop:가산명사
 거수경례 po:noun
 거슬리다 po:verb
 거제도 po:noun
@@ -337,10 +337,10 @@
 농기계 po:noun prop:가산명사
 농수산물 po:noun
 농지 po:noun
-농협 po:noun
+농협 po:noun prop:고유명사 orig:농협중앙회
 뇌물 po:noun
 뇌졸중 po:noun
-뇌종양 po:noun
+뇌종양 po:noun prop:가산명사
 누더기 po:noun
 누드 po:noun
 누적 po:noun
@@ -355,7 +355,7 @@
 늠름하다 po:adjective
 늦추다 po:verb
 늪 po:noun
-니퍼 po:noun from:nipper
+니퍼 po:noun from:nipper prop:가산명사
 다국적 po:noun
 다리미 po:noun prop:가산명사
 다문화 po:noun
@@ -388,7 +388,7 @@
 당 po:noun prop:가산명사
 당부하다 po:verb
 당사 po:noun prop:가산명사
-당사자 po:noun po:가산명사
+당사자 po:noun prop:가산명사
 당선 po:noun
 당선되다 po:verb
 당선자 po:noun
@@ -518,7 +518,7 @@
 만큼 po:noun
 만평 po:noun
 만학도 po:noun
-말장난 po:noun
+말장난 po:noun prop:가산명사
 망토 po:noun from:manteau
 맞대결 po:noun
 맞물리다 po:verb
@@ -685,7 +685,7 @@
 벗어나다 po:verb
 베드신 po:noun from:bed_scene
 베이스 po:noun from:base
-베팅 po:noun from:betting
+#베팅 po:noun from:betting
 벼랑 po:noun prop:가산명사
 변경하다 po:verb
 변수 po:noun
@@ -777,9 +777,9 @@
 불우하다 po:adjective
 불응하다 po:verb
 불임 po:noun
-불장난 po:noun
+불장난 po:noun prop:가산명사
 불참하다 po:verb
-불청객 po:noun
+불청객 po:noun prop:가산명사
 불쾌하다 po:adjective
 불통 po:noun
 불투명 po:noun
@@ -833,7 +833,7 @@
 산타 po:noun from:Santa prop:가산명사
 살육전 po:noun
 삼림 po:noun
-상병 po:noun
+상병 po:noun prop:가산명사
 상습 po:noun
 상습적 po:noun
 상승하다 po:verb
@@ -1256,11 +1256,11 @@
 이끌리다 po:verb
 이뇨제 po:noun
 이방인 po:noun prop:가산명사
-이병 po:noun
-이비인후과 po:noun
+이병 po:noun prop:가산명사
+이비인후과 po:noun prop:가산명사
 이상야릇하다 po:adjective
 이슈 po:noun from:issue prop:가산명사
-이스터에그 po:noun
+이스터에그 po:noun prop:가산명사
 이주민 po:noun prop:가산명사
 이타적 po:noun
 인건비 po:noun
@@ -1276,7 +1276,7 @@
 인위적 po:noun
 인하되다 po:verb
 인하하다 po:verb
-일병 po:noun
+일병 po:noun prop:가산명사
 일본어사전 po:noun prop:가산명사
 일선 po:noun
 일제히 po:adverb
@@ -1317,7 +1317,7 @@
 장갑차 po:noun prop:가산명사
 장거리 po:noun
 장기 po:noun
-장애 po:noun
+장애 po:noun prop:가산명사
 재개하다 po:verb
 재계약 po:noun
 재임 po:noun
@@ -1799,7 +1799,7 @@
 호객 po:noun
 호객꾼 po:noun prop:가산명사
 호두 po:noun prop:가산명사
-호두까기 po:noun prop:가산명사
+#호두까기 po:noun prop:가산명사
 호른 po:noun from:Horn
 호봉 po:noun
 호주산 po:noun prop:가산명사

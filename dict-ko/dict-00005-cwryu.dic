@@ -127,9 +127,9 @@
 검토 po:noun
 검토 po:noun
 검토하다 po:verb
-게르만족 po:noun
+게르만족 po:noun prop:가산명사
 #게시판 po:noun
-게임 po:noun
+#게임 po:noun
 겨우 po:adverb
 겨울 po:noun
 겨울철 po:noun
@@ -373,11 +373,11 @@
 노동력 po:noun
 노동조합 po:noun
 노선 po:noun
-노인 po:noun
+#노인 po:noun
 노조 po:noun prop:가산명사
-논란 po:noun
-논문 po:noun
-논의 po:noun
+논란 po:noun prop:가산명사
+#논문 po:noun
+논의 po:noun prop:가산명사
 농구 po:noun
 농산물 po:noun
 높다 po:adjective
@@ -423,7 +423,7 @@
 #대륙 po:noun
 #대문 po:noun
 대박 po:noun
-대변인 po:noun
+대변인 po:noun prop:가산명사
 대부분 po:noun
 대비 po:noun
 대비하다 po:verb
@@ -480,11 +480,11 @@
 동결 po:noun
 #동료 po:noun
 동맹 po:noun
-동명이인 po:noun
-동문회 po:noun
+동명이인 po:noun prop:가산명사
+동문회 po:noun prop:가산명사
 동병상련 po:noun
 동사 po:noun
-동사무소 po:noun
+동사무소 po:noun prop:가산명사
 동일하다 po:adjective
 #동전 po:noun
 동정 po:noun
@@ -516,22 +516,22 @@
 떨어지다 po:verb
 또 po:adverb
 #라디오 po:noun
-라이브러리 po:noun
+라이브러리 po:noun prop:가산명사
 러시아군 po:noun
 러시아어 po:noun
-레닌그라드 po:noun
-레마누라 po:noun
+레닌그라드 po:noun prop:고유명사
+#레마누라 po:noun
 로그아웃 po:noun
-루마니아 po:noun
+루마니아 po:noun prop:고유명사 from:Romania
 리눅스 po:noun
-리모콘 po:noun
+리모콘 po:noun prop:가산명사
 리본 po:noun
 링크 po:noun
 마구 po:adverb
 마무리 po:noun
 마시다 po:verb
 #마약 po:noun
-마왕 po:noun
+마왕 po:noun prop:가산명사
 마우스 po:noun
 마이너스 po:noun
 마치다 po:verb
@@ -544,13 +544,13 @@
 맞추다 po:verb
 맞춤법 po:noun
 매각 po:noun
-매뉴얼 po:noun
+매뉴얼 po:noun prop:가산명사
 매수 po:noun
 매킨토시 po:noun
 멀티미디어 po:noun
 멈추다 po:verb
 메일 po:noun
-며느리 po:noun
+#며느리 po:noun
 면접 po:noun
 명곡 po:noun
 명사 po:noun
@@ -603,7 +603,7 @@
 미세조정 po:noun
 미치다 po:verb
 민간 po:noun
-민간인 po:noun
+민간인 po:noun prop:가산명사
 밀물 po:noun
 및 po:adverb
 바깥 po:determiner
@@ -836,8 +836,8 @@
 상수도 po:noun
 상승세 po:noun
 상원 po:noun
-상원의원 po:noun
-상임위원장 po:noun
+상원의원 po:noun prop:가산명사
+상임위원장 po:noun prop:가산명사
 상차림 po:noun
 상태 po:noun
 상품 po:noun
@@ -975,7 +975,7 @@
 신부 po:noun
 신선하다 po:adjective
 #신인 po:noun
-신청서 po:noun
+#신청서 po:noun
 신청하다 po:verb
 신촌 po:noun
 실구매가 po:noun
@@ -1002,10 +1002,10 @@
 쏟아지다 po:verb
 쓰다 po:verb
 #아가씨 po:noun
-아기 po:noun
+#아기 po:noun
 #아나운서 po:noun
 아날로그 po:noun
-아내 po:noun
+#아내 po:noun
 #아들 po:noun
 아무튼 po:adverb
 #아버지 po:noun
@@ -1069,50 +1069,50 @@
 엉터리 po:noun
 에스토니아 po:noun
 엔지니어 po:noun prop:가산명사
-여당 po:noun
+여당 po:noun prop:가산명사
 여름 po:noun
 여배우 po:noun prop:가산명사
 여백 po:noun
 #여왕 po:noun
 여의도 po:noun
-역사가 po:noun
-연결 po:noun
-연결하다 po:verb
-연구 po:noun
-연구원 po:noun
+#역사가 po:noun
+#연결 po:noun
+#연결하다 po:verb
+#연구 po:noun
+#연구원 po:noun
 연구하다 po:verb
-연극 po:noun
+#연극 po:noun
 연락 po:noun
 연방 po:noun
-연봉 po:noun
+연봉 po:noun prop:가산명사
 연장 po:noun
-연장선 po:noun
+연장선 po:noun prop:가산명사
 연장하다 po:verb
-연타 po:noun
-연필 po:noun
+연타 po:noun prop:가산명사
+#연필 po:noun
 연합 po:noun
-연휴 po:noun
+#연휴 po:noun
 열다 po:verb
 열리다 po:verb
-열차 po:noun
+#열차 po:noun
 영국 po:noun
 영문 po:noun
-영수증 po:noun
+영수증 po:noun prop:가산명사
 영원하다 po:adjective
 영토 po:noun
 영하 po:noun
 영향 po:noun
 예 po:noun
 예매 po:noun
-예문 po:noun
+예문 po:noun prop:가산명사
 예산 po:noun
-예산안 po:noun
+예산안 po:noun prop:가산명사
 예상되다 po:verb
 예상하다 po:verb
-예외 po:noun
+#예외 po:noun
 예정 po:noun
-예제 po:noun
-예측 po:noun
+예제 po:noun prop:가산명사
+예측 po:noun prop:가산명사
 오렌지색 po:noun
 오르다 po:verb
 #오른손 po:noun
@@ -1157,7 +1157,7 @@
 왼쪽 po:noun
 요리 po:noun
 요리하다 po:verb
-요인 po:noun
+요인 po:noun prop:가산명사
 요즈음 po:noun
 요즘 po:noun
 요청 po:noun
@@ -1191,13 +1191,13 @@
 위기설 po:noun
 위성 po:noun
 위조 po:noun
-위조지폐 po:noun
+위조지폐 po:noun prop:가산명사
 위폐 po:noun
 위협성 po:noun
 위협하다 po:verb
 유가 po:noun
 유고슬라비아 po:noun
-유대인 po:noun
+유대인 po:noun prop:가산명사
 유럽 po:noun
 유명하다 po:adjective
 유명하다 po:adjective
@@ -1353,8 +1353,8 @@
 전산 po:noun
 전산학 po:noun
 전산학과 po:noun prop:가산명사
-전선 po:noun
-전시회 po:noun
+#전선 po:noun
+#전시회 po:noun
 전용 po:noun
 전용기 po:noun
 전자파 po:noun
@@ -1363,7 +1363,7 @@
 전진하다 po:verb
 전차 po:noun prop:가산명사
 전차부대 po:noun prop:가산명사
-전통 po:noun
+#전통 po:noun
 전투 po:noun prop:가산명사
 전투기 po:noun prop:가산명사
 전투력 po:noun
@@ -1374,15 +1374,15 @@
 절감 po:noun
 절도 po:noun
 절반 po:noun
-절차 po:noun
-점검 po:noun
+#절차 po:noun
+#점검 po:noun
 점령 po:noun
 점령하다 po:verb
 점수 po:noun
 점점 po:adverb
 접속하다 po:verb
 #접촉 po:noun
-정당 po:noun
+#정당 po:noun
 정당성 po:noun
 정복 po:noun
 정복자 po:noun prop:가산명사
@@ -1422,7 +1422,7 @@
 조수 po:noun
 조약 po:noun
 조업 po:noun
-종류 po:noun
+#종류 po:noun
 종성 po:noun
 종전 po:noun
 좌측 po:noun
@@ -1441,7 +1441,7 @@
 주춤 po:noun
 죽다 po:verb
 죽음 po:noun
-준비 po:noun
+#준비 po:noun
 준비되다 po:verb
 준비하다 po:verb
 준수하다 po:verb
@@ -1455,7 +1455,7 @@
 중복 po:noun
 중복되다 po:verb
 중성 po:noun
-중소기업 po:noun
+#중소기업 po:noun
 #중학교 po:noun
 즐겁다 po:adjective
 증가 po:noun
@@ -1477,10 +1477,10 @@
 지은이 po:noun
 지적 po:noun
 지적하다 po:verb
-지점 po:noun
+#지점 po:noun
 지중해 po:noun
 지지자 po:noun
-지폐 po:noun
+#지폐 po:noun
 지표 po:noun
 지휘 po:noun
 지휘관 po:noun
@@ -1518,7 +1518,7 @@
 차단되다 po:verb
 차단하다 po:verb
 차원 po:noun
-차이점 po:noun
+#차이점 po:noun
 차지하다 po:verb
 차질 po:noun
 착오 po:noun
@@ -1727,7 +1727,7 @@
 폭탄 po:noun
 폭풍 po:noun
 폴란드 po:noun
-폴란드인 po:noun
+폴란드인 po:noun prop:가산명사
 표 po:noun
 표본 po:noun
 표시하다 po:verb
@@ -1761,7 +1761,7 @@
 학습 po:noun
 학원 po:noun
 한국어 po:noun
-한국인 po:noun
+한국인 po:noun prop:가산명사
 한글 po:noun
 한밤중 po:noun
 한우 po:noun

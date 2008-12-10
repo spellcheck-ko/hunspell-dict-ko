@@ -83,6 +83,8 @@ for k in range(0xac00, 0xd7a3 + 1):
 ## REP: 흔히 틀리는 목록
 
 rep_list = [
+    # ㅕ/ㅓ
+    (u'\u1167', u'\u1165'),
     # 의존명사 앞에 띄어 쓰기
     (u'\u11af것', u'\u11af_것'),
     ]
@@ -195,7 +197,7 @@ endings = [
       'name': '-었-',
       'cond': ['[%s]' % all_vowel_ao.replace('\u1165', ''), # 'ㅓ' 제외
                '[%s][%s]' % (all_vowel_ao, all_trailing)],
-      'after': ['#용언', '#이다'],
+      'after': ['#용언', '#이다', '-으시-'],
     },
     # ㅓ 탈락
     { 'id': 5,
@@ -1020,11 +1022,33 @@ endings = [
       'after': ['#용언', '#이다']
     },
     ######################################################################
-    ## '-더-' 선어말
-#    { 'id': 56,
-#      'name': u'-더-', 'cond': '.',
-#      'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-']
-#    },
+    ## '-기에' ('-길래'는 잘못된 표현)
+    { 'id': 56,
+      'name': u'-기에', 'cond': '.',
+      'after': ['#용언', '#이다', '-으시-', '-었-']
+    },
+    ######################################################################
+    ## '-자'
+    # TODO: 일부 형용사 포함
+    { 'id': 57,
+      'name': u'-자', 'cond': '.',
+      'after': ['#동사']
+    },
+    ######################################################################
+    ## '-ㅂ시다'/'-읍시다'
+    { 'id': 58,
+      'name': u'-\u11b8시다', 'cond': cond_vowel,
+      'after': ['#동사', '-으시-']
+    },
+    # ㄹ 탈락
+    { 'id': 58,
+      'name': u'-\u11b8시다', 'cond': u'\u11af', 'strip': u'\u11af',
+      'after': ['#동사']
+    },
+    { 'id': 58,
+      'name': u'-읍시다', 'cond': cond_trailing_r,
+      'after': ['#동사']
+    },
 
 ]
 
@@ -1064,7 +1088,6 @@ def endings_generate():
                 ## 다른 형태의 같은 어미 중 하나만 있어도 결합 (예 -었- vs -았-)
                 ids = [endings_id[a] for a in e['after'] if endings_id.has_key(a)]
                 if '-' in e['after'] or lastid in ids:
-                    # 어미 연결!
                     k = w.copy()
                     k['name'] = k['name'] + [e['name']]
                     if e['name'][-1] != '-':
@@ -1073,11 +1096,11 @@ def endings_generate():
                         working_new.append(k.copy()) # 선어말어미
         working = working_new
 
-    expand_short_forms(result)
+    result += find_short_forms(result)
     return result
 
 
-def expand_short_forms(endings):
+def find_short_forms(endings):
     short_forms = []
     for ending in endings:
         chain = ','.join([s for s in ending['name']])
@@ -1086,9 +1109,9 @@ def expand_short_forms(endings):
             e['name'] = nfc(nfd(chain).replace(nfd('시-,-어'), '셔')).split(',')
             short_forms.append(e)
 
-    for s in short_forms:
-        err('*** %s\n' % ''.join(s['name']))
-    return endings + short_forms
+    #for s in short_forms:
+    #    err('*** %s\n' % ''.join(s['name']))
+    return short_forms
 
 def endings_out(ll):
     keys = set([l['id'] for l in ll])
@@ -1099,7 +1122,6 @@ def endings_out(ll):
         start = set()
         for l in mm:
             start = start.union(l['start'])
-        out('# :%s\n' % ', '.join(["'%s'" % s for s in list(start)]))
 
         lines = []
         for l in mm:
@@ -1180,6 +1202,10 @@ josas = [('이', cond_trailing),
          ('하고', '.'),         # 구어체
          ('조차', '.'),
          ('대로', '.'),
+# FIXME: -ㄴ 조사를 허용하면 모든 명사에 ㄴ을 허용하게 되어 범위가 너무 넓어진다.
+#         (u'\u11ab', cond_vowel), # -ㄴ: '-는' 구어체
+         # TODO: -한테 조사는 사람이나 동물 등에만 붙음
+         ('한테', '.'),
          ]
 
 # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
@@ -1191,16 +1217,19 @@ def ida_generate():
     for e in endings:
         if '#이다' in e['after']:
             if e['name'][-1] != '-':
-                result.append(['이', e['name']])
+                result.append(['이-', e['name']])
             else:
-                working.append(['이', e['name']])
+                working.append(['이-', e['name']])
 
     while len(working) > 0:
         working_new = []
         for w in working:
             last = w[-1]
+            lastid = endings_id[last]
             for e in endings:
-                if last in e['after'] or '-' in e['after']: # 어미 연결!
+                ## 다른 형태의 같은 어미 중 하나만 있어도 결합 (예 -었- vs -았-)
+                ids = [endings_id[a] for a in e['after'] if endings_id.has_key(a)]
+                if '-' in e['after'] or lastid in ids: # 어미 연결!
                     k = w + [e['name']]
                     if e['name'][-1] != '-':
                         result.append(k) # 어말어미
@@ -1208,15 +1237,27 @@ def ida_generate():
                         working_new.append(k) # 선어말어미
         working = working_new
 
+    def short_forms(ll):
+        ret = []
+        for l in ll:
+            chain = ','.join(l)
+            if nfd(chain).find(nfd('시-,-어')) >= 0:
+                e = nfc(nfd(chain).replace(nfd('시-,-어'), '셔')).split(',')
+                ret.append(e)
+            if nfd(chain).find(nfd('이-,-어')) >= 0:
+                e = nfc(nfd(chain).replace(nfd('이-,-어'), '여')).split(',')
+                ret.append(e)
+        return ret
+
+    result += short_forms(result)
     return [(nfc(''.join(r).replace('-', '')), '.') for r in result]
+
+
 
 r = ida_generate()
 josas += r
 
-
-out('# 조사\n')
 out('SFX %d Y %d\n' % (josa_flag, len(josas)))
-
 for (suffix,cond) in josas:
     outnfd('SFX %d 0 %s %s\n' % (josa_flag, suffix, cond))
 

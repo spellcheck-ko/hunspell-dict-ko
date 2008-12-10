@@ -238,8 +238,8 @@
 상당하다 po:adjective
 #상대 po:noun
 상황 po:noun
-생각 po:noun
-생각하다 po:verb
+#생각 po:noun
+#생각하다 po:verb
 생기다 po:verb
 생존 po:noun
 서로 po:adverb
@@ -369,7 +369,7 @@
 적대적 po:noun
 #전 po:noun
 전략 po:noun
-전쟁 po:noun
+#전쟁 po:noun
 전쟁위험 po:noun
 전하다 po:verb
 점심 po:noun
@@ -379,7 +379,7 @@
 제 po:pronoun
 제기 po:noun
 제안 po:noun
-제약 po:noun
+#제약 po:noun
 제조기술 po:noun
 조건 po:noun
 조속하다 po:adjective
@@ -393,7 +393,7 @@
 존중 po:noun
 존중하다 po:verb
 주다 po:verb
-주장 po:noun
+#주장 po:noun
 주장하다 po:verb
 중국 po:noun
 중요 po:noun
@@ -475,7 +475,7 @@
 협상 po:noun
 협상전략 po:noun
 활발하다 po:adjective
-회담 po:noun
+회담 po:noun prop:가산명사
 #회원 po:noun
 #회장 po:noun
 희망 po:noun
