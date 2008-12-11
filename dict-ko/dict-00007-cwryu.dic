@@ -98,7 +98,7 @@
 경북 po:noun
 경상남도 po:noun
 경악 po:noun
-경연대회 po:noun
+경연대회 po:noun prop:가산명사
 경영난 po:noun
 경영자 po:noun
 경영진 po:noun prop:가산명사
@@ -109,7 +109,7 @@
 경제성장률 po:noun
 경제위기 po:noun
 경제위축 po:noun
-경진대회 po:noun
+경진대회 po:noun prop:가산명사
 경합 po:noun
 계기 po:noun
 계량기 po:noun prop:가산명사
@@ -495,7 +495,7 @@
 라이선스 po:noun from:license
 랭킹 po:noun from:ranking
 레코드 po:noun from:record
-로그인하다 po:verb
+로그인하다 po:verb from:log_in
 로마자 po:noun
 로비 po:noun prop:가산명사 from:roby
 루머 po:noun prop:가산명사 from:rumor
