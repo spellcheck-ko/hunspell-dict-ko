@@ -57,7 +57,7 @@ from config import version
 
 ## 헤더 정보
 out(header)
-out('VERSION hunspell-ko-dict %s\n' % version)
+out('VERSION hunspell-dict-ko %s\n' % version)
 out('SET UTF-8\n')
 out('LANG ko\n')
 out('FLAG num\n')
@@ -107,6 +107,7 @@ out('COMPOUNDRULE 2\n')
 out('COMPOUNDRULE (%d)*(%d)(%d)\n' % (digit_flag, digit_flag, counter_flag))
 # 가산명사+'들'
 out('COMPOUNDRULE (%d)(%d)\n' % (countable_noun_flag, plural_suffix_flag))
+# TODO: 가산명사+(들)끼리
 
 ######################################################################
 
@@ -170,6 +171,7 @@ endings = [
     { 'id': 2,
       'name': '-으시-', 'cond': cond_trailing_r,
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙'], # 60 참고
     },
     ######################################################################
     ## '-겠-' 시제 선어말
@@ -370,6 +372,7 @@ endings = [
       'cond': ['[%s]' % all_vowel_ao.replace('\u1165', ''), # 'ㅓ' 제외
                '[%s][%s]' % (all_vowel_ao, all_trailing)],
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙'],
     },
     # ㅓ 탈락
     { 'id': 16,
@@ -381,6 +384,7 @@ endings = [
       'name': u'-아서', 'cond': ['[%s]' % u'\u1169',
                                  '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙'],
     },
     # 중복 ㅏ 탈락
     { 'id': 16,
@@ -417,6 +421,7 @@ endings = [
       'after': ['#용언'],
     },
     # 이어서 -> '여서' 허용
+    # TODO: "이다" (머리에 이다) -> "여서"는 금지?
     { 'id': 16,
       'name': u'-\u1167서', 'cond': u'\u1175', 'strip': u'\u1175',
       'after': ['#용언'],
@@ -955,7 +960,7 @@ endings = [
     ## '-(으)므로'
     { 'id': 49,
       'name': u'-므로', 'cond': cond_vowel,
-      'after': ['#용언'],
+      'after': ['#용언', '#이다'],
     },
     # ㄹ 탈락
     { 'id': 49,
@@ -1049,13 +1054,88 @@ endings = [
       'name': u'-읍시다', 'cond': cond_trailing_r,
       'after': ['#동사']
     },
+    ######################################################################
+    ## '-다시피'
+    { 'id': 59,
+      'name': u'-다시피', 'cond': '.',
+      'after': ['#동사', '-으시-', '-었-', '-겠-']
+    },
+
+    ######################################################################
+    # NOTE: 불규칙 활용은 어간과 연결될 때만 발생하므로 어미 연결은 지정할
+    # 필요가 없고, groupid는 선어말 어미에서만 지정하면 된다.
+
+    ## ㅂ불규칙: '-우시-', '-으시-' 대신
+    { 'id': 60, 'groupid': 2,
+      'name': '-우시-', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],
+    },
+
+    { 'id': 61, 'groupid': 5,
+      'name': '-웠-','cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-왔-' 사용
+    },
+
+    { 'id': 62, 'groupid': 5,
+      'name': '-왔-','cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['곱다', '돕다'],
+    },
+
+    ## ㅂ불규칙: '-워...', '-어...' 대신
+    { 'id': 63,
+      'name': '-워', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
+    },
+    { 'id': 63,
+      'name': '-워서', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
+    },
+    { 'id': 63,
+      'name': '-워요', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
+    },
+    { 'id': 63,
+      'name': '-워야', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
+    },
+    { 'id': 63,
+      'name': '-워도', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
+    },
+
+
+    ## ㅂ불규칙: '-와...', '곱다' 및 '돕다'에서만 사용
+    { 'id': 64,
+      'name': '-와', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['곱다', '돕다'],
+    },
+    { 'id': 64,
+      'name': '-와서', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['곱다', '돕다'],
+    },
+    { 'id': 64,
+      'name': '-와요', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['곱다', '돕다'],
+    },
+    { 'id': 64,
+      'name': '-와야', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['곱다', '돕다'],
+    },
+    { 'id': 64,
+      'name': '-와도', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['곱다', '돕다'],
+    },
+    
 
 ]
 
 endings_id = {}
 
 for e in endings:
-    endings_id[e['name']] = e['id']
+    try:
+        endings_id[e['name']] = e['groupid']
+    except KeyError:
+        endings_id[e['name']] = e['id']
 
 def endings_generate():
     # 대충
@@ -1072,6 +1152,10 @@ def endings_generate():
             entry['start'] = start
             entry['cond'] = e['cond']
             entry['name'] = [name]
+            try:
+                entry['except'] = e['except']
+            except KeyError:
+                entry['except'] = []
             if e.has_key('strip'):
                 entry['strip'] = e['strip']
             if name[-1] != '-':
@@ -1119,10 +1203,6 @@ def endings_out(ll):
     for k in keys:
         mm = [l for l in ll if l['id'] == k]
 
-        start = set()
-        for l in mm:
-            start = start.union(l['start'])
-
         lines = []
         for l in mm:
             cond = l['cond']
@@ -1146,12 +1226,20 @@ endings_out(ending_list)
 flaginfo = open(flaginfo_filename, 'w')
 
 def flaginfo_out(ll, filename):
-    keys = set(map(lambda l: l['id'], ll))
+    keys = set([l['id'] for l in ll])
     flaginfo.write('flaginfo = {\n')
     for k in keys:
-        mm = filter(lambda l: l['id'] == k, ll)
+        mm = [l for l in ll if l['id'] == k]
+
+        starts = set()
+        for l in mm:
+            starts = starts.union(l['start'])
+        excepts = set()
+        for l in mm:
+            excepts = excepts.union(l['except'])
+
         flaginfo.write('  %d: ' % (endings_flag_start + k))
-        flaginfo.write(str(mm[0]['start']))
+        flaginfo.write(str((list(starts), list(excepts))))
         flaginfo.write(',\n')
     flaginfo.write('}\n')
     
@@ -1206,6 +1294,10 @@ josas = [('이', cond_trailing),
 #         (u'\u11ab', cond_vowel), # -ㄴ: '-는' 구어체
          # TODO: -한테 조사는 사람이나 동물 등에만 붙음
          ('한테', '.'),
+         ('마저', '.'),
+         ('라는', ','),         # '라고 하는' 준말
+         ('로부터', cond_vowel_r),
+         ('으로부터', cond_trailing_r),
          ]
 
 # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기

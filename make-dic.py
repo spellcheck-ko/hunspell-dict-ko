@@ -17,7 +17,6 @@
 # License along with this library; if not, write to the Free Software
 # Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
-#
 
 import sys
 import unicodedata
@@ -27,132 +26,201 @@ sys.setdefaultencoding('UTF-8')
 
 def nfd(u8str):
     return unicodedata.normalize('NFD', u8str.decode('UTF-8')).encode('UTF-8')
-
 def out(u8str):
     return sys.stdout.write(u8str)
-
-def err(u8str):
-    return sys.stderr.write(u8str)
-
-filenames = sys.argv[1:]
-
-if len(filenames) < 1:
-    err('Usage: %s filenames...' % sys.argv[0])
-    sys.exit(1)
-
-## load
-
-lines = []
-for filename in filenames:
-    lines += open(filename).readlines()
-
-# comment out
-lines = [line.split('#', 1)[0] for line in lines]
-
-# remove whitespaces
-lines = [line.strip() for line in lines]
-
-# empty line out
-lines = [line for line in lines if line != '']
-
-## 
-
-def make_entry(str):
-    d = str.split()
-    name = d[0]
-    info = {}
-    for i in d[1:]:
-        try:
-            key, val = i.split(':')
-        except ValueError:
-            err('make-dic: wrong info "%s"\n' % i)
-            raise ValueError
-        info[key] = val
-    return (name, info)
-
-data = map(make_entry, lines)
-def compare_entry(a,b):
-    if a[0] != b[0]:
-        return cmp(nfd(a[0]), nfd(b[0]))
-    try:
-        return cmp(a[1]['po'], b[1]['po'])
-    except KeyError:
-        if b[1].has_key('po'):
-            return 1
-        elif a[1].has_key('po'):
-            return -1
-        else:
-            return 0
-data.sort(compare_entry)
-
-#for i in data:
-#    err('entry: %s, %s\n' % (i[0], str(i[1])))
-
-def remove_duplicates(data):
-    i = 0
-    try:
-        while True:
-            if data[i][0] == data[i+1][0]:
-                if data[i][1] == data[i+1][1]:
-                    del data[i+1]
-                # 같은 품사 지우기
-                elif (data[i][1].has_key('po') and
-                      data[i+1][1].has_key('po') and
-                      data[i][1]['po'] == data[i+1][1]['po']):
-                    err('Warning: 삭제 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
-                    del data[i+1]
-                else:
-                    #err('Warning: 유지 "%s" (%s and %s)\n' % (data[i][0], str(data[i][1]), str(data[i+1][1])))
-                    i+=1
-            else:
-                i+=1
-    except IndexError:
-        pass
-
-remove_duplicates(data)
-
-##
+def outnfd(u8str):
+    return sys.stdout.write(nfd(u8str))
+def warn(u8str):
+    return sys.stderr.write(u8str + '\n')
 
 import config
 from flaginfo import flaginfo
 
-out('%d\n' % len(data))
+class ParseError(Exception):
+    pass
 
-def print_entry((name,info)):
-    flags = []
-    if info.has_key('po'):
-        po = info['po']
-        if po == 'noun' or po == 'pronoun' or po == 'counter':
-            flags.append(config.josa_flag)
-            if info.has_key('prop') and '가산명사' in info['prop'].split(','):
-                flags.append(config.countable_noun_flag)
-        if po == 'digit':
-            flags.append(config.digit_flag)
-        if po == 'counter':
-            flags.append(config.counter_flag)
-        if po == 'verb' or po == 'adjective': # temporary
+class Dictionary:
+    def __init__(self):
+        self.words = set([])
+
+    def load_file(self, filename):
+        errstr_duplicated = 'Duplicated. The older one will be overwritten'
+        errstr_overwritten = 'The older one'
+        # read it
+        lines = open(filename).readlines()
+        for lineno in range(len(lines)):
+            line = lines[lineno]
+            # comments out
+            line = line.split('#', 1)[0]
+            # remove whitespaces
+            line = line.strip()
+            if line == '':
+                continue
+            try:
+                word = Word(line)
+            except ParseError, errstr:
+                warn('%s:%d: %s' % (filename, lineno+1, errstr))
+                sys.exit(1)
+            if word in self.words:
+                warn('%s:%d: %s' % (filename, lineno+1, errstr_duplicated))
+                self.remove(word)
+            self.add(word)
+
+    def add(self, word):
+        self.words.add(word)
+    def remove(self, word):
+        self.words.remove(word)
+    
+    def __len__(self):
+        return len(self.words)
+
+    def output(self, file):
+        file.write('%d\n' % len(self))
+        for word in sorted(list(self.words)):
+            word.output(file)
+
+class Word:
+    def __init__(self, line):
+        self.word = ''
+        self.meta = ''
+        self.po = ''
+        self.st = ''
+        self.props = set()
+        self.flags = []
+
+        # parse a dictionary line
+
+        def load_po(self, val):
+            self.po = val
+            # default properties
+            if val == 'verb':
+                self.props.add('용언')
+                self.props.add('동사')
+            elif val == 'adjective':
+                self.props.add('용언')
+                self.props.add('형용사')
+        def load_st(self, val):
+            self.st = val
+        def load_meta(self, val):
+            self.meta = val
+        def load_prop(self, val):
+            for p in val.split(','):
+                self.props.add(p)
+        def load_none(self, val):
+            pass
+
+        info_load_funcs = { 'po': load_po,
+                            'st': load_st,
+                            'meta': load_meta,
+                            'prop': load_prop,
+                            'from': load_none,
+                            'orig': load_none,
+                          }
+
+        data = line.split()
+        self.word, infos = data[0], data[1:]
+
+        for info in infos:
+            try:
+                key, val = info.split(':')
+            except ValueError:
+                raise ParseError, 'Wrong information format'
+            try:
+                info_load_funcs[key](self, val)
+            except KeyError:
+                raise ParseError, 'Unknown info key "%s"' % key
+
+        self.compute_flags()
+                
+    def is_forbidden(self):
+        return self.meta == 'forbidden'
+    def __repr__(self):
+        return '%(word)s po:%(po)s prop:%(props)s' % {
+            'word': self.word, 'po': self.po, 'props': ','.join(self.props), }
+    def __cmp__(self, other):
+        n = cmp(self.word, other.word)
+        if n != 0:
+            return n
+        n = cmp(self.meta, other.meta)
+        if n != 0:
+            return n
+        n = cmp(self.po, other.po)
+        if n != 0:
+            return n
+        return 0
+    def __hash__(self):
+        return (self.word + self.po).__hash__()
+
+    def compute_flags(self):
+        meta_default_flags = {
+            'forbidden': [ config.forbidden_flag ],
+            }
+
+        po_default_flags = {
+            'noun': [ config.josa_flag ],
+            'digit': [ config.josa_flag, config.digit_flag ],
+            'counter': [ config.josa_flag, config.counter_flag ],
+            'plural_suffix': [ config.josa_flag, config.plural_suffix_flag ],
+            }
+        self.flags = []
+        try:
+            self.flags += meta_default_flags[self.meta]
+        except KeyError:
+            pass
+        try:
+            self.flags += po_default_flags[self.po]
+        except KeyError:
+            pass
+
+        if self.po == 'noun':
+            if '가산명사' in self.props:
+                self.flags.append(config.countable_noun_flag)
+
+        if self.po == 'verb' or self.po == 'adjective':
             for flag in flaginfo.keys():
-                fi = flaginfo[flag]
-                if name in fi:
-                    flags.append(flag)
-                elif '#용언' in fi:
-                    flags.append(flag)
-                elif '#동사' in fi and po == 'verb':
-                    flags.append(flag)
-                elif '#형용사' in fi and po == 'adjective':
-                    flags.append(flag)
-        if po == 'plural_suffix':
-            flags.append(config.josa_flag)
-            flags.append(config.plural_suffix_flag)
-    elif info.has_key('meta'):
-        if info['meta'] == 'forbidden':
-            flags.append(config.forbidden_flag)
-    else:
-        err('Warning: no info on "%s"\n' % name)
+                starts = flaginfo[flag][0]
+                excepts = flaginfo[flag][1]
+                if self.word in excepts:
+                    continue
+                if self.word in starts:
+                    self.flags.append(flag)
+                    continue
 
-    if len(flags) > 0:
-        out('%s/%s\n' % (nfd(name), ','.join(map(str, flags))))
-    else:
-        out('%s\n' % nfd(name))
+                # only when one prop is in 'starts' and not in 'excepts'
+                for prop in self.props:
+                    if ('#'+prop) in starts:
+                        break
+                else:
+                    continue
+                for prop in self.props:
+                    if ('#'+prop) in excepts:
+                        break
+                else:
+                    self.flags.append(flag)
 
-map(print_entry, data)
+                
+
+        self.flags.sort()
+
+    def output(self, file):
+        line = self.word
+        if self.flags:
+            line += '/' + ','.join([('%d' % f) for f in self.flags])
+        if self.po:
+            line += ' po:%s' % self.po
+        if self.st:
+            line += ' st:%s' % self.st
+        file.write(nfd(line) + '\n')
+
+if __name__ == '__main__':
+    filenames = sys.argv[1:]
+
+    if len(filenames) < 1:
+        sys.stderr.write('Usage: %s filenames...' % sys.argv[0])
+        sys.exit(1)
+
+    dict = Dictionary()
+    for filename in filenames:
+        dict.load_file(filename)
+
+    dict.output(sys.stdout)

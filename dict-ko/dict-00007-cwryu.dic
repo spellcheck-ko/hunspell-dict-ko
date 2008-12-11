@@ -168,7 +168,7 @@
 공급하다 po:verb
 공단 po:noun
 공대 po:noun
-공동 po:noun
+#공동 po:noun
 공동관리 po:noun
 공로상 po:noun
 공모 po:noun
@@ -221,7 +221,7 @@
 교과부 po:noun orig:교육과학기술부
 교민 po:noun prop:가산명사
 교섭단체 po:noun prop:가산명사
-교육감 po:noun
+교육감 po:noun prop:가산명사
 교육과학기술부 po:noun
 교육학 po:noun
 교정 po:noun
@@ -384,7 +384,7 @@
 달콤하다 po:adjective
 달하다 po:verb
 담보 po:noun
-닷새 po:noun
+#닷새 po:noun
 당 po:noun prop:가산명사
 당부하다 po:verb
 당사 po:noun prop:가산명사
@@ -428,7 +428,7 @@
 데뷔하다 po:verb
 데스크톱 po:noun
 도 po:counter # 체온 40도
-도래지 po:noun
+#도래지 po:noun
 도메인 po:noun from:domain
 도모하다 po:verb
 도박 po:noun
@@ -474,7 +474,7 @@
 듬뿍 po:adverb
 등교 po:noun
 등급 po:noun
-등급 po:noun
+#등급 po:noun
 등락률 po:noun
 등록번호 po:noun
 디렉터리 po:noun from:directory prop:가산명사
@@ -510,7 +510,7 @@
 마법 po:noun
 마법사 po:noun prop:가산명사
 마일 po:counter from:mile
-마찬가지 po:noun
+#마찬가지 po:noun
 마케팅 po:noun
 막막하다 po:adjective
 만만찮다 po:adjective
@@ -570,8 +570,8 @@
 몰아주다 po:verb
 못마땅하다 po:adjective
 몽환적 po:noun
-묘사 po:noun
-묘사하다 po:verb
+#묘사 po:noun
+#묘사하다 po:verb
 무관 po:noun
 무관하다 po:verb
 무기한 po:noun
@@ -628,7 +628,7 @@
 박진감 po:noun
 반도체 po:noun prop:가산명사
 반전 po:noun
-반죽 po:noun
+#반죽 po:noun
 반죽하다 po:verb
 반증 po:noun
 반환 po:noun
@@ -648,7 +648,7 @@
 발효되다 po:verb
 발효하다 po:verb
 발휘 po:noun
-밤하늘 po:noun
+#밤하늘 po:noun
 방긋 po:adverb
 방문객 po:noun
 방미 po:noun
@@ -656,7 +656,7 @@
 방송사고 po:noun
 방치하다 po:verb
 방침 po:noun
-방침 po:noun
+#방침 po:noun
 방패 po:noun prop:가산명사
 배 po:counter # 2배 많음
 배달원 po:noun prop:가산명사
@@ -731,7 +731,7 @@
 봉합하다 po:verb
 부 po:counter # 드라마 1부
 부글부글 po:adverb
-부담스럽다 po:adjective
+부담스럽다 po:adjective prop:ㅂ불규칙
 부대찌개 po:noun
 부르트다 po:verb
 부양책 po:noun
@@ -764,7 +764,7 @@
 불가리아 po:noun from:Bulgaria
 불경기 po:noun
 불규칙 po:noun
-불규칙 po:noun
+#불규칙 po:noun
 불균형 po:noun
 불똥 po:noun
 불명예 po:noun
@@ -801,7 +801,7 @@
 빗장 po:noun
 빙판길 po:noun
 빨래터 po:noun
-뻔뻔스럽다 po:adjective
+뻔뻔스럽다 po:adjective prop:ㅂ불규칙
 뻗치다 po:verb
 뼈아프다 po:adjective
 뽐내다 po:verb
@@ -892,7 +892,7 @@
 설계 po:noun
 설립 po:noun
 설립되다 po:verb
-설립하다 po:verb
+#설립하다 po:verb
 설명문 po:noun
 설명회 po:noun
 설정 po:noun
@@ -1026,7 +1026,7 @@
 시행되다 po:verb
 시행령 po:noun
 시행하다 po:verb
-시행하다 po:verb
+#시행하다 po:verb
 시황 po:noun
 신경외과 po:noun
 신경전 po:noun
@@ -1041,7 +1041,7 @@
 신호탄 po:noun
 신혼 po:noun
 실리콘 po:noun from:silicon
-실망스럽다 po:verb
+실망스럽다 po:verb prop:ㅂ불규칙
 실명 po:noun
 실사 po:noun
 실사하다 po:verb
@@ -1058,7 +1058,7 @@
 심사하다 po:verb
 심화 po:noun
 심화시키다 po:verb
-싹쓸이 po:noun
+#싹쓸이 po:noun
 싹쓸이하다 po:verb
 쌍안경 po:noun prop:가산명사
 쐬다 po:verb
@@ -1201,7 +1201,7 @@
 운영 po:noun
 운영되다 po:verb
 운영체제 po:noun
-운영하다 po:verb
+#운영하다 po:verb
 원리 po:noun
 원안 po:noun prop:가산명사
 원유 po:noun
@@ -1328,7 +1328,7 @@
 적색 po:noun
 적신호 po:noun
 적자 po:noun
-적히다 po:verb
+#적히다 po:verb
 전교조 po:noun orig:전국교직원노동조합
 전남 po:noun orig:전라남도
 전대통령 po:noun prop:가산명사
@@ -1449,7 +1449,7 @@
 증폭되다 po:verb
 지구온난화 po:noun
 지급되다 po:verb
-지급하다 po:verb
+#지급하다 po:verb
 지능적 po:noun
 지리 po:noun
 지리학 po:noun
@@ -1577,7 +1577,7 @@
 충성 po:noun
 충청 po:noun orig:충청도
 충청남도 po:noun
-충청도 po:noun
+#충청도 po:noun
 충청북도 po:noun
 취급 po:noun
 취업률 po:noun

@@ -20,7 +20,7 @@
 가닥 po:noun prop:가산명사
 가독성 po:noun
 가뜩이나 po:adverb
-가라사대 po:verb meta:문어체 # 동사로 쓰이지만 활용을 하지 않는다
+가라사대 po:verb prop:문어체 # 동사로 쓰이지만 활용을 하지 않는다
 가래떡 po:noun prop:가산명사
 가로쓰기 po:noun
 가론하다 po:verb
@@ -87,7 +87,7 @@
 거대 po:noun
 거듭나다 po:verb
 거듭되다 po:verb
-거듭되다 po:verb
+#거듭되다 po:verb
 거듭하다 po:verb
 거래소 po:noun prop:가산명사
 거래액 po:noun
@@ -96,7 +96,7 @@
 거인 po:noun prop:가산명사
 거장 po:noun prop:가산명사
 거점 po:noun prop:가산명사
-거추장스럽다 po:adjective
+거추장스럽다 po:adjective prop:ㅂ불규칙
 거취 po:noun
 건물주 po:noun prop:가산명사
 건의하다 po:verb
@@ -169,7 +169,7 @@
 곡물 po:noun prop:가산명사
 곤두서다 po:verb
 곤두세우다 po:verb
-곤혹스럽다 po:adjective
+곤혹스럽다 po:adjective prop:ㅂ불규칙
 골머리 po:noun
 골자 po:noun # TODO: "~을 골자로"만 쓰인다
 골퍼 po:noun prop:가산명사
@@ -198,7 +198,7 @@
 공헌 po:noun prop:가산명사
 공헌하다 po:verb
 과대하다 po:adjective
-과로 po:noun
+#과로 po:noun
 과부 po:noun prop:가산명사
 과시하다 po:verb
 과음하다 po:verb
@@ -229,7 +229,7 @@
 교습소 po:noun prop:가산명사
 교육계 po:noun
 교육세 po:noun
-교육세 po:noun
+#교육세 po:noun
 교육용 po:noun
 교육청 po:noun
 교주 po:noun prop:가산명사
@@ -282,7 +282,7 @@
 그랑프리 po:noun from:grand_prix # 순화:대상,최우수상
 그래프 po:noun prop:가산명사
 그루지야 po:noun prop:고유명사
-그리스 po:noun prop:고유명사
+그리스 po:noun prop:고유명사 from:Greece
 극대화 po:noun
 극대화하다 po:verb
 극본 po:noun # 동의어:각본
@@ -423,9 +423,9 @@
 당락 po:noun prop:가산명사
 당선인 po:noun prop:가산명사
 당정 po:noun # 정당/정부
-당혹스럽다 po:adjective
+당혹스럽다 po:adjective prop:ㅂ불규칙
 대검 po:noun prop:고유명사 orig:대검찰청
-대견스럽다 po:adjective
+대견스럽다 po:adjective prop:ㅂ불규칙
 대기실 po:noun prop:가산명사
 대대적 po:noun
 대들보 po:noun prop:가산명사
@@ -588,7 +588,7 @@
 메신저 po:noun prop:가산명사 from:messenger
 메이크업 po:noun from:makeup
 멜로 po:noun from:melodrama
-멜론 po:noun form:melon
+멜론 po:noun from:melon
 면담하다 po:verb
 면밀하다 po:adjective
 면책 po:noun
@@ -826,7 +826,7 @@
 불국사 po:noun prop:고유명사
 불능화 po:noun
 불량 po:noun prop:가산명사
-불만스럽다 po:adjective
+불만스럽다 po:adjective prop:ㅂ불규칙
 불매 po:noun
 불법적 po:noun
 불성실하다 po:adjective
@@ -876,7 +876,7 @@
 사망률 po:noun
 사명감 po:noun
 사무용 po:noun
-사업가 po:noun prop:가산명사
+#사업가 po:noun prop:가산명사
 사업장 po:noun prop:가산명사
 사업하다 po:verb
 사용성 po:noun
@@ -964,7 +964,7 @@
 성급하다 po:adjective
 성깔 po:noun prop:가산명사
 성사되다 po:verb
-성스럽다 po:verb
+성스럽다 po:verb prop:ㅂ불규칙
 성장세 po:noun
 성적표 po:noun prop:가산명사
 성찰 po:noun
@@ -996,7 +996,7 @@
 속세 po:noun
 손꼽히다 po:verb
 손해배상 po:noun
-송구스럽다 po:adjective
+송구스럽다 po:adjective prop:ㅂ불규칙
 송금 po:noun
 송금되다 po:verb
 송금하다 po:verb
@@ -1120,7 +1120,7 @@
 아량 po:noun
 아르메니아 po:noun prop:고유명사
 아르헨티나 po:noun prop:고유명사
-아리땁다 po:adjective
+아리땁다 po:adjective prop:ㅂ불규칙
 아리랑 po:noun
 아시아계 po:noun
 아시아인 po:noun prop:가산명사
@@ -1173,7 +1173,7 @@
 억만장자 po:noun prop:가산명사
 억세다 po:adjective
 억압 po:noun
-억지스럽다 po:adjective
+억지스럽다 po:adjective prop:ㅂ불규칙
 억측 po:noun
 언급 po:noun
 언행 po:noun prop:가산명사
@@ -1284,7 +1284,7 @@
 원형 po:noun
 원활하다 po:adjective
 월등하다 po:adjective
-웬만하다 po:adjective
+#웬만하다 po:adjective
 위기감 po:noun prop:가산명사
 위력 po:noun
 위선자 po:noun prop:가산명사
@@ -1294,7 +1294,7 @@
 위축시키다 po:verb
 위험도 po:noun
 윗도리 po:noun prop:가산명사
-유감스럽다 po:verb
+유감스럽다 po:verb prop:ㅂ불규칙
 유년기 po:noun
 유니코드 po:noun prop:고유명사 from:Unicode
 유래 po:noun
@@ -1466,7 +1466,7 @@
 저금통 po:noun prop:가산명사
 저널 po:noun prop:가산명사 from:journal
 저작물 po:noun prop:가산명사
-저작물 po:noun prop:가산명사
+#저작물 po:noun prop:가산명사
 저장되다 po:verb
 저장하다 po:verb
 저조하다 po:adjective
@@ -1496,7 +1496,7 @@
 절충안 po:noun
 절호 po:noun
 점거 po:noun
-점거 po:noun
+#점거 po:noun
 점검하다 po:verb
 점유 po:noun
 점퍼 po:noun prop:가산명사 from:jumper
@@ -1716,7 +1716,7 @@
 최저임금 po:noun
 최저임금제 po:noun
 최적 po:noun
-최적화 po:noun
+#최적화 po:noun
 최적화되다 po:verb
 최하 po:noun
 최하위 po:noun prop:가산명사
@@ -1771,7 +1771,7 @@
 캥거루 po:noun prop:가산명사
 컨소시엄 po:noun prop:가산명사
 컴백하다 po:verb
-컴파일하다 po:verb fron:compile # computer science
+컴파일하다 po:verb from:compile # computer science
 코덱 po:noun prop:가산명사 from:codec
 코딩 po:noun
 코딩하다 po:verb from:coding
@@ -1978,10 +1978,10 @@
 협연하다 po:verb
 협조 po:noun
 협회 po:noun prop:가산명사
-형님 po:noun prop:가산명사
+#형님 po:noun prop:가산명사
 호감 po:noun
 호두까기인형 po:noun
-호선 po:counter # 지하철 3호선
+#호선 po:counter
 호재 po:noun
 호환 po:noun
 호황 po:noun

@@ -1,43 +1,82 @@
 # cwryu 2008/12/13
 # 임의 추가
 가속하다 po:verb
+각급 po:noun
+각성 po:noun
 간략하다 po:verb
 간체 po:noun # 중국어 간체
 감시하다 po:verb
+감형 po:noun
+감형되다 po:verb
+강심장 po:noun prop:가산명사
 강좌 po:noun prop:가산명사
+개척 po:noun
+개회 po:noun
 갱신 po:noun
 갱신하다 po:verb
+거래되다 po:verb
 거르다 po:verb
 거부되다 po:verb
+거주지 po:noun prop:가산명사
+건더기 po:noun prop:가산명사
 검사하다 po:verb
+검시관 po:noun prop:가산명사
 검정 po:noun
 검출 po:noun
 게시 po:noun
 게시하다 po:verb
+게재되다 po:verb
 격자 po:noun prop:가산명사
+격화 po:noun
 견본 po:noun prop:가산명사
-견본 po:noun prop:가산명사
+결산 po:noun
+결산하다 po:verb
+결의문 po:noun prop:가산명사
 결함 po:noun prop:가산명사
-결합 po:noun
+#결합 po:noun
 결합되다 po:verb
 경과하다 po:verb
+경관 po:noun
 경도 po:noun
 경사 po:noun
+경제성장 po:noun
+계약금 po:noun
 고득점 po:noun
+고래 po:noun prop:가산명사
 고밀도 po:noun
+고안되다 po:verb
 고유하다 po:adjective
+고점 po:noun prop:가산명사
 고정 po:noun
 고정되다 po:verb
+고정식 po:noun
+고층 po:noun
 곡선 po:noun prop:가산명사
 골격 po:noun prop:가산명사
+골든디스크 po:noun prop:가산명사 from:golden_disk
+골병 po:noun prop:가산명사
+공고 po:noun prop:가산명사
+공고하다 po:verb
+공공연하다 po:adjective
+공동체 po:noun prop:가산명사
+공산 po:noun # "~할 공산이 크다"
 공용 po:noun
+공주병 po:noun
 공표하다 po:verb
+과장되다 po:verb
 과테말라 po:noun prop:고유명사 from:Guatemala
+관계없다 po:adjective
+관련성 po:noun
+관련자 po:noun prop:가산명사
 관리자 po:noun prop:가산명사
 관용어 po:noun prop:가산명사
+관절염 po:noun
 괄호 po:noun prop:가산명사
 광고판 po:noun prop:가산명사
+광우병 po:noun
+광택 po:noun
 광학 po:noun
+교역 po:noun
 교집합 po:noun prop:가산명사
 구경꾼 po:noun prop:가산명사
 구독 po:noun prop:가산명사
@@ -45,11 +84,16 @@
 구두점 po:noun prop:가산명사
 구문 po:noun
 구실 po:noun
+구애 po:noun prop:가산명사
 구자라트어 po:noun from:Gujarat
+구장 po:noun prop:가산명사
 구현되다 po:verb
 구획 po:noun prop:가산명사
+국토 po:noun
 군데군데 po:noun
 권장되다 po:verb
+귀속 po:noun
+규명하다 po:verb
 균등하다 po:adjective
 그래도 po:adverb orig:그리하여도
 그래야 po:adverb orig:그리하여야
@@ -58,23 +102,39 @@
 그리스어 po:noun from:Greece
 그린란드 po:noun prop:고유명사 from:Greenland
 극비 po:noun prop:가산명사
+극우 po:noun
+근면 po:noun
+근접하다 po:verb
+금기시되다 po:verb
+금기시하다 po:verb
+금배지 po:noun prop:가산명사
+급신장하다 po:verb
+기념식 po:noun prop:가산명사
 기술되다 po:verb
+기인하다 po:verb
 기준선 po:noun prop:가산명사
+기형 po:noun
 길잡이 po:noun prop:가산명사
 깃발 po:noun prop:가산명사
 깔때기 po:noun prop:가산명사
 깜빡이다 po:verb
-깨끗이 po:adverb
+#깨끗이 po:adverb
 깨끗히 meta:forbidden # 깨끗이
+껑충 po:adverb
 꼬리말 po:noun prop:가산명사
 꼬리표 po:noun prop:가산명사
 꼭지점 po:noun prop:가산명사
+꼴찌 po:noun prop:가산명사
+꼴통 po:noun prop:가산명사 # 속어
 꾸러미 po:noun prop:가산명사
+끌어내리다 po:verb
 끝마치다 po:verb
 나미비아 po:noun prop:고유명사 from:Namibia
 나열 po:noun
 나열하다 po:verb
 낚싯줄 po:noun prop:가산명사
+난감 po:noun
+난감하다 po:adjective
 남남동 po:noun
 남남서 po:noun
 남동 po:noun
@@ -88,9 +148,15 @@
 너비 po:noun prop:가산명사
 넓이 po:noun
 네팔 po:noun prop:고유명사 from:Nepal
+노년기 po:noun
 노랑 po:noun
 노르웨이어 po:noun from:Norway
+노약자 po:noun prop:가산명사
+노익장 po:noun
 녹음기 po:noun prop:가산명사
+녹취 po:noun
+농도 po:noun
+누드화 po:noun prop:가산명사
 누락되다 po:verb
 눈금 po:noun prop:가산명사
 눈금자 po:noun prop:가산명사
@@ -108,18 +174,24 @@
 단면 po:noun prop:가산명사
 답장하다 po:verb
 당나귀 po:noun prop:가산명사
+당첨자 po:noun prop:가산명사
 대각선 po:noun prop:가산명사
 대리 po:noun prop:가산명사
 대리석 po:noun prop:가산명사
 대문자 po:noun prop:가산명사
+대역 po:noun prop:가산명사 # "주파수 대역"
 대역폭 po:noun
 대외비 po:noun
+대운하 po:noun prop:가산명사
 대체되다 po:verb
 대체하다 po:verb
 대칭 po:noun
+덩달아 po:adverb st:덩달다
+덩달아서 po:adverb st:덩달다
 덮개 po:noun prop:가산명사
 덮어쓰다 po:verb
 데비안 po:noun prop:고유명사 from:Debian
+도래하다 po:verb
 돋보기 po:noun
 동경심 po:noun
 동기화 po:noun
@@ -141,7 +213,9 @@
 따뜻히 meta:forbidden # 따뜻이
 따옴표 po:noun prop:가산명사
 땜납 po:noun
+떠밀리다 po:verb
 라틴어 po:noun from:Latin
+란제리 po:noun from:lingerie
 랩 po:noun from:wrap,rap
 레이블 po:noun prop:가산명사 from:label
 레이아웃 po:noun from:layout
@@ -149,19 +223,31 @@
 렌더링 po:noun from:rendering
 로그 po:noun from:log # 수학, 컴퓨터
 로그아웃하다 po:verb from:log_out
+로스앤젤레스 po:noun prop:고유명사 from:Los_Angeles
 루마니아어 po:noun from:Romania
+마니아 po:noun prop:가산명사 from:mania # '매니아'가 아님
+마비 po:noun
+마비되다 po:verb
 마스크 po:noun prop:가산명사 from:mask
+마운드 po:noun from:mound # 야구,골프
+마저 po:adverb
 막대 po:noun prop:가산명사
 막대기 po:noun prop:가산명사
 만료되다 po:verb
 만화책 po:noun prop:가산명사
+만회하다 po:verb
 말레이어 po:noun from:Malay
 말줄임표 po:noun prop:가산명사
 망가지다 po:verb
+망간 po:noun from:Mangan # 화학
 맞닿다 po:verb
 매개변수 po:noun prop:가산명사
+매끈하다 po:adjective
 매수하다 po:verb
 매크로 po:noun prop:가산명사 # 컴퓨터
+매혹적 po:noun
+맺히다 po:verb
+먹을거리 po:noun prop:가산명사 # '먹거리'가 아님
 메모지 po:noun prop:가산명사
 명세 po:noun
 명시되다 po:verb
@@ -177,18 +263,28 @@
 묵음 po:noun
 문단 po:noun prop:가산명사
 문맥 po:noun prop:가산명사
+문안 po:noun
 문자열 po:noun prop:가산명사 # 컴퓨터
+문중 po:noun prop:가산명사
 문지르다 po:verb
+문항 po:noun prop:가산명사
 물구나무서기 po:noun
+물씬 po:adverb
 미국령 po:determiner
+미모 po:noun
 미완성 po:noun
 미터법 po:noun from:metric
+미흡 po:noun
 믹서 po:noun prop:가산명사 from:mixer
+민영 po:noun
 밀도 po:noun prop:가산명사
 밑줄 po:noun prop:가산명사
+바늘구멍 po:noun prop:가산명사
 바둑판 po:noun prop:가산명사
 바스크어 po:noun from:Basque
 바이트 po:counter from:byte
+박차 po:noun prop:가산명사
+반달 po:noun
 반듯이 po:adverb
 반듯하다 po:adjective
 반듯히 meta:forbidden # 반듯이
@@ -197,13 +293,22 @@
 반지름 po:noun
 반투명 po:noun
 반향음 po:noun prop:가산명사
+반환점 po:noun prop:가산명사
 발급자 po:noun prop:가산명사
+발돋움 po:noun
 발생되다 po:verb
+발판 po:noun prop:가산명사
+방사선 po:noun prop:가산명사
+방영 po:noun
 방전 po:noun
+방향성 po:noun
 방화벽 po:noun prop:가산명사
+배려하다 po:verb
+배설되다 po:verb
 배수 po:noun prop:가산명사 # 수학
 배수로 po:noun prop:가산명사
 배율 po:noun
+백기 po:noun prop:가산명사
 백분율 po:noun
 백스페이스 po:noun from:backspace
 백업 po:noun from:backup
@@ -213,6 +318,10 @@
 번역문 po:noun prop:가산명사
 번역자 po:noun prop:가산명사
 번체 po:noun # 중국어 번체
+벌목되다 po:verb
+벌채 po:noun
+벌채되다 po:verb
+범국민 po:noun
 베트남어 po:noun from:Vietnam
 벡터 po:noun prop:가산명사 # 물리
 벵골어 po:noun from:Bengal
@@ -224,11 +333,19 @@
 병렬 po:noun
 보관함 po:noun prop:가산명사
 보기 po:noun
+보름달 po:noun
+보물 po:noun prop:가산명사
+보완 po:noun
+보정 po:noun
+보존되다 po:verb
+복무 po:noun
 복소수 po:noun prop:가산명사 # 수학
+복원되다 po:verb
 복제되다 po:verb
 복제하다 po:verb
 복호화 po:noun
 본문 po:noun prop:가산명사
+볼거리 po:noun prop:가산명사
 볼륨 po:noun from:volume
 봉인하다 po:verb
 부동소수점수 po:noun prop:가산명사 # 컴퓨터
@@ -248,9 +365,9 @@
 불명확하다 po:adjective
 불연속 po:noun
 불일치 po:noun
+불참 po:noun
 붓글씨 po:noun prop:가산명사
 비정상적 po:noun
-비트 po:counter from:bit
 비트 po:counter from:bit
 비활성 po:noun
 비활성화 po:noun
@@ -268,24 +385,41 @@
 사용법 po:noun prop:가산명사
 사이렌 po:noun prop:가산명사
 사인 po:noun prop:가산명사 from:sign # 순화:서명
+사채업자 po:noun prop:가산명사
+산모 po:noun prop:가산명사
+살균제 po:noun prop:가산명사
+살포하다 po:verb
 삽입 po:noun
 삽입되다 po:verb
 삽입하다 po:verb
+상비군 po:noun prop:가산명사
 상세하다 po:adjective
 상수 po:noun prop:가산명사 # 수학
+상어 po:noun prop:가산명사
 상업적 po:noun
+상정되다 po:verb
 상큼하다 po:adjective
+상품화되다 po:verb
 색맹 po:noun prop:가산명사
 색상 po:noun prop:가산명사
 생략 po:noun
 생물학 po:noun
 생성되다 po:verb
 서남서 po:noun
+서대문구청 po:noun prop:고유명사
 서명되다 po:verb
 서북서 po:noun
 서술 po:noun
+선진국형 po:noun
+선호 po:noun
 설마 po:adverb
 설정되다 po:verb
+섬세하다 po:adjective
+성숙미 po:noun
+세입 po:noun
+세출 po:noun
+소각하다 po:verb
+소급 po:noun
 소문자 po:noun prop:가산명사
 소수점 po:noun prop:가산명사
 속성 po:noun prop:가산명사
@@ -297,12 +431,18 @@
 수동 po:noun
 수락 po:noun
 수락하다 po:verb
+수사관 po:noun prop:가산명사
 수신자 po:noun prop:가산명사
+수은 po:noun # 화학
+수재 po:noun prop:가산명사
 수직 po:noun
+수질 po:noun
 수평 po:noun
+수프 po:noun prop:가산명사
 수행 po:noun
 수행되다 po:verb
-수행하다 po:verb
+#수행하다 po:verb
+술버릇 po:noun prop:가산명사
 쉼표 po:noun prop:가산명사
 스웨덴어 po:noun from:Sweden
 스크린 po:noun prop:가산명사 from:screen
@@ -311,6 +451,18 @@
 스펙트럼 po:noun from:spectrum
 슬로베니아어 po:noun from:Slovenia
 습관적 po:noun
+시내전화 po:noun prop:가산명사
+시달리다 po:verb
+시동 po:noun
+시범적 po:noun
+시위대 po:noun prop:가산명사
+식습관 po:noun prop:가산명사
+신도시 po:noun prop:가산명사
+신바람 po:noun
+신세계 po:noun
+신작 po:noun prop:가산명사
+신장하다 po:verb
+실력자 po:noun prop:가산명사
 실린더 po:noun prop:가산명사
 실행되다 po:verb
 심벌 po:noun prop:가산명사 from:symbol # 심볼이 아님
@@ -321,22 +473,38 @@
 아이템 po:noun prop:가산명사 from:item # 컴퓨터, 순화:항목
 아티스트 po:noun prop:가산명사
 안내서 po:noun prop:가산명사
+안락사 po:noun
+안전망 po:noun prop:가산명사
+안착하다 po:verb
 알갱이 po:noun prop:가산명사
 알파벳 po:noun prop:가산명사
 암호 po:noun prop:가산명사
 암호화 po:noun
 암호화되다 po:verb
 암호화하다 po:verb
+압수 po:noun
+압수물 po:noun prop:가산명사
+압수수색 po:noun
+압수수색하다 po:verb
 압축되다 po:verb
+야산 po:noun
 양면 po:noun
+양산 po:noun
+양호 po:noun
 어댑터 po:noun prop:가산명사 from:adapter
+어물쩍 po:adverb
 어절 po:noun prop:가산명사
+엄포 po:noun
 업데이트하다 po:verb
 업로드 po:noun
 업로드하다 po:verb
 에스페란토 po:noun from:Esperanto
 엔트로피 po:noun from:entropy # 물리
+연령대 po:noun
+연루 po:noun
 연산자 po:noun prop:가산명사
+연잇다 po:verb
+연출가 po:noun prop:가산명사
 열거되다 po:verb
 열거하다 po:verb
 열망 po:noun prop:가산명사
@@ -345,61 +513,107 @@
 옅다 po:adjective
 완료되다 po:verb
 완료하다 po:verb
+완제품 po:noun prop:가산명사
 왜곡 po:noun
 왜곡되다 po:verb
 왜곡하다 po:verb
+외관 po:noun
+외산 po:noun # 외국산
+외식 po:noun
+외형적 po:noun
+요건 po:noun prop:가산명사
 요약 po:noun
 요약문 po:noun prop:가산명사
+요염하다 po:adjective
 요청되다 po:verb
 용무 po:noun
 용지 po:noun
 우선순위 po:noun prop:가산명사
+우선적 po:noun
 우크라이나어 po:noun from:Ukraine
 우편번호 po:noun prop:가산명사
+운항 po:noun
+운항하다 po:verb
+원가 po:noun
 원근법 po:noun
 원문 po:noun prop:가산명사
 원상복귀 po:noun
 원상복귀하다 po:verb
 원소 po:noun
+원칙적 po:noun
 원판 po:noun prop:가산명사
+위인 po:noun prop:가산명사
+위탁하다 po:verb
 유닉스 po:noun prop:고유명사 from:Unix
+유료 po:noun
+유류 po:noun
+유포하다 po:verb
 유효숫자 po:noun # 수학
 유효하다 po:adjective
 윤곽선 po:noun prop:가산명사
 윤기 po:noun
+은행원 po:noun prop:가산명사
 음량 po:noun
 음절 po:noun prop:가산명사
 음표 po:noun prop:가산명사 # 음악
+응급 po:noun
 응용 po:noun
 의도하다 po:verb
+의식주 po:noun
+의약품 po:noun prop:가산명사
+의원직 po:noun
+의의 po:noun
 이력 po:noun
 이쑤시개 po:noun prop:가산명사
+이적 po:noun
 익명 po:noun prop:가산명사
 인도네시아어 po:noun from:Indonesia
 인쇄되다 po:verb
 인스턴트 po:noun prop:가산명사 from:instant # 순화:즉석_식품
 인용 po:noun prop:가산명사
 인접 po:noun
+인접하다 po:adjective
 인증되다 po:verb
 인증하다 po:verb
 인코딩되다 po:verb
 인터페이스 po:noun prop:가산명사 from:interface # 컴퓨터
+일관되다 po:verb
 일관성 po:noun
 일괄처리 po:noun
 일몰 po:noun
+일용직 po:noun prop:가산명사
+일주 po:noun
+입장료 po:noun
 잉크 po:noun
+자금력 po:noun
 자료집 po:noun prop:가산명사
 자물쇠 po:noun prop:가산명사
+자영업자 po:noun prop:가산명사
 자주색 po:noun
 자홍색 po:noun
 잔액 po:noun
+장기화되다 po:verb
+장만하다 po:verb
 장치 po:noun prop:가산명사
+장타 po:noun
 재귀 po:noun
+재발 po:noun
 재배포하다 po:verb
 재생하다 po:verb
-재작년 po:noun # '제작년'이 아님
+#재작년 po:noun
+재적 po:noun
+재판부 po:noun
+재혼 po:noun
+재혼하다 po:verb
+재활용하다 po:verb
+저렴하다 po:verb
 저장고 po:noun prop:가산명사
+적립 po:noun
+적립되다 po:verb
+적립하다 po:verb
 적외선 po:noun
+전문성 po:noun
+전시관 po:noun prop:가산명사
 전자메일 po:noun prop:가산명사
 전자우편 po:noun
 절전 po:noun
@@ -408,6 +622,7 @@
 점자 po:noun
 점진적 po:noun
 접두어 po:noun prop:가산명사
+접목되다 po:verb
 접미어 po:noun prop:가산명사
 접촉하다 po:verb
 정렬하다 po:verb
@@ -417,26 +632,39 @@
 제거되다 po:verb
 제곱 po:noun # 수학
 제곱근 po:noun prop:가산명사 # 수학
+제정하다 po:verb
+조바심 po:noun
+조세포탈 po:noun
+조율하다 po:verb
 조작하다 po:verb
 조절되다 po:verb
 조종 po:noun
 조종하다 po:verb
 조합되다 po:verb
 조합하다 po:verb
+졸업장 po:noun prop:가산명사
 종료하다 po:verb
+종합적 po:noun
 좌표 po:noun prop:가산명사
 주법 po:noun prop:가산명사 # 악기 주법
 주사위 po:noun prop:가산명사
+주안점 po:noun prop:가산명사
 주최자 po:noun prop:가산명사
+주행 po:noun
 주황 po:noun
 주황색 po:noun
 줄넘기 po:noun
 중괄호 po:noun prop:가산명사
+중금속 po:noun
+중독성 po:noun
+중시하다 po:verb
 중앙선 po:noun prop:가산명사
 중지되다 po:verb
 중지하다 po:verb
 중첩 po:noun
+중첩되다 po:verb
 증명서 po:noun
+지역적 po:noun
 지연 po:noun
 지질학 po:noun
 진흙 po:noun
@@ -447,47 +675,72 @@
 짤막하다 po:adjective
 쪽지 po:noun prop:가산명사
 참조되다 po:verb
+창조한국당 po:noun prop:고유명사
+채택 po:noun
+처방 po:noun
+처방하다 po:verb
+천사 po:noun prop:가산명사
+철벽 po:noun
 철자 po:noun
 철회되다 po:verb
 첨가하다 po:verb
 첨부하다 po:verb
+첫사랑 po:noun prop:가산명사
 청록 po:noun
 청록색 po:noun
+체내 po:noun
 체코어 po:noun from:Czech
 초기화 po:noun
 초기화되다 po:verb
 초기화하다 po:verb
 초록 po:noun
+초승달 po:noun
+촉매제 po:noun prop:가산명사
+총기 po:noun prop:가산명사
+총탄 po:noun prop:가산명사
 최대화되다 po:verb
 최대화하다 po:verb
 최소화되다 po:verb
+추이 po:noun
+출간되다 po:verb
 출력 po:noun prop:가산명사
 출력물 po:noun prop:가산명사
 출력하다 po:verb
+출마하다 po:verb
+출혈 po:noun
 충전되다 po:verb
 충족되다 po:verb
 취급하다 po:verb
 취소되다 po:verb
+취항 po:noun
+취항하다 po:verb
 치명적 po:noun
 치환하다 po:verb
+카드뮴 po:noun from:cadmium # 화학
 칸막이 po:noun prop:가산명사
 커넥터 po:noun prop:가산명사 from:connector # 전기
 컨테이너 po:noun prop:가산명사
+컬렉션 po:noun prop:가산명사 # 순화:수집
 컴파일 po:noun from:compile # 컴퓨터
 쿠키 po:noun prop:가산명사 from:cookie
 큰따옴표 po:noun prop:가산명사
 클라이언트 po:noun prop:가산명사 from:client # 컴퓨터
 클립보드 po:noun from:clipboard # 컴퓨터
+태그 po:noun prop:가산명사 from:tag
 터키어 po:noun from:Turkey
 테스트하다 po:verb from:test
 텔레파시 po:noun from:telepathy
 텔레포트 po:noun from:teleport
 통신하다 po:verb
+통조림 po:noun prop:가산명사
 통합하다 po:verb
+퇴역하다 po:verb
 투명 po:noun
 투명도 po:noun
 트랙 po:noun prop:가산명사 from:track
 특수하다 po:adjective
+특허청 po:noun prop:고유명사 # 국가기관
+특혜 po:noun prop:가산명사
 파괴되다 po:verb
 파랑 po:noun
 파이프 po:noun prop:가산명사 from:pipe
@@ -499,25 +752,52 @@
 편지함 po:noun prop:가산명사
 편집하다 po:verb
 평준화 po:noun
+평화상 po:noun prop:가산명사
+폐광 po:noun prop:가산명사
+폐품 po:noun prop:가산명사
 포커스 po:noun prop:가산명사 from:focus # 물리,컴퓨터
 포트 po:noun prop:가산명사 from:port # 컴퓨터
+폭발물 po:noun prop:가산명사
 폭우 po:noun
 표시되다 po:verb
+품격 po:noun
 프레임 po:counter from:frame
 프레임 po:noun prop:가산명사 from:frame
+피고 po:noun prop:가산명사 # 법률
+피고인 po:noun prop:가산명사 # 법률
 픽셀 po:counter from:pixel
 픽셀 po:noun prop:가산명사 from:pixel
+필사본 po:noun prop:가산명사
+하락세 po:noun
+하원 po:noun # 정치
 하위 po:noun
 학습하다 po:verb
+한국은행 po:noun prop:고유명사 # 국가기관
+한자리 po:noun
+합자 po:noun
+합자하다 po:verb
+항공편 po:noun prop:가산명사
+항소 po:noun
+해경 po:noun orig:해안_경비대 # 군사
+해부 po:noun
 해제하다 po:verb
 행 po:noun
+향방 po:noun
+향신료 po:noun prop:가산명사
+허탈하다 po:adjective
+헌금 po:noun
 헝가리어 po:noun from:Hungary
 헤더 po:noun prop:가산명사 from:header
+현금화 po:noun
+협의하다 po:verb
+협조하다 po:verb
+형상화하다 po:verb
 호출 po:noun prop:가산명사
 호출자 po:noun prop:가산명사
 호출하다 po:verb
 호칭 po:noun prop:가산명사
 호환되다 po:verb
+혼쭐 po:noun
 혼합 po:noun
 혼합되다 po:verb
 홀수 po:noun prop:가산명사
@@ -529,19 +809,35 @@
 활성화하다 po:verb
 회오리 po:noun prop:가산명사
 회전하다 po:verb
+횡재 po:noun
 휘다 po:verb
 흐릿하다 po:adjective
 히브리어 po:noun from:Hebrew
 히스토그램 po:noun prop:가산명사 from:histogram # 수학
 힌트 po:noun prop:가산명사 from:hint
 힙합 po:noun from:hiphop
-현금화 po:noun
-마저 po:adverb
-교역 po:noun
-귀속 po:noun
-난감 po:noun
-난감하다 po:adjective
-당첨자 po:noun prop:가산명사
-보름달 po:noun
-반달 po:noun
-초승달 po:noun
+클릭하다 po:verb
+훌쩍 po:adverb
+토박이 po:noun prop:가산명사
+낌새 po:noun
+병사 po:noun prop:가산명사
+반항적 po:noun
+전세계적 po:noun
+배움터 po:noun prop:가산명사
+오동작 po:noun prop:가산명사
+장악 po:noun
+지체하다 po:verb
+약소하다 po:adjective
+해일 po:noun
+옷감 po:noun prop:가산명사
+기왕 po:adverb
+기왕에 po:adverb
+기왕이면 po:adverb
+이왕 po:adverb
+이왕에 po:adverb
+이왕이면 po:adverb
+습도계 po:noun prop:가산명사
+통계학 po:noun
+생명과학 po:noun
+케이크 po:noun prop:가산명사 from:cake
+

@@ -68,7 +68,7 @@
 #값 po:noun
 #강 po:noun
 강경투쟁 po:noun
-강경하다 po:adjective
+#강경하다 po:adjective
 #강남 po:noun
 #강아지 po:noun
 강요 po:noun
@@ -83,7 +83,7 @@
 개그 po:noun
 개그맨 po:noun
 개그우먼 po:noun
-개념 po:noun
+개념 po:noun prop:가산명사
 개발자 po:noun prop:가산명사
 개봉영화 po:noun
 개설 po:noun
@@ -111,7 +111,7 @@
 #거치다 po:verb
 #걱정 po:noun
 #걱정하다 po:verb
-건강보험 po:noun
+건강보험 po:noun prop:가산명사
 건강식 po:noun
 #건너다 po:verb
 #건드리다 po:verb
@@ -476,7 +476,7 @@
 돌입하다 po:verb
 돌출부 po:noun
 동결 po:noun
-동결 po:noun
+#동결 po:noun
 #동료 po:noun
 동맹 po:noun
 동명이인 po:noun prop:가산명사
@@ -662,7 +662,7 @@
 배포되다 po:verb
 백과사전 po:noun prop:가산명사
 #백인 po:noun
-버전 po:noun
+#x버전 po:noun
 #버튼 po:noun
 버퍼 po:noun
 #벌이다 po:verb
@@ -926,7 +926,7 @@
 수치 po:noun
 수탈 po:noun
 #숨지다 po:verb
-##숫자 po:noun
+#숫자 po:noun
 #쉽다 po:adjective
 스웨덴 po:noun
 스위스 po:noun
@@ -1201,7 +1201,7 @@
 #유명하다 po:adjective
 #유명하다 po:adjective
 #유사하다 po:adjective
-유일하다 po:adjective
+#유일하다 po:adjective
 유지비 po:noun
 유통 po:noun
 육교 po:noun
@@ -1549,9 +1549,9 @@
 천왕성 po:noun
 #천재 po:noun
 철새 po:noun
-철수 po:noun
+#철수 po:noun
 철수하다 po:verb
-철수하다 po:verb
+#철수하다 po:verb
 첩보원 po:noun
 청구 po:noun
 청구금액 po:noun
@@ -1634,7 +1634,7 @@
 #클래식 po:noun
 #키 po:noun
 키보드 po:noun
-키보드 po:noun
+#키보드 po:noun
 타르 po:noun
 타살 po:noun
 타자 po:noun
@@ -1771,17 +1771,17 @@
 함락 po:noun
 함수 po:noun
 합락되다 po:verb
-합류 po:noun
+#합류 po:noun
 합류하다 po:verb
 합병 po:noun
-합병 po:noun
+#합병 po:noun
 합병하다 po:verb
 합선 po:noun
 합성 po:noun
 합성하다 po:verb
 #항공 po:noun
 #항공기 po:noun
-항공사 po:noun
+항공사 po:noun prop:가산명사
 항공업계 po:noun
 #항구 po:noun
 항목 po:noun prop:가산명사
