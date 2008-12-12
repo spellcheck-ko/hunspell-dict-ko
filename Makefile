@@ -14,10 +14,10 @@ COLLECT =
 all: $(AFFIX) $(DICT)
 
 $(AFFIX) flaginfo.py: make-aff.py config.py
-	$(PYTHON) make-aff.py flaginfo.py > $(AFFIX)
+	$(PYTHON) make-aff.py flaginfo.py > $(AFFIX) || (rm -f $@; false)
 
 $(DICT): make-dic.py $(DICT_SOURCES) flaginfo.py 
-	$(PYTHON) make-dic.py $(DICT_SOURCES) > $@
+	$(PYTHON) make-dic.py $(DICT_SOURCES) > $@ || (rm -f $@; false)
 
 clean: 
 	rm -f $(CLEANFILES)
