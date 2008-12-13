@@ -11,6 +11,12 @@ CLEANFILES = $(AFFIX) $(DICT) flaginfo.py
 
 COLLECT = 
 
+PACKAGE = hunspell-dict-ko
+VERSION = $(shell python -c 'import config;print(config.version)')
+DISTNAME = $(PACKAGE)-$(VERSION)
+RELEASETAG = HEAD
+
+
 all: $(AFFIX) $(DICT)
 
 $(AFFIX) flaginfo.py: make-aff.py config.py
@@ -22,4 +28,7 @@ $(DICT): make-dic.py $(DICT_SOURCES) flaginfo.py
 clean: 
 	rm -f $(CLEANFILES)
 
-.PHONY: all clean
+dist:
+	git-archive --format=tar --prefix=$(DISTNAME)/ $(RELEASETAG) | gzip -9 -c > $(DISTNAME).tar.gz
+
+.PHONY: all clean dist
