@@ -20,6 +20,7 @@ header = '''\
 # Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
 #
+# Automatically generated; don't edit it directly.
 '''
 
 ## FLAG management
@@ -33,4 +34,4 @@ countable_noun_flag = 5         # "-들" 붙일 수 있는 가산명사
 
 forbidden_flag = 6		# 규칙의 예외로 금지할 단어
 
-endings_flag_start = 1000       # 어미
+endings_flag_start = 100        # 어미
