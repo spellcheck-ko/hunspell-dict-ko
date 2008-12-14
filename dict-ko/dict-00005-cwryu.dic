@@ -174,7 +174,7 @@
 #경제력 po:noun
 경제용어 po:noun
 #경제학 po:noun
-경제학자 po:noun
+경제학자 po:noun prop:가산명사
 #경찰 po:noun
 경품 po:noun
 #경향 po:noun
@@ -411,7 +411,7 @@
 당구 po:noun
 당국 po:noun
 #당시 po:noun
-당신 po:noun
+#당신 po:noun
 닿소리 po:noun
 #대가 po:noun
 대검찰청 po:noun
@@ -522,8 +522,8 @@
 #레마누라 po:noun
 로그아웃 po:noun from:log_out
 루마니아 po:noun prop:고유명사 from:Romania
-리눅스 po:noun
-리모콘 po:noun prop:가산명사
+리눅스 po:noun from:Linux # 컴퓨터
+리모컨 po:noun prop:가산명사 from:remote_control
 리본 po:noun
 링크 po:noun
 #마구 po:adverb
@@ -889,16 +889,16 @@
 #세미나 po:noun
 세벌식 po:noun
 #소개하다 po:verb
-소견 po:noun
-소굴 po:noun
+소견 po:noun prop:가산명사
+소굴 po:noun prop:가산명사
 #소규모 po:noun
 #소금 po:noun
 소련 po:noun
-소련군 po:noun
+소련군 po:noun prop:가산명사
 #소리 po:noun
 #소매 po:noun
 소모적 po:noun
-소방대원 po:noun
+소방대원 po:noun prop:가산명사
 소비에트 po:noun
 #설 po:noun
 소설책 po:noun prop:가산명사
@@ -958,15 +958,15 @@
 #시작하다 po:verb
 #시점 po:noun
 시중은행 po:noun prop:가산명사
-시체 po:noun
+시체 po:noun prop:가산명사
 시카고 po:noun
 #식량 po:noun
-식민지 po:noun
+식민지 po:noun prop:가산명사
 식수 po:noun
 #신 po:noun
 #신고 po:noun
 #신규 po:noun
-신기술 po:noun
+신기술 po:noun prop:가산명사
 #신기하다 po:adjective
 #신문 po:noun
 #신문사 po:noun
@@ -980,9 +980,9 @@
 실구매가 po:noun
 실물 po:noun
 실업 po:noun
-실업자 po:noun
+실업자 po:noun prop:가산명사
 실용 po:noun
-실적 po:noun
+실적 po:noun prop:가산명사
 #실제 po:noun
 실종 po:noun
 #실천 po:noun
@@ -1224,7 +1224,7 @@
 의회 po:noun
 #이 po:pronoun
 #이미지 po:noun
-이민자 po:noun
+이민자 po:noun prop:가산명사
 #이불 po:noun
 #이야기하다 po:verb
 #이어지다 po:verb
@@ -1318,7 +1318,7 @@
 #장점 po:noun
 #장학금 po:noun
 재배 po:noun
-재빠르다 po:adjective
+재빠르다 po:adjective prop:르불규칙
 #재산 po:noun
 재산세 po:noun
 #재판 po:noun
@@ -1769,7 +1769,7 @@
 #할머니 po:noun
 #할아버지 po:noun
 함락 po:noun
-함수 po:noun
+함수 po:noun prop:가산명사
 합락되다 po:verb
 #합류 po:noun
 합류하다 po:verb

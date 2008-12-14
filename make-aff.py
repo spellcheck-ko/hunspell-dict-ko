@@ -1,23 +1,41 @@
 # -*- coding: utf-8 -*-
 # dictionary generating script
 #
-# Copyright 2008 (C) Changwoo Ryu
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #
-# This library is free software; you can redistribute it and/or
-# modify it under the terms of the GNU Lesser General Public
-# License as published by the Free Software Foundation; either
-# version 2.1 of the License, or (at your option) any later version.
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
 #
-# This library is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-# Lesser General Public License for more details.
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
 #
-# You should have received a copy of the GNU Lesser General Public
-# License along with this library; if not, write to the Free Software
-# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+# The Original Code is Hunspell Korean spellchecking dictionary.
 #
+# The Initial Developer of the Original Code is
+# Changwoo Ryu.
+# Portions created by the Initial Developer are Copyright (C) 2008
+# the Initial Developer. All Rights Reserved.
 #
+# Contributor(s): Changwoo Ryu <cwryu@debian.org>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the GPL or the LGPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
 
 import sys
 import unicodedata
@@ -157,8 +175,6 @@ endings = [
     },
     ######################################################################
     ## '-(으)시-' 높임 선어말
-    # TODO: 계시다,모시다 + -시- 금지
-    # TODO: 불규칙
     { 'id': 2,
       'name': '-시-', 'cond': cond_vowel,
       'after': ['#용언', '#이다'],
@@ -167,11 +183,12 @@ endings = [
     { 'id': 2,
       'name': '-시-', 'cond': u'\u11af', 'strip': u'\u11af',
       'after': ['#용언'],
+      'except': ['계시다', '모시다']
     },
     { 'id': 2,
       'name': '-으시-', 'cond': cond_trailing_r,
       'after': ['#용언'],
-      'except': ['#ㅂ불규칙'], # 60 참고
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙'], # 참고: 60, 70
     },
     ######################################################################
     ## '-겠-' 시제 선어말
@@ -200,6 +217,7 @@ endings = [
       'cond': ['[%s]' % all_vowel_ao.replace('\u1165', ''), # 'ㅓ' 제외
                '[%s][%s]' % (all_vowel_ao, all_trailing)],
       'after': ['#용언', '#이다', '-으시-'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙', '#ㅎ불규칙'],  # 101/111/120/130 참고
     },
     # ㅓ 탈락
     { 'id': 5,
@@ -211,6 +229,7 @@ endings = [
       'name': '-았-', 'cond': [u'\u1169',
                                '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙', '#ㅎ불규칙'],  # 101/111/120/130 참고
     },
     # 중복 ㅏ 탈락
     { 'id': 5,
@@ -278,6 +297,7 @@ endings = [
     { 'id': 7,
       'name': u'-을', 'cond': cond_trailing_r,
       'after': ['#용언', '-었-'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙'],
     },
     ######################################################################
     ##
@@ -287,7 +307,6 @@ endings = [
     },
     ######################################################################
     ## '-ㄴ'
-    # TODO: 불규칙
     { 'id': 9,
       'name': u'-\u11ab', 'cond': cond_vowel,
       'after': ['#동사', '#이다', '#형용사', '-으시-'],
@@ -300,6 +319,7 @@ endings = [
     { 'id': 9,
       'name': u'-은', 'cond': cond_trailing_r,
       'after': ['#동사', '#형용사'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙'],
     },
     ######################################################################
     ##
@@ -316,6 +336,7 @@ endings = [
     { 'id': 11,
       'name': u'-으며', 'cond': cond_trailing_r,
       'after': ['#용언', '-었-', '-겠-'],
+      'except': ['#ㅂ불규칙'],
     },
     ######################################################################
     ## '-ㅂ니다', '-습니다'
@@ -346,7 +367,7 @@ endings = [
       'after': ['#용언', '#이다'],
     },
     # ㄹ 탈락
-    { 'id': 14,
+   { 'id': 14,
       'name': u'-세요', 'cond': u'\u11af', 'strip': u'\u11af',
       'after': ['#용언'],
     },
@@ -372,7 +393,7 @@ endings = [
       'cond': ['[%s]' % all_vowel_ao.replace('\u1165', ''), # 'ㅓ' 제외
                '[%s][%s]' % (all_vowel_ao, all_trailing)],
       'after': ['#용언'],
-      'except': ['#ㅂ불규칙'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙'],
     },
     # ㅓ 탈락
     { 'id': 16,
@@ -384,7 +405,7 @@ endings = [
       'name': u'-아서', 'cond': ['[%s]' % u'\u1169',
                                  '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'],
-      'except': ['#ㅂ불규칙'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙'],
     },
     # 중복 ㅏ 탈락
     { 'id': 16,
@@ -490,12 +511,12 @@ endings = [
     },
     ######################################################################
     ## '-어', '-아'
-    # TODO: 불규칙
     { 'id': 24,
       'name': u'-어',
       'cond': ['[%s]' % all_vowel_ao.replace(u'\u1165',''), # 'ㅓ' 제외
                '[%s][%s]' % (all_vowel_ao, all_trailing)],
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙', '#ㅎ불규칙'],
     },
     # ㅓ 뒤에 -어: ㅓ 탈락
     { 'id': 24,
@@ -506,6 +527,7 @@ endings = [
       'name': u'-아', 'cond': ['[%s]' % u'\u1169',
                                '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'], 
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙', '#ㅎ불규칙'],
     },
     # ㅏ 뒤에 -아
     { 'id': 24,
@@ -565,7 +587,6 @@ endings = [
     },
     ######################################################################
     ## '-려고', '-으려고'
-    # TODO: 불규칙
     { 'id': 27,
       'name': u'-려고', 'cond': cond_vowel_r,
       'after': ['#동사', '-으시-'],
@@ -573,6 +594,7 @@ endings = [
     { 'id': 27,
       'name': u'-으려고', 'cond': cond_trailing_r,
       'after': ['#동사'],
+      'after': ['#ㅂ불규칙', '#ㅅ불규칙'], # 참고: TODO
     },
     ######################################################################
     ## '-도록'
@@ -629,6 +651,7 @@ endings = [
       'cond': ['[%s]' % all_vowel_ao.replace('\u1165', ''), # 'ㅓ' 제외
                '[%s][%s]' % (all_vowel_ao, all_trailing)],
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙'],
     },
     # 중복 ㅓ 탈락
     { 'id': 31,
@@ -639,6 +662,7 @@ endings = [
       'name': u'-아요', 'cond': ['[%s]' % u'\u1169',
                                  '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'], 
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙'],
     },
     # 'ㅏ'+'아요': ㅏ 탈락
     { 'id': 31,
@@ -689,7 +713,9 @@ endings = [
     },
     ######################################################################
     ## 하다 -> '-히'
-    # TODO: 예외, "뚜렷이"
+    # FIXME: '-히'가 일관되게 붙지는 않는다. '-이'가 되기도 하고, 아예 이런
+    # 형태가 없는 형용사도 있으므로 규칙으로 유지할 지 별도 단어로 입력할 지
+    # 고민해 봐야 함.
     { 'id': 33,
       'name': u'-히', 'cond': '하', 'strip': '하',
       'after': ['#형용사'],
@@ -701,6 +727,7 @@ endings = [
       'cond': ['[%s]' % all_vowel_ao.replace('\u1165', ''), # 'ㅓ' 제외
                '[%s][%s]' % (all_vowel_ao, all_trailing)],
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙'],
     },
     # 중복 ㅓ 탈락
     { 'id': 34,
@@ -711,6 +738,7 @@ endings = [
       'name': u'-아야', 'cond': ['[%s]' % u'\u1169',
                                  '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙'],
     },
     # 'ㅏ'+'아야': ㅏ 탈락
     { 'id': 34,
@@ -829,6 +857,7 @@ endings = [
     { 'id': 42,
       'name': u'-음', 'cond': cond_trailing_r,
       'after': ['#용언', '-었-', '-겠-'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙'],
     },
     ######################################################################
     ## '-니까', '-으니까'
@@ -913,6 +942,7 @@ endings = [
       'cond': ['[%s]' % all_vowel_ao.replace('\u1165', ''), # 'ㅓ' 제외
                '[%s][%s]' % (all_vowel_ao, all_trailing)],
       'after': ['#용언', '#이다'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙'],
     },
     # 중복 ㅓ 탈락
     { 'id': 48,
@@ -923,6 +953,7 @@ endings = [
       'name': u'-아도', 'cond':  ['[%s]' % u'\u1169',
                                   '[%s][%s]' % (u'\u1161\u1169', all_trailing)],
       'after': ['#용언'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#르불규칙'],
     },
     # 'ㅏ'+'아도': ㅏ 탈락
     { 'id': 48,
@@ -1060,72 +1091,304 @@ endings = [
       'name': u'-다시피', 'cond': '.',
       'after': ['#동사', '-으시-', '-었-', '-겠-']
     },
+    
+    ######################################################################
+    ## '-(으)나'
+    { 'id': 60,
+      'name': u'-나', 'cond': cond_vowel,
+      'after': ['#용언', '#이다', '-으시-', '-사오-']
+    },
+    # ㄹ 탈락
+    { 'id': 60,
+      'name': u'-나', 'cond': u'\u11af', 'strip': u'\u11af',
+      'after': ['#용언']
+    },
+    { 'id': 60,
+      'name': u'-으나', 'cond': cond_trailing_r,
+      'after': ['#용언', '-었-', '-겠-']
+      # TODO: 불규칙
+    },
 
     ######################################################################
     # NOTE: 불규칙 활용은 어간과 연결될 때만 발생하므로 어미 연결은 지정할
     # 필요가 없고, groupid는 선어말 어미에서만 지정하면 된다.
 
+    ######################################################################
     ## ㅂ불규칙: '-우시-', '-으시-' 대신
-    { 'id': 60, 'groupid': 2,
+    { 'id': 100, 'groupid': 2,
       'name': '-우시-', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅂ불규칙'],
     },
 
-    { 'id': 61, 'groupid': 5,
+    { 'id': 101, 'groupid': 5,
       'name': '-웠-','cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-왔-' 사용
     },
 
-    { 'id': 62, 'groupid': 5,
+    { 'id': 102, 'groupid': 5,
       'name': '-왔-','cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['곱다', '돕다'],
     },
 
-    ## ㅂ불규칙: '-워...', '-어...' 대신
-    { 'id': 63,
+    ## ㅂ불규칙 어말어미: 공통 
+    { 'id': 103,
+      'name': u'-운', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'], 
+    },
+    { 'id': 103,
+      'name': u'-움', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'], 
+    },
+    { 'id': 103,
+      'name': u'-울', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],
+    },
+    { 'id': 103,
+      'name': u'-우며', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],
+    },
+# FIXME: 동사+ㅂ불규칙만 골라내야 된다. 이런 제길.
+#    { 'id': 103,
+#      'name': u'-우려', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+#      'after': ['#ㅂ불규칙'], 
+#    },
+
+    ## ㅂ불규칙 어말어미: '곱다'와 '돕다'를 제외하곤 모음에 관계없이 '우'로 통일
+    { 'id': 104,
       'name': '-워', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
     },
-    { 'id': 63,
+    { 'id': 104,
       'name': '-워서', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
     },
-    { 'id': 63,
+    { 'id': 104,
       'name': '-워요', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
     },
-    { 'id': 63,
+    { 'id': 104,
       'name': '-워야', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
     },
-    { 'id': 63,
+    { 'id': 104,
       'name': '-워도', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅂ불규칙'],'except': ['곱다', '돕다'], # 예외: 대신 '-와' 사용
     },
 
 
-    ## ㅂ불규칙: '-와...', '곱다' 및 '돕다'에서만 사용
-    { 'id': 64,
+    ## ㅂ불규칙 어말어미: '곱다' 및 '돕다'에서만 사용
+    { 'id': 105,
       'name': '-와', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['곱다', '돕다'],
     },
-    { 'id': 64,
+    { 'id': 105,
       'name': '-와서', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['곱다', '돕다'],
     },
-    { 'id': 64,
+    { 'id': 105,
       'name': '-와요', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['곱다', '돕다'],
     },
-    { 'id': 64,
+    { 'id': 105,
       'name': '-와야', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['곱다', '돕다'],
     },
-    { 'id': 64,
+    { 'id': 105,
       'name': '-와도', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['곱다', '돕다'],
     },
-    
+
+    ######################################################################
+    ## ㅅ불규칙: ㅅ 받침 탈락
+    { 'id': 110, 'groupid': 2,
+      'name': '-으시-', 'cond': u'\u11ba', 'strip': u'\u11ba', 
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 111, 'groupid': 5,
+      'name': '-었-', 'cond': u'[%s]\u11ba' % all_vowel_ao, 'strip': u'\u11ba', 
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 111, 'groupid': 5,
+      'name': '-았-', 'cond': u'[\u1161\u1169]\u11ba', 'strip': u'\u11ba', 
+      'after': ['#ㅅ불규칙'],
+    },
+    ## 어말어미:
+    { 'id': 112,
+      'name': '-은', 'cond': u'\u11ba', 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-음', 'cond': u'\u11ba', 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': u'-을', 'cond': u'\u11ba', 'strip': u'\u11ba', 
+      'after': ['#ㅅ불규칙'],
+    },
+    # '-어...'에서 ㅅ 탈락
+    { 'id': 112,
+      'name': '-어', 'cond': u'[%s]\u11ba' % all_vowel_ao, 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-아', 'cond': u'[\u1161\u1169]\u11ba', 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-어서', 'cond': u'[%s]\u11ba' % all_vowel_ao, 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-아서', 'cond': u'[\u1161\u1169]\u11ba', 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-어요', 'cond': u'[%s]\u11ba' % all_vowel_ao, 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-아요', 'cond': u'[\u1161\u1169]\u11ba', 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-어야', 'cond': u'[%s]\u11ba' % all_vowel_ao, 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-아야', 'cond': u'[\u1161\u1169]\u11ba', 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-어도', 'cond': u'[%s]\u11ba' % all_vowel_ao, 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': '-아도', 'cond': u'[\u1161\u1169]\u11ba', 'strip': u'\u11ba',
+      'after': ['#ㅅ불규칙'],
+    },
+
+# FIXME: 동사+ㅅ불규칙만 골라내야 된다. 이런 제길.
+#    { 'id': 113,
+#      'name': u'-으려고', 'cond': u'\u11ba', 'strip': u'\u11ba',
+#      'after': ['#동사'],
+#      'after': ['#ㅅ불규칙'], # 참고 63
+#    },
+
+    ######################################################################
+    ## 르 불규칙
+    { 'id': 120, 'groupid': 5,
+      'name': u'-\u11af렀-',
+      'cond': [ u'[%s]르' % all_vowel_ao,
+                u'[%s][%s]르' % (all_vowel_ao, all_trailing) ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 120, 'groupid': 5,
+      'name': u'-\u11af랐-',
+      'cond': [ u'[\u1161\u1169]르', u'[\u1161\u1169][%s]르' % all_trailing ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+
+    ## 르 불규칙 어말어미
+    { 'id': 121,
+      'name': u'-\u11af러',
+      'cond': [ u'[%s]르' % all_vowel_ao,
+                u'[%s][%s]르' % (all_vowel_ao, all_trailing) ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af라',
+      'cond': [ u'[\u1161\u1169]르', u'[\u1161\u1169][%s]르' % all_trailing ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af러서',
+      'cond': [ u'[%s]르' % all_vowel_ao,
+                u'[%s][%s]르' % (all_vowel_ao, all_trailing) ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af라서',
+      'cond': [ u'[\u1161\u1169]르', u'[\u1161\u1169][%s]르' % all_trailing ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af러요',
+      'cond': [ u'[%s]르' % all_vowel_ao,
+                u'[%s][%s]르' % (all_vowel_ao, all_trailing) ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af라요',
+      'cond': [ u'[\u1161\u1169]르', u'[\u1161\u1169][%s]르' % all_trailing ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af러야',
+      'cond': [ u'[%s]르' % all_vowel_ao,
+                u'[%s][%s]르' % (all_vowel_ao, all_trailing) ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af라야',
+      'cond': [ u'[\u1161\u1169]르', u'[\u1161\u1169][%s]르' % all_trailing ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af러도',
+      'cond': [ u'[%s]르' % all_vowel_ao,
+                u'[%s][%s]르' % (all_vowel_ao, all_trailing) ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+    { 'id': 121,
+      'name': u'-\u11af라도',
+      'cond': [ u'[\u1161\u1169]르', u'[\u1161\u1169][%s]르' % all_trailing ],
+      'strip': u'르',
+      'after': ['#르불규칙'],
+    },
+
+    ######################################################################
+    ## ㅎ불규칙
+    # 파랗다 -> 파랬다
+    { 'id': 130, 'groupid': 5,
+      'name': u'-\u1162\u11bb-',
+      'cond': u'\u1161\u11c2', 'strip': u'\u1161\u11c2',
+      'after': ['#ㅎ불규칙'],
+    },
+    # 하얗다 -> 하얘ㅆ다
+    { 'id': 130, 'groupid': 5,
+      'name': u'-\u1164\u11bb-',
+      'cond': u'\u1163\u11c2', 'strip': u'\u1163\u11c2',
+      'after': ['#ㅎ불규칙'],
+    },
+    # 누렇다 -> 누레ㅆ다
+    { 'id': 130, 'groupid': 5,
+      'name': u'-\u1166\u11bb-',
+      'cond': u'\u1165\u11c2', 'strip': u'\u1165\u11c2',
+      'after': ['#ㅎ불규칙'],
+    },
+
+    ## ㅎ불규칙 어말어미
+    # -ㄴ
+    { 'id': 131,
+      'name': u'-\u11ab', 'cond': u'\u11c2', 'strip': u'\u11c2',
+      'after': ['#ㅎ불규칙'],
+    },
+    # ㅏ+아 -> ㅐ
+    { 'id': 131,
+      'name': u'-\u1162', 'cond': u'\u1161\u11c2', 'strip': u'\u1161\u11c2',
+      'after': ['#ㅎ불규칙'],
+    },
 
 ]
 
@@ -1275,6 +1538,8 @@ josas = [('이', cond_trailing),
          ('보다', '.'),
          ('이라', cond_trailing),
          ('라', cond_vowel),
+         ('이란', cond_trailing),
+         ('란', cond_vowel),
          ('만', '.'),
          ('만이', '.'),
          ('이나', cond_trailing),
@@ -1298,6 +1563,8 @@ josas = [('이', cond_trailing),
          ('라는', ','),         # '라고 하는' 준말
          ('로부터', cond_vowel_r),
          ('으로부터', cond_trailing_r),
+         ('이야', cond_trailing), # '-(이)야' 강조
+         ('야', cond_vowel),
          ]
 
 # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기

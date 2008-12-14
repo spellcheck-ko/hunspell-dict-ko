@@ -348,7 +348,7 @@
 난초 po:noun
 난항 po:noun
 날벼락 po:noun prop:가산명사
-남다르다 po:adjective
+남다르다 po:adjective prop:르불규칙
 납 po:noun
 납세자 po:noun prop:가산명사
 납치되다 po:verb
@@ -404,7 +404,7 @@
 단돈 po:noun
 단발 po:noun
 단정하다 po:verb
-단조롭다 po:adjective
+단조롭다 po:adjective prop:ㅂ불규칙
 단축 po:noun
 단축되다 po:verb
 단축하다 po:verb
@@ -576,7 +576,7 @@
 매니저 po:noun prop:가산명사
 매도 po:noun
 매도하다 po:verb
-매듭짓다 po:verb
+매듭짓다 po:verb prop:ㅅ불규칙
 매매 po:noun
 매수세 po:noun
 매입 po:noun
@@ -731,7 +731,8 @@
 버팀목 po:noun prop:가산명사
 버퍼링 po:noun from:buffering
 벅차다 po:verb
-벅차오르다 po:verb
+벅차오르다 po:verb prop:르불규칙
+
 번트 po:noun prop:가산명사 from:bunt # 야구
 벌금형 po:noun
 벌집 po:noun prop:가산명사
@@ -1540,7 +1541,7 @@
 조성되다 po:verb
 조종사 po:noun prop:가산명사
 조치하다 po:verb
-조합 po:noun
+조합 po:noun prop:가산명사
 조항 po:noun prop:가산명사
 족보 po:noun prop:가산명사
 졸업논문 po:noun prop:가산명사
@@ -2035,7 +2036,7 @@
 훈수 po:noun prop:가산명사
 훑다 po:verb
 훼손되다 po:verb
-휘두르다 po:verb
+휘두르다 po:verb prop:르불규칙
 휘말리다 po:verb
 휘장 po:noun prop:가산명사
 흐트러지다 po:verb
@@ -2044,7 +2045,7 @@
 흡수하다 po:verb
 흡연 po:noun
 흡입 po:noun
-흥겹다 po:verb
+흥겹다 po:verb prop:ㅂ불규칙
 흥망성쇠 po:noun
 흥정 po:noun
 흥정하다 po:verb

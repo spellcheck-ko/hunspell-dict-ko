@@ -22,7 +22,7 @@
 감독상 po:noun
 감량 po:noun
 감면 po:noun
-감미롭다 po:adjective
+감미롭다 po:adjective prop:ㅂ불규칙
 감시 po:noun
 감염 po:noun
 감정가 po:noun
@@ -364,7 +364,7 @@
 다이어리 po:noun from:diary
 다잡다 po:verb
 다주택 po:noun
-다채롭다 po:adjective
+다채롭다 po:adjective prop:ㅂ불규칙
 단 po:counter # 태권도 1단
 단거리 po:noun
 단검 po:noun prop:가산명사
@@ -379,7 +379,7 @@
 달랑 po:adverb
 달성 po:noun
 달성하다 po:verb
-달아오르다 po:verb
+달아오르다 po:verb prop:르불규칙
 달인 po:noun prop:가산명사
 달콤하다 po:adjective
 달하다 po:verb
@@ -558,7 +558,7 @@
 모슬렘 po:noun from:Moslem
 모질다 po:adjective
 모터 po:noun prop:가산명사 from:motor
-목매다 po:verb
+#목매다 po:verb
 목성 po:noun
 목적어 po:noun prop:가산명사
 목젖 po:noun
@@ -576,7 +576,7 @@
 무관하다 po:verb
 무기한 po:noun
 무더기 po:noun
-무릎쓰다 po:verb
+무릎쓰다 po:verb prop:으불규칙
 무림 po:noun
 무소속 po:noun
 무승부 po:noun prop:가산명사
@@ -688,16 +688,16 @@
 #베팅 po:noun from:betting
 벼랑 po:noun prop:가산명사
 변경하다 po:verb
-변수 po:noun
+변수 po:noun prop:가산명사
 변신하다 po:verb
 변형 po:noun
 변환 po:noun
 별관 po:noun
-별똥별 po:noun
-별미 po:noun
+별똥별 po:noun prop:가산명사
+별미 po:noun prop:가산명사
 별반 po:adverb
 병 po:counter # 음료수 1병
-병신 po:noun
+병신 po:noun prop:가산명사
 병원장 po:noun prop:가산명사
 병장 po:noun prop:가산명사
 보강 po:noun
@@ -845,7 +845,7 @@
 상팔자 po:noun
 상행선 po:noun
 상향 po:noun
-새빨갛다 po:adjective
+새빨갛다 po:adjective prop:ㅎ불규칙
 새터민 po:noun prop:가산명사
 색인 po:noun prop:가산명사
 색채 po:noun
@@ -1035,25 +1035,25 @@
 신병 po:noun
 신생 po:noun
 신설하다 po:verb
-신조어 po:noun
+신조어 po:noun prop:가산명사
 신체검사 po:noun
 신형 po:noun
-신호탄 po:noun
+신호탄 po:noun prop:가산명사
 신혼 po:noun
 실리콘 po:noun from:silicon
 실망스럽다 po:verb prop:ㅂ불규칙
-실명 po:noun
+실명 po:noun prop:가산명사
 실사 po:noun
 실사하다 po:verb
 실세 po:noun prop:가산명사
 실속 po:noun
 실업률 po:noun
-실탄 po:noun
+실탄 po:noun prop:가산명사
 실행 po:noun
 실행시키다 po:verb
 실행하다 po:verb
 실험적 po:noun
-실형 po:noun
+실형 po:noun prop:가산명사
 심경 po:noun
 심사하다 po:verb
 심화 po:noun
@@ -1063,11 +1063,11 @@
 쌍안경 po:noun prop:가산명사
 쐬다 po:verb
 아니하다 po:verb
-아동 po:noun
-아몬드 po:noun
+아동 po:noun prop:가산명사
+아몬드 po:noun prop:가산명사
 아이콘 po:noun prop:가산명사 from:icon
 아찔하다 po:adjective
-악단 po:noun
+악단 po:noun prop:가산명사
 악영향 po:noun
 악용하다 po:verb
 악의적 po:noun
@@ -1081,7 +1081,7 @@
 알선 po:noun
 암기 po:noun
 암기법 po:noun
-암세포 po:noun
+암세포 po:noun prop:가산명사
 암표 po:noun prop:가산명사
 압박감 po:noun
 압박하다 po:verb
@@ -1091,17 +1091,17 @@
 액셀러레이터 po:noun from:accelerator
 액체 po:noun
 야경 po:noun
-약관 po:noun
+약관 po:noun prop:가산명사
 약물 po:noun prop:가산명사
-약체 po:noun
+약체 po:noun prop:가산명사
 양궁 po:noun
 양도세 po:noun
 양미간 po:noun
 양심선언 po:noun
 양해 po:noun
-어간 po:noun
-어미 po:noun
-어민 po:noun
+어간 po:noun prop:가산명사
+어미 po:noun prop:가산명사
+어민 po:noun prop:가산명사
 어업 po:noun
 어음 po:noun prop:가산명사
 어이없다 po:adjective
@@ -1111,7 +1111,7 @@
 얽다 po:verb
 얽히다 po:verb
 엄청 po:adverb
-업계 po:noun
+업계 po:noun prop:가산명사
 업그레이드 po:noun
 업그레이드하다 po:verb
 업종별 po:noun
@@ -1121,7 +1121,7 @@
 여신 po:noun
 여야 po:noun
 여정 po:noun
-여탕 po:noun
+여탕 po:noun prop:가산명사
 여태 po:adverb
 여태껏 po:adverb
 여행객 po:noun prop:가산명사
@@ -1178,7 +1178,7 @@
 올겨울 po:noun
 올리브 po:noun from:olive
 올챙이 po:noun
-옵션 po:noun from:option
+옵션 po:noun from:option prop:가산명사
 완결 po:noun
 완승 po:noun
 완파 po:noun
@@ -1485,7 +1485,7 @@
 질타 po:noun
 질타하다 po:verb
 질투 po:noun
-질환 po:noun
+질환 po:noun prop:가산명사
 집계 po:noun
 집권 po:noun
 집집 po:noun

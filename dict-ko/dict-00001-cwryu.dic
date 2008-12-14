@@ -77,7 +77,7 @@
 #기회 po:noun
 #길 po:noun
 #깊다 po:adjective
-까다롭다 po:adjective
+까다롭다 po:adjective prop:ㅂ불규칙
 #끊임없다 po:adjective
 #끝 po:noun
 #끝내 po:adverb
@@ -111,7 +111,7 @@
 단언 po:noun
 단호하다 po:adjective
 #달리다 po:verb
-당사국 po:noun
+당사국 po:noun prop:가산명사
 당연 po:noun
 #당연하다 po:adjective
 대결 po:noun
@@ -260,7 +260,7 @@
 수용 po:noun
 #수준 po:noun
 #수출 po:noun
-순조롭다 po:adjective
+순조롭다 po:adjective prop:ㅂ불규칙
 #스스로 po:noun
 #시간 po:noun
 시장경제 po:noun
@@ -302,7 +302,7 @@
 #외부 po:noun
 #요구 po:noun
 #요구하다 po:verb
-요소 po:noun
+요소 po:noun prop:가산명사
 용납 po:noun
 용납하다 po:verb
 우라늄 po:noun

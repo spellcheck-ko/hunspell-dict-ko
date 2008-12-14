@@ -1,22 +1,41 @@
 # -*- coding: utf-8 -*-
 # dictionary generating script
 #
-# Copyright 2008 (C) Changwoo Ryu
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #
-# This library is free software; you can redistribute it and/or
-# modify it under the terms of the GNU Lesser General Public
-# License as published by the Free Software Foundation; either
-# version 2.1 of the License, or (at your option) any later version.
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
 #
-# This library is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-# Lesser General Public License for more details.
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
 #
-# You should have received a copy of the GNU Lesser General Public
-# License along with this library; if not, write to the Free Software
-# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+# The Original Code is Hunspell Korean spellchecking dictionary.
 #
+# The Initial Developer of the Original Code is
+# Changwoo Ryu.
+# Portions created by the Initial Developer are Copyright (C) 2008
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Changwoo Ryu <cwryu@debian.org>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the GPL or the LGPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
 
 import sys
 import unicodedata
@@ -44,8 +63,7 @@ class Dictionary:
         self.words = set([])
 
     def load_file(self, filename):
-        errstr_duplicated = 'Duplicated. The older one will be overwritten'
-        errstr_overwritten = 'The older one'
+        errstr_duplicated = '경고: 중복 단어 무시 (덮어 쓰려면 meta:remove로 지우고 사용).'
         # read it
         lines = open(filename).readlines()
         for lineno in range(len(lines)):
@@ -62,9 +80,12 @@ class Dictionary:
                 warn('%s:%d: %s' % (filename, lineno+1, errstr))
                 sys.exit(1)
             if word in self.words:
-                warn('%s:%d: %s' % (filename, lineno+1, errstr_duplicated))
-                self.remove(word)
-            self.add(word)
+                if word.meta == 'remove':
+                    self.remove(word)
+                else:
+                    warn('%s:%d: %s' % (filename, lineno+1, errstr_duplicated))
+            else:
+                self.add(word)
 
     def add(self, word):
         self.words.add(word)
@@ -130,6 +151,7 @@ class Word:
             except KeyError:
                 raise ParseError, 'Unknown info key "%s"' % key
 
+        self.verify_props()
         self.compute_flags()
                 
     def is_forbidden(self):
@@ -141,15 +163,24 @@ class Word:
         n = cmp(self.word, other.word)
         if n != 0:
             return n
-        n = cmp(self.meta, other.meta)
-        if n != 0:
-            return n
+        #n = cmp(self.meta, other.meta)
+        #if n != 0:
+        #    return n
         n = cmp(self.po, other.po)
         if n != 0:
             return n
         return 0
     def __hash__(self):
         return (self.word + self.po).__hash__()
+
+    def verify_props(self):
+        # -답다, -롭다, -업다로 끝나는 용언은 ㅂ불규칙
+        if ((self.po == 'verb' or self.po == 'adjective') and
+            (self.word.endswith('답다') or
+             self.word.endswith('롭다') or
+             (self.word.endswith('업다') and self.word != '업다')) and
+            (not 'ㅂ불규칙' in self.props)):
+            raise ParseError, 'ㅂ불규칙 용언으로 보이지만 속성 없음'
 
     def compute_flags(self):
         meta_default_flags = {
@@ -158,6 +189,7 @@ class Word:
 
         po_default_flags = {
             'noun': [ config.josa_flag ],
+            'pronoun': [ config.josa_flag ],
             'digit': [ config.josa_flag, config.digit_flag ],
             'counter': [ config.josa_flag, config.counter_flag ],
             'plural_suffix': [ config.josa_flag, config.plural_suffix_flag ],
@@ -172,7 +204,7 @@ class Word:
         except KeyError:
             pass
 
-        if self.po == 'noun':
+        if self.po == 'noun' or self.po == 'pronoun':
             if '가산명사' in self.props:
                 self.flags.append(config.countable_noun_flag)
 
