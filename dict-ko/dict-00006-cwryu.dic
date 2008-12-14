@@ -608,7 +608,7 @@
 귀국 po:noun
 귀국하다 po:verb
 귀신 po:noun prop:가산명사
-귀엽다 po:adjective
+귀엽다 po:adjective prop:ㅂ불규칙
 귀중하다 po:adjective
 귀찮다 po:adjective
 귀하다 po:adjective
@@ -1254,7 +1254,7 @@
 닭고기 po:noun prop:가산명사
 닮다 po:verb
 담 po:noun prop:가산명사
-담그다 po:verb
+담그다 po:verb prop:으불규칙
 담기다 po:verb
 담다 po:verb
 담당 po:noun prop:가산명사
@@ -1570,7 +1570,7 @@
 따로 po:adverb
 따로따로 po:adverb
 #따르다 po:verb
-따르다 po:verb
+따르다 po:verb prop:으불규칙
 따스하다 po:adjective
 딱 po:adverb
 #딱 po:adverb
@@ -4299,7 +4299,7 @@
 입학하다 po:verb
 입히다 po:verb
 잇다 po:verb prop:ㅅ불규칙
-잇따르다 po:verb prop:르불규칙
+잇따르다 po:verb prop:으불규칙
 있다 po:verb
 #있다	보
 있다 po:adjective
@@ -4631,7 +4631,7 @@
 정보화 po:noun
 정부 po:noun prop:가산명사
 정비 po:noun
-정상 po:noun
+정상 po:noun prop:가산명사
 #정상 po:noun
 정상적 po:noun
 정성 po:noun prop:가산명사
