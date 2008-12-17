@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# dictionary generating script
+# 사전 파일 생성
 #
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -53,7 +53,7 @@ def warn(u8str):
     return sys.stderr.write(u8str + '\n')
 
 import config
-from flaginfo import flaginfo
+import suffix
 
 class ParseError(Exception):
     pass
@@ -210,28 +210,8 @@ class Word:
                 self.flags.append(config.countable_noun_flag)
 
         if self.po == 'verb' or self.po == 'adjective':
-            for flag in flaginfo.keys():
-                starts = flaginfo[flag][0]
-                excepts = flaginfo[flag][1]
-                if self.word in excepts:
-                    continue
-                if self.word in starts:
-                    self.flags.append(flag)
-                    continue
-
-                # only when one prop is in 'starts' and not in 'excepts'
-                for prop in self.props:
-                    if ('#'+prop) in starts:
-                        break
-                else:
-                    continue
-                for prop in self.props:
-                    if ('#'+prop) in excepts:
-                        break
-                else:
-                    self.flags.append(flag)
-
-                
+            p = { 'verb': '동사', 'adjective': '형용사' }
+            self.flags = suffix.find_flags(self.word, p[self.po], self.props)
 
         self.flags.sort()
 
