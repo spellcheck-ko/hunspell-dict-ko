@@ -565,7 +565,7 @@
 국내외 po:noun
 국립 po:noun
 국물 po:noun
-국민 po:noun prop:가산명사
+국민 po:noun prop:불가산명사
 국민적 po:noun
 국사 po:noun
 국산 po:noun
@@ -844,7 +844,7 @@
 까다 po:verb
 까닭 po:noun
 까만색 po:noun
-까맣다 po:adjective
+까맣다 po:adjective prop:ㅎ불규칙
 까먹다 po:verb
 까치 po:noun prop:가산명사
 깍두기 po:noun prop:가산명사
@@ -1059,7 +1059,7 @@
 넘어지다 po:verb
 넘치다 po:verb
 넣다 po:verb
-네 po:determiner
+네 po:determiner orig:너의
 네 po:interjection
 네거리 po:noun prop:가산명사
 넥타이 po:noun prop:가산명사
@@ -1857,7 +1857,7 @@
 모기 po:noun prop:가산명사
 모니터 po:noun prop:가산명사
 모델 po:noun prop:가산명사
-모두 po:noun
+모두 po:noun prop:가산명사
 모두 po:adverb
 모든 po:determiner
 모래 po:noun prop:가산명사
@@ -2701,7 +2701,7 @@
 상품 po:noun
 상하다 po:verb
 상황 po:noun
-새 po:noun
+새 po:noun prop:가산명사
 #새 po:noun
 새 po:determiner
 새기다 po:verb
@@ -3892,7 +3892,7 @@
 용돈 po:noun
 용서 po:noun
 용서하다 po:verb
-용어 po:noun
+용어 po:noun prop:가산명사
 우려 po:noun
 우리 po:pronoun
 우리나라 po:noun
@@ -3971,7 +3971,7 @@
 위반 po:noun
 위반하다 po:verb
 위법 po:noun prop:가산명사
-위성 po:noun
+위성 po:noun prop:가산명사
 위아래 po:noun
 위원 po:noun prop:가산명사
 위원장 po:noun prop:가산명사
@@ -4074,7 +4074,7 @@
 #이	수
 이같이 po:adverb
 이거 po:pronoun
-이것 po:pronoun
+이것 po:pronoun prop:가산명사
 이것저것 po:noun
 이곳 po:pronoun
 이곳저곳 po:noun
@@ -5033,7 +5033,7 @@
 차 po:noun prop:가산명사
 #차 po:noun
 #차 po:noun
-차갑다 po:adjective
+차갑다 po:adjective prop:ㅂ불규칙
 차남 po:noun prop:가산명사
 차다 po:verb
 #차다 po:verb
@@ -5067,7 +5067,7 @@
 참기름 po:noun
 참다 po:verb
 참되다 po:adjective
-참새 po:noun
+참새 po:noun prop:가산명사
 참석 po:noun
 참석자 po:noun prop:가산명사
 참석하다 po:verb
@@ -5969,3 +5969,4 @@
 힘쓰다 po:verb prop:으불규칙
 힘없이 po:adverb
 힘차다 po:adjective
+합성어 po:noun prop:가산명사

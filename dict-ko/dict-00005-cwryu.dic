@@ -172,7 +172,7 @@
 #경쟁력 po:noun
 경쟁사 po:noun
 #경제력 po:noun
-경제용어 po:noun
+경제용어 po:noun prop:가산명사
 #경제학 po:noun
 경제학자 po:noun prop:가산명사
 #경찰 po:noun
@@ -507,7 +507,7 @@
 등지 po:noun
 디지털 po:noun
 디트로이트 po:noun
-따갑다 po:adjective
+따갑다 po:adjective prop:ㅂ불규칙
 #따르다 po:verb
 #딸 po:noun
 땅 po:noun
@@ -798,7 +798,7 @@
 사원채용 po:noun
 #사위 po:noun
 사이다 po:noun
-사이트 po:noun
+사이트 po:noun prop:가산명사 from:site
 #사전 po:noun prop:가산명사
 #사진기 po:noun
 사태 po:noun
@@ -1548,7 +1548,7 @@
 천연기념물 po:noun
 천왕성 po:noun
 #천재 po:noun
-철새 po:noun
+철새 po:noun prop:가산명사
 #철수 po:noun
 철수하다 po:verb
 #철수하다 po:verb

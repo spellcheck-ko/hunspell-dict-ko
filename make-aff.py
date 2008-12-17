@@ -87,13 +87,18 @@ out('WORDCHARS 0123456789\n')
 trychars = u'\u110b\u1161\u1175\u11ab\u1100\u1109\u1173\u1169\u11bc\u110c\u1165\u116e\u1103\u11af\u1112\u1107\u11a8\u1162\u1105\u1102\u1106\u1166\u1167\u110e\u11b7\u1110\u116a\u1111\u11b8\u116d\u1172\u110f\u1174\u116f\u116c\u11bb\u11ba\u1163\u1101\u1171\u1168\u1104\u11c0\u110a\u11b9\u11bd\u11ae\u11ad\u11c1\u110d\u116b\u11c2\u11be\u1108\u11b0\u1170\u11b1\u11b2\u11a9\u11b6\u11ac\u1164\u11aa\u11b3\u11b4\u11b5\u11bf'
 out('TRY %s\n' % trychars)
 
-out('ICONV 11172\n')
-for k in range(0xac00, 0xd7a3 + 1):
-    out('ICONV %s %s\n' % (unichr(k), unicodedata.normalize("NFD", unichr(k))))
 
-out('OCONV 11172\n')
-for k in range(0xac00, 0xd7a3 + 1):
-    out('OCONV %s %s\n' % (unicodedata.normalize("NFD", unichr(k)), unichr(k)))
+def write_conv_table():
+    out('ICONV 11172\n')
+    for uch in map(unichr, range(0xac00, 0xd7a3 + 1)):
+        out('ICONV %s %s\n' % (uch, unicodedata.normalize("NFD", uch)))
+    out('OCONV 11172\n')
+    for uch in map(unichr, range(0xac00, 0xd7a3 + 1)):
+        out('OCONV %s %s\n' % (unicodedata.normalize("NFD", uch), uch))
+
+write_conv_table()
+
+
 
 ## TODO: KEY - 두벌식 키보드 배치
 
@@ -325,7 +330,17 @@ endings = [
     ##
     { 'id': 10,
       'name': u'-지', 'cond': '.',
-      'after': ['#용언', '-으시-'],
+      'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
+    },
+    # 보조사
+    { 'id': 10,
+      'name': u'-지요', 'cond': '.',
+      'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
+    },
+    # 지요 준말
+    { 'id': 10,
+      'name': u'-죠', 'cond': '.',
+      'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
     ######################################################################
     ##
@@ -1110,6 +1125,24 @@ endings = [
     },
 
     ######################################################################
+    ## '-ㄹ수록', '-을수록'
+    { 'id': 60,
+      'name': u'-\u11af수록', 'cond': cond_vowel,
+      'after': ['#용언', '#이다', '-으시-']
+    },
+    # ㄹ 탈락
+    { 'id': 60,
+      'name': u'-\u11af수록', 'cond': u'\u11af', 'strip': u'\u11af',
+      'after': ['#용언'],
+    },
+    { 'id': 60,
+      'name': u'-을수록', 'cond': cond_trailing_r,
+      'after': ['#용언', '-었-'],
+      'except': ['#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙'],
+    },
+
+
+    ######################################################################
     # NOTE: 불규칙 활용은 어간과 연결될 때만 발생하므로 어미 연결은 지정할
     # 필요가 없고, groupid는 선어말 어미에서만 지정하면 된다.
 
@@ -1146,6 +1179,10 @@ endings = [
     },
     { 'id': 103,
       'name': u'-우며', 'cond': u'\u11b8', 'strip': u'\u11b8', 
+      'after': ['#ㅂ불규칙'],
+    },
+    { 'id': 103,
+      'name': u'-울수록', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅂ불규칙'],
     },
 # FIXME: 동사+ㅂ불규칙만 골라내야 된다. 이런 제길.
@@ -1224,6 +1261,10 @@ endings = [
     },
     { 'id': 112,
       'name': u'-을', 'cond': u'\u11ba', 'strip': u'\u11ba', 
+      'after': ['#ㅅ불규칙'],
+    },
+    { 'id': 112,
+      'name': u'-을수록', 'cond': u'\u11b8', 'strip': u'\u11b8', 
       'after': ['#ㅅ불규칙'],
     },
     # '-어...'에서 ㅅ 탈락
@@ -1388,6 +1429,11 @@ endings = [
     # ㅏ+아 -> ㅐ
     { 'id': 131,
       'name': u'-\u1162', 'cond': u'\u1161\u11c2', 'strip': u'\u1161\u11c2',
+      'after': ['#ㅎ불규칙'],
+    },
+    # -ㄹ수록
+    { 'id': 131,
+      'name': u'-\u11af수록', 'cond': u'\u11c2', 'strip': u'\u11c2', 
       'after': ['#ㅎ불규칙'],
     },
 

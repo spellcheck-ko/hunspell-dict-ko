@@ -269,8 +269,8 @@
 워싱턴 po:noun
 #원숭이 po:noun
 웹 po:noun
-웹사이트 po:noun
-웹페이지 po:noun
+웹사이트 po:noun prop:가산명사 from:web_site
+웹페이지 po:noun prop:가산명사 from:web_page
 위성방송 po:noun
 위상 po:noun
 #위원장 po:noun
@@ -303,17 +303,17 @@
 할당 po:noun
 할부 po:noun
 #합격 po:noun
-해법 po:noun
+해법 po:noun prop:가산명사
 해저 po:noun
-해적 po:noun
-행성 po:noun
-현역 po:noun
+해적 po:noun prop:가산명사
+행성 po:noun prop:가산명사
+현역 po:noun prop:가산명사
 #현장 po:noun
-협약 po:noun
+협약 po:noun prop:가산명사
 #형제 po:noun
 혼수 po:noun
 홍콩 po:noun
-화보 po:noun
+화보 po:noun prop:가산명사
 #화려하다 po:adjective
 #화보 po:noun
 #화분 po:noun
@@ -448,7 +448,7 @@
 #태양 po:noun
 태연 po:noun
 택배 po:noun
-텃새 po:noun
+텃새 po:noun prop:가산명사
 텍사스 po:noun
 #텍스트 po:noun
 #통과 po:noun

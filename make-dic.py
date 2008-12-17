@@ -178,7 +178,8 @@ class Word:
         if ((self.po == 'verb' or self.po == 'adjective') and
             (self.word.endswith('답다') or
              self.word.endswith('롭다') or
-             (self.word.endswith('업다') and self.word != '업다')) and
+             (self.word.endswith('업다') and self.word != '업다') or
+             self.word.endswith('스럽다')) and
             (not 'ㅂ불규칙' in self.props)):
             raise ParseError, 'ㅂ불규칙 용언으로 보이지만 속성 없음'
 
