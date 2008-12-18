@@ -377,37 +377,7 @@ groups[u'-어'] = [
     },
 ]
 
-#### 연결: -어서, -아서
-# '-어' 재활용
-groups[u'-어서'] = copy_group(groups[u'-어'])
-for klass in groups[u'-어서']:
-    for r in klass['rules']:
-        r[0] = r[0] + '서'
-
-#### 연결: -어도, -아도
-# '-어' 재활용
-groups[u'-어도'] = copy_group(groups[u'-어'])
-for klass in groups[u'-어도']:
-    for r in klass['rules']:
-        r[0] = r[0] + '도'
-
-#### 종결: -어요, -아요
-# '-어' 재활용
-groups[u'-어요'] = copy_group(groups[u'-어'])
-for klass in groups[u'-어요']:
-    new_rule = []
-    for r in klass['rules']:
-        new_rule.append([r[0] + '요'] + r[1:])
-    klass['rules'] = new_rule
-
-#### 연결: -어야, -아야
-# '-어' 재활용
-groups[u'-어야'] = copy_group(groups[u'-어'])
-for klass in groups[u'-어야']:
-    for r in klass['rules']:
-        r[0] = r[0] + '야'
-
-#### 연결: -어다, -아다
+#### 연결: -어다, -아다 (동사)
 # '-어' 재활용
 groups[u'-어다'] = copy_group(groups[u'-어'])
 for klass in groups[u'-어다']:
@@ -428,8 +398,8 @@ groups[u'-어라'] = copy_group(groups[u'-어'])
 for klass in groups[u'-어라']:
     for r in klass['rules']:
         r[0] = r[0] + '라'
+# 거라불규칙/너라불규칙 포함
 groups[u'-어라'][0]['notcond'] += ['#거라불규칙', '#너라불규칙']
-
 groups[u'-어라'] += [
     # 거라불규칙
     { 'rules': [[u'-거라', '', '']],
@@ -442,6 +412,43 @@ groups[u'-어라'] += [
       'cond': ['#너라불규칙'],
     },
 ]
+
+#### 연결: -어도, -아도
+# '-어' 재활용
+groups[u'-어도'] = copy_group(groups[u'-어'])
+for klass in groups[u'-어도']:
+    for r in klass['rules']:
+        r[0] = r[0] + '도'
+
+#### 연결: -어서, -아서
+# '-어' 재활용
+groups[u'-어서'] = copy_group(groups[u'-어'])
+for klass in groups[u'-어서']:
+    for r in klass['rules']:
+        r[0] = r[0] + '서'
+
+#### 연결: -어야, -아야
+# '-어' 재활용
+groups[u'-어야'] = copy_group(groups[u'-어'])
+for klass in groups[u'-어야']:
+    for r in klass['rules']:
+        r[0] = r[0] + '야'
+
+#### 연결: -어야, -아야
+# '-어' 재활용
+groups[u'-어야지'] = copy_group(groups[u'-어'])
+for klass in groups[u'-어야지']:
+    for r in klass['rules']:
+        r[0] = r[0] + '야지'
+
+#### 종결: -어요, -아요
+# '-어' 재활용
+groups[u'-어요'] = copy_group(groups[u'-어'])
+for klass in groups[u'-어요']:
+    new_rule = []
+    for r in klass['rules']:
+        new_rule.append([r[0] + '요'] + r[1:])
+    klass['rules'] = new_rule
 
 #### 관형사형 전성: -ㄹ, -을
 groups[u'-을'] = [
