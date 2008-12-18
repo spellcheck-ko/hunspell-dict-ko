@@ -51,30 +51,6 @@ def NFD(unistr):
 def NFC(unistr):
     return unicodedata.normalize('NFC', unistr)
 
-def dump(groups):
-    for key in groups.keys():
-        print('**** %s ****' % key)
-        for klass in groups[key]:
-            print('***')
-            try:
-                print('** after: %s' % ', '.join(klass['after']))
-            except:
-                pass
-            try:
-                print('** cond: %s' % ', '.join(klass['cond']))
-            except:
-                pass
-            try:
-                print('** notafter: %s' % ', '.join(klass['notafter']))
-            except:
-                pass
-            try:
-                print('** notcond: %s' % ', '.join(klass['notcond']))
-            except:
-                pass
-            for rule in klass['rules']:
-                print('** rule: %s %s %s' % (rule[0], rule[1], rule[2]))
-
 # 조건이 list일 경우 확장
 def expand_by_cond():
     for key in groups.keys():
@@ -121,7 +97,8 @@ def expand_by_link():
         for key in refgroups.keys():
             g = refgroups[key]
             for k in g:
-                if '-' in k['after'] or last in k['after']:
+                if (('-' in k['after'] or last in k['after']) and
+                    (not k.has_key('notafter') or not last in k['notafter'])):
                     for r in k['rules']:
                         if re.match(NFD(u'.*' + r[1] + '$'), NFD(last[:-1])):
                             rules.append(r)
@@ -158,29 +135,66 @@ def expand_by_link():
             for rule in klass['rules']:
                 del rule[3]
 
-def attach_flags():
-    count = 0
-    for key in groups.keys():
-        for klass in groups[key]:
-            klass['flag'] = (config.endings_flag_start + count)
-            count = count + 1
-
 expand_by_cond()
 clean_up_cond()
 expand_by_link()
+
+# 연결이 끝나면 그룹끼리 구분할 필요가 없다.
+klasses = []
+for key in groups.keys():
+    klasses += groups[key]
+del groups
+
+# 선어말어미 연결 정보도 필요 없다.
+for klass in klasses:
+    for condname in ['after', 'notafter']:
+        try:
+            klass[condname] = [c for c in klass[condname] if c[0] != '-']
+        except:
+            pass
+
+# 같은 조건의 클래스를 머지한다.
+def eq_klass_cond(a, b):
+    for condname in ['after', 'notafter', 'cond', 'notcond']:
+        if a.has_key(condname) and b.has_key(condname):
+            if a[condname] != b[condname]:
+                return False
+        elif a.has_key(condname) or b.has_key(condname):
+            return False
+    return True
+new_klasses = []
+for klass in klasses:           # 무식한 방법이지만 간단히...
+    for new_klass in new_klasses:
+        if eq_klass_cond(klass, new_klass):
+            new_klass['rules'] += klass['rules']
+            break
+    else:
+        new_klasses.append(klass)        
+klasses = new_klasses
+del new_klasses
+
+# flag 부착
+def attach_flags():
+    count = 0
+    for klass in klasses:
+        klass['flag'] = (config.endings_flag_start + count)
+        count = count + 1
 attach_flags()
 
+
+######################################################################
+## 외부 사용
+
 def write_suffixes(file):
-    for key in groups.keys():
-        for klass in groups[key]:
-            flag = klass['flag']
-            file.write('SFX %d Y %d\n' % (flag, len(klass['rules'])))
-            for r in klass['rules']:
-                suffix = r[0][1:] # 앞에 '-' 빼기
-                condition = r[1] + '다'
-                strip = r[2] + '다'
-                file.write(NFD('SFX %d %s %s %s\n' %
-                               (flag, strip, suffix, condition)))
+    for klass in klasses:
+        flag = klass['flag']
+        file.write('SFX %d Y %d\n' % (flag, len(klass['rules'])))
+        for r in klass['rules']:
+            suffix = r[0][1:] # 앞에 '-' 빼기
+            condition = r[1] + '다'
+            strip = r[2] + '다'
+            file.write(NFD('SFX %d %s %s %s\n' %
+                           (flag, strip, suffix, condition)))
 
 def class_match_word(klass, word, po, props):
     if (klass.has_key('after') and
@@ -204,27 +218,25 @@ def class_match_word(klass, word, po, props):
 # 해당되는 flag 찾기
 def find_flags(word, po, props):
     result = []
-    for group in [groups[key] for key in groups.keys()]:
-        for klass in group:
-            if class_match_word(klass, word, po, props):
-                result.append(klass['flag'])
+    for klass in klasses:
+        if class_match_word(klass, word, po, props):
+            result.append(klass['flag'])
     return result
             
     
 # 가능한 모든 활용 형태 만들기
 def make_conjugations(word, po, props):
     result = []
-    for group in [groups[key] for key in groups.keys()]:
-        for klass in group:
-            if not class_match_word(klass, word, po, props):
-                continue
-
-            for r in klass['rules']:
-                if re.match(NFD(u'.*' + r[1] + '다$'), NFD(word)):
-                    if r[2]:
-                        striplen = len(NFD(r[2] + u'다'))
-                    else:
-                        striplen = len(NFD(u'다'))
-                    result.append(NFC(NFD(word)[:-striplen] + r[0][1:]))
+    for klass in klasses:
+        if not class_match_word(klass, word, po, props):
+            continue
+        
+        for r in klass['rules']:
+            if re.match(NFD(u'.*' + r[1] + '다$'), NFD(word)):
+                if r[2]:
+                    striplen = len(NFD(r[2] + u'다'))
+                else:
+                    striplen = len(NFD(u'다'))
+                result.append(NFC(NFD(word)[:-striplen] + r[0][1:]))
     return result
 
