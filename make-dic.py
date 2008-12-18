@@ -63,7 +63,7 @@ class Dictionary:
         self.words = set([])
 
     def load_file(self, filename):
-        errstr_duplicated = '경고: 중복 단어 무시 (덮어 쓰려면 meta:remove로 지우고 사용).'
+        errstr_duplicated = '경고: 중복 무시 (바꾸려면 meta:remove로 지우고, 동음이의어는 idno: 값 사용).'
         # read it
         lines = open(filename).readlines()
         for lineno in range(len(lines)):
