@@ -245,8 +245,8 @@
 건지다 po:verb
 건축 po:noun
 걷기 po:noun
-걷다 po:verb
-#걷다 po:verb
+걷다 po:verb prop:ㄷ불규칙 # "길을 걷다"
+걷다 po:verb idno:1 # "세금을 걷다"
 #걷다 po:verb
 걸다 po:verb
 걸리다 po:verb
@@ -360,7 +360,7 @@
 고무신 po:noun prop:가산명사
 고민 po:noun
 고민하다 po:verb
-고생 po:noun
+고생 po:noun prop:가산명사
 고생하다 po:verb
 고소하다 po:adjective
 고속 po:noun
@@ -749,7 +749,7 @@
 #기 po:noun
 기간 po:noun
 기계 po:noun prop:가산명사
-기관 po:noun
+기관 po:noun prop:가산명사
 기구 po:noun prop:가산명사
 #기구 po:noun
 기기 po:noun
@@ -860,7 +860,7 @@
 깨끗해지다 po:verb
 #깨다 po:verb
 깨다 po:verb
-깨닫다 po:verb
+깨닫다 po:verb prop:ㄷ불규칙
 깨달음 po:noun
 깨뜨리다 po:verb
 깨소금 po:noun
@@ -1530,7 +1530,7 @@
 들다 po:verb
 들려오다 po:verb
 들려주다 po:verb
-들르다 po:verb
+들르다 po:verb prop:으불규칙
 들리다 po:verb
 들어가다 po:verb
 들어서다 po:verb
@@ -1634,7 +1634,7 @@
 뛰어오르다 po:verb prop:르불규칙
 뜨겁다 po:adjective prop:ㅂ불규칙
 #뜨다 po:verb
-뜨다 po:verb
+뜨다 po:verb prop:으불규칙
 #뜨다 po:verb
 뜯다 po:verb
 뜰 po:noun
@@ -1870,7 +1870,7 @@
 모양 po:noun prop:가산명사
 #모양	의
 모여들다 po:verb
-모으다 po:verb
+모으다 po:verb prop:으불규칙
 모이다 po:verb
 모임 po:noun prop:가산명사
 모자 po:noun prop:가산명사
@@ -3200,7 +3200,7 @@
 신혼부부 po:noun prop:가산명사
 신혼여행 po:noun prop:가산명사
 신화 po:noun prop:가산명사
-싣다 po:verb
+싣다 po:verb prop:ㄷ불규칙
 실 po:noun
 실감 po:noun
 실내 po:noun
@@ -4069,7 +4069,7 @@
 의학 po:noun
 이 po:noun
 #이	의
-이 po:pronoun
+이 po:pronoun prop:가산명사
 이 po:determiner
 #이	수
 이같이 po:adverb
@@ -4084,7 +4084,7 @@
 이내 po:adverb
 이내 po:noun
 이념 po:noun prop:가산명사
-이놈 po:pronoun
+이놈 po:pronoun prop:가산명사
 이다음 po:noun
 이달 po:noun
 이대로 po:adverb
@@ -4109,8 +4109,8 @@
 이루어지다 po:verb
 이룩하다 po:verb
 이뤄지다 po:verb
-이르다 po:verb prop:르불규칙
-#이르다 po:verb
+이르다 po:verb prop:르불규칙 # "엄마한테 이를꺼야"
+이르다 po:verb idno:1 prop:러불규칙 # "연말에 이르러서야 일을 시작했다"
 이르다 po:adjective
 이름 po:noun prop:가산명사
 이리 po:adverb
@@ -5571,8 +5571,8 @@
 표현 po:noun prop:가산명사
 표현되다 po:verb
 표현하다 po:verb
-푸다 po:verb
-푸르다 po:adjective
+푸다 po:verb prop:우불규칙
+푸르다 po:adjective prop:러불규칙
 푹 po:adverb
 풀 po:noun
 #풀 po:noun
@@ -5873,15 +5873,15 @@
 확인 po:noun
 확인되다 po:verb
 확인하다 po:verb
-확장 po:noun
+확장 po:noun prop:가산명사
 확정 po:noun
 환갑 po:noun
-환경 po:noun
+환경 po:noun prop:가산명사
 환경오염 po:noun
 환영 po:noun
 환영하다 po:verb
 환율 po:noun
-환자 po:noun
+환자 po:noun prop:가산명사
 환하다 po:adjective
 활기 po:noun
 활동 po:noun prop:가산명사

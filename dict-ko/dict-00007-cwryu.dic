@@ -374,7 +374,7 @@
 단백질 po:noun prop:가산명사
 단순화시키다 po:verb
 단어장 po:noun prop:가산명사
-단원 po:noun
+단원 po:noun prop:가산명사
 단행본 po:noun prop:가산명사
 달랑 po:adverb
 달성 po:noun
@@ -1359,7 +1359,7 @@
 정기국회 po:noun
 정보기관 po:noun prop:가산명사 prop:가산명사
 정보통신 po:noun
-정부기관 po:noun
+정부기관 po:noun prop:가산명사
 정부안 po:noun
 정석 po:noun
 정점 po:noun
@@ -1391,7 +1391,7 @@
 존엄사 po:noun
 존중되다 po:verb
 종 po:counter # 1종, 2종
-종가집 po:noun
+#종가집 po:noun
 종료 po:noun
 종료되다 po:verb
 종족 po:noun prop:가산명사
