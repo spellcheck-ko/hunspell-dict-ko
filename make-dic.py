@@ -105,6 +105,7 @@ class Word:
         self.word = ''
         self.meta = ''
         self.po = ''
+        self.idno = 0
         self.st = ''
         self.props = set()
         self.flags = []
@@ -120,6 +121,8 @@ class Word:
             elif val == 'adjective':
                 self.props.add('용언')
                 self.props.add('형용사')
+        def load_idno(self, val):
+            self.idno = int(val)
         def load_st(self, val):
             self.st = val
         def load_meta(self, val):
@@ -132,6 +135,7 @@ class Word:
 
         info_load_funcs = { 'po': load_po,
                             'st': load_st,
+                            'idno': load_idno,
                             'meta': load_meta,
                             'prop': load_prop,
                             'from': load_none,
@@ -151,6 +155,11 @@ class Word:
             except KeyError:
                 raise ParseError, 'Unknown info key "%s"' % key
 
+        if self.po == 'verb' and self.word.endswith('가다'):
+            self.props.add('거라불규칙')
+        if self.po == 'verb' and self.word.endswith('오다'):
+            self.props.add('너라불규칙')
+
         self.verify_props()
         self.compute_flags()
                 
@@ -163,10 +172,10 @@ class Word:
         n = cmp(self.word, other.word)
         if n != 0:
             return n
-        #n = cmp(self.meta, other.meta)
-        #if n != 0:
-        #    return n
         n = cmp(self.po, other.po)
+        if n != 0:
+            return n
+        n = cmp(self.idno, other.idno)
         if n != 0:
             return n
         return 0
