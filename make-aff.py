@@ -54,6 +54,11 @@ def nfd(u8str):
 def nfc(u8str):
     return unicodedata.normalize('NFC', u8str.decode('UTF-8')).encode('UTF-8')
 
+def NFD(unistr):
+    return unicodedata.normalize('NFD', unistr)
+def NFC(unistr):
+    return unicodedata.normalize('NFC', unistr)
+
 def out(u8str):
     return sys.stdout.write(u8str)
 
@@ -217,8 +222,13 @@ josas = [('이', cond_trailing),
 # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
 # twofold suffix를 여기에 써먹기에는 아깝다
 ida_conjugations = suffix.make_conjugations(u'이다', '이다', [])
-# TODO: '-이다' 줄임형  구하기 '-다', '-라는'
-josas += [(c, '.') for c in ida_conjugations]
+for c in ida_conjugations:
+    if NFD(c)[:2] == NFD(u'여'):
+        # '-이어' -> '여' 줄임형은 받침이 있을 경우에만
+        josas.append((c, cond_vowel))
+    else:
+        josas.append((c, '.'))
+# TODO: '-이다'에서 '-이'를 생략한 줄임형 추가하기
 
 out('SFX %d Y %d\n' % (josa_flag, len(josas)))
 for (suffix,cond) in josas:
