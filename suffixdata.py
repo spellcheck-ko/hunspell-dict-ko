@@ -37,6 +37,8 @@
 #
 # ***** END LICENSE BLOCK *****
 
+import config
+
 ######################################################################
 #### 유틸리티
 
@@ -107,7 +109,11 @@ def copy_group(group):
         return new_class
     return [copy_class(klass) for klass in group]
 
-
+# 전성어미처럼 또 다른 접사 규칙이 적용될 수 있는 경우 플래그 지정 (예: ~음 + 을)
+def attach_continuation_flags(group, flags):
+    for klass in group:
+        for r in klass['rules']:
+            r.append(flags)
 
 #### 어/아로 시작하는 어미를 위한 유틸리티
 
@@ -907,6 +913,8 @@ groups[u'-기'] = [
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
+# FIXME: 조사 외에 다른 부분 고려
+attach_continuation_flags(groups[u'-기'], [config.josa_flag])
 
 #### 명사형 전성: -음
 groups[u'-음'] = [
@@ -925,6 +933,8 @@ groups[u'-음'] = [
     # ㅎ불규칙 TODO: 확인 필요
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11b7', ['#용언']),
 ]
+# FIXME: 조사 외에 다른 부분 고려
+attach_continuation_flags(groups[u'-음'], [config.josa_flag])
 
 #### 종결: -ㄴ다, -는다
 groups[u'-는다'] = [
@@ -1068,6 +1078,13 @@ attach_emphasis(groups[u'-으니까'], ['요'])
 groups[u'-라면'] = [
     { 'rules': [[u'-라면', '', '']],
       'after': ['#이다', '아니다', '-으시-', '-더-', '-으리-'],
+    },
+]
+
+#### 연결: -로구나
+groups[u'-로구나'] = [
+    { 'rules': [[u'-로구나', '', '']],
+      'after': ['#이다', '아니다', '-으시-'],
     },
 ]
 

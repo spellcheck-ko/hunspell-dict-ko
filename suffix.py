@@ -84,7 +84,7 @@ def clean_up_cond():
 
 # 선어말어미 연결
 def expand_by_link():
-    # [3]에 마지막 어미의 키워드 부착: 집에서 따라하지 마세요 :P
+    # 임시로 마지막 어미의 키워드 부착: 집에서 따라하지 마세요 :P
     for key in groups.keys():
         for klass in groups[key]:
             for rule in klass['rules']:
@@ -112,7 +112,7 @@ def expand_by_link():
 
             new_rules = [r for r in klass['rules'] if r[0][-1] != '-']
             for r in rules_to_expand:
-                last = r[3]
+                last = r[-1]
                 attaches = find_rules_to_attach(last)
                 for a in attaches:
                     if a[2]:
@@ -120,7 +120,7 @@ def expand_by_link():
                     else:
                         striplen = 0
                     new_suffix = NFC(NFD(r[0])[:-1-striplen] + a[0][1:])
-                    new_rules.append([new_suffix, r[1], r[2], a[3]])
+                    new_rules.append([new_suffix] + r[1:3] + a[3:])
             klass['rules'] = new_rules
 
     for key in groups.keys():
@@ -129,11 +129,11 @@ def expand_by_link():
         for klass in groups[key]:
             expand_class(klass)
 
-    # [3]의 마지막 어미 키워드 삭제
+    # 임시로 부착했던 마지막 어미 키워드 삭제
     for key in groups.keys():
         for klass in groups[key]:
             for rule in klass['rules']:
-                del rule[3]
+                del rule[-1]
 
 expand_by_cond()
 clean_up_cond()
@@ -193,8 +193,14 @@ def write_suffixes(file):
             suffix = r[0][1:] # 앞에 '-' 빼기
             condition = r[1] + '다'
             strip = r[2] + '다'
-            file.write(NFD('SFX %d %s %s %s\n' %
-                           (flag, strip, suffix, condition)))
+            try:
+                cont = ','.join(['%d' % c for c in r[3]])
+                sys.stderr.write('suffix: %s, cont: %s' % (suffix, cont))
+                file.write(NFD('SFX %d %s %s/%s %s\n' %
+                               (flag, strip, suffix, cont, condition)))
+            except IndexError:
+                file.write(NFD('SFX %d %s %s %s\n' %
+                               (flag, strip, suffix, condition)))
 
 def class_match_word(klass, word, po, props):
     if (klass.has_key('after') and
