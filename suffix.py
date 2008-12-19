@@ -195,7 +195,6 @@ def write_suffixes(file):
             strip = r[2] + '다'
             try:
                 cont = ','.join(['%d' % c for c in r[3]])
-                sys.stderr.write('suffix: %s, cont: %s' % (suffix, cont))
                 file.write(NFD('SFX %d %s %s/%s %s\n' %
                                (flag, strip, suffix, cont, condition)))
             except IndexError:
@@ -243,6 +242,11 @@ def make_conjugations(word, po, props):
                     striplen = len(NFD(r[2] + u'다'))
                 else:
                     striplen = len(NFD(u'다'))
-                result.append(NFC(NFD(word)[:-striplen] + r[0][1:]))
+                try:
+                    cont = '/' + ','.join(['%d' % c for c in r[3]])
+                except:
+                    cont = ''
+
+                result.append(NFC(NFD(word)[:-striplen] + r[0][1:]) + cont)
     return result
 
