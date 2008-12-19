@@ -64,6 +64,7 @@ class Dictionary:
 
     def load_file(self, filename):
         errstr_duplicated = '경고: 중복 무시 (바꾸려면 meta:remove로 지우고, 동음이의어는 idno: 값 사용).'
+        errstr_notfound = '경고: 해당 단어 없음'
         # read it
         lines = open(filename).readlines()
         for lineno in range(len(lines)):
@@ -79,11 +80,13 @@ class Dictionary:
             except ParseError, errstr:
                 warn('%s:%d: %s' % (filename, lineno+1, errstr))
                 sys.exit(1)
-            if word in self.words:
-                if word.meta == 'remove':
+            if word.meta == 'remove':
+                if word in self.words:
                     self.remove(word)
                 else:
-                    warn('%s:%d: %s' % (filename, lineno+1, errstr_duplicated))
+                    warn('%s:%d: %s' % (filename, lineno+1, errstr_notfound))
+            elif word in self.words:
+                warn('%s:%d: %s' % (filename, lineno+1, errstr_duplicated))
             else:
                 self.add(word)
 
