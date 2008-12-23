@@ -68,12 +68,6 @@ def outnfd(u8str):
 def err(u8str):
     return sys.stderr.write(u8str)
 
-## 모든 자음, 모음
-## 간략하게 하기 위해 중세국어는 제외
-all_leading = ''.join(map(unichr, range(0x1100,0x1112+1)))
-all_vowel = ''.join(map(unichr, range(0x1161,0x1175+1)))
-all_trailing = ''.join(map(unichr, range(0x11a8,0x11c2+1)))
-
 from config import header
 from config import version
 
@@ -126,15 +120,20 @@ from config import digit_flag
 from config import counter_flag
 from config import countable_noun_flag
 from config import plural_suffix_flag
+from config import alpha_flag
 
 out('COMPOUNDMIN 1\n')
 #out('ONLYINCOMPOUND %d\n' % plural_suffix_flag)
-out('COMPOUNDRULE 2\n')
+out('COMPOUNDRULE 3\n')
 # 숫자+단위
 out('COMPOUNDRULE (%d)*(%d)(%d)\n' % (digit_flag, digit_flag, counter_flag))
 # 가산명사+'들'
 out('COMPOUNDRULE (%d)(%d)\n' % (countable_noun_flag, plural_suffix_flag))
 # TODO: 가산명사+(들)끼리
+
+## tokenizer에서 로마자를 분리해 주지 않는 경우를 위해 로마자로 된 모든
+## 단어를 허용하고 명사로 취급한다.
+out('COMPOUNDRULE (%d)*(%d)?\n' % (alpha_flag, plural_suffix_flag))
 
 ######################################################################
 
@@ -154,69 +153,76 @@ suffix.write_suffixes(sys.stdout)
 
 ## 조사
 
-cond_all = '.'
-# 모음
-cond_vowel = '[%s]' % all_vowel
-# 받침
-cond_trailing = '[%s]' % all_trailing
-# 모음 + ㄹ받침
-cond_vowel_r = '[%s]' % (all_vowel + u'\u11af')
-# ㄹ 제외한 받침
-cond_trailing_r = '[%s]' % all_trailing.replace(u'\u11af', '')
+## 모든 자음, 모음
+## 간략하게 하기 위해 중세국어는 제외
+L_ALL = ''.join(map(unichr, range(0x1100,0x1112+1)))
+V_ALL = ''.join(map(unichr, range(0x1161,0x1175+1)))
+T_ALL = ''.join(map(unichr, range(0x11a8,0x11c2+1)))
+ALPHA_ALL = ''.join(map(unichr, range(ord('a'),ord('z')+1)))
+
+## 임의로 허용하는 로마자로 된 단어는 음운 구별을 하지 않는다. 할 방법이 없음.
+COND_ALL = '.'
+COND_V_ALL = '[%s]' % (V_ALL + ALPHA_ALL)
+COND_T_ALL = '[%s]' % (T_ALL + ALPHA_ALL)
+COND_V_OR_RIEUL = '[%s]' % (V_ALL + u'\u11af' + ALPHA_ALL)
+COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(u'\u11af', '') + ALPHA_ALL)
 
 from config import josa_flag
 
-josas = [('이', cond_trailing),
-         ('가',	cond_vowel),
-         ('을', cond_trailing),
-         ('를', cond_vowel),
-         ('과', cond_trailing),
-         ('와', cond_vowel),
-         ('은', cond_trailing),
-         ('는', cond_vowel),
-         ('으로', cond_trailing_r),
-         ('로', cond_vowel_r),
-         ('으로서', cond_trailing_r),
-         ('로서', cond_vowel_r),
-         ('으로써', cond_trailing_r),
-         ('로써', cond_vowel_r),
-         ('도', '.'),
-         ('부터', '.'),
-         ('에', '.'),
-         ('에서', '.'),
-         ('까지', '.'),
-         ('의', '.'),
-         ('에게', '.'),
-         ('께', '.'),
-         ('보다', '.'),
-         ('이라', cond_trailing),
-         ('라', cond_vowel),
-         ('이란', cond_trailing),
-         ('란', cond_vowel),
-         ('만', '.'),
-         ('만이', '.'),
-         ('이나', cond_trailing),
-         ('나', cond_vowel),
-         ('처럼', '.'),
-         ('서', '.'),           # '~에서' 준말
-         ('마다', '.'),         # 보조사, '모두'
-         ('에는', '.'),         # 에+'는' 보조사
-         ('엔', '.'),           # '에는' 준말
-         ('이라도', cond_trailing),
-         ('라도', cond_vowel),
-         ('밖에', '.'),
-         ('하고', '.'),         # 구어체
-         ('조차', '.'),
-         ('대로', '.'),
+josas = [('이', COND_T_ALL),
+         ('가',	COND_V_ALL),
+         ('을', COND_T_ALL),
+         ('를', COND_V_ALL),
+         ('과', COND_T_ALL),
+         ('와', COND_V_ALL),
+         ('은', COND_T_ALL),
+         ('는', COND_V_ALL),
+         ('으로', COND_T_NOT_RIEUL),
+         ('로', COND_V_OR_RIEUL),
+         ('으로서', COND_T_NOT_RIEUL),
+         ('로서', COND_V_OR_RIEUL),
+         ('으로써', COND_T_NOT_RIEUL),
+         ('로써', COND_V_OR_RIEUL),
+         ('도', COND_ALL),
+         ('부터', COND_ALL),
+         ('에', COND_ALL),
+         ('에서', COND_ALL),
+         ('까지', COND_ALL),
+         ('의', COND_ALL),
+         ('에게', COND_ALL),
+         ('께', COND_ALL),
+         ('보다', COND_ALL),
+         ('이라', COND_T_ALL),
+         ('라', COND_V_ALL),
+         ('이란', COND_T_ALL),
+         ('란', COND_V_ALL),
+         ('만', COND_ALL),
+         ('만이', COND_ALL),
+         ('이나', COND_T_ALL),
+         ('나', COND_V_ALL),
+         ('처럼', COND_ALL),
+         ('서', COND_ALL),           # '~에서' 준말
+         ('마다', COND_ALL),         # 보조사, '모두'
+         ('에는', COND_ALL),         # 에+'는' 보조사
+         ('엔', COND_ALL),           # '에는' 준말
+         ('이라도', COND_T_ALL),
+         ('라도', COND_V_ALL),
+         ('밖에', COND_ALL),
+         ('하고', COND_ALL),         # 구어체
+         ('조차', COND_ALL),
+         ('대로', COND_ALL),
 # FIXME: -ㄴ 조사를 허용하면 모든 명사에 ㄴ을 허용하게 되어 범위가 너무 넓어진다.
-#         (u'\u11ab', cond_vowel), # -ㄴ: '-는' 구어체
+#         (u'\u11ab', COND_V_ALL), # -ㄴ: '-는' 구어체
          # TODO: -한테 조사는 사람이나 동물 등에만 붙음
-         ('한테', '.'),
-         ('마저', '.'),
-         ('로부터', cond_vowel_r),
-         ('으로부터', cond_trailing_r),
-         ('이야', cond_trailing), # '-(이)야' 강조
-         ('야', cond_vowel),
+         ('한테', COND_ALL),
+         ('마저', COND_ALL),
+         ('로부터', COND_V_OR_RIEUL),
+         ('으로부터', COND_T_NOT_RIEUL),
+         ('이야', COND_T_ALL), # '-(이)야' 강조
+         ('야', COND_V_ALL),
+
+         ('이든', COND_ALL),
+         ('이든지', COND_ALL),
          ]
 
 # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
@@ -225,9 +231,9 @@ ida_conjugations = suffix.make_conjugations(u'이다', '이다', [])
 for c in ida_conjugations:
     if NFD(c)[:2] == NFD(u'여'):
         # '-이어' -> '여' 줄임형은 받침이 있을 경우에만
-        josas.append((c, cond_vowel))
+        josas.append((c, COND_V_ALL))
     else:
-        josas.append((c, '.'))
+        josas.append((c, COND_ALL))
 # TODO: '-이다'에서 '-이'를 생략한 줄임형 추가하기
 
 out('SFX %d Y %d\n' % (josa_flag, len(josas)))

@@ -2,14 +2,14 @@
 # 임의 추가
 #
 # 2008/12/05 "숫자+단위"에 대한 규칙으로 변경
-0 po:digit
-1 po:digit
-2 po:digit
-3 po:digit
-4 po:digit
-5 po:digit
-6 po:digit
-7 po:digit
-8 po:digit
-9 po:digit
+0 po:pseudo_digit
+1 po:pseudo_digit
+2 po:pseudo_digit
+3 po:pseudo_digit
+4 po:pseudo_digit
+5 po:pseudo_digit
+6 po:pseudo_digit
+7 po:pseudo_digit
+8 po:pseudo_digit
+9 po:pseudo_digit
 #월 po:counter

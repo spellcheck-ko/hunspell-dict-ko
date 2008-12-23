@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-version = '0.1.6'
+version = '0.1.7'
 header = '''\
 # This is the affix file of the Korean hunspell dictionary
 #
-# Automatically generated; don't edit it directly.
+# Automatically generated; do not edit it manually.
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -54,4 +54,6 @@ countable_noun_flag = 5         # "-들" 붙일 수 있는 가산명사
 
 forbidden_flag = 6		# 규칙의 예외로 금지할 단어
 
-endings_flag_start = 100        # 어미
+alpha_flag = 7                  # 영문자 섞어쓰기
+
+endings_flag_start = 100        # 용언의 어미

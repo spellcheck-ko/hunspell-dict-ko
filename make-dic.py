@@ -203,9 +203,10 @@ class Word:
         po_default_flags = {
             'noun': [ config.josa_flag ],
             'pronoun': [ config.josa_flag ],
-            'digit': [ config.josa_flag, config.digit_flag ],
             'counter': [ config.josa_flag, config.counter_flag ],
             'plural_suffix': [ config.josa_flag, config.plural_suffix_flag ],
+            'pseudo_alpha': [ config.alpha_flag, config.josa_flag ],
+            'pseudo_digit': [ config.josa_flag, config.digit_flag ],
             }
         self.flags = []
         try:
