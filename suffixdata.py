@@ -961,7 +961,7 @@ attach_continuation_flags(groups[u'-기'], [config.josa_flag])
 #### 명사형 전성: -음
 groups[u'-음'] = [
     { 'rules': [[u'-\u11b7', COND_V_ALL, ''],
-                [u'-\u11b7', T_RIEUL, T_RIEUL_MIEUM],
+                [u'-\u11b1', T_RIEUL, T_RIEUL],
                 [u'-음', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙'],
