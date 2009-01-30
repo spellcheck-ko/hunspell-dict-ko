@@ -169,62 +169,78 @@ COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(u'\u11af', '') + ALPHA_ALL)
 
 from config import josa_flag
 
-josas = [('이', COND_T_ALL),
-         ('가',	COND_V_ALL),
-         ('을', COND_T_ALL),
-         ('를', COND_V_ALL),
-         ('과', COND_T_ALL),
-         ('와', COND_V_ALL),
-         ('은', COND_T_ALL),
-         ('는', COND_V_ALL),
-         ('으로', COND_T_NOT_RIEUL),
-         ('로', COND_V_OR_RIEUL),
-         ('으로서', COND_T_NOT_RIEUL),
-         ('로서', COND_V_OR_RIEUL),
-         ('으로써', COND_T_NOT_RIEUL),
-         ('로써', COND_V_OR_RIEUL),
-         ('도', COND_ALL),
-         ('부터', COND_ALL),
-         ('에', COND_ALL),
-         ('에서', COND_ALL),
+josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
+         ('을', COND_T_ALL), ('를', COND_V_ALL),
+         ('과', COND_T_ALL), ('와', COND_V_ALL),
+         ('은', COND_T_ALL), ('는', COND_V_ALL),
+         ('라', COND_V_ALL), ('이라', COND_T_ALL),
+         ('라고', COND_V_ALL), ('이라고', COND_T_ALL),
+         ('라는', COND_V_ALL), ('이라는', COND_T_ALL),
+         ('라도', COND_V_ALL), ('이라도', COND_T_ALL),
+         ('라면', COND_V_ALL), ('이라면', COND_T_ALL),
+         ('라서', COND_V_ALL), ('이라서', COND_T_ALL),
+         ('란', COND_V_ALL), ('이란', COND_T_ALL),
+         ('랑', COND_V_ALL), ('이랑', COND_T_ALL),
+         ('로', COND_V_OR_RIEUL), ('으로', COND_T_NOT_RIEUL),
+         ('로는', COND_V_OR_RIEUL), ('으로는', COND_T_NOT_RIEUL),
+         ('로도', COND_V_OR_RIEUL), ('으로도', COND_T_NOT_RIEUL),
+         ('로서', COND_V_OR_RIEUL), ('으로서', COND_T_NOT_RIEUL),
+         ('로써', COND_V_OR_RIEUL), ('으로써', COND_T_NOT_RIEUL),
+         ('로부터', COND_V_OR_RIEUL), ('으로부터', COND_T_NOT_RIEUL),
+         # sorted list
+         ('같이', COND_ALL),
          ('까지', COND_ALL),
-         ('의', COND_ALL),
-         ('에게', COND_ALL),
-         ('에게서', COND_ALL),
+         ('까지는', COND_ALL),
+         ('까지도', COND_ALL),
+         ('까지라도', COND_ALL),
          ('께', COND_ALL),
-         ('보다', COND_ALL),
-         ('이라', COND_T_ALL),
-         ('라', COND_V_ALL),
-         ('이란', COND_T_ALL),
-         ('란', COND_V_ALL),
-         ('만', COND_ALL),
-         ('만이', COND_ALL),
-         ('이나', COND_T_ALL),
-         ('나', COND_V_ALL),
-         ('처럼', COND_ALL),
-         ('서', COND_ALL),           # '~에서' 준말
-         ('마다', COND_ALL),         # 보조사, '모두'
-         ('에는', COND_ALL),         # 에+'는' 보조사
-         ('엔', COND_ALL),           # '에는' 준말
-         ('이라도', COND_T_ALL),
-         ('라도', COND_V_ALL),
-         ('밖에', COND_ALL),
-         ('하고', COND_ALL),         # 구어체
-         ('조차', COND_ALL),
-         ('대로', COND_ALL),
+         ('께는', COND_ALL),
+         ('께도', COND_ALL),
+         ('께서', COND_ALL),
+         ('께서는', COND_ALL),
+         ('께서도', COND_ALL),
 # FIXME: -ㄴ 조사를 허용하면 모든 명사에 ㄴ을 허용하게 되어 범위가 너무 넓어진다.
 #         (u'\u11ab', COND_V_ALL), # -ㄴ: '-는' 구어체
-         # TODO: -한테 조사는 사람이나 동물 등에만 붙음
-         ('한테', COND_ALL),
-         ('한테서', COND_ALL),
+         ('나', COND_V_ALL),
+         ('대로', COND_ALL),
+         ('대로는', COND_ALL),
+         ('도', COND_ALL),
+         ('마다', COND_ALL),         # 보조사, '모두'
          ('마저', COND_ALL),
-         ('로부터', COND_V_OR_RIEUL),
-         ('으로부터', COND_T_NOT_RIEUL),
-         ('이야', COND_T_ALL), # '-(이)야' 강조
+         ('마저도', COND_ALL),
+         ('만', COND_ALL),
+         ('만이', COND_ALL),
+         ('밖에', COND_ALL),
+         ('밖에는', COND_ALL),
+         ('보다', COND_ALL),
+         ('보다는', COND_ALL),
+         ('보다도', COND_ALL),
+         ('부터', COND_ALL),
+         ('부터라도', COND_ALL),
+         ('서', COND_ALL),           # '~에서' 준말
+         ('에', COND_ALL),
+         ('에게', COND_ALL),
+         ('에게서', COND_ALL),
+         ('에게서는', COND_ALL),
+         ('에게서도', COND_ALL),
+         ('에는', COND_ALL),         # 에+'는' 보조사
+         ('에도', COND_ALL),         # 에+'도' 보조사
+         ('에서', COND_ALL),
+         ('엔', COND_ALL),           # '에는' 준말
          ('야', COND_V_ALL),
-
+         ('의', COND_ALL),
+         ('이나', COND_T_ALL),
          ('이든', COND_ALL),
          ('이든지', COND_ALL),
+         ('이야', COND_T_ALL), # '-(이)야' 강조
+         ('조차', COND_ALL),
+         ('조차도', COND_ALL),
+         ('처럼', COND_ALL),
+         ('처럼은', COND_ALL),
+         # TODO: -한테 조사는 사람이나 동물 등에만 붙음
+         ('하고', COND_ALL),         # 구어체
+         ('한테', COND_ALL),
+         ('한테서', COND_ALL),
          ]
 
 # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
