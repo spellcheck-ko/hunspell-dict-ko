@@ -5,7 +5,7 @@ LANG = ko
 AFFIX = $(LANG).aff
 DICT = $(LANG).dic
 
-DICT_SOURCES = dict-$(LANG)/dict-*.dic
+DICT_SOURCES = dict-$(LANG).xml
 
 CLEANFILES = $(AFFIX) $(DICT)
 
@@ -23,8 +23,8 @@ all: $(AFFIX) $(DICT)
 $(AFFIX): make-aff.py config.py suffix.py suffixdata.py
 	$(PYTHON) make-aff.py > $(AFFIX) || (rm -f $@; false)
 
-$(DICT): make-dic.py $(DICT_SOURCES) config.py  suffix.py suffixdata.py
-	$(PYTHON) make-dic.py $(DICT_SOURCES) > $@ || (rm -f $@; false)
+$(DICT): $(DICT_SOURCES) make-dic.py config.py  suffix.py suffixdata.py
+	$(PYTHON) make-dic.py $< > $@ || (rm -f $@; false)
 
 distdir:
 	if ! [ -d $(DISTDIR) ]; then mkdir $(DISTDIR); fi

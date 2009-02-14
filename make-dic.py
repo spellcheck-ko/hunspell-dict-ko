@@ -55,6 +55,9 @@ def warn(u8str):
 import config
 import suffix
 
+#from xml.dom.ext.reader import Sax2
+import xml.dom.minidom
+
 class ParseError(Exception):
     pass
 
@@ -63,31 +66,15 @@ class Dictionary:
         self.words = set([])
 
     def load_file(self, filename):
-        errstr_duplicated = '경고: 중복 무시 (바꾸려면 meta:remove로 지우고, 동음이의어는 idno: 값 사용).'
-        errstr_notfound = '경고: 해당 단어 없음'
-        # read it
-        lines = open(filename).readlines()
-        for lineno in range(len(lines)):
-            line = lines[lineno]
-            # comments out
-            line = line.split('#', 1)[0]
-            # remove whitespaces
-            line = line.strip()
-            if line == '':
+        doc = xml.dom.minidom.parse(open(filename))
+        for node in doc.childNodes[0].childNodes:
+            if node.nodeType != node.ELEMENT_NODE:
                 continue
-            try:
-                word = Word(line)
-            except ParseError, errstr:
-                warn('%s:%d: %s' % (filename, lineno+1, errstr))
-                sys.exit(1)
-            if word.meta == 'remove':
-                if word in self.words:
-                    self.remove(word)
-                else:
-                    warn('%s:%d: %s' % (filename, lineno+1, errstr_notfound))
-            elif word in self.words:
-                warn('%s:%d: %s' % (filename, lineno+1, errstr_duplicated))
-            else:
+            if node.nodeName != 'Entry':
+                continue
+            tags = node.getElementsByTagName('valid')
+            if tags and tags[0].childNodes[0].data == 'True':
+                word = Word(node)
                 self.add(word)
 
     def add(self, word):
@@ -104,90 +91,66 @@ class Dictionary:
             word.output(file)
 
 class Word:
-    def __init__(self, line):
+    def __init__(self, node):
         self.word = ''
         self.meta = ''
-        self.po = ''
-        self.idno = 0
-        self.st = ''
+        self.pos = ''
+        self.stem = ''
         self.props = set()
         self.flags = []
+        self.ident = 0
 
         # parse a dictionary line
 
-        def load_po(self, val):
-            self.po = val
+        def load_word(self, val):
+            self.word = val.encode('UTF-8')
+        def load_pos(self, val):
+            self.pos = val.encode('UTF-8')
             # default properties
-            if val == 'verb':
+            if val == '동사':
                 self.props.add('용언')
                 self.props.add('동사')
-            elif val == 'adjective':
+            elif val == '형용사':
                 self.props.add('용언')
                 self.props.add('형용사')
-        def load_idno(self, val):
-            self.idno = int(val)
-        def load_st(self, val):
-            self.st = val
-        def load_meta(self, val):
-            self.meta = val
-        def load_prop(self, val):
+        def load_stem(self, val):
+            self.stem = val.encode('UTF-8')
+        def load_ident(self, val):
+            self.ident = val
+        def load_props(self, val):
             for p in val.split(','):
-                self.props.add(p)
-        def load_none(self, val):
-            pass
+                self.props.add(p.encode('UTF-8'))
 
-        info_load_funcs = { 'po': load_po,
-                            'st': load_st,
-                            'idno': load_idno,
-                            'meta': load_meta,
-                            'prop': load_prop,
-                            'from': load_none,
-                            'orig': load_none,
+        info_load_funcs = { 'word': load_word,
+                            'pos': load_pos,
+                            'stem': load_stem,
+                            'props': load_props,
+                            'ident': load_ident,
                           }
 
-        data = line.split()
-        self.word, infos = data[0], data[1:]
-
-        for info in infos:
+        for field in node.childNodes:
+            if field.nodeType != field.ELEMENT_NODE:
+                continue
+            if len(field.childNodes) <= 0:
+                continue
             try:
-                key, val = info.split(':')
-            except ValueError:
-                raise ParseError, 'Wrong information format'
-            try:
-                info_load_funcs[key](self, val)
+                fun = info_load_funcs[field.nodeName]
+                fun(self, field.childNodes[0].data)
             except KeyError:
-                raise ParseError, 'Unknown info key "%s"' % key
-
-        if self.po == 'verb' and self.word.endswith('가다'):
-            self.props.add('거라불규칙')
-        if self.po == 'verb' and self.word.endswith('오다'):
-            self.props.add('너라불규칙')
+                pass
 
         self.verify_props()
         self.compute_flags()
-                
-    def is_forbidden(self):
-        return self.meta == 'forbidden'
-    def __repr__(self):
-        return '%(word)s po:%(po)s prop:%(props)s' % {
-            'word': self.word, 'po': self.po, 'props': ','.join(self.props), }
-    def __cmp__(self, other):
-        n = cmp(self.word, other.word)
-        if n != 0:
-            return n
-        n = cmp(self.po, other.po)
-        if n != 0:
-            return n
-        n = cmp(self.idno, other.idno)
-        if n != 0:
-            return n
-        return 0
-    def __hash__(self):
-        return (self.word + self.po).__hash__()
 
     def verify_props(self):
         # -답다, -롭다, -업다로 끝나는 용언은 ㅂ불규칙
-        if ((self.po == 'verb' or self.po == 'adjective') and
+        if (self.pos == '동사' and self.word.endswith('가다') and
+            (not '거라불규칙' in self.props)):
+            raise ParseError, '거라불규칙 용언으로 보이지만 속성 없음'
+        if (self.pos == '동사' and self.word.endswith('오다') and
+            (not '너라불규칙' in self.props)):
+            raise ParseError, '너라불규칙 용언으로 보이지만 속성 없음'
+        if ((self.pos == '동사' or self.pos == '형용사') and
             (self.word.endswith('답다') or
              self.word.endswith('롭다') or
              (self.word.endswith('업다') and self.word != '업다') or
@@ -196,35 +159,28 @@ class Word:
             raise ParseError, 'ㅂ불규칙 용언으로 보이지만 속성 없음'
 
     def compute_flags(self):
-        meta_default_flags = {
-            'forbidden': [ config.forbidden_flag ],
-            }
-
-        po_default_flags = {
-            'noun': [ config.josa_flag ],
-            'pronoun': [ config.josa_flag ],
-            'counter': [ config.josa_flag, config.counter_flag ],
-            'plural_suffix': [ config.josa_flag, config.plural_suffix_flag ],
-            'pseudo_alpha': [ config.alpha_flag, config.josa_flag ],
-            'pseudo_digit': [ config.josa_flag, config.digit_flag ],
+        default_flags = {
+            '명사': [ config.josa_flag ],
+            '대명사': [ config.josa_flag ],
+            '특수:단위': [ config.josa_flag, config.counter_flag ],
+            '특수:복수접미사': [ config.josa_flag, config.plural_suffix_flag ],
+            '특수:알파벳': [ config.alpha_flag, config.josa_flag ],
+            '특수:숫자': [ config.josa_flag, config.digit_flag ],
+            '특수:금지어': [ config.forbidden_flag ],
             }
         self.flags = []
+                
         try:
-            self.flags += meta_default_flags[self.meta]
-        except KeyError:
-            pass
-        try:
-            self.flags += po_default_flags[self.po]
+            self.flags += default_flags[self.pos]
         except KeyError:
             pass
 
-        if self.po == 'noun' or self.po == 'pronoun':
+        if self.pos == '명사' or self.pos == '명사':
             if '가산명사' in self.props:
                 self.flags.append(config.countable_noun_flag)
 
-        if self.po == 'verb' or self.po == 'adjective':
-            p = { 'verb': '동사', 'adjective': '형용사' }
-            self.flags = suffix.find_flags(self.word, p[self.po], self.props)
+        if self.pos == '동사' or self.pos == '형용사':
+            self.flags = suffix.find_flags(self.word, self.pos, self.props)
 
         self.flags.sort()
 
@@ -232,11 +188,29 @@ class Word:
         line = self.word
         if self.flags:
             line += '/' + ','.join([('%d' % f) for f in self.flags])
-        if self.po:
-            line += ' po:%s' % self.po
-        if self.st:
-            line += ' st:%s' % self.st
+        #if self.pos:
+        #    line += ' po:%s' % self.pos
+        #if self.stem:
+        #    line += ' st:%s' % self.stem
         file.write(nfd(line) + '\n')
+
+    def __cmp__(self, other):
+        n = cmp(self.word, other.word)
+        if n != 0:
+            return n
+        n = cmp(self.pos, other.pos)
+        if n != 0:
+            return n
+        n = cmp(self.ident, other.ident)
+        if n != 0:
+            return n
+        return 0
+    def __hash__(self):
+        return (self.word + self.pos).__hash__()
+
+    def __repr__(self):
+        return '%(word)s po:%(po)s prop:%(props)s' % {
+            'word': self.word, 'po': self.po, 'props': ','.join(self.props), }
 
 if __name__ == '__main__':
     filenames = sys.argv[1:]

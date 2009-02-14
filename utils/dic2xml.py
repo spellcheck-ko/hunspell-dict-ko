@@ -221,12 +221,14 @@ class Word:
             raise ParseError, 'ㅂ불규칙 용언으로 보이지만 속성 없음'
 
     def output(self, file):
-        file.write('<entry>\n')
+        file.write('<Entry>\n')
         file.write('  <word>%s</word>\n' % self.word)
         if self.pos:
             file.write('  <pos>%s</pos>\n' % self.pos)
         else:
             file.write('  <pos>특수:없음</pos>\n')
+        if self.st:
+            file.write('  <stem>%s</stem>\n' % self.st)
         if len(self.props) > 0:
             file.write('  <props>')
             for prop in self.props:
@@ -234,9 +236,11 @@ class Word:
             file.write('</props>\n')
         if self.etym:
             file.write('  <from>%s</from>\n' % self.etym)
+        if self.orig:
+            file.write('  <orig>%s</orig>\n' % self.orig)
         if self.comment:
             file.write('  <comment>%s</comment>\n' % self.comment)
-        file.write('</entry>\n')
+        file.write('</Entry>\n')
 
 if __name__ == '__main__':
     filenames = sys.argv[1:]
