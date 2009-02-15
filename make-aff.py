@@ -121,10 +121,12 @@ from config import counter_flag
 from config import countable_noun_flag
 from config import plural_suffix_flag
 from config import alpha_flag
+from config import eo_flag
+from config import auxiliary_eo_flag
 
 out('COMPOUNDMIN 1\n')
 #out('ONLYINCOMPOUND %d\n' % plural_suffix_flag)
-out('COMPOUNDRULE 3\n')
+out('COMPOUNDRULE 4\n')
 # 숫자+단위
 out('COMPOUNDRULE (%d)*(%d)(%d)\n' % (digit_flag, digit_flag, counter_flag))
 # 가산명사+'들'
@@ -134,6 +136,9 @@ out('COMPOUNDRULE (%d)(%d)\n' % (countable_noun_flag, plural_suffix_flag))
 ## tokenizer에서 로마자를 분리해 주지 않는 경우를 위해 로마자로 된 모든
 ## 단어를 허용하고 명사로 취급한다.
 out('COMPOUNDRULE (%d)*(%d)?\n' % (alpha_flag, plural_suffix_flag))
+
+## '-어' 형태 뒤에 붙여 쓸 수 있는 보조 용언
+out('COMPOUNDRULE (%d)(%d)?\n' % (eo_flag, auxiliary_eo_flag))
 
 ######################################################################
 

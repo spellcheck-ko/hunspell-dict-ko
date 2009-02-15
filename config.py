@@ -56,4 +56,8 @@ forbidden_flag = 6		# 규칙의 예외로 금지할 단어
 
 alpha_flag = 7                  # 영문자 섞어쓰기
 
+
+eo_flag = 8                     # "-어" 활용형
+auxiliary_eo_flag = 9           # "-어" 뒤에 붙여 쓸 수 있는 보조용언
+
 endings_flag_start = 100        # 용언의 어미

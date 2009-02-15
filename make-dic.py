@@ -55,7 +55,6 @@ def warn(u8str):
 import config
 import suffix
 
-#from xml.dom.ext.reader import Sax2
 import xml.dom.minidom
 
 class ParseError(Exception):
@@ -85,13 +84,29 @@ class Dictionary:
     def __len__(self):
         return len(self.words)
 
+    def expand(self):
+        expanded = []
+        # '-어' 활용형 별도 단어로 분리
+        for word in self.words:
+            if word.pos != '동사' and word.pos != '형용사':
+                continue
+            expanded += suffix.make_conjugations(unicode(word.word, 'utf-8'),
+                                                 word.pos, word.props, u'-어')
+        for word in expanded:
+            w = Word()
+            w.word = word
+            w.pos = '내부:활용:-어'
+            w.ident = -1
+            w.compute_flags()
+            self.add(w)
+
     def output(self, file):
         file.write('%d\n' % len(self))
         for word in sorted(list(self.words)):
             word.output(file)
 
 class Word:
-    def __init__(self, node):
+    def __init__(self, node=None):
         self.word = ''
         self.meta = ''
         self.pos = ''
@@ -99,6 +114,9 @@ class Word:
         self.props = set()
         self.flags = []
         self.ident = 0
+
+        if not node:
+            return
 
         # parse a dictionary line
 
@@ -167,6 +185,7 @@ class Word:
             '특수:알파벳': [ config.alpha_flag, config.josa_flag ],
             '특수:숫자': [ config.josa_flag, config.digit_flag ],
             '특수:금지어': [ config.forbidden_flag ],
+            '내부:활용:-어': [ config.eo_flag ],
             }
         self.flags = []
                 
@@ -177,10 +196,12 @@ class Word:
 
         if self.pos == '명사' or self.pos == '명사':
             if '가산명사' in self.props:
-                self.flags.append(config.countable_noun_flag)
+                self.flags += [ config.countable_noun_flag ]
 
         if self.pos == '동사' or self.pos == '형용사':
-            self.flags = suffix.find_flags(self.word, self.pos, self.props)
+            self.flags += suffix.find_flags(self.word, self.pos, self.props)
+            if '보조용언:-어' in self.props:
+                self.flags += [ config.auxiliary_eo_flag ]
 
         self.flags.sort()
 
@@ -222,5 +243,7 @@ if __name__ == '__main__':
     dict = Dictionary()
     for filename in filenames:
         dict.load_file(filename)
+
+    dict.expand()
 
     dict.output(sys.stdout)
