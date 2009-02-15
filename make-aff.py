@@ -245,7 +245,7 @@ josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
 
 # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
 # twofold suffix를 여기에 써먹기에는 아깝다
-ida_conjugations = suffix.make_conjugations(u'이다', '이다', [])
+ida_conjugations = suffix.make_all_conjugations(u'이다', '이다', [])
 for c in ida_conjugations:
     if NFD(c)[:2] == NFD(u'여'):
         # '-이어' -> '여' 줄임형은 받침이 있을 경우에만

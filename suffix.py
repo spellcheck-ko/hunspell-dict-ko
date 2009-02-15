@@ -143,7 +143,6 @@ expand_by_link()
 klasses = []
 for key in groups.keys():
     klasses += groups[key]
-del groups
 
 # 선어말어미 연결 정보도 필요 없다.
 for klass in klasses:
@@ -231,12 +230,33 @@ def find_flags(word, po, props):
         if class_match_word(klass, word, po, props):
             result.append(klass['flag'])
     return result
-            
-    
+
 # 가능한 모든 활용 형태 만들기
-def make_conjugations(word, po, props):
+def make_all_conjugations(word, po, props):
     result = []
     for klass in klasses:
+        if not class_match_word(klass, word, po, props):
+            continue
+        
+        for r in klass['rules']:
+            if re.match(NFD(u'.*' + r[1] + '다$'), NFD(word)):
+                if r[2]:
+                    striplen = len(NFD(r[2] + u'다'))
+                else:
+                    striplen = len(NFD(u'다'))
+                try:
+                    cont = '/' + ','.join(['%d' % c for c in r[3]])
+                except:
+                    cont = ''
+
+                result.append(NFC(NFD(word)[:-striplen] + r[0][1:]) + cont)
+    return result
+
+# 특정 어미의 활용형태
+# FIXME: clean up with make_all_conjugations()
+def make_conjugations(word, po, props, suffix):
+    result = []
+    for klass in groups[suffix]:
         if not class_match_word(klass, word, po, props):
             continue
         
