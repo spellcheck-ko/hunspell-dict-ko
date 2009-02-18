@@ -34,6 +34,6 @@ clean:
 	rm -f $(DISTDIR)
 
 dist:: distdir
-	git-archive --format=tar --prefix=$(SRC_DISTNAME)/ $(RELEASETAG) | gzip -9 -c > $(SRC_DISTFILE)
+	git archive --format=tar --prefix=$(SRC_DISTNAME)/ $(RELEASETAG) | gzip -9 -c > $(SRC_DISTFILE)
 
 .PHONY: all clean dist distdir
