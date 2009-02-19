@@ -12,7 +12,7 @@ CLEANFILES = $(AFFIX) $(DICT)
 DISTDIR = dist
 
 PACKAGE = hunspell-dict-ko
-VERSION = $(shell python -c 'import config;print(config.version)')
+VERSION = $(shell $(PYTHON) -c 'import config;print(config.version)')
 RELEASETAG = HEAD
 
 SRC_DISTNAME = hunspell-dict-ko-$(VERSION)
