@@ -96,7 +96,8 @@ def write_conv_table():
 
 write_conv_table()
 
-
+## 자모 목록 (L_*, V_*, T_*)
+from jamo import *
 
 ## TODO: KEY - 두벌식 키보드 배치
 
@@ -158,11 +159,6 @@ suffix.write_suffixes(sys.stdout)
 
 ## 조사
 
-## 모든 자음, 모음
-## 간략하게 하기 위해 중세국어는 제외
-L_ALL = ''.join(map(unichr, range(0x1100,0x1112+1)))
-V_ALL = ''.join(map(unichr, range(0x1161,0x1175+1)))
-T_ALL = ''.join(map(unichr, range(0x11a8,0x11c2+1)))
 ALPHA_ALL = ''.join(map(unichr, range(ord('a'),ord('z')+1)))
 
 ## 임의로 허용하는 로마자로 된 단어는 음운 구별을 하지 않는다. 할 방법이 없음.

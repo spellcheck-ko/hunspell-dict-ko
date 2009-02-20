@@ -44,40 +44,7 @@ import config
 
 # 자모
 
-LSTART = 0x1100
-LEND = 0x1112
-VSTART = 0x1161
-VEND = 0x1175
-TSTART = 0x11a8
-TEND = 0x11c2
-
-L_ALL = ''.join([unichr(c) for c in range(LSTART, LEND + 1)])
-V_ALL = ''.join([unichr(c) for c in range(VSTART, VEND + 1)])
-T_ALL = ''.join([unichr(c) for c in range(TSTART, TEND + 1)])
-
-L_NIEUN = u'\u1102'
-L_IEUNG = u'\u110b'
-L_HIEUH = u'\u1112'
-V_A = u'\u1161'
-V_AE = u'\u1162'
-V_YA = u'\u1163'
-V_YAE = u'\u1164'
-V_EO = u'\u1165'
-V_E = u'\u1166'
-V_YEO = u'\u1167'
-V_O = u'\u1169'
-V_OE = u'\u116c'
-V_U = u'\u116e'
-V_EU = u'\u1173'
-V_I = u'\u1175'
-T_NIEUN = u'\u11ab'
-T_TIKEUT = u'\u11ae'
-T_RIEUL = u'\u11af'
-T_RIEUL_MIEUM = u'\u11b1'
-T_PIEUP = u'\u11b8'
-T_SIOS = u'\u11ba'
-T_SSANGSIOS = u'\u11bb'
-T_HIEUH = u'\u11c2'
+from jamo import *
 
 def L_NOT(jamos):
     return ''.join([c for c in L_ALL if not c in jamos])
