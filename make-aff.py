@@ -102,6 +102,31 @@ from jamo import *
 ## TODO: KEY - 두벌식 키보드 배치
 
 ######################################################################
+## MAP: 비슷한 자모
+# 된소리/거센소리, 비슷한 발음의 중성, 같은 발음의 종성
+
+map_list = [
+    L_KIYEOK + L_SSANGKIYEOK + L_KHIEUKH,
+    L_TIKEUT + L_SSANGTIKEUT + L_THIEUTH,
+    L_PIEUP + L_SSANGPIEUP + L_PHIEUPH,
+    L_SIOS + L_SSANGSIOS,
+    L_CIEUC + L_SSANGCIEUC + L_CHIEUCH,
+    V_AE + V_E,
+    V_YAE + V_YE,
+    V_WAE + V_OE + V_WE,
+    T_KIYEOK + T_SSANGKIYEOK + T_KIYEOK_SIOS + T_KHIEUKH,
+    T_NIEUN + T_NIEUN_CIEUC + T_NIEUN_HIEUH,
+    T_TIKEUT + T_SIOS + T_SSANGSIOS + T_CIEUC + T_CHIEUCH + T_THIEUTH + T_HIEUH,
+    T_RIEUL + T_RIEUL_KIYEOK + T_RIEUL_MIEUM + T_RIEUL_PIEUP +
+    T_RIEUL_SIOS + T_RIEUL_THIEUTH + T_RIEUL_PHIEUPH + T_RIEUL_HIEUH,
+    T_PIEUP + T_PIEUP_SIOS + T_PHIEUPH,
+]
+out('MAP %d\n' % len(map_list))
+for m in map_list:
+    outnfd('MAP %s\n' % m)
+
+
+######################################################################
 ## REP: 흔히 틀리는 목록
 
 rep_list = [
