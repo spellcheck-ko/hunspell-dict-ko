@@ -55,6 +55,8 @@ L_ALL = ''.join([unichr(c) for c in range(LSTART, LEND + 1)])
 V_ALL = ''.join([unichr(c) for c in range(VSTART, VEND + 1)])
 T_ALL = ''.join([unichr(c) for c in range(TSTART, TEND + 1)])
 
+L_NIEUN = u'\u1102'
+L_IEUNG = u'\u110b'
 L_HIEUH = u'\u1112'
 V_A = u'\u1161'
 V_AE = u'\u1162'
@@ -77,17 +79,23 @@ T_SIOS = u'\u11ba'
 T_SSANGSIOS = u'\u11bb'
 T_HIEUH = u'\u11c2'
 
-L_NOT_HIEUH = ''.join([c for c in L_ALL if not c in L_HIEUH])
+def L_NOT(jamos):
+    return ''.join([c for c in L_ALL if not c in jamos])
+def V_NOT(jamos):
+    return ''.join([c for c in V_ALL if not c in jamos])
+def T_NOT(jamos):
+    return ''.join([c for c in T_ALL if not c in jamos])
+
 V_A_O = V_A + V_O
-V_NOT_A_O = ''.join([c for c in V_ALL if  not c in V_A_O])
-V_NOT_A_EO_O = ''.join([c for c in V_NOT_A_O if not c in V_EO])
+V_NOT_A_O = V_NOT(V_A + V_O)
+V_NOT_A_EO_O = V_NOT(V_A + V_EO + V_O)
 
 # 조건
 
 COND_V_ALL = u'[%s]' % V_ALL
 COND_T_ALL = u'[%s]' % T_ALL
 COND_V_OR_RIEUL = u'[%s%s]' % (V_ALL, T_RIEUL)
-COND_T_NOT_RIEUL = u'[%s]' % ''.join([t for t in T_ALL if t != T_RIEUL])
+COND_T_NOT_RIEUL = u'[%s]' % T_NOT(T_RIEUL)
 
 # 보조사 확장
 def attach_emphasis(group, particles):
@@ -124,9 +132,11 @@ COND_EOA_NOT_AO = [ '[%s]' % V_NOT_A_EO_O, '[%s][%s]' % (V_NOT_A_O, T_ALL) ]
 # ㅓ로 끝나는 경우
 COND_EOA_EO = V_EO
 # ㅏ로 끝나는 경우 ('하' 제외)
-COND_EOA_A = '[%s]%s' % (L_NOT_HIEUH, V_A)
+COND_EOA_A = '[%s]%s' % (L_NOT(L_HIEUH), V_A)
 # 하로 끝나는 경우
 COND_EOA_HA = u'하'
+# 외어 -> 왜 ('외다', '뇌다' 예외) - 한글 맞춤법 35항
+COND_EOA_OE = '[%s]%s' % (L_NOT(L_NIEUN + L_IEUNG), V_OE)
 
 #### ㄷ불규칙활용 유틸리티
 
@@ -231,7 +241,7 @@ groups[u'-었-'] = [
                 # 준말
                 [u'-\u116a\u11bb-', V_O, V_O], # 오았 -> 왔
                 [u'-\u116f\u11bb-', V_U, V_U], # 우었 -> 웠
-                [u'-\u116b\u11bb-', V_OE, V_OE], # 외었 -> 왜ㅆ  # TODO: '외다', '뇌다' 예외
+                [u'-\u116b\u11bb-', COND_EOA_OE, V_OE], # 외었 -> 왜ㅆ
                 [u'-\u1162\u11bb-', u'하', V_A], # 하였 -> 했
                 [u'-\u1167\u11bb-', V_I, V_I], # 이었 -> 였
                 [u'-\u11bb-', V_AE, ''], # 애었 -> 앴
@@ -332,7 +342,7 @@ groups[u'-어'] = [
                 [u'-여', u'하', ''],
                 [u'-\u116a', V_O, V_O], # 오아 -> 와
                 [u'-\u116f', V_U, V_U], # 우어 -> 워
-                [u'-\u116b', V_OE, V_OE], # 외어 -> 왜  # TODO: '외다', '뇌다' 예외
+                [u'-\u116b', COND_EOA_OE, V_OE], # 외어 -> 왜
                 [u'-\u1162', u'하', V_A], # 하여 -> 해
                 [u'-\u1167', V_I, V_I], # 이어 -> 여
                 [u'-\u1162', V_AE, V_AE], # 애어 -> 애
