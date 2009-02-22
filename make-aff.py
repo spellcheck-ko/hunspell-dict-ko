@@ -343,7 +343,10 @@ for c in ida_conjugations:
         josas.append((c, COND_V_ALL))
     else:
         josas.append((c, COND_ALL))
-# TODO: '-이다'에서 '-이'를 생략한 줄임형 추가하기
+    # '이' 생략
+    # TODO: 받침이 앞의 명사에 붙는 경우 허용 여부 (예: "마찬가집니다")
+    if NFC(c)[0] == u'이':
+        josas.append((NFC(c)[1:], COND_V_ALL))
 
 out('SFX %d Y %d\n' % (josa_flag, len(josas)))
 for (suffix,cond) in josas:
