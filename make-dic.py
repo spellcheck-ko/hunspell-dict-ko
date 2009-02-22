@@ -85,20 +85,22 @@ class Dictionary:
         return len(self.words)
 
     def expand(self):
-        expanded = []
+        ewords = []
         # '-어' 활용형 별도 단어로 분리
         for word in self.words:
             if word.pos != '동사' and word.pos != '형용사':
                 continue
-            expanded += suffix.make_conjugations(unicode(word.word, 'utf-8'),
-                                                 word.pos, word.props, u'-어')
-        for word in expanded:
-            w = Word()
-            w.word = word
-            w.pos = '내부:활용:-어'
-            w.ident = -1
-            w.compute_flags()
-            self.add(w)
+            for w in suffix.make_conjugations(unicode(word.word, 'utf-8'),
+                                              word.pos, word.props, u'-어'):
+                eword = Word()
+                eword.word = w
+                eword.pos = '내부:활용:-어'
+                eword.stem = word.word
+                eword.ident = -1
+                eword.compute_flags()
+                ewords.append(eword)
+        for word in ewords:
+            self.add(word)
 
     def output(self, file):
         file.write('%d\n' % len(self))
@@ -211,8 +213,8 @@ class Word:
             line += '/' + ','.join([('%d' % f) for f in self.flags])
         #if self.pos:
         #    line += ' po:%s' % self.pos
-        #if self.stem:
-        #    line += ' st:%s' % self.stem
+        if self.stem:
+            line += ' st:%s' % self.stem
         file.write(nfd(line) + '\n')
 
     def __cmp__(self, other):
@@ -231,7 +233,7 @@ class Word:
 
     def __repr__(self):
         return '%(word)s po:%(po)s prop:%(props)s' % {
-            'word': self.word, 'po': self.po, 'props': ','.join(self.props), }
+            'word': self.word, 'po': self.pos, 'props': ','.join(self.props), }
 
 if __name__ == '__main__':
     filenames = sys.argv[1:]
