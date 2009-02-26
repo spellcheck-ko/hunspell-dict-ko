@@ -37,8 +37,6 @@
 #
 # ***** END LICENSE BLOCK *****
 
-import unicodedata
-
 L_START = 0x1100
 L_END = 0x1112
 V_START = 0x1161
@@ -53,25 +51,16 @@ T_ALL = ''.join([unichr(c) for c in range(T_START, T_END + 1)])
 __all__ = ['L_START', 'L_END', 'V_START', 'V_END', 'T_START', 'T_END',
            'L_ALL', 'V_ALL', 'T_ALL']
 
-def make_name(jamo, unicodeprefix, prefix):
-    unicodename = unicodedata.name(jamo)
-    if not unicodename.startswith(unicodeprefix):
-        raise "BUG"
-    name = '%s%s' % (prefix, unicodename[len(unicodeprefix):])
-    name = name.replace('-', '_')
-    return name
+def define_jamos(jamos, unicodeprefix, prefix):
+    import unicodedata
+    for jamo in jamos:
+        unicodename = unicodedata.name(jamo)
+        if not unicodename.startswith(unicodeprefix):
+            raise "BUG"
+        name = prefix + unicodename[len(unicodeprefix):].replace('-', '_')
+        __all__.append(name)
+        globals()[name] = jamo
 
-for jamo in L_ALL:
-    varname = make_name(jamo, 'HANGUL CHOSEONG ', 'L_')
-    __all__.append(varname)
-    exec '%s = u"\\u%04x"' % (varname, ord(jamo))
-
-for jamo in V_ALL:
-    varname = make_name(jamo, 'HANGUL JUNGSEONG ', 'V_')
-    __all__.append(varname)
-    exec '%s = u"\\u%04x"' % (varname, ord(jamo))
-
-for jamo in T_ALL:
-    varname = make_name(jamo, 'HANGUL JONGSEONG ', 'T_')
-    __all__.append(varname)
-    exec '%s = u"\\u%04x"' % (varname, ord(jamo))
+define_jamos(L_ALL, 'HANGUL CHOSEONG ', 'L_')
+define_jamos(V_ALL, 'HANGUL JUNGSEONG ', 'V_')
+define_jamos(T_ALL, 'HANGUL JONGSEONG ', 'T_')
