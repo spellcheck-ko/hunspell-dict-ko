@@ -61,5 +61,9 @@ alpha_flag = 7                  # 영문자 섞어쓰기
 
 eo_flag = 8                     # "-어" 활용형
 auxiliary_eo_flag = 9           # "-어" 뒤에 붙여 쓸 수 있는 보조용언
+eun_flag = 10                   # "-은" 활용형
+auxiliary_eun_flag = 11         # "-은" 뒤에 붙여 쓸 수 있는 보조용언
+eul_flag = 12                   # "-을" 활용형
+auxiliary_eul_flag = 13         # "-을" 뒤에 붙여 쓸 수 있는 보조용언
 
 endings_flag_start = 100        # 용언의 어미

@@ -214,22 +214,33 @@ from config import plural_suffix_flag
 from config import alpha_flag
 from config import eo_flag
 from config import auxiliary_eo_flag
+from config import eun_flag
+from config import auxiliary_eun_flag
+from config import eul_flag
+from config import auxiliary_eul_flag
 
 out('COMPOUNDMIN 1\n')
 #out('ONLYINCOMPOUND %d\n' % plural_suffix_flag)
-out('COMPOUNDRULE 4\n')
-# 숫자+단위
-out('COMPOUNDRULE (%d)*(%d)(%d)\n' % (digit_flag, digit_flag, counter_flag))
-# 가산명사+'들'
-out('COMPOUNDRULE (%d)(%d)\n' % (countable_noun_flag, plural_suffix_flag))
-# TODO: 가산명사+(들)끼리
 
-## tokenizer에서 로마자를 분리해 주지 않는 경우를 위해 로마자로 된 모든
-## 단어를 허용하고 명사로 취급한다.
-out('COMPOUNDRULE (%d)*(%d)?\n' % (alpha_flag, plural_suffix_flag))
+compound_rules = [
+    # 숫자+단위
+    '(%d)*(%d)(%d)' % (digit_flag, digit_flag, counter_flag),
+    # 가산명사+'들'
+    '(%d)(%d)' % (countable_noun_flag, plural_suffix_flag),
+    # tokenizer에서 로마자를 분리해 주지 않는 경우를 위해 로마자로 된 모든
+    # 단어를 허용하고 명사로 취급한다.
+    '(%d)*(%d)?' % (alpha_flag, plural_suffix_flag),
+    # '-어' 형태 뒤에 붙여 쓸 수 있는 보조 용언
+    '(%d)(%d)' % (eo_flag, auxiliary_eo_flag),
+    # '-은' 형태 뒤에 붙여 쓸 수 있는 보조 용언
+    '(%d)(%d)' % (eun_flag, auxiliary_eun_flag),
+    # '-을' 형태 뒤에 붙여 쓸 수 있는 보조 용언
+    '(%d)(%d)' % (eul_flag, auxiliary_eul_flag),
+]
 
-## '-어' 형태 뒤에 붙여 쓸 수 있는 보조 용언
-out('COMPOUNDRULE (%d)(%d)?\n' % (eo_flag, auxiliary_eo_flag))
+out('COMPOUNDRULE %d\n' % len(compound_rules))
+for rule in compound_rules:
+    out('COMPOUNDRULE %s\n' % rule)
 
 ######################################################################
 
