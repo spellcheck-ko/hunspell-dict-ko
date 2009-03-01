@@ -1,12 +1,10 @@
 PYTHON = python
 ZIP = zip -r
 
-LANG = ko
+AFFIX = ko.aff
+DICT = ko.dic
 
-AFFIX = $(LANG).aff
-DICT = $(LANG).dic
-
-DICT_SOURCES = dict-$(LANG).xml
+DICT_SOURCES = dict-ko-builtins.xml dict-ko.xml
 
 CLEANFILES = $(AFFIX) $(DICT)
 
