@@ -71,10 +71,8 @@ class Dictionary:
                 continue
             if node.nodeName != 'Entry':
                 continue
-            tags = node.getElementsByTagName('valid')
-            if tags and tags[0].childNodes[0].data == 'True':
-                word = Word(node)
-                self.add(word)
+            word = Word(node)
+            self.add(word)
 
     def add(self, word):
         self.words.add(word)

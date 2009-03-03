@@ -4,7 +4,7 @@ ZIP = zip -r
 AFFIX = ko.aff
 DICT = ko.dic
 
-DICT_SOURCES = dict-ko-builtins.xml dict-ko.xml
+DICT_SOURCES = dict-ko-builtins.xml dict-ko-galkwi.xml
 
 CLEANFILES = $(AFFIX) $(DICT)
 
