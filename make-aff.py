@@ -163,6 +163,9 @@ write_conv_table()
 ## 자모 목록 (L_*, V_*, T_*)
 from jamo import *
 
+## FLAG
+from flags import *
+
 ## TODO: KEY - 두벌식 키보드 배치
 
 ######################################################################
@@ -218,21 +221,21 @@ compound_rules = [
     # 단어를 허용하고 명사로 취급한다.
     '(%d)*(%d)?' % (alpha_flag, plural_suffix_flag),
     # '-어' 형태 뒤에 붙여 쓸 수 있는 보조 용언
-    '(%d)(%d)' % (eo_flag, auxiliary_eo_flag),
+    '(%d)(%d)' % (conjugation_eo_flag, auxiliary_eo_flag),
     # '-은' 형태 뒤에 붙여 쓸 수 있는 보조 용언
-    '(%d)(%d)' % (eun_flag, auxiliary_eun_flag),
+    '(%d)(%d)' % (conjugation_eun_flag, auxiliary_eun_flag),
     # '-을' 형태 뒤에 붙여 쓸 수 있는 보조 용언
-    '(%d)(%d)' % (eul_flag, auxiliary_eul_flag),
+    '(%d)(%d)' % (conjugation_eul_flag, auxiliary_eul_flag),
     # 숫자 만 단위로 띄어 쓰기
     # FIXME: hunspell 1.2.8에서는 백자리 이상 쓰면 SEGV
-    #'(%d)?(%d)?(%d)?(%d)?(%d)?' % (number_flag_1000,
-    #                               number_flag_100,
-    #                               number_flag_10,
-    #                               number_flag_1,
-    #                               number_flag_10000),
-    '(%d)?(%d)?(%d)?' % (number_flag_10,
-                         number_flag_1,
-                         number_flag_10000),
+    #'(%d)?(%d)?(%d)?(%d)?(%d)?' % (number_1000_flag,
+    #                               number_100_flag,
+    #                               number_10_flag,
+    #                               number_1_flag,
+    #                               number_10000_flag),
+    '(%d)?(%d)?(%d)?' % (number_10_flag,
+                         number_1_flag,
+                         number_10000_flag),
 ]
 
 out('COMPOUNDRULE %d\n' % len(compound_rules))

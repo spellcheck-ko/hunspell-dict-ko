@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-version = '0.1.8'
-header = '''\
-# This is the affix file of the Korean hunspell dictionary
-#
-# Automatically generated; do not edit it manually.
+# Hunspell FLAG management
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -22,12 +18,10 @@ header = '''\
 #
 # The Initial Developer of the Original Code is
 # Changwoo Ryu.
-# Portions created by the Initial Developer are Copyright (C) 2008, 2009
+# Portions created by the Initial Developer are Copyright (C) 2009
 # the Initial Developer. All Rights Reserved.
 #
-# Contributor(s):
-# Changwoo Ryu
-# Namhyung Kim
+# Contributor(s): Changwoo Ryu <cwryu@debian.org>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,4 +37,50 @@ header = '''\
 #
 # ***** END LICENSE BLOCK *****
 
-'''
+
+_flags = [
+    # 조사
+    'josa',
+    # 아라비아숫자
+    'digit',
+    # 단위 명사, 숫자와 붙여 쓸 수 있음
+    'counter',
+    # '-들'
+    'plural_suffix',
+    # 가산명사, '-들'과 붙여 쓸 수 있음
+    'countable_noun',
+    # 규칙의 예외로 금지할 단어
+    'forbidden',
+    # 영문자 섞어쓰기
+    'alpha',
+    # "-어" 활용형
+    'conjugation_eo',
+    # "-어" 뒤에 붙여 쓸 수 있는 보조용언
+    'auxiliary_eo',
+    # "-은" 활용형
+    'conjugation_eun',
+    # "-은" 뒤에 붙여 쓸 수 있는 보조용언
+    'auxiliary_eun',
+    # "-을" 활용형
+    'conjugation_eul',
+    # "-을" 뒤에 붙여 쓸 수 있는 보조용언
+    'auxiliary_eul',
+    # 한자어 숫자, 자리수별
+    'number_1', 'number_10', 'number_100', 'number_1000', 'number_10000',
+    # 용언 활용
+    ('endings', 100),
+]
+
+def _define_flags():
+    count = 1
+    for flag in _flags:
+        if isinstance(flag, tuple):
+            (name, num) = flag
+            globals()[name + '_flag_start'] = count
+            globals()[name + '_flag_end'] = count + num - 1
+            count += num
+        else:
+            globals()[flag + '_flag'] = count
+            count += 1
+
+_define_flags()

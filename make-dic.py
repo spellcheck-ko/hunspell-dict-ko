@@ -53,6 +53,7 @@ def warn(u8str):
     return sys.stderr.write(u8str + '\n')
 
 import config
+from flags import *
 import suffix
 
 import xml.dom.minidom
@@ -93,6 +94,24 @@ class Dictionary:
                 eword = Word()
                 eword.word = w
                 eword.pos = '내부:활용:-어'
+                eword.stem = word.word
+                eword.ident = -1
+                eword.compute_flags()
+                ewords.append(eword)
+            for w in suffix.make_conjugations(unicode(word.word, 'utf-8'),
+                                              word.pos, word.props, u'-은'):
+                eword = Word()
+                eword.word = w
+                eword.pos = '내부:활용:-은'
+                eword.stem = word.word
+                eword.ident = -1
+                eword.compute_flags()
+                ewords.append(eword)
+            for w in suffix.make_conjugations(unicode(word.word, 'utf-8'),
+                                              word.pos, word.props, u'-을'):
+                eword = Word()
+                eword.word = w
+                eword.pos = '내부:활용:-을'
                 eword.stem = word.word
                 eword.ident = -1
                 eword.compute_flags()
@@ -178,19 +197,21 @@ class Word:
 
     def compute_flags(self):
         default_flags = {
-            '명사': [ config.josa_flag ],
-            '대명사': [ config.josa_flag ],
-            '특수:단위': [ config.josa_flag, config.counter_flag ],
-            '특수:복수접미사': [ config.josa_flag, config.plural_suffix_flag ],
-            '특수:알파벳': [ config.alpha_flag, config.josa_flag ],
-            '특수:숫자': [ config.josa_flag, config.digit_flag ],
-            '특수:수:1': [ config.josa_flag, config.number_flag_1 ],
-            '특수:수:10': [ config.josa_flag, config.number_flag_10 ],
-            '특수:수:100': [ config.josa_flag, config.number_flag_100 ],
-            '특수:수:1000': [ config.josa_flag, config.number_flag_1000 ],
-            '특수:수:10000': [ config.josa_flag, config.number_flag_10000 ],
-            '특수:금지어': [ config.forbidden_flag ],
-            '내부:활용:-어': [ config.eo_flag ],
+            '명사': [ josa_flag ],
+            '대명사': [ josa_flag ],
+            '특수:단위': [ josa_flag, counter_flag ],
+            '특수:복수접미사': [ josa_flag, plural_suffix_flag ],
+            '특수:알파벳': [ alpha_flag, josa_flag ],
+            '특수:숫자': [ josa_flag, digit_flag ],
+            '특수:수:1': [ josa_flag, number_1_flag ],
+            '특수:수:10': [ josa_flag, number_10_flag ],
+            '특수:수:100': [ josa_flag, number_100_flag ],
+            '특수:수:1000': [ josa_flag, number_1000_flag ],
+            '특수:수:10000': [ josa_flag, number_10000_flag ],
+            '특수:금지어': [ forbidden_flag ],
+            '내부:활용:-어': [ conjugation_eo_flag ],
+            '내부:활용:-은': [ conjugation_eun_flag ],
+            '내부:활용:-을': [ conjugation_eul_flag ],
             }
         self.flags = []
                 
@@ -201,12 +222,16 @@ class Word:
 
         if self.pos == '명사' or self.pos == '명사':
             if '가산명사' in self.props:
-                self.flags += [ config.countable_noun_flag ]
+                self.flags += [ countable_noun_flag ]
 
         if self.pos == '동사' or self.pos == '형용사':
             self.flags += suffix.find_flags(self.word, self.pos, self.props)
             if '보조용언:-어' in self.props:
-                self.flags += [ config.auxiliary_eo_flag ]
+                self.flags += [ auxiliary_eo_flag ]
+            if '보조용언:-은' in self.props:
+                self.flags += [ auxiliary_eun_flag ]
+            if '보조용언:-을' in self.props:
+                self.flags += [ auxiliary_eul_flag ]
 
         self.flags.sort()
 

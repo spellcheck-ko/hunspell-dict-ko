@@ -44,6 +44,7 @@ import re
 import unicodedata
 
 import config
+import flags
 from suffixdata import groups
 
 def NFD(unistr):
@@ -176,7 +177,7 @@ del new_klasses
 def attach_flags():
     count = 0
     for klass in klasses:
-        klass['flag'] = (config.endings_flag_start + count)
+        klass['flag'] = (flags.endings_flag_start + count)
         count = count + 1
 attach_flags()
 

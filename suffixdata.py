@@ -38,6 +38,7 @@
 # ***** END LICENSE BLOCK *****
 
 import config
+import flags
 
 ######################################################################
 #### 유틸리티
@@ -938,7 +939,7 @@ groups[u'-기'] = [
     },
 ]
 # 조사
-attach_continuation_flags(groups[u'-기'], [config.josa_flag])
+attach_continuation_flags(groups[u'-기'], [flags.josa_flag])
 
 #### 명사형 전성: -음
 groups[u'-음'] = [
@@ -958,7 +959,7 @@ groups[u'-음'] = [
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11b7', ['#용언']),
 ]
 # 조사
-attach_continuation_flags(groups[u'-음'], [config.josa_flag])
+attach_continuation_flags(groups[u'-음'], [flags.josa_flag])
 
 #### 종결: -ㄴ다, -는다
 groups[u'-는다'] = [
