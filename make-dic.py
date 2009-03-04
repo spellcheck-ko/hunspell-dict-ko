@@ -184,6 +184,11 @@ class Word:
             '특수:복수접미사': [ config.josa_flag, config.plural_suffix_flag ],
             '특수:알파벳': [ config.alpha_flag, config.josa_flag ],
             '특수:숫자': [ config.josa_flag, config.digit_flag ],
+            '특수:수:1': [ config.josa_flag, config.number_flag_1 ],
+            '특수:수:10': [ config.josa_flag, config.number_flag_10 ],
+            '특수:수:100': [ config.josa_flag, config.number_flag_100 ],
+            '특수:수:1000': [ config.josa_flag, config.number_flag_1000 ],
+            '특수:수:10000': [ config.josa_flag, config.number_flag_10000 ],
             '특수:금지어': [ config.forbidden_flag ],
             '내부:활용:-어': [ config.eo_flag ],
             }

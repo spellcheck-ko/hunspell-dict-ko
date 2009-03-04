@@ -223,6 +223,16 @@ compound_rules = [
     '(%d)(%d)' % (eun_flag, auxiliary_eun_flag),
     # '-을' 형태 뒤에 붙여 쓸 수 있는 보조 용언
     '(%d)(%d)' % (eul_flag, auxiliary_eul_flag),
+    # 숫자 만 단위로 띄어 쓰기
+    # FIXME: hunspell 1.2.8에서는 백자리 이상 쓰면 SEGV
+    #'(%d)?(%d)?(%d)?(%d)?(%d)?' % (number_flag_1000,
+    #                               number_flag_100,
+    #                               number_flag_10,
+    #                               number_flag_1,
+    #                               number_flag_10000),
+    '(%d)?(%d)?(%d)?' % (number_flag_10,
+                         number_flag_1,
+                         number_flag_10000),
 ]
 
 out('COMPOUNDRULE %d\n' % len(compound_rules))

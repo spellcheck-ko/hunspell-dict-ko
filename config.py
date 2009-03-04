@@ -66,4 +66,10 @@ auxiliary_eun_flag = 11         # "-은" 뒤에 붙여 쓸 수 있는 보조용�
 eul_flag = 12                   # "-을" 활용형
 auxiliary_eul_flag = 13         # "-을" 뒤에 붙여 쓸 수 있는 보조용언
 
+number_flag_1 = 14
+number_flag_10 = 15
+number_flag_100 = 16
+number_flag_1000 = 17
+number_flag_10000 = 18
+
 endings_flag_start = 100        # 용언의 어미
