@@ -64,8 +64,7 @@ def outnfd(u8str):
 def err(u8str):
     return sys.stderr.write(u8str)
 
-from config import header
-from config import version
+from config import *
 
 ## 헤더 정보
 out(header)
@@ -207,18 +206,6 @@ for rep in rep_list:
 
 ######################################################################    
 
-from config import digit_flag
-from config import counter_flag
-from config import countable_noun_flag
-from config import plural_suffix_flag
-from config import alpha_flag
-from config import eo_flag
-from config import auxiliary_eo_flag
-from config import eun_flag
-from config import auxiliary_eun_flag
-from config import eul_flag
-from config import auxiliary_eul_flag
-
 out('COMPOUNDMIN 1\n')
 #out('ONLYINCOMPOUND %d\n' % plural_suffix_flag)
 
@@ -244,7 +231,6 @@ for rule in compound_rules:
 
 ######################################################################
 
-from config import forbidden_flag
 out('FORBIDDENWORD %d\n' % forbidden_flag)
 
 ######################################################################
@@ -268,8 +254,6 @@ COND_V_ALL = '[%s]' % (V_ALL + ALPHA_ALL)
 COND_T_ALL = '[%s]' % (T_ALL + ALPHA_ALL)
 COND_V_OR_RIEUL = '[%s]' % (V_ALL + u'\u11af' + ALPHA_ALL)
 COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(u'\u11af', '') + ALPHA_ALL)
-
-from config import josa_flag
 
 josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
          ('을', COND_T_ALL), ('를', COND_V_ALL),
