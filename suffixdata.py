@@ -249,6 +249,7 @@ groups[u'-었-'] = [
     { 'rules': [[u'-\u1162\u11bb-', V_A + T_HIEUH, V_A + T_HIEUH],   # 파랗다
                 [u'-\u1164\u11bb-', V_YA + T_HIEUH, V_YA + T_HIEUH], # 하얗다
                 [u'-\u1166\u11bb-', V_EO + T_HIEUH, V_EO + T_HIEUH], # 누렇다
+                [u'-\u1168\u11bb-', V_YEO + T_HIEUH, V_YEO + T_HIEUH], # 허옇다
                ],
       'after': ['#용언'],
       'cond': ['#ㅎ불규칙'],
@@ -351,6 +352,7 @@ groups[u'-어'] = [
     { 'rules': [[u'-\u1162', V_A + T_HIEUH, V_A + T_HIEUH],   # 파랗다
                 [u'-\u1164', V_YA + T_HIEUH, V_YA + T_HIEUH], # 하얗다
                 [u'-\u1166', V_EO + T_HIEUH, V_EO + T_HIEUH], # 누렇다
+                [u'-\u1168', V_YEO + T_HIEUH, V_YEO + T_HIEUH], # 허옇다
                ],
       'after': ['#용언'],
       'cond': ['#ㅎ불규칙'],
@@ -471,7 +473,7 @@ groups[u'-을'] = [
     PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울', ['#용언']),
     # ㅅ불규칙
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-을', ['#용언']),
-    # ㅎ불규칙 TODO: 확인 필요
+    # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11af', ['#용언']),
 ]
 
@@ -955,7 +957,7 @@ groups[u'-음'] = [
     PIEUP_IRREGULAR_TYPICAL_CLASS(u'-움', ['#용언']),
     # ㅅ불규칙
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-음', ['#용언']),
-    # ㅎ불규칙 TODO: 확인 필요
+    # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11b7', ['#용언']),
 ]
 # 조사
@@ -1033,7 +1035,7 @@ groups[u'-으면'] = [
     PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우면', ['#용언']),
     # ㅅ불규칙
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-으면', ['#용언']),
-    # ㅎ불규칙 TODO: 확인 필요
+    # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-면', ['#용언']),
 ]
 
@@ -1076,7 +1078,7 @@ groups[u'-은가'] = [
     PIEUP_IRREGULAR_TYPICAL_CLASS(u'-운가', ['#형용사']),
     # ㅅ불규칙
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-은가', ['#형용사']),
-    # ㅎ불규칙 TODO: 확인 필요
+    # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11ab가', ['#형용사']),
 ]
 
@@ -1094,7 +1096,7 @@ groups[u'-으니까'] = [
     PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우니까', ['#용언']),
     # ㅅ불규칙
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-으니까', ['#용언']),
-    # ㅎ불규칙 TODO: 확인 필요
+    # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-니까', ['#용언']),
 ]
 attach_emphasis(groups[u'-으니까'], ['요'])
@@ -1128,7 +1130,7 @@ groups[u'-은지'] = [
     PIEUP_IRREGULAR_TYPICAL_CLASS(u'-운지', ['#형용사']),
     # ㅅ불규칙
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-은지', ['#형용사']),
-    # ㅎ불규칙 TODO: 확인 필요
+    # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11ab지', ['#형용사']),
 ]
 
@@ -1223,7 +1225,7 @@ groups[u'-으니'] = [
     PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우니', ['#용언']),
     # ㅅ불규칙
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-으니', ['#용언']),
-    # ㅎ불규칙 TODO: 확인 필요
+    # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-니', ['#용언']),
 ]
 
@@ -1272,7 +1274,7 @@ groups[u'-으냐'] = [
     PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우냐', ['#형용사']),
     # ㅅ불규칙
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-으냐', ['#형용사']),
-    # ㅎ불규칙 TODO: 확인 필요
+    # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-냐', ['#형용사']),
 ]
 
