@@ -220,7 +220,7 @@ class Word:
         except KeyError:
             pass
 
-        if self.pos == '명사' or self.pos == '명사':
+        if self.pos == '명사' or self.pos == '대명사':
             if '가산명사' in self.props:
                 self.flags += [ countable_noun_flag ]
 
