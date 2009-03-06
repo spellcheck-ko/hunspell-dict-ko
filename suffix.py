@@ -235,12 +235,13 @@ def find_flags(word, po, props):
 # 가능한 모든 활용 형태 만들기
 def make_all_conjugations(word, po, props):
     result = []
+    uniword = unicode(word, 'utf-8')
     for klass in klasses:
         if not class_match_word(klass, word, po, props):
             continue
         
         for r in klass['rules']:
-            if re.match(NFD(u'.*' + r[1] + '다$'), NFD(word)):
+            if re.match(NFD(u'.*' + r[1] + '다$'), NFD(uniword)):
                 if r[2]:
                     striplen = len(NFD(r[2] + u'다'))
                 else:
@@ -250,19 +251,20 @@ def make_all_conjugations(word, po, props):
                 except:
                     cont = ''
 
-                result.append(NFC(NFD(word)[:-striplen] + r[0][1:]) + cont)
+                result.append(NFC(NFD(uniword)[:-striplen] + r[0][1:]) + cont)
     return result
 
 # 특정 어미의 활용형태
 # FIXME: clean up with make_all_conjugations()
 def make_conjugations(word, po, props, suffix):
     result = []
+    uniword = unicode(word, 'utf-8')
     for klass in groups[suffix]:
         if not class_match_word(klass, word, po, props):
             continue
         
         for r in klass['rules']:
-            if re.match(NFD(u'.*' + r[1] + '다$'), NFD(word)):
+            if re.match(NFD(u'.*' + r[1] + '다$'), NFD(uniword)):
                 if r[2]:
                     striplen = len(NFD(r[2] + u'다'))
                 else:
@@ -272,6 +274,6 @@ def make_conjugations(word, po, props, suffix):
                 except:
                     cont = ''
 
-                result.append(NFC(NFD(word)[:-striplen] + r[0][1:]) + cont)
+                result.append(NFC(NFD(uniword)[:-striplen] + r[0][1:]) + cont)
     return result
 

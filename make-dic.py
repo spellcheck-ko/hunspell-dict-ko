@@ -89,7 +89,7 @@ class Dictionary:
         for word in self.words:
             if word.pos != '동사' and word.pos != '형용사':
                 continue
-            for w in suffix.make_conjugations(unicode(word.word, 'utf-8'),
+            for w in suffix.make_conjugations(word.word,
                                               word.pos, word.props, u'-어'):
                 eword = Word()
                 eword.word = w
@@ -98,8 +98,10 @@ class Dictionary:
                 eword.ident = -1
                 eword.compute_flags()
                 ewords.append(eword)
-            for w in suffix.make_conjugations(unicode(word.word, 'utf-8'),
-                                              word.pos, word.props, u'-은'):
+            for w in (suffix.make_conjugations(word.word,
+                                               word.pos, word.props, u'-은') +
+                      suffix.make_conjugations(word.word,
+                                               word.pos, word.props, u'-는')):
                 eword = Word()
                 eword.word = w
                 eword.pos = '내부:활용:-은'
@@ -107,7 +109,7 @@ class Dictionary:
                 eword.ident = -1
                 eword.compute_flags()
                 ewords.append(eword)
-            for w in suffix.make_conjugations(unicode(word.word, 'utf-8'),
+            for w in suffix.make_conjugations(word.word,
                                               word.pos, word.props, u'-을'):
                 eword = Word()
                 eword.word = w
