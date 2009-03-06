@@ -484,6 +484,14 @@ for klass in groups[u'-을걸']:
     for r in klass['rules']:
         r[0] = r[0] + '걸'
 
+#### 종결: -ㄹ게, -을게
+# '-을' 재활용
+groups[u'-을게'] = copy_group(groups[u'-을'])
+for klass in groups[u'-을게']:
+    for r in klass['rules']:
+        r[0] = r[0] + '게'
+attach_emphasis(groups[u'-을게'], ['요'])
+
 #### 연결: -ㄹ까, -을까
 # '-을' 재활용
 groups[u'-을까'] = copy_group(groups[u'-을'])
@@ -707,47 +715,32 @@ groups[u'-으려'] = [
 ]
 
 #### 연결: -려고, -으려고
-groups[u'-으려고'] = [
-    { 'rules': [[u'-려고', COND_V_OR_RIEUL, ''],
-                [u'-으려고', COND_T_NOT_RIEUL, '']],
-      'after': ['#동사', '-으시-'],
-      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙'],
-    },
-    # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우려고', ['#동사']),
-    # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으려고', ['#동사']),
-]
+# '-으려' 재활용
+groups[u'-으려고'] = copy_group(groups[u'-으려'])
+for klass in groups[u'-으려고']:
+    for r in klass['rules']:
+        r[0] = r[0] + '고'
+
+#### 연결: -려다, -으려다 (려고 하다)
+# '-으려' 재활용
+groups[u'-으려다'] = copy_group(groups[u'-으려'])
+for klass in groups[u'-으려다']:
+    for r in klass['rules']:
+        r[0] = r[0] + '다'
 
 #### 연결: -려는, -으려는 (려고 하는)
-groups[u'-으려는'] = [
-    { 'rules': [[u'-려는', COND_V_OR_RIEUL, ''],
-                [u'-으려는', COND_T_NOT_RIEUL, '']],
-      'after': ['#동사', '#이다', '-으시-'],
-      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙'],
-    },
-    # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으려는', ['#동사']),
-    # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우려는', ['#동사']),
-    # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으려는', ['#동사']),
-]
+# '-으려' 재활용
+groups[u'-으려는'] = copy_group(groups[u'-으려'])
+for klass in groups[u'-으려는']:
+    for r in klass['rules']:
+        r[0] = r[0] + '는'
 
 #### 연결: -려면, -으려면
-groups[u'-으려면'] = [
-    { 'rules': [[u'-려면', COND_V_OR_RIEUL, ''],
-                [u'-으려면', COND_T_NOT_RIEUL, '']],
-      'after': ['#용언', '#이다', '-으시-', '-었-'],
-      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙'],
-    },
-    # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으려면', ['#용언']),
-    # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우려면', ['#용언']),
-    # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으려면', ['#용언']),
-]
+# '-으려' 재활용
+groups[u'-으려면'] = copy_group(groups[u'-으려'])
+for klass in groups[u'-으려면']:
+    for r in klass['rules']:
+        r[0] = r[0] + '면'
 
 #### 연결: -도록
 groups[u'-도록'] = [
@@ -1047,6 +1040,7 @@ for klass in groups[u'-으면서']:
     for r in klass['rules']:
         new_rule.append([r[0] + '서'] + r[1:])
     klass['rules'] = new_rule
+attach_emphasis(groups[u'-으면서'], ['도'])
 
 #### 연결: -자마자
 groups[u'-자마자'] = [
