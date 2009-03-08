@@ -46,4 +46,7 @@ dist:: distdir $(BIN_DISTCONTENT)
 	$(ZIP) $(BIN_DISTFILE) $(BIN_DISTNAME)
 	rm -rf $(BIN_DISTNAME)
 
-.PHONY: all clean dist distdir
+test:
+	$(MAKE) -C tests test
+
+.PHONY: all clean dist distdir test
