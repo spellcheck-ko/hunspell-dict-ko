@@ -47,8 +47,6 @@ _flags = [
     'counter',
     # '-들'
     'plural_suffix',
-    # 가산명사, '-들'과 붙여 쓸 수 있음
-    'countable_noun',
     # 규칙의 예외로 금지할 단어
     'forbidden',
     # 영문자 섞어쓰기

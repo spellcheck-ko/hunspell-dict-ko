@@ -64,11 +64,11 @@ def outnfd(u8str):
 def err(u8str):
     return sys.stderr.write(u8str)
 
-from config import *
+import config
 
 ## 헤더 정보
-out(header)
-out('VERSION hunspell-dict-ko %s\n' % version)
+out(config.header)
+out('VERSION hunspell-dict-ko %s\n' % config.version)
 out('SET UTF-8\n')
 out('LANG ko\n')
 out('FLAG num\n')
@@ -215,17 +215,9 @@ out('COMPOUNDMIN 1\n')
 compound_rules = [
     # 숫자+단위
     '(%d)*(%d)(%d)' % (digit_flag, digit_flag, counter_flag),
-    # 가산명사+'들'
-    '(%d)(%d)' % (countable_noun_flag, plural_suffix_flag),
     # tokenizer에서 로마자를 분리해 주지 않는 경우를 위해 로마자로 된 모든
     # 단어를 허용하고 명사로 취급한다.
     '(%d)*(%d)?' % (alpha_flag, plural_suffix_flag),
-    # '-어' 형태 뒤에 붙여 쓸 수 있는 보조 용언
-    '(%d)(%d)' % (conjugation_eo_flag, auxiliary_eo_flag),
-    # '-은' 형태 뒤에 붙여 쓸 수 있는 보조 용언
-    '(%d)(%d)' % (conjugation_eun_flag, auxiliary_eun_flag),
-    # '-을' 형태 뒤에 붙여 쓸 수 있는 보조 용언
-    '(%d)(%d)' % (conjugation_eul_flag, auxiliary_eul_flag),
     # 숫자 만 단위로 띄어 쓰기
     # FIXME: hunspell 1.2.8에서는 백자리 이상 쓰면 SEGV
     #'(%d)?(%d)?(%d)?(%d)?(%d)?' % (number_1000_flag,
@@ -237,6 +229,14 @@ compound_rules = [
                          number_1_flag,
                          number_10000_flag),
 ]
+
+# 보조용언 붙여 쓰기: 별도로 확장하지 않는 경우에만 필요
+if not config.expand_auxiliary_attached:
+    compound_rules += [
+        '(%d)(%d)' % (conjugation_eo_flag, auxiliary_eo_flag),
+        '(%d)(%d)' % (conjugation_eun_flag, auxiliary_eun_flag),
+        '(%d)(%d)' % (conjugation_eul_flag, auxiliary_eul_flag),
+    ]
 
 out('COMPOUNDRULE %d\n' % len(compound_rules))
 for rule in compound_rules:

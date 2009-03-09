@@ -79,47 +79,79 @@ class Dictionary:
         self.words.add(word)
     def remove(self, word):
         self.words.remove(word)
+    def append(self, words):
+        for w in words:
+            self.words.add(w)
     
     def __len__(self):
         return len(self.words)
 
-    def expand(self):
+    def expand_plural(self):
         ewords = []
-        # '-어' 활용형 별도 단어로 분리
-        for word in self.words:
-            if word.pos != '동사' and word.pos != '형용사':
-                continue
-            for w in suffix.make_conjugations(word.word,
-                                              word.pos, word.props, u'-어'):
-                eword = Word()
-                eword.word = w
-                eword.pos = '내부:활용:-어'
-                eword.stem = word.word
-                eword.ident = -1
-                eword.compute_flags()
-                ewords.append(eword)
-            for w in (suffix.make_conjugations(word.word,
-                                               word.pos, word.props, u'-은') +
-                      suffix.make_conjugations(word.word,
-                                               word.pos, word.props, u'-는')):
-                eword = Word()
-                eword.word = w
-                eword.pos = '내부:활용:-은'
-                eword.stem = word.word
-                eword.ident = -1
-                eword.compute_flags()
-                ewords.append(eword)
-            for w in suffix.make_conjugations(word.word,
-                                              word.pos, word.props, u'-을'):
-                eword = Word()
-                eword.word = w
-                eword.pos = '내부:활용:-을'
-                eword.stem = word.word
-                eword.ident = -1
-                eword.compute_flags()
-                ewords.append(eword)
-        for word in ewords:
-            self.add(word)
+        for word in [w for w in self.words if '가산명사' in w.props]:
+            eword = Word()
+            eword.word = word.word + '들'
+            eword.pos = word.pos
+            eword.stem = word.word
+            eword.ident = -1
+            eword.compute_flags()
+            ewords.append(eword)
+        self.append(ewords)
+    
+    def expand_auxiliary(self):
+        ewords = []
+        forms = ['-어', '-은', '-을']
+        verbs = [w for w in self.words if w.pos in ['동사', '형용사']]
+        for form in forms:
+            auxiliaries = [w for w in verbs if ('보조용언:' + form) in w.props]
+            for verb in verbs:
+                prefixes = suffix.make_conjugations(verb.word,
+                                                    verb.pos, verb.props,
+                                                    unicode(form, 'utf-8'))
+                for auxiliary in auxiliaries:
+                    # 본동사가 해당 보조용언으로 끝나는 합성어인 경우 생략
+                    # 예: 다가오다 + 오다 => 다가와오다 (x)
+                    if (verb.word != auxiliary.word and
+                        verb.word.endswith(auxiliary.word)):
+                        continue
+                    new_props = set([p for p in auxiliary.props if not p.startswith('보조용언:')])
+                    for p in prefixes:
+                        eword = Word()
+                        eword.word = p.encode('utf-8') + auxiliary.word
+                        eword.pos = auxiliary.pos
+                        eword.stem = verb.word
+                        eword.props = new_props
+                        eword.ident = -1
+                        eword.compute_flags()
+                        ewords.append(eword)
+        self.append(ewords)
+
+    def expand_auxiliary_suffix(self):
+        ewords = []
+        forms = ['-어', '-은', '-을']
+        verbs = [w for w in self.words if w.pos in ['동사', '형용사']]
+        for form in forms:
+            for verb in verbs:
+                prefixes = suffix.make_conjugations(verb.word,
+                                                    verb.pos, verb.props,
+                                                    unicode(form, 'utf-8'))
+                for p in prefixes:
+                    eword = Word()
+                    eword.word = p
+                    eword.pos = '내부:활용:' + form
+                    eword.stem = verb.word
+                    eword.ident = -1
+                    eword.compute_flags()
+                    ewords.append(eword)
+        self.append(ewords)
+
+    def expand(self):
+        self.expand_plural()
+        # 보조용언 붙여 쓰는 형태 사전에 기재
+        if config.expand_auxiliary_attached:
+            self.expand_auxiliary()
+        else:
+            self.expand_auxiliary_suffix()
 
     def output(self, file):
         file.write('%d\n' % len(self))
@@ -222,18 +254,15 @@ class Word:
         except KeyError:
             pass
 
-        if self.pos == '명사' or self.pos == '대명사':
-            if '가산명사' in self.props:
-                self.flags += [ countable_noun_flag ]
-
         if self.pos == '동사' or self.pos == '형용사':
             self.flags += suffix.find_flags(self.word, self.pos, self.props)
-            if '보조용언:-어' in self.props:
-                self.flags += [ auxiliary_eo_flag ]
-            if '보조용언:-은' in self.props:
-                self.flags += [ auxiliary_eun_flag ]
-            if '보조용언:-을' in self.props:
-                self.flags += [ auxiliary_eul_flag ]
+            if not config.expand_auxiliary_attached:
+                if '보조용언:-어' in self.props:
+                    self.flags += [ auxiliary_eo_flag ]
+                if '보조용언:-은' in self.props:
+                    self.flags += [ auxiliary_eun_flag ]
+                if '보조용언:-을' in self.props:
+                    self.flags += [ auxiliary_eul_flag ]
 
         self.flags.sort()
 
@@ -254,9 +283,12 @@ class Word:
         n = cmp(self.pos, other.pos)
         if n != 0:
             return n
-        n = cmp(self.ident, other.ident)
-        if n != 0:
-            return n
+        for prop in other.props:
+            if not prop in self.props:
+                return -1
+        for prop in self.props:
+            if not prop in other.props:
+                return 1
         return 0
     def __hash__(self):
         return (self.word + self.pos).__hash__()
