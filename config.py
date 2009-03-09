@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-version = '0.1.8'
+version = '0.1.9'
 header = '''\
 # This is the affix file of the Korean hunspell dictionary
 #
