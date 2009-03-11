@@ -185,21 +185,23 @@ attach_flags()
 ######################################################################
 ## 외부 사용
 
-def write_suffixes(file):
+def get_rules_string():
+    result = ''
     for klass in klasses:
         flag = klass['flag']
-        file.write('SFX %d Y %d\n' % (flag, len(klass['rules'])))
+        result += 'SFX %d Y %d\n' % (flag, len(klass['rules']))
         for r in klass['rules']:
             suffix = r[0][1:] # 앞에 '-' 빼기
             condition = r[1] + '다'
             strip = r[2] + '다'
             try:
                 cont = ','.join(['%d' % c for c in r[3]])
-                file.write(NFD('SFX %d %s %s/%s %s\n' %
-                               (flag, strip, suffix, cont, condition)))
+                result += NFD('SFX %d %s %s/%s %s\n' %
+                              (flag, strip, suffix, cont, condition))
             except IndexError:
-                file.write(NFD('SFX %d %s %s %s\n' %
-                               (flag, strip, suffix, condition)))
+                result += NFD('SFX %d %s %s %s\n' %
+                              (flag, strip, suffix, condition))
+    return result
 
 def class_match_word(klass, word, po, props):
     if (klass.has_key('after') and

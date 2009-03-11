@@ -4,12 +4,11 @@ ZIP = zip -r
 AFFIX = ko.aff
 DICT = ko.dic
 
-DICT_SOURCES = dict-ko-builtins.xml dict-ko-galkwi.xml
-
 CLEANFILES = $(AFFIX) $(DICT)
 
-AFFIX_PY = make-aff.py config.py suffix.py suffixdata.py jamo.py
-DICT_PY = make-dic.py config.py suffix.py suffixdata.py jamo.py
+SOURCES = make.py config.py suffix.py suffixdata.py jamo.py flags.py	\
+	aff.py template.aff
+DICT_DATA = dict-ko-builtins.xml dict-ko-galkwi.xml
 
 DISTDIR = dist
 
@@ -25,11 +24,8 @@ BIN_DISTCONTENT = LICENSE LICENSE.GPL LICENSE.LGPL LICENSE.MPL $(AFFIX) $(DICT)
 
 all: $(AFFIX) $(DICT)
 
-$(AFFIX): $(AFFIX_PY)
-	$(PYTHON) make-aff.py > $@
-
-$(DICT): $(DICT_SOURCES) $(DICT_PY)
-	$(PYTHON) make-dic.py $(DICT_SOURCES) > $@
+$(AFFIX) $(DICT): $(DICT_DATA) $(SOURCES)
+	$(PYTHON) make-aff-dic.py $(AFFIX) $(DICT) $(DICT_DATA) 
 
 distdir:
 	if ! [ -d $(DISTDIR) ]; then mkdir $(DISTDIR); fi
