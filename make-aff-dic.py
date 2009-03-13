@@ -178,9 +178,9 @@ class Dictionary:
         outfile.write('%d\n' % len(self.words))
         for word in sorted(list(self.words)):
             line = '%s' % word.word
-            if word.flags_alias >= 0:
+            if word.flags_alias > 0:
                 line += ('/%d' % word.flags_alias)
-            if word.morph_alias >= 0:
+            if word.morph_alias > 0:
                 line += (' %d' % word.morph_alias)
             line += '\n'
             outfile.write(nfd(line))
@@ -197,8 +197,8 @@ class Dictionary:
              'MAP': aff.MAP_DEFINES,
              'REP': aff.REP_DEFINES,
              'COMPOUNDRULE': aff.COMPOUNDRULE_DEFINES,
-             'SUFFIX': aff.SUFFIX_DEFINES,
              'JOSA': aff.JOSA_DEFINES,
+             'SUFFIX': aff.SUFFIX_DEFINES,
             }
         outfile.write(template.substitute(d))
 
@@ -259,21 +259,27 @@ class Dictionary:
             auxiliaries = [w for w in verbs if ('보조용언:' + form) in w.props]
             for verb in verbs:
                 prefixes = suffix.make_conjugations(verb.word,
-                                                    verb.pos, verb.props,
-                                                    unicode(form, 'utf-8'))
-                for auxiliary in auxiliaries:
-                    # 본동사가 해당 보조용언으로 끝나는 합성어인 경우 생략
-                    # 예: 다가오다 + 오다 => 다가와오다 (x)
-                    if (verb.word != auxiliary.word and
-                        verb.word.endswith(auxiliary.word)):
-                        continue
-                    new_props = [p for p in auxiliary.props if not p.startswith('보조용언:')]
-                    for p in prefixes:
+                                                    verb.pos, verb.props, form)
+                if config.expand_auxiliary_attached:
+                    for auxiliary in auxiliaries:
+                        # 본동사가 해당 보조용언으로 끝나는 합성어인 경우 생략
+                        # 예: 다가오다 + 오다 => 다가와오다 (x)
+                        if (verb.word != auxiliary.word and
+                            verb.word.endswith(auxiliary.word)):
+                            continue
+                        new_props = [p for p in auxiliary.props if not p.startswith('보조용언:')]
+                        for prefix in prefixes:
+                            new_word = Word()
+                            new_word.word = prefix + auxiliary.word
+                            new_word.pos = auxiliary.pos
+                            new_word.stem = verb.word
+                            new_word.props = new_props
+                            new_words.append(new_word)
+                else:
+                    for prefix in prefixes:
                         new_word = Word()
-                        new_word.word = p.encode('utf-8') + auxiliary.word
-                        new_word.pos = auxiliary.pos
-                        new_word.stem = verb.word
-                        new_word.props = new_props
+                        new_word.word = prefix
+                        new_word.pos = '내부:활용:' + form
                         new_words.append(new_word)
         self.append(new_words)
 

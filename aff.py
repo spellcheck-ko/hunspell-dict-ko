@@ -130,12 +130,14 @@ TRYCHARS = (u'\u110b\u1161\u11ab\u1175\u1100\u1173\u1169\u1109\u1165\u11bc' +
             u'\u11c1\u11bd\u11c2\u1108\u11b0\u11b1\u116b\u11a9\u11b2\u11b6' +
             u'\u1164\u11ac\u11aa\u11bf\u11b4\u11b3\u11b5')
 
-CONV_DEFINES = 'ICONV 11172\n'
+_conv_strings = []
+_conv_strings.append('ICONV 11172')
 for uch in map(unichr, range(0xac00, 0xd7a3 + 1)):
-    CONV_DEFINES += 'ICONV %s %s\n' % (uch, NFD(uch))
-CONV_DEFINES += 'OCONV 11172\n'
+    _conv_strings.append('ICONV %s %s' % (uch, NFD(uch)))
+_conv_strings.append('OCONV 11172')
 for uch in map(unichr, range(0xac00, 0xd7a3 + 1)):
-    CONV_DEFINES += 'OCONV %s %s\n' % (NFD(uch), uch)
+    _conv_strings.append('OCONV %s %s' % (NFD(uch), uch))
+CONV_DEFINES = '\n'.join(_conv_strings)
 
 map_list = [
     L_KIYEOK + L_SSANGKIYEOK + L_KHIEUKH,
@@ -165,8 +167,9 @@ rep_list = [
     # ㅕ/ㅓ
     (u'\u1167', u'\u1165'),
     # 의존명사 앞에 띄어 쓰기
-    (u'\u11af것', u'\u11af_것'),
+    (u'것', u'_것'),
     ]
+
 REP_DEFINES = 'REP %d\n' % len(rep_list)
 for rep in rep_list:
     REP_DEFINES += nfd('REP %s %s\n' % (rep[0], rep[1]))
@@ -294,17 +297,17 @@ josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
 # twofold suffix를 여기에 써먹기에는 아깝다
 ida_conjugations = suffix.make_all_conjugations('이다', '이다', [])
 for c in ida_conjugations:
-    if NFD(c)[:2] == NFD(u'여'):
+    if NFD(c.decode('utf-8'))[:2] == NFD(u'여'):
         # '-이어' -> '여' 줄임형은 받침이 있을 경우에만
         josas.append((c, COND_V_ALL))
     else:
         josas.append((c, COND_ALL))
     # '이' 생략
     # TODO: 받침이 앞의 명사에 붙는 경우 허용 여부 (예: "마찬가집니다")
-    if NFC(c)[0] == u'이':
-        josas.append((NFC(c)[1:], COND_V_ALL))
+    if NFC(c.decode('utf-8'))[0] == u'이':
+        josas.append((NFC(c.decode('utf-8'))[1:], COND_V_ALL))
 
-JOSA_DEFINES = 'SFX %d Y %d\n' % (josa_flag, len(josas))
+_josa_strings = ['SFX %d Y %d' % (josa_flag, len(josas))]
 for (suffix,cond) in josas:
-    JOSA_DEFINES += nfd('SFX %d 0 %s %s\n' % (josa_flag, suffix, cond))
-
+    _josa_strings.append(nfd('SFX %d 0 %s %s' % (josa_flag, suffix, cond)))
+JOSA_DEFINES = '\n'.join(_josa_strings)
