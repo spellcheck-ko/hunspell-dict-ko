@@ -179,8 +179,9 @@
 <Entry>
 <word>가구</word>
 <pos>명사</pos>
+<props>가산명사</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-14 07:36:19</date>
 </Entry>
 
 <Entry>
@@ -483,10 +484,9 @@
 <Entry>
 <word>가라사대</word>
 <pos>동사</pos>
-<props>문어체</props>
-<comment>동사로 쓰이지만 활용을 하지 않는다</comment>
+<comment>문어체, 활용된 형태</comment>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-14 17:18:05</date>
 </Entry>
 
 <Entry>
@@ -630,9 +630,9 @@
 
 <Entry>
 <word>가리우다</word>
-<pos></pos>
+<pos>동사</pos>
 <editor>changwoo</editor>
-<date>2009-03-09 07:13:09</date>
+<date>2009-03-12 00:14:07</date>
 </Entry>
 
 <Entry>
@@ -2061,6 +2061,13 @@
 </Entry>
 
 <Entry>
+<word>갈피</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:56:28</date>
+</Entry>
+
+<Entry>
 <word>감</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -2611,6 +2618,14 @@
 </Entry>
 
 <Entry>
+<word>감탄사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:45:52</date>
+</Entry>
+
+<Entry>
 <word>감탄하다</word>
 <pos>동사</pos>
 <editor>changwoo</editor>
@@ -2959,10 +2974,25 @@
 </Entry>
 
 <Entry>
+<word>강릉</word>
+<pos>명사</pos>
+<comment>지명</comment>
+<editor>changwoo</editor>
+<date>2009-03-15 08:48:05</date>
+</Entry>
+
+<Entry>
 <word>강물</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>강바닥</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 11:09:45</date>
 </Entry>
 
 <Entry>
@@ -3099,6 +3129,13 @@
 <pos>동사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>강우량</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 18:26:16</date>
 </Entry>
 
 <Entry>
@@ -4767,6 +4804,14 @@
 </Entry>
 
 <Entry>
+<word>거지</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 11:06:41</date>
+</Entry>
+
+<Entry>
 <word>거짓</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -4838,6 +4883,14 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>거함</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 08:47:37</date>
 </Entry>
 
 <Entry>
@@ -7929,6 +7982,23 @@
 </Entry>
 
 <Entry>
+<word>계집아이</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-13 00:24:13</date>
+</Entry>
+
+<Entry>
+<word>계집애</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<orig>계집아이</orig>
+<editor>changwoo</editor>
+<date>2009-03-13 00:24:30</date>
+</Entry>
+
+<Entry>
 <word>계층</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -8348,8 +8418,9 @@
 <Entry>
 <word>고르다</word>
 <pos>형용사</pos>
+<props>르불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:37:29</date>
 </Entry>
 
 <Entry>
@@ -9065,6 +9136,20 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>고자질</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 21:29:15</date>
+</Entry>
+
+<Entry>
+<word>고자질하다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 21:29:21</date>
 </Entry>
 
 <Entry>
@@ -9886,6 +9971,14 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>공격기</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 10:39:56</date>
 </Entry>
 
 <Entry>
@@ -12197,6 +12290,13 @@
 </Entry>
 
 <Entry>
+<word>광섬유</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 11:39:12</date>
+</Entry>
+
+<Entry>
 <word>광속</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -12545,6 +12645,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>교류하다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 11:37:25</date>
 </Entry>
 
 <Entry>
@@ -15097,6 +15204,13 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>귀결되다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 11:20:16</date>
 </Entry>
 
 <Entry>
@@ -19574,6 +19688,13 @@
 </Entry>
 
 <Entry>
+<word>꽃꽂이</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-13 00:55:33</date>
+</Entry>
+
+<Entry>
 <word>꽃다발</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -19595,6 +19716,14 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>꽃병</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-13 00:49:26</date>
 </Entry>
 
 <Entry>
@@ -20317,8 +20446,9 @@
 <Entry>
 <word>나쁘다</word>
 <pos>형용사</pos>
+<props>으불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:40:23</date>
 </Entry>
 
 <Entry>
@@ -20404,9 +20534,10 @@
 <Entry>
 <word>나이프</word>
 <pos>명사</pos>
+<props>가산명사</props>
 <etym>knife</etym>
 <editor>changwoo</editor>
-<date>2009-03-03 18:46:36</date>
+<date>2009-03-12 21:32:18</date>
 </Entry>
 
 <Entry>
@@ -21733,6 +21864,13 @@
 </Entry>
 
 <Entry>
+<word>내던지다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 08:51:00</date>
+</Entry>
+
+<Entry>
 <word>내려가다</word>
 <pos>동사</pos>
 <props>거라불규칙</props>
@@ -22178,6 +22316,13 @@
 </Entry>
 
 <Entry>
+<word>내쫓다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 11:04:02</date>
+</Entry>
+
+<Entry>
 <word>내한</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -22370,6 +22515,13 @@
 <pos>형용사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>너덜너덜</word>
+<pos>부사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 23:47:05</date>
 </Entry>
 
 <Entry>
@@ -23752,6 +23904,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>뇌다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-11 05:40:34</date>
 </Entry>
 
 <Entry>
@@ -28722,6 +28881,13 @@
 </Entry>
 
 <Entry>
+<word>도둑맞다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:36:07</date>
+</Entry>
+
+<Entry>
 <word>도란도란</word>
 <pos>부사</pos>
 <editor>changwoo</editor>
@@ -30101,6 +30267,13 @@
 </Entry>
 
 <Entry>
+<word>동남풍</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:51:49</date>
+</Entry>
+
+<Entry>
 <word>동네</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -30220,6 +30393,14 @@
 </Entry>
 
 <Entry>
+<word>동무</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-10 18:01:27</date>
+</Entry>
+
+<Entry>
 <word>동문회</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -30309,10 +30490,18 @@
 </Entry>
 
 <Entry>
-<word>동사</word>
+<word>동북아시아</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-15 05:50:51</date>
+</Entry>
+
+<Entry>
+<word>동사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:46:33</date>
 </Entry>
 
 <Entry>
@@ -31384,6 +31573,14 @@
 </Entry>
 
 <Entry>
+<word>뒷골</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 21:45:35</date>
+</Entry>
+
+<Entry>
 <word>뒷골목</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -32074,6 +32271,14 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>등본</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:22:07</date>
 </Entry>
 
 <Entry>
@@ -32945,6 +33150,15 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>똥파리</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<comment>동물</comment>
+<editor>changwoo</editor>
+<date>2009-03-15 00:26:54</date>
 </Entry>
 
 <Entry>
@@ -35142,6 +35356,20 @@
 </Entry>
 
 <Entry>
+<word>말랑말랑</word>
+<pos>부사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 23:47:34</date>
+</Entry>
+
+<Entry>
+<word>말랑말랑하다</word>
+<pos>형용사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 23:48:10</date>
+</Entry>
+
+<Entry>
 <word>말레이시아</word>
 <pos>명사</pos>
 <props>고유명사</props>
@@ -37097,8 +37325,9 @@
 <Entry>
 <word>명사</word>
 <pos>명사</pos>
+<props>가산명사</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-15 05:46:15</date>
 </Entry>
 
 <Entry>
@@ -37708,6 +37937,13 @@
 </Entry>
 
 <Entry>
+<word>모욕적</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 11:36:09</date>
+</Entry>
+
+<Entry>
 <word>모욕죄</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -37736,6 +37972,21 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>모의</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 22:19:18</date>
+</Entry>
+
+<Entry>
+<word>모의실험</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-12 22:19:11</date>
 </Entry>
 
 <Entry>
@@ -39288,6 +39539,13 @@
 </Entry>
 
 <Entry>
+<word>무인</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 07:34:51</date>
+</Entry>
+
+<Entry>
 <word>무인도</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -39314,6 +39572,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>무작위적</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 21:23:09</date>
 </Entry>
 
 <Entry>
@@ -41635,6 +41900,13 @@
 </Entry>
 
 <Entry>
+<word>바람피우다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 23:01:40</date>
+</Entry>
+
+<Entry>
 <word>바레인</word>
 <pos>명사</pos>
 <props>고유명사</props>
@@ -41675,8 +41947,9 @@
 <Entry>
 <word>바르다</word>
 <pos>형용사</pos>
+<props>르불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:38:30</date>
 </Entry>
 
 <Entry>
@@ -42263,6 +42536,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>반송하다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 11:52:44</date>
 </Entry>
 
 <Entry>
@@ -43151,6 +43431,14 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>발전기</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 11:49:31</date>
 </Entry>
 
 <Entry>
@@ -45752,6 +46040,14 @@
 </Entry>
 
 <Entry>
+<word>벙커</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-10 21:21:59</date>
+</Entry>
+
+<Entry>
 <word>벚꽃</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -45949,8 +46245,9 @@
 <Entry>
 <word>벼르다</word>
 <pos>동사</pos>
+<props>르불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:37:46</date>
 </Entry>
 
 <Entry>
@@ -46190,6 +46487,20 @@
 <pos>동사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>변함없다</word>
+<pos>형용사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 18:03:19</date>
+</Entry>
+
+<Entry>
+<word>변함없이</word>
+<pos>부사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 18:02:59</date>
 </Entry>
 
 <Entry>
@@ -47188,6 +47499,14 @@
 </Entry>
 
 <Entry>
+<word>보조동사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:48:01</date>
+</Entry>
+
+<Entry>
 <word>보조사</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -47196,10 +47515,26 @@
 </Entry>
 
 <Entry>
+<word>보조용언</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:47:43</date>
+</Entry>
+
+<Entry>
 <word>보조제</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>보조형용사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:48:13</date>
 </Entry>
 
 <Entry>
@@ -47666,6 +48001,14 @@
 </Entry>
 
 <Entry>
+<word>복제품</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 16:49:14</date>
+</Entry>
+
+<Entry>
 <word>복제하다</word>
 <pos>동사</pos>
 <editor>changwoo</editor>
@@ -47839,6 +48182,21 @@
 </Entry>
 
 <Entry>
+<word>본디</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 16:55:25</date>
+</Entry>
+
+<Entry>
+<word>본딧말</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 16:55:12</date>
+</Entry>
+
+<Entry>
 <word>본때</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -47858,6 +48216,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>본론</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 11:06:17</date>
 </Entry>
 
 <Entry>
@@ -48232,6 +48597,13 @@
 </Entry>
 
 <Entry>
+<word>부가</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:55:34</date>
+</Entry>
+
+<Entry>
 <word>부가가치</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -48370,6 +48742,13 @@
 <props>ㅂ불규칙</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>부닥치다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 21:27:37</date>
 </Entry>
 
 <Entry>
@@ -48614,8 +48993,9 @@
 <Entry>
 <word>부르트다</word>
 <pos>동사</pos>
+<props>으불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:41:58</date>
 </Entry>
 
 <Entry>
@@ -48676,6 +49056,14 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>부사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:46:49</date>
 </Entry>
 
 <Entry>
@@ -50091,6 +50479,14 @@
 </Entry>
 
 <Entry>
+<word>불개미</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:24:08</date>
+</Entry>
+
+<Entry>
 <word>불거지다</word>
 <pos>동사</pos>
 <editor>changwoo</editor>
@@ -50460,8 +50856,9 @@
 <Entry>
 <word>불사르다</word>
 <pos>동사</pos>
+<props>르불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:36:46</date>
 </Entry>
 
 <Entry>
@@ -51600,6 +51997,13 @@
 </Entry>
 
 <Entry>
+<word>비신사적</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 17:34:17</date>
+</Entry>
+
+<Entry>
 <word>비싸다</word>
 <pos>형용사</pos>
 <editor>changwoo</editor>
@@ -51737,6 +52141,15 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-03-06 14:08:36</date>
+</Entry>
+
+<Entry>
+<word>비자</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<etym>visa</etym>
+<editor>changwoo</editor>
+<date>2009-03-14 11:05:34</date>
 </Entry>
 
 <Entry>
@@ -52173,6 +52586,20 @@
 </Entry>
 
 <Entry>
+<word>빙그레</word>
+<pos>부사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 17:36:43</date>
+</Entry>
+
+<Entry>
+<word>빙글빙글</word>
+<pos>부사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 17:36:10</date>
+</Entry>
+
+<Entry>
 <word>빙산</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -52472,6 +52899,20 @@
 </Entry>
 
 <Entry>
+<word>빽빽이</word>
+<pos>부사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 22:29:20</date>
+</Entry>
+
+<Entry>
+<word>빽빽하다</word>
+<pos>형용사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 22:29:26</date>
+</Entry>
+
+<Entry>
 <word>뺄셈</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -52579,8 +53020,9 @@
 <Entry>
 <word>뼈아프다</word>
 <pos>형용사</pos>
+<props>으불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:40:34</date>
 </Entry>
 
 <Entry>
@@ -53028,6 +53470,14 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-03-03 21:59:24</date>
+</Entry>
+
+<Entry>
+<word>사랑방</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-12 22:53:39</date>
 </Entry>
 
 <Entry>
@@ -55636,6 +56086,14 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>상임위원회</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-10 19:22:13</date>
 </Entry>
 
 <Entry>
@@ -59835,6 +60293,13 @@
 </Entry>
 
 <Entry>
+<word>소급하다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 17:12:13</date>
+</Entry>
+
+<Entry>
 <word>소기업</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -61209,6 +61674,14 @@
 </Entry>
 
 <Entry>
+<word>손톱깎이</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 08:59:50</date>
+</Entry>
+
+<Entry>
 <word>손해</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -61914,11 +62387,32 @@
 </Entry>
 
 <Entry>
+<word>수록</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:10:32</date>
+</Entry>
+
+<Entry>
 <word>수록곡</word>
 <pos>명사</pos>
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>수록되다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:10:45</date>
+</Entry>
+
+<Entry>
+<word>수록하다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:10:41</date>
 </Entry>
 
 <Entry>
@@ -66056,6 +66550,13 @@
 </Entry>
 
 <Entry>
+<word>신사적</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 17:34:10</date>
+</Entry>
+
+<Entry>
 <word>신상품</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -66823,6 +67324,14 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>실습실</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-10 19:06:54</date>
 </Entry>
 
 <Entry>
@@ -67919,6 +68428,20 @@
 </Entry>
 
 <Entry>
+<word>쑤다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 21:30:24</date>
+</Entry>
+
+<Entry>
+<word>쑤시다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 21:46:38</date>
+</Entry>
+
+<Entry>
 <word>쑥스럽다</word>
 <pos>형용사</pos>
 <props>ㅂ불규칙</props>
@@ -68629,6 +69152,13 @@
 <pos>동사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>아서라</word>
+<pos>감탄사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 09:37:30</date>
 </Entry>
 
 <Entry>
@@ -70079,6 +70609,13 @@
 </Entry>
 
 <Entry>
+<word>앞가림</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:56:47</date>
+</Entry>
+
+<Entry>
 <word>앞길</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -70200,6 +70737,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>애교</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:09:54</date>
 </Entry>
 
 <Entry>
@@ -71381,6 +71925,15 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>어근</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<comment>언어</comment>
+<editor>changwoo</editor>
+<date>2009-03-15 05:55:17</date>
 </Entry>
 
 <Entry>
@@ -75741,6 +76294,15 @@
 </Entry>
 
 <Entry>
+<word>예수</word>
+<pos>명사</pos>
+<props>고유명사</props>
+<comment>인명</comment>
+<editor>changwoo</editor>
+<date>2009-03-15 08:49:39</date>
+</Entry>
+
+<Entry>
 <word>예술</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -76807,8 +77369,9 @@
 <Entry>
 <word>올바르다</word>
 <pos>형용사</pos>
+<props>르불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:39:11</date>
 </Entry>
 
 <Entry>
@@ -80951,6 +81514,22 @@
 </Entry>
 
 <Entry>
+<word>유리병</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 17:00:21</date>
+</Entry>
+
+<Entry>
+<word>유리수</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 17:00:58</date>
+</Entry>
+
+<Entry>
 <word>유리창</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -82808,6 +83387,14 @@
 </Entry>
 
 <Entry>
+<word>의상실</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-13 02:55:27</date>
+</Entry>
+
+<Entry>
 <word>의석</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -83534,8 +84121,9 @@
 <Entry>
 <word>이르다</word>
 <pos>형용사</pos>
+<props>르불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:39:27</date>
 </Entry>
 
 <Entry>
@@ -85586,11 +86174,25 @@
 </Entry>
 
 <Entry>
+<word>일대일</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 11:54:24</date>
+</Entry>
+
+<Entry>
 <word>일등</word>
 <pos>명사</pos>
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>일러바치다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-12 21:29:46</date>
 </Entry>
 
 <Entry>
@@ -88738,8 +89340,9 @@
 <Entry>
 <word>잠그다</word>
 <pos>동사</pos>
+<props>으불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:40:47</date>
 </Entry>
 
 <Entry>
@@ -88813,6 +89416,14 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>잠수부</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 10:40:46</date>
 </Entry>
 
 <Entry>
@@ -91478,6 +92089,14 @@
 </Entry>
 
 <Entry>
+<word>전당</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 21:28:27</date>
+</Entry>
+
+<Entry>
 <word>전당포</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -92402,6 +93021,14 @@
 </Entry>
 
 <Entry>
+<word>전치사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:49:24</date>
+</Entry>
+
+<Entry>
 <word>전통</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -93024,6 +93651,14 @@
 </Entry>
 
 <Entry>
+<word>점쟁이</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-12 21:34:18</date>
+</Entry>
+
+<Entry>
 <word>점점</word>
 <pos>부사</pos>
 <editor>changwoo</editor>
@@ -93140,6 +93775,14 @@
 </Entry>
 
 <Entry>
+<word>접두사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-10 19:06:30</date>
+</Entry>
+
+<Entry>
 <word>접두어</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -93197,6 +93840,14 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>접속사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:49:22</date>
 </Entry>
 
 <Entry>
@@ -94138,8 +94789,9 @@
 <Entry>
 <word>정책</word>
 <pos>명사</pos>
+<props>가산명사</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-14 07:36:07</date>
 </Entry>
 
 <Entry>
@@ -94728,6 +95380,14 @@
 </Entry>
 
 <Entry>
+<word>제안서</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 22:27:15</date>
+</Entry>
+
+<Entry>
 <word>제안자</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -95288,6 +95948,14 @@
 <pos>동사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>조동사</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:49:02</date>
 </Entry>
 
 <Entry>
@@ -95916,6 +96584,13 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>족하다</word>
+<pos>형용사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 05:59:53</date>
 </Entry>
 
 <Entry>
@@ -97986,6 +98661,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>중간고사</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 17:30:24</date>
 </Entry>
 
 <Entry>
@@ -100755,6 +101437,13 @@
 </Entry>
 
 <Entry>
+<word>직역하다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 11:07:06</date>
+</Entry>
+
+<Entry>
 <word>직원</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -101887,8 +102576,9 @@
 <Entry>
 <word>짓누르다</word>
 <pos>동사</pos>
+<props>르불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:36:14</date>
 </Entry>
 
 <Entry>
@@ -102504,6 +103194,13 @@
 </Entry>
 
 <Entry>
+<word>차별적</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 12:15:08</date>
+</Entry>
+
+<Entry>
 <word>차별화</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -102548,8 +103245,9 @@
 <Entry>
 <word>차오르다</word>
 <pos>동사</pos>
+<props>르불규칙</props>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-10 17:36:01</date>
 </Entry>
 
 <Entry>
@@ -104551,6 +105249,14 @@
 </Entry>
 
 <Entry>
+<word>첩자</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-12 21:30:24</date>
+</Entry>
+
+<Entry>
 <word>첩첩산중</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -105456,6 +106162,14 @@
 <props>가산명사</props>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>초본</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:22:00</date>
 </Entry>
 
 <Entry>
@@ -109547,6 +110261,15 @@
 </Entry>
 
 <Entry>
+<word>코너킥</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<comment>축구</comment>
+<editor>changwoo</editor>
+<date>2009-03-14 22:35:11</date>
+</Entry>
+
+<Entry>
 <word>코덱</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -111878,6 +112601,14 @@
 </Entry>
 
 <Entry>
+<word>통닭</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 23:25:22</date>
+</Entry>
+
+<Entry>
 <word>통로</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -111992,6 +112723,13 @@
 <pos>동사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>통용되다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-15 11:53:51</date>
 </Entry>
 
 <Entry>
@@ -114119,6 +114857,14 @@
 </Entry>
 
 <Entry>
+<word>패배자</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 11:37:08</date>
+</Entry>
+
+<Entry>
 <word>패배하다</word>
 <pos>동사</pos>
 <editor>changwoo</editor>
@@ -114378,11 +115124,29 @@
 </Entry>
 
 <Entry>
+<word>페널티킥</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<etym>penalty kick</etym>
+<comment>축구</comment>
+<editor>changwoo</editor>
+<date>2009-03-14 22:35:55</date>
+</Entry>
+
+<Entry>
 <word>페루</word>
 <pos>명사</pos>
 <etym>Peru</etym>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>페르시아어</word>
+<pos>명사</pos>
+<etym>Farsi</etym>
+<editor>changwoo</editor>
+<date>2009-03-15 11:36:39</date>
 </Entry>
 
 <Entry>
@@ -114463,6 +115227,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>편두통</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 18:02:03</date>
 </Entry>
 
 <Entry>
@@ -115591,8 +116362,10 @@
 <Entry>
 <word>포크</word>
 <pos>명사</pos>
+<props>가산명사</props>
+<etym>fork</etym>
 <editor>changwoo</editor>
-<date>2009-02-15 13:49:51</date>
+<date>2009-03-12 21:32:36</date>
 </Entry>
 
 <Entry>
@@ -116366,6 +117139,13 @@
 </Entry>
 
 <Entry>
+<word>품절</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-14 23:53:55</date>
+</Entry>
+
+<Entry>
 <word>품종</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -116688,6 +117468,16 @@
 </Entry>
 
 <Entry>
+<word>프리킥</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<etym>free kick</etym>
+<comment>축구</comment>
+<editor>changwoo</editor>
+<date>2009-03-14 22:36:56</date>
+</Entry>
+
+<Entry>
 <word>프린터</word>
 <pos>명사</pos>
 <props>가산명사</props>
@@ -116753,6 +117543,15 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>플레이오프</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<etym>play-off</etym>
+<editor>changwoo</editor>
+<date>2009-03-14 11:10:29</date>
 </Entry>
 
 <Entry>
@@ -118575,6 +119374,14 @@
 </Entry>
 
 <Entry>
+<word>한인</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-14 10:39:02</date>
+</Entry>
+
+<Entry>
 <word>한입</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -119537,6 +120344,13 @@
 <pos>명사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>해고되다</word>
+<pos>동사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 17:10:05</date>
 </Entry>
 
 <Entry>
@@ -124748,6 +125562,13 @@
 </Entry>
 
 <Entry>
+<word>휘발성</word>
+<pos>명사</pos>
+<editor>changwoo</editor>
+<date>2009-03-10 21:22:31</date>
+</Entry>
+
+<Entry>
 <word>휘발유</word>
 <pos>명사</pos>
 <editor>changwoo</editor>
@@ -125538,6 +126359,14 @@
 <pos>형용사</pos>
 <editor>changwoo</editor>
 <date>2009-02-15 13:49:51</date>
+</Entry>
+
+<Entry>
+<word>흰개미</word>
+<pos>명사</pos>
+<props>가산명사</props>
+<editor>changwoo</editor>
+<date>2009-03-15 05:23:55</date>
 </Entry>
 
 <Entry>
