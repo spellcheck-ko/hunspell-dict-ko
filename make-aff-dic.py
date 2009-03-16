@@ -189,16 +189,22 @@ class Dictionary:
         from string import Template
         import aff
         template = Template(open('template.aff').read())
+
+        # 주의: flag alias를 변경하므로 get_AF() 앞에 와야 한다.
+        suffix_str = aff.get_suffix_defines(self.flag_aliases)
+        josa_str = aff.get_josa_defines(self.flag_aliases)
+        af_str = self.get_AF()
+        
         d = {'version': config.version,
              'CONV': aff.CONV_DEFINES,
-             'AF': self.get_AF(),
+             'AF': af_str,
              'forbidden_flag': str(forbidden_flag),
              'trychars': aff.TRYCHARS,
              'MAP': aff.MAP_DEFINES,
              'REP': aff.REP_DEFINES,
              'COMPOUNDRULE': aff.COMPOUNDRULE_DEFINES,
-             'JOSA': aff.JOSA_DEFINES,
-             'SUFFIX': aff.SUFFIX_DEFINES,
+             'JOSA': josa_str,
+             'SUFFIX': suffix_str,
             }
         outfile.write(template.substitute(d))
 

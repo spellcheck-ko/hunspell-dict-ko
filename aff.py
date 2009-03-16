@@ -206,7 +206,8 @@ for rule in compound_rules:
 
 ## 용언 어미
 
-SUFFIX_DEFINES = suffix.get_rules_string()
+def get_suffix_defines(flagaliases):
+    return suffix.get_rules_string(flagaliases)
 
 ## 조사
 
@@ -293,21 +294,29 @@ josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
          ('한테서', COND_ALL),
          ]
 
-# 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
-# twofold suffix를 여기에 써먹기에는 아깝다
-ida_conjugations = suffix.make_all_conjugations('이다', '이다', [])
-for c in ida_conjugations:
-    if NFD(c.decode('utf-8'))[:2] == NFD(u'여'):
-        # '-이어' -> '여' 줄임형은 받침이 있을 경우에만
-        josas.append((c, COND_V_ALL))
-    else:
-        josas.append((c, COND_ALL))
-    # '이' 생략
-    # TODO: 받침이 앞의 명사에 붙는 경우 허용 여부 (예: "마찬가집니다")
-    if NFC(c.decode('utf-8'))[0] == u'이':
-        josas.append((NFC(c.decode('utf-8'))[1:], COND_V_ALL))
+def get_josa_defines(flagaliases):
+    ida_josas = []
+    # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
+    # twofold suffix를 여기에 써먹기에는 아깝다
+    ida_conjugations = suffix.make_all_conjugations('이다', '이다', [])
+    for c in ida_conjugations:
+        if flagaliases and '/' in c:
+            (word,flags_str) = c.split('/')
+            cont_flags = [int(s) for s in flags_str.split(',')]
+            if not cont_flags in flagaliases:
+                flagaliases.append(cont_flags)
+            c = word + '/%d' % (flagaliases.index(cont_flags) + 1)
+        if NFD(c.decode('utf-8'))[:2] == NFD(u'여'):
+            # '-이어' -> '여' 줄임형은 받침이 있을 경우에만
+            ida_josas.append((c, COND_V_ALL))
+        else:
+            ida_josas.append((c, COND_ALL))
+        # '이' 생략
+        # TODO: 받침이 앞의 명사에 붙는 경우 허용 여부 (예: "마찬가집니다")
+        if NFC(c.decode('utf-8'))[0] == u'이':
+            ida_josas.append((NFC(c.decode('utf-8'))[1:], COND_V_ALL))
 
-_josa_strings = ['SFX %d Y %d' % (josa_flag, len(josas))]
-for (suffix,cond) in josas:
-    _josa_strings.append(nfd('SFX %d 0 %s %s' % (josa_flag, suffix, cond)))
-JOSA_DEFINES = '\n'.join(_josa_strings)
+    result = ['SFX %d Y %d' % (josa_flag, len(josas + ida_josas))]
+    for (sfx,cond) in josas + ida_josas:
+        result.append(nfd('SFX %d 0 %s %s' % (josa_flag, sfx, cond)))
+    return '\n'.join(result)

@@ -188,22 +188,28 @@ attach_flags()
 ######################################################################
 ## 외부 사용
 
-def get_rules_string():
+def get_rules_string(flagaliases):
     rule_strings = []
     for klass in klasses:
         flag = klass['flag']
         rule_strings.append('SFX %d Y %d' % (flag, len(klass['rules'])))
+
         for r in klass['rules']:
             suffix = r[0][1:] # 앞에 '-' 빼기
             condition = r[1] + '다'
             strip = r[2] + '다'
             try:
-                cont = ','.join(['%d' % c for c in r[3]])
-                rule_strings.append(nfd('SFX %d %s %s/%s %s' %
-                                        (flag, strip, suffix, cont, condition)))
+                cont_flags = r[3]
+                if flagaliases:
+                    if not cont_flags in flagaliases:
+                        flagaliases.append(cont_flags)
+                    cont = '/%d' % (flagaliases.index(cont_flags) + 1)
+                else:
+                    cont = '/' + ','.join(['%d' % c for c in cont_flags])
             except IndexError:
-                rule_strings.append(nfd('SFX %d %s %s %s' %
-                                        (flag, strip, suffix, condition)))
+                cont = ''
+            rule_strings.append(nfd('SFX %d %s %s%s %s' %
+                                    (flag, strip, suffix, cont, condition)))
     return '\n'.join(rule_strings)
 
 def class_match_word(klass, word, po, props):
