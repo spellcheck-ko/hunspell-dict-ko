@@ -91,7 +91,6 @@ class Word:
         pos_default_flags = {
             '명사': [ josa_flag ],
             '대명사': [ josa_flag ],
-            '특수:단위': [ josa_flag, counter_flag ],
             '특수:복수접미사': [ josa_flag, plural_suffix_flag ],
             '특수:알파벳': [ alpha_flag, josa_flag ],
             '특수:숫자': [ josa_flag, digit_flag ],
@@ -112,6 +111,7 @@ class Word:
         if word.pos == '동사' or word.pos == '형용사':
             word.flags += suffix.find_flags(word.word, word.pos, word.props)
         prop_default_flags = {
+            '단위명사': [ counter_flag ],
             '보조용언:-어': [ auxiliary_eo_flag ],
             '보조용언:-은': [ auxiliary_eun_flag ],
             '보조용언:-을': [ auxiliary_eul_flag ],
