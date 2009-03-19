@@ -168,6 +168,8 @@ rep_list = [
     (u'\u1167', u'\u1165'),
     # 의존명사 앞에 띄어 쓰기
     (u'것', u'_것'),
+    # 두벌식 순서 바뀜 - 하빈다, 스빈다, ...
+    (u'빈', T_PIEUP + u'니'),
     ]
 
 REP_DEFINES = 'REP %d\n' % len(rep_list)
