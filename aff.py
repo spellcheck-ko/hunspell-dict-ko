@@ -308,8 +308,9 @@ def get_josa_defines(flagaliases):
             if not cont_flags in flagaliases:
                 flagaliases.append(cont_flags)
             c = word + '/%d' % (flagaliases.index(cont_flags) + 1)
-        if NFD(c.decode('utf-8'))[:2] == NFD(u'여'):
-            # '-이어' -> '여' 줄임형은 받침이 있을 경우에만
+        if (NFD(c.decode('utf-8'))[:2] == NFD(u'여') or
+            NFD(c.decode('utf-8'))[:2] == NFD(u'예')):
+            # '이어' -> '여', '이에' => '예' 줄임형은 받침이 있을 경우에만
             ida_josas.append((c, COND_V_ALL))
         else:
             ida_josas.append((c, COND_ALL))
