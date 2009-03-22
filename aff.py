@@ -177,6 +177,8 @@ for rep in rep_list:
     REP_DEFINES += nfd('REP %s %s\n' % (rep[0], rep[1]))
 
 compound_rules = [
+    # 숫자
+    '(%d)*(%d)' % (digit_flag, digit_flag),
     # 숫자+단위
     '(%d)*(%d)(%d)' % (digit_flag, digit_flag, counter_flag),
     # tokenizer에서 로마자를 분리해 주지 않는 경우를 위해 로마자로 된 모든
@@ -213,7 +215,7 @@ def get_suffix_defines(flagaliases):
 
 ## 조사
 
-ALPHA_ALL = ''.join(map(unichr, range(ord('a'),ord('z')+1)))
+ALPHA_ALL = ''.join(map(unichr, range(ord('0'),ord('9')+1) + range(ord('a'),ord('z')+1)))
 
 ## 임의로 허용하는 로마자로 된 단어는 음운 구별을 하지 않는다. 할 방법이 없음.
 COND_ALL = '.'
