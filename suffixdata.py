@@ -459,6 +459,7 @@ for klass in groups['-어서']:
     for r in klass['rules']:
         r[0] = r[0] + '서'
 groups['-어서'][0]['after'].append('#이다')
+attach_emphasis(groups['-어서'], ['는', '도'])
 
 #### 연결: -어야, -아야
 # '-어' 재활용
@@ -468,13 +469,14 @@ for klass in groups['-어야']:
         r[0] = r[0] + '야'
 groups['-어야'][0]['after'].append('#이다')
 
-#### 연결: -어야, -아야
+#### 연결, 종결: -어야지, -아야지
 # '-어' 재활용
 groups['-어야지'] = copy_group(groups['-어'])
 for klass in groups['-어야지']:
     for r in klass['rules']:
         r[0] = r[0] + '야지'
 groups['-어야지'][0]['after'].append('#이다')
+attach_emphasis(groups['-어야지'], ['요'])
 
 #### 종결: -어요, -아요
 # '-어' 재활용
@@ -517,11 +519,22 @@ for klass in groups['-을걸']:
         r[0] = r[0] + '걸'
 
 #### 종결: -ㄹ게, -을게
-# '-을' 재활용
-groups['-을게'] = copy_group(groups['-을'])
-for klass in groups['-을게']:
-    for r in klass['rules']:
-        r[0] = r[0] + '게'
+# 동사 전용
+groups['-을게'] = [
+    { 'rules': [[u'-\u11af게', COND_V_ALL, ''],
+                [u'-\u11af게', T_RIEUL, T_RIEUL],
+                [u'-을게', COND_T_NOT_RIEUL, '']],
+      'after': ['#동사'],
+      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙'],
+    },
+    # ㄷ불규칙
+    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을게', ['#동사']),
+    # ㅂ불규칙
+    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울게', ['#동사']),
+    # ㅅ불규칙
+    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을게', ['#동사']),
+    # 동사이므로 ㅎ불규칙 해당 없음
+]
 attach_emphasis(groups['-을게'], ['요'])
 
 #### 연결: -ㄹ까, -을까
@@ -827,6 +840,7 @@ groups['-나'] = [
       'after': ['#용언', '-으시-', '-었-', '-겠-'],
     },
 ]
+attach_emphasis(groups['-나'], ['요'])
 
 #### 연결: -다시피
 groups['-다시피'] = [
@@ -1130,6 +1144,7 @@ groups['-은가'] = [
     # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11ab가', ['#형용사']),
 ]
+attach_emphasis(groups['-은가'], ['요'])
 
 #### 연결: -니까, -으니까
 groups['-으니까'] = [
@@ -1396,6 +1411,7 @@ groups['-잖아'] = [
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
+attach_emphasis(groups['-잖아'], ['요'])
 
 #### 종결: -든지 (혹은 줄임 형태 -든)
 groups['-든지'] = [
@@ -1477,5 +1493,83 @@ groups['-으려니'] = [
     SIOS_IRREGULAR_TYPICAL_CLASS(u'-으려니', ['#용언']),
     # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-려니', ['#용언']),
+]
+
+#### 종결: -는가
+groups['-는가'] = [
+    { 'rules': [[u'-는가', COND_NOT_RIEUL, ''],
+                [u'-는가', T_RIEUL, T_RIEUL]],
+      'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'],
+    },
+]
+
+#### 종결: -(으)라네
+groups['-으라네'] = [
+    { 'rules': [[u'-라네', COND_V_ALL, ''],
+                [u'-라네', T_RIEUL, T_RIEUL],
+                [u'-으라네', COND_T_NOT_RIEUL, '']],
+      'after': ['#동사', '#이다', '^.*아니다$', '-으시-', '-더-', '-으리-'],
+      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙'],
+    },
+    # ㄷ불규칙
+    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으라네', ['#동사']),
+    # ㅂ불규칙
+    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우라네', ['#동사']),
+    # ㅅ불규칙
+    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으라네', ['#동사']),
+    # 동사이므로 ㅎ불규칙 해당 없음
+]
+attach_emphasis(groups['-으라네'], ['요'])
+
+#### 종결: -(는)다네
+groups['-다네'] = [
+    { 'rules': [[u'-%s다네' % T_NIEUN, COND_V_ALL, ''],
+                [u'-%s다네' % T_NIEUN, T_RIEUL, T_RIEUL],
+                [u'-는다네', COND_T_NOT_RIEUL, '']],
+      'after': ['#동사'],
+    },
+]
+attach_emphasis(groups['-다네'], ['요'])
+
+#### 연결: -라서
+groups['-라서'] = [
+    { 'rules': [[u'-라서', '', '']],
+      'after': ['#이다', '아니다', '-으시-', '-더-', '-으리-'],
+    },
+]
+
+#### 연결: -ㄹ는지, -을는지
+groups['-을는지'] = [
+    { 'rules': [[u'-%s는지' % T_RIEUL, COND_V_ALL, ''],
+                [u'-%s는지' % T_RIEUL, T_RIEUL, T_RIEUL],
+                [u'-을는지', COND_T_NOT_RIEUL, '']],
+      'after': ['#용언', '#이다', '-으시-', '-었-'],
+      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙'],
+    },
+    # ㄷ불규칙
+    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을는지', ['#용언']),
+    # ㅂ불규칙
+    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울는지', ['#용언']),
+    # ㅅ불규칙
+    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을는지', ['#용언']),
+    # ㅎ불규칙
+    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s는지' % T_RIEUL, ['#용언']),
+]
+attach_emphasis(groups['-을는지'], ['는', '도'])
+
+#### 종결: -ㄴ다니, -는다니
+groups['-는다니'] = [
+    { 'rules': [[u'-%s다니' % T_NIEUN, COND_V_ALL, ''],
+                [u'-%s다니' % T_NIEUN, T_RIEUL, T_RIEUL],
+                [u'-는다니', COND_T_NOT_RIEUL, '']],
+      'after': ['#동사', '-으시-'],
+    },
+]
+
+#### 종결: -다니
+groups['-다니'] = [
+    { 'rules': [[u'-다니', '', '']],
+      'after': ['#용언', '-으시-', '-었-', '-겠-'],
+    },
 ]
 
