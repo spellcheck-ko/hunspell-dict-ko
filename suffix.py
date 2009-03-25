@@ -228,11 +228,17 @@ def class_match_word(klass, word, po, props):
             if ('#'+prop) in klass['cond']:
                 break;
         else:
-            return False
+            regexps = [r for r in klass['cond'] if r[0] == '^']
+            if not regexps or not [1 for r in regexps if re.match(r, word)]:
+                return False
     if klass.has_key('notcond'):
         for prop in props:
             if ('#'+prop) in klass['notcond']:
                 return False;
+        else:
+            regexps = [r for r in klass['notcond'] if r[0] == '^']
+            if regexps and [1 for r in regexps if re.match(r, word)]:
+                return False
     return True
 
 # 해당되는 flag 찾기
