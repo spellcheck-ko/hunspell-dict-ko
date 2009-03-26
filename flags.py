@@ -66,7 +66,7 @@ _flags = [
     # 한자어 숫자, 자리수별
     'number_1', 'number_10', 'number_100', 'number_1000', 'number_10000',
     # 용언 활용
-    ('endings', 100),
+    ('endings', 500),
 ]
 
 def _define_flags():
