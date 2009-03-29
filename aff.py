@@ -139,14 +139,18 @@ for uch in map(unichr, range(0xac00, 0xd7a3 + 1)):
     _conv_strings.append('OCONV %s %s' % (NFD(uch), uch))
 CONV_DEFINES = '\n'.join(_conv_strings)
 
+# MAP: 비슷한 성격의 자모
+# - 초성은 거센소리나 된소리처럼 같은 계열 초성 묶음
+# - 중성은 비슷한 발음 묶음
+# - 종성의 경우 받침 소리가 같은 발음 묶음
+
 map_list = [
     L_KIYEOK + L_SSANGKIYEOK + L_KHIEUKH,
     L_TIKEUT + L_SSANGTIKEUT + L_THIEUTH,
     L_PIEUP + L_SSANGPIEUP + L_PHIEUPH,
     L_SIOS + L_SSANGSIOS,
     L_CIEUC + L_SSANGCIEUC + L_CHIEUCH,
-    V_AE + V_E,
-    V_YAE + V_YE,
+    V_AE + V_E + V_YAE + V_YE,
     V_WAE + V_OE + V_WE,
     T_KIYEOK + T_SSANGKIYEOK + T_KIYEOK_SIOS + T_KHIEUKH,
     T_NIEUN + T_NIEUN_CIEUC + T_NIEUN_HIEUH,
