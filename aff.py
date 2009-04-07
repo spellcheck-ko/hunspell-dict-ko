@@ -248,6 +248,7 @@ josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
          ('로는', COND_V_OR_RIEUL), ('으로는', COND_T_NOT_RIEUL),
          ('로도', COND_V_OR_RIEUL), ('으로도', COND_T_NOT_RIEUL),
          ('로서', COND_V_OR_RIEUL), ('으로서', COND_T_NOT_RIEUL),
+         ('로만', COND_V_OR_RIEUL), ('으로만', COND_T_NOT_RIEUL),
          ('로써', COND_V_OR_RIEUL), ('으로써', COND_T_NOT_RIEUL),
          ('로부터', COND_V_OR_RIEUL), ('으로부터', COND_T_NOT_RIEUL),
          # sorted list
@@ -288,7 +289,11 @@ josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
          ('에게서도', COND_ALL),
          ('에는', COND_ALL),         # 에+'는' 보조사
          ('에도', COND_ALL),         # 에+'도' 보조사
+         ('에만', COND_ALL),         # 에+'만' 보조사
          ('에서', COND_ALL),
+         ('에서는', COND_ALL),       # 에서+'는' 보조사
+         ('에서도', COND_ALL),       # 에서+'도' 보조사
+         ('에서만', COND_ALL),       # 에서+'만' 보조사
          ('엔', COND_ALL),           # '에는' 준말
          ('야', COND_V_ALL),
          ('의', COND_ALL),
