@@ -53,6 +53,10 @@ def NFC(unistr):
     return unicodedata.normalize('NFC', unistr)
 
 # 빈도가 높은 글자를 앞에 쓸 수록 처리 속도 향상
+# 
+# NOTE: 단, 모음이 틀리는 경우가 보통 더 많으므로 더 나은 단어가 앞에
+# 추천 단어의 앞에 나오도록 모음을 먼저 쓴다.
+#
 # 2008년 12월 현재 한국어 위키백과의 빈도:
 #
 # U+110b: 12945437 (HANGUL CHOSEONG IEUNG)
@@ -122,13 +126,14 @@ def NFC(unistr):
 # U+11b4: 544 (HANGUL JONGSEONG RIEUL-THIEUTH)
 # U+11b3: 523 (HANGUL JONGSEONG RIEUL-SIOS)
 # U+11b5: 495 (HANGUL JONGSEONG RIEUL-PHIEUPH)
-TRYCHARS = (u'\u110b\u1161\u11ab\u1175\u1100\u1173\u1169\u1109\u1165\u11bc' +
-            u'\u110c\u116e\u1105\u1103\u11af\u1112\u1167\u11a8\u1102\u1107' +
-            u'\u1166\u1106\u1162\u11b7\u110e\u1110\u1174\u116a\u1111\u110f' +
-            u'\u11bb\u116d\u11b8\u1172\u116f\u116c\u11ba\u1171\u1163\u1168' +
-            u'\u1104\u1101\u11c0\u110a\u11ad\u110d\u11ae\u11b9\u1170\u11be' +
-            u'\u11c1\u11bd\u11c2\u1108\u11b0\u11b1\u116b\u11a9\u11b2\u11b6' +
-            u'\u1164\u11ac\u11aa\u11bf\u11b4\u11b3\u11b5')
+TRYCHARS = (u'\u1161\u1175\u1173\u1169\u1165\u116e\u1167\u1166\u1162\u1174' +
+            u'\u116a\u116d\u1172\u116f\u116c\u1171\u1163\u1168\u1170\u116b' +
+            u'\u1164' +
+            u'\u110b\u11ab\u1100\u1109\u11bc\u110c\u1105\u1103\u11af\u1112' + 
+            u'\u11a8\u1102\u1107\u1106\u11b7\u110e\u1110\u1111\u110f\u11bb' + 
+            u'\u11b8\u11ba\u1104\u1101\u11c0\u110a\u11ad\u110d\u11ae\u11b9' + 
+            u'\u11be\u11c1\u11bd\u11c2\u1108\u11b0\u11b1\u11a9\u11b2\u11b6' + 
+            u'\u11ac\u11aa\u11bf\u11b4\u11b3\u11b5')
 
 _conv_strings = []
 _conv_strings.append('ICONV 11172')
@@ -168,8 +173,6 @@ for m in map_list:
 ## REP: 흔히 틀리는 목록
 
 rep_list = [
-    # ㅕ/ㅓ
-    (u'\u1167', u'\u1165'),
     # 의존명사 앞에 띄어 쓰기
     (u'것', u'_것'),
     # 두벌식 순서 바뀜 - 
