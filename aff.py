@@ -301,9 +301,13 @@ josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
          ('서', COND_ALL),           # '~에서' 준말
          ('에', COND_ALL),
          ('에게', COND_ALL),
+         ('에게는', COND_ALL),
+         ('에게도', COND_ALL),
+         ('에게만', COND_ALL),
          ('에게서', COND_ALL),
          ('에게서는', COND_ALL),
          ('에게서도', COND_ALL),
+         ('에게서만', COND_ALL),
          ('에는', COND_ALL),         # 에+'는' 보조사
          ('에도', COND_ALL),         # 에+'도' 보조사
          ('에만', COND_ALL),         # 에+'만' 보조사
