@@ -1771,3 +1771,21 @@ groups['-느라고'] = [
     },
 ]
 
+#### 종결: -ㄹ래, -을래
+groups['-을래'] = [
+    { 'rules': [[u'-%s래' % T_RIEUL, COND_V_ALL, ''],
+                [u'-%s래' % T_RIEUL, T_RIEUL, T_RIEUL],
+                [u'-을래', COND_NOT_RIEUL, '']],
+      'after': ['#동사'],
+      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙'],
+    },
+    # ㄷ불규칙
+    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을래', ['#동사']),
+    # ㅂ불규칙
+    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울래', ['#동사']),
+    # ㅅ불규칙
+    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을래', ['#동사']),
+    # 동사이므로 ㅎ불규칙 해당 없음
+]
+attach_emphasis(groups['-을래'], ['요'])
+
