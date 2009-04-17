@@ -179,6 +179,8 @@ rep_list = [
     (u'빈', T_PIEUP + u'니'),      # 하빈다, 스빈다, ...
     (V_O + u'나', V_WA + T_NIEUN), # 오나전 => 완전
     (u'낟', T_NIEUN + u'다'),      # 하낟 => 한다
+    (u'싿', T_SSANGSIOS + u'다'),  # 이싿 => 있다
+    (T_SSANGSIOS + u'따', T_SSANGSIOS + u'다'), # 있따 => 있다
 
     ## 불규칙 용언의 활용을 잘못 썼을 경우에 대한 대치어 만들기. 단순
     ## 탈락이나 자모 1개 변경처럼 hunspell의 suggestion 규칙에서
