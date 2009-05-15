@@ -175,7 +175,8 @@ for m in map_list:
 rep_list = [
     # 의존명사 앞에 띄어 쓰기
     (u'것', u'_것'),
-    # 두벌식 순서 바뀜 - 
+
+    ## 두벌식 입력 순서 바뀜
     (u'빈', T_PIEUP + u'니'),      # 하빈다, 스빈다, ...
     (V_O + u'나', V_WA + T_NIEUN), # 오나전 => 완전
     (u'낟', T_NIEUN + u'다'),      # 하낟 => 한다
@@ -197,7 +198,24 @@ rep_list = [
     ## 활용
     # ㄹ런지 => ㄹ는지
     (T_RIEUL + u'런지', T_RIEUL + u'는지'),
-    ]
+
+    ## 연철/분철 발음을 혼동할 때 나타나는 오타 대치어
+    # 받침+ㅇ초성 (일찍이/일찌기 등)
+    (T_KIYEOK + L_IEUNG, L_KIYEOK),
+    (L_KIYEOK, T_KIYEOK + L_IEUNG),
+    (T_NIEUN + L_IEUNG, L_NIEUN),
+    (L_NIEUN, T_NIEUN + L_IEUNG),
+    (T_RIEUL + L_IEUNG, L_RIEUL),
+    (L_RIEUL, T_RIEUL + L_IEUNG),
+    (T_MIEUM + L_IEUNG, L_MIEUM),
+    (L_MIEUM, T_MIEUM + L_IEUNG),
+    (T_PHIEUPH + L_IEUNG, L_PHIEUPH),
+    (L_PHIEUPH, T_PHIEUPH + L_IEUNG),
+    (T_SIOS + L_IEUNG, L_SIOS),
+    (L_SIOS, T_SIOS + L_IEUNG),
+    (L_CIEUC, T_CIEUC + L_IEUNG),
+    (T_CIEUC + L_IEUNG, L_CIEUC),
+]
 
 REP_DEFINES = 'REP %d\n' % len(rep_list)
 for rep in rep_list:
