@@ -475,6 +475,7 @@ for klass in groups['-어야']:
     for r in klass['rules']:
         r[0] = r[0] + '야'
 groups['-어야'][0]['after'].append('#이다')
+attach_emphasis(groups['-어야'], ['만'])
 
 #### -어야-
 # NOTE: 문법상 선어말 어미는 아니지만 '어야겠' ('어야하겠'의 준말)
@@ -1070,6 +1071,15 @@ groups['-는다는'] = [
     { 'rules': [[u'-\u11ab다는', COND_V_ALL, ''],
                 [u'-\u11ab다는', T_RIEUL, T_RIEUL],
                 [u'-는다는', COND_T_NOT_RIEUL, '']],
+      'after': ['#동사', '-으시-'],
+    },
+]
+
+#### 연결: -ㄴ단, -는단 (는다고 하는, 는다고 한)
+groups['-는단'] = [
+    { 'rules': [[u'-\u11ab단', COND_V_ALL, ''],
+                [u'-\u11ab단', T_RIEUL, T_RIEUL],
+                [u'-는단', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
