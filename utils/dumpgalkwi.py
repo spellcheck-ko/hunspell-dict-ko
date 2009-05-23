@@ -1,17 +1,21 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import sys
-from urllib import urlopen
+from urllib2 import urlopen, HTTPError
 
 def URL(start):
     return 'http://galkwi.appspot.com/tasks/export/?start=%s' % start
 
 def get(start):
-    print 'Retrieving words data starting from "%s"...' % start
-    url = urlopen(URL(start))
-    n = url.read()
-    if not n:
-        raise "No Data"
+    while True:
+        print 'Retrieving words data starting from "%s"...' % start
+        try:
+            url = urlopen(URL(start))
+            n = url.read()
+        except HTTPError:
+            pass
+        else:
+            break
     return n
 
 def trim_entries(xml):
