@@ -1026,7 +1026,8 @@ groups['-기'] = [
     },
 ]
 # 조사
-attach_continuation_flags(groups['-기'], [flags.josa_flag])
+# FIXME: 일단 모든 조사 허용
+attach_continuation_flags(groups['-기'], [flags.josa_ida_flag] + range(flags.josas_flag_start, flags.josas_flag_end))
 
 #### 명사형 전성: -음
 groups['-음'] = [
@@ -1046,7 +1047,8 @@ groups['-음'] = [
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11b7', ['#용언']),
 ]
 # 조사
-attach_continuation_flags(groups['-음'], [flags.josa_flag])
+# FIXME: 일단 모든 조사 허용
+attach_continuation_flags(groups['-음'], [flags.josa_ida_flag] + range(flags.josas_flag_start, flags.josas_flag_end))
 
 #### 종결: -ㄴ다, -는다
 groups['-는다'] = [

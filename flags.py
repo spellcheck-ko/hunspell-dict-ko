@@ -39,8 +39,6 @@
 
 
 _flags = [
-    # 조사
-    'josa',
     # 아라비아숫자
     'digit',
     # 단위 명사, 숫자와 붙여 쓸 수 있음
@@ -67,6 +65,10 @@ _flags = [
     'number_1', 'number_10', 'number_100', 'number_1000', 'number_10000',
     # 용언 활용
     ('endings', 500),
+    # 조사 모음
+    ('josas', 100),
+    # 서술 조사
+    'josa_ida',
 ]
 
 def _define_flags():

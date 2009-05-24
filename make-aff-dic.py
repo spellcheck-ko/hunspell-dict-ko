@@ -56,6 +56,7 @@ def progress(u8str):
 
 import config
 import suffix
+import josa
 from flags import *
 
 class Word:
@@ -89,16 +90,16 @@ class Word:
 
     def attach_flags(word):
         pos_default_flags = {
-            '명사': [ josa_flag ],
-            '대명사': [ josa_flag ],
-            '특수:복수접미사': [ josa_flag, plural_suffix_flag ],
-            '특수:알파벳': [ alpha_flag, josa_flag ],
-            '특수:숫자': [ josa_flag, digit_flag ],
-            '특수:수:1': [ josa_flag, number_1_flag ],
-            '특수:수:10': [ josa_flag, number_10_flag ],
-            '특수:수:100': [ josa_flag, number_100_flag ],
-            '특수:수:1000': [ josa_flag, number_1000_flag ],
-            '특수:수:10000': [ josa_flag, number_10000_flag ],
+            '명사': [ ],
+            '대명사': [ ],
+            '특수:복수접미사': [ plural_suffix_flag ],
+            '특수:알파벳': [ alpha_flag ],
+            '특수:숫자': [ digit_flag ],
+            '특수:수:1': [ number_1_flag ],
+            '특수:수:10': [ number_10_flag ],
+            '특수:수:100': [ number_100_flag ],
+            '특수:수:1000': [ number_1000_flag ],
+            '특수:수:10000': [ number_10000_flag ],
             '특수:금지어': [ forbidden_flag ],
             '내부:활용:-어': [ conjugation_eo_flag ],
             '내부:활용:-은': [ conjugation_eun_flag ],
@@ -110,6 +111,7 @@ class Word:
             pass
         if word.pos == '동사' or word.pos == '형용사':
             word.flags += suffix.find_flags(word.word, word.pos, word.props)
+        word.flags += josa.find_flags(word.word, word.pos, word.props)
         prop_default_flags = {
             '단위명사': [ counter_flag ],
             '보조용언:-어': [ auxiliary_eo_flag ],

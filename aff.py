@@ -264,4 +264,4 @@ def get_suffix_defines(flagaliases):
 # 조사
 
 def get_josa_defines(flagaliases):
-    return josa.get_rules_string(flagaliases)
+    return josa.get_output(flagaliases)

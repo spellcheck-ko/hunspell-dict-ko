@@ -59,90 +59,194 @@ COND_T_ALL = '[%s]' % (T_ALL + ALPHA_ALL)
 COND_V_OR_RIEUL = '[%s]' % (V_ALL + u'\u11af' + ALPHA_ALL)
 COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(u'\u11af', '') + ALPHA_ALL)
 
-josas = [('이', COND_T_ALL), ('가', COND_V_ALL),
-         ('을', COND_T_ALL), ('를', COND_V_ALL),
-         ('과', COND_T_ALL), ('와', COND_V_ALL),
-         ('은', COND_T_ALL), ('는', COND_V_ALL),
-         ('라', COND_V_ALL), ('이라', COND_T_ALL),
-         ('라고', COND_V_ALL), ('이라고', COND_T_ALL),
-         ('라는', COND_V_ALL), ('이라는', COND_T_ALL),
-         ('라도', COND_V_ALL), ('이라도', COND_T_ALL),
-         ('라면', COND_V_ALL), ('이라면', COND_T_ALL),
-         ('라서', COND_V_ALL), ('이라서', COND_T_ALL),
-         ('란', COND_V_ALL), ('이란', COND_T_ALL),
-         ('랑', COND_V_ALL), ('이랑', COND_T_ALL),
-         ('로', COND_V_OR_RIEUL), ('으로', COND_T_NOT_RIEUL),
-         ('로는', COND_V_OR_RIEUL), ('으로는', COND_T_NOT_RIEUL),
-         ('로도', COND_V_OR_RIEUL), ('으로도', COND_T_NOT_RIEUL),
-         ('로서', COND_V_OR_RIEUL), ('으로서', COND_T_NOT_RIEUL),
-         ('로만', COND_V_OR_RIEUL), ('으로만', COND_T_NOT_RIEUL),
-         ('로써', COND_V_OR_RIEUL), ('으로써', COND_T_NOT_RIEUL),
-         ('로부터', COND_V_OR_RIEUL), ('으로부터', COND_T_NOT_RIEUL),
-         # sorted list
-         ('같이', COND_ALL),
-         ('까지', COND_ALL),
-         ('까지는', COND_ALL),
-         ('까지도', COND_ALL),
-         ('까지라도', COND_ALL),
-         ('께', COND_ALL),
-         ('께는', COND_ALL),
-         ('께도', COND_ALL),
-         ('께서', COND_ALL),
-         ('께서는', COND_ALL),
-         ('께서도', COND_ALL),
-# FIXME: -ㄴ 조사를 허용하면 모든 명사에 ㄴ을 허용하게 되어 범위가 너무 넓어진다.
-#         (u'\u11ab', COND_V_ALL), # -ㄴ: '-는' 구어체
-         ('나', COND_V_ALL),
-         ('대로', COND_ALL),
-         ('대로는', COND_ALL),
-         ('도', COND_ALL),
-         ('마다', COND_ALL),         # 보조사, '모두'
-         ('마저', COND_ALL),
-         ('마저도', COND_ALL),
-         ('만', COND_ALL),
-         ('만이', COND_ALL),
-         ('밖에', COND_ALL),
-         ('밖에는', COND_ALL),
-         ('보다', COND_ALL),
-         ('보다는', COND_ALL),
-         ('보다도', COND_ALL),
-         ('부터', COND_ALL),
-         ('부터라도', COND_ALL),
-         ('서', COND_ALL),           # '~에서' 준말
-         ('에', COND_ALL),
-         ('에게', COND_ALL),
-         ('에게는', COND_ALL),
-         ('에게도', COND_ALL),
-         ('에게만', COND_ALL),
-         ('에게서', COND_ALL),
-         ('에게서는', COND_ALL),
-         ('에게서도', COND_ALL),
-         ('에게서만', COND_ALL),
-         ('에는', COND_ALL),         # 에+'는' 보조사
-         ('에도', COND_ALL),         # 에+'도' 보조사
-         ('에만', COND_ALL),         # 에+'만' 보조사
-         ('에서', COND_ALL),
-         ('에서는', COND_ALL),       # 에서+'는' 보조사
-         ('에서도', COND_ALL),       # 에서+'도' 보조사
-         ('에서만', COND_ALL),       # 에서+'만' 보조사
-         ('엔', COND_ALL),           # '에는' 준말
-         ('야', COND_V_ALL),
-         ('의', COND_ALL),
-         ('이나', COND_T_ALL),
-         ('이든', COND_ALL),
-         ('이든지', COND_ALL),
-         ('이야', COND_T_ALL), # '-(이)야' 강조
-         ('조차', COND_ALL),
-         ('조차도', COND_ALL),
-         ('처럼', COND_ALL),
-         ('처럼은', COND_ALL),
-         # TODO: -한테 조사는 사람이나 동물 등에만 붙음
-         ('하고', COND_ALL),         # 구어체
-         ('한테', COND_ALL),
-         ('한테서', COND_ALL),
-         ]
+class JosaClass:
+    next_flag = josas_flag_start
+    def __init__(self, rules=[], after=[], notafter=[]):
+        self.rules = rules
+        self.after = after
+        self.notafter = notafter
+        self.flag = JosaClass.next_flag
+        JosaClass.next_flag += 1
+    def match(self, word, pos, props):
+        if self.notafter:
+            if (word, '#' + pos) in self.notafter:
+                return False
+        if self.after:
+            if ('#' + pos) in self.after:
+                return True
+            elif (word, '#' + pos) in self.after:
+                return True
+            else:
+                return False
+        return True
+    def output(self):
+        result = []
+        line = 'SFX %d Y %d' % (self.flag, len(self.rules))
+        result.append(nfd(line))
+        for (sfx, cond, strip) in self.rules:
+            if not strip:
+                strip = '0'
+            if not cond:
+                cond = '.'
+            line = 'SFX %d %s %s %s' % (self.flag, strip, sfx, cond)
+            result.append(nfd(line))
+        return '\n'.join(result)
 
-def get_rules_string(flagaliases):
+
+##
+##
+
+groups = {}
+
+## '이' 주격조사
+groups['이'] = [
+    JosaClass(
+        rules = [(u'이', COND_T_ALL, '')],
+        after = ['#명사', '#대명사'],
+        notafter = [('거', '#대명사'),
+                    ('이거', '#대명사'),
+                    ('저거', '#대명사'),
+                    ('요거', '#대명사')],
+    ),
+    # 대명사 '-거'+'이' -> '게'
+    JosaClass(
+        rules = [(V_E, u'거', V_EO)],
+        after = [('거', '#대명사'),
+                 ('이거', '#대명사'),
+                 ('저거', '#대명사'),
+                 ('요거', '#대명사')],
+    ),
+]
+
+# '가' 주격조사
+groups['가'] = [
+    JosaClass(
+        rules = [(u'가', COND_ALL, '')],
+        after = ['#명사', '#대명사'],
+        notafter = [('나', '#대명사'),
+                    ('너', '#대명사')],
+    ),
+    # 대명사 '나'+'가' -> '내가', '너'+가 -> 네가
+    JosaClass(
+        rules = [(V_AE + u'가', u'나', V_A),
+                 (V_E + u'가', u'너', V_EO)],
+        after = [('나', '#대명사'),
+                 ('너', '#대명사')],
+    ),
+]
+
+# '-ㄴ', '-ㄹ' 형태로 줄여진 구어체
+groups['!종성'] = [
+    JosaClass(
+        rules = [(T_RIEUL, COND_V_ALL, ''),
+                 (T_NIEUN, COND_V_ALL, '')],
+        after = ['#대명사'],
+    ),
+]
+
+groups['*'] = [
+    JosaClass(
+        rules = [
+         ('을', COND_T_ALL, ''), ('를', COND_V_ALL, ''),
+         ('과', COND_T_ALL, ''), ('와', COND_V_ALL, ''),
+         ('은', COND_T_ALL, ''), ('는', COND_V_ALL, ''),
+         ('라', COND_V_ALL, ''), ('이라', COND_T_ALL, ''),
+         ('라고', COND_V_ALL, ''), ('이라고', COND_T_ALL, ''),
+         ('라는', COND_V_ALL, ''), ('이라는', COND_T_ALL, ''),
+         ('라도', COND_V_ALL, ''), ('이라도', COND_T_ALL, ''),
+         ('라면', COND_V_ALL, ''), ('이라면', COND_T_ALL, ''),
+         ('라서', COND_V_ALL, ''), ('이라서', COND_T_ALL, ''),
+         ('란', COND_V_ALL, ''), ('이란', COND_T_ALL, ''),
+         ('랑', COND_V_ALL, ''), ('이랑', COND_T_ALL, ''),
+         ('로', COND_V_OR_RIEUL, ''), ('으로', COND_T_NOT_RIEUL, ''),
+         ('로는', COND_V_OR_RIEUL, ''), ('으로는', COND_T_NOT_RIEUL, ''),
+         ('로도', COND_V_OR_RIEUL, ''), ('으로도', COND_T_NOT_RIEUL, ''),
+         ('로서', COND_V_OR_RIEUL, ''), ('으로서', COND_T_NOT_RIEUL, ''),
+         ('로만', COND_V_OR_RIEUL, ''), ('으로만', COND_T_NOT_RIEUL, ''),
+         ('로써', COND_V_OR_RIEUL, ''), ('으로써', COND_T_NOT_RIEUL, ''),
+         ('로부터', COND_V_OR_RIEUL, ''), ('으로부터', COND_T_NOT_RIEUL, ''),
+         # sorted list
+         ('같이', COND_ALL, ''),
+         ('까지', COND_ALL, ''),
+         ('까지는', COND_ALL, ''),
+         ('까지도', COND_ALL, ''),
+         ('까지라도', COND_ALL, ''),
+         ('께', COND_ALL, ''),
+         ('께는', COND_ALL, ''),
+         ('께도', COND_ALL, ''),
+         ('께서', COND_ALL, ''),
+         ('께서는', COND_ALL, ''),
+         ('께서도', COND_ALL, ''),
+         ('나', COND_V_ALL, ''),
+         ('대로', COND_ALL, ''),
+         ('대로는', COND_ALL, ''),
+         ('도', COND_ALL, ''),
+         ('마다', COND_ALL, ''),         # 보조사, '모두'
+         ('마저', COND_ALL, ''),
+         ('마저도', COND_ALL, ''),
+         ('만', COND_ALL, ''),
+         ('만이', COND_ALL, ''),
+         ('밖에', COND_ALL, ''),
+         ('밖에는', COND_ALL, ''),
+         ('보다', COND_ALL, ''),
+         ('보다는', COND_ALL, ''),
+         ('보다도', COND_ALL, ''),
+         ('부터', COND_ALL, ''),
+         ('부터라도', COND_ALL, ''),
+         ('서', COND_ALL, ''),           # '~에서' 준말
+         ('에', COND_ALL, ''),
+         ('에게', COND_ALL, ''),
+         ('에게는', COND_ALL, ''),
+         ('에게도', COND_ALL, ''),
+         ('에게만', COND_ALL, ''),
+         ('에게서', COND_ALL, ''),
+         ('에게서는', COND_ALL, ''),
+         ('에게서도', COND_ALL, ''),
+         ('에게서만', COND_ALL, ''),
+         ('에는', COND_ALL, ''),         # 에+'는' 보조사
+         ('에도', COND_ALL, ''),         # 에+'도' 보조사
+         ('에만', COND_ALL, ''),         # 에+'만' 보조사
+         ('에서', COND_ALL, ''),
+         ('에서는', COND_ALL, ''),       # 에서+'는' 보조사
+         ('에서도', COND_ALL, ''),       # 에서+'도' 보조사
+         ('에서만', COND_ALL, ''),       # 에서+'만' 보조사
+         ('엔', COND_ALL, ''),           # '에는' 준말
+         ('야', COND_V_ALL, ''),
+         ('의', COND_ALL, ''),
+         ('이나', COND_T_ALL, ''),
+         ('이든', COND_ALL, ''),
+         ('이든지', COND_ALL, ''),
+         ('이야', COND_T_ALL, ''), # '-(이, '')야' 강조
+         ('조차', COND_ALL, ''),
+         ('조차도', COND_ALL, ''),
+         ('처럼', COND_ALL, ''),
+         ('처럼은', COND_ALL, ''),
+         # TODO: -한테 조사는 사람이나 동물 등에만 붙음
+         ('하고', COND_ALL, ''),         # 구어체
+         ('한테', COND_ALL, ''),
+         ('한테서', COND_ALL, ''),
+         ],
+    ),
+]
+
+klasses = []
+
+# FIXME: 임시
+for _key in groups.keys():
+    klasses += groups[_key]
+
+def find_flags(word, pos, props):
+    result = []
+    for klass in klasses:
+        if klass.match(word, pos, props):
+            result.append(klass.flag)
+    if (pos == '명사' or pos == '대명사' or pos == '특수:복수접미사' or
+        pos == '특수:알파벳' or pos == '특수:숫자' or
+        pos.startswith('특수:수:')):
+        result.append(josa_ida_flag)
+    return result
+
+def get_ida_rules(flagaliases):
     ida_josas = []
     # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
     # twofold suffix를 여기에 써먹기에는 아깝다
@@ -165,15 +269,14 @@ def get_rules_string(flagaliases):
         if NFC(c.decode('utf-8'))[0] == u'이':
             ida_josas.append((NFC(c.decode('utf-8'))[1:], COND_V_ALL))
 
-    result = ['SFX %d Y %d' % (josa_flag, len(josas + ida_josas))]
-    for (sfx,cond) in josas + ida_josas:
-        result.append(nfd('SFX %d 0 %s %s' % (josa_flag, sfx, cond)))
-    return '\n'.join(result)
-
-def find_flags(word, po, props):
-    result = []
-    for klass in klasses:
-        if class_match_word(klass, word, po, props):
-            result.append(klass['flag'])
+    result = ['SFX %d Y %d' % (josa_ida_flag, len(ida_josas))]
+    for (sfx,cond) in ida_josas:
+        result.append(nfd('SFX %d 0 %s %s' % (josa_ida_flag, sfx, cond)))
     return result
     
+def get_output(flagaliases):
+    result = []
+    for klass in klasses:
+        result.append(klass.output())
+    result += get_ida_rules(flagaliases)
+    return '\n'.join(result)
