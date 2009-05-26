@@ -17,10 +17,11 @@
 #
 # The Initial Developer of the Original Code is
 # Changwoo Ryu.
-# Portions created by the Initial Developer are Copyright (C) 2009
+# Portions created by the Initial Developer are Copyright (C) 2008, 2009
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s): Changwoo Ryu <cwryu@debian.org>
+# Namhyung Kim <namhyung@gmail.com>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -98,27 +99,31 @@ class JosaClass:
 
 groups = {}
 
-## '이' 주격조사
+## '이' 주격/보격 조사
 groups['이'] = [
     JosaClass(
         rules = [(u'이', COND_T_ALL, '')],
         after = ['#명사', '#대명사'],
         notafter = [('거', '#대명사'),
+                    ('그거', '#대명사'),
+                    ('요거', '#대명사'),
                     ('이거', '#대명사'),
                     ('저거', '#대명사'),
-                    ('요거', '#대명사')],
+                   ],
     ),
     # 대명사 '-거'+'이' -> '게'
     JosaClass(
         rules = [(V_E, u'거', V_EO)],
         after = [('거', '#대명사'),
+                 ('그거', '#대명사'),
+                 ('요거', '#대명사'),
                  ('이거', '#대명사'),
                  ('저거', '#대명사'),
-                 ('요거', '#대명사')],
+                ],
     ),
 ]
 
-# '가' 주격조사
+# '가' 주격/보격 조사
 groups['가'] = [
     JosaClass(
         rules = [(u'가', COND_ALL, '')],
@@ -126,7 +131,7 @@ groups['가'] = [
         notafter = [('나', '#대명사'),
                     ('너', '#대명사')],
     ),
-    # 대명사 '나'+'가' -> '내가', '너'+가 -> 네가
+    # 대명사 '나'+'가' -> '내가', '너'+가 -> '네가'
     JosaClass(
         rules = [(V_AE + u'가', u'나', V_A),
                  (V_E + u'가', u'너', V_EO)],
@@ -135,8 +140,18 @@ groups['가'] = [
     ),
 ]
 
+groups['!대명사+의'] = [
+    # 대명사 '나'+'의' -> '내', '너'+의 -> '네'
+    JosaClass(
+        rules = [(V_AE, u'나', V_A),
+                 (V_E, u'너', V_EO)],
+        after = [('나', '#대명사'),
+                 ('너', '#대명사')],
+    ),
+]
+
 # '-ㄴ', '-ㄹ' 형태로 줄여진 구어체
-groups['!종성'] = [
+groups['!종성줄임'] = [
     JosaClass(
         rules = [(T_RIEUL, COND_V_ALL, ''),
                  (T_NIEUN, COND_V_ALL, '')],
@@ -170,6 +185,7 @@ groups['*'] = [
          ('까지', COND_ALL, ''),
          ('까지는', COND_ALL, ''),
          ('까지도', COND_ALL, ''),
+         ('까지만', COND_ALL, ''),
          ('까지라도', COND_ALL, ''),
          ('께', COND_ALL, ''),
          ('께는', COND_ALL, ''),
@@ -180,6 +196,8 @@ groups['*'] = [
          ('나', COND_V_ALL, ''),
          ('대로', COND_ALL, ''),
          ('대로는', COND_ALL, ''),
+         ('대로만', COND_ALL, ''),
+         ('대로의', COND_ALL, ''),
          ('도', COND_ALL, ''),
          ('마다', COND_ALL, ''),         # 보조사, '모두'
          ('마저', COND_ALL, ''),
