@@ -266,11 +266,14 @@ class Dictionary:
         for form in forms:
             auxiliaries = [w for w in verbs if ('보조용언:' + form) in w.props]
             for verb in verbs:
+                # 본용언이 용언+용언 합성용언이면 붙여 쓸 수 없다
+                if '용언합성' in verb.props:
+                    continue
                 prefixes = suffix.make_conjugations(verb.word,
                                                     verb.pos, verb.props, form)
                 if config.expand_auxiliary_attached:
                     for auxiliary in auxiliaries:
-                        # 본동사가 해당 보조용언으로 끝나는 합성어인 경우 생략
+                        # 본용언이 해당 보조용언으로 끝나는 합성어인 경우 생략
                         # 예: 다가오다 + 오다 => 다가와오다 (x)
                         if (verb.word != auxiliary.word and
                             verb.word.endswith(auxiliary.word)):
