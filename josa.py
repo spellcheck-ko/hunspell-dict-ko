@@ -267,10 +267,13 @@ def find_flags(word, pos, props):
         pos == '특수:알파벳' or pos == '특수:숫자' or
         pos.startswith('특수:수:')):
         result.append(josa_ida_flag)
+    if (pos == '대명사'):
+        result.append(josa_ida_t_flag)
     return result
 
 def get_ida_rules(flagaliases):
     ida_josas = []
+    ida_josas_t = []
     # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
     # twofold suffix를 여기에 써먹기에는 아깝다
     ida_conjugations = suffix.make_all_conjugations('이다', '이다', [])
@@ -291,10 +294,16 @@ def get_ida_rules(flagaliases):
         # TODO: 받침이 앞의 명사에 붙는 경우 허용 여부 (예: "마찬가집니다")
         if NFC(c.decode('utf-8'))[0] == u'이':
             ida_josas.append((NFC(c.decode('utf-8'))[1:], COND_V_ALL))
+        elif NFD(c.decode('utf-8'))[:2] == NFD(u'이'):
+            ida_josas_t.append((NFD(c.decode('utf-8'))[2:], COND_V_ALL))
 
     result = ['SFX %d Y %d' % (josa_ida_flag, len(ida_josas))]
     for (sfx,cond) in ida_josas:
         result.append(nfd('SFX %d 0 %s %s' % (josa_ida_flag, sfx, cond)))
+
+    result.append('SFX %d Y %d' % (josa_ida_t_flag, len(ida_josas_t)))
+    for (sfx,cond) in ida_josas_t:
+        result.append(nfd('SFX %d 0 %s %s' % (josa_ida_t_flag, sfx, cond)))
     return result
     
 def get_output(flagaliases):
