@@ -466,7 +466,7 @@ for klass in groups['-어서']:
     for r in klass['rules']:
         r[0] = r[0] + '서'
 groups['-어서'][0]['after'].append('#이다')
-attach_emphasis(groups['-어서'], ['는', '도'])
+attach_emphasis(groups['-어서'], ['는', '도', '요'])
 
 #### 연결: -어야, -아야
 # '-어' 재활용
@@ -669,7 +669,7 @@ groups['-지'] = [
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
-attach_emphasis(groups['-지'], ['요', '도', '는'])
+attach_emphasis(groups['-지'], ['는', '도', '요'])
 # 지요 -> 죠 준말
 groups['-지'][0]['rules'].append([u'-죠', '', ''])
 
@@ -997,6 +997,22 @@ groups['-으라는'] = [
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
+#### 연결: -으래도,-래도 (라고 해도)
+groups['-으래도'] = [
+    { 'rules': [[u'-래도', COND_V_OR_RIEUL, ''],
+                [u'-으래도', COND_T_NOT_RIEUL, '']],
+      'after': ['#동사', '#이다', '아니다', '-으시-', '-더-', '-으리-'],
+      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙'],
+    },
+    # ㄷ불규칙
+    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으라는', ['#동사']),
+    # ㅂ불규칙
+    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우라는', ['#동사']),
+    # ㅅ불규칙
+    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으라는', ['#동사']),
+    # 동사이므로 ㅎ불규칙 해당 없음
+]
+
 #### 연결 -ㄴ데, -은데
 groups['-은데'] = [
     { 'rules': [[u'-\u11ab데', COND_V_OR_RIEUL, ''],
@@ -1133,7 +1149,7 @@ groups['-는지'] = [
       'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'],
     },
 ]
-attach_emphasis(groups['-는지'], ['요', '도', '는'])
+attach_emphasis(groups['-는지'], ['도', '는', '요'])
 
 #### 연결: -면, -으면
 groups['-으면'] = [
@@ -1248,7 +1264,7 @@ groups['-은지'] = [
     # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11ab지', ['#형용사']),
 ]
-attach_emphasis(groups['-은지'], ['요', '도', '는'])
+attach_emphasis(groups['-은지'], ['도', '는', '요'])
 
 #### 종결: -십시오, -으십시오
 groups['-으십시오'] = [
@@ -1294,8 +1310,16 @@ attach_emphasis(groups['-다고'], ['요'])
 
 #### 연결: -다는 (다고 하는)
 groups['-다는'] = [
-    { 'rules': [[u'-다는', '', '']],
+    { 'rules': [[u'-다는', '', ''],
+                [u'-단', '', '']],
       'after': ['#용언', '-으시-', '-었-', '-겠-'],
+    },
+]
+
+#### 연결: -대도 (다고 하여도)
+groups['-대도'] = [
+    { 'rules': [[u'-대도', '', '']],
+      'after': ['#형용사', '-으시-', '-었-', '-겠-'],
     },
 ]
 
