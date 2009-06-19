@@ -161,6 +161,27 @@ groups['!종성줄임'] = [
     ),
 ]
 
+# '거'+'로' => '걸로'
+groups['!거+로'] = [
+    JosaClass(
+        rules = [(T_RIEUL + u'로', u'거', ''),
+                 (T_RIEUL + u'로는', u'거', ''),
+                 (T_RIEUL + u'론', u'거', ''),
+                 (T_RIEUL + u'로도', u'거', ''),
+                 (T_RIEUL + u'로서', u'거', ''),
+                 (T_RIEUL + u'로만', u'거', ''),
+                 (T_RIEUL + u'로써', u'거', ''),
+                 (T_RIEUL + u'로부터', u'거', ''),
+                 ],
+        after = [('거', '#대명사'),
+                 ('그거', '#대명사'),
+                 ('요거', '#대명사'),
+                 ('이거', '#대명사'),
+                 ('저거', '#대명사'),
+                ],
+    ),
+]
+
 groups['*'] = [
     JosaClass(
         rules = [
@@ -177,6 +198,7 @@ groups['*'] = [
          ('랑', COND_V_ALL, ''), ('이랑', COND_T_ALL, ''),
          ('로', COND_V_OR_RIEUL, ''), ('으로', COND_T_NOT_RIEUL, ''),
          ('로는', COND_V_OR_RIEUL, ''), ('으로는', COND_T_NOT_RIEUL, ''),
+         ('론', COND_V_OR_RIEUL, ''), ('으론', COND_T_NOT_RIEUL, ''),
          ('로도', COND_V_OR_RIEUL, ''), ('으로도', COND_T_NOT_RIEUL, ''),
          ('로서', COND_V_OR_RIEUL, ''), ('으로서', COND_T_NOT_RIEUL, ''),
          ('로만', COND_V_OR_RIEUL, ''), ('으로만', COND_T_NOT_RIEUL, ''),
@@ -186,6 +208,7 @@ groups['*'] = [
          ('같이', COND_ALL, ''),
          ('까지', COND_ALL, ''),
          ('까지는', COND_ALL, ''),
+         ('까진', COND_ALL, ''),
          ('까지도', COND_ALL, ''),
          ('까지만', COND_ALL, ''),
          ('까지라도', COND_ALL, ''),
@@ -194,10 +217,12 @@ groups['*'] = [
          ('께도', COND_ALL, ''),
          ('께서', COND_ALL, ''),
          ('께서는', COND_ALL, ''),
+         ('께선', COND_ALL, ''),
          ('께서도', COND_ALL, ''),
          ('나', COND_V_ALL, ''),
          ('대로', COND_ALL, ''),
          ('대로는', COND_ALL, ''),
+         ('대론', COND_ALL, ''),
          ('대로만', COND_ALL, ''),
          ('대로의', COND_ALL, ''),
          ('도', COND_ALL, ''),
@@ -208,8 +233,10 @@ groups['*'] = [
          ('만이', COND_ALL, ''),
          ('밖에', COND_ALL, ''),
          ('밖에는', COND_ALL, ''),
+         ('밖엔', COND_ALL, ''),
          ('보다', COND_ALL, ''),
          ('보다는', COND_ALL, ''),
+         ('보단', COND_ALL, ''),
          ('보다도', COND_ALL, ''),
          ('부터', COND_ALL, ''),
          ('부터라도', COND_ALL, ''),
@@ -217,6 +244,7 @@ groups['*'] = [
          ('에', COND_ALL, ''),
          ('에게', COND_ALL, ''),
          ('에게는', COND_ALL, ''),
+         ('에겐', COND_ALL, ''),
          ('에게도', COND_ALL, ''),
          ('에게만', COND_ALL, ''),
          ('에게서', COND_ALL, ''),
@@ -224,13 +252,14 @@ groups['*'] = [
          ('에게서도', COND_ALL, ''),
          ('에게서만', COND_ALL, ''),
          ('에는', COND_ALL, ''),         # 에+'는' 보조사
+         ('엔', COND_ALL, ''),           # '에는' 준말
          ('에도', COND_ALL, ''),         # 에+'도' 보조사
          ('에만', COND_ALL, ''),         # 에+'만' 보조사
          ('에서', COND_ALL, ''),
          ('에서는', COND_ALL, ''),       # 에서+'는' 보조사
+         ('에선', COND_ALL, ''),
          ('에서도', COND_ALL, ''),       # 에서+'도' 보조사
          ('에서만', COND_ALL, ''),       # 에서+'만' 보조사
-         ('엔', COND_ALL, ''),           # '에는' 준말
          ('야', COND_V_ALL, ''),
          ('의', COND_ALL, ''),
          ('이나', COND_T_ALL, ''),
