@@ -466,7 +466,7 @@ for klass in groups['-어서']:
     for r in klass['rules']:
         r[0] = r[0] + '서'
 groups['-어서'][0]['after'].append('#이다')
-attach_emphasis(groups['-어서'], ['는', '도', '요'])
+attach_emphasis(groups['-어서'], ['는', T_NIEUN, '도', '요'])
 
 #### 연결: -어야, -아야
 # '-어' 재활용
@@ -592,7 +592,7 @@ groups['-을지'] = copy_group(groups['-을'])
 for klass in groups['-을지']:
     for r in klass['rules']:
         r[0] = r[0] + '지'
-attach_emphasis(groups['-을지'], ['는', '도'])
+attach_emphasis(groups['-을지'], ['는', T_NIEUN, '도'])
 
 #### 연결: -ㄹ지라도, -을지라도
 # '-을' 재활용
@@ -669,7 +669,7 @@ groups['-지'] = [
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
-attach_emphasis(groups['-지'], ['는', '도', '요'])
+attach_emphasis(groups['-지'], ['는', T_NIEUN, '도', '요'])
 # 지요 -> 죠 준말
 groups['-지'][0]['rules'].append([u'-죠', '', ''])
 
@@ -1151,7 +1151,7 @@ groups['-는지'] = [
       'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'],
     },
 ]
-attach_emphasis(groups['-는지'], ['도', '는', '요'])
+attach_emphasis(groups['-는지'], ['는', T_NIEUN, '도', '요'])
 
 #### 연결: -면, -으면
 groups['-으면'] = [
@@ -1266,7 +1266,7 @@ groups['-은지'] = [
     # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-\u11ab지', ['#형용사']),
 ]
-attach_emphasis(groups['-은지'], ['도', '는', '요'])
+attach_emphasis(groups['-은지'], ['는', T_NIEUN, '도', '요'])
 
 #### 종결: -십시오, -으십시오
 groups['-으십시오'] = [
@@ -1770,7 +1770,7 @@ groups['-을는지'] = [
     # ㅎ불규칙
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s는지' % T_RIEUL, ['#용언']),
 ]
-attach_emphasis(groups['-을는지'], ['는', '도'])
+attach_emphasis(groups['-을는지'], ['는', T_NIEUN, '도'])
 
 #### 종결: -ㄴ다니, -는다니
 groups['-는다니'] = [
