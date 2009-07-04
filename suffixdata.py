@@ -1439,6 +1439,7 @@ for klass in groups['-으냐고']:
     for r in klass['rules']:
         new_rule.append([r[0] + '고'] + r[1:])
     klass['rules'] = new_rule
+attach_emphasis(groups['-으냐고'], ['요'])
 
 #### 연결: -으냐네 (-으냐고 하네)
 groups['-으냐네'] = [k.copy() for k in groups['-으냐']]
@@ -1511,6 +1512,7 @@ for klass in groups['-느냐고']:
     for r in klass['rules']:
         new_rule.append([r[0] + '고'] + r[1:])
     klass['rules'] = new_rule
+attach_emphasis(groups['-느냐고'], ['요'])
 
 #### 연결: -느냐네 (-느냐고 하네)
 groups['-느냐네'] = [k.copy() for k in groups['-느냐']]
