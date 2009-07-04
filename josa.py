@@ -57,8 +57,8 @@ ALPHA_ALL = ''.join(map(unichr, range(ord('0'),ord('9')+1) + range(ord('a'),ord(
 COND_ALL = '.'
 COND_V_ALL = '[%s]' % (V_ALL + ALPHA_ALL)
 COND_T_ALL = '[%s]' % (T_ALL + ALPHA_ALL)
-COND_V_OR_RIEUL = '[%s]' % (V_ALL + u'\u11af' + ALPHA_ALL)
-COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(u'\u11af', '') + ALPHA_ALL)
+COND_V_OR_RIEUL = '[%s]' % (V_ALL + T_RIEUL + ALPHA_ALL)
+COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(T_RIEUL, '') + ALPHA_ALL)
 
 class JosaClass:
     next_flag = josas_flag_start
