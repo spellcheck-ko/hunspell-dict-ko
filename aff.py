@@ -189,6 +189,7 @@ rep_list = [
     # ㅂ불규칙
     (T_PIEUP + u'아', u'와'),
     (T_PIEUP + u'어', u'워'),
+    (T_PIEUP + u'으', u'우'),
     # 르불규칙
     (u'르어', T_RIEUL + u'러'),
     (u'르어', T_RIEUL + u'라'),
@@ -218,6 +219,8 @@ rep_list = [
     (L_SIOS, T_SIOS + L_IEUNG),
     (L_CIEUC, T_CIEUC + L_IEUNG),
     (T_CIEUC + L_IEUNG, L_CIEUC),
+     # ㅅㅎ -> ㅌ (통신어..)
+    (T_SIOS + L_HIEUH, L_THIEUTH),
 ]
 
 REP_DEFINES = 'REP %d\n' % len(rep_list)
