@@ -169,7 +169,12 @@ COND_EU_AO = [ u'[%s][%s]%s' % (V_A_O, L_ALL, V_EU),
 COND_EU_NOT_AO = [ u'[%s][%s]%s' % (V_NOT_A_O, L_ALL, V_EU),
                    u'[%s][%s][%s]%s' % (V_NOT_A_O, T_ALL, L_ALL, V_EU) ]
 
+#### 유성음/무성음 자모 구분
 
+T_VOICED = T_NIEUN + T_RIEUL + T_MIEUM + T_IEUNG
+T_UNVOICED = filter(lambda l: not l in T_VOICED, T_ALL)
+COND_VOICED = u'[%s]' % (V_ALL + T_VOICED)
+COND_UNVOICED = u'[%s]' % T_UNVOICED
 
 ######################################################################
 #### 어미 데이터
@@ -627,7 +632,8 @@ groups['-는'] = [
 #### 연결: -게
 groups['-게'] = [
     { 'rules': [[u'-게', '', ''],
-                [u'-케', u'하', u'하'], # 하게 -> 케 준말
+                [u'-케', COND_VOICED + u'하', u'하'], # 하게 -> 케 준말
+                [u'-게', COND_UNVOICED + u'하', u'하'], # 하게 -> 게 준말
                 ],
       'after': ['#용언', '-으시-'],
     },
@@ -1889,3 +1895,12 @@ groups['-을라'] = [
     HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s라' % T_RIEUL, ['#용언']),
 ]
 
+#### 연결: -건대
+groups['-건대'] = [
+    { 'rules': [[u'-건대', '', ''],
+                [u'-컨대', COND_VOICED + u'하', u'하'], # 하건대 -> 건대
+                [u'-건대', COND_UNVOICED + u'하', u'하'], # 하건대 -> 건대
+                ],
+      'after': ['#동사'],
+    },
+]
