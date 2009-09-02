@@ -72,6 +72,12 @@ class JosaClass:
             if (word, '#' + pos) in self.notafter:
                 return False
         if self.after:
+            # 부사는 상태부사, 성상부사, 정도부사, 양태부사만 보조사 허용
+            if pos in ['부사:상태', '부사:성상', '부사:정도', '부사:양태']:
+                pos = '부사'
+            else:
+                return False
+
             if ('#' + pos) in self.after:
                 return True
             elif (word, '#' + pos) in self.after:
@@ -186,6 +192,19 @@ groups['!거+로'] = [
     ),
 ]
 
+# 보조사
+groups['!보조사'] = [
+    JosaClass(
+        rules = [('도', COND_ALL, ''),
+                 ('만', COND_ALL, ''),
+                 ('은', COND_T_ALL, ''), ('는', COND_V_ALL, '')],
+        after = ['#부사',
+                 '#명사', '#대명사', '#수사',
+                 '#특수:숫자', '#특수:알파벳',
+                 '#특수:수:1', '#특수:수:10', '#특수:수:100', '#특수:수:1000'],
+    ),
+]
+
 groups['*'] = [
     JosaClass(
         rules = [
@@ -195,7 +214,6 @@ groups['*'] = [
          ('관', COND_T_ALL, ''), ('완', COND_V_ALL, ''),
          ('과도', COND_T_ALL, ''), ('와도', COND_V_ALL, ''),
          ('과의', COND_T_ALL, ''), ('와의', COND_V_ALL, ''),
-         ('은', COND_T_ALL, ''), ('는', COND_V_ALL, ''),
          ('라', COND_V_ALL, ''), ('이라', COND_T_ALL, ''),
          ('라고', COND_V_ALL, ''), ('이라고', COND_T_ALL, ''),
          ('라는', COND_V_ALL, ''), ('이라는', COND_T_ALL, ''),
@@ -248,11 +266,9 @@ groups['*'] = [
          ('더러는', COND_ALL, ''),
          ('더러만', COND_ALL, ''),
          ('더런', COND_ALL, ''),
-         ('도', COND_ALL, ''),
          ('마다', COND_ALL, ''),         # 보조사, '모두'
          ('마저', COND_ALL, ''),
          ('마저도', COND_ALL, ''),
-         ('만', COND_ALL, ''),
          ('만의', COND_ALL, ''),
          ('만이', COND_ALL, ''),
          ('밖에', COND_ALL, ''),
