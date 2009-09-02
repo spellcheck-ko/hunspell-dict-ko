@@ -231,13 +231,12 @@ for rep in rep_list:
     REP_DEFINES += nfd('REP %s %s\n' % (rep[0], rep[1]))
 
 compound_rules = [
-    # 숫자
+    # 아라비아 숫자
     '(%d)*(%d)' % (digit_flag, digit_flag),
-    # 숫자+단위
+    # 아라비아 숫자+단위
     '(%d)*(%d)(%d)' % (digit_flag, digit_flag, counter_flag),
-    # tokenizer에서 로마자를 분리해 주지 않는 경우를 위해 로마자로 된 모든
-    # 단어를 허용하고 명사로 취급한다.
-    '(%d)*(%d)?' % (alpha_flag, plural_suffix_flag),
+    # 아라비아 숫자+만 단위 ("300만", "50억")
+    '(%d)*(%d)(%d)' % (digit_flag, digit_flag, number_10000_flag),
     # 숫자 만 단위로 띄어 쓰기
     # FIXME: hunspell 1.2.8에서는 백자리 이상 쓰면 SEGV
     #'(%d)?(%d)?(%d)?(%d)?(%d)?' % (number_1000_flag,
@@ -248,6 +247,9 @@ compound_rules = [
     '(%d)?(%d)?(%d)?' % (number_10_flag,
                          number_1_flag,
                          number_10000_flag),
+    # tokenizer에서 로마자를 분리해 주지 않는 경우를 위해 로마자로 된 모든
+    # 단어를 허용하고 명사로 취급한다.
+    '(%d)*(%d)?' % (alpha_flag, plural_suffix_flag),
 ]
 
 # 보조용언 붙여 쓰기: 별도로 확장하지 않는 경우에만 필요
