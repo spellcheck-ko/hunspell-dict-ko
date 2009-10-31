@@ -73,10 +73,11 @@ class JosaClass:
                 return False
         if self.after:
             # 부사는 상태부사, 성상부사, 정도부사, 양태부사만 보조사 허용
-            if pos in ['부사:상태', '부사:성상', '부사:정도', '부사:양태']:
-                pos = '부사'
-            else:
-                return False
+            if pos.startswith('부사'):
+                if pos in ['부사:상태', '부사:성상', '부사:정도', '부사:양태']:
+                    pos = '부사'
+                else:
+                    return False
 
             if ('#' + pos) in self.after:
                 return True
