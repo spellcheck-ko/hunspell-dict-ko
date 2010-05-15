@@ -216,12 +216,12 @@ def class_match_word(klass, word, po, props):
     if (klass.has_key('after') and
         (not word in klass['after']) and
         (not ('#'+po) in klass['after']) and
-        (not [1 for k in klass['after'] if k[0] == '^' and re.match(k, word)])):
+        (not [1 for k in klass['after'] if k[0] == '^' and re.match(nfd(k), nfd(word))])):
         return False
     if (klass.has_key('notafter') and
         ((word in klass['notafter']) or
          ('#'+po) in klass['notafter'] or
-         [1 for k in klass['notafter'] if k[0] == '^' and re.match(k, word)])):
+         [1 for k in klass['notafter'] if k[0] == '^' and re.match(nfd(k), nfd(word))])):
         return False
     if klass.has_key('cond'):
         for prop in props:
