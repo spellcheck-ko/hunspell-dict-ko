@@ -18,7 +18,7 @@
 #
 # The Initial Developer of the Original Code is
 # Changwoo Ryu.
-# Portions created by the Initial Developer are Copyright (C) 2008, 2009
+# Portions created by the Initial Developer are Copyright (C) 2008, 2009, 2010
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s): See CREDITS file
