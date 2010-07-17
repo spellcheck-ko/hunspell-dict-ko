@@ -18,9 +18,9 @@ def main():
         hunspell_cmd = './hunspell'
     else:
         hunspell_cmd = 'hunspell'
-    hunspell = subprocess.Popen([hunspell_cmd, '-d', '../ko'],
+    hunspell = subprocess.Popen([hunspell_cmd, '-i', 'UTF-8', '-a', '-d', '../ko'],
                                 stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-    hunspell.stdout.readline()  # the first line "Husnpell 1.2.8 ..."
+    hunspell.stdout.readline()  # the first line "Hunspell 1.2.8 ..."
     lineno = 0
     errmsg = sys.stderr.write
     for l in lines:
