@@ -198,7 +198,9 @@ groups['!보조사'] = [
     JosaClass(
         rules = [('도', COND_ALL, ''),
                  ('만', COND_ALL, ''),
-                 ('은', COND_T_ALL, ''), ('는', COND_V_ALL, '')],
+                 ('은', COND_T_ALL, ''), ('는', COND_V_ALL, ''),
+                 ('은커녕', COND_T_ALL, ''), ('는커녕', COND_V_ALL, ''),
+                ],
         after = ['#부사',
                  '#명사', '#대명사', '#수사',
                  '#특수:숫자', '#특수:알파벳',
@@ -240,6 +242,8 @@ groups['*'] = [
          ('로부터는', COND_V_OR_RIEUL, ''), ('으로부터는', COND_T_NOT_RIEUL, ''),
          ('로부턴', COND_V_OR_RIEUL, ''), ('으로부턴', COND_T_NOT_RIEUL, ''),
          ('로부터도', COND_V_OR_RIEUL, ''), ('으로부터도', COND_T_NOT_RIEUL, ''),
+         ('야말로', COND_V_ALL, ''), ('이야말로', COND_T_ALL, ''),
+
          # sorted list
          ('같이', COND_ALL, ''),
          ('까지', COND_ALL, ''),
@@ -256,6 +260,7 @@ groups['*'] = [
          ('께서는', COND_ALL, ''),
          ('께선', COND_ALL, ''),
          ('께서도', COND_ALL, ''),
+         ('끼리', COND_ALL, ''), # TODO: -끼리: 가산명사에만 붙음
          ('나', COND_V_ALL, ''),
          ('대로', COND_ALL, ''),
          ('대로는', COND_ALL, ''),
@@ -272,6 +277,7 @@ groups['*'] = [
          ('마저도', COND_ALL, ''),
          ('만의', COND_ALL, ''),
          ('만이', COND_ALL, ''),
+         ('만큼', COND_ALL, ''),
          ('밖에', COND_ALL, ''),
          ('밖에는', COND_ALL, ''),
          ('밖엔', COND_ALL, ''),
@@ -314,6 +320,7 @@ groups['*'] = [
          ('조차도', COND_ALL, ''),
          ('처럼', COND_ALL, ''),
          ('처럼은', COND_ALL, ''),
+         ('커녕', COND_ALL, ''),
          # TODO: -한테 조사는 사람이나 동물 등에만 붙음
          ('하고', COND_ALL, ''),         # 구어체
          ('한테', COND_ALL, ''),
