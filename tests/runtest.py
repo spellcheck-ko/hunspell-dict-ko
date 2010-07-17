@@ -2,6 +2,7 @@
 
 import sys
 import os
+import string
 import subprocess
 
 def usage():
@@ -46,15 +47,16 @@ def main():
                                                    word, result))
                     sys.exit(1)
         elif flag == 'S':
+            sug = string.join(args, ' ')
             if result[0] != '&':
                 errmsg('%s:%d: %s %s: %s\n' % (filename, lineno, flag,
                                                word, result))
                 sys.exit(1)
             else:
                 suggests = result[result.find(':')+2:].split(', ')
-                if suggests[0] != args[0]:
+                if suggests[0] != sug:
                     errmsg('%s:%d: %s %s %s: %s\n' % (filename, lineno, flag,
-                                                      word, args[0],
+                                                      word, sug,
                                                       result))
                     sys.exit(1)
         else:
