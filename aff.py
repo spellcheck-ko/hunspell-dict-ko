@@ -187,8 +187,8 @@ rep_list = [
     (T_PIEUP + u'라', '발'),       # 젭라 => 제발
 
     ## 불규칙 용언의 활용을 잘못 썼을 경우에 대한 대치어 만들기. 단순
-    ## 탈락이나 자모 1개 변경처럼 hunspell의 suggestion 규칙에서
-    ## 처리하지 못하는 경우만.
+    ## 탈락이나 자모 한두개 변경같은 경우 hunspell의 기본 대치어
+    ## 규칙에서 처리되므로 여기 쓰지 않고 처리할 수 없는 경우만 쓴다.
     # ㅂ불규칙
     (T_PIEUP + u'아', u'와'),
     (T_PIEUP + u'어', u'워'),
@@ -201,10 +201,14 @@ rep_list = [
     (V_EU + u'어', V_A),
 
     ## 활용
-    # ㄹ런지 => ㄹ는지
+    # '-ㄹ런지' => '-ㄹ는지'
     (T_RIEUL + u'런지', T_RIEUL + u'는지'),
-    # 스런 => 스러운 (잘못된 준말 사용)
+    # '-스런' => '-스러운' (잘못된 준말 사용)
     (u'스런', u'스러운'),
+    # '-고픈' => -고 싶은' (잘못된 준말 사용)
+    (u'고픈', u'고 싶은'),
+    # '-다더니' => -다 하더니' (잘못된 준말 사용)
+    (u'다더니', u'다 하더니'),
 
     ## 준말 용언 + 모음 어미 -> 본디말 용언에 해당 어미
     # 형태가 가지각색이므로 케이스별로: 갖다, 머물다, 서툴다, 딛다
@@ -230,9 +234,13 @@ rep_list = [
     (L_PHIEUPH, T_PHIEUPH + L_IEUNG),
     (T_SIOS + L_IEUNG, L_SIOS),
     (L_SIOS, T_SIOS + L_IEUNG),
-    (L_CIEUC, T_CIEUC + L_IEUNG),
     (T_CIEUC + L_IEUNG, L_CIEUC),
-     # ㅅㅎ -> ㅌ (통신어..)
+    (L_CIEUC, T_CIEUC + L_IEUNG),
+    (T_CHIEUCH + L_IEUNG, L_CHIEUCH),
+    (L_CHIEUCH, T_CHIEUCH + L_IEUNG),
+    (T_RIEUL_KIYEOK + L_IEUNG, T_RIEUL + L_KIYEOK),
+    (T_RIEUL + L_KIYEOK, T_RIEUL_KIYEOK + L_IEUNG),
+    # ㅅㅎ -> ㅌ (통신어..)
     (T_SIOS + L_HIEUH, L_THIEUTH),
 ]
 
