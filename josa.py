@@ -171,7 +171,7 @@ groups['!종성줄임'] = [
     JosaClass(
         rules = [(T_RIEUL, COND_V_ALL, ''),
                  (T_NIEUN, COND_V_ALL, '')],
-        after = ['#대명사'],
+        after = ['#명사', '#대명사'],
     ),
 ]
 
