@@ -226,6 +226,10 @@
 <pos>특수:수:10</pos>
 </Entry>
 <Entry>
+<word>일십</word>
+<pos>특수:수:10</pos>
+</Entry>
+<Entry>
 <word>이십</word>
 <pos>특수:수:10</pos>
 </Entry>
@@ -259,6 +263,10 @@
 </Entry>
 <Entry>
 <word>백</word>
+<pos>특수:수:100</pos>
+</Entry>
+<Entry>
+<word>일백</word>
 <pos>특수:수:100</pos>
 </Entry>
 <Entry>
@@ -298,8 +306,12 @@
 <pos>특수:수:1000</pos>
 </Entry>
 <Entry>
+<word>일천</word>
+<pos>특수:수:1000</pos>
+</Entry>
+<Entry>
 <word>이천</word>
-<pos>특수:수:100</pos>
+<pos>특수:수:1000</pos>
 </Entry>
 <Entry>
 <word>삼천</word>
