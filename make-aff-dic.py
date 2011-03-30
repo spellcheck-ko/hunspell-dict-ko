@@ -198,6 +198,7 @@ class Dictionary:
         af_str = self.get_AF()
         
         d = {'version': config.version,
+             'required_hunspell': '%d.%d.%d' % config.minimum_hunspell_version,
              'CONV': aff.CONV_DEFINES,
              'AF': af_str,
              'forbidden_flag': str(forbidden_flag),
