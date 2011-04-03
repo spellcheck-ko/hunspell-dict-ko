@@ -161,10 +161,10 @@ class Dictionary:
     def process(self):
         progress('복수형 확장')
         self.expand_plurals()
-        progress('보조용언 확장')
-        self.expand_auxiliary()
         progress('플래그 계산')
         self.attach_flags()
+        progress('보조용언 확장')
+        self.expand_auxiliary()
         #progress('속성 계산')
         #self.attach_morph()
 
@@ -286,6 +286,8 @@ class Dictionary:
                             new_word.pos = auxiliary.pos
                             new_word.stem = verb.word
                             new_word.props = new_props
+                            new_word.flags = auxiliary.flags
+                            new_word.flags_alias = auxiliary.flags_alias
                             new_words.append(new_word)
                 else:
                     for prefix in prefixes:
