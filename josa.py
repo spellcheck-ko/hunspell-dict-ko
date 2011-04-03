@@ -227,12 +227,14 @@ groups['*'] = [
          ('랑', COND_V_ALL, ''), ('이랑', COND_T_ALL, ''),
          ('로', COND_V_OR_RIEUL, ''), ('으로', COND_T_NOT_RIEUL, ''),
          ('로는', COND_V_OR_RIEUL, ''), ('으로는', COND_T_NOT_RIEUL, ''),
+         ('로의', COND_V_OR_RIEUL, ''), ('으로의', COND_T_NOT_RIEUL, ''),
          ('론', COND_V_OR_RIEUL, ''), ('으론', COND_T_NOT_RIEUL, ''),
          ('로도', COND_V_OR_RIEUL, ''), ('으로도', COND_T_NOT_RIEUL, ''),
          ('로서', COND_V_OR_RIEUL, ''), ('으로서', COND_T_NOT_RIEUL, ''),
          ('로서는', COND_V_OR_RIEUL, ''), ('으로서는', COND_T_NOT_RIEUL, ''),
-         ('로서도', COND_V_OR_RIEUL, ''), ('으로서도', COND_T_NOT_RIEUL, ''),
          ('로선', COND_V_OR_RIEUL, ''), ('으로선', COND_T_NOT_RIEUL, ''),
+         ('로서도', COND_V_OR_RIEUL, ''), ('으로서도', COND_T_NOT_RIEUL, ''),
+         ('로서의', COND_V_OR_RIEUL, ''), ('으로서의', COND_T_NOT_RIEUL, ''),
          ('로만', COND_V_OR_RIEUL, ''), ('으로만', COND_T_NOT_RIEUL, ''),
          ('로써', COND_V_OR_RIEUL, ''), ('으로써', COND_T_NOT_RIEUL, ''),
          ('로써는', COND_V_OR_RIEUL, ''), ('으로써는', COND_T_NOT_RIEUL, ''),
@@ -241,6 +243,8 @@ groups['*'] = [
          ('로부터', COND_V_OR_RIEUL, ''), ('으로부터', COND_T_NOT_RIEUL, ''),
          ('로부터는', COND_V_OR_RIEUL, ''), ('으로부터는', COND_T_NOT_RIEUL, ''),
          ('로부턴', COND_V_OR_RIEUL, ''), ('으로부턴', COND_T_NOT_RIEUL, ''),
+         ('로부터도', COND_V_OR_RIEUL, ''), ('으로부터도', COND_T_NOT_RIEUL, ''),
+         ('로부터의', COND_V_OR_RIEUL, ''), ('으로부터의', COND_T_NOT_RIEUL, ''),
          ('로부터도', COND_V_OR_RIEUL, ''), ('으로부터도', COND_T_NOT_RIEUL, ''),
          ('야말로', COND_V_ALL, ''), ('이야말로', COND_T_ALL, ''),
 
@@ -301,7 +305,8 @@ groups['*'] = [
          ('에게서도', COND_ALL, ''),
          ('에게서만', COND_ALL, ''),
          ('에는', COND_ALL, ''),         # 에+'는' 보조사
-         ('에야', COND_ALL, ''),         # 에+'d야' 보조사
+         ('에라도', COND_ALL, ''),       # 에+'라도' 보조사
+         ('에야', COND_ALL, ''),         # 에+'야' 보조사
          ('엔', COND_ALL, ''),           # '에는' 준말
          ('에나', COND_ALL, ''),         # 에+'나' 보조사
          ('에도', COND_ALL, ''),         # 에+'도' 보조사
