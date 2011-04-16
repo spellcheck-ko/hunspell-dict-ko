@@ -161,10 +161,16 @@ class Dictionary:
     def process(self):
         progress('복수형 확장')
         self.expand_plurals()
-        progress('플래그 계산')
-        self.attach_flags()
-        progress('보조용언 확장')
-        self.expand_auxiliary()
+        if config.expand_auxiliary_attached:
+            progress('플래그 계산')
+            self.attach_flags()
+            progress('보조용언 확장')
+            self.expand_auxiliary()
+        else:
+            progress('보조용언 확장')
+            self.expand_auxiliary()
+            progress('플래그 계산')
+            self.attach_flags()
         #progress('속성 계산')
         #self.attach_morph()
 
