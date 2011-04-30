@@ -200,7 +200,7 @@ rep_list = [
     (V_EU + u'어', V_EO),
     (V_EU + u'어', V_A),
 
-    ## 활용
+    ## 용언 활용
     # '-ㄹ런지' => '-ㄹ는지'
     (T_RIEUL + u'런지', T_RIEUL + u'는지'),
     # '-스런' => '-스러운' (잘못된 준말 사용)
@@ -242,6 +242,27 @@ rep_list = [
     (T_RIEUL + L_KIYEOK, T_RIEUL_KIYEOK + L_IEUNG),
     # ㅅㅎ -> ㅌ (통신어..)
     (T_SIOS + L_HIEUH, L_THIEUTH),
+
+    ## 접두어, 접미어, 합성어
+    # 사이시옷
+    (T_SIOS + L_KIYEOK, L_KHIEUKH), # 숫개 -> 수캐
+    (T_SIOS + L_TIKEUT, L_THIEUTH), # 숫돼지 -> 수퇘지
+
+    ## 두음법칙
+    # ㅇ을 써야 할 자리에 ㄹ을 쓰는 일은 많지 않고 반대가 많다.
+    (u'야', u'랴'),
+    (u'여', u'려'),
+    (u'요', u'료'),
+    (u'유', u'류'),
+    (u'이', u'리'),
+    (u'녀', u'여'),
+    (u'뇨', u'요'),
+    # ㄴ을 써야 할 자리에 ㄹ을 쓰는 일은 많지 않고 반대가 많다.
+    (u'나', u'라'),
+    (u'노', u'로'),
+    (u'뇌', u'뢰'),
+    (u'누', u'루'),
+    (u'느', u'르'),
 ]
 
 REP_DEFINES = 'REP %d\n' % len(rep_list)
