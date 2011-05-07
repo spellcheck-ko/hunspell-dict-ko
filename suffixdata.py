@@ -2070,3 +2070,40 @@ groups['-다기보다는'] = [
       'after': ['#이다', '#용언', '-으시-', '-었-', '-겠-'],
     },
 ]
+
+#### 연결: -ㄴ들, -은들
+groups['-은들'] = [
+    { 'rules': [[u'-%s들' % T_NIEUN, COND_V_ALL, ''],
+                [u'-%s들' % T_NIEUN, T_RIEUL, T_RIEUL],
+                [u'-은들', COND_T_NOT_RIEUL, '']],
+      'after': ['#이다', '#용언', '-으시-'],
+      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
+                  '#준말용언'],
+    },
+    # ㄷ불규칙
+    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-은들', ['#형용사']),
+    # ㅂ불규칙
+    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-운들', ['#형용사']),
+    # ㅅ불규칙
+    SIOS_IRREGULAR_TYPICAL_CLASS(u'-은들', ['#형용사']),
+    # ㅎ불규칙
+    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s들' % T_NIEUN, ['#형용사']),
+]
+
+#### 종결: -(으)리
+groups['-으리'] = [
+    { 'rules': [[u'-리', COND_V_OR_RIEUL, ''],
+                [u'-으리', COND_T_NOT_RIEUL, '']],
+      'after': ['#용언'],
+      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
+                  '#준말용언'],
+    },
+    # ㄷ불규칙
+    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으리', ['#용언']),
+    # ㅂ불규칙
+    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우리', ['#용언']),
+    # ㅅ불규칙
+    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으리', ['#용언']),
+    # ㅎ불규칙
+    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-리', ['#용언']),
+]
