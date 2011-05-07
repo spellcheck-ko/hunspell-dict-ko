@@ -100,6 +100,8 @@ class Word:
             '특수:수:100': [ number_100_flag ],
             '특수:수:1000': [ number_1000_flag ],
             '특수:수:10000': [ number_10000_flag ],
+            '특수:고유수:1': [ knumber_1_flag ],
+            '특수:고유수:10': [ knumber_10_flag ],
             '특수:금지어': [ forbidden_flag ],
             '내부:활용:-어': [ conjugation_eo_flag ],
             '내부:활용:-은': [ conjugation_eun_flag ],

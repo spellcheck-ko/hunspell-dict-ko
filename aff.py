@@ -289,6 +289,10 @@ if config.minimum_hunspell_version >= (1,2,14):
                                        number_10_flag,
                                        number_1_flag,
                                        number_10000_flag),
+        '(%d)?(%d)?(%d)?(%d)?' % (number_1000_flag,
+                                  number_100_flag,
+                                  knumber_10_flag,
+                                  knumber_1_flag),
         ]
 else:
     # NOTE: hunspell 1.2.8에서는 백자리 이상 쓰면 SEGV
@@ -296,6 +300,8 @@ else:
         '(%d)?(%d)?(%d)?' % (number_10_flag,
                              number_1_flag,
                              number_10000_flag),
+        '(%d)?(%d)?' % (knumber_10_flag,
+                        knumber_1_flag),
         ]
 
 # 보조용언 붙여 쓰기: 별도로 확장하지 않는 경우에만 필요

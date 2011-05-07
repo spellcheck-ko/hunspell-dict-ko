@@ -63,6 +63,8 @@ _flags = [
     'auxiliary_eul',
     # 한자어 숫자, 자리수별
     'number_1', 'number_10', 'number_100', 'number_1000', 'number_10000',
+    # 우리말 숫자, 자리수별
+    'knumber_1', 'knumber_10',
     # 용언 활용
     ('endings', 500),
     # 조사 모음
