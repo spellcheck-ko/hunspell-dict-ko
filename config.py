@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-version = '0.5.3'
+version = '0.5.4'
 
 # 필요한 최소 hunspell 버전.
 # - 코드에서는 if config.minimum_hunspell_version >= (1,2,14): 와 같이
