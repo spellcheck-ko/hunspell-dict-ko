@@ -1817,6 +1817,13 @@ groups['-다네'] = [
 ]
 attach_emphasis(groups['-다네'], ['요'])
 
+groups['-다네(형용사)'] = [
+    { 'rules': [[u'-다네', '', '']],
+      'after': ['#형용사'],
+    },
+]
+attach_emphasis(groups['-다네(형용사)'], ['요'])
+
 #### 연결: -라서
 groups['-라서'] = [
     { 'rules': [[u'-라서', '', '']],
