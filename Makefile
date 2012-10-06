@@ -17,7 +17,7 @@ VERSION = $(shell $(PYTHON) -c 'import config;print(config.version)')
 RELEASETAG = HEAD
 
 SRC_DISTNAME = hunspell-dict-ko-$(VERSION)
-SRC_DISTFILE = $(DISTDIR)/$(SRC_DISTNAME).tar.gz
+SRC_DISTFILE = $(DISTDIR)/$(SRC_DISTNAME).tar.xz
 BIN_DISTNAME = ko-aff-dic-$(VERSION)
 BIN_DISTFILE = $(DISTDIR)/$(BIN_DISTNAME).zip
 BIN_DISTCONTENT = LICENSE LICENSE.GPL LICENSE.LGPL LICENSE.MPL $(AFFIX) $(DICT)
@@ -35,7 +35,7 @@ clean:
 	rm -rf $(DISTDIR)
 
 dist:: distdir $(BIN_DISTCONTENT)
-	git archive --format=tar --prefix=$(SRC_DISTNAME)/ $(RELEASETAG) | gzip -9 -c > $(SRC_DISTFILE)
+	git archive --format=tar.xz --prefix=$(SRC_DISTNAME)/ -o $(SRC_DISTFILE) $(RELEASETAG) || (echo "** Do 'git config tar.tar.xz.command \"xz -c\"'"; false)
 	rm -f $(BIN_DISTFILE)
 	mkdir -p $(BIN_DISTNAME)
 	install -m644 $(BIN_DISTCONTENT) $(BIN_DISTNAME)/
