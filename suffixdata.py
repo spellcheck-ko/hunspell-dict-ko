@@ -60,11 +60,11 @@ V_NOT_A_EO_O = V_NOT(V_A + V_YA + V_EO + V_O + V_YO)
 
 # 조건
 
-COND_V_ALL = u'[%s]' % V_ALL
-COND_T_ALL = u'[%s]' % T_ALL
-COND_V_OR_RIEUL = u'[%s%s]' % (V_ALL, T_RIEUL)
-COND_T_NOT_RIEUL = u'[%s]' % T_NOT(T_RIEUL)
-COND_NOT_RIEUL = u'[^%s]' % T_RIEUL
+COND_V_ALL = '[%s]' % V_ALL
+COND_T_ALL = '[%s]' % T_ALL
+COND_V_OR_RIEUL = '[%s%s]' % (V_ALL, T_RIEUL)
+COND_T_NOT_RIEUL = '[%s]' % T_NOT(T_RIEUL)
+COND_NOT_RIEUL = '[^%s]' % T_RIEUL
 
 # 보조사 확장
 def attach_emphasis(group, particles):
@@ -105,7 +105,7 @@ COND_EOA_EO = V_EO
 # ㅏ로 끝나는 경우 ('하' 제외)
 COND_EOA_A = '[%s]%s' % (L_NOT(L_HIEUH), V_A)
 # 하로 끝나는 경우
-COND_EOA_HA = u'하'
+COND_EOA_HA = '하'
 # 외어 -> 왜 ('외다', '뇌다' 예외) - 한글 맞춤법 35항
 COND_EOA_OE = '[%s]%s' % (L_NOT(L_NIEUN + L_IEUNG), V_OE)
 
@@ -113,7 +113,7 @@ COND_EOA_OE = '[%s]%s' % (L_NOT(L_NIEUN + L_IEUNG), V_OE)
 
 # 종성의 ㄷ이 ㄹ로 바뀜
 def TIKEUT_IRREGULAR_TYPICAL_CLASS(suffix, after):
-    return { 'rules': [[u'-' + T_RIEUL + suffix[1:], T_TIKEUT, T_TIKEUT]],
+    return { 'rules': [['-' + T_RIEUL + suffix[1:], T_TIKEUT, T_TIKEUT]],
              'after': after,
              'cond': ['#ㄷ불규칙'] }
 
@@ -146,9 +146,9 @@ def HIEUH_IRREGULAR_TYPICAL_CLASS(suffix, after):
 #### 르불규칙활용 유틸리티
 
 # '르다' 앞에 ㅏ/ㅗ 모음의 음절
-COND_REU_AO = [ u'[%s]르' % V_A_O, u'[%s][%s]르' % (V_A_O, T_ALL) ]
+COND_REU_AO = [ '[%s]르' % V_A_O, '[%s][%s]르' % (V_A_O, T_ALL) ]
 # '르다' 앞에 ㅏ/ㅗ 모음이 아닌 음절
-COND_REU_NOT_AO = [ u'[%s]르' % V_NOT_A_O, u'[%s][%s]르' % (V_NOT_A_O, T_ALL) ]
+COND_REU_NOT_AO = [ '[%s]르' % V_NOT_A_O, '[%s][%s]르' % (V_NOT_A_O, T_ALL) ]
 
 #### 으불규칙활용 유틸리티
 
@@ -163,18 +163,18 @@ COND_REU_NOT_AO = [ u'[%s]르' % V_NOT_A_O, u'[%s][%s]르' % (V_NOT_A_O, T_ALL) 
 # '트다', '크다'는 항상 별도 규칙으로 만든다.
 
 # 앞에 ㅏ/ㅗ 모음의 음절
-COND_EU_AO = [ u'[%s][%s]%s' % (V_A_O, L_ALL, V_EU),
-               u'[%s][%s][%s]%s' % (V_A_O, T_ALL, L_ALL, V_EU) ]
+COND_EU_AO = [ '[%s][%s]%s' % (V_A_O, L_ALL, V_EU),
+               '[%s][%s][%s]%s' % (V_A_O, T_ALL, L_ALL, V_EU) ]
 # 앞에 ㅏ/ㅗ 모음이 아닌 음절
-COND_EU_NOT_AO = [ u'[%s][%s]%s' % (V_NOT_A_O, L_ALL, V_EU),
-                   u'[%s][%s][%s]%s' % (V_NOT_A_O, T_ALL, L_ALL, V_EU) ]
+COND_EU_NOT_AO = [ '[%s][%s]%s' % (V_NOT_A_O, L_ALL, V_EU),
+                   '[%s][%s][%s]%s' % (V_NOT_A_O, T_ALL, L_ALL, V_EU) ]
 
 #### 유성음/무성음 자모 구분
 
 T_VOICED = T_NIEUN + T_RIEUL + T_MIEUM + T_IEUNG
-T_UNVOICED = filter(lambda l: not l in T_VOICED, T_ALL)
-COND_VOICED = u'[%s]' % (V_ALL + T_VOICED)
-COND_UNVOICED = u'[%s]' % T_UNVOICED
+T_UNVOICED = ''.join(list(filter(lambda l: not l in T_VOICED, T_ALL)))
+COND_VOICED = '[%s]' % (V_ALL + T_VOICED)
+COND_UNVOICED = '[%s]' % T_UNVOICED
 
 ######################################################################
 #### 어미 데이터
@@ -194,41 +194,41 @@ groups = {}
 #### 높임 선어말
 
 groups['-으시-'] = [
-    { 'rules': [[u'-시-', COND_V_ALL, ''],
-                [u'-시-', T_RIEUL, T_RIEUL],
-                [u'-으시-', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-시-', COND_V_ALL, ''],
+                ['-시-', T_RIEUL, T_RIEUL],
+                ['-으시-', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다'],
       'notafter': ['계시다', '모시다'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으시-', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으시-', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우시-', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우시-', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으시-', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으시-', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-시-', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-시-', ['#용언']),
 ]
 
 #### 과거 시제 선어말
 
 groups['-었-'] = [
-    { 'rules': [[u'-었-', COND_EOA_NOT_AO, ''],
-                [u'-았-', COND_EOA_AO, ''],
-                [u'-' + V_EO + T_SSANGSIOS + u'-', COND_EOA_EO, V_EO],
-                [u'-' + V_A + T_SSANGSIOS + u'-', COND_EOA_A, V_A],
-                [u'-였-', u'하', ''],
+    { 'rules': [['-었-', COND_EOA_NOT_AO, ''],
+                ['-았-', COND_EOA_AO, ''],
+                ['-' + V_EO + T_SSANGSIOS + '-', COND_EOA_EO, V_EO],
+                ['-' + V_A + T_SSANGSIOS + '-', COND_EOA_A, V_A],
+                ['-였-', '하', ''],
                 # 준말
-                [u'-' + V_WA + T_SSANGSIOS + u'-', V_O, V_O], # 오았 -> 왔
-                [u'-' + V_WEO + T_SSANGSIOS + u'-', V_U, V_U], # 우었 -> 웠
-                [u'-' + V_WAE + T_SSANGSIOS + u'-', COND_EOA_OE, V_OE], # 외었 -> 왜ㅆ
-                [u'-' + V_WA + T_SSANGSIOS + u'-', u'놓', V_O + T_HIEUH], # 놓아 -> 놔
-                [u'-' + V_AE + T_SSANGSIOS + u'-', u'하', V_A], # 하였 -> 했
-                [u'-' + V_YEO + T_SSANGSIOS + u'-', V_I, V_I], # 이었 -> 였
-                [u'-' + T_SSANGSIOS + u'-', V_AE, ''], # 애었 -> 앴
-                [u'-' + T_SSANGSIOS + u'-', V_E, ''], # 에었 -> 엤
+                ['-' + V_WA + T_SSANGSIOS + '-', V_O, V_O], # 오았 -> 왔
+                ['-' + V_WEO + T_SSANGSIOS + '-', V_U, V_U], # 우었 -> 웠
+                ['-' + V_WAE + T_SSANGSIOS + '-', COND_EOA_OE, V_OE], # 외었 -> 왜ㅆ
+                ['-' + V_WA + T_SSANGSIOS + '-', '놓', V_O + T_HIEUH], # 놓아 -> 놔
+                ['-' + V_AE + T_SSANGSIOS + '-', '하', V_A], # 하였 -> 했
+                ['-' + V_YEO + T_SSANGSIOS + '-', V_I, V_I], # 이었 -> 였
+                ['-' + T_SSANGSIOS + '-', V_AE, ''], # 애었 -> 앴
+                ['-' + T_SSANGSIOS + '-', V_E, ''], # 에었 -> 엤
                 ],
       'after': ['#용언', '#이다', '-으시-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
@@ -236,33 +236,33 @@ groups['-었-'] = [
                   '#준말용언'],
     },
     # ㄷ불규칙
-    { 'rules': [[u'-%s었-' % T_RIEUL, '[%s]%s' % (V_NOT_A_O, T_TIKEUT), T_TIKEUT],
-                [u'-%s았-' % T_RIEUL, '[%s]%s' % (V_A_O, T_TIKEUT), T_TIKEUT]],
+    { 'rules': [['-%s었-' % T_RIEUL, '[%s]%s' % (V_NOT_A_O, T_TIKEUT), T_TIKEUT],
+                ['-%s았-' % T_RIEUL, '[%s]%s' % (V_A_O, T_TIKEUT), T_TIKEUT]],
       'after': ['#용언'],
       'cond': ['#ㄷ불규칙'],
     },
     # ㅂ불규칙
-    { 'rules': [[u'-웠-', T_PIEUP, T_PIEUP]],
+    { 'rules': [['-웠-', T_PIEUP, T_PIEUP]],
       'after': ['#용언'],
       'notafter': ['곱다', '곱디곱다', '돕다'],
       'cond': ['#ㅂ불규칙'],
     },
     # ㅂ불규칙 중 예외적으로 '-와'가 붙는 경우
-    { 'rules': [[u'-왔-', T_PIEUP, T_PIEUP]],
+    { 'rules': [['-왔-', T_PIEUP, T_PIEUP]],
       'after': ['곱다', '곱디곱다', '돕다'],
       'cond': ['#ㅂ불규칙'],
     },
     # ㅅ불규칙
-    { 'rules': [[u'-었-', u'[%s]%s' % (V_NOT_A_O, T_SIOS), T_SIOS],
-                [u'-았-', u'[%s]%s' % (V_A_O, T_SIOS), T_SIOS]],
+    { 'rules': [['-었-', '[%s]%s' % (V_NOT_A_O, T_SIOS), T_SIOS],
+                ['-았-', '[%s]%s' % (V_A_O, T_SIOS), T_SIOS]],
       'after': ['#용언'],
       'cond': ['#ㅅ불규칙'],
     },
     # ㅎ불규칙
-    { 'rules': [[u'-' + V_AE + T_SSANGSIOS + u'-', V_A + T_HIEUH, V_A + T_HIEUH],   # 파랗다
-                [u'-' + V_YAE + T_SSANGSIOS + u'-', V_YA + T_HIEUH, V_YA + T_HIEUH], # 하얗다
-                [u'-' + V_E + T_SSANGSIOS + u'-', V_EO + T_HIEUH, V_EO + T_HIEUH], # 누렇다
-                [u'-' + V_YE + T_SSANGSIOS + u'-', V_YEO + T_HIEUH, V_YEO + T_HIEUH], # 허옇다
+    { 'rules': [['-' + V_AE + T_SSANGSIOS + '-', V_A + T_HIEUH, V_A + T_HIEUH],   # 파랗다
+                ['-' + V_YAE + T_SSANGSIOS + '-', V_YA + T_HIEUH, V_YA + T_HIEUH], # 하얗다
+                ['-' + V_E + T_SSANGSIOS + '-', V_EO + T_HIEUH, V_EO + T_HIEUH], # 누렇다
+                ['-' + V_YE + T_SSANGSIOS + '-', V_YEO + T_HIEUH, V_YEO + T_HIEUH], # 허옇다
                ],
       'after': ['#용언'],
       'notafter': ['그렇다', '고렇다', '이렇다', '요렇다', '저렇다', '조렇다',
@@ -270,36 +270,36 @@ groups['-었-'] = [
       'cond': ['#ㅎ불규칙'],
     },
     # ㅎ불규칙 지시형용사
-    { 'rules': [[u'-' + V_AE + T_SSANGSIOS + u'-', V_EO + T_HIEUH, V_EO + T_HIEUH]],
+    { 'rules': [['-' + V_AE + T_SSANGSIOS + '-', V_EO + T_HIEUH, V_EO + T_HIEUH]],
       'after': ['그렇다', '고렇다', '이렇다', '요렇다', '저렇다', '조렇다',
                 '어떻다', '아무렇다'],
       'cond': ['#ㅎ불규칙'],
     },
     # 러불규칙
-    { 'rules': [[u'-렀-', '르', '']],
+    { 'rules': [['-렀-', '르', '']],
       'after': ['#용언'],
       'cond': ['#러불규칙'],
     },
     # 르불규칙
-    { 'rules': [[u'-%s렀-' % T_RIEUL, COND_REU_NOT_AO, u'르'],
-                [u'-%s랐-' % T_RIEUL, COND_REU_AO, u'르']],
+    { 'rules': [['-%s렀-' % T_RIEUL, COND_REU_NOT_AO, '르'],
+                ['-%s랐-' % T_RIEUL, COND_REU_AO, '르']],
       'after': ['#용언'],
       'cond': ['#르불규칙'],
     },
     # 우불규칙
-    { 'rules': [[u'-' + V_EO + T_SSANGSIOS + u'-', V_U, V_U]],
+    { 'rules': [['-' + V_EO + T_SSANGSIOS + '-', V_U, V_U]],
       'after': ['#용언'],
       'cond': ['#우불규칙'],
     },
     # 으불규칙
-    { 'rules': [[u'-' + V_A + T_SSANGSIOS + u'-', COND_EU_AO, V_EU],
-                [u'-' + V_EO + T_SSANGSIOS + u'-', COND_EU_NOT_AO, V_EU]],
+    { 'rules': [['-' + V_A + T_SSANGSIOS + '-', COND_EU_AO, V_EU],
+                ['-' + V_EO + T_SSANGSIOS + '-', COND_EU_NOT_AO, V_EU]],
       'after': ['#용언'],
       'notafter': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
       'cond': ['#으불규칙'],
     },
     # 으불규칙 예외 '끄다', '뜨다', '쓰다', '크다'
-    { 'rules': [[u'-' + V_EO + T_SSANGSIOS + u'-', V_EU, V_EU]],
+    { 'rules': [['-' + V_EO + T_SSANGSIOS + '-', V_EU, V_EU]],
       'after': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
       'cond': ['#으불규칙'],
     },
@@ -308,13 +308,13 @@ groups['-었-'] = [
 for klass in groups['-었-']:
     new_rules = []
     for r in klass['rules']:
-        new_rules.append([r[0][:-1] + u'었-'] + r[1:])
+        new_rules.append([r[0][:-1] + '었-'] + r[1:])
     klass['rules'] += new_rules
 
 #### 미래 시제 선어말
 
 groups['-겠-'] = [
-    { 'rules': [[u'-겠-', '', '']],
+    { 'rules': [['-겠-', '', '']],
       # '-어야-'는 '-어야겠-' 형태를 위해서 허용
       'after': ['#용언', '#이다', '-으시-', '-었-', '-어야-'],
     },
@@ -323,26 +323,26 @@ groups['-겠-'] = [
 #### 시제 선어말: -더-
 
 groups['-더-'] = [
-    { 'rules': [[u'-더-', '', '']],
+    { 'rules': [['-더-', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -어, -아
 groups['-어'] = [
-    { 'rules': [[u'-어', COND_EOA_NOT_AO, ''],
-                [u'-아', COND_EOA_AO, ''],
-                [u'-' + V_EO, COND_EOA_EO, V_EO],
-                [u'-' + V_A, COND_EOA_A, V_A],
-                [u'-여', u'하', ''],
-                [u'-' + V_WA, V_O, V_O], # 오아 -> 와
-                [u'-' + V_WEO, V_U, V_U], # 우어 -> 워
-                [u'-' + V_WAE, COND_EOA_OE, V_OE], # 외어 -> 왜
-                [u'-' + V_WA, u'놓', V_O + T_HIEUH], # 놓아 -> 놔
-                [u'-' + V_AE, u'하', V_A], # 하여 -> 해
-                [u'-' + V_YEO, V_I, V_I], # 이어 -> 여
-                [u'-' + V_AE, V_AE, V_AE], # 애어 -> 애
-                [u'-' + V_E, V_E, V_E], # 에어 -> 에
+    { 'rules': [['-어', COND_EOA_NOT_AO, ''],
+                ['-아', COND_EOA_AO, ''],
+                ['-' + V_EO, COND_EOA_EO, V_EO],
+                ['-' + V_A, COND_EOA_A, V_A],
+                ['-여', '하', ''],
+                ['-' + V_WA, V_O, V_O], # 오아 -> 와
+                ['-' + V_WEO, V_U, V_U], # 우어 -> 워
+                ['-' + V_WAE, COND_EOA_OE, V_OE], # 외어 -> 왜
+                ['-' + V_WA, '놓', V_O + T_HIEUH], # 놓아 -> 놔
+                ['-' + V_AE, '하', V_A], # 하여 -> 해
+                ['-' + V_YEO, V_I, V_I], # 이어 -> 여
+                ['-' + V_AE, V_AE, V_AE], # 애어 -> 애
+                ['-' + V_E, V_E, V_E], # 에어 -> 에
                 ],
       'after': ['#용언', '-었-', '-겠-', '-으시-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
@@ -350,33 +350,33 @@ groups['-어'] = [
                   '#준말용언'],
     },
     # ㄷ불규칙
-    { 'rules': [[u'-%s어' % T_RIEUL, '[%s]%s' % (V_NOT_A_O, T_TIKEUT), T_TIKEUT],
-                [u'-%s아' % T_RIEUL, '[%s]%s' % (V_A_O, T_TIKEUT), T_TIKEUT]],
+    { 'rules': [['-%s어' % T_RIEUL, '[%s]%s' % (V_NOT_A_O, T_TIKEUT), T_TIKEUT],
+                ['-%s아' % T_RIEUL, '[%s]%s' % (V_A_O, T_TIKEUT), T_TIKEUT]],
       'after': ['#용언'],
       'cond': ['#ㄷ불규칙'],
     },
     # ㅂ불규칙
-    { 'rules': [[u'-워', T_PIEUP, T_PIEUP]],
+    { 'rules': [['-워', T_PIEUP, T_PIEUP]],
       'after': ['#용언'],
       'notafter': ['곱다', '곱디곱다', '돕다'],
       'cond': ['#ㅂ불규칙'],
     },
     # ㅂ불규칙 중 예외적으로 '-와'가 붙는 경우
-    { 'rules': [[u'-와', T_PIEUP, T_PIEUP]],
+    { 'rules': [['-와', T_PIEUP, T_PIEUP]],
       'after': ['곱다', '곱디곱다', '돕다'],
       'cond': ['#ㅂ불규칙'],
     },
     # ㅅ불규칙
-    { 'rules': [[u'-어', '[%s]%s' % (V_NOT_A_O, T_SIOS), T_SIOS],
-                [u'-아', '[%s]%s' % (V_A_O, T_SIOS), T_SIOS]],
+    { 'rules': [['-어', '[%s]%s' % (V_NOT_A_O, T_SIOS), T_SIOS],
+                ['-아', '[%s]%s' % (V_A_O, T_SIOS), T_SIOS]],
       'after': ['#용언'],
       'cond': ['#ㅅ불규칙'],
     },
     # ㅎ불규칙
-    { 'rules': [[u'-' + V_AE, V_A + T_HIEUH, V_A + T_HIEUH],   # 파랗다
-                [u'-' + V_YAE, V_YA + T_HIEUH, V_YA + T_HIEUH], # 하얗다
-                [u'-' + V_E, V_EO + T_HIEUH, V_EO + T_HIEUH], # 누렇다
-                [u'-' + V_YE, V_YEO + T_HIEUH, V_YEO + T_HIEUH], # 허옇다
+    { 'rules': [['-' + V_AE, V_A + T_HIEUH, V_A + T_HIEUH],   # 파랗다
+                ['-' + V_YAE, V_YA + T_HIEUH, V_YA + T_HIEUH], # 하얗다
+                ['-' + V_E, V_EO + T_HIEUH, V_EO + T_HIEUH], # 누렇다
+                ['-' + V_YE, V_YEO + T_HIEUH, V_YEO + T_HIEUH], # 허옇다
                ],
       'after': ['#용언'],
       'notafter': ['그렇다', '고렇다', '이렇다', '요렇다', '저렇다', '조렇다',
@@ -384,36 +384,36 @@ groups['-어'] = [
       'cond': ['#ㅎ불규칙'],
     },
     # ㅎ불규칙 지시형용사
-    { 'rules': [[u'-' + V_AE, V_EO + T_HIEUH, V_EO + T_HIEUH]],
+    { 'rules': [['-' + V_AE, V_EO + T_HIEUH, V_EO + T_HIEUH]],
       'after': ['그렇다', '고렇다', '이렇다', '요렇다', '저렇다', '조렇다',
                 '어떻다', '아무렇다'],
       'cond': ['#ㅎ불규칙'],
     },
     # 러불규칙
-    { 'rules': [[u'-러', '르', '']],
+    { 'rules': [['-러', '르', '']],
       'after': ['#용언'],
       'cond': ['#러불규칙'],
     },
     # 르불규칙
-    { 'rules': [[u'-%s러' % T_RIEUL, COND_REU_NOT_AO, u'르'],
-                [u'-%s라' % T_RIEUL, COND_REU_AO, u'르']],
+    { 'rules': [['-%s러' % T_RIEUL, COND_REU_NOT_AO, '르'],
+                ['-%s라' % T_RIEUL, COND_REU_AO, '르']],
       'after': ['#용언'],
       'cond': ['#르불규칙'],
     },
     # 우불규칙
-    { 'rules': [[u'-' + V_EO, V_U, V_U]],
+    { 'rules': [['-' + V_EO, V_U, V_U]],
       'after': ['#용언'],
       'cond': ['#우불규칙'],
     },
     # 으불규칙
-    { 'rules': [[u'-' + V_A, COND_EU_AO, V_EU],
-                [u'-' + V_EO, COND_EU_NOT_AO, V_EU]],
+    { 'rules': [['-' + V_A, COND_EU_AO, V_EU],
+                ['-' + V_EO, COND_EU_NOT_AO, V_EU]],
       'after': ['#용언'],
       'notafter': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
       'cond': ['#으불규칙'],
     },
     # 으불규칙 예외 '끄다', '뜨다', '크다', '쓰다'
-    { 'rules': [[u'-' + V_EO, V_EU, V_EU]],
+    { 'rules': [['-' + V_EO, V_EU, V_EU]],
       'after': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
       'cond': ['#으불규칙'],
     },
@@ -449,11 +449,11 @@ for klass in groups['-어라']:
 # "-가다" 형태의 동사만 허용 학교 문법에서는 "-자다" 등 일부 동사에서도
 # 허용, 실생활에서는 거의 모든 동사와 결합하곤 한다.
 groups['-거라'] = [
-    { 'rules': [[u'-거라', '', '']],
+    { 'rules': [['-거라', '', '']],
       'after': ['#동사'],
       'cond': ['^.*가다$'],
     },
-    { 'rules': [[u'-너라', '', '']],
+    { 'rules': [['-너라', '', '']],
       'after': ['#동사'],
       'cond': ['^.*오다$'],
     },
@@ -508,8 +508,8 @@ attach_emphasis(groups['-어야지'], ['요'])
 for klass in groups['-어야지']:
     expanded = []
     for r in klass['rules']:
-        if r[0].endswith(u'지요'):
-            expanded.append([r[0][:-len(u'지요')] + u'죠'] + r[1:])
+        if r[0].endswith('지요'):
+            expanded.append([r[0][:-len('지요')] + '죠'] + r[1:])
     klass['rules'] += expanded
 
 #### 종결: -어요, -아요
@@ -521,29 +521,29 @@ for klass in groups['-어요']:
 groups['-어요'][0]['after'].append('#이다')
 groups['-어요'] += [
     # 이다/아니다의 경우 -에요 가능, 줄임 이예요 => 예요
-    { 'rules': [[u'-에요', V_I, ''],
-                [u'-%s요' % V_YE, V_I, V_I]],
+    { 'rules': [['-에요', V_I, ''],
+                ['-%s요' % V_YE, V_I, V_I]],
       'after': ['#이다', '아니다'],
     }
 ]
 
 #### 관형사형 전성: -ㄹ, -을
 groups['-을'] = [
-    { 'rules': [[u'-' + T_RIEUL, COND_V_ALL, ''],
-                [u'-' + T_RIEUL, T_RIEUL, T_RIEUL],
-                [u'-을', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-' + T_RIEUL, COND_V_ALL, ''],
+                ['-' + T_RIEUL, T_RIEUL, T_RIEUL],
+                ['-을', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-시오-', '-었-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-을', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-울', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-을', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-' + T_RIEUL, ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-' + T_RIEUL, ['#용언']),
 ]
 
 #### 종결: -ㄹ걸, -을걸
@@ -556,18 +556,18 @@ for klass in groups['-을걸']:
 #### 종결: -ㄹ게, -을게
 # 동사 전용
 groups['-을게'] = [
-    { 'rules': [[u'-%s게' % T_RIEUL, COND_V_ALL, ''],
-                [u'-%s게' % T_RIEUL, T_RIEUL, T_RIEUL],
-                [u'-을게', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s게' % T_RIEUL, COND_V_ALL, ''],
+                ['-%s게' % T_RIEUL, T_RIEUL, T_RIEUL],
+                ['-을게', COND_T_NOT_RIEUL, '']],
       'after': ['#동사'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을게', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-을게', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울게', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-울게', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을게', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-을게', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 attach_emphasis(groups['-을게'], ['요'])
@@ -620,25 +620,25 @@ for klass in groups['-을지언정']:
 #### 종결: -다
 
 groups['-다'] = [
-    { 'rules': [[u'-다', '', '']],
+    { 'rules': [['-다', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 관형사형 전성: -는
 groups['-는'] = [
-    { 'rules': [[u'-는', u'[^%s]' % T_RIEUL, ''],
-                [u'-는', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-는', '[^%s]' % T_RIEUL, ''],
+                ['-는', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '^.*%s다$' % (V_I + T_SSANGSIOS), '^.*없다$', '^.*계시다$', '-으시-', '-겠-'],
     },
 ]
 
 #### 연결: -게
 groups['-게'] = [
-    { 'rules': [[u'-게', '', ''],
+    { 'rules': [['-게', '', ''],
                 # ~하다 준말
-                [u'-케', COND_VOICED + u'하', u'하'], # 하게 -> 케
-                [u'-게', COND_UNVOICED + u'하', u'하'], # 하게 -> 게
+                ['-케', COND_VOICED + '하', '하'], # 하게 -> 케
+                ['-게', COND_UNVOICED + '하', '하'], # 하게 -> 게
                 ],
       'after': ['#용언', '-으시-'],
     },
@@ -647,56 +647,56 @@ attach_emphasis(groups['-게'], ['도'])
 
 #### 연결: -다가
 groups['-다가'] = [
-    { 'rules': [[u'-다가', '', '']],
+    { 'rules': [['-다가', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 관형사형 전성: -ㄴ, -은
 groups['-은'] = [
-    { 'rules': [[u'-' + T_NIEUN, COND_V_ALL, ''],
-                [u'-' + T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-은', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-' + T_NIEUN, COND_V_ALL, ''],
+                ['-' + T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-은', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-'],
       'notafter': ['^.*%s다$' % (V_I + T_SSANGSIOS), '^.*없다$'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-은', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-은', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-운', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-운', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-은', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-은', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-' + T_NIEUN, ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-' + T_NIEUN, ['#용언']),
 ]
 
 #### 연결: -지
 #### 종결: -지
 groups['-지'] = [
-    { 'rules': [[u'-지', '', ''],
+    { 'rules': [['-지', '', ''],
                 # ~하다 준말
-                [u'-치', COND_VOICED + u'하', u'하'], # 하지 -> 치
-                [u'-지', COND_UNVOICED +  u'하', u'하'], # 하지 -> 지
+                ['-치', COND_VOICED + '하', '하'], # 하지 -> 치
+                ['-지', COND_UNVOICED +  '하', '하'], # 하지 -> 지
                ],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 attach_emphasis(groups['-지'], ['는', T_NIEUN, '도', '요'])
 # 지요 -> 죠 준말
-groups['-지'][0]['rules'].append([u'-죠', '', ''])
+groups['-지'][0]['rules'].append(['-죠', '', ''])
 
 
 #### 연결: -지마는
 groups['-지마는'] = [
-    { 'rules': [[u'-지마는', '', ''],
-                [u'-지만', '', ''],
+    { 'rules': [['-지마는', '', ''],
+                ['-지만', '', ''],
                 # ~하다 준말
-                [u'-치만', COND_VOICED + u'하', u'하'],   # 하지만 -> 치만
-                [u'-지만', COND_UNVOICED + u'하', u'하'], # 하지만 -> 지만
-                [u'-치마는', COND_VOICED + u'하', u'하'], # 하지마는 -> 치마는
-                [u'-지마는', COND_UNVOICED + u'하', u'하'], # 하지마는 -> 치마는
+                ['-치만', COND_VOICED + '하', '하'],   # 하지만 -> 치만
+                ['-지만', COND_UNVOICED + '하', '하'], # 하지만 -> 지만
+                ['-치마는', COND_VOICED + '하', '하'], # 하지마는 -> 치마는
+                ['-지마는', COND_UNVOICED + '하', '하'], # 하지마는 -> 치마는
                 ],
       'after': ['#용언', '#이다', '-었-', '-겠-'],
     },
@@ -704,36 +704,36 @@ groups['-지마는'] = [
 
 #### 연결: -며, -으며
 groups['-으며'] = [
-    { 'rules': [[u'-며', COND_V_OR_RIEUL, ''],
-                [u'-으며', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-며', COND_V_OR_RIEUL, ''],
+                ['-으며', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으며', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으며', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우며', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우며', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으며', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으며', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-며', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-며', ['#용언']),
 ]
 
 #### 종결: -ㅂ니다, -습니다
 groups['-습니다'] = [
-    { 'rules': [[u'-%s니다' % T_PIEUP, COND_V_ALL, ''],
-                [u'-%s니다' % T_PIEUP, T_RIEUL, T_RIEUL],
-                [u'-습니다', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s니다' % T_PIEUP, COND_V_ALL, ''],
+                ['-%s니다' % T_PIEUP, T_RIEUL, T_RIEUL],
+                ['-습니다', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -ㅂ니까, -습니까
 groups['-습니까'] = [
-    { 'rules': [[u'-%s니까' % T_PIEUP, COND_V_ALL, ''],
-                [u'-%s니까' % T_PIEUP, T_RIEUL, T_RIEUL],
-                [u'-습니까', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s니까' % T_PIEUP, COND_V_ALL, ''],
+                ['-%s니까' % T_PIEUP, T_RIEUL, T_RIEUL],
+                ['-습니까', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -741,7 +741,7 @@ groups['-습니까'] = [
 #### 연결: -고
 #### 종결: -고
 groups['-고'] = [
-    { 'rules': [[u'-고', '', '']],
+    { 'rules': [['-고', '', '']],
       'after': ['#용언', '#이다', '-'],
       'notafter': ['-으리-', '-더-'],
     },
@@ -750,74 +750,74 @@ attach_emphasis(groups['-고'], ['요'])
 
 #### 연결: -고는
 groups['-고는'] = [
-    { 'rules': [[u'-고는', '', ''],
-                [u'-곤', '', '']],
+    { 'rules': [['-고는', '', ''],
+                ['-곤', '', '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 연결: -고도
 groups['-고도'] = [
-    { 'rules': [[u'-고도', '', '']],
+    { 'rules': [['-고도', '', '']],
       'after': ['#용언', '#이다', '-으시-'],
     },
 ]
 
 #### 연결: -고서
 groups['-고서'] = [
-    { 'rules': [[u'-고서', '', '']],
+    { 'rules': [['-고서', '', '']],
       'after': ['#용언', '#이다', '-으시-'],
     },
 ]
 
 #### 연결: -고자
 groups['-고자'] = [
-    { 'rules': [[u'-고자', '', '']],
+    { 'rules': [['-고자', '', '']],
       'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-'],
     },
 ]
 
 #### 종결: -세요, -으세요 (-시어요, -으시어요 축약)
 groups['-으세요'] = [
-    { 'rules': [[u'-세요', COND_V_ALL, ''],
-                [u'-세요', T_RIEUL, T_RIEUL],
-                [u'-으세요', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-세요', COND_V_ALL, ''],
+                ['-세요', T_RIEUL, T_RIEUL],
+                ['-으세요', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으세요', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으세요', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우세요', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우세요', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으세요', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으세요', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-세요', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-세요', ['#용언']),
 ]
 
 #### 연결: -거나
 groups['-거나'] = [
-    { 'rules': [[u'-거나', '', ''],
+    { 'rules': [['-거나', '', ''],
                 # 준말
-                [u'-건', '', '']],
+                ['-건', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-', '-으옵-'],
     },
 ]
 
 #### 연결: -려, -으려
 groups['-으려'] = [
-    { 'rules': [[u'-려', COND_V_OR_RIEUL, ''],
-                [u'-으려', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-려', COND_V_OR_RIEUL, ''],
+                ['-으려', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으려', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으려', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우려', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우려', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으려', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으려', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
@@ -851,10 +851,10 @@ for klass in groups['-으려면']:
 
 #### 연결: -도록
 groups['-도록'] = [
-    { 'rules': [[u'-도록', '', ''],
+    { 'rules': [['-도록', '', ''],
                 # ~하다 준말
-                [u'-토록', COND_VOICED + u'하', u'하'], # 하도록 -> 토록
-                [u'-도록', COND_UNVOICED + u'하', u'하'], # 하도록 -> 도록
+                ['-토록', COND_VOICED + '하', '하'], # 하도록 -> 토록
+                ['-도록', COND_UNVOICED + '하', '하'], # 하도록 -> 도록
                 ],
       'after': ['#동사', '-으시-',
                 '#형용사', # FIXME: 일부 형용사만 허용하지만 구분하기에는 너무 많다.
@@ -864,8 +864,8 @@ groups['-도록'] = [
 
 #### 연결: -는데
 groups['-는데'] = [
-    { 'rules': [[u'-는데', COND_NOT_RIEUL, ''],
-                [u'-는데', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-는데', COND_NOT_RIEUL, ''],
+                ['-는데', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'], 
     },
 ]
@@ -873,27 +873,27 @@ attach_emphasis(groups['-는데'], ['도', '요'])
 
 #### 연결: -나, -으나
 groups['-으나'] = [
-    { 'rules': [[u'-나', COND_V_ALL, ''],
-                [u'-나', T_RIEUL, T_RIEUL],
-                [u'-으나', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-나', COND_V_ALL, ''],
+                ['-나', T_RIEUL, T_RIEUL],
+                ['-으나', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-사오-', '-었-', '-겠-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으나', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으나', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우나', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우나', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으나', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으나', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-나', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-나', ['#용언']),
 ]
 
 #### 종결: -나 (동사, 물음)
 groups['-나'] = [
-    { 'rules': [[u'-나', COND_NOT_RIEUL, ''],
-                [u'-나', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-나', COND_NOT_RIEUL, ''],
+                ['-나', T_RIEUL, T_RIEUL]],
       'after': ['#용언', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -901,62 +901,62 @@ attach_emphasis(groups['-나'], ['요'])
 
 #### 연결: -다시피
 groups['-다시피'] = [
-    { 'rules': [[u'-다시피', '', '']],
+    { 'rules': [['-다시피', '', '']],
       'after': ['#동사', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -ㅂ시다, -읍시다
 groups['-읍시다'] = [
-    { 'rules': [[u'-%s시다' % T_PIEUP, COND_V_ALL, ''],
-                [u'-%s시다' % T_PIEUP, T_RIEUL, T_RIEUL],
-                [u'-읍시다', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s시다' % T_PIEUP, COND_V_ALL, ''],
+                ['-%s시다' % T_PIEUP, T_RIEUL, T_RIEUL],
+                ['-읍시다', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-읍시다', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-읍시다', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-웁시다', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-웁시다', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-읍시다', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-읍시다', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
 #### 연결: -자
 groups['-자'] = [
-    { 'rules': [[u'-자', '', '']],
+    { 'rules': [['-자', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-'], # TODO: 일부 형용사
     },
 ]
 
 #### 연결: -기에,-길래
 groups['-기에'] = [
-    { 'rules': [[u'-기에', '', ''],
-                [u'-길래', '', '']],
+    { 'rules': [['-기에', '', ''],
+                ['-길래', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-'], # TODO: 일부 형용사
     },
 ]
 
 #### 연결: -듯
 groups['-듯'] = [
-    { 'rules': [[u'-듯', '', ''],
-                [u'-듯이', '', '']],
+    { 'rules': [['-듯', '', ''],
+                ['-듯이', '', '']],
       'after': ['#용언', '#이다'],
     },
 ]
 
 #### 연결: -다면
 groups['-다면'] = [
-    { 'rules': [[u'-다면', '', '']],
+    { 'rules': [['-다면', '', '']],
       'after': ['#형용사', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -다면서
 groups['-다면서'] = [
-    { 'rules': [[u'-다면서', '', ''],
-                [u'-다며', '', '']],
+    { 'rules': [['-다면서', '', ''],
+                ['-다며', '', '']],
       'after': ['#형용사', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -964,7 +964,7 @@ attach_emphasis(groups['-다면서'], ['요'])
 
 #### 종결: -자고
 groups['-자고'] = [
-    { 'rules': [[u'-자고', '', '']],
+    { 'rules': [['-자고', '', '']],
       'after': ['#동사'],
     },
 ]
@@ -972,10 +972,10 @@ attach_emphasis(groups['-자고'], ['요'])
 
 #### 연결: -기로
 groups['-기로'] = [
-    { 'rules': [[u'-기로', '', ''],
+    { 'rules': [['-기로', '', ''],
                 # ~하다 준말
-                [u'-키로', COND_VOICED + u'하', u'하'], # 하기로 -> 키로
-                [u'-기로', COND_UNVOICED + u'하', u'하'], # 하기로 -> 기로
+                ['-키로', COND_VOICED + '하', '하'], # 하기로 -> 키로
+                ['-기로', COND_UNVOICED + '하', '하'], # 하기로 -> 기로
                 ],
       'after': ['#용언', '#이다', '-'],
       'notafter': ['-더-', '-으리-'],
@@ -984,197 +984,197 @@ groups['-기로'] = [
 
 #### 종결: -라, -으라
 groups['-으라'] = [
-    { 'rules': [[u'-라', COND_V_OR_RIEUL, ''],
-                [u'-으라', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-라', COND_V_OR_RIEUL, ''],
+                ['-으라', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으라', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으라', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우라', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우라', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으라', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으라', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
 #### 연결: -라고, -으라고
 groups['-으라고'] = [
-    { 'rules': [[u'-라고', COND_V_OR_RIEUL, ''],
-                [u'-으라고', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-라고', COND_V_OR_RIEUL, ''],
+                ['-으라고', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '#이다', '아니다', '-으시-', '-더-', '-으리-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으라고', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으라고', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우라고', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우라고', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으라고', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으라고', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 attach_emphasis(groups['-으라고'], ['요'])
 
 #### 연결: -라는, -으라는 (라고 하는)
 groups['-으라는'] = [
-    { 'rules': [[u'-라는', COND_V_OR_RIEUL, ''],
-                [u'-으라는', COND_T_NOT_RIEUL, ''],
-                [u'-란', COND_V_OR_RIEUL, ''],
-                [u'-으란', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-라는', COND_V_OR_RIEUL, ''],
+                ['-으라는', COND_T_NOT_RIEUL, ''],
+                ['-란', COND_V_OR_RIEUL, ''],
+                ['-으란', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '#이다', '아니다', '-으시-', '-더-', '-으리-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으라는', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으라는', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우라는', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우라는', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으라는', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으라는', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
 #### 연결: -라면, -으라면 (라고 하면)
 groups['-으라면'] = [
-    { 'rules': [[u'-라면', COND_V_OR_RIEUL, ''],
-                [u'-으라면', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-라면', COND_V_OR_RIEUL, ''],
+                ['-으라면', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '#이다', '아니다', '-으시-', '-더-', '-으리-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으라면', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으라면', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우라면', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우라면', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으라면', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으라면', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
 #### 연결: -으래도,-래도 (라고 해도)
 groups['-으래도'] = [
-    { 'rules': [[u'-래도', COND_V_OR_RIEUL, ''],
-                [u'-으래도', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-래도', COND_V_OR_RIEUL, ''],
+                ['-으래도', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '#이다', '아니다', '-으시-', '-더-', '-으리-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으래도', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으래도', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우래도', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우래도', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으래도', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으래도', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
 #### 연결 -ㄴ데, -은데
 groups['-은데'] = [
-    { 'rules': [[u'-%s데' % T_NIEUN, COND_V_OR_RIEUL, ''],
-                [u'-%s데' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-은데', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s데' % T_NIEUN, COND_V_OR_RIEUL, ''],
+                ['-%s데' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-은데', COND_T_NOT_RIEUL, '']],
       'after': ['#형용사', '#이다', '-으시-', '-사오-'],
       'notafter': ['^.*있다$', '^.*없다$'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-은데', ['#형용사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-은데', ['#형용사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-운데', ['#형용사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-운데', ['#형용사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-은데', ['#형용사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-은데', ['#형용사']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s데' % T_NIEUN, ['#형용사']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-%s데' % T_NIEUN, ['#형용사']),
 ]
 attach_emphasis(groups['-은데'], ['도', '요'])
 
 #### 명사형 전성: -기
 groups['-기'] = [
-    { 'rules': [[u'-기', '', ''],
+    { 'rules': [['-기', '', ''],
                 # ~하다 준말
-                [u'-키', COND_VOICED + u'하', u'하'], # 하기 -> 키
-                [u'-기', COND_UNVOICED + u'하', u'하'], # 하기 -> 기
+                ['-키', COND_VOICED + '하', '하'], # 하기 -> 키
+                ['-기', COND_UNVOICED + '하', '하'], # 하기 -> 기
                ],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 # 조사
 # FIXME: 일단 모든 조사 허용
-attach_continuation_flags(groups['-기'], [flags.josa_ida_flag] + range(flags.josas_flag_start, flags.josas_flag_end))
+attach_continuation_flags(groups['-기'], [flags.josa_ida_flag] + list(range(flags.josas_flag_start, flags.josas_flag_end)))
 
 #### 명사형 전성: -음
 groups['-음'] = [
-    { 'rules': [[u'-' + T_MIEUM, COND_V_ALL, ''],
-                [u'-' + T_RIEUL_MIEUM, T_RIEUL, T_RIEUL],
-                [u'-음', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-' + T_MIEUM, COND_V_ALL, ''],
+                ['-' + T_RIEUL_MIEUM, T_RIEUL, T_RIEUL],
+                ['-음', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-음', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-음', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-움', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-움', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-음', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-음', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-' + T_MIEUM, ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-' + T_MIEUM, ['#용언']),
 ]
 # 조사
 # FIXME: 일단 모든 조사 허용
-attach_continuation_flags(groups['-음'], [flags.josa_ida_flag] + range(flags.josas_flag_start, flags.josas_flag_end))
+attach_continuation_flags(groups['-음'], [flags.josa_ida_flag] + list(range(flags.josas_flag_start, flags.josas_flag_end)))
 
 #### 종결: -ㄴ다, -는다
 groups['-는다'] = [
-    { 'rules': [[u'-%s다' % T_NIEUN, COND_V_OR_RIEUL, ''],
-                [u'-%s다' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s다' % T_NIEUN, COND_V_OR_RIEUL, ''],
+                ['-%s다' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 연결: -ㄴ다고, -는다고
 groups['-는다고'] = [
-    { 'rules': [[u'-%s다고' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s다고' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다고', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s다고' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s다고' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다고', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 연결: -ㄴ다는, -는다는 (는다고 하는)
 groups['-는다는'] = [
-    { 'rules': [[u'-%s다는' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s다는' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다는', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s다는' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s다는' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다는', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 연결: -ㄴ단, -는단 (는다고 하는, 는다고 한)
 groups['-는단'] = [
-    { 'rules': [[u'-%s단' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s단' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는단', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s단' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s단' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는단', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 연결: -ㄴ다면, -는다면
 groups['-는다면'] = [
-    { 'rules': [[u'-%s다면' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s다면' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다면', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s다면' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s다면' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다면', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 종결: -ㄴ다면서, -는다면서
 groups['-는다면서'] = [
-    { 'rules': [[u'-%s다면서' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s다면서' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다면서', COND_T_NOT_RIEUL, ''],
-                [u'-%s다며' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s다며' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다며', COND_T_NOT_RIEUL, ''],
+    { 'rules': [['-%s다면서' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s다면서' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다면서', COND_T_NOT_RIEUL, ''],
+                ['-%s다며' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s다며' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다며', COND_T_NOT_RIEUL, ''],
                 ],
       'after': ['#동사', '-으시-'],
     },
@@ -1183,8 +1183,8 @@ attach_emphasis(groups['-는다면서'], ['요'])
 
 #### 종결: -는군
 groups['-는군'] = [
-    { 'rules': [[u'-는군', COND_NOT_RIEUL, ''],
-                [u'-는군', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-는군', COND_NOT_RIEUL, ''],
+                ['-는군', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '-으시-'],
     },
 ]
@@ -1192,16 +1192,16 @@ attach_emphasis(groups['-는군'], ['요'])
 
 #### 종결: -는구나
 groups['-는구나'] = [
-    { 'rules': [[u'-는구나', COND_NOT_RIEUL, ''],
-                [u'-는구나', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-는구나', COND_NOT_RIEUL, ''],
+                ['-는구나', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 연결, 종결: -는지
 groups['-는지'] = [
-    { 'rules': [[u'-는지', COND_NOT_RIEUL, ''],
-                [u'-는지', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-는지', COND_NOT_RIEUL, ''],
+                ['-는지', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -1209,20 +1209,20 @@ attach_emphasis(groups['-는지'], ['는', T_NIEUN, '도', '요'])
 
 #### 연결: -면, -으면
 groups['-으면'] = [
-    { 'rules': [[u'-면', COND_V_OR_RIEUL, ''],
-                [u'-으면', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-면', COND_V_OR_RIEUL, ''],
+                ['-으면', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으면', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으면', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우면', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우면', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으면', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으면', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-면', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-면', ['#용언']),
 ]
 
 #### 연결: -면서, -으면서
@@ -1237,14 +1237,14 @@ attach_emphasis(groups['-으면서'], ['도'])
 
 #### 연결: -자마자
 groups['-자마자'] = [
-    { 'rules': [[u'-자마자', '', '']],
+    { 'rules': [['-자마자', '', '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 관형사형 전성: -던
 groups['-던'] = [
-    { 'rules': [[u'-던', '', '']],
+    { 'rules': [['-던', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -1252,118 +1252,118 @@ groups['-던'] = [
 #### 연결: -ㄴ가, -은가
 #### 의문형 종결: -ㄴ가, -은가
 groups['-은가'] = [
-    { 'rules': [[u'-%s가' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s가' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-은가', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s가' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s가' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-은가', COND_T_NOT_RIEUL, '']],
       'after': ['#형용사', '#이다', '-으시-'],
       'notafter': ['^.*있다$', '^.*없다$'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-은가', ['#형용사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-은가', ['#형용사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-운가', ['#형용사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-운가', ['#형용사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-은가', ['#형용사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-은가', ['#형용사']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s가' % T_NIEUN, ['#형용사']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-%s가' % T_NIEUN, ['#형용사']),
 ]
 attach_emphasis(groups['-은가'], ['요'])
 
 #### 연결: -니까, -으니까
 groups['-으니까'] = [
-    { 'rules': [[u'-니까', COND_V_ALL, ''],
-                [u'-니까', T_RIEUL, T_RIEUL],
-                [u'-으니까', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-니까', COND_V_ALL, ''],
+                ['-니까', T_RIEUL, T_RIEUL],
+                ['-으니까', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-오-', '-더-', '-었-', '-겠-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으니까', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으니까', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우니까', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우니까', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으니까', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으니까', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-니까', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-니까', ['#용언']),
 ]
 attach_emphasis(groups['-으니까'], ['요'])
 
 #### 연결: -라면
 groups['-라면'] = [
-    { 'rules': [[u'-라면', '', '']],
+    { 'rules': [['-라면', '', '']],
       'after': ['#이다', '아니다', '-으시-', '-더-', '-으리-'],
     },
 ]
 
 #### 연결: -로구나
 groups['-로구나'] = [
-    { 'rules': [[u'-로구나', '', '']],
+    { 'rules': [['-로구나', '', '']],
       'after': ['#이다', '아니다', '-으시-'],
     },
 ]
 
 #### 연결: -ㄴ지, -은지
 groups['-은지'] = [
-    { 'rules': [[u'-%s지' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s지' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-은지', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s지' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s지' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-은지', COND_T_NOT_RIEUL, '']],
       'after': ['#이다', '#형용사', '-으시-'],
       'notafter': ['^.*있다$', '^.*없다$'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-은지', ['#형용사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-은지', ['#형용사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-운지', ['#형용사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-운지', ['#형용사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-은지', ['#형용사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-은지', ['#형용사']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s지' % T_NIEUN, ['#형용사']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-%s지' % T_NIEUN, ['#형용사']),
 ]
 attach_emphasis(groups['-은지'], ['는', T_NIEUN, '도', '요'])
 
 #### 종결: -십시오, -으십시오
 groups['-으십시오'] = [
-    { 'rules': [[u'-십시오', COND_V_ALL, ''],
-                [u'-십시오', T_RIEUL, T_RIEUL],
-                [u'-으십시오', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-십시오', COND_V_ALL, ''],
+                ['-십시오', T_RIEUL, T_RIEUL],
+                ['-으십시오', COND_T_NOT_RIEUL, '']],
       'after': ['#동사'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으십시오', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으십시오', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우십시오', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우십시오', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으십시오', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으십시오', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
 #### 연결: -므로, -으므로
 groups['-으므로'] = [
-    { 'rules': [[u'-므로', COND_V_OR_RIEUL, ''],
-                [u'-으므로', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-므로', COND_V_OR_RIEUL, ''],
+                ['-으므로', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으므로', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으므로', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우므로', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우므로', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으므로', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으므로', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-므로', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-므로', ['#용언']),
 ]
 
 #### 연결: -다고
 groups['-다고'] = [
-    { 'rules': [[u'-다고', '', '']],
+    { 'rules': [['-다고', '', '']],
       'after': ['#형용사', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -1371,60 +1371,60 @@ attach_emphasis(groups['-다고'], ['요'])
 
 #### 연결: -다는 (다고 하는)
 groups['-다는'] = [
-    { 'rules': [[u'-다는', '', ''],
-                [u'-단', '', '']],
+    { 'rules': [['-다는', '', ''],
+                ['-단', '', '']],
       'after': ['#용언', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -대 (다고 해)
 groups['-대'] = [
-    { 'rules': [[u'-대', '', '']],
+    { 'rules': [['-대', '', '']],
       'after': ['#용언', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -대도 (다고 하여도)
 groups['-대도'] = [
-    { 'rules': [[u'-대도', '', '']],
+    { 'rules': [['-대도', '', '']],
       'after': ['#형용사', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -대서 (다고 하여서)
 groups['-대서'] = [
-    { 'rules': [[u'-대서', '', '']],
+    { 'rules': [['-대서', '', '']],
       'after': ['#형용사', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -더라도
 groups['-더라도'] = [
-    { 'rules': [[u'-더라도', '', '']],
+    { 'rules': [['-더라도', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -러, -으러
 groups['-으러'] = [
-    { 'rules': [[u'-러', COND_V_OR_RIEUL, ''],
-                [u'-으러', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-러', COND_V_OR_RIEUL, ''],
+                ['-으러', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으러', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으러', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우러', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우러', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으러', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으러', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 
 #### 종결: -네
 groups['-네'] = [
-    { 'rules': [[u'-네', COND_NOT_RIEUL, ''],
-                [u'-네', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-네', COND_NOT_RIEUL, ''],
+                ['-네', T_RIEUL, T_RIEUL]],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -1433,41 +1433,41 @@ attach_emphasis(groups['-네'], ['요'])
 #### 종결: -니, -으니
 #### 연결: -니, -으니
 groups['-으니'] = [
-    { 'rules': [[u'-니', COND_V_ALL, ''],
-                [u'-니', T_RIEUL, T_RIEUL],
-                [u'-으니', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-니', COND_V_ALL, ''],
+                ['-니', T_RIEUL, T_RIEUL],
+                ['-으니', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-', '-오-', '-더-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으니', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으니', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우니', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우니', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으니', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으니', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-니', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-니', ['#용언']),
 ]
 
 #### 의문형 종결: -니 (위와 구별된다)
 groups['-니?'] = [
-    { 'rules': [[u'-니', COND_NOT_RIEUL, ''],
-                [u'-니', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-니', COND_NOT_RIEUL, ''],
+                ['-니', T_RIEUL, T_RIEUL]],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 # #### 의문형 종결: -으니 (구어체)
 # groups['-으니?'] = [
-#     { 'rules': [[u'-으니', COND_T_NOT_RIEUL, '']],
+#     { 'rules': [['-으니', COND_T_NOT_RIEUL, '']],
 #       'after': ['#형용사'],
 #     },
 # ]
 
 #### 종결: -군
 groups['-군'] = [
-    { 'rules': [[u'-군', '', '']],
+    { 'rules': [['-군', '', '']],
       'after': ['#형용사', '#이다', '-으시-', '-었-', '-겠-', '-더-'],
     },
 ]
@@ -1475,16 +1475,16 @@ attach_emphasis(groups['-군'], ['요'])
 
 #### 종결: -구나
 groups['-구나'] = [
-    { 'rules': [[u'-구나', '', '']],
+    { 'rules': [['-구나', '', '']],
       'after': ['#형용사', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -으냐 (형용사)
 groups['-으냐'] = [
-    { 'rules': [[u'-냐', COND_V_ALL, ''],
-                [u'-냐', T_RIEUL, T_RIEUL],
-                [u'-으냐', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-냐', COND_V_ALL, ''],
+                ['-냐', T_RIEUL, T_RIEUL],
+                ['-으냐', COND_T_NOT_RIEUL, '']],
       'after': ['#형용사', '#이다'],
       'notafter': ['^.*있다$', '^.*없다$'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
@@ -1494,17 +1494,17 @@ groups['-으냐'] = [
     # 경우에는 받침이 있음에도 "-었으냐", "-겠느냐"가 아니라 "-었냐",
     # "-겠냐" 형태가 되므로, 선어말 어미 결합하는 부분은 별도로 구분해
     # 모든 음절과 결합을 허용한다.
-    { 'rules': [[u'-냐', '', '']],
+    { 'rules': [['-냐', '', '']],
       'after': ['-으시-', '-었-', '-겠-'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으냐', ['#형용사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으냐', ['#형용사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우냐', ['#형용사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우냐', ['#형용사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으냐', ['#형용사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으냐', ['#형용사']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-냐', ['#형용사']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-냐', ['#형용사']),
 ]
 
 #### 종결: -으냐고 (형용사)
@@ -1574,8 +1574,8 @@ for klass in groups['-으냐면서']:
 
 #### 종결: -느냐 (동사)
 groups['-느냐'] = [
-    { 'rules': [[u'-느냐', COND_NOT_RIEUL, ''],
-                [u'-느냐', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-느냐', COND_NOT_RIEUL, ''],
+                ['-느냐', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -1648,8 +1648,8 @@ for klass in groups['-느냐면서']:
 #### 연결: -느니
 #### 종결: -느니
 groups['-느니'] = [
-    { 'rules': [[u'-느니', COND_NOT_RIEUL, ''],
-                [u'-느니', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-느니', COND_NOT_RIEUL, ''],
+                ['-느니', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -1657,41 +1657,41 @@ attach_emphasis(groups['-느니'], ['만'])
 
 #### 연결: -되
 groups['-되'] = [
-    { 'rules': [[u'-되', '', '']],
+    { 'rules': [['-되', '', '']],
       'after': ['#용언', '#이다', '-으시-'],
     },
 ]
 
 #### 종결: -소
 groups['-소'] = [
-    { 'rules': [[u'-소', COND_NOT_RIEUL, ''],
-                [u'-소', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-소', COND_NOT_RIEUL, ''],
+                ['-소', T_RIEUL, T_RIEUL]],
       'after': ['#용언', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -오
 groups['-으오'] = [
-    { 'rules': [[u'-오', COND_V_ALL, ''],
-                [u'-오', T_RIEUL, T_RIEUL],
-                [u'-으오', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-오', COND_V_ALL, ''],
+                ['-오', T_RIEUL, T_RIEUL],
+                ['-으오', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으오', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으오', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우오', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우오', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으오', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으오', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-오', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-오', ['#용언']),
 ]
 
 #### 종결: -잖아 (~지 않아)
 groups['-잖아'] = [
-    { 'rules': [[u'-잖아', '', '']],
+    { 'rules': [['-잖아', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -1699,32 +1699,32 @@ attach_emphasis(groups['-잖아'], ['요'])
 
 #### 종결: -든지 (혹은 줄임 형태 -든)
 groups['-든지'] = [
-    { 'rules': [[u'-든지', '', ''],
-                [u'-든', '', '']],
+    { 'rules': [['-든지', '', ''],
+                ['-든', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -라
 groups['-라'] = [
-    { 'rules': [[u'-라', '', '']],
+    { 'rules': [['-라', '', '']],
       'after': ['#이다', '아니다', '-으시-', '-더-', '-으리-'],
     },
 ]
 
 #### 종결: -라니, -으라니
 groups['-으라니'] = [
-    { 'rules': [[u'-라니', COND_V_OR_RIEUL, ''],
-                [u'-으라니', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-라니', COND_V_OR_RIEUL, ''],
+                ['-으라니', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '#이다', '아니다', '-으시-', '-더-', '-으리-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으라니', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으라니', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우라니', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우라니', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으라니', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으라니', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 attach_emphasis(groups['-으라니'], ['요'])
@@ -1732,7 +1732,7 @@ attach_emphasis(groups['-으라니'], ['요'])
 #### 연결: -거든
 #### 종결: -거든
 groups['-거든'] = [
-    { 'rules': [[u'-거든', '', '']],
+    { 'rules': [['-거든', '', '']],
       'after': ['#용언', '#이다', '아니다', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -1740,85 +1740,85 @@ attach_emphasis(groups['-거든'], ['요'])
 
 #### 연결: -자면 (-자고 하면)
 groups['-자면'] = [
-    { 'rules': [[u'-자면', '', '']],
+    { 'rules': [['-자면', '', '']],
       'after': ['#동사'],
     },
 ]
 
 #### 종결: -으리라, -리라
 groups['-으리라'] = [
-    { 'rules': [[u'-리라', COND_V_OR_RIEUL, ''],
-                [u'-으리라', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-리라', COND_V_OR_RIEUL, ''],
+                ['-으리라', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '-으시', '-었-', '-겠-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으리라', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으리라', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우리라', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우리라', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으리라', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으리라', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-리라', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-리라', ['#용언']),
 ]
 
 #### 종결: -으려니, -려니
 groups['-으려니'] = [
-    { 'rules': [[u'-려니', COND_V_OR_RIEUL, ''],
-                [u'-으려니', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-려니', COND_V_OR_RIEUL, ''],
+                ['-으려니', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으려니', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으려니', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우려니', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우려니', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으려니', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으려니', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-려니', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-려니', ['#용언']),
 ]
 
 #### 종결: -는가
 groups['-는가'] = [
-    { 'rules': [[u'-는가', COND_NOT_RIEUL, ''],
-                [u'-는가', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-는가', COND_NOT_RIEUL, ''],
+                ['-는가', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -(으)라네
 groups['-으라네'] = [
-    { 'rules': [[u'-라네', COND_V_ALL, ''],
-                [u'-라네', T_RIEUL, T_RIEUL],
-                [u'-으라네', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-라네', COND_V_ALL, ''],
+                ['-라네', T_RIEUL, T_RIEUL],
+                ['-으라네', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '#이다', '아니다', '-으시-', '-더-', '-으리-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으라네', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으라네', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우라네', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우라네', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으라네', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으라네', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 attach_emphasis(groups['-으라네'], ['요'])
 
 #### 종결: -(는)다네
 groups['-다네'] = [
-    { 'rules': [[u'-%s다네' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s다네' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다네', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s다네' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s다네' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다네', COND_T_NOT_RIEUL, '']],
       'after': ['#동사'],
     },
 ]
 attach_emphasis(groups['-다네'], ['요'])
 
 groups['-다네(형용사)'] = [
-    { 'rules': [[u'-다네', '', '']],
+    { 'rules': [['-다네', '', '']],
       'after': ['#형용사'],
     },
 ]
@@ -1826,156 +1826,156 @@ attach_emphasis(groups['-다네(형용사)'], ['요'])
 
 #### 연결: -라서
 groups['-라서'] = [
-    { 'rules': [[u'-라서', '', '']],
+    { 'rules': [['-라서', '', '']],
       'after': ['#이다', '아니다', '-으시-', '-더-', '-으리-'],
     },
 ]
 
 #### 연결: -ㄹ는지, -을는지
 groups['-을는지'] = [
-    { 'rules': [[u'-%s는지' % T_RIEUL, COND_V_ALL, ''],
-                [u'-%s는지' % T_RIEUL, T_RIEUL, T_RIEUL],
-                [u'-을는지', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s는지' % T_RIEUL, COND_V_ALL, ''],
+                ['-%s는지' % T_RIEUL, T_RIEUL, T_RIEUL],
+                ['-을는지', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을는지', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-을는지', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울는지', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-울는지', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을는지', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-을는지', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s는지' % T_RIEUL, ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-%s는지' % T_RIEUL, ['#용언']),
 ]
 attach_emphasis(groups['-을는지'], ['는', T_NIEUN, '도'])
 
 #### 종결: -ㄴ다니, -는다니
 groups['-는다니'] = [
-    { 'rules': [[u'-%s다니' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s다니' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다니', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s다니' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s다니' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다니', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 종결: -다니
 groups['-다니'] = [
-    { 'rules': [[u'-다니', '', '']],
+    { 'rules': [['-다니', '', '']],
       'after': ['#용언', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -자는 (-자고 하는)
 groups['-자는'] = [
-    { 'rules': [[u'-자는', '', '']],
+    { 'rules': [['-자는', '', '']],
       'after': ['#동사'],
     },
 ]
 
 #### 연결: -던데
 groups['-던데'] = [
-    { 'rules': [[u'-던데', '', '']],
+    { 'rules': [['-던데', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -느라고, -느라
 groups['-느라고'] = [
-    { 'rules': [[u'-느라고', COND_NOT_RIEUL, ''],
-                [u'-느라고', T_RIEUL, T_RIEUL],
-                [u'-느라', COND_NOT_RIEUL, ''],
-                [u'-느라', T_RIEUL, T_RIEUL]],
+    { 'rules': [['-느라고', COND_NOT_RIEUL, ''],
+                ['-느라고', T_RIEUL, T_RIEUL],
+                ['-느라', COND_NOT_RIEUL, ''],
+                ['-느라', T_RIEUL, T_RIEUL]],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 종결: -ㄹ래, -을래
 groups['-을래'] = [
-    { 'rules': [[u'-%s래' % T_RIEUL, COND_V_ALL, ''],
-                [u'-%s래' % T_RIEUL, T_RIEUL, T_RIEUL],
-                [u'-을래', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s래' % T_RIEUL, COND_V_ALL, ''],
+                ['-%s래' % T_RIEUL, T_RIEUL, T_RIEUL],
+                ['-을래', COND_T_NOT_RIEUL, '']],
       'after': ['#동사'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을래', ['#동사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-을래', ['#동사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울래', ['#동사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-울래', ['#동사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을래', ['#동사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-을래', ['#동사']),
     # 동사이므로 ㅎ불규칙 해당 없음
 ]
 attach_emphasis(groups['-을래'], ['요'])
 
 #### 종결: -답니다
 groups['-답니다'] = [
-    { 'rules': [[u'-답니다', '', '']],
+    { 'rules': [['-답니다', '', '']],
       'after': ['#형용사', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -는답니다
 groups['-는답니다'] = [
-    { 'rules': [[u'-%s답니다' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s답니다' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는답니다', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s답니다' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s답니다' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는답니다', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 종결: -ㄹ세, -을세
 groups['-을세'] = [
-    { 'rules': [[u'-%s세' % T_RIEUL, COND_V_ALL, ''],
-                [u'-%s세' % T_RIEUL, T_RIEUL, T_RIEUL],
-                [u'-을세', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s세' % T_RIEUL, COND_V_ALL, ''],
+                ['-%s세' % T_RIEUL, T_RIEUL, T_RIEUL],
+                ['-을세', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을세', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-을세', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울세', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-울세', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을세', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-을세', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s세' % T_RIEUL, ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-%s세' % T_RIEUL, ['#용언']),
 ]
 
 #### 연결: -요
 groups['-요'] = [
-    { 'rules': [[u'-요', '', '']],
+    { 'rules': [['-요', '', '']],
       'after': ['#이다', '아니다'],
     },
 ]
 
 #### 종결: -ㄹ라, -을라
 groups['-을라'] = [
-    { 'rules': [[u'-%s라' % T_RIEUL, COND_V_ALL, ''],
-                [u'-%s라' % T_RIEUL, T_RIEUL, T_RIEUL],
-                [u'-을라', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s라' % T_RIEUL, COND_V_ALL, ''],
+                ['-%s라' % T_RIEUL, T_RIEUL, T_RIEUL],
+                ['-을라', COND_T_NOT_RIEUL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-을라', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-을라', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-울라', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-울라', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-을라', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-을라', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s라' % T_RIEUL, ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-%s라' % T_RIEUL, ['#용언']),
 ]
 
 #### 연결: -건대
 groups['-건대'] = [
-    { 'rules': [[u'-건대', '', ''],
+    { 'rules': [['-건대', '', ''],
                 # ~하다 준말
-                [u'-컨대', COND_VOICED + u'하', u'하'], # 하건대 -> 컨대
-                [u'-건대', COND_UNVOICED + u'하', u'하'], # 하건대 -> 건대
+                ['-컨대', COND_VOICED + '하', '하'], # 하건대 -> 컨대
+                ['-건대', COND_UNVOICED + '하', '하'], # 하건대 -> 건대
                 ],
       'after': ['#동사'],
     },
@@ -1983,25 +1983,25 @@ groups['-건대'] = [
 
 #### 종결: -ㄴ대, -는대
 groups['-는대'] = [
-    { 'rules': [[u'-%s대' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s대' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는대', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s대' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s대' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는대', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
 
 #### 종결: -데
 groups['-데'] = [
-    { 'rules': [[u'-데', COND_V_ALL, '']],
+    { 'rules': [['-데', COND_V_ALL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 종결: -마, -으마
 groups['-으마'] = [
-    { 'rules': [[u'-마', COND_V_ALL, ''],
-                [u'-마', T_RIEUL, T_RIEUL],
-                [u'-으마', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-마', COND_V_ALL, ''],
+                ['-마', T_RIEUL, T_RIEUL],
+                ['-으마', COND_T_NOT_RIEUL, '']],
       'after': ['#동사'],
       'notcond': ['#준말용언'],
     },
@@ -2009,7 +2009,7 @@ groups['-으마'] = [
 
 #### 연결: -던지
 groups['-던지'] = [
-    { 'rules': [[u'-던지', COND_V_ALL, '']],
+    { 'rules': [['-던지', COND_V_ALL, '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -2017,7 +2017,7 @@ groups['-던지'] = [
 #### 종결: -더구나
 
 groups['-더구나'] = [
-    { 'rules': [[u'-더구나', '', '']],
+    { 'rules': [['-더구나', '', '']],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -2025,13 +2025,13 @@ groups['-더구나'] = [
 #### 종결: -라면서,-으라면서
 
 groups['-라면서'] = [
-    { 'rules': [[u'-라면서', COND_V_ALL, ''],
-                [u'-라면서', T_RIEUL, T_RIEUL],
-                [u'-으라면서', COND_T_NOT_RIEUL, ''],
+    { 'rules': [['-라면서', COND_V_ALL, ''],
+                ['-라면서', T_RIEUL, T_RIEUL],
+                ['-으라면서', COND_T_NOT_RIEUL, ''],
                 # 준말
-                [u'-라며', COND_V_ALL, ''],
-                [u'-라며', T_RIEUL, T_RIEUL],
-                [u'-으라며', COND_T_NOT_RIEUL, '']],
+                ['-라며', COND_V_ALL, ''],
+                ['-라며', T_RIEUL, T_RIEUL],
+                ['-으라며', COND_T_NOT_RIEUL, '']],
       'after': ['#이다', '아니다', '#동사', '-으시-', '-었-', '-더-', '-으리-'],
       'notcond': ['#준말용언'],
     },
@@ -2040,7 +2040,7 @@ groups['-라면서'] = [
 #### 종결: -던가
 
 groups['-던가'] = [
-    { 'rules': [[u'-던가', '', '']],
+    { 'rules': [['-던가', '', '']],
       'after': ['#용언'],
     },
 ]
@@ -2048,7 +2048,7 @@ groups['-던가'] = [
 #### 연결: -다느니
 
 groups['-다느니'] = [
-    { 'rules': [[u'-다느니', '', '']],
+    { 'rules': [['-다느니', '', '']],
       'after': ['#형용사', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -2056,9 +2056,9 @@ groups['-다느니'] = [
 #### 연결: -는다느니,-ㄴ다느니
 
 groups['-는다느니'] = [
-    { 'rules': [[u'-%s다느니' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s다느니' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-는다느니', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s다느니' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s다느니' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-는다느니', COND_T_NOT_RIEUL, '']],
       'after': ['#동사', '-으시-'],
     },
 ]
@@ -2066,7 +2066,7 @@ groups['-는다느니'] = [
 #### 연결: -다가는
 
 groups['-다가는'] = [
-    { 'rules': [[u'-다가는', '', '']],
+    { 'rules': [['-다가는', '', '']],
       'after': ['#이다', '#용언', '-으시-', '-었-', '-겠-'],
     },
 ]
@@ -2074,44 +2074,44 @@ groups['-다가는'] = [
 #### 연결: -다기보다는 (-다고 하기보다는)
 
 groups['-다기보다는'] = [
-    { 'rules': [[u'-다기보다는', '', '']],
+    { 'rules': [['-다기보다는', '', '']],
       'after': ['#이다', '#용언', '-으시-', '-었-', '-겠-'],
     },
 ]
 
 #### 연결: -ㄴ들, -은들
 groups['-은들'] = [
-    { 'rules': [[u'-%s들' % T_NIEUN, COND_V_ALL, ''],
-                [u'-%s들' % T_NIEUN, T_RIEUL, T_RIEUL],
-                [u'-은들', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-%s들' % T_NIEUN, COND_V_ALL, ''],
+                ['-%s들' % T_NIEUN, T_RIEUL, T_RIEUL],
+                ['-은들', COND_T_NOT_RIEUL, '']],
       'after': ['#이다', '#용언', '-으시-'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-은들', ['#형용사']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-은들', ['#형용사']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-운들', ['#형용사']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-운들', ['#형용사']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-은들', ['#형용사']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-은들', ['#형용사']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-%s들' % T_NIEUN, ['#형용사']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-%s들' % T_NIEUN, ['#형용사']),
 ]
 
 #### 종결: -(으)리
 groups['-으리'] = [
-    { 'rules': [[u'-리', COND_V_OR_RIEUL, ''],
-                [u'-으리', COND_T_NOT_RIEUL, '']],
+    { 'rules': [['-리', COND_V_OR_RIEUL, ''],
+                ['-으리', COND_T_NOT_RIEUL, '']],
       'after': ['#용언'],
       'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
                   '#준말용언'],
     },
     # ㄷ불규칙
-    TIKEUT_IRREGULAR_TYPICAL_CLASS(u'-으리', ['#용언']),
+    TIKEUT_IRREGULAR_TYPICAL_CLASS('-으리', ['#용언']),
     # ㅂ불규칙
-    PIEUP_IRREGULAR_TYPICAL_CLASS(u'-우리', ['#용언']),
+    PIEUP_IRREGULAR_TYPICAL_CLASS('-우리', ['#용언']),
     # ㅅ불규칙
-    SIOS_IRREGULAR_TYPICAL_CLASS(u'-으리', ['#용언']),
+    SIOS_IRREGULAR_TYPICAL_CLASS('-으리', ['#용언']),
     # ㅎ불규칙
-    HIEUH_IRREGULAR_TYPICAL_CLASS(u'-리', ['#용언']),
+    HIEUH_IRREGULAR_TYPICAL_CLASS('-리', ['#용언']),
 ]

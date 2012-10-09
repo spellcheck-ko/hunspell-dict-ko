@@ -44,9 +44,9 @@ V_END = 0x1175
 T_START = 0x11a8
 T_END = 0x11c2
 
-L_ALL = ''.join([unichr(c) for c in range(L_START, L_END + 1)])
-V_ALL = ''.join([unichr(c) for c in range(V_START, V_END + 1)])
-T_ALL = ''.join([unichr(c) for c in range(T_START, T_END + 1)])
+L_ALL = ''.join([chr(c) for c in range(L_START, L_END + 1)])
+V_ALL = ''.join([chr(c) for c in range(V_START, V_END + 1)])
+T_ALL = ''.join([chr(c) for c in range(T_START, T_END + 1)])
 
 __all__ = ['L_START', 'L_END', 'V_START', 'V_END', 'T_START', 'T_END',
            'L_ALL', 'V_ALL', 'T_ALL']

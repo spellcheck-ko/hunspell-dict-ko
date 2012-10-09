@@ -45,8 +45,6 @@ import josa
 
 import unicodedata
 
-def nfd(u8str):
-    return unicodedata.normalize('NFD', u8str.decode('UTF-8')).encode('UTF-8')
 def NFD(unistr):
     return unicodedata.normalize('NFD', unistr)
 def NFC(unistr):
@@ -126,21 +124,21 @@ def NFC(unistr):
 # U+11b4: 544 (HANGUL JONGSEONG RIEUL-THIEUTH)
 # U+11b3: 523 (HANGUL JONGSEONG RIEUL-SIOS)
 # U+11b5: 495 (HANGUL JONGSEONG RIEUL-PHIEUPH)
-TRYCHARS = (u'\u1161\u1175\u1173\u1169\u1165\u116e\u1167\u1166\u1162\u1174' +
-            u'\u116a\u116d\u1172\u116f\u116c\u1171\u1163\u1168\u1170\u116b' +
-            u'\u1164' +
-            u'\u110b\u11ab\u1100\u1109\u11bc\u110c\u1105\u1103\u11af\u1112' + 
-            u'\u11a8\u1102\u1107\u1106\u11b7\u110e\u1110\u1111\u110f\u11bb' + 
-            u'\u11b8\u11ba\u1104\u1101\u11c0\u110a\u11ad\u110d\u11ae\u11b9' + 
-            u'\u11be\u11c1\u11bd\u11c2\u1108\u11b0\u11b1\u11a9\u11b2\u11b6' + 
-            u'\u11ac\u11aa\u11bf\u11b4\u11b3\u11b5')
+TRYCHARS = ('\u1161\u1175\u1173\u1169\u1165\u116e\u1167\u1166\u1162\u1174' +
+            '\u116a\u116d\u1172\u116f\u116c\u1171\u1163\u1168\u1170\u116b' +
+            '\u1164' +
+            '\u110b\u11ab\u1100\u1109\u11bc\u110c\u1105\u1103\u11af\u1112' + 
+            '\u11a8\u1102\u1107\u1106\u11b7\u110e\u1110\u1111\u110f\u11bb' + 
+            '\u11b8\u11ba\u1104\u1101\u11c0\u110a\u11ad\u110d\u11ae\u11b9' + 
+            '\u11be\u11c1\u11bd\u11c2\u1108\u11b0\u11b1\u11a9\u11b2\u11b6' + 
+            '\u11ac\u11aa\u11bf\u11b4\u11b3\u11b5')
 
 _conv_strings = []
 _conv_strings.append('ICONV 11172')
-for uch in map(unichr, range(0xac00, 0xd7a3 + 1)):
+for uch in map(chr, range(0xac00, 0xd7a3 + 1)):
     _conv_strings.append('ICONV %s %s' % (uch, NFD(uch)))
 _conv_strings.append('OCONV 11172')
-for uch in map(unichr, range(0xac00, 0xd7a3 + 1)):
+for uch in map(chr, range(0xac00, 0xd7a3 + 1)):
     _conv_strings.append('OCONV %s %s' % (NFD(uch), uch))
 CONV_DEFINES = '\n'.join(_conv_strings)
 
@@ -174,51 +172,51 @@ for m in map_list:
 
 rep_list = [
     # 의존명사 앞에 띄어 쓰기
-    (u'것', u'_것'),
+    ('것', '_것'),
 
     ## 두벌식 입력 순서 바뀜
     # 가능한 모든 경우를 다 열거할 수는 없고 흔히 범하는 경우만 쓴다.
-    (u'ㅇ벗', u'없'),              # ㅇ벗어 => 없어
-    (u'빈', T_PIEUP + u'니'),      # 하빈다 => 합니다
-    (u'낟', T_NIEUN + u'다'),      # 하낟 => 한다
-    (u'싿', T_SSANGSIOS + u'다'),  # 이싿 => 있다
-    (V_O + u'나', V_WA + T_NIEUN), # 오나전 => 완전
-    (T_IEUNG + u'미', '임'),       # 뭥미 => 뭐임
-    (T_PIEUP + u'라', '발'),       # 젭라 => 제발
+    ('ㅇ벗', '없'),              # ㅇ벗어 => 없어
+    ('빈', T_PIEUP + '니'),      # 하빈다 => 합니다
+    ('낟', T_NIEUN + '다'),      # 하낟 => 한다
+    ('싿', T_SSANGSIOS + '다'),  # 이싿 => 있다
+    (V_O + '나', V_WA + T_NIEUN), # 오나전 => 완전
+    (T_IEUNG + '미', '임'),       # 뭥미 => 뭐임
+    (T_PIEUP + '라', '발'),       # 젭라 => 제발
 
     ## 불규칙 용언의 활용을 잘못 썼을 경우에 대한 대치어 만들기. 단순
     ## 탈락이나 자모 한두개 변경같은 경우 hunspell의 기본 대치어
     ## 규칙에서 처리되므로 여기 쓰지 않고 처리할 수 없는 경우만 쓴다.
     # ㅂ불규칙
-    (T_PIEUP + u'아', u'와'),
-    (T_PIEUP + u'어', u'워'),
-    (T_PIEUP + u'으', u'우'),
+    (T_PIEUP + '아', '와'),
+    (T_PIEUP + '어', '워'),
+    (T_PIEUP + '으', '우'),
     # 르불규칙
-    (u'르어', T_RIEUL + u'러'),
-    (u'르어', T_RIEUL + u'라'),
+    ('르어', T_RIEUL + '러'),
+    ('르어', T_RIEUL + '라'),
     # 으불규칙
-    (V_EU + u'어', V_EO),
-    (V_EU + u'어', V_A),
+    (V_EU + '어', V_EO),
+    (V_EU + '어', V_A),
 
     ## 용언 활용
     # '-ㄹ런지' => '-ㄹ는지'
-    (T_RIEUL + u'런지', T_RIEUL + u'는지'),
+    (T_RIEUL + '런지', T_RIEUL + '는지'),
     # '-스런' => '-스러운' (잘못된 준말 사용)
-    (u'스런', u'스러운'),
+    ('스런', '스러운'),
     # '-고픈' => -고 싶은' (잘못된 준말 사용)
-    (u'고픈', u'고_싶은'),
+    ('고픈', '고_싶은'),
     # '-다더니' => -다 하더니' (잘못된 준말 사용)
-    (u'다더니', u'다_하더니'),
+    ('다더니', '다_하더니'),
 
     ## 준말 용언 + 모음 어미 -> 본디말 용언에 해당 어미
     # 형태가 가지각색이므로 케이스별로: 갖다, 머물다, 서툴다, 딛다
-    (T_CIEUC + u'어', u'져'),
-    (T_CIEUC + u'아', u'져'),
-    (T_CIEUC + u'으', u'지'),
-    (T_RIEUL + u'어', T_RIEUL + u'러'),
-    (T_RIEUL + u'으', u'르'),
-    (T_TIKEUT + u'어', u'뎌'),
-    (T_TIKEUT + u'으', u'디'),
+    (T_CIEUC + '어', '져'),
+    (T_CIEUC + '아', '져'),
+    (T_CIEUC + '으', '지'),
+    (T_RIEUL + '어', T_RIEUL + '러'),
+    (T_RIEUL + '으', '르'),
+    (T_TIKEUT + '어', '뎌'),
+    (T_TIKEUT + '으', '디'),
 
     ## 연철/분철 발음을 혼동할 때 나타나는 오타 대치어
     # 받침+ㅇ초성 (일찍이/일찌기 등)
@@ -250,24 +248,24 @@ rep_list = [
 
     ## 두음법칙
     # ㅇ을 써야 할 자리에 ㄹ을 쓰는 일은 많지 않고 반대가 많다.
-    (u'야', u'랴'),
-    (u'여', u'려'),
-    (u'요', u'료'),
-    (u'유', u'류'),
-    (u'이', u'리'),
-    (u'녀', u'여'),
-    (u'뇨', u'요'),
+    ('야', '랴'),
+    ('여', '려'),
+    ('요', '료'),
+    ('유', '류'),
+    ('이', '리'),
+    ('녀', '여'),
+    ('뇨', '요'),
     # ㄴ을 써야 할 자리에 ㄹ을 쓰는 일은 많지 않고 반대가 많다.
-    (u'나', u'라'),
-    (u'노', u'로'),
-    (u'뇌', u'뢰'),
-    (u'누', u'루'),
-    (u'느', u'르'),
+    ('나', '라'),
+    ('노', '로'),
+    ('뇌', '뢰'),
+    ('누', '루'),
+    ('느', '르'),
 ]
 
 REP_DEFINES = 'REP %d\n' % len(rep_list)
 for rep in rep_list:
-    REP_DEFINES += nfd('REP %s %s\n' % (rep[0], rep[1]))
+    REP_DEFINES += NFD('REP %s %s\n' % (rep[0], rep[1]))
 
 compound_rules = [
     # 아라비아 숫자

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 from lxml import etree
@@ -42,13 +42,13 @@ for item in root:
     w = Word()
     for field in item:
         if field.tag == 'word':
-            w.word = field.text.encode('UTF-8')
+            w.word = field.text
         elif field.tag == 'pos':
-            w.pos = field.text.encode('UTF-8')
+            w.pos = field.text
         elif field.tag == 'props' and field.text:
-            w.props = field.text.encode('UTF-8').split(',')
+            w.props = field.text.split(',')
             w.props.sort()
     if w in wordset:
-        sys.stderr.write('%s (%s)\n' % (w.word, w.pos))
+        sys.stderr.write(('%s (%s)\n' % (w.word, w.pos)).encode('UTF-8'))
     else:
         wordset.add(w)

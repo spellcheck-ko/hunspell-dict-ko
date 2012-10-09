@@ -43,14 +43,12 @@ import suffix
 
 import unicodedata
 
-def nfd(u8str):
-    return unicodedata.normalize('NFD', u8str.decode('UTF-8')).encode('UTF-8')
 def NFD(unistr):
     return unicodedata.normalize('NFD', unistr)
 def NFC(unistr):
     return unicodedata.normalize('NFC', unistr)
 
-ALPHA_ALL = ''.join(map(unichr, range(ord('0'),ord('9')+1) + range(ord('a'),ord('z')+1)))
+ALPHA_ALL = ''.join(map(chr, list(range(ord('0'),ord('9')+1)) + list(range(ord('a'),ord('z')+1))))
 
 ## 임의로 허용하는 로마자로 된 단어는 음운 구별을 하지 않는다. 할 방법이 없음.
 COND_ALL = '.'
@@ -89,14 +87,14 @@ class JosaClass:
     def output(self):
         result = []
         line = 'SFX %d Y %d' % (self.flag, len(self.rules))
-        result.append(nfd(line))
+        result.append(NFD(line))
         for (sfx, cond, strip) in self.rules:
             if not strip:
                 strip = '0'
             if not cond:
                 cond = '.'
             line = 'SFX %d %s %s %s' % (self.flag, strip, sfx, cond)
-            result.append(nfd(line))
+            result.append(NFD(line))
         return '\n'.join(result)
 
 
@@ -108,12 +106,12 @@ groups = {}
 ## '이' 주격/보격 조사
 groups['이'] = [
     JosaClass(
-        rules = [(u'이', COND_T_ALL, '')],
+        rules = [('이', COND_T_ALL, '')],
         after = ['#명사', '#대명사'],
     ),
     # 대명사 '-거'+'이' -> '게'
     JosaClass(
-        rules = [(V_E, u'거', V_EO)],
+        rules = [(V_E, '거', V_EO)],
         after = [('거', '#대명사'),
                  ('그거', '#대명사'),
                  ('요거', '#대명사'),
@@ -126,7 +124,7 @@ groups['이'] = [
 # '가' 주격/보격 조사
 groups['가'] = [
     JosaClass(
-        rules = [(u'가', COND_V_ALL, '')],
+        rules = [('가', COND_V_ALL, '')],
         after = ['#명사', '#대명사',
                  '#특수:숫자', '#특수:알파벳',
                  '#특수:수:1', '#특수:수:10', '#특수:수:100', '#특수:수:1000',
@@ -139,8 +137,8 @@ groups['가'] = [
     ),
     # 대명사 '나'+'가' -> '내가', '너'+'가' -> '네가', '저'+'가' -> '제가'
     JosaClass(
-        rules = [(V_AE + u'가', V_A, V_A),
-                 (V_E + u'가', V_EO, V_EO),
+        rules = [(V_AE + '가', V_A, V_A),
+                 (V_E + '가', V_EO, V_EO),
                  ],
         after = [('나', '#대명사'),
                  ('너', '#대명사'),
@@ -149,7 +147,7 @@ groups['가'] = [
     ),
     # 대명사 '누구'+'가' -> '누가'
     JosaClass(
-        rules = [(u'가', u'누구', u'구')],
+        rules = [('가', '누구', '구')],
         after = [('누구', '#대명사')],
     ),
 ]
@@ -180,12 +178,12 @@ groups['!종성줄임'] = [
 # '거'+'로' => '걸로'
 groups['!거+로'] = [
     JosaClass(
-        rules = [(T_RIEUL + u'로' + emph, u'거', '')
-                 for emph in ['', u'는', T_RIEUL, u'도',
-                              u'만',
-                              u'서', u'서는', u'선', u'서도',
-                              u'써', u'써는', u'썬', u'써도',
-                              u'부터', u'부터는', u'부턴', u'부터도']],
+        rules = [(T_RIEUL + '로' + emph, '거', '')
+                 for emph in ['', '는', T_RIEUL, '도',
+                              '만',
+                              '서', '서는', '선', '서도',
+                              '써', '써는', '썬', '써도',
+                              '부터', '부터는', '부턴', '부터도']],
         after = [('거', '#대명사'),
                  ('그거', '#대명사'),
                  ('요거', '#대명사'),
@@ -379,26 +377,26 @@ def get_ida_rules(flagaliases):
             if not cont_flags in flagaliases:
                 flagaliases.append(cont_flags)
             c = word + '/%d' % (flagaliases.index(cont_flags) + 1)
-        if (NFD(c.decode('utf-8'))[:2] == NFD(u'여') or
-            NFD(c.decode('utf-8'))[:2] == NFD(u'예')):
+        if (NFD(c)[:2] == NFD('여') or
+            NFD(c)[:2] == NFD('예')):
             # '이어' -> '여', '이에' => '예' 줄임형은 받침이 있을 경우에만
             ida_josas.append((c, COND_V_ALL))
         else:
             ida_josas.append((c, COND_ALL))
         # '이' 생략
         # TODO: 받침이 앞의 명사에 붙는 경우 허용 여부 (예: "마찬가집니다")
-        if NFC(c.decode('utf-8'))[0] == u'이':
-            ida_josas.append((NFC(c.decode('utf-8'))[1:], COND_V_ALL))
-        elif NFD(c.decode('utf-8'))[:2] == NFD(u'이'):
-            ida_josas_t.append((NFD(c.decode('utf-8'))[2:], COND_V_ALL))
+        if NFC(c)[0] == '이':
+            ida_josas.append((NFC(c)[1:], COND_V_ALL))
+        elif NFD(c)[:2] == NFD('이'):
+            ida_josas_t.append((NFD(c)[2:], COND_V_ALL))
 
     result = ['SFX %d Y %d' % (josa_ida_flag, len(ida_josas))]
     for (sfx,cond) in ida_josas:
-        result.append(nfd('SFX %d 0 %s %s' % (josa_ida_flag, sfx, cond)))
+        result.append(NFD('SFX %d 0 %s %s' % (josa_ida_flag, sfx, cond)))
 
     result.append('SFX %d Y %d' % (josa_ida_t_flag, len(ida_josas_t)))
     for (sfx,cond) in ida_josas_t:
-        result.append(nfd('SFX %d 0 %s %s' % (josa_ida_t_flag, sfx, cond)))
+        result.append(NFD('SFX %d 0 %s %s' % (josa_ida_t_flag, sfx, cond)))
     return result
     
 def get_output(flagaliases):

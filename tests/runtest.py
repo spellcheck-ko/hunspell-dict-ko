@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import sys
 import os
@@ -35,8 +35,8 @@ def main():
         word = tokens[1]
         args = tokens[2:]
 
-        hunspell.stdin.write('%s\n' % word)
-        result = hunspell.stdout.readline().strip()
+        hunspell.stdin.write((word + '\n').encode('UTF-8'))
+        result = hunspell.stdout.readline().strip().decode('UTF-8')
         hunspell.stdout.readline() # empty line
         if flag == 'Y' or flag == 'N':
             if ((flag == 'Y' and 
@@ -47,7 +47,7 @@ def main():
                                                    word, result))
                     sys.exit(1)
         elif flag == 'S':
-            sug = string.join(args, ' ')
+            sug = ' '.join(args)
             if result[0] != '&':
                 errmsg('%s:%d: %s %s: %s\n' % (filename, lineno, flag,
                                                word, result))

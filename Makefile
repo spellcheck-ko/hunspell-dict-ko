@@ -1,4 +1,4 @@
-PYTHON = python
+PYTHON = python3
 ZIP = zip -r
 
 AFFIX = ko.aff

@@ -38,8 +38,6 @@
 # ***** END LICENSE BLOCK *****
 
 import sys
-reload(sys)
-sys.setdefaultencoding('UTF-8')
 import re
 import unicodedata
 
@@ -47,8 +45,6 @@ import config
 import flags
 from suffixdata import groups
 
-def nfd(u8str):
-    return unicodedata.normalize('NFD', u8str.decode('UTF-8')).encode('UTF-8')
 def NFD(unistr):
     return unicodedata.normalize('NFD', unistr)
 def NFC(unistr):
@@ -73,7 +69,7 @@ def clean_up_cond():
     for key in groups.keys():
         for klass in groups[key]:
             for c in ['after', 'notafter', 'cond', 'notcond']:
-                if not klass.has_key(c):
+                if not c in klass:
                     continue
                 new = set()
                 for item in klass[c]:
@@ -101,10 +97,10 @@ def expand_by_link():
             g = refgroups[key]
             for k in g:
                 if (('-' in k['after'] or last in k['after']) and
-                    (not k.has_key('notafter') or not last in k['notafter'])):
+                    (not ('notafter' in k) or not (last in k['notafter']))):
                     for r in k['rules']:
-                        if re.match(NFD(u'.*' + r[1] + '$'),
-                                    NFD(last[:-1].decode('utf-8'))):
+                        if re.match(NFD('.*' + r[1] + '$'),
+                                    NFD(last[:-1])):
                             rules.append(r)
         return rules
 
@@ -159,10 +155,10 @@ for klass in klasses:
 # 같은 조건의 클래스를 머지한다.
 def eq_klass_cond(a, b):
     for condname in ['after', 'notafter', 'cond', 'notcond']:
-        if a.has_key(condname) and b.has_key(condname):
+        if (condname in a) and (condname in b):
             if a[condname] != b[condname]:
                 return False
-        elif a.has_key(condname) or b.has_key(condname):
+        elif (condname in a) or (condname in b):
             return False
     return True
 # new_klasses = []
@@ -208,22 +204,22 @@ def get_rules_string(flagaliases):
                     cont = '/' + ','.join(['%d' % c for c in cont_flags])
             except IndexError:
                 cont = ''
-            rule_strings.append(nfd('SFX %d %s %s%s %s' %
+            rule_strings.append(NFD('SFX %d %s %s%s %s' %
                                     (flag, strip, suffix, cont, condition)))
     return '\n'.join(rule_strings)
 
 def class_match_word(klass, word, po, props):
-    if (klass.has_key('after') and
+    if (('after' in klass) and
         (not word in klass['after']) and
         (not ('#'+po) in klass['after']) and
-        (not [1 for k in klass['after'] if k[0] == '^' and re.match(nfd(k), nfd(word))])):
+        (not [1 for k in klass['after'] if k[0] == '^' and re.match(NFD(k), NFD(word))])):
         return False
-    if (klass.has_key('notafter') and
+    if (('notafter' in klass) and
         ((word in klass['notafter']) or
          ('#'+po) in klass['notafter'] or
-         [1 for k in klass['notafter'] if k[0] == '^' and re.match(nfd(k), nfd(word))])):
+         [1 for k in klass['notafter'] if k[0] == '^' and re.match(NFD(k), NFD(word))])):
         return False
-    if klass.has_key('cond'):
+    if 'cond' in klass:
         for prop in props:
             if ('#'+prop) in klass['cond']:
                 break;
@@ -231,7 +227,7 @@ def class_match_word(klass, word, po, props):
             regexps = [r for r in klass['cond'] if r[0] == '^']
             if not regexps or not [1 for r in regexps if re.match(r, word)]:
                 return False
-    if klass.has_key('notcond'):
+    if 'notcond' in klass:
         for prop in props:
             if ('#'+prop) in klass['notcond']:
                 return False;
@@ -252,7 +248,6 @@ def find_flags(word, po, props):
 # 특정 어미의 활용형태
 def make_conjugations(word, po, props, suffixname=None):
     result = []
-    uniword = unicode(word, 'utf-8')
     if suffixname:
         search_klasses = groups[suffixname]
     else:
@@ -265,12 +260,12 @@ def make_conjugations(word, po, props, suffixname=None):
             suffix = r[0]
             condition = r[1]
             strip = r[2]
-            if re.match(NFD(u'.*' + condition + '다$'), NFD(uniword)):
+            if re.match(NFD('.*' + condition + '다$'), NFD(word)):
                 if strip:
-                    striplen = len(NFD(strip + u'다'))
+                    striplen = len(NFD(strip + '다'))
                 else:
-                    striplen = len(NFD(u'다'))
-                conj = (NFD(uniword)[:-striplen] + suffix[1:]).encode('utf-8')
+                    striplen = len(NFD('다'))
+                conj = (NFD(word)[:-striplen] + suffix[1:])
                 try:
                     conj += '/' + ','.join([str(c) for c in r[3]])
                 except IndexError:

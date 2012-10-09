@@ -37,22 +37,17 @@
 # ***** END LICENSE BLOCK *****
 
 import sys
-reload(sys)
-sys.setdefaultencoding('UTF-8')
 
 import unicodedata
-
-def nfd(u8str):
-    return unicodedata.normalize('NFD', u8str.decode('UTF-8')).encode('UTF-8')
 
 def NFD(unistr):
     return unicodedata.normalize('NFD', unistr)
 
-def warn(u8str):
-    return sys.stderr.write(u8str + '\n')
+def warn(s):
+    return sys.stderr.write(s + '\n')
 
-def progress(u8str):
-    return sys.stderr.write('Progress: ' + u8str + '...\n')
+def progress(s):
+    return sys.stderr.write('Progress: ' + s + '...\n')
 
 import config
 import suffix
@@ -70,21 +65,21 @@ class Word:
         self.morph_alias = -1
     def __hash__(self):
         return (self.word + self.pos).__hash__()
-    def __cmp__(self, other):
-        n = cmp(self.word, other.word)
-        if n != 0:
-            return n
-        n = cmp(self.pos, other.pos)
-        if n != 0:
-            return n
+
+    # to make it orderable
+    def __lt__(self, other):
+        r = self.word < other.word
+        if r:
+            return True
+        r = self.pos < other.pos
+        if r:
+            return True
         # FIXME: 이렇게 하면 순서가 다를텐데. set에서 뭐가 먼저 나올지 알고...
         for prop in other.props:
             if not prop in self.props:
-                return -1
-        for prop in self.props:
-            if not prop in other.props:
-                return 1
-        return 0
+                return True
+        return False
+
     def __repr__(self):
         return 'Word %s pos:%s' % (self.word, self.pos)
 
@@ -150,14 +145,14 @@ class Dictionary:
             w = Word()
             for field in item:
                 if field.tag == 'word':
-                    w.word = field.text.encode('UTF-8')
+                    w.word = field.text
                 elif field.tag == 'pos':
-                    w.pos = field.text.encode('UTF-8')
+                    w.pos = field.text
                 elif field.tag == 'props' and field.text:
-                    w.props = field.text.encode('UTF-8').split(',')
+                    w.props = field.text.split(',')
                     w.props.sort()
                 elif field.tag == 'stem' and field.text:
-                    w.stem = field.text.encode('UTF-8')
+                    w.stem = field.text
             dic.add(w)
 
     def process(self):
@@ -193,7 +188,7 @@ class Dictionary:
             if word.morph_alias > 0:
                 line += (' %d' % word.morph_alias)
             line += '\n'
-            outfile.write(nfd(line))
+            outfile.write(NFD(line))
 
     def output_aff(self, outfile):
         from string import Template
