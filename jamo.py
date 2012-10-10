@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Unicode Hangul Jamo utility
 
 # ***** BEGIN LICENSE BLOCK *****

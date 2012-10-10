@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+
 import sys
 from urllib2 import urlopen, HTTPError
 

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # 용언/서술격조사 활용
 
 # ***** BEGIN LICENSE BLOCK *****

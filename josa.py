@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# josa
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -48,7 +48,7 @@ def NFD(unistr):
 def NFC(unistr):
     return unicodedata.normalize('NFC', unistr)
 
-ALPHA_ALL = ''.join(map(chr, list(range(ord('0'),ord('9')+1)) + list(range(ord('a'),ord('z')+1))))
+ALPHA_ALL = ''.join([chr(c) for c in range(ord('0'),ord('9')+1)] + [chr(c) for c in range(ord('a'),ord('z')+1)])
 
 ## 임의로 허용하는 로마자로 된 단어는 음운 구별을 하지 않는다. 할 방법이 없음.
 COND_ALL = '.'

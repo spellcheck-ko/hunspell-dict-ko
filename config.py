@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 version = '0.5.6'
 
 # 필요한 최소 hunspell 버전.

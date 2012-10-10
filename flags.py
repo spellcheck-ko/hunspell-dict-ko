@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Hunspell FLAG management
 
 # ***** BEGIN LICENSE BLOCK *****

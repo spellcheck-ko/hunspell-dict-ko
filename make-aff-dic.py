@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# aff/dic output
 
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1

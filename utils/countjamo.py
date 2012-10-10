@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
 # 표준 입력의 모든 자모 수 세는 유틸리티 (TRY 키워드를 위해)
 
 import sys

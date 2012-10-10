@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # AFF file utility
 
 # ***** BEGIN LICENSE BLOCK *****
@@ -135,10 +134,10 @@ TRYCHARS = ('\u1161\u1175\u1173\u1169\u1165\u116e\u1167\u1166\u1162\u1174' +
 
 _conv_strings = []
 _conv_strings.append('ICONV 11172')
-for uch in map(chr, range(0xac00, 0xd7a3 + 1)):
+for uch in [chr(c) for c in range(0xac00, 0xd7a3 + 1)]:
     _conv_strings.append('ICONV %s %s' % (uch, NFD(uch)))
 _conv_strings.append('OCONV 11172')
-for uch in map(chr, range(0xac00, 0xd7a3 + 1)):
+for uch in [chr(c) for c in range(0xac00, 0xd7a3 + 1)]:
     _conv_strings.append('OCONV %s %s' % (NFD(uch), uch))
 CONV_DEFINES = '\n'.join(_conv_strings)
 
