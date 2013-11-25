@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/usr/bin/python
+# -*- encoding: utf-8 -*-
 
 import sys
 from urllib2 import urlopen, HTTPError
@@ -8,7 +9,7 @@ def URL(start):
 
 def get(start):
     while True:
-        print 'Retrieving words data starting from "%s"...' % start
+        print('Retrieving words data starting from "%s"...' % start)
         try:
             url = urlopen(URL(start))
             n = url.read()
@@ -38,13 +39,13 @@ def split_last(xml):
 def output_all(outfile):
     outfile.write('<?xml version="1.0" ?>\n')
     outfile.write('<exported-data>\n')
-    start = ''
+    start = '습도계'
     xml = ''
     while True:
         xml = get(start)
         (output, last) = split_last(xml)
         if (start == last):
-            print 'last word %s' % last
+            print('last word %s' % last)
             outfile.write(trim_entries(xml))
             break
         else:
@@ -65,10 +66,10 @@ parser.add_option("-s", "--start", action="store", dest="start_word")
 (options, args) = parser.parse_args()
 
 if not options.dump_all and not options.start_word:
-    print 'need -a or -s option'
+    print('need -a or -s option')
     sys.exit(1)
 if len(args) == 0:
-    print 'need a output filename'
+    print('need a output filename')
     sys.exit(1)
 
 outfile = open(args[0], 'w')
