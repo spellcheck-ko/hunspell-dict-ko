@@ -22,6 +22,18 @@ DIC 파일과 AFF 파일의 내용은 프로그램을 통해 만들어 내기 �
 편집하지 않도록 한다. 데이터는 유니코드의 한글 자모 코드로 (U+1100)
 쓰여 있기 때문에 에디터에서 직접 편집하면 의도한 대로 동작하지 않는다.
 
+각 OS 및 애플리케이션 별 정보
+=============================
+
+ * 데비안: hunspell-ko 패키지 설치, 6.0 (squeeze) 이후 패키지 정보
+ * 우분투: hunspell-ko 패키지 설치, 9.10 (karmic) 이후 패키지 정보
+ * 페도라: hunspell-ko 패키지 설치, fc12 이후 패키지 정보
+ * Mac OS X 10.5: BaramSpellChecker
+ * Mac OS X 10.6 이상: /Library/Spelling 또는 홈폴더/Library/Spelling 아래 aff/dic 파일 복사 
+
+ * Mozilla/Firefox 부가 기능
+ * LibreOffice 및 OpenOffice.org 부가 기능 
+
 소스 프로그램
 =============
 
