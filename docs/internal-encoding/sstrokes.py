@@ -2,7 +2,7 @@
 
 import unicodedata
 
-START_CODE = ':'
+START_CODE = '\uF8FF'           # Unicode PUA code
 JAMO2STROKES = {
     '\u1100': 'ㄱ',
     '\u1101': 'ㄲ',
@@ -98,21 +98,26 @@ rev = []
 
 print('VERSION sstrokes-test 0.1')
 print('SET UTF-8')
-print('ICONV %d' % ((0xD7A3 - 0xAC00 + 1) + (0x3163 - 0x3131 + 1)))
+
+inlist = []
+outlist = []
+
 for c in range(0xAC00, 0xD7A3 + 1):
     jamos = unicodedata.normalize('NFD', chr(c))
     strokes = ''.join([JAMO2STROKES[j] for j in jamos])
-    rev.append((strokes, chr(c)))
-    print('ICONV %s %s%s' % (chr(c), START_CODE, strokes))
+    inlist.append((chr(c), strokes))
+    outlist.append((strokes, chr(c)))
 for c in range(0x3131, 0x3163 + 1):
     if chr(c) in COMP2STROKES:
         strokes = COMP2STROKES[chr(c)]
     else:
         strokes = chr(c)
-    rev.append((strokes, chr(c)))
-    print('ICONV %s %s%s' % (chr(c), START_CODE, strokes))
-    
-print('OCONV %d' % len(rev))
+    inlist.append((chr(c), strokes))
+    outlist.append((strokes, chr(c)))
+
+print('ICONV %d' % len(inlist))
+for ch, strokes in inlist:
+    print('ICONV %s %s%s' % (ch, START_CODE, strokes))
 
 def compare_func(x, y):
     k1 = x[0]
@@ -145,9 +150,10 @@ def compare_key(mycomp):
         def __ne__(self, other):
             return mycomp(self.obj, other.obj) != 0
     return K
-            
-rev = sorted(rev, key=compare_key(compare_func))
-for strokes, ch in rev:
+
+outlist = sorted(outlist, key=compare_key(compare_func))
+
+print('OCONV %d' % len(outlist))
+for strokes, ch in outlist:
     print('OCONV %s%s %s' % (START_CODE, strokes, ch))
-
-
+print('OCONV %s%s %s' % (START_CODE, START_CODE, START_CODE))
