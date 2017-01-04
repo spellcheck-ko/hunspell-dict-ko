@@ -5,8 +5,10 @@ import os
 import string
 import subprocess
 
+
 def usage():
     sys.stderr.write('Usage: %s filename\n' % sys.argv[0])
+
 
 def main():
     if len(sys.argv) != 2:
@@ -19,7 +21,8 @@ def main():
         hunspell_cmd = './hunspell'
     else:
         hunspell_cmd = 'hunspell'
-    hunspell = subprocess.Popen([hunspell_cmd, '-i', 'UTF-8', '-a', '-d', '../ko'],
+    args = [hunspell_cmd, '-i', 'UTF-8', '-a', '-d', '../ko']
+    hunspell = subprocess.Popen(args,
                                 stdin=subprocess.PIPE, stdout=subprocess.PIPE)
     hunspell.stdout.readline()  # the first line "Hunspell 1.2.8 ..."
     lineno = 0
@@ -36,10 +39,11 @@ def main():
         args = tokens[2:]
 
         hunspell.stdin.write((word + '\n').encode('UTF-8'))
+        hunspell.stdin.flush()
         result = hunspell.stdout.readline().strip().decode('UTF-8')
-        hunspell.stdout.readline() # empty line
+        hunspell.stdout.readline()  # empty line
         if flag == 'Y' or flag == 'N':
-            if ((flag == 'Y' and 
+            if ((flag == 'Y' and
                  result[0] != '*' and result[0] != '+' and result[0] != '-') or
                 (flag == 'N' and
                  result[0] != '&' and result[0] != '#')):

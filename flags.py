@@ -38,8 +38,9 @@ _flags = [
     ('josas', 100),
     # 서술 조사
     'josa_ida',
-    'josa_ida_t', # 받침으로 시작
+    'josa_ida_t',  # 받침으로 시작
 ]
+
 
 def _define_flags():
     count = 1

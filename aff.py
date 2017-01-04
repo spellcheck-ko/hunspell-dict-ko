@@ -12,13 +12,16 @@ import josa
 
 import unicodedata
 
+
 def NFD(unistr):
     return unicodedata.normalize('NFD', unistr)
+
+
 def NFC(unistr):
     return unicodedata.normalize('NFC', unistr)
 
 # 빈도가 높은 글자를 앞에 쓸 수록 처리 속도 향상
-# 
+#
 # NOTE: 단, 모음이 틀리는 경우가 보통 더 많으므로 더 나은 단어가 앞에
 # 추천 단어의 앞에 나오도록 모음을 먼저 쓴다.
 #
@@ -94,10 +97,10 @@ def NFC(unistr):
 TRYCHARS = ('\u1161\u1175\u1173\u1169\u1165\u116e\u1167\u1166\u1162\u1174' +
             '\u116a\u116d\u1172\u116f\u116c\u1171\u1163\u1168\u1170\u116b' +
             '\u1164' +
-            '\u110b\u11ab\u1100\u1109\u11bc\u110c\u1105\u1103\u11af\u1112' + 
-            '\u11a8\u1102\u1107\u1106\u11b7\u110e\u1110\u1111\u110f\u11bb' + 
-            '\u11b8\u11ba\u1104\u1101\u11c0\u110a\u11ad\u110d\u11ae\u11b9' + 
-            '\u11be\u11c1\u11bd\u11c2\u1108\u11b0\u11b1\u11a9\u11b2\u11b6' + 
+            '\u110b\u11ab\u1100\u1109\u11bc\u110c\u1105\u1103\u11af\u1112' +
+            '\u11a8\u1102\u1107\u1106\u11b7\u110e\u1110\u1111\u110f\u11bb' +
+            '\u11b8\u11ba\u1104\u1101\u11c0\u110a\u11ad\u110d\u11ae\u11b9' +
+            '\u11be\u11c1\u11bd\u11c2\u1108\u11b0\u11b1\u11a9\u11b2\u11b6' +
             '\u11ac\u11aa\u11bf\u11b4\u11b3\u11b5')
 
 _conv_strings = []
@@ -135,25 +138,29 @@ for m in map_list:
     MAP_DEFINES += 'MAP %s\n' % m
 
 ######################################################################
-## REP: 흔히 틀리는 목록
+# REP: 흔히 틀리는 목록
 
 rep_list = [
     # 의존명사 앞에 띄어 쓰기
     ('것', '_것'),
 
-    ## 두벌식 입력 순서 바뀜
-    # 가능한 모든 경우를 다 열거할 수는 없고 흔히 범하는 경우만 쓴다.
-    ('ㅇ벗', '없'),              # ㅇ벗어 => 없어
-    ('빈', T_PIEUP + '니'),      # 하빈다 => 합니다
-    ('낟', T_NIEUN + '다'),      # 하낟 => 한다
-    ('싿', T_SSANGSIOS + '다'),  # 이싿 => 있다
-    (V_O + '나', V_WA + T_NIEUN), # 오나전 => 완전
-    (T_IEUNG + '미', '임'),       # 뭥미 => 뭐임
-    (T_PIEUP + '라', '발'),       # 젭라 => 제발
+    #
+    # 두벌식 입력 순서 바뀜
 
-    ## 불규칙 용언의 활용을 잘못 썼을 경우에 대한 대치어 만들기. 단순
-    ## 탈락이나 자모 한두개 변경같은 경우 hunspell의 기본 대치어
-    ## 규칙에서 처리되므로 여기 쓰지 않고 처리할 수 없는 경우만 쓴다.
+    # 가능한 모든 경우를 다 열거할 수는 없고 흔히 범하는 경우만 쓴다.
+    ('ㅇ벗', '없'),                # ㅇ벗어 => 없어
+    ('빈', T_PIEUP + '니'),        # 하빈다 => 합니다
+    ('낟', T_NIEUN + '다'),        # 하낟 => 한다
+    ('싿', T_SSANGSIOS + '다'),    # 이싿 => 있다
+    (V_O + '나', V_WA + T_NIEUN),  # 오나전 => 완전
+    (T_IEUNG + '미', '임'),        # 뭥미 => 뭐임
+    (T_PIEUP + '라', '발'),        # 젭라 => 제발
+
+    #
+    # 불규칙 용언의 활용을 잘못 썼을 경우에 대한 대치어 만들기. 단순
+    # 탈락이나 자모 한두개 변경같은 경우 hunspell의 기본 대치어
+    # 규칙에서 처리되므로 여기 쓰지 않고 처리할 수 없는 경우만 쓴다.
+
     # ㅂ불규칙
     (T_PIEUP + '아', '와'),
     (T_PIEUP + '어', '워'),
@@ -165,7 +172,9 @@ rep_list = [
     (V_EU + '어', V_EO),
     (V_EU + '어', V_A),
 
-    ## 용언 활용
+    #
+    # 용언 활용
+
     # '-ㄹ런지' => '-ㄹ는지'
     (T_RIEUL + '런지', T_RIEUL + '는지'),
     # '-스런' => '-스러운' (잘못된 준말 사용)
@@ -175,7 +184,9 @@ rep_list = [
     # '-다더니' => -다 하더니' (잘못된 준말 사용)
     ('다더니', '다_하더니'),
 
-    ## 준말 용언 + 모음 어미 -> 본디말 용언에 해당 어미
+    #
+    # 준말 용언 + 모음 어미 -> 본디말 용언에 해당 어미
+
     # 형태가 가지각색이므로 케이스별로: 갖다, 머물다, 서툴다, 딛다
     (T_CIEUC + '어', '져'),
     (T_CIEUC + '아', '져'),
@@ -185,7 +196,9 @@ rep_list = [
     (T_TIKEUT + '어', '뎌'),
     (T_TIKEUT + '으', '디'),
 
-    ## 연철/분철 발음을 혼동할 때 나타나는 오타 대치어
+    #
+    # 연철/분철 발음을 혼동할 때 나타나는 오타 대치어
+
     # 받침+ㅇ초성 (일찍이/일찌기 등)
     (T_KIYEOK + L_IEUNG, L_KIYEOK),
     (L_KIYEOK, T_KIYEOK + L_IEUNG),
@@ -208,12 +221,16 @@ rep_list = [
     # ㅅㅎ -> ㅌ (통신어..)
     (T_SIOS + L_HIEUH, L_THIEUTH),
 
-    ## 접두어, 접미어, 합성어
-    # 사이시옷
-    (T_SIOS + L_KIYEOK, L_KHIEUKH), # 숫개 -> 수캐
-    (T_SIOS + L_TIKEUT, L_THIEUTH), # 숫돼지 -> 수퇘지
+    #
+    # 접두어, 접미어, 합성어
 
-    ## 두음법칙
+    # 사이시옷
+    (T_SIOS + L_KIYEOK, L_KHIEUKH),  # 숫개 -> 수캐
+    (T_SIOS + L_TIKEUT, L_THIEUTH),  # 숫돼지 -> 수퇘지
+
+    #
+    # 두음법칙
+
     # ㅇ을 써야 할 자리에 ㄹ을 쓰는 일은 많지 않고 반대가 많다.
     ('야', '랴'),
     ('여', '려'),
@@ -247,7 +264,7 @@ compound_rules = [
 ]
 
 # 숫자 만 단위로 띄어 쓰기
-if config.minimum_hunspell_version >= (1,2,14):
+if config.minimum_hunspell_version >= (1, 2, 14):
     compound_rules += [
         '(%d)?(%d)?(%d)?(%d)?(%d)?' % (number_1000_flag,
                                        number_100_flag,
@@ -281,12 +298,13 @@ COMPOUNDRULE_DEFINES = 'COMPOUNDRULE %d\n' % len(compound_rules)
 for rule in compound_rules:
     COMPOUNDRULE_DEFINES += 'COMPOUNDRULE %s\n' % rule
 
-## 용언 어미
 
+#
+# 용언 어미
 def get_suffix_defines(flagaliases):
     return suffix.get_rules_string(flagaliases)
 
-# 조사
 
+# 조사
 def get_josa_defines(flagaliases):
     return josa.get_output(flagaliases)

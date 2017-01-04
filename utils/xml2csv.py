@@ -1,9 +1,6 @@
 # CSV converter for Google App Engine bulk import
 
 import sys
-reload(sys)
-import locale
-sys.setdefaultencoding(locale.getpreferredencoding())
 import xml.dom.minidom
 from datetime import datetime
 
@@ -13,6 +10,7 @@ ID_START = 1
 
 infilename = sys.argv[1]
 doc = xml.dom.minidom.parse(open(infilename))
+
 
 def escape_csv(s):
     return '"' + s.replace('"', '""') + '"'
@@ -47,4 +45,3 @@ for node in [n for n in doc.childNodes[0].childNodes if n.nodeType == n.ELEMENT_
     results.append(escape_csv(EDITOR))
     results.append('')          # dummy
     print ','.join(results)
-

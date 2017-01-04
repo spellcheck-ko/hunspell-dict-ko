@@ -3,13 +3,16 @@
 from lxml import etree
 import sys
 
+
 class Word:
     def __init__(self):
         self.word = ''
         self.pos = ''
         self.props = []
+
     def __hash__(self):
         return (self.word + self.pos).__hash__()
+
     def __cmp__(self, other):
         n = cmp(self.word, other.word)
         if n != 0:
@@ -21,10 +24,10 @@ class Word:
         if self.pos == '명사':
             return 0
         for prop in other.props:
-            if not prop in self.props:
+            if prop not in self.props:
                 return -1
         for prop in self.props:
-            if not prop in other.props:
+            if prop not in other.props:
                 return 1
         return 0
 

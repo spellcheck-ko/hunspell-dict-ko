@@ -1,4 +1,4 @@
-TESTS = $(wildcard *.test)
+TESTS = $(sort $(wildcard *.test))
 
 all: test
 

@@ -18,6 +18,7 @@ T_ALL = ''.join([chr(c) for c in range(T_START, T_END + 1)])
 __all__ = ['L_START', 'L_END', 'V_START', 'V_END', 'T_START', 'T_END',
            'L_ALL', 'V_ALL', 'T_ALL']
 
+
 def define_jamos(jamos, unicodeprefix, prefix):
     import unicodedata
     for jamo in jamos:

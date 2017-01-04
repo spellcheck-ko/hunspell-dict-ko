@@ -12,10 +12,14 @@ import config
 import flags
 from suffixdata import groups
 
+
 def NFD(unistr):
     return unicodedata.normalize('NFD', unistr)
+
+
 def NFC(unistr):
     return unicodedata.normalize('NFC', unistr)
+
 
 # 조건이 list일 경우 확장
 def expand_by_cond():
@@ -23,20 +27,21 @@ def expand_by_cond():
         for klass in groups[key]:
             new_rules = []
             for rule in klass['rules']:
-                if isinstance(rule[1], list) :
+                if isinstance(rule[1], list):
                     for c in rule[1]:
                         new_rules.append([rule[0], c] + rule[2:])
                 else:
                     new_rules.append(rule)
             klass['rules'] = new_rules
-    #return groups
+    # return groups
+
 
 # 조건 정리
 def clean_up_cond():
     for key in groups.keys():
         for klass in groups[key]:
             for c in ['after', 'notafter', 'cond', 'notcond']:
-                if not c in klass:
+                if c not in klass:
                     continue
                 new = set()
                 for item in klass[c]:
@@ -47,6 +52,7 @@ def clean_up_cond():
                         new.add(item)
                 klass[c] = sorted(list(new))
     return groups
+
 
 # 선어말어미 연결
 def expand_by_link():
@@ -119,6 +125,7 @@ for klass in klasses:
         except:
             pass
 
+
 # 같은 조건의 클래스를 머지한다.
 def eq_klass_cond(a, b):
     for condname in ['after', 'notafter', 'cond', 'notcond']:
@@ -135,9 +142,10 @@ def eq_klass_cond(a, b):
 #             new_klass['rules'] += klass['rules']
 #             break
 #     else:
-#         new_klasses.append(klass)        
+#         new_klasses.append(klass)
 # klasses = new_klasses
 # del new_klasses
+
 
 # flag 부착
 def attach_flags():
@@ -149,7 +157,8 @@ attach_flags()
 
 
 ######################################################################
-## 외부 사용
+#
+# 외부 사용
 
 def get_rules_string(flagaliases):
     rule_strings = []
@@ -158,13 +167,13 @@ def get_rules_string(flagaliases):
         rule_strings.append('SFX %d Y %d' % (flag, len(klass['rules'])))
 
         for r in klass['rules']:
-            suffix = r[0][1:] # 앞에 '-' 빼기
+            suffix = r[0][1:]   # 앞에 '-' 빼기
             condition = r[1] + '다'
             strip = r[2] + '다'
             try:
                 cont_flags = r[3]
                 if flagaliases:
-                    if not cont_flags in flagaliases:
+                    if cont_flags not in flagaliases:
                         flagaliases.append(cont_flags)
                     cont = '/%d' % (flagaliases.index(cont_flags) + 1)
                 else:
@@ -175,10 +184,11 @@ def get_rules_string(flagaliases):
                                     (flag, strip, suffix, cont, condition)))
     return '\n'.join(rule_strings)
 
+
 def class_match_word(klass, word, po, props):
     if (('after' in klass) and
-        (not word in klass['after']) and
-        (not ('#'+po) in klass['after']) and
+        (word not in klass['after']) and
+        (('#'+po) not in klass['after']) and
         (not [1 for k in klass['after'] if k[0] == '^' and re.match(NFD(k), NFD(word))])):
         return False
     if (('notafter' in klass) and
@@ -189,7 +199,7 @@ def class_match_word(klass, word, po, props):
     if 'cond' in klass:
         for prop in props:
             if ('#'+prop) in klass['cond']:
-                break;
+                break
         else:
             regexps = [r for r in klass['cond'] if r[0] == '^']
             if not regexps or not [1 for r in regexps if re.match(r, word)]:
@@ -197,12 +207,13 @@ def class_match_word(klass, word, po, props):
     if 'notcond' in klass:
         for prop in props:
             if ('#'+prop) in klass['notcond']:
-                return False;
+                return False
         else:
             regexps = [r for r in klass['notcond'] if r[0] == '^']
             if regexps and [1 for r in regexps if re.match(r, word)]:
                 return False
     return True
+
 
 # 해당되는 flag 찾기
 def find_flags(word, po, props):
@@ -211,6 +222,7 @@ def find_flags(word, po, props):
         if class_match_word(klass, word, po, props):
             result.append(klass['flag'])
     return result
+
 
 # 특정 어미의 활용형태
 def make_conjugations(word, po, props, suffixname=None):
@@ -222,7 +234,7 @@ def make_conjugations(word, po, props, suffixname=None):
     for klass in search_klasses:
         if not class_match_word(klass, word, po, props):
             continue
-        
+
         for r in klass['rules']:
             suffix = r[0]
             condition = r[1]
@@ -239,6 +251,7 @@ def make_conjugations(word, po, props, suffixname=None):
                     pass
                 result.append(conj)
     return result
+
 
 # 가능한 모든 활용 형태 만들기
 def make_all_conjugations(word, po, props):

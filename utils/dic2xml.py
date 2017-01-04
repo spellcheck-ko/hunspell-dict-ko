@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # XML 변환
 #
@@ -40,23 +40,28 @@
 
 import sys
 import unicodedata
-
-reload(sys)
-sys.setdefaultencoding('UTF-8')
-
 from datetime import datetime, tzinfo, timedelta
+
 
 def nfd(u8str):
     return unicodedata.normalize('NFD', u8str.decode('UTF-8')).encode('UTF-8')
+
+
 def out(u8str):
     return sys.stdout.write(u8str)
+
+
 def outnfd(u8str):
     return sys.stdout.write(nfd(u8str))
+
+
 def warn(u8str):
     return sys.stderr.write(u8str + '\n')
 
+
 class ParseError(Exception):
     pass
+
 
 class Dictionary:
     def __init__(self):
@@ -70,7 +75,6 @@ class Dictionary:
         for lineno in range(len(lines)):
             line = lines[lineno]
             # comments out
-            #line = line.split('#', 1)[0]
             if line[0] == '#':
                 continue
             # remove whitespaces
@@ -94,9 +98,10 @@ class Dictionary:
 
     def add(self, word):
         self.words.add(word)
+
     def remove(self, word):
         self.words.remove(word)
-    
+
     def __len__(self):
         return len(self.words)
 
@@ -105,6 +110,7 @@ class Dictionary:
         for word in sorted(list(self.words)):
             word.output(file)
         file.write('</entries>\n')
+
 
 class Word:
     def __init__(self, line):
@@ -124,17 +130,17 @@ class Word:
         def load_po(self, val):
             self.po = val
             pos_values = {
-            'noun': '명사',
-            'pronoun': '대명사',
-            'verb': '동사',
-            'adjective': '형용사',
-            'interjection': '감탄사',
-            'determiner': '관형사',
-            'adverb': '부사',
-            'counter': '특수:단위',
-            'plural_suffix': '특수:복수접미사',
-            'pseudo_alpha': '특수:알파벳',
-            'pseudo_digit': '특수:숫자',
+                'noun': '명사',
+                'pronoun': '대명사',
+                'verb': '동사',
+                'adjective': '형용사',
+                'interjection': '감탄사',
+                'determiner': '관형사',
+                'adverb': '부사',
+                'counter': '특수:단위',
+                'plural_suffix': '특수:복수접미사',
+                'pseudo_alpha': '특수:알파벳',
+                'pseudo_digit': '특수:숫자',
             }
             try:
                 self.pos = pos_values[val]
@@ -143,28 +149,33 @@ class Word:
 
         def load_idno(self, val):
             self.idno = int(val)
+
         def load_st(self, val):
             self.st = val
+
         def load_meta(self, val):
             self.meta = val
             if val == 'forbidden':
                 self.pos = '특수:금지어'
+
         def load_prop(self, val):
             for p in val.split(','):
                 self.props.add(p)
+
         def load_from(self, val):
             self.etym = val
+
         def load_orig(self, val):
             self.orig = val
 
-        info_load_funcs = { 'po': load_po,
-                            'st': load_st,
-                            'idno': load_idno,
-                            'meta': load_meta,
-                            'prop': load_prop,
-                            'from': load_from,
-                            'orig': load_orig,
-                          }
+        info_load_funcs = {'po': load_po,
+                           'st': load_st,
+                           'idno': load_idno,
+                           'meta': load_meta,
+                           'prop': load_prop,
+                           'from': load_from,
+                           'orig': load_orig,
+                           }
 
         s = line.split('#', 1)
         if len(s) > 1:
@@ -190,12 +201,14 @@ class Word:
             self.props.add('너라불규칙')
 
         self.verify_props()
-                
+
     def is_forbidden(self):
         return self.meta == 'forbidden'
+
     def __repr__(self):
         return '%(word)s po:%(po)s prop:%(props)s' % {
             'word': self.word, 'po': self.po, 'props': ','.join(self.props), }
+
     def __cmp__(self, other):
         n = cmp(self.word, other.word)
         if n != 0:
@@ -207,6 +220,7 @@ class Word:
         if n != 0:
             return n
         return 0
+
     def __hash__(self):
         return (self.word + self.po).__hash__()
 
@@ -217,7 +231,7 @@ class Word:
              self.word.endswith('롭다') or
              (self.word.endswith('업다') and self.word != '업다') or
              self.word.endswith('스럽다')) and
-            (not 'ㅂ불규칙' in self.props)):
+            ('ㅂ불규칙' not in self.props)):
             raise ParseError, 'ㅂ불규칙 용언으로 보이지만 속성 없음'
 
     def output(self, file):

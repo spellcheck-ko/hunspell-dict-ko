@@ -1,11 +1,14 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- encoding: utf-8 -*-
 
 import sys
 from urllib2 import urlopen, HTTPError
+from optparse import OptionParser
+
 
 def URL(start):
     return 'http://galkwi.appspot.com/tasks/export/?start=%s' % start
+
 
 def get(start):
     while True:
@@ -19,10 +22,12 @@ def get(start):
             break
     return n
 
+
 def trim_entries(xml):
     xml = xml[xml.find('<Entry>'):]
     xml = xml[:xml.rfind('</exported-data>')]
     return xml
+
 
 # NOTE: 다운로드한 데이터 형식을 가정하고 XML 파서를 쓰지 않는다.
 def split_last(xml):
@@ -35,6 +40,7 @@ def split_last(xml):
     output = xml[:xml.find('<Entry>\n<word>%s</word>' % last)]
 
     return (output, last)
+
 
 def output_all(outfile):
     outfile.write('<?xml version="1.0" ?>\n')
@@ -53,11 +59,11 @@ def output_all(outfile):
             start = last
     outfile.write('</exported-data>\n')
 
+
 def output_start(outfile, start):
     xml = get(start)
     outfile.write(xml)
 
-from optparse import OptionParser
 
 parser = OptionParser(usage='usage: %prog [options] outfilename')
 parser.add_option("-a", "--all", action="store_true", dest="dump_all")
