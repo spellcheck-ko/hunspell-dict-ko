@@ -139,7 +139,7 @@ COND_EU_NOT_AO = [ '[%s][%s]%s' % (V_NOT_A_O, L_ALL, V_EU),
 #### 유성음/무성음 자모 구분
 
 T_VOICED = T_NIEUN + T_RIEUL + T_MIEUM + T_IEUNG
-T_UNVOICED = [l for l in T_ALL if not l in T_VOICED]
+T_UNVOICED = ''.join([l for l in T_ALL if not l in T_VOICED])
 COND_VOICED = '[%s]' % (V_ALL + T_VOICED)
 COND_UNVOICED = '[%s]' % T_UNVOICED
 
