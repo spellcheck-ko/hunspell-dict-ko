@@ -6,6 +6,10 @@
 
 프로젝트 정보: https://github.com/spellcheck-ko/hunspell-dict-ko/
 
+이 프로젝트는 2017년부터 공개SW개발자Lab의 지원을 받고 있습니다.
+(http://kosslab.kr)
+
+
 ## 빌드
 
 make와 Python 3.x가 설치되어 있는 환경에서 make 명령을 실행하면
