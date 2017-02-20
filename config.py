@@ -1,4 +1,4 @@
-version = '0.5.6'
+version = '0.6.0'
 
 # 필요한 최소 hunspell 버전.
 # - 코드에서는 if config.minimum_hunspell_version >= (1,2,14): 와 같이
