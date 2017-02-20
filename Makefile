@@ -35,7 +35,7 @@ clean:
 	rm -rf $(DISTDIR)
 
 dist:: distdir $(BIN_DISTCONTENT)
-	git archive --format=tar.xz --prefix=$(SRC_DISTNAME)/ -o $(SRC_DISTFILE) $(RELEASETAG) || (echo "** Do 'git config tar.tar.xz.command \"xz -c\"'"; false)
+	git -c 'tar.tar.xz.command=xz -c' archive --format=tar.xz --prefix=$(SRC_DISTNAME)/ -o $(SRC_DISTFILE) $(RELEASETAG)
 	rm -f $(BIN_DISTFILE)
 	mkdir -p $(BIN_DISTNAME)
 	install -m644 $(BIN_DISTCONTENT) $(BIN_DISTNAME)/
