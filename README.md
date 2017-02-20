@@ -4,7 +4,9 @@
 파일에서 빌드한 AFF 및 DIC 파일을 이용하거나 여러 가지 확장 기능을
 이용하십시오.
 
-프로젝트 정보: https://github.com/spellcheck-ko/hunspell-dict-ko/
+프로젝트 정보: https://spellcheck-ko.github.io/
+
+Github 프로젝트: https://github.com/spellcheck-ko/hunspell-dict-ko/
 
 이 프로젝트는 2017년부터 공개SW개발자Lab의 지원을 받고 있습니다.
 (http://kosslab.kr)
