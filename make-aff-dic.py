@@ -39,7 +39,6 @@
 import sys
 import unicodedata
 import json
-from lxml import etree as lxml_etree
 
 import config
 import suffix
@@ -144,23 +143,6 @@ class Dictionary:
     def append(self, words):
         for w in words:
             self.words.add(w)
-
-    def load_xml(self, infile):
-        doc = lxml_etree.parse(infile)
-        root = doc.getroot()
-        for item in root:
-            w = Word()
-            for field in item:
-                if field.tag == 'word':
-                    w.word = field.text
-                elif field.tag == 'pos':
-                    w.pos = field.text
-                elif field.tag == 'props' and field.text:
-                    w.props = field.text.split(',')
-                    w.props.sort()
-                elif field.tag == 'stem' and field.text:
-                    w.stem = field.text
-            dic.add(w)
 
     def load_json(self, infile):
         d = json.load(infile)
@@ -327,8 +309,6 @@ if __name__ == '__main__':
     for filename in infilenames:
         if filename.endswith('.json'):
             dic.load_json(open(filename))
-        elif filename.endswith('.xml'):
-            dic.load_xml(open(filename))
         else:
             print('ERROR: unknown file type: ' + filename)
             sys.exit(1)
