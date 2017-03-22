@@ -180,6 +180,7 @@ rep_list = [
     # 두벌식 입력 순서 바뀜
 
     # 가능한 모든 경우를 다 열거할 수는 없고 흔히 범하는 경우만 쓴다.
+    # TODO: 내부 인코딩 변환되면 열거할 필요 없음.  https://github.com/spellcheck-ko/hunspell-dict-ko/issues/23
     ('ㅇ벗', '없'),                # ㅇ벗어 => 없어
     ('빈', T_PIEUP + '니'),        # 하빈다 => 합니다
     ('낟', T_NIEUN + '다'),        # 하낟 => 한다
@@ -220,6 +221,7 @@ rep_list = [
     # 준말 용언 + 모음 어미 -> 본디말 용언에 해당 어미
 
     # 형태가 가지각색이므로 케이스별로: 갖다, 머물다, 서툴다, 딛다
+    # TODO: 내부 인코딩 변환되면 열거할 필요 없음.  https://github.com/spellcheck-ko/hunspell-dict-ko/issues/23
     (T_CIEUC + '어', '져'),
     (T_CIEUC + '아', '져'),
     (T_CIEUC + '으', '지'),
@@ -230,6 +232,7 @@ rep_list = [
 
     #
     # 연철/분철 발음을 혼동할 때 나타나는 오타 대치어
+    # TODO: 내부 인코딩 변환되면 열거할 필요 없음.  https://github.com/spellcheck-ko/hunspell-dict-ko/issues/23
 
     # 받침+ㅇ초성 (일찍이/일찌기 등)
     (T_KIYEOK + L_IEUNG, L_KIYEOK),
