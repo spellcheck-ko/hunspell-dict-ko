@@ -9,3 +9,8 @@ minimum_hunspell_version = (1, 2, 14)
 # - 장점: hunspell의 합성어 기능의 문제점과 한계를 피해갈 수 있다
 # - 단점: 사전이 몇 배로 커져서 처리 속도가 느려 진다.
 expand_auxiliary_attached = True
+
+# 내부 인코딩
+# - 'NFD': 유니코드 NFD 형태, U+1100에 있는 한글 자모
+# - '2+RST': 두벌식 + 리셋 코드
+internal_encoding = 'NFD'
