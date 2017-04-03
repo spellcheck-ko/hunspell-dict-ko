@@ -645,11 +645,11 @@ class Encoder:
                 outlist.append(ch)
         return ''.join(outlist)
 
+DUMP_DECODER = False
 
 class Decoder:
     def __init__(self):
-        self.precompose = ''
-        self.prestrokes = ''
+        pass
 
     def stroke_is_c(self, ch):
         return (ord(ch) >= 0x3131) and (ord(ch) <= 0x314E)
@@ -658,86 +658,237 @@ class Decoder:
         return (ord(ch) >= 0x314F) and (ord(ch) <= 0x3163)
 
     def compose(self, s):
-        t_table = { 'ㄱㅅ': 'ㄳ', 'ㄴㅈ': 'ㄵ', 'ㄴㅎ': 'ㄶ', 'ㄹㄱ': 'ㄺ',
-                    'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
-                    'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ' }
-        if (len(s) == 2) and (s in t_table):
-            return table[s]
+        l_table = {
+            'ㄱ': '\u1100',
+            'ㄲ': '\u1101',
+            'ㄴ': '\u1102',
+            'ㄷ': '\u1103',
+            'ㄸ': '\u1104',
+            'ㄹ': '\u1105',
+            'ㅁ': '\u1106',
+            'ㅂ': '\u1107',
+            'ㅃ': '\u1108',
+            'ㅅ': '\u1109',
+            'ㅆ': '\u110A',
+            'ㅇ': '\u110B',
+            'ㅈ': '\u110C',
+            'ㅉ': '\u110D',
+            'ㅊ': '\u110E',
+            'ㅋ': '\u110F',
+            'ㅌ': '\u1110',
+            'ㅍ': '\u1111',
+            'ㅎ': '\u1112',
+        }
+        v_table = {
+            'ㅏ': '\u1161',
+            'ㅐ': '\u1162',
+            'ㅑ': '\u1163',
+            'ㅒ': '\u1164',
+            'ㅓ': '\u1165',
+            'ㅔ': '\u1166',
+            'ㅕ': '\u1167',
+            'ㅖ': '\u1168',
+            'ㅗ': '\u1169',
+            'ㅗㅏ': '\u116A',
+            'ㅗㅐ': '\u116B',
+            'ㅗㅣ': '\u116C',
+            'ㅛ': '\u116D',
+            'ㅜ': '\u116E',
+            'ㅜㅓ': '\u116F',
+            'ㅜㅔ': '\u1170',
+            'ㅜㅣ': '\u1171',
+            'ㅠ': '\u1172',
+            'ㅡ': '\u1173',
+            'ㅡㅣ': '\u1174',
+            'ㅣ': '\u1175',
+        }
+        t_table = {
+            'ㄱ': '\u11A8',
+            'ㄲ': '\u11A9',
+            'ㄱㅅ': '\u11AA',
+            'ㄴ': '\u11AB',
+            'ㄴㅈ': '\u11AC',
+            'ㄴㅎ': '\u11AD',
+            'ㄷ': '\u11AE',
+            'ㄹ': '\u11AF',
+            'ㄹㄱ': '\u11B0',
+            'ㄹㅁ': '\u11B1',
+            'ㄹㅂ': '\u11B2',
+            'ㄹㅅ': '\u11B3',
+            'ㄹㅌ': '\u11B4',
+            'ㄹㅍ': '\u11B5',
+            'ㄹㅎ': '\u11B6',
+            'ㅁ': '\u11B7',
+            'ㅂ': '\u11B8',
+            'ㅂㅅ': '\u11B9',
+            'ㅅ': '\u11BA',
+            'ㅆ': '\u11BB',
+            'ㅇ': '\u11BC',
+            'ㅈ': '\u11BD',
+            'ㅊ': '\u11BE',
+            'ㅋ': '\u11BF',
+            'ㅌ': '\u11C0',
+            'ㅍ': '\u11C1',
+            'ㅎ': '\u11C2',
+        }
+        vv_table = { 'ㅗㅐ': 'ㅙ', 'ㅗㅣ': 'ㅚ', 'ㅜㅓ': 'ㅝ', 'ㅜㅔ': 'ㅞ',
+                     'ㅡㅣ': 'ㅢ' }
+        tt_table = { 'ㄱㅅ': 'ㄳ', 'ㄴㅈ': 'ㄵ', 'ㄴㅎ': 'ㄶ', 'ㄹㄱ': 'ㄺ',
+                     'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
+                     'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ' }
+
+        print('s: %s' % s)
+        assert len(s) >= 2
+        nfd = l_table[s[0]]
+        i = 1
+        assert self.stroke_is_v(s[i])
+        if len(s) > (i + 1) and self.stroke_is_v(s[i+1]):
+            nfd += v_table[s[i:i+2]]
+            i += 2
+        else:
+            nfd += v_table[s[i]]
+            i += 1
+        if len(s) >= (i + 1):
+            if len(s) > (i + 1) and self.stroke_is_c(s[i+1]):
+                nfd += t_table[s[i:i+2]]
+                i += 2
+            else:
+                assert self.stroke_is_c(s[i])
+                nfd += t_table[s[i]]
+                i += 1
+        assert len(s) == i
+        return unicodedata.normalize('NFC', nfd)
+
+    def decode(self, s):
+        composed = []
+        strokes = []
+        precomposed = ''
+        prestrokes = ''
 
         STATE_INITIAL = 1
         STATE_L = 2
+        STATE_LL = 22
         STATE_V = 3
+        STATE_VC = 33
         STATE_T = 4
-
         state = STATE_INITIAL
-        out = ''
-        l = ''
-        v = ''
-        t = ''
-        for i in range(0, len(s)) > 0:
-            if state == STATE_INITIAL:
-                if self.stroke_is_c(s[i]):
-                    state = STATE_L
-                    l = s[i]
-                else:
-                    out += s[i]
-            elif state == STATE_L:
-                if self.stroke_is_v(s[i]):
-                    state = STATE_V
-                    v = s[i]
-                else:
-                    out += l
-                    l = s[i]
-            elif state == STATE_V:
-                if self.stroke_is_c(s[i]):
-                    state = STATE_T
-                    t = s[i]
-                else:
-                    vv = compose_v(v + s[i])
-                    if vv:
-                        v = vv
-                    else:
-                        out = compose_syllable(l, v, '') + s[i]
-                        state = STATE_INITIAL
-            elif state == STATE_T:
-                if self.stroke_is_c(s[i]):
-                    # 복자음인지 확인 후
-                    state = STATE_T
-                elif self.stroke_is_v(s[i]):
-                    state = STATE_V
-                else:
-                    break
 
-        return out
-
-    def decode(self, s):
         for ch in s:
             if ch == RESET_CODE:
-                out = self.precompose
-                self.precompose = ''
-                self.prestrokes = ''
-                return out
-            elif self.stroke_is_c(ch) or self.stroke_is_v(ch):
-                self.prestrokes += ch
-                self.precompose = self.compose(self.prestrokes)
-                if len(self.precompose) >= 2:
-                    out = self.precompose[:-1]
-                    if self.stroke_is_c(ch):
-                        self.prestrokes = ch
-                    elif self.stroke_is_v(ch):
-                        if self.stroke_is_c(self.precompose[-2]):
-                            self.prestrokes = self.prestrokes[-2:]
-                        else:
-                            self.prestrokes = ch
-                    self.precompose = self.precompose[-1]
+                composed.append(precomposed)
+                strokes.append(prestrokes)
+                precomposed = ''
+                prestrokes = ''
+                state = STATE_INITIAL
+            elif self.stroke_is_c(ch):
+                t_table = { 'ㄱㅅ': 'ㄳ', 'ㄴㅈ': 'ㄵ', 'ㄴㅎ': 'ㄶ', 'ㄹㄱ': 'ㄺ',
+                            'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
+                            'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ' }
+                if state == STATE_INITIAL or state == STATE_LL or state == STATE_VC:
+                    if precomposed:
+                        composed.append(precomposed)
+                        strokes.append(prestrokes)
+                    precomposed = ch
+                    prestrokes = ch
+                    state = STATE_L
+                elif state == STATE_L:
+                    if (prestrokes + ch) in t_table:
+                        precomposed = t_table[prestrokes + ch]
+                        prestrokes += ch
+                        state = STATE_LL
+                    else:
+                        composed.append(precomposed)
+                        strokes.append(prestrokes)
+                        precomposed = ch
+                        prestrokes = ch
+                        state = STATE_L
+                elif state == STATE_V:
+                    prestrokes += ch
+                    precomposed = self.compose(prestrokes)
+                    state = STATE_T
+                elif state == STATE_T:
+                    if (prestrokes[-1] + ch) in t_table:
+                        prestrokes += ch
+                        precomposed = self.compose(prestrokes)
+                        state = STATE_T
+                    else:
+                        composed.append(precomposed)
+                        strokes.append(prestrokes)
+                        prestrokes = ch
+                        precomposed = ch
+                        state = STATE_L
                 else:
-                    out = ''
-                return out
+                    assert False
+            elif self.stroke_is_v(ch):
+                v_table = { 'ㅗㅏ': 'ㅘ', 'ㅗㅐ': 'ㅙ', 'ㅗㅣ': 'ㅚ',
+                            'ㅜㅓ': 'ㅝ', 'ㅜㅔ': 'ㅞ', 'ㅜㅣ': 'ㅟ',
+                            'ㅡㅣ': 'ㅢ' }
+                if state == STATE_INITIAL:
+                    composed.append(precomposed)
+                    strokes.append(prestrokes)
+                    precomposed = ch
+                    prestrokes = ch
+                    state = STATE_VC
+                elif state == STATE_VC:
+                    if (prestrokes + ch) in v_table:
+                        precomposed = v_table[prestrokes + ch]
+                        prestrokes += ch
+                        state = STATE_VC
+                    else:
+                        composed.append(precomposed)
+                        composed.strokes(prestrokes)
+                        precomposed = ch
+                        prestrokes = ch
+                        state = STATE_VC
+                elif state == STATE_LL:
+                    composed.append(prestrokes[0])
+                    strokes.append(prestrokes[0])
+                    prestrokes = prestrokes[1:] + ch
+                    precomposed = self.compose(prestrokes)
+                    state = STATE_V
+                elif state == STATE_L:
+                    prestrokes += ch
+                    precomposed = self.compose(prestrokes)
+                    state = STATE_V
+                elif state == STATE_V:
+                    if (prestrokes[-1] + ch) in v_table:
+                        prestrokes += ch
+                        precomposed = self.compose(prestrokes)
+                        state = STATE_V
+                    else:
+                        composed.append(precomposed)
+                        strokes.append(prestrokes)
+                        prestrokes = ch
+                        precomposed = ch
+                        state = STATE_VC
+                elif state == STATE_T:
+                    composed.append(self.compose(prestrokes[:-1]))
+                    strokes.append(prestrokes[:-1])
+                    prestrokes = prestrokes[-1] + ch
+                    precomposed = self.compose(prestrokes)
+                    state = STATE_V
+                else:
+                    assert False
             else:
-                out = self.precompose + s
-                self.precompose = ''
-                self.prestrokes = ''
-                return out
+                if precomposed:
+                    composed.append(precomposed)
+                    strokes.append(prestrokes)
+                composed.append(ch)
+                strokes.append(ch)
+                precomposed = ''
+                prestrokes = ''
+                state = STATE_INITIAL
+            if DUMP_DECODER:
+                print('================')
+                print('ch: %s' % ch)
+                print('composed: %s' % composed)
+                print('strokes: %s' % strokes)
+                print('precomposed: %s' % precomposed)
+                print('prestrokes: %s' % prestrokes)
+        if precomposed:
+            composed.append(precomposed)
+            strokes.append(prestrokes)
+        return ''.join(composed)
 
 def encode(s):
     encoder = Encoder()
@@ -752,21 +903,38 @@ def decode(s):
 if __name__ == '__main__':
     import sys
 
-    def round_trip(decoded, encoded):
+    def assert_round_trip(decoded, encoded):
         if encode(decoded) != encoded:
             print('encode(%s) = %s != %s' % (decoded, encode(decoded), encoded))
         assert encode(decoded) == encoded
-        # TODO:
-        # assert decode(encoded) == decoded
+        if decode(encoded) != decoded:
+            print('encode(%s) = %s != %s' % (decoded, encode(decoded), encoded))
+        assert decode(encoded) == decoded
 
-    round_trip('바둑이', 'ㅂㅏㄷㅜㄱㅇㅣ')
-    round_trip('바둑이ㄱ', 'ㅂㅏㄷㅜㄱㅇㅣ' + RESET_CODE + 'ㄱ')
-    round_trip('ㄱㅅ', 'ㄱ' + RESET_CODE + 'ㅅ')
-    round_trip('ㄳ', 'ㄱㅅ')
-    round_trip('ㄱ삯', 'ㄱㅅㅏㄱㅅ')
+    def assert_encode(decoded, encoded):
+        if encode(decoded) != encoded:
+            print('encode(%s) = %s != %s' % (decoded, encode(decoded), encoded))
+        assert encode(decoded) == encoded
+
+    assert_round_trip('바둑이', 'ㅂㅏㄷㅜㄱㅇㅣ')
+    assert_round_trip('과일', 'ㄱㅗㅏㅇㅣㄹ')
+    assert_round_trip('뷁이', 'ㅂㅜㅔㄹㄱㅇㅣ')
+    assert_round_trip('뷀기', 'ㅂㅜㅔㄹㄱㅣ')
+    assert_round_trip('쌇아', 'ㅆㅏㄹㅎㅇㅏ')
+    assert_round_trip('ㄳ', 'ㄱㅅ')
+    assert_round_trip('ㅙ', 'ㅗㅐ')
+    assert_round_trip('ㅙ', 'ㅗㅐ')
+    assert_round_trip('ㄱ삯', 'ㄱㅅㅏㄱㅅ')
+    assert_round_trip('ㄱ삭가', 'ㄱㅅㅏㄱㄱㅏ')
+    assert_round_trip('ㅙㄱ', 'ㅗㅐㄱ')
+    assert_round_trip('바둑이ㄱ', 'ㅂㅏㄷㅜㄱㅇㅣ' + RESET_CODE + 'ㄱ')
+    assert_round_trip('ㄱㅅ', 'ㄱ' + RESET_CODE + 'ㅅ')
+    assert_round_trip('ㅙㄱㅣ', 'ㅗㅐㄱ' + RESET_CODE + 'ㅣ')
+    assert_round_trip('맨To맨', 'ㅁㅐㄴToㅁㅐㄴ')
+    assert_round_trip('English맨', 'Englishㅁㅐㄴ')
 
     # one way
-    assert encode('\u1100\u1161\u11A8') ==  'ㄱㅏㄱ'
-    assert encode('\u1100\u1161\u11A8\u1161') == 'ㄱㅏㄱ' + RESET_CODE + 'ㅏ'
-    assert (encode('\u1100\u1161\u112D\u1161\u11A8') ==
-            'ㄱㅏ' + RESET_CODE + 'ㅅㄱ' + RESET_CODE + 'ㅏ' + RESET_CODE + 'ㄱ')
+    assert_encode('\u1100\u1161\u11A8', 'ㄱㅏㄱ')
+    assert_encode('\u1100\u1161\u11A8\u1161', 'ㄱㅏㄱ' + RESET_CODE + 'ㅏ')
+    assert_encode('\u1100\u1161\u112D\u1161\u11A8',
+                  'ㄱㅏ' + RESET_CODE + 'ㅅㄱ' + RESET_CODE + 'ㅏ' + RESET_CODE + 'ㄱ')
