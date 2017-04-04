@@ -1,0 +1,14 @@
+sudo: false
+
+os:
+  - linux
+
+script:
+  - make && make test
+
+addons:
+  apt:
+    packages:
+    - make
+    - python3
+    - hunspell
