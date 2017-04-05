@@ -308,9 +308,9 @@ if __name__ == '__main__':
     dic = Dictionary()
     for filename in infilenames:
         if filename.endswith('.json'):
-            dic.load_json(open(filename))
+            dic.load_json(open(filename, encoding='utf-8'))
         else:
             print('ERROR: unknown file type: ' + filename)
             sys.exit(1)
     dic.process()
-    dic.output(open(afffilename, 'w'), open(dicfilename, 'w'))
+    dic.output(open(afffilename, 'w', encoding='utf-8'), open(dicfilename, 'w', encoding='utf-8'))
