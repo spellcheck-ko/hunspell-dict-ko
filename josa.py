@@ -37,11 +37,19 @@
 # ***** END LICENSE BLOCK *****
 
 import config
+import encoding
 from flags import *
 from jamo import *
 import suffix
 
 import unicodedata
+
+
+def ENC(unistr):
+    if config.internal_encoding == '2+RST':
+        return encoding.encode(unistr)
+    else:
+        return unicodedata.normalize('NFD', unistr)
 
 
 def NFD(unistr):
@@ -51,16 +59,24 @@ def NFD(unistr):
 def NFC(unistr):
     return unicodedata.normalize('NFC', unistr)
 
+
 ALPHA_ALL = '01234567890abcdefghijklmnopqrstuvwxyz'
 
 #
 # 임의로 허용하는 로마자로 된 단어는 음운 구별을 하지 않는다. 할 방법이 없음.
 COND_ALL = '.'
-COND_V_ALL = '[%s]' % (V_ALL + ALPHA_ALL)
-COND_T_ALL = '[%s]' % (T_ALL + ALPHA_ALL)
-COND_V_OR_RIEUL = '[%s]' % (V_ALL + T_RIEUL + ALPHA_ALL)
-COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(T_RIEUL, '') + ALPHA_ALL)
+if config.internal_encoding == '2+RST':
+    COND_V_ALL = '[ㅏㅣㅗㅡㅓㅜㅕㅔㅐㅛㅠㅑㅖㅒ%s]' % (ALPHA_ALL)
+    COND_T_ALL = '[ㅇㄴㄱㄹㅅㅈㄷㅁㅎㅂㅌㅊㅍㅆㅋㄸㄲㅉㅃ%s]' % (ALPHA_ALL)
+    COND_V_OR_RIEUL = '[ㅏㅣㅗㅡㅓㅜㅕㅔㅐㅛㅠㅑㅖㅒㄹ%s]' % (ALPHA_ALL)
+    COND_T_NOT_RIEUL = '[ㅇㄴㄱㅅㅈㄷㅁㅎㅂㅌㅊㅍㅆㅋㄸㄲㅉㅃ%s]' % (ALPHA_ALL)
+else:
+    COND_V_ALL = '[%s]' % (V_ALL + ALPHA_ALL)
+    COND_T_ALL = '[%s]' % (T_ALL + ALPHA_ALL)
+    COND_V_OR_RIEUL = '[%s]' % (V_ALL + T_RIEUL + ALPHA_ALL)
+    COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(T_RIEUL, '') + ALPHA_ALL)
 
+TRYCHARS = ''
 
 class JosaClass:
     next_flag = josas_flag_start
@@ -90,19 +106,20 @@ class JosaClass:
                 return True
             else:
                 return False
-        return True
+        else:
+            return True
 
     def output(self):
         result = []
         line = 'SFX %d Y %d' % (self.flag, len(self.rules))
-        result.append(NFD(line))
+        result.append(line)
         for (sfx, cond, strip) in self.rules:
             if not strip:
                 strip = '0'
             if not cond:
                 cond = '.'
-            line = 'SFX %d %s %s %s' % (self.flag, strip, sfx, cond)
-            result.append(NFD(line))
+            line = 'SFX %d %s %s %s' % (self.flag, ENC(strip), ENC(sfx), cond)
+            result.append(line)
         return '\n'.join(result)
 
 
@@ -118,7 +135,7 @@ groups['이'] = [
               after=['#명사', '#대명사']),
     # 대명사 '-거'+'이' -> '게'
     JosaClass(
-        rules=[(V_E, '거', V_EO)],
+        rules=[(V_E, ENC('거'), V_EO)],
         after=[('거', '#대명사'),
                ('그거', '#대명사'),
                ('요거', '#대명사'),
@@ -154,7 +171,7 @@ groups['가'] = [
     ),
     # 대명사 '누구'+'가' -> '누가'
     JosaClass(
-        rules=[('가', '누구', '구')],
+        rules=[('가', ENC('누구'), '구')],
         after=[('누구', '#대명사')],
     ),
 ]
@@ -185,7 +202,7 @@ groups['!종성줄임'] = [
 # '거'+'로' => '걸로'
 groups['!거+로'] = [
     JosaClass(
-        rules=[(T_RIEUL + '로' + emph, '거', '')
+        rules=[(T_RIEUL + '로' + emph, ENC('거'), '')
                for emph in ['', '는', T_RIEUL, '도',
                             '만',
                             '서', '서는', '선', '서도',
@@ -358,7 +375,6 @@ klasses = []
 for _key in groups.keys():
     klasses += groups[_key]
 
-
 def find_flags(word, pos, props):
     result = []
     for klass in klasses:
@@ -386,25 +402,31 @@ def get_ida_rules(flagaliases):
             if cont_flags not in flagaliases:
                 flagaliases.append(cont_flags)
             c = word + '/%d' % (flagaliases.index(cont_flags) + 1)
-        if NFD(c)[:2] in [NFD('여'), NFD('예')]:
+        if ENC(c)[:2] in [ENC('여'), ENC('예')]:
             # '이어' -> '여', '이에' => '예' 줄임형은 받침이 있을 경우에만
             ida_josas.append((c, COND_V_ALL))
         else:
             ida_josas.append((c, COND_ALL))
         # '이' 생략
         # TODO: 받침이 앞의 명사에 붙는 경우 허용 여부 (예: "마찬가집니다")
-        if NFC(c)[0] == '이':
-            ida_josas.append((NFC(c)[1:], COND_V_ALL))
-        elif NFD(c)[:2] == NFD('이'):
-            ida_josas_t.append((NFD(c)[2:], COND_V_ALL))
+        if config.internal_encoding == '2+RST':
+            if c.startswith('이'):
+                ida_josas.append((c[1:], COND_V_ALL))
+            elif c.startswith(NFD('이')):
+                ida_josas_t.append((c[2:], COND_V_ALL))
+        else:
+            if NFC(c)[0] == '이':
+                ida_josas.append((NFC(c)[1:], COND_V_ALL))
+            elif NFD(c)[:2] == NFD('이'):
+                ida_josas_t.append((NFD(c)[2:], COND_V_ALL))
 
     result = ['SFX %d Y %d' % (josa_ida_flag, len(ida_josas))]
     for (sfx, cond) in ida_josas:
-        result.append(NFD('SFX %d 0 %s %s' % (josa_ida_flag, sfx, cond)))
+        result.append('SFX %d 0 %s %s' % (josa_ida_flag, ENC(sfx), cond))
 
     result.append('SFX %d Y %d' % (josa_ida_t_flag, len(ida_josas_t)))
     for (sfx, cond) in ida_josas_t:
-        result.append(NFD('SFX %d 0 %s %s' % (josa_ida_t_flag, sfx, cond)))
+        result.append('SFX %d 0 %s %s' % (josa_ida_t_flag, ENC(sfx), cond))
     return result
 
 

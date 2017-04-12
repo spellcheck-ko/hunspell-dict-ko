@@ -41,8 +41,16 @@ import re
 import unicodedata
 
 import config
+import encoding
 import flags
 from suffixdata import groups
+
+
+def ENC(unistr):
+    if config.internal_encoding == '2+RST':
+        return encoding.encode(unistr)
+    else:
+        return unicodedata.normalize('NFD', unistr)
 
 
 def NFD(unistr):

@@ -43,11 +43,15 @@ import json
 import config
 import suffix
 import josa
+import encoding
 from flags import *
 
 
-def NFD(unistr):
-    return unicodedata.normalize('NFD', unistr)
+def ENC(unistr):
+    if config.internal_encoding == '2+RST':
+        return encoding.encode(unistr)
+    else:
+        return unicodedata.normalize('NFD', unistr)
 
 
 def warn(s):
@@ -189,7 +193,7 @@ class Dictionary:
             if word.morph_alias > 0:
                 line += (' %d' % word.morph_alias)
             line += '\n'
-            outfile.write(NFD(line))
+            outfile.write(ENC(line))
 
     def output_aff(self, outfile):
         from string import Template

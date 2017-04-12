@@ -14,3 +14,4 @@ expand_auxiliary_attached = True
 # - 'NFD': 유니코드 NFD 형태, U+1100에 있는 한글 자모
 # - '2+RST': 두벌식 + 리셋 코드
 internal_encoding = 'NFD'
+# internal_encoding = '2+RST'
