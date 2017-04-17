@@ -48,17 +48,16 @@ from suffixdata import groups
 
 def ENC(unistr):
     if config.internal_encoding == '2+RST':
-        return encoding.encode(unistr)
+        return encoding.encode(unistr).replace(encoding.RESET_CODE, '')
     else:
         return unicodedata.normalize('NFD', unistr)
 
 
-def NFD(unistr):
-    return unicodedata.normalize('NFD', unistr)
-
-
-def NFC(unistr):
-    return unicodedata.normalize('NFC', unistr)
+def DEC(s):
+    if config.internal_encoding == '2+RST':
+        return encoding.decode(s)
+    else:
+        return unicodedata.normalize('NFC', s)
 
 
 # 조건이 list일 경우 확장
@@ -112,8 +111,8 @@ def expand_by_link():
                 if (('-' in k['after'] or last in k['after']) and
                     (not ('notafter' in k) or not (last in k['notafter']))):
                     for r in k['rules']:
-                        if re.match(NFD('.*' + r[1] + '$'),
-                                    NFD(last[:-1])):
+                        if re.match('.*' + ENC(r[1]) + '$',
+                                    ENC(last[:-1])):
                             rules.append(r)
         return rules
 
@@ -129,10 +128,10 @@ def expand_by_link():
                 attaches = find_rules_to_attach(last)
                 for a in attaches:
                     if a[2]:
-                        striplen = len(NFD(a[2]))
+                        striplen = len(ENC(a[2]))
                     else:
                         striplen = 0
-                    new_suffix = NFC(NFD(r[0])[:-1-striplen] + a[0][1:])
+                    new_suffix = DEC(ENC(r[0])[:-1-striplen] + a[0][1:])
                     new_rules.append([new_suffix] + r[1:3] + a[3:])
             klass['rules'] = new_rules
 
@@ -155,6 +154,8 @@ expand_by_link()
 # 연결이 끝나면 그룹끼리 구분할 필요가 없다.
 klasses = []
 for key in groups.keys():
+    for r in groups[key]:
+        r['name'] = key
     klasses += groups[key]
 
 # 선어말어미 연결 정보도 필요 없다.
@@ -204,11 +205,14 @@ def get_rules_string(flagaliases):
     rule_strings = []
     for klass in klasses:
         flag = klass['flag']
+        if len(klass['rules']) == 0:
+            continue
+        rule_strings.append('# %d \'%s\'' % (flag, klass['name']))
         rule_strings.append('SFX %d Y %d' % (flag, len(klass['rules'])))
 
         for r in klass['rules']:
             suffix = r[0][1:]   # 앞에 '-' 빼기
-            condition = r[1] + '다'
+            condition = r[1] + ENC('다')
             strip = r[2] + '다'
             try:
                 cont_flags = r[3]
@@ -220,8 +224,8 @@ def get_rules_string(flagaliases):
                     cont = '/' + ','.join(['%d' % c for c in cont_flags])
             except IndexError:
                 cont = ''
-            rule_strings.append(NFD('SFX %d %s %s%s %s' %
-                                    (flag, strip, suffix, cont, condition)))
+            rule_strings.append('SFX %d %s %s %s' %
+                                (flag, ENC(strip), ENC(suffix + cont), condition))
     return '\n'.join(rule_strings)
 
 
@@ -229,12 +233,12 @@ def class_match_word(klass, word, po, props):
     if (('after' in klass) and
         (word not in klass['after']) and
         (('#'+po) not in klass['after']) and
-        (not [1 for k in klass['after'] if k[0] == '^' and re.match(NFD(k), NFD(word))])):
+        (not [1 for k in klass['after'] if k[0] == '^' and re.match(ENC(k), ENC(word))])):
         return False
     if (('notafter' in klass) and
         ((word in klass['notafter']) or
          ('#'+po) in klass['notafter'] or
-         [1 for k in klass['notafter'] if k[0] == '^' and re.match(NFD(k), NFD(word))])):
+         [1 for k in klass['notafter'] if k[0] == '^' and re.match(ENC(k), ENC(word))])):
         return False
     if 'cond' in klass:
         for prop in props:
@@ -279,12 +283,12 @@ def make_conjugations(word, po, props, suffixname=None):
             suffix = r[0]
             condition = r[1]
             strip = r[2]
-            if re.match(NFD('.*' + condition + '다$'), NFD(word)):
+            if re.match('.*' + ENC(condition + '다') + '$', ENC(word)):
                 if strip:
-                    striplen = len(NFD(strip + '다'))
+                    striplen = len(ENC(strip + '다'))
                 else:
-                    striplen = len(NFD('다'))
-                conj = (NFD(word)[:-striplen] + suffix[1:])
+                    striplen = len(ENC('다'))
+                conj = DEC(ENC(word)[:-striplen] + ENC(suffix[1:]))
                 try:
                     conj += '/' + ','.join([str(c) for c in r[3]])
                 except IndexError:

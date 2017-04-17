@@ -737,7 +737,6 @@ class Decoder:
                      'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
                      'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ' }
 
-        print('s: %s' % s)
         assert len(s) >= 2
         nfd = l_table[s[0]]
         i = 1
@@ -771,6 +770,7 @@ class Decoder:
         STATE_V = 3
         STATE_VC = 33
         STATE_T = 4
+        STATE_TT = 5
         state = STATE_INITIAL
 
         for ch in s:
@@ -780,7 +780,7 @@ class Decoder:
                 precomposed = ''
                 prestrokes = ''
                 state = STATE_INITIAL
-            elif self.stroke_is_c(ch):
+            elif ch in 'ㄱㄲㄴㄷㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ':
                 t_table = { 'ㄱㅅ': 'ㄳ', 'ㄴㅈ': 'ㄵ', 'ㄴㅎ': 'ㄶ', 'ㄹㄱ': 'ㄺ',
                             'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
                             'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ' }
@@ -803,20 +803,34 @@ class Decoder:
                         prestrokes = ch
                         state = STATE_L
                 elif state == STATE_V:
-                    prestrokes += ch
-                    precomposed = self.compose(prestrokes)
-                    state = STATE_T
+                    if ch in 'ㅃㅉ':
+                        if precomposed:
+                            composed.append(precomposed)
+                            strokes.append(prestrokes)
+                        precomposed = ch
+                        prestrokes = ch
+                        state = STATE_L
+                    else:
+                        prestrokes += ch
+                        precomposed = self.compose(prestrokes)
+                        state = STATE_T
                 elif state == STATE_T:
                     if (prestrokes[-1] + ch) in t_table:
                         prestrokes += ch
                         precomposed = self.compose(prestrokes)
-                        state = STATE_T
+                        state = STATE_TT
                     else:
                         composed.append(precomposed)
                         strokes.append(prestrokes)
                         prestrokes = ch
                         precomposed = ch
                         state = STATE_L
+                elif state == STATE_TT:
+                    composed.append(precomposed)
+                    strokes.append(prestrokes)
+                    prestrokes = ch
+                    precomposed = ch
+                    state = STATE_L
                 else:
                     assert False
             elif self.stroke_is_v(ch):
@@ -836,7 +850,7 @@ class Decoder:
                         state = STATE_VC
                     else:
                         composed.append(precomposed)
-                        composed.strokes(prestrokes)
+                        strokes.append(prestrokes)
                         precomposed = ch
                         prestrokes = ch
                         state = STATE_VC
@@ -861,7 +875,7 @@ class Decoder:
                         prestrokes = ch
                         precomposed = ch
                         state = STATE_VC
-                elif state == STATE_T:
+                elif state == STATE_T or state == STATE_TT:
                     composed.append(self.compose(prestrokes[:-1]))
                     strokes.append(prestrokes[:-1])
                     prestrokes = prestrokes[-1] + ch

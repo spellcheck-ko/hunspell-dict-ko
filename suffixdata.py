@@ -38,6 +38,22 @@
 
 import config
 import flags
+import encoding
+import unicodedata
+
+def ENC(unistr):
+    if config.internal_encoding == '2+RST':
+        return encoding.encode(unistr).replace(encoding.RESET_CODE, '')
+    else:
+        return unicodedata.normalize('NFD', unistr)
+
+
+def DEC(s):
+    if config.internal_encoding == '2+RST':
+        return encoding.decode(s)
+    else:
+        return unicodedata.normalize('NFC', s)
+
 
 ######################################################################
 #### 유틸리티
@@ -46,6 +62,41 @@ import flags
 
 from jamo import *
 
+if config.internal_encoding == '2+RST':
+    ALPHA_ALL = '01234567890abcdefghijklmnopqrstuvwxyz'
+    L_ALL = 'ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ'
+    T_ALL = 'ㄱㄲㄴㄷㄹㅁㅂㅅㅆㅇㅈㅊㅋㅌㅍㅎ'
+    V_ALL = 'ㅏㅐㅑㅒㅓㅔㅕㅖㅗㅛㅜㅠㅡㅣ'
+    L_HIEUH = 'ㅎ'
+    L_IEUNG = 'ㅇ'
+    L_NIEUN = 'ㄴ'
+    T_HIEUH = 'ㅎ'
+    T_IEUNG = 'ㅇ'
+    T_MIEUM = 'ㅁ'
+    T_NIEUN = 'ㄴ'
+    T_PIEUP = 'ㅂ'
+    T_RIEUL = 'ㄹ'
+    T_RIEUL_MIEUM = 'ㄹㅁ'
+    T_SIOS = 'ㅅ'
+    T_SSANGSIOS = 'ㅆ'
+    T_TIKEUT = 'ㄷ'
+    V_A = 'ㅏ'
+    V_AE = 'ㅐ'
+    V_E = 'ㅔ'
+    V_EO = 'ㅓ'
+    V_EU = 'ㅡ'
+    V_I = 'ㅣ'
+    V_O = 'ㅗ'
+    V_OE = 'ㅗㅣ'
+    V_U = 'ㅜ'
+    V_WA = 'ㅗㅏ'
+    V_WAE = 'ㅗㅐ'
+    V_WEO = 'ㅜㅓ'
+    V_YA = 'ㅑ'
+    V_YAE = 'ㅒ'
+    V_YE = 'ㅖ'
+    V_YEO = 'ㅕ'
+
 def L_NOT(jamos):
     return ''.join([c for c in L_ALL if not c in jamos])
 def V_NOT(jamos):
@@ -53,17 +104,29 @@ def V_NOT(jamos):
 def T_NOT(jamos):
     return ''.join([c for c in T_ALL if not c in jamos])
 
-V_A_O = V_A + V_YA + V_O + V_YO
-V_NOT_A_O = V_NOT(V_A + V_YA + V_O + V_YO)
-V_NOT_A_EO_O = V_NOT(V_A + V_YA + V_EO + V_O + V_YO)
+if config.internal_encoding == '2+RST':
+    V_A_O = 'ㅏㅑㅗㅛ'
+    V_NOT_A_O = V_NOT('ㅏㅑㅗㅛ')
+    V_NOT_A_EO_O = V_NOT('ㅏㅑㅓㅗㅛ')
+else:
+    V_A_O = V_A + V_YA + V_O + V_YO
+    V_NOT_A_O = V_NOT(V_A + V_YA + V_O + V_YO)
+    V_NOT_A_EO_O = V_NOT(V_A + V_YA + V_EO + V_O + V_YO)
 
 # 조건
 
-COND_V_ALL = '[%s]' % V_ALL
-COND_T_ALL = '[%s]' % T_ALL
-COND_V_OR_RIEUL = '[%s%s]' % (V_ALL, T_RIEUL)
-COND_T_NOT_RIEUL = '[%s]' % T_NOT(T_RIEUL)
-COND_NOT_RIEUL = '[^%s]' % T_RIEUL
+if config.internal_encoding == '2+RST':
+    COND_V_ALL = '[ㅏㅑㅐㅒㅗㅛㅓㅔㅕㅖㅜㅠㅡㅣ]'
+    COND_T_ALL = '[ㄱㄲㄴㄷㄹㅁㅂㅅㅆㅇㅈㅊㅋㅌㅍㅎ]'
+    COND_V_OR_RIEUL = '[ㅏㅑㅐㅒㅗㅛㅓㅔㅕㅖㅜㅠㅡㅣㄹ]'
+    COND_T_NOT_RIEUL = '[ㄱㄲㄴㄷㅁㅂㅅㅆㅇㅈㅊㅋㅌㅍㅎ]'
+    COND_NOT_RIEUL = '[^ㄹ]'
+else:
+    COND_V_ALL = '[%s]' % V_ALL
+    COND_T_ALL = '[%s]' % T_ALL
+    COND_V_OR_RIEUL = '[%s%s]' % (V_ALL, T_RIEUL)
+    COND_T_NOT_RIEUL = '[%s]' % T_NOT(T_RIEUL)
+    COND_NOT_RIEUL = '[^%s]' % T_RIEUL
 
 # 보조사 확장
 def attach_emphasis(group, particles):
@@ -97,14 +160,20 @@ def attach_continuation_flags(group, flags):
 
 # ㅏ/ㅗ 모음의 음절로 끝나는 경우  (ㅏ로 끝나는 경우, '오'로 끝나는 경우 제외)
 COND_EOA_AO = [ '[%s]%s' % (L_NOT(L_IEUNG), V_O), '[%s][%s]' % (V_A_O, T_ALL) ]
+if config.internal_encoding == '2+RST':
+    # 복자음 받침
+    COND_EOA_AO += [ '[%s][ㄱㄴㄹㅂ][ㄱㅁㅂㅅㅈㅌㅎ]' % (V_A_O) ]
 # ㅏ/ㅗ 제외한 모음의 음절로 끝나는 경우  (ㅓ로 끝나는 경우 제외)
 COND_EOA_NOT_AO = [ '[%s]' % V_NOT_A_EO_O, '[%s][%s]' % (V_NOT_A_O, T_ALL) ]
+if config.internal_encoding == '2+RST':
+    # 복자음 받침
+    COND_EOA_NOT_AO += [ '[%s][ㄱㄴㄹㅂ][ㄱㅁㅂㅅㅈㅌㅎ]' % (V_NOT_A_O) ]
 # ㅓ로 끝나는 경우
 COND_EOA_EO = V_EO
 # ㅏ로 끝나는 경우 ('하' 제외)
 COND_EOA_A = '[%s]%s' % (L_NOT(L_HIEUH), V_A)
 # 하로 끝나는 경우
-COND_EOA_HA = '하'
+COND_EOA_HA = ENC('하')
 # 외어 -> 왜 ('외다', '뇌다' 예외) - 한글 맞춤법 35항
 COND_EOA_OE = '[%s]%s' % (L_NOT(L_NIEUN + L_IEUNG), V_OE)
 
@@ -145,9 +214,9 @@ def HIEUH_IRREGULAR_TYPICAL_CLASS(suffix, after):
 #### 르불규칙활용 유틸리티
 
 # '르다' 앞에 ㅏ/ㅗ 모음의 음절
-COND_REU_AO = [ '[%s]르' % V_A_O, '[%s][%s]르' % (V_A_O, T_ALL) ]
+COND_REU_AO = [ '[%s]' % V_A_O + ENC('르'), '[%s][%s]' % (V_A_O, T_ALL) + ENC('르') ]
 # '르다' 앞에 ㅏ/ㅗ 모음이 아닌 음절
-COND_REU_NOT_AO = [ '[%s]르' % V_NOT_A_O, '[%s][%s]르' % (V_NOT_A_O, T_ALL) ]
+COND_REU_NOT_AO = [ '[%s]' % V_NOT_A_O + ENC('르'), '[%s][%s]' % (V_NOT_A_O, T_ALL) + ENC('르') ]
 
 #### 으불규칙활용 유틸리티
 
@@ -218,13 +287,13 @@ groups['-었-'] = [
                 ['-았-', COND_EOA_AO, ''],
                 ['-' + V_EO + T_SSANGSIOS + '-', COND_EOA_EO, V_EO],
                 ['-' + V_A + T_SSANGSIOS + '-', COND_EOA_A, V_A],
-                ['-였-', '하', ''],
+                ['-였-', ENC('하'), ''],
                 # 준말
                 ['-' + V_WA + T_SSANGSIOS + '-', V_O, V_O], # 오았 -> 왔
                 ['-' + V_WEO + T_SSANGSIOS + '-', V_U, V_U], # 우었 -> 웠
                 ['-' + V_WAE + T_SSANGSIOS + '-', COND_EOA_OE, V_OE], # 외었 -> 왜ㅆ
-                ['-' + V_WA + T_SSANGSIOS + '-', '놓', V_O + T_HIEUH], # 놓아 -> 놔
-                ['-' + V_AE + T_SSANGSIOS + '-', '하', V_A], # 하였 -> 했
+                ['-' + V_WA + T_SSANGSIOS + '-', ENC('놓'), V_O + T_HIEUH], # 놓아 -> 놔
+                ['-' + V_AE + T_SSANGSIOS + '-', ENC('하'), V_A], # 하였 -> 했
                 ['-' + V_YEO + T_SSANGSIOS + '-', V_I, V_I], # 이었 -> 였
                 ['-' + T_SSANGSIOS + '-', V_AE, ''], # 애었 -> 앴
                 ['-' + T_SSANGSIOS + '-', V_E, ''], # 에었 -> 엤
@@ -275,7 +344,7 @@ groups['-었-'] = [
       'cond': ['#ㅎ불규칙'],
     },
     # 러불규칙
-    { 'rules': [['-렀-', '르', '']],
+    { 'rules': [['-렀-', ENC('르'), '']],
       'after': ['#용언'],
       'cond': ['#러불규칙'],
     },
@@ -333,12 +402,12 @@ groups['-어'] = [
                 ['-아', COND_EOA_AO, ''],
                 ['-' + V_EO, COND_EOA_EO, V_EO],
                 ['-' + V_A, COND_EOA_A, V_A],
-                ['-여', '하', ''],
+                ['-여', ENC('하'), ''],
                 ['-' + V_WA, V_O, V_O], # 오아 -> 와
                 ['-' + V_WEO, V_U, V_U], # 우어 -> 워
                 ['-' + V_WAE, COND_EOA_OE, V_OE], # 외어 -> 왜
-                ['-' + V_WA, '놓', V_O + T_HIEUH], # 놓아 -> 놔
-                ['-' + V_AE, '하', V_A], # 하여 -> 해
+                ['-' + V_WA, ENC('놓'), V_O + T_HIEUH], # 놓아 -> 놔
+                ['-' + V_AE, ENC('하'), V_A], # 하여 -> 해
                 ['-' + V_YEO, V_I, V_I], # 이어 -> 여
                 ['-' + V_AE, V_AE, V_AE], # 애어 -> 애
                 ['-' + V_E, V_E, V_E], # 에어 -> 에
@@ -389,7 +458,7 @@ groups['-어'] = [
       'cond': ['#ㅎ불규칙'],
     },
     # 러불규칙
-    { 'rules': [['-러', '르', '']],
+    { 'rules': [['-러', ENC('르'), '']],
       'after': ['#용언'],
       'cond': ['#러불규칙'],
     },
@@ -636,8 +705,8 @@ groups['-는'] = [
 groups['-게'] = [
     { 'rules': [['-게', '', ''],
                 # ~하다 준말
-                ['-케', COND_VOICED + '하', '하'], # 하게 -> 케
-                ['-게', COND_UNVOICED + '하', '하'], # 하게 -> 게
+                ['-케', COND_VOICED + ENC('하'), '하'], # 하게 -> 케
+                ['-게', COND_UNVOICED + ENC('하'), '하'], # 하게 -> 게
                 ],
       'after': ['#용언', '-으시-'],
     },
@@ -676,8 +745,8 @@ groups['-은'] = [
 groups['-지'] = [
     { 'rules': [['-지', '', ''],
                 # ~하다 준말
-                ['-치', COND_VOICED + '하', '하'], # 하지 -> 치
-                ['-지', COND_UNVOICED +  '하', '하'], # 하지 -> 지
+                ['-치', COND_VOICED + ENC('하'), '하'], # 하지 -> 치
+                ['-지', COND_UNVOICED +  ENC('하'), '하'], # 하지 -> 지
                ],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
@@ -692,10 +761,10 @@ groups['-지마는'] = [
     { 'rules': [['-지마는', '', ''],
                 ['-지만', '', ''],
                 # ~하다 준말
-                ['-치만', COND_VOICED + '하', '하'],   # 하지만 -> 치만
-                ['-지만', COND_UNVOICED + '하', '하'], # 하지만 -> 지만
-                ['-치마는', COND_VOICED + '하', '하'], # 하지마는 -> 치마는
-                ['-지마는', COND_UNVOICED + '하', '하'], # 하지마는 -> 치마는
+                ['-치만', COND_VOICED + ENC('하'), '하'],   # 하지만 -> 치만
+                ['-지만', COND_UNVOICED + ENC('하'), '하'], # 하지만 -> 지만
+                ['-치마는', COND_VOICED + ENC('하'), '하'], # 하지마는 -> 치마는
+                ['-지마는', COND_UNVOICED + ENC('하'), '하'], # 하지마는 -> 치마는
                 ],
       'after': ['#용언', '#이다', '-었-', '-겠-'],
     },
@@ -852,8 +921,8 @@ for klass in groups['-으려면']:
 groups['-도록'] = [
     { 'rules': [['-도록', '', ''],
                 # ~하다 준말
-                ['-토록', COND_VOICED + '하', '하'], # 하도록 -> 토록
-                ['-도록', COND_UNVOICED + '하', '하'], # 하도록 -> 도록
+                ['-토록', COND_VOICED + ENC('하'), '하'], # 하도록 -> 토록
+                ['-도록', COND_UNVOICED + ENC('하'), '하'], # 하도록 -> 도록
                 ],
       'after': ['#동사', '-으시-',
                 '#형용사', # FIXME: 일부 형용사만 허용하지만 구분하기에는 너무 많다.
@@ -973,8 +1042,8 @@ attach_emphasis(groups['-자고'], ['요'])
 groups['-기로'] = [
     { 'rules': [['-기로', '', ''],
                 # ~하다 준말
-                ['-키로', COND_VOICED + '하', '하'], # 하기로 -> 키로
-                ['-기로', COND_UNVOICED + '하', '하'], # 하기로 -> 기로
+                ['-키로', COND_VOICED + ENC('하'), '하'], # 하기로 -> 키로
+                ['-기로', COND_UNVOICED + ENC('하'), '하'], # 하기로 -> 기로
                 ],
       'after': ['#용언', '#이다', '-'],
       'notafter': ['-더-', '-으리-'],
@@ -1089,8 +1158,8 @@ attach_emphasis(groups['-은데'], ['도', '요'])
 groups['-기'] = [
     { 'rules': [['-기', '', ''],
                 # ~하다 준말
-                ['-키', COND_VOICED + '하', '하'], # 하기 -> 키
-                ['-기', COND_UNVOICED + '하', '하'], # 하기 -> 기
+                ['-키', COND_VOICED + ENC('하'), '하'], # 하기 -> 키
+                ['-기', COND_UNVOICED + ENC('하'), '하'], # 하기 -> 기
                ],
       'after': ['#용언', '#이다', '-으시-', '-었-', '-겠-'],
     },
@@ -1973,8 +2042,8 @@ groups['-을라'] = [
 groups['-건대'] = [
     { 'rules': [['-건대', '', ''],
                 # ~하다 준말
-                ['-컨대', COND_VOICED + '하', '하'], # 하건대 -> 컨대
-                ['-건대', COND_UNVOICED + '하', '하'], # 하건대 -> 건대
+                ['-컨대', COND_VOICED + ENC('하'), '하'], # 하건대 -> 컨대
+                ['-건대', COND_UNVOICED + ENC('하'), '하'], # 하건대 -> 건대
                 ],
       'after': ['#동사'],
     },
