@@ -16,17 +16,24 @@ def main():
         sys.exit(1)
     filename = sys.argv[1]
     lines = open(filename).read().split('\n')
+    for l in lines:
+        if len(l) > 0 and l[0] == 'S':
+            has_suggest = True
+            break
+    else:
+        has_suggest = False
 
     if os.path.exists('./hunspell'):
         hunspell_cmd = './hunspell'
     else:
         hunspell_cmd = 'hunspell'
-    args = [hunspell_cmd, '-i', 'UTF-8', '-a', '-d', '../ko']
+    args = [hunspell_cmd, '-i', 'UTF-8', '-d', '../ko']
     hunspell = subprocess.Popen(args,
                                 stdin=subprocess.PIPE, stdout=subprocess.PIPE)
     hunspell.stdout.readline()  # the first line "Hunspell 1.2.8 ..."
     lineno = 0
     errmsg = sys.stderr.write
+    retcode = 0
     for l in lines:
         lineno += 1
         if not l:               # empty line
@@ -49,22 +56,22 @@ def main():
                  result[0] != '&' and result[0] != '#')):
                     errmsg('%s:%d: %s %s: %s\n' % (filename, lineno, flag,
                                                    word, result))
-                    sys.exit(1)
+                    retcode = 1
         elif flag == 'S':
             sug = ' '.join(args)
             if result[0] != '&':
                 errmsg('%s:%d: %s %s: %s\n' % (filename, lineno, flag,
                                                word, result))
-                sys.exit(1)
+                retcode = 1
             else:
                 suggests = result[result.find(':')+2:].split(', ')
                 if suggests[0] != sug:
                     errmsg('%s:%d: %s %s %s: %s\n' % (filename, lineno, flag,
                                                       word, sug,
                                                       result))
-                    sys.exit(1)
+                    retcode = 1
         else:
             errmsg('%s:%d: invalid format\n')
-    sys.exit(0)
+    sys.exit(retcode)
 
 main()
