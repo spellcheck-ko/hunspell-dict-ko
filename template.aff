@@ -45,6 +45,7 @@ FLAG num
 WORDCHARS 0123456789
 ${CONV}
 ${AF}
+${AM}
 FORBIDDENWORD ${forbidden_flag}
 TRY ${trychars}
 ${MAP}

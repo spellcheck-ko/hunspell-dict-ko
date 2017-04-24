@@ -77,11 +77,9 @@ class Word:
 
     # to make it orderable
     def __lt__(self, other):
-        r = self.word < other.word
-        if r:
+        if self.word < other.word:
             return True
-        r = self.pos < other.pos
-        if r:
+        if self.pos < other.pos:
             return True
         # FIXME: 이렇게 하면 순서가 다를텐데. set에서 뭐가 먼저 나올지 알고...
         for prop in other.props:
@@ -173,8 +171,8 @@ class Dictionary:
             self.expand_auxiliary()
             progress('플래그 계산')
             self.attach_flags()
-        # progress('속성 계산')
-        # self.attach_morph()
+        if config.output_word_morph:
+            self.attach_morph()
 
     def output(self, afffile, dicfile):
         progress('dic 출력')
@@ -190,8 +188,12 @@ class Dictionary:
             line = '%s' % word.word
             if word.flags_alias > 0:
                 line += ('/%d' % word.flags_alias)
-            if word.morph_alias > 0:
-                line += (' %d' % word.morph_alias)
+            if config.output_word_stem:
+                if word.stem:
+                    line += (' st:%s' % word.stem)
+            if config.output_word_morph:
+                if word.morph_alias > 0:
+                    line += (' %d' % word.morph_alias)
             line += '\n'
             outfile.write(ENC(line))
 
@@ -204,11 +206,13 @@ class Dictionary:
         suffix_str = aff.get_suffix_defines(self.flag_aliases)
         josa_str = aff.get_josa_defines(self.flag_aliases)
         af_str = self.get_AF()
+        am_str = self.get_AM()
 
         d = {'version': config.version,
              'required_hunspell': '%d.%d.%d' % config.minimum_hunspell_version,
              'CONV': aff.CONV_DEFINES,
              'AF': af_str,
+             'AM': am_str,
              'forbidden_flag': str(forbidden_flag),
              'trychars': aff.TRYCHARS,
              'MAP': aff.MAP_DEFINES,
@@ -248,8 +252,6 @@ class Dictionary:
         aliases = []
         for word in self.words:
             morph = ''
-            if word.stem:
-                morph += 'st:%s' % word.stem
             if morph:
                 if morph not in aliases:
                     aliases.append(morph)
@@ -301,6 +303,7 @@ class Dictionary:
                     for prefix in prefixes:
                         new_word = Word()
                         new_word.word = prefix
+                        new_word.stem = verb.word
                         new_word.pos = '내부:활용:' + form
                         new_words.append(new_word)
         self.append(new_words)
