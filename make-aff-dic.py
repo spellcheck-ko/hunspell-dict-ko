@@ -209,7 +209,7 @@ class Dictionary:
         am_str = self.get_AM()
 
         d = {'version': config.version,
-             'required_hunspell': '%d.%d.%d' % config.minimum_hunspell_version,
+             'required_hunspell': '%d.%d.%d' % config.required_hunspell_version,
              'CONV': aff.CONV_DEFINES,
              'AF': af_str,
              'AM': am_str,
@@ -320,4 +320,5 @@ if __name__ == '__main__':
             print('ERROR: unknown file type: ' + filename)
             sys.exit(1)
     dic.process()
-    dic.output(open(afffilename, 'w', encoding='utf-8'), open(dicfilename, 'w', encoding='utf-8'))
+    dic.output(open(afffilename, 'w', encoding='utf-8'),
+               open(dicfilename, 'w', encoding='utf-8'))

@@ -109,7 +109,8 @@ def expand_by_link():
             g = refgroups[key]
             for k in g:
                 if (('-' in k['after'] or last in k['after']) and
-                    (not ('notafter' in k) or not (last in k['notafter']))):
+                        (not ('notafter' in k) or
+                         not (last in k['notafter']))):
                     for r in k['rules']:
                         if re.match('.*' + ENC(r[1]) + '$',
                                     ENC(last[:-1])):
@@ -225,20 +226,23 @@ def get_rules_string(flagaliases):
             except IndexError:
                 cont = ''
             rule_strings.append('SFX %d %s %s %s' %
-                                (flag, ENC(strip), ENC(suffix + cont), condition))
+                                (flag, ENC(strip), ENC(suffix + cont),
+                                 condition))
     return '\n'.join(rule_strings)
 
 
 def class_match_word(klass, word, po, props):
     if (('after' in klass) and
-        (word not in klass['after']) and
-        (('#'+po) not in klass['after']) and
-        (not [1 for k in klass['after'] if k[0] == '^' and re.match(ENC(k), ENC(word))])):
+            (word not in klass['after']) and
+            (('#'+po) not in klass['after']) and
+            (not [1 for k in klass['after']
+                  if k[0] == '^' and re.match(ENC(k), ENC(word))])):
         return False
     if (('notafter' in klass) and
         ((word in klass['notafter']) or
          ('#'+po) in klass['notafter'] or
-         [1 for k in klass['notafter'] if k[0] == '^' and re.match(ENC(k), ENC(word))])):
+         [1 for k in klass['notafter']
+          if k[0] == '^' and re.match(ENC(k), ENC(word))])):
         return False
     if 'cond' in klass:
         for prop in props:

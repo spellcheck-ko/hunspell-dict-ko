@@ -78,6 +78,7 @@ if config.internal_encoding == '2+RST':
     V_YE = 'ㅖ'
     V_YEO = 'ㅕ'
 
+
 def ENC(unistr):
     if config.internal_encoding == '2+RST':
         return encoding.encode(unistr)
@@ -109,7 +110,9 @@ else:
     COND_V_OR_RIEUL = '[%s]' % (V_ALL + T_RIEUL)
     COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(T_RIEUL, '') + ALPHA_ALL)
 
+
 TRYCHARS = ''
+
 
 class JosaClass:
     next_flag = josas_flag_start
@@ -409,6 +412,7 @@ klasses = []
 # FIXME: 임시
 for _key in groups.keys():
     klasses += groups[_key]
+
 
 def find_flags(word, pos, props):
     result = []

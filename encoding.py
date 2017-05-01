@@ -40,6 +40,7 @@ import unicodedata
 
 RESET_CODE = '\uE000'
 
+
 class Encoder:
     STATE_INITIAL = 0
     STATE_C = 1
@@ -537,7 +538,7 @@ class Encoder:
         'ㄹㅅ': 'ㄽ',
         'ㄹㅌ': 'ㄾ',
         'ㄹㅍ': 'ㄿ',
-        'ㄹㅎ': 'ㅀ', 
+        'ㄹㅎ': 'ㅀ',
         'ㅂㅅ': 'ㅄ',
         'ㅗㅏ': 'ㅘ',
         'ㅗㅐ': 'ㅙ',
@@ -573,7 +574,7 @@ class Encoder:
         result = []
 
         is_c = (ord(ch) >= 0x3131) and (ord(ch) <= 0x314E)
-        
+
         if ch in Encoder.COMP2STROKES:
             s = Encoder.COMP2STROKES[ch]
         else:
@@ -583,8 +584,8 @@ class Encoder:
         # (2) 자음 뒤에 모음
         # (3) 앞에 글자와 합쳐서 복합 자음 / 복합 모음인 경우
         if ((self.state == Encoder.STATE_V and is_c) or
-            (self.state == Encoder.STATE_C and not is_c) or
-            ((self.last + s[0]) in Encoder.STROKES2COMP)):
+                (self.state == Encoder.STATE_C and not is_c) or
+                ((self.last + s[0]) in Encoder.STROKES2COMP)):
             result.append(RESET_CODE)
         result.append(s)
         if is_c:
@@ -611,7 +612,7 @@ class Encoder:
             s = ch
 
         if ((self.state == Encoder.STATE_V and is_c) or
-            (self.state == Encoder.STATE_C and not is_c)):
+                (self.state == Encoder.STATE_C and not is_c)):
             result.append(RESET_CODE)
         result.append(s)
 
@@ -645,7 +646,9 @@ class Encoder:
                 outlist.append(ch)
         return ''.join(outlist)
 
+
 DUMP_DECODER = False
+
 
 class Decoder:
     def __init__(self):
@@ -731,11 +734,11 @@ class Decoder:
             'ㅍ': '\u11C1',
             'ㅎ': '\u11C2',
         }
-        vv_table = { 'ㅗㅐ': 'ㅙ', 'ㅗㅣ': 'ㅚ', 'ㅜㅓ': 'ㅝ', 'ㅜㅔ': 'ㅞ',
-                     'ㅡㅣ': 'ㅢ' }
-        tt_table = { 'ㄱㅅ': 'ㄳ', 'ㄴㅈ': 'ㄵ', 'ㄴㅎ': 'ㄶ', 'ㄹㄱ': 'ㄺ',
-                     'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
-                     'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ' }
+        vv_table = {'ㅗㅐ': 'ㅙ', 'ㅗㅣ': 'ㅚ', 'ㅜㅓ': 'ㅝ', 'ㅜㅔ': 'ㅞ',
+                    'ㅡㅣ': 'ㅢ'}
+        tt_table = {'ㄱㅅ': 'ㄳ', 'ㄴㅈ': 'ㄵ', 'ㄴㅎ': 'ㄶ', 'ㄹㄱ': 'ㄺ',
+                    'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
+                    'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ'}
 
         assert len(s) >= 2
         nfd = l_table[s[0]]
@@ -781,10 +784,11 @@ class Decoder:
                 prestrokes = ''
                 state = STATE_INITIAL
             elif ch in 'ㄱㄲㄴㄷㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ':
-                t_table = { 'ㄱㅅ': 'ㄳ', 'ㄴㅈ': 'ㄵ', 'ㄴㅎ': 'ㄶ', 'ㄹㄱ': 'ㄺ',
-                            'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
-                            'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ' }
-                if state == STATE_INITIAL or state == STATE_LL or state == STATE_VC:
+                t_table = {'ㄱㅅ': 'ㄳ', 'ㄴㅈ': 'ㄵ', 'ㄴㅎ': 'ㄶ', 'ㄹㄱ': 'ㄺ',
+                           'ㄹㅁ': 'ㄻ', 'ㄹㅂ': 'ㄼ', 'ㄹㅅ': 'ㄽ', 'ㄹㅌ': 'ㄾ',
+                           'ㄹㅍ': 'ㄿ', 'ㄹㅎ': 'ㅀ', 'ㅂㅅ': 'ㅄ'}
+                if ((state == STATE_INITIAL) or (state == STATE_LL) or
+                        (state == STATE_VC)):
                     if precomposed:
                         composed.append(precomposed)
                         strokes.append(prestrokes)
@@ -834,9 +838,9 @@ class Decoder:
                 else:
                     assert False
             elif self.stroke_is_v(ch):
-                v_table = { 'ㅗㅏ': 'ㅘ', 'ㅗㅐ': 'ㅙ', 'ㅗㅣ': 'ㅚ',
-                            'ㅜㅓ': 'ㅝ', 'ㅜㅔ': 'ㅞ', 'ㅜㅣ': 'ㅟ',
-                            'ㅡㅣ': 'ㅢ' }
+                v_table = {'ㅗㅏ': 'ㅘ', 'ㅗㅐ': 'ㅙ', 'ㅗㅣ': 'ㅚ',
+                           'ㅜㅓ': 'ㅝ', 'ㅜㅔ': 'ㅞ', 'ㅜㅣ': 'ㅟ',
+                           'ㅡㅣ': 'ㅢ'}
                 if state == STATE_INITIAL:
                     composed.append(precomposed)
                     strokes.append(prestrokes)
@@ -904,6 +908,7 @@ class Decoder:
             strokes.append(prestrokes)
         return ''.join(composed)
 
+
 def encode(s):
     encoder = Encoder()
     return encoder.encode(s)
@@ -919,15 +924,18 @@ if __name__ == '__main__':
 
     def assert_round_trip(decoded, encoded):
         if encode(decoded) != encoded:
-            print('encode(%s) = %s != %s' % (decoded, encode(decoded), encoded))
+            print('encode(%s) = %s != %s' % (decoded, encode(decoded),
+                                             encoded))
         assert encode(decoded) == encoded
         if decode(encoded) != decoded:
-            print('encode(%s) = %s != %s' % (decoded, encode(decoded), encoded))
+            print('encode(%s) = %s != %s' % (decoded, encode(decoded),
+                                             encoded))
         assert decode(encoded) == decoded
 
     def assert_encode(decoded, encoded):
         if encode(decoded) != encoded:
-            print('encode(%s) = %s != %s' % (decoded, encode(decoded), encoded))
+            print('encode(%s) = %s != %s' % (decoded, encode(decoded),
+                                             encoded))
         assert encode(decoded) == encoded
 
     assert_round_trip('바둑이', 'ㅂㅏㄷㅜㄱㅇㅣ')
@@ -950,5 +958,5 @@ if __name__ == '__main__':
     # one way
     assert_encode('\u1100\u1161\u11A8', 'ㄱㅏㄱ')
     assert_encode('\u1100\u1161\u11A8\u1161', 'ㄱㅏㄱ' + RESET_CODE + 'ㅏ')
-    assert_encode('\u1100\u1161\u112D\u1161\u11A8',
-                  'ㄱㅏ' + RESET_CODE + 'ㅅㄱ' + RESET_CODE + 'ㅏ' + RESET_CODE + 'ㄱ')
+    assert_encode('\u1100\u1161\u112D\u1161\u11A8', 'ㄱㅏ' + RESET_CODE +
+                  'ㅅㄱ' + RESET_CODE + 'ㅏ' + RESET_CODE + 'ㄱ')

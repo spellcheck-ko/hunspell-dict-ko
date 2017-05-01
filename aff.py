@@ -52,6 +52,7 @@ def ENC(unistr):
     else:
         return unicodedata.normalize('NFD', unistr)
 
+
 def NFD(unistr):
     return unicodedata.normalize('NFD', unistr)
 
@@ -135,12 +136,18 @@ def NFD(unistr):
 # ㅇ - 18038230 - U+110b: 12945437, U+11bc: 5092793
 # ㄴ - 12571437 - U+1102: 3270768, U+11ab: 9201655, U+11ad: 97304, U+11ac: 1710
 # ㅏ - 12380502 - U+1161: 11184877, U+116a: 1195625
-# ㅣ - 11292640 - U+1175: 8976003, U+1174: 1230310, U+116c: 711301, U+1171: 375026
-# ㄱ - 10147352 - U+1100: 6748571, U+11a8: 3353338, U+11b0: 22199, U+11b1: 21644, U+11aa: 1600
-# ㄹ -  9205527 - U+1105: 4667272, U+11af: 4478045, U+11b0: 22199, U+11b1: 21644, U+11b2: 7965, U+11b6: 6840, U+11b4: 544, U+11b3: 523, U+11b5: 495
-# ㅗ -  8058141 - U+1169: 6130514, U+116a: 1195625, U+116c: 711301, U+116b: 20701
+# ㅣ - 11292640 - U+1175: 8976003, U+1174: 1230310, U+116c: 711301,
+#                 U+1171: 375026
+# ㄱ - 10147352 - U+1100: 6748571, U+11a8: 3353338, U+11b0: 22199,
+#                 U+11b1: 21644, U+11aa: 1600
+# ㄹ -  9205527 - U+1105: 4667272, U+11af: 4478045, U+11b0: 22199,
+#                 U+11b1: 21644, U+11b2: 7965, U+11b6: 6840, U+11b4: 544,
+#                 U+11b3: 523, U+11b5: 495
+# ㅗ -  8058141 - U+1169: 6130514, U+116a: 1195625, U+116c: 711301,
+#                 U+116b: 20701
 # ㅡ -  7731319 - U+1173: 6501009, U+1174: 1230310
-# ㅅ -  6161484 - U+1109: 5708785, U+11ba: 389100, U+11b9: 61476, U+11aa: 1600, U+11b3: 523
+# ㅅ -  6161484 - U+1109: 5708785, U+11ba: 389100, U+11b9: 61476, U+11aa: 1600,
+#                 U+11b3: 523
 # ㅓ -  5981654 - U+1165: 5264197, U+116f: 717457
 # ㅜ -  5981251 - U+116e: 4835854, U+116f: 717457, U+1171: 375026, U+1170: 52914
 # ㅈ -  5007268 - U+110c: 4962840, U+11bd: 42718, U+11ac: 1710
@@ -169,14 +176,14 @@ def NFD(unistr):
 if config.internal_encoding == '2+RST':
     TRYCHARS = 'ㅏㅣㅗㅡㅓㅜㅕㅔㅐㅛㅠㅑㅖㅒㅇㄴㄱㄹㅅㅈㄷㅁㅎㅂㅌㅊㅍㅆㅋㄸㄲㅉㅃ'
 else:
-    TRYCHARS = ('\u1161\u1175\u1173\u1169\u1165\u116e\u1167\u1166\u1162\u1174' +
-                '\u116a\u116d\u1172\u116f\u116c\u1171\u1163\u1168\u1170\u116b' +
-                '\u1164' +
-                '\u110b\u11ab\u1100\u1109\u11bc\u110c\u1105\u1103\u11af\u1112' +
-                '\u11a8\u1102\u1107\u1106\u11b7\u110e\u1110\u1111\u110f\u11bb' +
-                '\u11b8\u11ba\u1104\u1101\u11c0\u110a\u11ad\u110d\u11ae\u11b9' +
-                '\u11be\u11c1\u11bd\u11c2\u1108\u11b0\u11b1\u11a9\u11b2\u11b6' +
-                '\u11ac\u11aa\u11bf\u11b4\u11b3\u11b5')
+    TRYCHARS = ('\u1161\u1175\u1173\u1169\u1165\u116e\u1167\u1166\u1162' +
+                '\u1174\u116a\u116d\u1172\u116f\u116c\u1171\u1163\u1168' +
+                '\u1170\u116b\u1164\u110b\u11ab\u1100\u1109\u11bc\u110c' +
+                '\u1105\u1103\u11af\u1112\u11a8\u1102\u1107\u1106\u11b7' +
+                '\u110e\u1110\u1111\u110f\u11bb\u11b8\u11ba\u1104\u1101' +
+                '\u11c0\u110a\u11ad\u110d\u11ae\u11b9\u11be\u11c1\u11bd' +
+                '\u11c2\u1108\u11b0\u11b1\u11a9\u11b2\u11b6\u11ac\u11aa' +
+                '\u11bf\u11b4\u11b3\u11b5')
 
 _conv_strings = []
 if config.internal_encoding == '2+RST':
@@ -192,15 +199,15 @@ else:
         _conv_strings.append('OCONV %s %s' % (NFD(uch), uch))
 CONV_DEFINES = '\n'.join(_conv_strings)
 
-# MAP: 비슷한 성격의 자모
+map_list = []
+
+# 비슷한 성격의 자모
 # - 초성은 거센소리나 된소리처럼 같은 계열 초성 묶음
 # - 중성은 비슷한 발음 묶음
 # - 종성의 경우 받침 소리가 같은 발음 묶음
-
-map_list = []
 if config.internal_encoding == '2+RST':
     map_list += [
-        'ㄱㄲㅋ', 
+        'ㄱㄲㅋ',
         'ㄷㄸㅌ',
         'ㅂㅃㅍ',
         'ㅅㅆ',
@@ -228,9 +235,9 @@ else:
 
 # 두음법칙
 if config.internal_encoding == '2+RST':
-    map_list += [ 'ㅇㄴㄹ' ]
+    map_list += ['ㅇㄴㄹ']
 else:
-    map_list += [ L_IEUNG + L_RIEUL + L_NIEUN ]
+    map_list += [L_IEUNG + L_RIEUL + L_NIEUN]
 
 MAP_DEFINES = 'MAP %d\n' % len(map_list)
 for m in map_list:
@@ -381,7 +388,7 @@ rep_list += [
 
 REP_DEFINES = 'REP %d\n' % len(rep_list)
 for rep in rep_list:
-    REP_DEFINES += ENC('REP %s %s\n' % (rep[0], rep[1]))
+    REP_DEFINES += 'REP %s %s\n' % (ENC(rep[0]), ENC(rep[1]))
 
 compound_rules = [
     # 아라비아 숫자
@@ -396,7 +403,7 @@ compound_rules = [
 ]
 
 # 숫자 만 단위로 띄어 쓰기
-if config.minimum_hunspell_version >= (1, 2, 14):
+if config.required_hunspell_version >= (1, 2, 14):
     compound_rules += [
         '(%d)?(%d)?(%d)?(%d)?(%d)?' % (number_1000_flag,
                                        number_100_flag,
