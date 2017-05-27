@@ -943,6 +943,11 @@ groups['-게'] = [
      },
 ]
 attach_emphasis(groups['-게'], ['도'])
+attach_emphasis(groups['-게'], ['까지'])
+
+####
+# 종결: -게나
+attach_emphasis(groups['-게'], ['나'])
 
 ####
 # 연결: -다가
