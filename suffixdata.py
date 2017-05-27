@@ -310,6 +310,8 @@ groups['-으시-'] = [
 
 ####
 # 과거 시제 선어말
+# - '-었-'
+# - '-어서였-'
 
 groups['-었-'] = [
     {'rules': [['-었-', COND_EOA_NOT_AO, ''],
@@ -328,6 +330,21 @@ groups['-었-'] = [
                ['-' + V_YEO + T_SSANGSIOS + '-', V_I, V_I],  # 이었 -> 였
                ['-' + T_SSANGSIOS + '-', V_AE, ''],  # 애었 -> 앴
                ['-' + T_SSANGSIOS + '-', V_E, ''],  # 에었 -> 엤
+
+               ['-어서였-', COND_EOA_NOT_AO, ''],
+               ['-아서였-', COND_EOA_AO, ''],
+               ['-' + V_EO + '서였-', COND_EOA_EO, V_EO],
+               ['-' + V_A + '서였-', COND_EOA_A, V_A],
+               ['-여서였-', ENC('하'), ''],
+               ['-' + V_WA + '서였-', V_O, V_O],  # 오아 -> 와
+               ['-' + V_WEO + '서였-', V_U, V_U],  # 우어 -> 워
+               ['-' + V_WAE + '서였-', COND_EOA_OE, V_OE],  # 외어 -> 왜
+               ['-' + V_WA + '서였-', ENC('놓'), V_O + T_HIEUH],  # 놓아 -> 놔
+               ['-' + V_AE + '서였-', ENC('하'), V_A],  # 하여 -> 해
+               ['-' + V_YEO + '서였-', V_I, V_I],  # 이어 -> 여
+               ['-' + V_AE + '서였-', V_AE, V_AE],  # 애어 -> 애
+               ['-' + V_E + '서였-', V_E, V_E],  # 에어 -> 에
+
                ],
      'after': ['#용언', '#이다', '-으시-'],
      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
@@ -336,24 +353,40 @@ groups['-었-'] = [
      },
     # ㄷ불규칙
     {'rules': [['-%s었-' % T_RIEUL, '[%s]%s' % (V_NOT_A_O, T_TIKEUT), T_TIKEUT],
-               ['-%s았-' % T_RIEUL, '[%s]%s' % (V_A_O, T_TIKEUT), T_TIKEUT]],
+               ['-%s았-' % T_RIEUL, '[%s]%s' % (V_A_O, T_TIKEUT), T_TIKEUT],
+
+               ['-' + T_RIEUL + '어서였-', '[%s]%s' % (V_NOT_A_O, T_TIKEUT),
+                T_TIKEUT],
+               ['-' + T_RIEUL + '아서였-', '[%s]%s' % (V_A_O, T_TIKEUT),
+                T_TIKEUT],
+               ],
      'after': ['#용언'],
      'cond': ['#ㄷ불규칙'],
      },
     # ㅂ불규칙
-    {'rules': [['-웠-', T_PIEUP, T_PIEUP]],
+    {'rules': [['-웠-', T_PIEUP, T_PIEUP],
+
+               ['-워서였-', T_PIEUP, T_PIEUP],
+               ],
      'after': ['#용언'],
      'notafter': ['곱다', '곱디곱다', '돕다'],
      'cond': ['#ㅂ불규칙'],
      },
     # ㅂ불규칙 중 예외적으로 '-와'가 붙는 경우
-    {'rules': [['-왔-', T_PIEUP, T_PIEUP]],
+    {'rules': [['-왔-', T_PIEUP, T_PIEUP],
+
+               ['-와서였-', T_PIEUP, T_PIEUP],
+               ],
      'after': ['곱다', '곱디곱다', '돕다'],
      'cond': ['#ㅂ불규칙'],
      },
     # ㅅ불규칙
     {'rules': [['-었-', '[%s]%s' % (V_NOT_A_O, T_SIOS), T_SIOS],
-               ['-았-', '[%s]%s' % (V_A_O, T_SIOS), T_SIOS]],
+               ['-았-', '[%s]%s' % (V_A_O, T_SIOS), T_SIOS],
+
+               ['-어서였-', '[%s]%s' % (V_NOT_A_O, T_SIOS), T_SIOS],
+               ['-아서였-', '[%s]%s' % (V_A_O, T_SIOS), T_SIOS],
+               ],
      'after': ['#용언'],
      'cond': ['#ㅅ불규칙'],
      },
@@ -365,7 +398,13 @@ groups['-었-'] = [
                ['-' + V_E + T_SSANGSIOS + '-', V_EO + T_HIEUH,
                 V_EO + T_HIEUH],  # 누렇다
                ['-' + V_YE + T_SSANGSIOS + '-', V_YEO + T_HIEUH,
-                V_YEO + T_HIEUH]],  # 허옇다
+                V_YEO + T_HIEUH],  # 허옇다
+
+               ['-' + V_AE + '서였-', V_A + T_HIEUH, V_A + T_HIEUH],   # 파랗다
+               ['-' + V_YAE + '서였-', V_YA + T_HIEUH, V_YA + T_HIEUH],  # 하얗다
+               ['-' + V_E + '서였-', V_EO + T_HIEUH, V_EO + T_HIEUH],  # 누렇다
+               ['-' + V_YE + '서였-', V_YEO + T_HIEUH, V_YEO + T_HIEUH],  # 허옇다
+               ],
      'after': ['#용언'],
      'notafter': ['그렇다', '고렇다', '이렇다', '요렇다', '저렇다', '조렇다',
                   '어떻다', '아무렇다'],
@@ -373,36 +412,56 @@ groups['-었-'] = [
      },
     # ㅎ불규칙 지시형용사
     {'rules': [['-' + V_AE + T_SSANGSIOS + '-', V_EO + T_HIEUH,
-                V_EO + T_HIEUH]],
+                V_EO + T_HIEUH],
+
+               ['-' + V_AE + '서였-', V_EO + T_HIEUH, V_EO + T_HIEUH],
+               ],
      'after': ['그렇다', '고렇다', '이렇다', '요렇다', '저렇다', '조렇다',
                '어떻다', '아무렇다'],
      'cond': ['#ㅎ불규칙'],
      },
     # 러불규칙
-    {'rules': [['-렀-', ENC('르'), '']],
+    {'rules': [['-렀-', ENC('르'), ''],
+
+               ['-러서였-', ENC('르'), ''],
+               ],
      'after': ['#용언'],
      'cond': ['#러불규칙'],
      },
     # 르불규칙
     {'rules': [['-%s렀-' % T_RIEUL, COND_REU_NOT_AO, '르'],
-               ['-%s랐-' % T_RIEUL, COND_REU_AO, '르']],
+               ['-%s랐-' % T_RIEUL, COND_REU_AO, '르'],
+
+               ['-%s러서였-' % T_RIEUL, COND_REU_NOT_AO, '르'],
+               ['-%s라서였-' % T_RIEUL, COND_REU_AO, '르'],
+               ],
      'after': ['#용언'],
      'cond': ['#르불규칙'],
      },
     # 우불규칙
-    {'rules': [['-' + V_EO + T_SSANGSIOS + '-', V_U, V_U]],
+    {'rules': [['-' + V_EO + T_SSANGSIOS + '-', V_U, V_U],
+
+               ['-' + V_EO + '서였-', V_U, V_U],
+               ],
      'after': ['#용언'],
      'cond': ['#우불규칙'],
      },
     # 으불규칙
     {'rules': [['-' + V_A + T_SSANGSIOS + '-', COND_EU_AO, V_EU],
-               ['-' + V_EO + T_SSANGSIOS + '-', COND_EU_NOT_AO, V_EU]],
+               ['-' + V_EO + T_SSANGSIOS + '-', COND_EU_NOT_AO, V_EU],
+
+               ['-' + V_A + '서였-', COND_EU_AO, V_EU],
+               ['-' + V_EO + '서였-', COND_EU_NOT_AO, V_EU],
+               ],
      'after': ['#용언'],
      'notafter': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
      'cond': ['#으불규칙'],
      },
     # 으불규칙 예외 '끄다', '뜨다', '쓰다', '크다'
-    {'rules': [['-' + V_EO + T_SSANGSIOS + '-', V_EU, V_EU]],
+    {'rules': [['-' + V_EO + T_SSANGSIOS + '-', V_EU, V_EU],
+
+               ['-' + V_EO + '서였-', V_EU, V_EU],
+               ],
      'after': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
      'cond': ['#으불규칙'],
      },
