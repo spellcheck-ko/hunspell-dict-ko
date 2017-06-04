@@ -1613,7 +1613,12 @@ groups['-는지'] = [
      'after': ['#동사', '^.*있다$', '^.*없다$', '^.*계시다$', '-으시-', '-었-', '-겠-'],
      },
 ]
-attach_emphasis(groups['-는지'], ['는', T_NIEUN, '도', '요'])
+attach_emphasis(groups['-는지'], ['요'])
+# 보조사 안 붙은 경우만 조사 허용
+for rule in groups['-는지'][0]['rules']:
+    if rule[0] == '-는지':
+        rule.append([flags.josa_ida_flag] + list(range(flags.josas_flag_start,
+                                                       flags.josas_flag_end)))
 
 ####
 # 연결: -면, -으면
