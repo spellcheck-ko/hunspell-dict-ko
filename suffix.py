@@ -234,13 +234,15 @@ def get_rules_string(flagaliases):
 def class_match_word(klass, word, po, props):
     if (('after' in klass) and
             (word not in klass['after']) and
-            (('#'+po) not in klass['after']) and
+            (not [1 for k in klass['after']
+                  if ('#'+po).startswith(k)]) and
             (not [1 for k in klass['after']
                   if k[0] == '^' and re.match(ENC(k), ENC(word))])):
         return False
     if (('notafter' in klass) and
         ((word in klass['notafter']) or
-         ('#'+po) in klass['notafter'] or
+         [1 for k in klass['notafter']
+          if ('#'+po).startswith(k)] or
          [1 for k in klass['notafter']
           if k[0] == '^' and re.match(ENC(k), ENC(word))])):
         return False

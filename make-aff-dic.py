@@ -260,7 +260,15 @@ class Dictionary:
 
     def expand_plurals(self):
         new_words = []
-        for word in [w for w in self.words if '가산명사' in w.props]:
+        for word in self.words:
+            if word.pos.startswith('명사'):
+                if word.pos != '명사:보통:비서술형':
+                    continue
+            elif word.pos == '대명사':
+                if word.word == '너' or word.word == '나':
+                    continue
+                elif '가산명사' not in word.props:
+                    continue
             new_word = Word()
             new_word.word = word.word + '들'
             new_word.pos = word.pos

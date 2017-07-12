@@ -432,9 +432,11 @@ def find_flags(word, pos, props):
     for klass in klasses:
         if klass.match(word, pos, props):
             result.append(klass.flag)
-    if pos in ['명사', '대명사', '특수:복수접미사', '특수:알파벳', '특수:숫자']:
+    if pos.startswith('명사'):
         result.append(josa_ida_flag)
-    if pos.startswith('특수:수:'):
+    elif pos in ['대명사', '특수:복수접미사', '특수:알파벳', '특수:숫자']:
+        result.append(josa_ida_flag)
+    elif pos.startswith('특수:수:'):
         result.append(josa_ida_flag)
     if (pos == '대명사'):
         result.append(josa_ida_t_flag)
