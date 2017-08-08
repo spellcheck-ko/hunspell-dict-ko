@@ -3,7 +3,7 @@ version = '0.6.2-dev'
 # 필요한 최소 hunspell 버전.
 # - 코드에서는 if config.required_hunspell_version >= (1,2,14): 와 같이
 #   사용 가능
-required_hunspell_version = (1, 2, 8)
+required_hunspell_version = (1, 2, 14)
 
 # 보조용언 붙여 쓴 형태 모두 사전에 기재, 거짓이면 합성어 형태로 사용
 # - 장점: hunspell의 합성어 기능의 문제점과 한계를 피해갈 수 있다
