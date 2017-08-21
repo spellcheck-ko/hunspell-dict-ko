@@ -261,8 +261,9 @@ class Dictionary:
     def expand_plurals(self):
         new_words = []
         for word in self.words:
-            if word.pos.startswith('명사'):
-                if word.pos != '명사:보통:비서술형':
+            pos_base = word.pos.split(':')[0]
+            if pos_base == '명사':
+                if word.pos != '명사:보통:비서술성':
                     continue
             elif word.pos == '대명사':
                 if word.word == '너' or word.word == '나':
