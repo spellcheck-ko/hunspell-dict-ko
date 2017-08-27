@@ -200,7 +200,7 @@ class Dictionary:
     def output_aff(self, outfile):
         from string import Template
         import aff
-        template = Template(open('template.aff').read())
+        template = Template(open('template.aff', encoding='utf-8').read())
 
         # 주의: flag alias를 변경하므로 get_AF() 앞에 와야 한다.
         suffix_str = aff.get_suffix_defines(self.flag_aliases)
