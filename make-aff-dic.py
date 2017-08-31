@@ -210,6 +210,7 @@ class Dictionary:
 
         d = {'version': config.version,
              'required_hunspell': '%d.%d.%d' % config.required_hunspell_version,
+             'url': 'https://spellcheck-ko.github.io/',
              'CONV': aff.CONV_DEFINES,
              'AF': af_str,
              'AM': am_str,

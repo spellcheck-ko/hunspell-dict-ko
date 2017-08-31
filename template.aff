@@ -60,7 +60,7 @@
 #
 # ***** END LICENSE BLOCK *****
 
-VERSION hunspell-dict-ko ${version} (requires Hunspell ${required_hunspell})
+VERSION hunspell-dict-ko ${version} (requires Hunspell ${required_hunspell}) ${url}
 SET UTF-8
 LANG ko
 FLAG num
