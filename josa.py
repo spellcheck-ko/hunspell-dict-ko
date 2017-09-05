@@ -105,10 +105,10 @@ if config.internal_encoding == '2+RST':
     COND_V_OR_RIEUL = '[ㅏㅣㅗㅡㅓㅜㅕㅔㅐㅛㅠㅑㅖㅒㄹ%s]' % (ALPHA_ALL)
     COND_T_NOT_RIEUL = '[ㄱㄲㄴㄷㅁㅂㅅㅆㅇㅈㅊㅋㅌㅍㅎ%s]' % (ALPHA_ALL)
 else:
-    COND_V_ALL = '[%s]' % (V_ALL)
-    COND_T_ALL = '[%s]' % (T_ALL)
-    COND_V_OR_RIEUL = '[%s]' % (V_ALL + T_RIEUL)
-    COND_T_NOT_RIEUL = '[%s]' % (T_ALL.replace(T_RIEUL, '') + ALPHA_ALL)
+    COND_V_ALL = '[%s%s]' % (V_ALL, ALPHA_ALL)
+    COND_T_ALL = '[%s%s]' % (T_ALL, ALPHA_ALL)
+    COND_V_OR_RIEUL = '[%s%s]' % (V_ALL + T_RIEUL, ALPHA_ALL)
+    COND_T_NOT_RIEUL = '[%s%s]' % (T_ALL.replace(T_RIEUL, ''), ALPHA_ALL)
 
 
 TRYCHARS = ''
@@ -126,6 +126,9 @@ class JosaClass:
 
     def match(self, word, pos, props):
         pos_base = pos.split(':')[0]
+        if pos_base == '특수':
+            pos_base = ':'.join(pos.split(':')[0:2])
+
         if self.notafter:
             if (word, '#' + pos_base) in self.notafter:
                 return False
@@ -137,7 +140,14 @@ class JosaClass:
                 else:
                     return False
 
+            if word == '1':
+                print('pos: %s, props %s, base: %s (after %s)' % (pos, props, pos_base, str(self.after)))
+                if '#은이다' in self.after:
+                    print('t/f: %s' % str(('#' + pos_base) in self.after))
+
             if ('#' + pos_base) in self.after:
+                return True
+            elif ('#' + pos) in self.after:
                 return True
             elif (word, '#' + pos_base) in self.after:
                 return True
@@ -171,7 +181,12 @@ groups = {}
 # '이' 주격/보격 조사
 groups['이'] = [
     JosaClass(rules=[('이', COND_T_ALL, '')],
-              after=['#명사', '#대명사']),
+              after=['#명사', '#대명사',
+                     '#특수:숫자', '#특수:알파벳',
+                     '#특수:수:1', '#특수:수:10', '#특수:수:100', '#특수:수:1000',
+                     '#특수:고유수:1', '#특수:고유수:10',
+                     ]
+    ),
     # 대명사 '-거'+'이' -> '게'
     JosaClass(
         rules=[(V_E, ENC('거'), V_EO)],
@@ -276,7 +291,7 @@ groups['!보조사'] = [
                '#명사', '#대명사', '#수사',
                '#특수:숫자', '#특수:알파벳',
                '#특수:수:1', '#특수:수:10', '#특수:수:100', '#특수:수:1000',
-               '#특수:고유수:1', '#특수:고유수:10',
+               '#특수:고유수:1', '#특수:고유수:10'
                ],
     ),
 ]
@@ -438,6 +453,8 @@ def find_flags(word, pos, props):
     elif pos in ['대명사', '특수:복수접미사', '특수:알파벳', '특수:숫자']:
         result.append(josa_ida_flag)
     elif pos.startswith('특수:수:'):
+        result.append(josa_ida_flag)
+    elif pos.startswith('특수:고유수:'):
         result.append(josa_ida_flag)
     if (pos == '대명사'):
         result.append(josa_ida_t_flag)
