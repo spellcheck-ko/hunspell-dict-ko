@@ -140,11 +140,6 @@ class JosaClass:
                 else:
                     return False
 
-            if word == '1':
-                print('pos: %s, props %s, base: %s (after %s)' % (pos, props, pos_base, str(self.after)))
-                if '#은이다' in self.after:
-                    print('t/f: %s' % str(('#' + pos_base) in self.after))
-
             if ('#' + pos_base) in self.after:
                 return True
             elif ('#' + pos) in self.after:
