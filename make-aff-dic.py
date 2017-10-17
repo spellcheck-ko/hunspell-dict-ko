@@ -225,17 +225,23 @@ class Dictionary:
 
     def get_AF(self):
         aliases = self.flag_aliases
-        result = 'AF %d\n' % len(aliases)
-        for flags in aliases:
-            result += 'AF %s\n' % ','.join('%d' % f for f in flags)
-        return result
+        if len(aliases) > 0:
+            result = 'AF %d\n' % len(aliases)
+            for flags in aliases:
+                result += 'AF %s\n' % ','.join('%d' % f for f in flags)
+            return result
+        else:
+            return ''
 
     def get_AM(self):
         aliases = self.morph_aliases
-        result = 'AM %d\n' % len(aliases)
-        for morph in aliases:
-            result += 'AM %s\n' % morph
-        return result
+        if len(aliases) > 0:
+            result = 'AM %d\n' % len(aliases)
+            for morph in aliases:
+                result += 'AM %s\n' % morph
+            return result
+        else:
+            return ''
 
     ######################################################################
 
