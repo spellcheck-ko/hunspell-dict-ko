@@ -8,7 +8,7 @@ CLEANFILES = $(AFFIX) $(DICT)
 
 SOURCES = make-aff-dic.py config.py suffix.py suffixdata.py jamo.py	\
 	flags.py aff.py josa.py template.aff
-DICT_DATA = dict-ko-builtins.json dict-ko-galkwi-ccby.json dict-ko-galkwi-mplgpllgpl.json
+DICT_DATA = dict-ko-builtins.json dict-ko-galkwi-ccby.json dict-ko-galkwi-ccbysa.json dict-ko-galkwi-mplgpllgpl.json
 
 DISTDIR = dist
 
