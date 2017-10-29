@@ -156,7 +156,7 @@ class Dictionary:
                 w.props = entry['props']
             if 'stem' in entry:
                 w.stem = entry['stem']
-            dic.add(w)
+            self.add(w)
 
     def process(self):
         progress('복수형 확장')
