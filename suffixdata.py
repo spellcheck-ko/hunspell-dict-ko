@@ -113,11 +113,13 @@ def T_NOT(jamos):
 if config.internal_encoding == '2+RST':
     V_A_O = 'ㅏㅑㅗㅛ'
     V_NOT_A_O = V_NOT('ㅏㅑㅗㅛ')
-    V_NOT_A_EO_O = V_NOT('ㅏㅑㅓㅗㅛ')
+    V_NOT_A_O_EU = V_NOT('ㅏㅑㅗㅛㅡ')
+    L_NOT_HIEUH = L_NOT('ㅎ')
 else:
     V_A_O = V_A + V_YA + V_O + V_YO
     V_NOT_A_O = V_NOT(V_A + V_YA + V_O + V_YO)
-    V_NOT_A_EO_O = V_NOT(V_A + V_YA + V_EO + V_O + V_YO)
+    V_NOT_A_O_EU = V_NOT(V_A + V_YA + V_O + V_YO + V_EU)
+    L_NOT_HIEUH = L_NOT(L_HIEUH)
 
 # 조건
 
@@ -168,16 +170,19 @@ def attach_continuation_flags(group, flags):
 ####
 # 어/아로 시작하는 어미를 위한 유틸리티
 
-# ㅏ/ㅗ 모음의 음절로 끝나는 경우  (ㅏ로 끝나는 경우, '오'로 끝나는 경우 제외)
-COND_EOA_AO = ['[%s]%s' % (L_NOT(L_IEUNG), V_O), '[%s][%s]' % (V_A_O, T_ALL)]
+# ㅏ/ㅗ 모음의 음절로 끝나는 경우 ('하'로 끝나는 경우 (여불규칙) 제외)
+COND_EOA_AO = ['[%s][%s]' % (L_NOT_HIEUH, V_A_O), '[%s][%s]' % (V_A_O, T_ALL)]
 if config.internal_encoding == '2+RST':
     # 복자음 받침
     COND_EOA_AO += ['[%s][ㄱㄴㄹㅂ][ㄱㅁㅂㅅㅈㅌㅎ]' % (V_A_O)]
-# ㅏ/ㅗ 제외한 모음의 음절로 끝나는 경우  (ㅓ로 끝나는 경우 제외)
-COND_EOA_NOT_AO = ['[%s]' % V_NOT_A_EO_O, '[%s][%s]' % (V_NOT_A_O, T_ALL)]
+# ㅏ/ㅗ 제외한 모음의 음절로 끝나는 경우 (ㅡ로 끝나는 경우 (으불규칙) 제외)
+COND_EOA_NOT_AO = ['[%s]' % V_NOT_A_O_EU, '[%s][%s]' % (V_NOT_A_O, T_ALL)]
 if config.internal_encoding == '2+RST':
     # 복자음 받침
     COND_EOA_NOT_AO += ['[%s][ㄱㄴㄹㅂ][ㄱㅁㅂㅅㅈㅌㅎ]' % (V_NOT_A_O)]
+
+# ㅡ로 끝나는 경우 (으불규칙)
+COND_EOA_EO = V_EO
 # ㅓ로 끝나는 경우
 COND_EOA_EO = V_EO
 # ㅏ로 끝나는 경우 ('하' 제외)
@@ -245,22 +250,27 @@ COND_REU_NOT_AO = ['[%s]' % V_NOT_A_O + ENC('르'),
 ####
 # 으불규칙활용 유틸리티
 
-# 참고: 으불규칙 활용을 어/아 어미에 대해 2개의 규칙으로 만드는 이유
+# 참고: 으불규칙 활용은 어/아 어미와 예외에 대해 3개의 규칙으로 만든다
 #
 # '으' 음절 앞에 오는 음절이 있는 경우 그 음절의 모음이 양성모음이냐
-# 음성모음이냐에 따라 어미의 '어/아'가 결정되는데, '끄다', '뜨다',
-# '쓰다', '트다', '크다'같은 으불규칙용언의 경우 앞의 음절이 없으면서
-# '어'가 붙는다. 그래서 aff 파일의 같은 규칙 안에서 조건으로 정의할
-# 수가 없다. (aff 파일에서 쓸 수 있는 제한된 정규식으로는 으 앞에
-# 음절이 없다는 걸 정의할 수가 없다.) 그러므로 '끄다', '뜨다', '쓰다',
-# '트다', '크다'는 항상 별도 규칙으로 만든다.
+# 음성모음이냐에 따라 어미의 '어/아'가 결정되는데, '끄다', '뜨다', '쓰다',
+# '트다', '크다'같은 으불규칙용언의 경우 앞의 음절이 없으면서 '어'가 붙어서
+# 예외이다. 이 셋은 aff 파일의 같은 규칙 안에서 조건으로 정의할 수가 없다.
+# (aff 파일에서 쓸 수 있는 제한된 정규식으로는 으 앞에 음절이 없다는 걸 정의할
+# 수가 없다.) 그러므로 항상 별도 규칙으로 만든다.
 
 # 앞에 ㅏ/ㅗ 모음의 음절
-COND_EU_AO = ['[%s][%s]%s' % (V_A_O, L_ALL, V_EU),
-              '[%s][%s][%s]%s' % (V_A_O, T_ALL, L_ALL, V_EU)]
+L_ALL_EU_EXCEPTIONS = ''.join([L_SSANGKIYEOK, L_SSANGTIKEUT, L_SSANGSIOS,
+                               L_THIEUTH, L_KHIEUKH])
+L_ALL_EU = ''.join([j for j in L_ALL if j not in L_ALL_EU_EXCEPTIONS])
+
+COND_EU_AO = ['[%s][%s]%s' % (V_A_O, L_ALL_EU, V_EU),
+              '[%s][%s][%s]%s' % (V_A_O, T_ALL, L_ALL_EU, V_EU)]
 # 앞에 ㅏ/ㅗ 모음이 아닌 음절
-COND_EU_NOT_AO = ['[%s][%s]%s' % (V_NOT_A_O, L_ALL, V_EU),
-                  '[%s][%s][%s]%s' % (V_NOT_A_O, T_ALL, L_ALL, V_EU)]
+COND_EU_NOT_AO = ['[%s][%s]%s' % (V_NOT_A_O, L_ALL_EU, V_EU),
+                  '[%s][%s][%s]%s' % (V_NOT_A_O, T_ALL, L_ALL_EU, V_EU)]
+# '끄다', '뜨다', '쓰다', '트다', '크다'
+COND_EU_EXCEPTIONS = ['[%s]%s' % (L_ALL_EU_EXCEPTIONS, V_EU)]
 
 ####
 # 유성음/무성음 자모 구분
@@ -316,9 +326,19 @@ groups['-으시-'] = [
 groups['-었-'] = [
     {'rules': [['-었-', COND_EOA_NOT_AO, ''],
                ['-았-', COND_EOA_AO, ''],
+               # 으불규칙 (하지만 규칙적)
+               ['-' + V_A + T_SSANGSIOS + '-', COND_EU_AO, V_EU],
+               ['-' + V_EO + T_SSANGSIOS + '-', COND_EU_NOT_AO, V_EU],
+               ['-' + V_EO + T_SSANGSIOS + '-', COND_EU_EXCEPTIONS, V_EU],
+               # 여불규칙 (하지만 규칙적)
+               ['-였-', ENC('하'), ''],
+
+               ## 줄임 형태
                ['-' + V_EO + T_SSANGSIOS + '-', COND_EOA_EO, V_EO],
                ['-' + V_A + T_SSANGSIOS + '-', COND_EOA_A, V_A],
-               ['-였-', ENC('하'), ''],
+               ['-' + V_A + T_SSANGSIOS + '-', COND_EU_AO, V_EU],
+               ['-' + V_EO + T_SSANGSIOS + '-', COND_EU_NOT_AO, V_EU],
+               ['-' + V_EO + T_SSANGSIOS + '-', COND_EU_EXCEPTIONS, V_EU],
                # 준말
                ['-' + V_WA + T_SSANGSIOS + '-', V_O, V_O],  # 오았 -> 왔
                ['-' + V_WEO + T_SSANGSIOS + '-', V_U, V_U],  # 우었 -> 웠
@@ -333,9 +353,16 @@ groups['-었-'] = [
 
                ['-어서였-', COND_EOA_NOT_AO, ''],
                ['-아서였-', COND_EOA_AO, ''],
+               ['-' + V_EO + '서였-', V_EU, V_EU],
+               # 으불규칙 (하지만 규칙적)
+               ['-' + V_A + '서였-', COND_EU_AO, V_EU],
+               ['-' + V_EO + '서였-', COND_EU_NOT_AO, V_EU],
+               ['-' + V_EO + '서였-', COND_EU_EXCEPTIONS, V_EU],
+               # 여불규칙 (하지만 규칙적)
+               ['-여서였-', ENC('하'), ''],
+
                ['-' + V_EO + '서였-', COND_EOA_EO, V_EO],
                ['-' + V_A + '서였-', COND_EOA_A, V_A],
-               ['-여서였-', ENC('하'), ''],
                ['-' + V_WA + '서였-', V_O, V_O],  # 오아 -> 와
                ['-' + V_WEO + '서였-', V_U, V_U],  # 우어 -> 워
                ['-' + V_WAE + '서였-', COND_EOA_OE, V_OE],  # 외어 -> 왜
@@ -345,11 +372,11 @@ groups['-었-'] = [
                ['-' + V_AE + '서였-', V_AE, V_AE],  # 애어 -> 애
                ['-' + V_E + '서였-', V_E, V_E],  # 에어 -> 에
 
+
                ],
      'after': ['#용언', '#이다', '-으시-'],
      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
-                 '#러불규칙', '#르불규칙', '#우불규칙', '#으불규칙',
-                 '#준말용언'],
+                 '#러불규칙', '#르불규칙', '#우불규칙', '#준말용언'],
      },
     # ㄷ불규칙
     {'rules': [['-%s었-' % T_RIEUL, '[%s]%s' % (V_NOT_A_O, T_TIKEUT), T_TIKEUT],
@@ -446,25 +473,6 @@ groups['-었-'] = [
      'after': ['#용언'],
      'cond': ['#우불규칙'],
      },
-    # 으불규칙
-    {'rules': [['-' + V_A + T_SSANGSIOS + '-', COND_EU_AO, V_EU],
-               ['-' + V_EO + T_SSANGSIOS + '-', COND_EU_NOT_AO, V_EU],
-
-               ['-' + V_A + '서였-', COND_EU_AO, V_EU],
-               ['-' + V_EO + '서였-', COND_EU_NOT_AO, V_EU],
-               ],
-     'after': ['#용언'],
-     'notafter': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
-     'cond': ['#으불규칙'],
-     },
-    # 으불규칙 예외 '끄다', '뜨다', '쓰다', '크다'
-    {'rules': [['-' + V_EO + T_SSANGSIOS + '-', V_EU, V_EU],
-
-               ['-' + V_EO + '서였-', V_EU, V_EU],
-               ],
-     'after': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
-     'cond': ['#으불규칙'],
-     },
 ]
 # 대과거 시제 덧붙이기
 for klass in groups['-었-']:
@@ -486,9 +494,15 @@ groups['-겠-'] = [
 
     {'rules': [['-어서겠-', COND_EOA_NOT_AO, ''],
                ['-아서겠-', COND_EOA_AO, ''],
+               # 으불규칙 (하지만 규칙적)
+               ['-' + V_A + '서겠-', COND_EU_AO, V_EU],
+               ['-' + V_EO + '서겠-', COND_EU_NOT_AO, V_EU],
+               ['-' + V_EO + '서겠-', COND_EU_EXCEPTIONS, V_EU],
+               # 여불규칙 (하지만 규칙적)
+               ['-여서겠-', ENC('하'), ''],
+
                ['-' + V_EO + '서겠-', COND_EOA_EO, V_EO],
                ['-' + V_A + '서겠-', COND_EOA_A, V_A],
-               ['-여서겠-', ENC('하'), ''],
                ['-' + V_WA + '서겠-', V_O, V_O],  # 오아 -> 와
                ['-' + V_WEO + '서겠-', V_U, V_U],  # 우어 -> 워
                ['-' + V_WAE + '서겠-', COND_EOA_OE, V_OE],  # 외어 -> 왜
@@ -500,8 +514,7 @@ groups['-겠-'] = [
                ],
      'after': ['#용언', '-으시-'],
      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
-                 '#러불규칙', '#르불규칙', '#우불규칙', '#으불규칙',
-                 '#준말용언'],
+                 '#러불규칙', '#르불규칙', '#우불규칙', '#준말용언'],
      },
     # ㄷ불규칙
     {'rules': [['-%s어서겠-' % T_RIEUL, '[%s]%s' % (V_NOT_A_O, T_TIKEUT),
@@ -561,18 +574,6 @@ groups['-겠-'] = [
      'after': ['#용언'],
      'cond': ['#우불규칙'],
      },
-    # 으불규칙
-    {'rules': [['-' + V_A + '서겠-', COND_EU_AO, V_EU],
-               ['-' + V_EO + '서겠-', COND_EU_NOT_AO, V_EU]],
-     'after': ['#용언'],
-     'notafter': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
-     'cond': ['#으불규칙'],
-     },
-    # 으불규칙 예외 '끄다', '뜨다', '크다', '쓰다'
-    {'rules': [['-' + V_EO + '서겠-', V_EU, V_EU]],
-     'after': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
-     'cond': ['#으불규칙'],
-     },
 ]
 
 ####
@@ -589,9 +590,15 @@ groups['-더-'] = [
 groups['-어'] = [
     {'rules': [['-어', COND_EOA_NOT_AO, ''],
                ['-아', COND_EOA_AO, ''],
+               # 으불규칙 (하지만 규칙적)
+               ['-' + V_A, COND_EU_AO, V_EU],
+               ['-' + V_EO, COND_EU_NOT_AO, V_EU],
+               ['-' + V_EO, COND_EU_EXCEPTIONS, V_EU],
+               # 여불규칙 (하지만 규칙적)
+               ['-여', ENC('하'), ''],
+
                ['-' + V_EO, COND_EOA_EO, V_EO],
                ['-' + V_A, COND_EOA_A, V_A],
-               ['-여', ENC('하'), ''],
                ['-' + V_WA, V_O, V_O],  # 오아 -> 와
                ['-' + V_WEO, V_U, V_U],  # 우어 -> 워
                ['-' + V_WAE, COND_EOA_OE, V_OE],  # 외어 -> 왜
@@ -603,8 +610,7 @@ groups['-어'] = [
                ],
      'after': ['#용언', '-었-', '-겠-', '-으시-'],
      'notcond': ['#ㄷ불규칙', '#ㅂ불규칙', '#ㅅ불규칙', '#ㅎ불규칙',
-                 '#러불규칙', '#르불규칙', '#우불규칙', '#으불규칙',
-                 '#준말용언'],
+                 '#러불규칙', '#르불규칙', '#우불규칙', '#준말용언'],
      },
     # ㄷ불규칙
     {'rules': [['-%s어' % T_RIEUL, '[%s]%s' % (V_NOT_A_O, T_TIKEUT), T_TIKEUT],
@@ -660,18 +666,6 @@ groups['-어'] = [
     {'rules': [['-' + V_EO, V_U, V_U]],
      'after': ['#용언'],
      'cond': ['#우불규칙'],
-     },
-    # 으불규칙
-    {'rules': [['-' + V_A, COND_EU_AO, V_EU],
-               ['-' + V_EO, COND_EU_NOT_AO, V_EU]],
-     'after': ['#용언'],
-     'notafter': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
-     'cond': ['#으불규칙'],
-     },
-    # 으불규칙 예외 '끄다', '뜨다', '크다', '쓰다'
-    {'rules': [['-' + V_EO, V_EU, V_EU]],
-     'after': ['^.*끄다$', '^.*뜨다$', '^.*쓰다$', '^.*트다$', '^.*크다$'],
-     'cond': ['#으불규칙'],
      },
 ]
 
