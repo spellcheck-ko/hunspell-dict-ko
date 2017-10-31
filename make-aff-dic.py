@@ -269,13 +269,10 @@ class Dictionary:
         new_words = []
         for word in self.words:
             pos_base = word.pos.split(':')[0]
-            if pos_base == '명사':
-                if word.pos != '명사:보통:비서술성':
-                    continue
+            if pos_base != '명사':
+                continue
             elif word.pos == '대명사':
                 if word.word == '너' or word.word == '나':
-                    continue
-                elif '가산명사' not in word.props:
                     continue
             new_word = Word()
             new_word.word = word.word + '들'

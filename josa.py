@@ -133,12 +133,13 @@ class JosaClass:
             if (word, '#' + pos_base) in self.notafter:
                 return False
         if self.after:
-            # 부사는 상태부사, 성상부사, 정도부사, 양태부사만 보조사 허용
             if pos_base == '부사':
-                if pos in ['부사:상태', '부사:성상', '부사:정도', '부사:양태']:
-                    pass
-                else:
-                    return False
+                # FIXME - # 부사는 상태부사, 성상부사, 정도부사, 양태부사만 보조사 허용해야 하는데..
+                # if pos in ['부사:상태', '부사:성상', '부사:정도', '부사:양태']:
+                #     pass
+                # else:
+                #     return False
+                pass
 
             if ('#' + pos_base) in self.after:
                 return True
