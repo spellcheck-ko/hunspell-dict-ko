@@ -62,8 +62,11 @@
 
 사전 데이터에는 다음 데이터가 들어갑니다.
 
- * '갈퀴'에서 직접 수동으로 입력한 데이터 <https://galkwi.pyok.org/>
- * CC-BY 라이선스로 공개된 NIADic <https://github.com/haven-jeon/NIADic>
+ * '갈퀴' 사이트에서 직접 수동으로 입력한 데이터
+  * https://galkwiki.pyok.org/
+ * 국립국어원 우리말샘 및 한국어기초사전 데이터
+  * https://krdict.korean.go.kr/
+  * https://opendict.korean.go.kr/
 
 현재까지 조사해 봤지만 위의 데이터 외에 인터넷에서 다운로드할 수 있는
 여러가지 자료 중에서는 자유로운 라이선스로 배포했을 때 저작권 문제나

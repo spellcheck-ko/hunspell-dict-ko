@@ -50,7 +50,7 @@ myspell에서도 이용하는 형식이지만 한국어 데이터는 hunspell에
 
  * [프로젝트 정보](https://spellcheck-ko.github.io/)
  * [Github 프로젝트](https://github.com/spellcheck-ko/hunspell-dict-ko/)
- * [갈퀴 단어 정보 사이트](https://galkwi.pyok.org/) (여기서 부족한 단어를 추가/업데이트할 수 있습니다.)
+ * [갈퀴 단어 정보 사이트](https://galkwiki.pyok.org/) (여기서 부족한 단어를 추가/업데이트할 수 있습니다.)
  * [의견 교환](https://groups.google.com/group/spellcheck-ko)
 
 이 프로젝트는 2017년부터 공개SW개발자Lab의 지원을 받고 있습니다.
