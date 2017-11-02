@@ -177,10 +177,8 @@ groups = {}
 # '이' 주격/보격 조사
 groups['이'] = [
     JosaClass(rules=[('이', COND_T_ALL, '')],
-              after=['#명사', '#대명사',
+              after=['#명사', '#대명사', '#수사',
                      '#특수:숫자', '#특수:알파벳',
-                     '#특수:수:1', '#특수:수:10', '#특수:수:100', '#특수:수:1000',
-                     '#특수:고유수:1', '#특수:고유수:10',
                      ]
     ),
     # 대명사 '-거'+'이' -> '게'
@@ -199,10 +197,8 @@ groups['이'] = [
 groups['가'] = [
     JosaClass(
         rules=[('가', COND_V_ALL, '')],
-        after=['#명사', '#대명사',
+        after=['#명사', '#대명사', '#수사'
                '#특수:숫자', '#특수:알파벳',
-               '#특수:수:1', '#특수:수:10', '#특수:수:100', '#특수:수:1000',
-               '#특수:고유수:1', '#특수:고유수:10',
                ],
         notafter=[('나', '#대명사'),
                   ('너', '#대명사'),
@@ -286,8 +282,6 @@ groups['!보조사'] = [
         after=['#부사',
                '#명사', '#대명사', '#수사',
                '#특수:숫자', '#특수:알파벳',
-               '#특수:수:1', '#특수:수:10', '#특수:수:100', '#특수:수:1000',
-               '#특수:고유수:1', '#특수:고유수:10'
                ],
     ),
 ]
@@ -426,8 +420,6 @@ groups['*'] = [
          ],
         after=['#명사', '#대명사', '#수사',
                '#특수:숫자', '#특수:알파벳',
-               '#특수:수:1', '#특수:수:10', '#특수:수:100', '#특수:수:1000',
-               '#특수:고유수:1', '#특수:고유수:10',
                ],
     ),
 ]
@@ -444,13 +436,9 @@ def find_flags(word, pos, props):
     for klass in klasses:
         if klass.match(word, pos, props):
             result.append(klass.flag)
-    if pos.startswith('명사'):
+    if pos.startswith('명사') or pos.startswith('수사'):
         result.append(josa_ida_flag)
     elif pos in ['대명사', '특수:복수접미사', '특수:알파벳', '특수:숫자']:
-        result.append(josa_ida_flag)
-    elif pos.startswith('특수:수:'):
-        result.append(josa_ida_flag)
-    elif pos.startswith('특수:고유수:'):
         result.append(josa_ida_flag)
     if (pos == '대명사'):
         result.append(josa_ida_t_flag)

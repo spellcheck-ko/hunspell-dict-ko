@@ -94,16 +94,10 @@ class Word:
         pos_default_flags = {
             '명사': [],
             '대명사': [],
+            '수사': [],
             '특수:복수접미사': [plural_suffix_flag],
             '특수:알파벳': [alpha_flag],
             '특수:숫자': [digit_flag],
-            '특수:수:1': [number_1_flag],
-            '특수:수:10': [number_10_flag],
-            '특수:수:100': [number_100_flag],
-            '특수:수:1000': [number_1000_flag],
-            '특수:수:10000': [number_10000_flag],
-            '특수:고유수:1': [knumber_1_flag],
-            '특수:고유수:10': [knumber_10_flag],
             '특수:금지어': [forbidden_flag],
             '내부:활용:-어': [conjugation_eo_flag],
             '내부:활용:-은': [conjugation_eun_flag],
@@ -121,6 +115,13 @@ class Word:
             '보조용언:-어': [auxiliary_eo_flag],
             '보조용언:-은': [auxiliary_eun_flag],
             '보조용언:-을': [auxiliary_eul_flag],
+            '수:1': [number_1_flag],
+            '수:10': [number_10_flag],
+            '수:100': [number_100_flag],
+            '수:1000': [number_1000_flag],
+            '수:10000': [number_10000_flag],
+            '고유수:1': [knumber_1_flag],
+            '고유수:10': [knumber_10_flag],
         }
         for prop in word.props:
             try:
