@@ -227,7 +227,6 @@ groups['!대명사+의'] = [
     JosaClass(
         rules=[(V_AE, V_A, V_A),
                (V_E, V_EO, V_EO),
-               (V_E, V_EO, V_EO),
                ],
         after=[('나', '#대명사'),
                ('너', '#대명사'),
@@ -235,6 +234,30 @@ groups['!대명사+의'] = [
                ],
     ),
 ]
+
+# 대명사 '나'+'에게' -> '내게', '너'+'에게' -> '네게', '저'+'에게' -> '제게'
+
+_rules=[(V_AE+'게', V_A, V_A),
+        (V_E+'게', V_EO, V_EO)]
+_suffix_list = ['까지', '는', T_NIEUN,  '나',  '도',  '만',  '서',  '서는',  '서도',  '서만']
+_rules_suffix = []
+for _suffix in _suffix_list:
+    _rules_suffix += [(r[0]+_suffix,r[1],r[2]) for r in _rules]
+_rules += _rules_suffix
+
+groups['!대명사+에게'] = [
+    # 대명사 '나'+'에게' -> '내게', '너'+'에게' -> '네게', '저'+'에게' -> '제게'
+    JosaClass(
+        rules=_rules,
+        after=[('나', '#대명사'),
+               ('너', '#대명사'),
+               ('저', '#대명사'),
+               ],
+    ),
+]
+
+# 보조사 붙임
+
 
 # '-ㄴ', '-ㄹ' 형태로 줄여진 구어체
 groups['!종성줄임'] = [
