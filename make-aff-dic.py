@@ -281,6 +281,9 @@ class Dictionary:
             if word.flags:
                 if word.flags not in aliases:
                     aliases.append(word.flags)
+        aliases.sort()
+        for word in self.words:
+            if word.flags:
                 word.flags_alias = aliases.index(word.flags) + 1
         self.flag_aliases = aliases
 
