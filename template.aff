@@ -70,6 +70,7 @@ ${AF}
 ${AM}
 FORBIDDENWORD ${forbidden_flag}
 TRY ${trychars}
+${suggest_settings}
 ${MAP}
 ${REP}
 COMPOUNDMIN 1

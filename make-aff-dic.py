@@ -37,6 +37,7 @@
 # ***** END LICENSE BLOCK *****
 
 import sys
+import copy
 import unicodedata
 import json
 
@@ -62,6 +63,10 @@ def progress(s):
     return sys.stderr.write('Progress: ' + s + '...\n')
 
 
+def status(s):
+    return sys.stderr.write('Status: ' + s + '...\n')
+
+
 class Word:
     def __init__(self):
         self.word = ''
@@ -74,6 +79,17 @@ class Word:
 
     def __hash__(self):
         return (self.word + self.pos).__hash__()
+
+    # set element
+    def __eq__(self, other):
+        if self.word != other.word:
+            return False
+        elif self.pos != other.pos:
+            return False
+        elif self.props != other.props:
+            return False
+        else:
+            return True
 
     # to make it orderable
     def __lt__(self, other):
@@ -160,6 +176,9 @@ class Dictionary:
             self.add(w)
 
     def process(self):
+        progress('중복 제거')
+        self.remove_duplicates()
+        status('중복 제거 후 단어 수: %d' % len(self.words))
         progress('복수형 확장')
         self.expand_plurals()
         if config.expand_auxiliary_attached:
@@ -222,6 +241,15 @@ class Dictionary:
              'COMPOUNDRULE': aff.COMPOUNDRULE_DEFINES,
              'JOSA': josa_str,
              'SUFFIX': suffix_str, }
+
+        if config.required_hunspell_version < (1, 3, 1):
+            d['suggest_settings'] = ''
+        else:
+            l = ('MAXCPDSUGS 4',
+                 'MAXNGRAMSUGS 4',
+                 'COMPOUNDMORESUFFIXES')
+            d['suggest_settings'] = '\n'.join(l)
+
         outfile.write(template.substitute(d))
 
     def get_AF(self):
@@ -265,6 +293,30 @@ class Dictionary:
                     aliases.append(morph)
                 word.morph_alias = aliases.index(morph) + 1
         self.morph_aliases = aliases
+
+    def remove_duplicates(self):
+        remove_list = []
+        for word in self.words:
+            if '보조용언:-어' in word.props:
+                have_aux = True
+                wc = copy.deepcopy(word)
+                wc.props.remove('보조용언:-어')
+            elif '보조용언:-은' in word.props:
+                have_aux = True
+                wc = copy.deepcopy(word)
+                wc.props.remove('보조용언:-은')
+            elif '보조용언:-을' in word.props:
+                have_aux = True
+                wc = copy.deepcopy(word)
+                wc.props.remove('보조용언:-을')
+            else:
+                have_aux = False
+
+            if have_aux and wc in self.words:
+                remove_list.append(wc)
+
+        for word in remove_list:
+            self.words.remove(word)
 
     def expand_plurals(self):
         new_words = []
