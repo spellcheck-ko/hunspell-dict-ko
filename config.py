@@ -1,4 +1,4 @@
-version = '0.7.0'
+version = '0.7.0-dev'
 
 # 필요한 최소 hunspell 버전.
 # - 코드에서는 if config.required_hunspell_version >= (1,2,14): 와 같이
