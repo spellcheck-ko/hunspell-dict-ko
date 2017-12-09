@@ -77,4 +77,4 @@ BY-SA 2.0 KR) 라이선스에 따라 배포됩니다.
  * [의견 교환](https://groups.google.com/group/spellcheck-ko)
 
 이 프로젝트는 2017년부터 공개SW개발자Lab의 지원을 받고 있습니다.
-<http://kosslab.kr>
+<https://kosslab.kr>
