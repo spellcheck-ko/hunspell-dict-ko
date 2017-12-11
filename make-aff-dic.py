@@ -45,6 +45,7 @@ import config
 import suffix
 import josa
 import encoding
+import jamo
 from flags import *
 
 
@@ -73,7 +74,9 @@ class Word:
         self.pos = ''
         self.pos_detail = ''
         self.props = []
-        self.stem = ''
+        self.stem = None
+        self.pronounce = None
+
         self.flags = []
         self.flags_alias = -1
         self.morph_alias = -1
@@ -87,7 +90,7 @@ class Word:
             return False
         elif self.pos != other.pos:
             return False
-        elif self.props != other.props:
+        elif sorted(self.props) !=  sorted(other.props):
             return False
         else:
             return True
@@ -98,18 +101,26 @@ class Word:
             return True
         if self.pos < other.pos:
             return True
-        # FIXME: 이렇게 하면 순서가 다를텐데. set에서 뭐가 먼저 나올지 알고...
-        for prop in other.props:
-            if prop not in self.props:
-                return True
+        if sorted(self.props) < sorted(other.props):
+            return True
         return False
 
     def __repr__(self):
         return 'Word %s pos:%s' % (self.word, self.pos)
 
-    def attach_flags(word):
+    def ends_with_vowel(self):
+        if self.pronounce:
+            lastsyl = self.pronounce[-1]
+        else:
+            lastsyl = self.word[-1]
+        return ENC(lastsyl)[-1] in jamo.V_ALL
+
+    def ends_with_consonant(self):
+        return not self.ends_with_vowel()
+
+    def attach_flags(self):
         pos_default_flags = {
-            '명사': [],
+            '명사': [noun_flag],
             '대명사': [],
             '수사': [],
             '특수:복수접미사': [plural_suffix_flag],
@@ -121,7 +132,7 @@ class Word:
             '내부:활용:-을': [conjugation_eul_flag],
         }
         try:
-            word.flags = pos_default_flags[word.pos]
+            self.flags = pos_default_flags[self.pos]
         except KeyError:
             pass
 
@@ -129,13 +140,18 @@ class Word:
             '명사:의존:단위성': [counter_flag],
         }
         try:
-            word.flags += pos_detail_default_flags[word.pos_detail]
+            self.flags += pos_detail_default_flags[self.pos_detail]
         except KeyError:
             pass
 
-        if word.pos == '동사' or word.pos == '형용사':
-            word.flags += suffix.find_flags(word.word, word.pos, word.props)
-        word.flags += josa.find_flags(word.word, word.pos, word.props)
+        if self.pos == '명사':
+            if self.ends_with_vowel():
+                self.flags += [noun_v_flag]
+            else:
+                self.flags += [noun_t_flag]
+        elif self.pos == '동사' or self.pos == '형용사':
+            self.flags += suffix.find_flags(self.word, self.pos, self.props)
+        self.flags += josa.find_flags(self.word, self.pos, self.props)
         prop_default_flags = {
             '단위명사': [counter_flag],
             '보조용언:-어': [auxiliary_eo_flag],
@@ -149,12 +165,12 @@ class Word:
             '고유수:1': [knumber_1_flag],
             '고유수:10': [knumber_10_flag],
         }
-        for prop in word.props:
+        for prop in self.props:
             try:
-                word.flags += prop_default_flags[prop]
+                self.flags += prop_default_flags[prop]
             except KeyError:
                 pass
-        word.flags.sort()
+        self.flags.sort()
 
 
 class Dictionary:
@@ -190,6 +206,8 @@ class Dictionary:
                 w.props = entry['props']
             if 'stem' in entry:
                 w.stem = entry['stem']
+            if 'pronounce' in entry:
+                w.pronounce = entry['pronounce']
             self.add(w)
 
     def process(self):

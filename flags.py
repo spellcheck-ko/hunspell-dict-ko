@@ -38,6 +38,10 @@
 
 
 _flags = [
+    # 명사
+    'noun',
+    'noun_t',              # 받침 있는 명사
+    'noun_v',              # 받침 없는 명사
     # 아라비아숫자
     'digit',
     # 단위 명사, 숫자와 붙여 쓸 수 있음
@@ -70,7 +74,9 @@ _flags = [
     ('josas', 100),
     # 서술 조사
     'josa_ida',
-    'josa_ida_t',  # 받침으로 시작
+    'josa_ida_t',               # 받침으로 시작
+    'josa_ida_noun',            # 서술격조사명사형 (이었음)
+    'josa_ida_noun_v',          # 서술격조사명사형, 모음 뒤 (였음)
 ]
 
 
