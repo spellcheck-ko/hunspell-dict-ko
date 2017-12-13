@@ -277,6 +277,7 @@ class Dictionary:
              'trychars': aff.TRYCHARS,
              'MAP': aff.MAP_DEFINES,
              'REP': aff.REP_DEFINES,
+             'onlyincompound_flag': str(onlyincompound_flag),
              'COMPOUNDRULE': aff.COMPOUNDRULE_DEFINES,
              'JOSA': josa_str,
              'SUFFIX': suffix_str, }

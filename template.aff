@@ -73,6 +73,7 @@ TRY ${trychars}
 ${suggest_settings}
 ${MAP}
 ${REP}
+ONLYINCOMPOUND ${onlyincompound_flag}
 COMPOUNDMIN 1
 ${COMPOUNDRULE}
 ${JOSA}

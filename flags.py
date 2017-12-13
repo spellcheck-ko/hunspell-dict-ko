@@ -38,6 +38,7 @@
 
 
 _flags = [
+    'onlyincompound',
     # 체언
     'substantive',
     'substantive_t',                       # 받침으로 끝나는 체언
