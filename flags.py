@@ -40,8 +40,12 @@
 _flags = [
     # 체언
     'substantive',
-    'substantive_t',
-    'substantive_v',
+    'substantive_t',                       # 받침으로 끝나는 체언
+    'substantive_v',                       # 모음으로 끝나는 체언
+    'substantive_v_not_pronoun_exception', # 모음으로 끝나는 체언 대명사 나/너/저 제외
+    # 대명사
+    'pronoun',
+    'pronoun_exception',                   # 대명사 나/너/저
     # 명사
     'noun',
     'noun_t',              # 받침 있는 명사

@@ -493,12 +493,15 @@ def get_ida_rules(flagaliases):
             elif NFD(c)[:2] == NFD('이'):
                 ida_josas_t.append((NFD(c)[2:], COND_V_ALL))
 
+    result = []
     if len(ida_josas) > 0:
-        result = ['SFX %d Y %d' % (josa_ida_flag, len(ida_josas))]
+        result.append('# 서술격 조사')
+        result.append('SFX %d Y %d' % (josa_ida_flag, len(ida_josas)))
         for (sfx, cond) in ida_josas:
             result.append('SFX %d 0 %s %s' % (josa_ida_flag, ENC(sfx), cond))
 
     if len(ida_josas_t) > 0:
+        result.append('# 서술격 조사 받침 뒤')
         result.append('SFX %d Y %d' % (josa_ida_t_flag, len(ida_josas_t)))
         for (sfx, cond) in ida_josas_t:
             result.append('SFX %d 0 %s %s' % (josa_ida_t_flag, ENC(sfx), cond))
