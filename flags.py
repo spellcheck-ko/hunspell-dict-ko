@@ -38,6 +38,10 @@
 
 
 _flags = [
+    # 체언
+    'substantive',
+    'substantive_t',
+    'substantive_v',
     # 명사
     'noun',
     'noun_t',              # 받침 있는 명사

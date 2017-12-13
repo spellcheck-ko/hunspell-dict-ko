@@ -120,9 +120,9 @@ class Word:
 
     def attach_flags(self):
         pos_default_flags = {
-            '명사': [noun_flag],
-            '대명사': [],
-            '수사': [],
+            '명사': [substantive_flag, noun_flag],
+            '대명사': [substantive_flag],
+            '수사': [substantive_flag],
             '특수:복수접미사': [plural_suffix_flag],
             '특수:알파벳': [alpha_flag],
             '특수:숫자': [digit_flag],
@@ -144,11 +144,15 @@ class Word:
         except KeyError:
             pass
 
-        if self.pos == '명사':
+        if self.pos in ('명사', '대명사', '수사'):
             if self.ends_with_vowel():
-                self.flags += [noun_v_flag]
+                self.flags += [substantive_v_flag]
+                if self.pos == '명사':
+                    self.flags += [noun_v_flag]
             else:
-                self.flags += [noun_t_flag]
+                self.flags += [substantive_t_flag]
+                if self.pos == '명사':
+                    self.flags += [noun_t_flag]
         elif self.pos == '동사' or self.pos == '형용사':
             self.flags += suffix.find_flags(self.word, self.pos, self.props)
         self.flags += josa.find_flags(self.word, self.pos, self.props)
