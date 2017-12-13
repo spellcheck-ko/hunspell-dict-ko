@@ -123,7 +123,7 @@ class Word:
             '명사': [substantive_flag, noun_flag],
             '대명사': [substantive_flag],
             '수사': [substantive_flag],
-            '특수:복수접미사': [plural_suffix_flag],
+            '특수:복수접미사': [substantive_flag, plural_suffix_flag, onlyincompound_flag],
             '특수:알파벳': [alpha_flag],
             '특수:숫자': [digit_flag],
             '특수:금지어': [forbidden_flag],

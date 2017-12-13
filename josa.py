@@ -137,6 +137,11 @@ class JosaClass:
                 #     return False
                 pass
 
+            if pos in ('명사', '대명사', '수사', '특수:숫자',
+                       '특수:알파벳', '특수:복수접미사'):
+                if '#체언' in self.after:
+                    return True
+
             if ('#' + pos) in self.after:
                 return True
             elif (word, '#' + pos) in self.after:
@@ -171,9 +176,7 @@ groups = {}
 # '이' 주격/보격 조사
 groups['이'] = [
     JosaClass(rules=[('이', COND_T_ALL, '')],
-              after=['#명사', '#대명사', '#수사',
-                     '#특수:숫자', '#특수:알파벳',
-                     ]
+              after=['#체언'],
     ),
     # 대명사 '-것'+'이' -> '게'
     JosaClass(
@@ -186,9 +189,7 @@ groups['이'] = [
 groups['가'] = [
     JosaClass(
         rules=[('가', COND_V_ALL, '')],
-        after=['#명사', '#대명사', '#수사'
-               '#특수:숫자', '#특수:알파벳',
-               ],
+        after=['#체언'],
         notafter=[('나', '#대명사'),
                   ('너', '#대명사'),
                   ('저', '#대명사'),
@@ -291,10 +292,7 @@ groups['!보조사'] = [
                ('은', COND_T_ALL, ''), ('는', COND_V_ALL, ''),
                ('은커녕', COND_T_ALL, ''), ('는커녕', COND_V_ALL, ''),
                ],
-        after=['#부사',
-               '#명사', '#대명사', '#수사',
-               '#특수:숫자', '#특수:알파벳',
-               ],
+        after=['#부사', '#체언'],
     ),
 ]
 
@@ -430,9 +428,7 @@ groups['*'] = [
          ('한테도', COND_ALL, ''),
          ('한테서', COND_ALL, ''),
          ],
-        after=['#명사', '#대명사', '#수사',
-               '#특수:숫자', '#특수:알파벳',
-               ],
+        after=['#체언'],
     ),
 ]
 
