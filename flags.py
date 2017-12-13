@@ -46,6 +46,7 @@ _flags = [
     'substantive_v_not_pronoun_exception', # 모음으로 끝나는 체언 대명사 나/너/저 제외
     # 대명사
     'pronoun',
+    'pronoun_plural',                      # '-들'붙을 수 있는 대명사
     'pronoun_exception',                   # 대명사 나/너/저
     # 명사
     'noun',

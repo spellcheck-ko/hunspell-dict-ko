@@ -402,6 +402,12 @@ compound_rules = [
     '(%d)*(%d)?' % (alpha_flag, plural_suffix_flag),
 ]
 
+# 접미사 '-들'
+compound_rules += [
+    '(%d)(%d)' % (noun_flag, plural_suffix_flag),
+    '(%d)(%d)' % (pronoun_plural_flag, plural_suffix_flag),
+]
+
 # 숫자 만 단위로 띄어 쓰기
 if config.required_hunspell_version >= (1, 2, 14):
     compound_rules += [

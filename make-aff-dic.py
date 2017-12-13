@@ -121,7 +121,7 @@ class Word:
     def attach_flags(self):
         pos_default_flags = {
             '명사': [substantive_flag, noun_flag],
-            '대명사': [substantive_flag],
+            '대명사': [substantive_flag, pronoun_flag],
             '수사': [substantive_flag],
             '특수:복수접미사': [substantive_flag, plural_suffix_flag, onlyincompound_flag],
             '특수:알파벳': [alpha_flag],
@@ -153,9 +153,16 @@ class Word:
                 self.flags += [substantive_t_flag]
                 if self.pos == '명사':
                     self.flags += [noun_t_flag]
+            if self.pos == '대명사':
+                if self.word == '너' or self.word == '나':
+                    pass
+                else:
+                    self.flags += [pronoun_plural_flag]
+
         elif self.pos == '동사' or self.pos == '형용사':
             self.flags += suffix.find_flags(self.word, self.pos, self.props)
         self.flags += josa.find_flags(self.word, self.pos, self.props)
+
         prop_default_flags = {
             '단위명사': [counter_flag],
             '보조용언:-어': [auxiliary_eo_flag],
@@ -218,8 +225,6 @@ class Dictionary:
         progress('중복 제거')
         self.remove_duplicates()
         status('중복 제거 후 단어 수: %d' % len(self.words))
-        progress('복수형 확장')
-        self.expand_plurals()
         if config.expand_auxiliary_attached:
             progress('플래그 계산')
             self.attach_flags()
@@ -340,42 +345,31 @@ class Dictionary:
     def remove_duplicates(self):
         remove_list = []
         for word in self.words:
-            if '보조용언:-어' in word.props:
-                have_aux = True
-                wc = copy.deepcopy(word)
-                wc.props.remove('보조용언:-어')
-            elif '보조용언:-은' in word.props:
-                have_aux = True
-                wc = copy.deepcopy(word)
-                wc.props.remove('보조용언:-은')
-            elif '보조용언:-을' in word.props:
-                have_aux = True
-                wc = copy.deepcopy(word)
-                wc.props.remove('보조용언:-을')
-            else:
-                have_aux = False
-
-            if have_aux and wc in self.words:
-                remove_list.append(wc)
+            if word.pos in ('동사', '형용사'):
+                if '보조용언:-어' in word.props:
+                    have_aux = True
+                    wc = copy.deepcopy(word)
+                    wc.props.remove('보조용언:-어')
+                elif '보조용언:-은' in word.props:
+                    have_aux = True
+                    wc = copy.deepcopy(word)
+                    wc.props.remove('보조용언:-은')
+                elif '보조용언:-을' in word.props:
+                    have_aux = True
+                    wc = copy.deepcopy(word)
+                    wc.props.remove('보조용언:-을')
+                else:
+                    have_aux = False
+                if have_aux and wc in self.words:
+                    remove_list.append(wc)
+            elif word.pos in ('명사'):
+                if word.word == '들':
+                    # TODO: COMPOUNDRULE 구성요소와 동음이의일 경우 이상동작하기
+                    # 때문에 삭제, 복수접미사 '-들'과 겹치지 않게
+                    remove_list.append(word)
 
         for word in remove_list:
             self.words.remove(word)
-
-    def expand_plurals(self):
-        new_words = []
-        for word in self.words:
-            if word.pos != '명사':
-                continue
-            elif word.pos == '대명사':
-                if word.word == '너' or word.word == '나':
-                    continue
-            new_word = Word()
-            new_word.word = word.word + '들'
-            new_word.pos = word.pos
-            new_word.props = [p for p in word.props if p != '가산명사']
-            new_word.stem = word.word
-            new_words.append(new_word)
-        self.append(new_words)
 
     def expand_auxiliary(self):
         new_words = []
