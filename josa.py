@@ -125,27 +125,21 @@ class JosaClass:
         JosaClass.next_flag += 1
 
     def match(self, word, pos, props):
-        pos_base = pos.split(':')[0]
-        if pos_base == '특수':
-            pos_base = ':'.join(pos.split(':')[0:2])
-
         if self.notafter:
-            if (word, '#' + pos_base) in self.notafter:
+            if (word, '#' + pos) in self.notafter:
                 return False
         if self.after:
-            if pos_base == '부사':
+            if pos == '부사':
                 # FIXME - # 부사는 상태부사, 성상부사, 정도부사, 양태부사만 보조사 허용해야 하는데..
-                # if pos in ['부사:상태', '부사:성상', '부사:정도', '부사:양태']:
+                # if pos_detail in ['부사:상태', '부사:성상', '부사:정도', '부사:양태']:
                 #     pass
                 # else:
                 #     return False
                 pass
 
-            if ('#' + pos_base) in self.after:
+            if ('#' + pos) in self.after:
                 return True
-            elif ('#' + pos) in self.after:
-                return True
-            elif (word, '#' + pos_base) in self.after:
+            elif (word, '#' + pos) in self.after:
                 return True
             else:
                 return False
@@ -459,11 +453,11 @@ def find_flags(word, pos, props):
     for klass in klasses:
         if klass.match(word, pos, props):
             result.append(klass.flag)
-    if pos.startswith('명사') or pos.startswith('수사'):
+
+    if pos in ('명사', '대명사', '수사', '특수:숫자',
+               '특수:알파벳', '특수:복수접미사'):
         result.append(josa_ida_flag)
-    elif pos in ['대명사', '특수:복수접미사', '특수:알파벳', '특수:숫자']:
-        result.append(josa_ida_flag)
-    if (pos == '대명사'):
+    if pos == '대명사':
         result.append(josa_ida_t_flag)
     return result
 
