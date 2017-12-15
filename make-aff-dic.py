@@ -124,6 +124,15 @@ class Word:
             word.flags = pos_default_flags[word.pos]
         except KeyError:
             pass
+
+        pos_detail_default_flags = {
+            '명사:의존:단위성': [counter_flag],
+        }
+        try:
+            word.flags += pos_detail_default_flags[word.pos_detail]
+        except KeyError:
+            pass
+
         if word.pos == '동사' or word.pos == '형용사':
             word.flags += suffix.find_flags(word.word, word.pos, word.props)
         word.flags += josa.find_flags(word.word, word.pos, word.props)
