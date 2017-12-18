@@ -1,26 +1,26 @@
-PYTHON = python3
-ZIP = zip -r
+PYTHON := python3
+ZIP := zip -r
 
-AFFIX = ko.aff
-DICT = ko.dic
+AFFIX := ko.aff
+DICT := ko.dic
 
-CLEANFILES = $(AFFIX) $(DICT)
+CLEANFILES := $(AFFIX) $(DICT)
 
-SOURCES = make-aff-dic.py config.py suffix.py suffixdata.py jamo.py	\
+SOURCES := make-aff-dic.py config.py suffix.py suffixdata.py jamo.py	\
 	flags.py aff.py josa.py template.aff
-DICT_DATA = dict-ko-builtins.json dict-ko-galkwi-ccby.json dict-ko-galkwi-ccbysa.json dict-ko-galkwi-mplgpllgpl.json
+DICT_DATA = dict-ko-builtins.json dict-ko-galkwi-ccbysa.json dict-ko-galkwi-mplgpllgpl.json
 
-DISTDIR = dist
+DISTDIR := dist
 
-PACKAGE = hunspell-dict-ko
-VERSION = $(shell $(PYTHON) -c 'import config;print(config.version)')
-RELEASETAG = HEAD
+PACKAGE := hunspell-dict-ko
+VERSION := $(shell $(PYTHON) -c 'import config;print(config.version)')
+RELEASETAG := HEAD
 
-SRC_DISTNAME = hunspell-dict-ko-$(VERSION)
-SRC_DISTFILE = $(DISTDIR)/$(SRC_DISTNAME).tar.xz
-BIN_DISTNAME = ko-aff-dic-$(VERSION)
-BIN_DISTFILE = $(DISTDIR)/$(BIN_DISTNAME).zip
-BIN_DISTCONTENT = LICENSE LICENSE.CC-BY-4.0 LICENSE.CC-BY-SA-2.0-KR LICENSE.GPL LICENSE.LGPL LICENSE.MPL $(AFFIX) $(DICT)
+SRC_DISTNAME := hunspell-dict-ko-$(VERSION)
+SRC_DISTFILE := $(DISTDIR)/$(SRC_DISTNAME).tar.xz
+BIN_DISTNAME := ko-aff-dic-$(VERSION)
+BIN_DISTFILE := $(DISTDIR)/$(BIN_DISTNAME).zip
+BIN_DISTCONTENT = LICENSE LICENSE.CC-BY-SA-4.0 LICENSE.GPL LICENSE.LGPL LICENSE.MPL $(AFFIX) $(DICT)
 
 all: $(AFFIX) $(DICT)
 
