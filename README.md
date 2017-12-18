@@ -64,9 +64,8 @@ myspell에서도 이용하는 형식이지만 한국어 데이터는 hunspell에
 생성 코드와 일부 단어 데이터(dict-ko-galkwi-mplgpllgpl.json)는 Mozilla Public
 License 1.1, GNU General Public License 2.0 또는 그 이후 버전, GNU Lesser
 General Public License 2.1 또는 그 이후 버전의 (MPL 1.1/GPL 2.0/LGPL 2.1) 3중
-라이선스에 따라 배포됩니다. 그 외 단어 데이터는 CreativeCommons Attribution
-4.0 (CC BY 4.0) 및 CreativeCommons Attribution-ShareAlike 2.0 대한민국 (CC
-BY-SA 2.0 KR) 라이선스에 따라 배포됩니다.
+라이선스에 따라 배포됩니다. 그 외의 단어 데이터는 CreativeCommons
+Attribution-ShareAlike 4.0 (CC BY-SA 4.0) 라이선스에 따라 배포됩니다.
 
 ## 기타 정보
 
