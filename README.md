@@ -7,8 +7,7 @@
 
  * 단어 단위 맞춤법 검사
  * 불규칙 활용을 포함한 용언 활용 등 교착어인 한국어의 특징에 맞게 구현
- * hunspell 맞춤법 검사를 사용하는 프로그램이라면 수정 없이도 한국어 맞춤법
-   검사가 동작
+ * hunspell 맞춤법 검사를 사용하는 프로그램이라면 수정 없이도 한국어 맞춤법 검사가 동작
  * 오픈소스 배포 가능한 단어 데이터 사용
 
 [Github 다운로드](https://github.com/spellcheck-ko/hunspell-dict-ko/releases)
@@ -27,8 +26,7 @@
  * 우분투: hunspell-ko 패키지 설치, 9.10 (karmic) 이후, <http://packages.ubuntu.com/hunspell-ko>
  * 페도라: hunspell-ko 패키지 설치, 페도라 12 (Constantine) 이후, <https://apps.fedoraproject.org/packages/hunspell-ko/>
  * Mac OS X 10.5: BaramSpellChecker
- * Mac OS X 10.6 이상: /Library/Spelling 또는 홈폴더/Library/Spelling 아래
-   aff/dic 파일 복사
+ * Mac OS X 10.6 이상: /Library/Spelling 또는 홈폴더/Library/Spelling 아래 aff/dic 파일 복사
  * 파이어폭스 부가 기능, <https://addons.mozilla.org/ko/firefox/addon/korean-spellchecker/>
  * 리브레오피스 부가 기능, <https://extensions.libreoffice.org/extensions/korean-spellchecker>
 
@@ -44,17 +42,11 @@ myspell에서도 이용하는 형식이지만 한국어 데이터는 hunspell에
 있는 기능이 필요하기 때문에 hunspell에서만 동작합니다.
 
  * 현재의 모든 기능을 사용하려면 hunspell 1.3.1 이상 버전이 필요합니다.
- * 단 hunspell 1.6.0 버전은 한국어 사용에 심각한 문제가 있습니다. 1.4.x 이하
-   또는 1.6.1 이상 버전을 사용하십시오.
- * 대부분의 최근 OS와 애플리케이션은 1.3.1보다 높은 버전을 사용하고 있으나,
-   예외적으로 맥오에스에 내장된 hunspell은 1.2.8을 사용하고 있습니다.
- * hunspell 1.2.8에서도 1.2.8 용으로 빌드한 aff 및 dic 파일을 사용할 수
-   있지만, 일부 동작하지 않는 부분이 있습니다.
- * hunspell 커맨드라인에서 사용할 경우 1.2.11 이전 버전은 한글로 된 단어를
-   제대로 분리하지 못해 동작하지 않습니다.
- * 1.6.2 이전 버전은 일반적인 맞춤법 검사 기능에는 문제가 없으나, hunspell
-   커맨드라인에서 사용할 때 '+' 기호로 시작하는 어근이 제대로 변환되지
-   않습니다.
+ * 단 hunspell 1.6.0 버전은 한국어 사용에 심각한 문제가 있습니다. 1.4.x 이하 또는 1.6.1 이상 버전을 사용하십시오.
+ * 대부분의 최근 OS와 애플리케이션은 1.3.1보다 높은 버전을 사용하고 있으나, 예외적으로 맥오에스에 내장된 hunspell은 1.2.8을 사용하고 있습니다.
+ * hunspell 1.2.8에서도 1.2.8 용으로 빌드한 aff 및 dic 파일을 사용할 수 있지만, 일부 동작하지 않는 부분이 있습니다.
+ * hunspell 커맨드라인에서 사용할 경우 1.2.11 이전 버전은 한글로 된 단어를 제대로 분리하지 못해 동작하지 않습니다.
+ * 1.6.2 이전 버전은 일반적인 맞춤법 검사 기능에는 문제가 없으나, hunspell 커맨드라인에서 사용할 때 '+' 기호로 시작하는 어근이 제대로 변환되지 않습니다.
 
 ## 저작권 정보
 
@@ -67,13 +59,13 @@ General Public License 2.1 또는 그 이후 버전의 (MPL 1.1/GPL 2.0/LGPL 2.1
 라이선스에 따라 배포됩니다. 그 외의 단어 데이터는 CreativeCommons
 Attribution-ShareAlike 4.0 (CC BY-SA 4.0) 라이선스에 따라 배포됩니다.
 
-## 기타 정보
+## 참고
 
  * [프로젝트 정보](https://spellcheck-ko.github.io/)
  * [Github 프로젝트](https://github.com/spellcheck-ko/hunspell-dict-ko/)
- * [갈퀴 단어 정보 사이트](https://galkwiki.pyok.org/) (여기서 부족한 단어를
-   추가/업데이트할 수 있습니다.)
+ * [갈퀴 단어 정보 사이트](https://galkwiki.pyok.org/) (여기서 부족한 단어를 추가/업데이트할 수 있습니다)
  * [의견 교환](https://groups.google.com/group/spellcheck-ko)
 
-이 프로젝트는 2017년부터 공개SW개발자Lab의 지원을 받고 있습니다.
-<https://kosslab.kr>
+## 기타 정보
+
+ * 이 프로젝트는 2017년에 과학기술정보통신부에서 지원하는 공개SW개발자Lab 글로벌오픈프론티어 프로그램의 지원을 받았습니다. <https://kosslab.kr>
