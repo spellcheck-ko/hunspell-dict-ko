@@ -123,10 +123,8 @@ class Word:
             '명사': [substantive_flag, noun_flag],
             '대명사': [substantive_flag, pronoun_flag],
             '수사': [substantive_flag],
-            # TODO: 복수접미사에 여기 onlyincompound_flag가 들어가야 하지만
-            # 명사 '들'과 겹쳐 오동작하므로 편의상 명사는 지우고 명사 대신 쓰이게
-            # 한다.
-            '특수:복수접미사': [substantive_flag, plural_suffix_flag],
+            '특수:복수접미사': [substantive_flag, plural_suffix_flag,
+                                onlyincompound_flag],
             '특수:알파벳': [alpha_flag],
             '특수:숫자': [digit_flag],
             '특수:금지어': [forbidden_flag],
@@ -254,7 +252,8 @@ class Dictionary:
 
     def output_dic(self, outfile):
         outfile.write('%d\n' % len(self.words))
-        for word in sorted(list(self.words)):
+        lines = []
+        for word in self.words:
             line = '%s' % word.word
             if word.flags_alias > 0:
                 line += ('/%d' % word.flags_alias)
@@ -264,8 +263,9 @@ class Dictionary:
             if config.output_word_morph:
                 if word.morph_alias > 0:
                     line += (' %d' % word.morph_alias)
-            line += '\n'
-            outfile.write(ENC(line))
+            lines.append(ENC(line))
+        lines.sort()
+        outfile.write('\n'.join(lines))
 
     def output_aff(self, outfile):
         from string import Template
@@ -369,11 +369,6 @@ class Dictionary:
                     have_aux = False
                 if have_aux and wc in self.words:
                     remove_list.append(wc)
-            elif word.pos in ('명사'):
-                if word.word == '들':
-                    # TODO: COMPOUNDRULE 구성요소와 동음이의일 경우 이상동작하기
-                    # 때문에 삭제, 복수접미사 '-들'과 겹치지 않게
-                    remove_list.append(word)
 
         for word in remove_list:
             self.words.remove(word)
