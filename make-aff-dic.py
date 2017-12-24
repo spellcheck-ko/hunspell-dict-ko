@@ -123,13 +123,19 @@ class Word:
             '명사': [substantive_flag, noun_flag],
             '대명사': [substantive_flag, pronoun_flag],
             '수사': [substantive_flag],
-            '특수:복수접미사': [substantive_flag, plural_suffix_flag, onlyincompound_flag],
+            # TODO: 복수접미사에 여기 onlyincompound_flag가 들어가야 하지만
+            # 명사 '들'과 겹쳐 오동작하므로 편의상 명사는 지우고 명사 대신 쓰이게
+            # 한다.
+            '특수:복수접미사': [substantive_flag, plural_suffix_flag],
             '특수:알파벳': [alpha_flag],
             '특수:숫자': [digit_flag],
             '특수:금지어': [forbidden_flag],
-            '내부:활용:-어': [conjugation_eo_flag],
-            '내부:활용:-은': [conjugation_eun_flag],
-            '내부:활용:-을': [conjugation_eul_flag],
+            '내부:활용:-어': [conjugation_eo_flag, onlyincompound_flag],
+            '내부:활용:-은': [conjugation_eun_flag, onlyincompound_flag],
+            '내부:활용:-을': [conjugation_eul_flag, onlyincompound_flag],
+            '내부:이다:-어': [ida_eo_flag, onlyincompound_flag],
+            '내부:이다:-은': [ida_eun_flag, onlyincompound_flag],
+            '내부:이다:-을': [ida_eul_flag, onlyincompound_flag],
         }
         try:
             self.flags = pos_default_flags[self.pos]
@@ -292,6 +298,7 @@ class Dictionary:
         else:
             l = ('MAXCPDSUGS 4',
                  'MAXNGRAMSUGS 4',
+                 'MAXDIFF 0',
                  'COMPOUNDMORESUFFIXES')
             d['suggest_settings'] = '\n'.join(l)
 
@@ -408,6 +415,50 @@ class Dictionary:
                         new_word.stem = verb.word
                         new_word.pos = '내부:활용:' + form
                         new_words.append(new_word)
+        # 서술격 조사
+        new_word = Word()
+        new_word.word = '이어'
+        new_word.pos = '내부:이다:-어'
+        new_word.stem = '이다'
+        new_word.props = []
+        new_words.append(new_word)
+        new_word = Word()
+        new_word.word = '이시어'
+        new_word.pos = '내부:이다:-어'
+        new_word.stem = '이다'
+        new_word.props = []
+        new_words.append(new_word)
+        new_word = Word()
+        new_word.word = '이셔'
+        new_word.pos = '내부:이다:-어'
+        new_word.stem = '이다'
+        new_word.props = []
+        new_words.append(new_word)
+        new_word = Word()
+        new_word.word = '인'
+        new_word.pos = '내부:이다:-은'
+        new_word.stem = '이다'
+        new_word.props = []
+        new_words.append(new_word)
+        new_word = Word()
+        new_word.word = '이신'
+        new_word.pos = '내부:이다:-은'
+        new_word.stem = '이다'
+        new_word.props = []
+        new_words.append(new_word)
+        new_word = Word()
+        new_word.word = '일'
+        new_word.pos = '내부:이다:-을'
+        new_word.stem = '이다'
+        new_word.props = []
+        new_words.append(new_word)
+        new_word = Word()
+        new_word.word = '이실'
+        new_word.pos = '내부:이다:-을'
+        new_word.stem = '이다'
+        new_word.props = []
+        new_words.append(new_word)
+
         self.append(new_words)
 
 if __name__ == '__main__':

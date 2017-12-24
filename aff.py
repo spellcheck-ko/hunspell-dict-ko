@@ -437,6 +437,9 @@ if not config.expand_auxiliary_attached:
         '(%d)(%d)' % (conjugation_eo_flag, auxiliary_eo_flag),
         '(%d)(%d)' % (conjugation_eun_flag, auxiliary_eun_flag),
         '(%d)(%d)' % (conjugation_eul_flag, auxiliary_eul_flag),
+        '(%d)(%d)(%d)' % (substantive_flag, ida_eo_flag, auxiliary_eo_flag),
+        '(%d)(%d)(%d)' % (substantive_flag, ida_eun_flag, auxiliary_eun_flag),
+        '(%d)(%d)(%d)' % (substantive_flag, ida_eul_flag, auxiliary_eul_flag),
     ]
 
 COMPOUNDRULE_DEFINES = 'COMPOUNDRULE %d\n' % len(compound_rules)

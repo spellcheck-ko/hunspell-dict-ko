@@ -87,6 +87,9 @@ _flags = [
     'josa_ida_t',               # 받침으로 시작
     'josa_ida_noun',            # 서술격조사명사형 (이었음)
     'josa_ida_noun_v',          # 서술격조사명사형, 모음 뒤 (였음)
+    'ida_eo',
+    'ida_eun',
+    'ida_eul',
 ]
 
 
