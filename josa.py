@@ -101,14 +101,17 @@ ALPHA_ALL = '01234567890abcdefghijklmnopqrstuvwxyz'
 COND_ALL = '.'
 if config.internal_encoding == '2+RST':
     COND_V_ALL = '[ㅏㅑㅐㅒㅗㅛㅓㅔㅕㅖㅜㅠㅡㅣ%s]' % (ALPHA_ALL)
-    COND_T_ALL = '[ㄱㄲㄴㄷㄹㅁㅂㅅㅆㅇㅈㅊㅋㅌㅍㅎ%s]' % (ALPHA_ALL)
+    COND_T_ALL = '[ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ%s]' % (ALPHA_ALL)
     COND_V_OR_RIEUL = '[ㅏㅣㅗㅡㅓㅜㅕㅔㅐㅛㅠㅑㅖㅒㄹ%s]' % (ALPHA_ALL)
-    COND_T_NOT_RIEUL = '[ㄱㄲㄴㄷㅁㅂㅅㅆㅇㅈㅊㅋㅌㅍㅎ%s]' % (ALPHA_ALL)
+    COND_T_NOT_RIEUL = '[ㄱㄲㄴㄷㄸㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ%s]' % (ALPHA_ALL)
 else:
-    COND_V_ALL = '[%s%s]' % (V_ALL, ALPHA_ALL)
-    COND_T_ALL = '[%s%s]' % (T_ALL, ALPHA_ALL)
-    COND_V_OR_RIEUL = '[%s%s]' % (V_ALL + T_RIEUL, ALPHA_ALL)
-    COND_T_NOT_RIEUL = '[%s%s]' % (T_ALL.replace(T_RIEUL, ''), ALPHA_ALL)
+    COMP_V = 'ㅏㅑㅐㅒㅓㅔㅕㅖㅗㅘㅙㅚㅛㅜㅝㅞㅟㅠㅡㅢㅣ'
+    COMP_C = 'ㄱㄳㄲㄴㄵㄶㄷㄸㄹㄺㄻㄼㄽㄾㄿㅀㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ'
+    COND_V_ALL = '[%s%s%s]' % (V_ALL, COMP_V, ALPHA_ALL)
+    COND_T_ALL = '[%s%s%s]' % (T_ALL, COMP_C, ALPHA_ALL)
+    COND_V_OR_RIEUL = '[%s%s%s]' % (V_ALL + T_RIEUL, COMP_V + 'ㄹ', ALPHA_ALL)
+    COND_T_NOT_RIEUL = '[%s%s%s]' % (T_ALL.replace(T_RIEUL, ''),
+                                     COMP_C.replace('ㄹ', ''), ALPHA_ALL)
 
 
 TRYCHARS = ''
