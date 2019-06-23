@@ -53,17 +53,16 @@ myspell에서도 이용하는 형식이지만 한국어 데이터는 hunspell에
 이 소프트웨어의 저작권은 hunspell-dict-ko 프로젝트 개발자와 기여자, 사전 단어
 기여자, 국립국어원과 우리말샘 사전 기여자에게 있습니다.
 
-생성 코드와 일부 단어 데이터(dict-ko-galkwi-mplgpllgpl.json)는 Mozilla Public
-License 1.1, GNU General Public License 2.0 또는 그 이후 버전, GNU Lesser
-General Public License 2.1 또는 그 이후 버전의 (MPL 1.1/GPL 2.0/LGPL 2.1) 3중
-라이선스에 따라 배포됩니다. 그 외의 단어 데이터는 CreativeCommons
-Attribution-ShareAlike 4.0 (CC BY-SA 4.0) 라이선스에 따라 배포됩니다.
+생성 코드와 일부 단어 데이터는 Mozilla Public License 1.1, GNU General Public
+License 2.0 또는 그 이후 버전, GNU Lesser General Public License 2.1 또는 그
+이후 버전의 (MPL 1.1/GPL 2.0/LGPL 2.1) 3중 라이선스에 따라 배포됩니다. 그 외의
+단어 데이터는 CreativeCommons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+라이선스에 따라 배포됩니다.
 
 ## 참고
 
  * [프로젝트 정보](https://spellcheck-ko.github.io/)
  * [Github 프로젝트](https://github.com/spellcheck-ko/hunspell-dict-ko/)
- * [갈퀴 단어 정보 사이트](https://galkwiki.pyok.org/) (여기서 부족한 단어를 추가/업데이트할 수 있습니다)
  * [의견 교환](https://groups.google.com/group/spellcheck-ko)
 
 ## 기타 정보
