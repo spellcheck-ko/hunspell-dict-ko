@@ -11,12 +11,14 @@ import zipfile
 
 def do_merge_from_zip(filename, outdir):
     zf = zipfile.ZipFile(filename)
-    now = datetime.datetime.now()
-    datetimestr = tzlocal.get_localzone().localize(now).isoformat()
+    tz_kst = pytz.timezone('Asia/Seoul')
     for member in zf.namelist():
         s = zf.open(member).read().decode('UTF-8')
         s = xml_workaround(s)
         root = ElementTree.fromstring(s)
+        createdString = root.find('GlobalInformation/feat[@att="creationDate"]').get('val')
+        created = datetime.datetime.strptime(createdString, '%Y/%m/%d %H:%M:%S')
+        datetimestr = tz_kst.localize(created).isoformat()
         entries = root.findall('Lexicon/LexicalEntry')
         for entry in entries:
             do_merge_entry(entry, outdir, datetimestr)
@@ -61,27 +63,27 @@ def make_rec(entry, datetimestr):
             if item.get('att') == 'homonym_number':
                 rec['동형어 번호'] = int(item.get('val'))
             elif item.get('att') == 'lexicalUnit':
-                rec['구분'] = item.get('val')
+                rec['구분'] = item.get('val').strip()
             elif item.get('att') == 'partOfSpeech':
-                rec['품사'] = item.get('val')
+                rec['품사'] = item.get('val').strip()
             elif item.get('att') == 'vocabularyLevel':
-                rec['어휘 등급'] = item.get('val')
+                rec['어휘 등급'] = item.get('val').strip()
             elif item.get('att') == 'subjectCategiory':
-                rec['의미 범주'] = item.get('val')
+                rec['의미 범주'] = item.get('val').strip()
             elif item.get('att') == 'semanticCategory':
-                rec['주제 및 상황 범주'] = item.get('val')
+                rec['주제 및 상황 범주'] = item.get('val').strip()
             elif item.get('att') == 'origin':
-                rec['원어'] = item.get('val')
+                rec['원어'] = item.get('val').strip()
             elif item.get('att') == 'annotation':
-                rec['전체 참고'] = item.get('val')
+                rec['전체 참고'] = item.get('val').strip()
             else:
                 raise Exception('Unknown att ' + item.get('att'))
         elif item.tag == 'Lemma':
             for subitem in item:
                 if subitem.get('att') == 'writtenForm':
-                    rec['표제어'] = subitem.get('val')
+                    rec['표제어'] = subitem.get('val').strip()
                 elif subitem.get('att') == 'variant':
-                    rec['검색용 이형태'] = subitem.get('val')
+                    rec['검색용 이형태'] = subitem.get('val').strip()
                 else:
                     raise Exception('Unknown att ' + subitem.get('att'))
         elif item.tag == 'WordForm':
@@ -95,7 +97,7 @@ def make_rec(entry, datetimestr):
                         pass
                     elif subitem.get('att') == 'pronunciation':
                         if subitem.get('val'):
-                            subrec['발음'] = subitem.get('val')
+                            subrec['발음'] = subitem.get('val').strip()
                         else:
                             subrec['발음'] = ''
                     elif subitem.get('att') == 'sound':
@@ -115,7 +117,7 @@ def make_rec(entry, datetimestr):
                             pass
                         elif subitem.get('att') == 'writtenForm':
                             if subitem.get('val'):
-                                subrec['형태'] = subitem.get('val')
+                                subrec['형태'] = subitem.get('val').strip()
                             else:
                                 subrec['형태'] = ''
                         elif subitem.get('att') == 'pronunciation':
@@ -123,9 +125,9 @@ def make_rec(entry, datetimestr):
                                 rec['활용'].append(subrec)
                                 word = subrec['형태']
                                 subrec = { '형태': word }
-                            subrec['발음'] = subitem.get('val')
+                            subrec['발음'] = subitem.get('val').strip()
                         elif subitem.get('att') == 'sound':
-                            subrec['발음 URL'] = subitem.get('val')
+                            subrec['발음 URL'] = subitem.get('val').strip()
                         else:
                             raise Exception('Unknown att ' + subitem.get('att'))
                     elif subitem.tag == 'FormRepresentation':
@@ -137,13 +139,13 @@ def make_rec(entry, datetimestr):
                                 frtype = subsubitem.get('val')
                             elif subsubitem.get('att') == 'writtenForm':
                                 if subsubitem.get('val'):
-                                    subrec['형태'] = subsubitem.get('val')
+                                    subrec['형태'] = subsubitem.get('val').strip()
                                 else:
                                     subrec['형태'] = ''
                             elif subsubitem.get('att') == 'pronunciation':
-                                subrec['발음'] = subsubitem.get('val')
+                                subrec['발음'] = subsubitem.get('val').strip()
                             elif subsubitem.get('att') == 'sound':
-                                subrec['발음 URL'] = subsubitem.get('val')
+                                subrec['발음 URL'] = subsubitem.get('val').strip()
                             else:
                                 raise Exception('Unknown att ' + subitem.get('att'))
                         # subrec[frtype] = subsubrec
@@ -161,13 +163,13 @@ def make_rec(entry, datetimestr):
             for subitem in item:
                 if subitem.tag == 'feat':
                     if subitem.get('att') == 'annotation':
-                        sense['의미 참고'] = subitem.get('val')
+                        sense['의미 참고'] = subitem.get('val').strip()
                     elif subitem.get('att') == 'definition':
-                        sense['뜻풀이'] = subitem.get('val')
+                        sense['뜻풀이'] = subitem.get('val').strip()
                     elif subitem.get('att') == 'syntacticAnnotation':
-                        sense['문형 참고'] = subitem.get('val')
+                        sense['문형 참고'] = subitem.get('val').strip()
                     elif subitem.get('att') == 'syntacticPattern':
-                        sense['문형'] = subitem.get('val')
+                        sense['문형'] = subitem.get('val').strip()
                     else:
                         raise Exception('Unknown att ' + subitem.get('att'))
                 elif subitem.tag == 'SenseRelation':
@@ -181,7 +183,7 @@ def make_rec(entry, datetimestr):
                                 subsense['항목ID'] = int(subsubitem.get('val'))
                         elif subsubitem.get('att') == 'lemma':
                             if subsubitem.get('val'):
-                                subsense['표제어'] = subsubitem.get('val')
+                                subsense['표제어'] = subsubitem.get('val').strip()
                         elif subsubitem.get('att') == 'homonymNumber':
                             if subsubitem.get('val'):
                                 subsense['동형어 번호'] = int(subsubitem.get('val'))
@@ -196,9 +198,9 @@ def make_rec(entry, datetimestr):
                     subtype, example = '', ''
                     for subsubitem in subitem:
                         if subsubitem.get('att') == 'type':
-                            subtype = subsubitem.get('val')
+                            subtype = subsubitem.get('val').strip()
                         elif subsubitem.get('att') == 'example':
-                            example = subsubitem.get('val')
+                            example = subsubitem.get('val').strip()
                         else:
                             raise Exception('Unknown att ' + subitem.get('att'))
                     if subtype == '1':
@@ -213,11 +215,11 @@ def make_rec(entry, datetimestr):
                     subsense = {}
                     for subsubitem in subitem:
                         if subsubitem.get('att') == 'type':
-                            subtype = subsubitem.get('val')
+                            subtype = subsubitem.get('val').strip()
                         elif subsubitem.get('att') == 'label':
-                            subsense['레이블'] = subsubitem.get('val')
+                            subsense['레이블'] = subsubitem.get('val').strip()
                         elif subsubitem.get('att') == 'url':
-                            subsense['URL'] = subsubitem.get('val')
+                            subsense['URL'] = subsubitem.get('val').strip()
                         else:
                             raise Exception('Unknown att ' + subitem.get('att'))
                     if '다중 매체 정보:' + subtype not in sense:

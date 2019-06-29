@@ -1,7 +1,7 @@
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49960
-    가져온 시각: '2019-06-29T12:27:39.635359+09:00'
+    가져온 시각: '2019-06-26T04:34:39+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32,8 +32,12 @@ imported:
       형태: 막다른
 processed:
   맞춤법 검사:
+    불규칙 활용: 르/러불규칙 미확정
     표제어: 막다르다
     품사: 형용사
   사전:
     원본: 한국어기초사전
     원본 라이선스: CC-BY-SA 2.0 KR
+processed_overrides:
+  맞춤법 검사:
+    불규칙 활용: 르불규칙
