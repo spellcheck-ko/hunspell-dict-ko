@@ -31,7 +31,8 @@ imported:
       형태: 깎아지른
 processed:
   맞춤법 검사:
-    불규칙 활용: 르/러불규칙 미확정
+    속성:
+    - 르/러불규칙 미확정
     표제어: 깎아지르다
     품사: 형용사
 processed_overrides:

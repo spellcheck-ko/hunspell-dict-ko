@@ -86,8 +86,10 @@ imported:
       형태: 늘어놓습니다
 processed:
   맞춤법 검사:
-    불규칙 활용: 규칙
+    속성:
+    - 규칙
     품사: 동사
+    표제어: 늘어놓다
 processed_overrides:
   맞춤법 검사:
     속성:

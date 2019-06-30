@@ -38,7 +38,8 @@ imported:
       형태: 들이붓는
 processed:
   맞춤법 검사:
-    불규칙 활용: ㅅ불규칙
+    속성:
+    - ㅅ불규칙
     표제어: 들이붓다
     품사: 동사
 processed_overrides:
