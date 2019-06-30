@@ -5,8 +5,13 @@ imported:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성:
+    속성: &id001
     - 양태부사
     표제어: 갈데없이
     품사: 부사
     항목ID: 462
+processed:
+  맞춤법 검사:
+    속성: *id001
+    표제어: 갈데없이
+    품사: 부사

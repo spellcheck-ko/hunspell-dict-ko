@@ -1,14 +1,4 @@
 imported:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    속성:
-    - 가산명사
-    표제어: 이
-    품사: 대명사
-    항목ID: 21088
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27527
     가져온 시각: '2019-06-26T04:50:33+09:00'
@@ -67,3 +57,7 @@ processed:
   맞춤법 검사:
     표제어: 이
     품사: 대명사
+processed_overrides:
+  맞춤법 검사:
+    속성:
+    - 가산명사

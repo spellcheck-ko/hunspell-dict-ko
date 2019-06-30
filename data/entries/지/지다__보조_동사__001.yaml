@@ -55,7 +55,9 @@ imported:
       형태: 집니다
 processed:
   맞춤법 검사:
-    속성:
-    - 보조용언:-어지다
     표제어: 지다
     품사: 보조 동사
+processed_overrides:
+  맞춤법 검사:
+    속성:
+    - 보조용언:-어

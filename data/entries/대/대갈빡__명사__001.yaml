@@ -5,8 +5,13 @@ imported:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성:
+    속성: &id001
     - ' 비속어'
     표제어: 대갈빡
     품사: 명사:보통:비서술성
     항목ID: 6327
+processed:
+  맞춤법 검사:
+    속성: *id001
+    표제어: 대갈빡
+    품사: 명사
