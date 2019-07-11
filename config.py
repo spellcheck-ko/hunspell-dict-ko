@@ -1,6 +1,6 @@
 # 사전 빌드 타임 설정
 
-version = '0.7.1-dev'
+version = '0.7.90'
 
 # 필요한 최소 hunspell 버전.
 # - 코드에서는 if config.required_hunspell_version >= (1,2,14): 와 같이
