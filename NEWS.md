@@ -15,10 +15,10 @@ https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.90
   소스 코드에 포함.
   (https://github.com/spellcheck-ko/hunspell-dict-ko/issues/38)
   - https://github.com/spellcheck-ko/hunspell-dict-ko/tree/master/data/entries
-  - 이제 대부분의 단어가 수동 입력한 단어보다 국립국어원 사전에서 가져온
-    단어라 다량의 데이터를 입력할 일이 적고, 0.7.0에서 개편한 시맨틱위키
-    사용법이 오히려 참여의 장벽으로 작용하는 점이 있어 앞으로는 github PR을
-    통해 받습니다.
+  - 이제 수동 입력한 단어는 얼마 되지 않고 대부분의 단어가 국립국어원 사전에서
+    가져온 단어라 다량의 데이터를 입력할 일이 적고, 0.7.0에서 개편한
+    시맨틱위키 사용법이 오히려 참여의 장벽으로 작용하는 점이 있어 앞으로는
+    github PR을 통해 받습니다.
 
 # 0.7.1
 
