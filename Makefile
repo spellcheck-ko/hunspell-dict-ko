@@ -22,7 +22,9 @@ BIN_DISTNAME := ko-aff-dic-$(VERSION)
 BIN_DISTFILE := $(DISTDIR)/$(BIN_DISTNAME).zip
 BIN_DISTCONTENT = LICENSE LICENSE.CC-BY-SA-4.0 LICENSE.GPL LICENSE.LGPL LICENSE.MPL $(AFFIX) $(DICT)
 
-all: $(AFFIX) $(DICT)
+all: build
+
+build: $(AFFIX) $(DICT)
 
 $(AFFIX) $(DICT): $(DICT_DATA) $(SOURCES)
 	$(PYTHON) make-aff-dic.py $(AFFIX) $(DICT) $(DICT_DATA) 
@@ -42,7 +44,7 @@ dist:: distdir $(BIN_DISTCONTENT)
 	$(ZIP) $(BIN_DISTFILE) $(BIN_DISTNAME)
 	rm -rf $(BIN_DISTNAME)
 
-test:
+test: build
 	$(MAKE) -C tests test
 
-.PHONY: all clean dist distdir test
+.PHONY: all build clean dist distdir test
