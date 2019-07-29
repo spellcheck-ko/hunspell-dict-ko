@@ -31,23 +31,24 @@ def append_entry(entries, yaml):
         entries.append(e)
 
 def process_file(filename, entries_ccbysa, entries_mplgpllgpl):
-    k = yaml.load(open(filename).read())
-    license = 'ccbysa'
-    if 'imported' in k:
-        if '한국어기초사전' in k['imported']:
-            license = 'ccbysa'
-        if '갈퀴 Django' in k['imported']:
-            if k['imported']['갈퀴 Django']['라이선스'] == 'CC BY 4.0':
+    documents = yaml.load_all(open(filename).read())
+    for k in documents:
+        license = 'ccbysa'
+        if 'imported' in k:
+            if '한국어기초사전' in k['imported']:
                 license = 'ccbysa'
-            elif  k['imported']['갈퀴 Django']['라이선스'] == 'MPL 1.1/GPL 2.0/LGPL 2.1':
-                license = 'mplgpllgpl'
-    if license == 'ccbysa':
-        append_entry(entries_ccbysa, k)
-    elif license == 'mplgpllgpl':
-        append_entry(entries_mplgpllgpl, k)
-    else:
-        print(k)
-        assert()
+            if '갈퀴 Django' in k['imported']:
+                if k['imported']['갈퀴 Django']['라이선스'] == 'CC BY 4.0':
+                    license = 'ccbysa'
+                elif  k['imported']['갈퀴 Django']['라이선스'] == 'MPL 1.1/GPL 2.0/LGPL 2.1':
+                    license = 'mplgpllgpl'
+        if license == 'ccbysa':
+            append_entry(entries_ccbysa, k)
+        elif license == 'mplgpllgpl':
+            append_entry(entries_mplgpllgpl, k)
+        else:
+            print(k)
+            assert()
 
 def output_file(filename, entries):
     entries.sort(key=lambda x : x['word'])
@@ -56,7 +57,7 @@ def output_file(filename, entries):
     print(filename)
 
 def find_and_save(dir, filename_ccbysa, filename_mplgpllgpl):
-    yaml_filenames = glob.glob(dir + '/*/*.yaml')
+    yaml_filenames = glob.glob(dir + '/*.yaml')
     entries_ccbysa = []
     entries_mplgpllgpl = []
     print('Total %d files...' % len(yaml_filenames))
@@ -64,8 +65,7 @@ def find_and_save(dir, filename_ccbysa, filename_mplgpllgpl):
     for yaml_filename in yaml_filenames:
         process_file(yaml_filename, entries_ccbysa, entries_mplgpllgpl)
         count += 1
-        if (count % 100) == 0:
-            print('%d...' % count)
+        print('%d...' % count)
     output_file(filename_ccbysa, entries_ccbysa)
     output_file(filename_mplgpllgpl, entries_mplgpllgpl)
 
