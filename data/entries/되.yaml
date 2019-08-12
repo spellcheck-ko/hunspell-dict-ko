@@ -1,96 +1,8 @@
----
-000_KEYWORD: 되-__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74901
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 2
-    어휘 등급: 없음
-    의미:
-    - 뜻풀이: ‘도로’의 뜻을 더하는 접두사.
-      용례.구:
-      - 되가지다
-      - 되넘기다
-      - 되돌아가다
-      - 되들어가다
-      - 되돌아오다
-      - 되팔다
-      의미ID: 1
-    - 뜻풀이: ‘도리어’ 또는 ‘반대로’의 뜻을 더하는 접두사.
-      용례.구:
-      - 되돌다
-      - 되잡다
-      - 되잡히다
-      의미ID: 2
-    - 뜻풀이: ‘다시’의 뜻을 더하는 접두사.
-      용례.구:
-      - 되감다
-      - 되뇌다
-      - 되돌아보다
-      - 되돌아서다
-      - 되묻다
-      - 되살리다
-      - 되새기다
-      - 되씹다
-      - 되풀다
-      의미ID: 3
-    전체 참고: 일부 동사 앞에 붙는다.
-    표제어: 되-
-    품사: 접사
-    항목ID: 74901
-processed:
-  맞춤법 검사: {}
----
-000_KEYWORD: 되__명사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48189
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 1
-    발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/doe.wav
-      발음: 되
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/dwe.wav
-      발음: 뒈
-    어휘 등급: 없음
-    의미:
-    - 관련어:참고어:
-      - 동형어 번호: 2
-        표제어: 말
-        항목ID: 53066
-      - 동형어 번호: 1
-        표제어: 섬
-        항목ID: 63308
-      다중 매체 정보:사진:
-      - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120107/4164/IMG000097715_700X466.jpg
-        레이블: 되
-      뜻풀이: 곡식, 액체, 가루 등의 양을 잴 때 쓰는 네모난 나무 그릇.
-      용례.구:
-      - 되를 쓰다.
-      - 되로 퍼담다.
-      - 되로 푸다.
-      용례.대화:
-      - 응. 되로 되어 보니까 딱 한 말이 나와.
-      용례.문장:
-      - 할머니께서는 쌀을 되로 퍼서 자루에 담고 계셨다.
-      - 어머니는 참기름을 되로 되어서 병에 담기 시작하셨다.
-      - 쌀가게 아저씨는 되 위로 수북이 쌓인 찹쌀을 덤으로 주셨다.
-      의미ID: 1
-    표제어: 되
-    품사: 명사
-    항목ID: 48189
-processed:
-  맞춤법 검사:
-    표제어: 되
-    품사: 명사
----
 000_KEYWORD: -되__어미__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80289
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -142,11 +54,278 @@ imported:
 processed:
   맞춤법 검사: {}
 ---
+000_KEYWORD: -되다__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74902
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 초급
+    의미:
+    - 뜻풀이: ‘피동’의 뜻을 더하고 동사로 만드는 접미사.
+      용례.구:
+      - 가결되다
+      - 가공되다
+      - 가석방되다
+      - 가열되다
+      - 감금되다
+      - 감염되다
+      - 개봉되다
+      - 개선되다
+      - 개편되다
+      - 거래되다
+      - 거론되다
+      - 건조되다
+      - 결정되다
+      - 결제되다
+      - 계획되다
+      - 공개되다
+      - 관찰되다
+      - 구조되다
+      - 구출되다
+      - 규정되다
+      - 규제되다
+      - 금지되다
+      - 기대되다
+      - 기록되다
+      - 낙오되다
+      - 당선되다
+      - 당첨되다
+      - 마련되다
+      - 마비되다
+      - 매각되다
+      - 면제되다
+      - 밀폐되다
+      - 반감되다
+      - 반복되다
+      - 발견되다
+      - 발굴되다
+      - 발급되다
+      - 발효되다
+      - 방영되다
+      - 방해되다
+      - 배출되다
+      - 변형되다
+      - 보관되다
+      - 복제되다
+      - 부담되다
+      - 비교되다
+      - 사용되다
+      - 생각되다
+      - 생산되다
+      - 선출되다
+      - 설립되다
+      - 세습되다
+      - 소각되다
+      - 소개되다
+      - 소유되다
+      - 소장되다
+      - 습득되다
+      - 실시되다
+      - 시작되다
+      - 악화되다
+      - 애용되다
+      - 연결되다
+      - 연상되다
+      - 운행되다
+      - 유배되다
+      - 의심되다
+      - 이룩되다
+      - 이송되다
+      - 이식되다
+      - 이용되다
+      - 인수되다
+      - 임명되다
+      - 입양되다
+      - 잘못되다
+      - 장착되다
+      - 재건되다
+      - 저장되다
+      - 적용되다
+      - 전개되다
+      - 전달되다
+      - 전멸되다
+      - 전수되다
+      - 전승되다
+      - 전시되다
+      - 전염되다
+      - 전파되다
+      - 정리되다
+      - 제외되다
+      - 조정되다
+      - 종료되다
+      - 준비되다
+      - 중계되다
+      - 중시되다
+      - 지배되다
+      - 지불되다
+      - 진압되다
+      - 진열되다
+      - 진전되다
+      - 진행되다
+      - 진화되다
+      - 징용되다
+      - 차단되다
+      - 채택되다
+      - 첨가되다
+      - 출제되다
+      - 취소되다
+      - 취직되다
+      - 투입되다
+      - 파견되다
+      - 파손되다
+      - 파악되다
+      - 평가되다
+      - 폐기되다
+      - 폐지되다
+      - 포함되다
+      - 폭로되다
+      - 함락되다
+      - 함몰되다
+      - 함유되다
+      - 해방되다
+      - 해산되다
+      - 해임되다
+      - 해제되다
+      - 해직되다
+      - 허가되다
+      - 허락되다
+      - 형성되다
+      - 혼동되다
+      - 확대되다
+      - 확립되다
+      - 확보되다
+      - 확산되다
+      - 휴전되다
+      의미 참고: 서술성을 가진 일부 명사 뒤에 붙는다.
+      의미ID: 1
+    - 뜻풀이: 형용사로 만드는 접미사.
+      용례.구:
+      - 거짓되다
+      - 고되다
+      - 덜되다
+      - 막되다
+      - 망령되다
+      - 못되다
+      - 보람되다
+      - 복되다
+      - 세련되다
+      - 속되다
+      - 안되다
+      - 앳되다
+      - 영광되다
+      - 오래되다
+      - 외람되다
+      - 욕되다
+      - 유감되다
+      - 참되다
+      - 충만되다
+      - 편벽되다
+      - 한갓되다
+      - 허황되다
+      - 헛되다
+      - 호되다
+      의미 참고: 일부 명사, 어근, 부사 뒤에 붙는다.
+      의미ID: 2
+    표제어: -되다
+    품사: 접사
+    항목ID: 74902
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: 되-__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74901
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 2
+    어휘 등급: 없음
+    의미:
+    - 뜻풀이: ‘도로’의 뜻을 더하는 접두사.
+      용례.구:
+      - 되가지다
+      - 되넘기다
+      - 되돌아가다
+      - 되들어가다
+      - 되돌아오다
+      - 되팔다
+      의미ID: 1
+    - 뜻풀이: ‘도리어’ 또는 ‘반대로’의 뜻을 더하는 접두사.
+      용례.구:
+      - 되돌다
+      - 되잡다
+      - 되잡히다
+      의미ID: 2
+    - 뜻풀이: ‘다시’의 뜻을 더하는 접두사.
+      용례.구:
+      - 되감다
+      - 되뇌다
+      - 되돌아보다
+      - 되돌아서다
+      - 되묻다
+      - 되살리다
+      - 되새기다
+      - 되씹다
+      - 되풀다
+      의미ID: 3
+    전체 참고: 일부 동사 앞에 붙는다.
+    표제어: 되-
+    품사: 접사
+    항목ID: 74901
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: 되__명사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48189
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 1
+    발음:
+    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/doe.wav
+      발음: 되
+    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/dwe.wav
+      발음: 뒈
+    어휘 등급: 없음
+    의미:
+    - 관련어:참고어:
+      - 동형어 번호: 2
+        표제어: 말
+        항목ID: 53066
+      - 동형어 번호: 1
+        표제어: 섬
+        항목ID: 63308
+      다중 매체 정보:사진:
+      - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120107/4164/IMG000097715_700X466.jpg
+        레이블: 되
+      뜻풀이: 곡식, 액체, 가루 등의 양을 잴 때 쓰는 네모난 나무 그릇.
+      용례.구:
+      - 되를 쓰다.
+      - 되로 퍼담다.
+      - 되로 푸다.
+      용례.대화:
+      - 응. 되로 되어 보니까 딱 한 말이 나와.
+      용례.문장:
+      - 할머니께서는 쌀을 되로 퍼서 자루에 담고 계셨다.
+      - 어머니는 참기름을 되로 되어서 병에 담기 시작하셨다.
+      - 쌀가게 아저씨는 되 위로 수북이 쌓인 찹쌀을 덤으로 주셨다.
+      의미ID: 1
+    표제어: 되
+    품사: 명사
+    항목ID: 48189
+processed:
+  맞춤법 검사:
+    표제어: 되
+    품사: 명사
+---
 000_KEYWORD: 되__의존_명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48190
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -195,7 +374,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48192
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -247,7 +426,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48200
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -283,7 +462,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48197
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -337,7 +516,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48202
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -387,7 +566,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14902
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -421,7 +600,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48204
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -483,7 +662,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48208
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -538,7 +717,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92205
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -554,7 +733,7 @@ processed: {}
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48211
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -610,7 +789,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89858
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -1048,191 +1227,11 @@ processed:
     표제어: 되다
     품사: 동사
 ---
-000_KEYWORD: -되다__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74902
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 초급
-    의미:
-    - 뜻풀이: ‘피동’의 뜻을 더하고 동사로 만드는 접미사.
-      용례.구:
-      - 가결되다
-      - 가공되다
-      - 가석방되다
-      - 가열되다
-      - 감금되다
-      - 감염되다
-      - 개봉되다
-      - 개선되다
-      - 개편되다
-      - 거래되다
-      - 거론되다
-      - 건조되다
-      - 결정되다
-      - 결제되다
-      - 계획되다
-      - 공개되다
-      - 관찰되다
-      - 구조되다
-      - 구출되다
-      - 규정되다
-      - 규제되다
-      - 금지되다
-      - 기대되다
-      - 기록되다
-      - 낙오되다
-      - 당선되다
-      - 당첨되다
-      - 마련되다
-      - 마비되다
-      - 매각되다
-      - 면제되다
-      - 밀폐되다
-      - 반감되다
-      - 반복되다
-      - 발견되다
-      - 발굴되다
-      - 발급되다
-      - 발효되다
-      - 방영되다
-      - 방해되다
-      - 배출되다
-      - 변형되다
-      - 보관되다
-      - 복제되다
-      - 부담되다
-      - 비교되다
-      - 사용되다
-      - 생각되다
-      - 생산되다
-      - 선출되다
-      - 설립되다
-      - 세습되다
-      - 소각되다
-      - 소개되다
-      - 소유되다
-      - 소장되다
-      - 습득되다
-      - 실시되다
-      - 시작되다
-      - 악화되다
-      - 애용되다
-      - 연결되다
-      - 연상되다
-      - 운행되다
-      - 유배되다
-      - 의심되다
-      - 이룩되다
-      - 이송되다
-      - 이식되다
-      - 이용되다
-      - 인수되다
-      - 임명되다
-      - 입양되다
-      - 잘못되다
-      - 장착되다
-      - 재건되다
-      - 저장되다
-      - 적용되다
-      - 전개되다
-      - 전달되다
-      - 전멸되다
-      - 전수되다
-      - 전승되다
-      - 전시되다
-      - 전염되다
-      - 전파되다
-      - 정리되다
-      - 제외되다
-      - 조정되다
-      - 종료되다
-      - 준비되다
-      - 중계되다
-      - 중시되다
-      - 지배되다
-      - 지불되다
-      - 진압되다
-      - 진열되다
-      - 진전되다
-      - 진행되다
-      - 진화되다
-      - 징용되다
-      - 차단되다
-      - 채택되다
-      - 첨가되다
-      - 출제되다
-      - 취소되다
-      - 취직되다
-      - 투입되다
-      - 파견되다
-      - 파손되다
-      - 파악되다
-      - 평가되다
-      - 폐기되다
-      - 폐지되다
-      - 포함되다
-      - 폭로되다
-      - 함락되다
-      - 함몰되다
-      - 함유되다
-      - 해방되다
-      - 해산되다
-      - 해임되다
-      - 해제되다
-      - 해직되다
-      - 허가되다
-      - 허락되다
-      - 형성되다
-      - 혼동되다
-      - 확대되다
-      - 확립되다
-      - 확보되다
-      - 확산되다
-      - 휴전되다
-      의미 참고: 서술성을 가진 일부 명사 뒤에 붙는다.
-      의미ID: 1
-    - 뜻풀이: 형용사로 만드는 접미사.
-      용례.구:
-      - 거짓되다
-      - 고되다
-      - 덜되다
-      - 막되다
-      - 망령되다
-      - 못되다
-      - 보람되다
-      - 복되다
-      - 세련되다
-      - 속되다
-      - 안되다
-      - 앳되다
-      - 영광되다
-      - 오래되다
-      - 외람되다
-      - 욕되다
-      - 유감되다
-      - 참되다
-      - 충만되다
-      - 편벽되다
-      - 한갓되다
-      - 허황되다
-      - 헛되다
-      - 호되다
-      의미 참고: 일부 명사, 어근, 부사 뒤에 붙는다.
-      의미ID: 2
-    표제어: -되다
-    품사: 접사
-    항목ID: 74902
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 되다__형용사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48214
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -1331,7 +1330,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48221
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1389,7 +1388,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48224
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1442,7 +1441,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14906
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1520,7 +1519,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14923
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1597,7 +1596,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14913
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1665,7 +1664,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48228
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1740,7 +1739,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14917
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1809,7 +1808,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48231
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1848,7 +1847,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48175
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1925,7 +1924,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48179
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2019,7 +2018,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48184
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2103,7 +2102,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48186
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2160,7 +2159,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48188
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2248,7 +2247,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14919
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2337,7 +2336,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48193
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2419,7 +2418,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48194
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2519,7 +2518,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48195
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2553,7 +2552,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48196
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2591,7 +2590,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48198
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2661,7 +2660,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48201
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2739,7 +2738,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48206
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2864,7 +2863,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48210
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2913,7 +2912,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90284
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2960,7 +2959,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90285
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2993,7 +2992,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90286
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3040,7 +3039,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90287
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3080,7 +3079,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48212
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3153,7 +3152,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48216
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3239,7 +3238,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48222
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3305,7 +3304,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90907
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3338,7 +3337,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48226
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3400,7 +3399,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48230
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3482,7 +3481,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14920
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3538,7 +3537,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48233
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3575,7 +3574,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48235
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3630,7 +3629,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48236
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3659,7 +3658,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14935
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3708,7 +3707,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14933
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3743,7 +3742,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48237
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3803,7 +3802,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48239
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3850,7 +3849,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48240
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3899,7 +3898,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48241
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3941,7 +3940,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48243
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3999,7 +3998,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14930
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4040,7 +4039,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48246
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4083,7 +4082,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48248
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:

@@ -1,15 +1,14 @@
----
 000_KEYWORD: -구-__접사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72332
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
     의미:
     - 관련어:참고어:
-      - 동형어 번호: 3
+      - 동형어 번호: 1
         표제어: -기-
         항목ID: 73331
       - 동형어 번호: 3
@@ -40,11 +39,404 @@ imported:
 processed:
   맞춤법 검사: {}
 ---
+000_KEYWORD: -구__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92115
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 3
+    어휘 등급: 없음
+    원어: 口
+    의미:
+    - 뜻풀이: ‘구멍’ 또는 ‘구멍이 나 있는 장소’의 뜻을 더하는 접미사.
+      용례.구:
+      - 통풍구
+      - 분화구
+      의미ID: 1
+    - 뜻풀이: ‘출입구’의 뜻을 더하는 접미사.
+      용례.구:
+      - 비상구
+      - 승강구
+      - 승차구
+      - 하차구
+      의미ID: 2
+    - 뜻풀이: ‘창구’의 뜻을 더하는 접미사.
+      용례.구:
+      - 매표구
+      - 접수구
+      - 출납구
+      - 투약구
+      의미ID: 3
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -구
+    품사: 접사
+    항목ID: 92115
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -구__접사__002
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72334
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 4
+    어휘 등급: 없음
+    원어: 具
+    의미:
+    - 뜻풀이: ‘용구’ 또는 ‘도구’의 뜻을 더하는 접미사.
+      용례.구:
+      - 문방구
+      - 방한구
+      - 운동구
+      - 장신구
+      - 필기구
+      의미ID: 1
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -구
+    품사: 접사
+    항목ID: 72334
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -구나__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73807
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 관련어:준말:
+      - 동형어 번호: 1
+        표제어: -군
+        항목ID: 73887
+      관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -는구나
+        항목ID: 79273
+      - 동형어 번호: 0
+        표제어: -더구나
+        항목ID: 76568
+      - 동형어 번호: 0
+        표제어: -로구나
+        항목ID: 79271
+      뜻풀이: (아주낮춤으로) 새롭게 알게 된 사실에 어떤 느낌을 실어 말함을 나타내는 종결 어미.
+      용례.대화:
+      - 그래. 정말 무서웠겠다.
+      용례.문장:
+      - 경치가 참 좋구나.
+      - 세월이 정말 빠르구나.
+      - 벌써 승규가 대학생이구나.
+      - 단풍이 아주 곱게 물들었구나.
+      - 오늘은 집에서 좀 쉬고 싶구나.
+      - 민준아, 못 본 사이에 너 정말 많이 컸구나.
+      의미 참고: 주로 구어나 혼잣말에서 쓴다.
+      의미ID: 1
+    전체 참고: ‘이다’, 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
+    표제어: -구나
+    품사: 어미
+    항목ID: 73807
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -구려__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73809
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -는구려
+        항목ID: 79406
+      - 동형어 번호: 0
+        표제어: -더구려
+        항목ID: 79408
+      - 동형어 번호: 0
+        표제어: -로구려
+        항목ID: 79405
+      뜻풀이: (예사 높임으로) 새롭게 알게 된 사실에 감탄함을 나타내는 종결 어미.
+      용례.대화:
+      - 가는 세월 앞에 장사가 있겠어요?
+      용례.문장:
+      - 정말 고운 처자이구려.
+      - 벚꽃이 참 흐드러지게 피었구려.
+      - 어릴 적에 살던 곳인데 그새 많이 변했구려.
+      - 아직도 세상 물정을 모르다니 참으로 딱하시구려.
+      의미 참고: ‘이다’, 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
+      의미ID: 1
+    - 뜻풀이: (예사 높임으로) 상대방에게 권유하거나 완곡하게 시킴을 나타내는 종결 어미.
+      용례.대화:
+      - 저는 아무 할 말이 없습니다.
+      용례.문장:
+      - 여보, 손님 시장하실 테니 저녁상 들이구려.
+      - 내가 다 잘못했으니 어서 집으로 돌아오구려.
+      - 자네와는 더 이상 할 말이 없으니 그만 가 보시구려.
+      의미 참고: 동사 또는 ‘-으시-’ 뒤에 붙여 쓴다.
+      의미ID: 2
+    표제어: -구려
+    품사: 어미
+    항목ID: 73809
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -구만__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85029
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 뜻풀이: → -구먼
+      의미ID: 1
+    표제어: -구만
+    품사: 어미
+    항목ID: 85029
+processed: {}
+---
+000_KEYWORD: -구먼__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73886
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 관련어:준말:
+      - 동형어 번호: 1
+        표제어: -군
+        항목ID: 73887
+      관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -는구먼
+        항목ID: 83733
+      - 동형어 번호: 0
+        표제어: -더구먼
+        항목ID: 83735
+      - 동형어 번호: 0
+        표제어: -로구먼
+        항목ID: 83734
+      뜻풀이: (두루낮춤으로) 새롭게 알게 된 사실에 주목하거나 감탄함을 나타내는 종결 어미.
+      용례.대화:
+      - 거참, 사정이 딱하게 되었구먼.
+      용례.문장:
+      - 차가 참 좋구먼.
+      - 허허, 김 선생은 생각할수록 이상한 사람이구먼.
+      - 만날 술만 마시니 그러다가 몸을 버릴까 걱정이구먼.
+      - 집에 불이 나서 재산도 잃고 가족도 잃었으니 그야말로 엎친 데 덮친 격이구먼.
+      의미 참고: 주로 구어나 혼잣말로 쓰고, ‘이다’, 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
+      의미ID: 1
+    표제어: -구먼
+    품사: 어미
+    항목ID: 73886
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -국__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72370
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 1
+    어휘 등급: 고급
+    원어: 局
+    의미:
+    - 뜻풀이: ‘업무 부서’의 뜻을 더하는 접미사.
+      용례.구:
+      - 관리국
+      - 기지국
+      - 기획국
+      - 무선국
+      - 방송국
+      - 보도국
+      - 우체국
+      - 우편국
+      - 전화국
+      - 정보국
+      - 총무국
+      - 통신국
+      - 편집국
+      의미ID: 1
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -국
+    품사: 접사
+    항목ID: 72370
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -국__접사__002
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72371
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 2
+    어휘 등급: 고급
+    원어: 國
+    의미:
+    - 뜻풀이: ‘나라’의 뜻을 더하는 접미사.
+      용례.구:
+      - 가맹국
+      - 강대국
+      - 개도국
+      - 개최국
+      - 경쟁국
+      - 거인국
+      - 공업국
+      - 공화국
+      - 관계국
+      - 관련국
+      - 교역국
+      - 농업국
+      - 대상국
+      - 독립국
+      - 동맹국
+      - 동방국
+      - 문명국
+      - 보유국
+      - 보호국
+      - 분단국
+      - 산업국
+      - 산유국
+      - 생산국
+      - 선진국
+      - 소인국
+      - 수입국
+      - 수출국
+      - 승전국
+      - 신생국
+      - 약소국
+      - 연합국
+      - 우방국
+      - 의장국
+      - 이민국
+      - 이상국
+      - 적대국
+      - 종주국
+      - 주도국
+      - 주변국
+      - 주재국
+      - 주최국
+      - 중립국
+      - 중진국
+      - 지도국
+      - 지원국
+      - 참가국
+      - 참전국
+      - 최혜국
+      - 패전국
+      - 합중국
+      - 회원국
+      - 후진국
+      의미ID: 1
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -국
+    품사: 접사
+    항목ID: 72371
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -군__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73887
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 1
+    어휘 등급: 없음
+    의미:
+    - 관련어:본말:
+      - 동형어 번호: 0
+        표제어: -구먼
+        항목ID: 73886
+      관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -는군
+        항목ID: 81573
+      - 동형어 번호: 0
+        표제어: -더군
+        항목ID: 81572
+      - 동형어 번호: 0
+        표제어: -로군
+        항목ID: 81575
+      뜻풀이: (두루낮춤으로) 새롭게 알게 된 사실에 주목하거나 감탄함을 나타내는 종결 어미.
+      용례.대화:
+      - 경찰차가 서 있는 걸 보니 앞에서 사고가 난 모양이군.
+      용례.문장:
+      - 오늘따라 날씨 참 화창하군.
+      - 별일도 아닌데 칭찬을 들으니 왠지 쑥스럽군.
+      - 지금부터 저렇게 상사에게 굽신거리니 곧 출세하겠군.
+      - 일하는 폼을 보니 새로 들어온 사람도 얼마 못 버티다가 그만두겠군.
+      - 민준이 녀석 어제 시합에서 그렇게 열심히 달리더니 아마도 몸살이 난 모양이군.
+      의미ID: 1
+    - 관련어:본말:
+      - 동형어 번호: 0
+        표제어: -구나
+        항목ID: 73807
+      관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -는군
+        항목ID: 81573
+      - 동형어 번호: 0
+        표제어: -더군
+        항목ID: 81572
+      - 동형어 번호: 0
+        표제어: -로군
+        항목ID: 81575
+      뜻풀이: (아주낮춤으로) 새롭게 알게 된 사실에 어떤 느낌을 실어 말함을 나타내는 종결 어미.
+      용례.대화:
+      - 금방 여름이 오겠어요.
+      용례.문장:
+      - 딱 봐도 꽤나 시간이 걸리겠군.
+      - 정 대리, 중요한 사항을 알려 줘서 고맙군.
+      - 어디에서부터 어떻게 시작해야 할지 모르겠군.
+      - 그동안 마음 고생을 해서 그런지 얼굴이 좀 상했군.
+      - 자네가 역시 젊어서 그런지 생각하는 게 확실히 다르군.
+      의미ID: 2
+    전체 참고: 주로 구어나 혼잣말에서, ‘이다’, 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
+    표제어: -군
+    품사: 어미
+    항목ID: 73887
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -군__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72373
+    가져온 시각: '2019-08-13T01:37:57+09:00'
+    구분: 단어
+    동형어 번호: 3
+    어휘 등급: 없음
+    원어: 群
+    의미:
+    - 뜻풀이: ‘무리’나 ‘떼’의 뜻을 더하는 접미사.
+      용례.구:
+      - 동물군
+      - 식물군
+      의미ID: 1
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -군
+    품사: 접사
+    항목ID: 72373
+processed:
+  맞춤법 검사: {}
+---
 000_KEYWORD: 구-__접사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72335
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     어휘 등급: 없음
@@ -78,7 +470,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34898
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 6
     발음:
@@ -128,7 +520,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37648
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 7
     발음:
@@ -166,7 +558,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37645
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -200,7 +592,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24085
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -234,7 +626,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37647
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
@@ -272,7 +664,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34882
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 5
     발음:
@@ -310,7 +702,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37646
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 4
     발음:
@@ -340,72 +732,11 @@ processed:
     표제어: 구
     품사: 의존 명사
 ---
-000_KEYWORD: -구__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92115
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 3
-    어휘 등급: 없음
-    원어: 口
-    의미:
-    - 뜻풀이: ‘구멍’ 또는 ‘구멍이 나 있는 장소’의 뜻을 더하는 접미사.
-      용례.구:
-      - 통풍구
-      - 분화구
-      의미ID: 1
-    - 뜻풀이: ‘출입구’의 뜻을 더하는 접미사.
-      용례.구:
-      - 비상구
-      - 승강구
-      - 승차구
-      - 하차구
-      의미ID: 2
-    - 뜻풀이: ‘창구’의 뜻을 더하는 접미사.
-      용례.구:
-      - 매표구
-      - 접수구
-      - 출납구
-      - 투약구
-      의미ID: 3
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -구
-    품사: 접사
-    항목ID: 92115
-processed:
-  맞춤법 검사: {}
----
-000_KEYWORD: -구__접사__002
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72334
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 4
-    어휘 등급: 없음
-    원어: 具
-    의미:
-    - 뜻풀이: ‘용구’ 또는 ‘도구’의 뜻을 더하는 접미사.
-      용례.구:
-      - 문방구
-      - 방한구
-      - 운동구
-      - 장신구
-      - 필기구
-      의미ID: 1
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -구
-    품사: 접사
-    항목ID: 72334
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 구가하다__동사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37800
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -454,7 +785,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37649
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -491,7 +822,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37650
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -529,7 +860,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37651
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -563,7 +894,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37852
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -596,7 +927,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37862
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -650,7 +981,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37860
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -700,7 +1031,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=43493
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -765,7 +1096,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64484
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -850,7 +1181,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=43495
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -885,7 +1216,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=43496
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -929,7 +1260,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=43497
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -969,7 +1300,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=43498
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1003,7 +1334,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62355
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1075,7 +1406,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34896
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1110,7 +1441,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34901
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -1144,7 +1475,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34914
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -1182,7 +1513,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34916
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1220,7 +1551,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34918
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1258,7 +1589,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34919
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1291,7 +1622,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34920
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1328,7 +1659,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91127
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -1360,7 +1691,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34924
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -1398,7 +1729,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34925
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1436,7 +1767,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34926
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1482,7 +1813,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34927
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1556,7 +1887,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34928
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1601,7 +1932,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91147
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1651,7 +1982,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34931
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1687,7 +2018,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34936
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1726,7 +2057,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91146
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1759,7 +2090,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34944
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1794,7 +2125,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34952
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1853,7 +2184,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34957
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1907,7 +2238,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34962
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1956,7 +2287,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34978
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1999,7 +2330,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36952
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2034,7 +2365,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36953
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2125,7 +2456,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36955
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2159,7 +2490,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36957
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2220,7 +2551,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36958
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2300,7 +2631,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88804
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2368,7 +2699,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88805
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2405,7 +2736,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36959
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -2443,7 +2774,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36960
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -2489,53 +2820,11 @@ processed:
     표제어: 구깃구깃하다
     품사: 형용사
 ---
-000_KEYWORD: -구나__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73807
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 관련어:준말:
-      - 동형어 번호: 1
-        표제어: -군
-        항목ID: 73887
-      관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -는구나
-        항목ID: 79273
-      - 동형어 번호: 0
-        표제어: -더구나
-        항목ID: 76568
-      - 동형어 번호: 0
-        표제어: -로구나
-        항목ID: 79271
-      뜻풀이: (아주낮춤으로) 새롭게 알게 된 사실에 어떤 느낌을 실어 말함을 나타내는 종결 어미.
-      용례.대화:
-      - 그래. 정말 무서웠겠다.
-      용례.문장:
-      - 경치가 참 좋구나.
-      - 세월이 정말 빠르구나.
-      - 벌써 승규가 대학생이구나.
-      - 단풍이 아주 곱게 물들었구나.
-      - 오늘은 집에서 좀 쉬고 싶구나.
-      - 민준아, 못 본 사이에 너 정말 많이 컸구나.
-      의미 참고: 주로 구어나 혼잣말에서 쓴다.
-      의미ID: 1
-    전체 참고: ‘이다’, 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
-    표제어: -구나
-    품사: 어미
-    항목ID: 73807
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 구내__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36961
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2570,7 +2859,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36962
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2607,7 +2896,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36963
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2641,7 +2930,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36964
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2677,7 +2966,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36965
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2712,7 +3001,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36966
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2763,7 +3052,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36967
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2801,7 +3090,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36968
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2836,7 +3125,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36969
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2872,7 +3161,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36970
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2905,7 +3194,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36971
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -2939,7 +3228,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36972
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -2989,7 +3278,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36973
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3023,7 +3312,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36974
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3069,7 +3358,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36975
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3119,7 +3408,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36976
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3155,7 +3444,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36977
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3221,7 +3510,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26805
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -3279,7 +3568,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36978
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -3316,7 +3605,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36979
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3347,7 +3636,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36980
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3381,7 +3670,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36981
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3423,7 +3712,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36982
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3470,7 +3759,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36983
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3500,7 +3789,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36984
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3533,7 +3822,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36985
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3563,7 +3852,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36986
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3598,7 +3887,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36987
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3640,7 +3929,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36988
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3679,7 +3968,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36989
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3744,7 +4033,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36991
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3781,7 +4070,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36992
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3830,7 +4119,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36993
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3862,7 +4151,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34788
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3910,7 +4199,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34774
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -3960,7 +4249,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34796
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4008,7 +4297,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34799
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4053,55 +4342,11 @@ processed:
     표제어: 구레나룻
     품사: 명사
 ---
-000_KEYWORD: -구려__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73809
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -는구려
-        항목ID: 79406
-      - 동형어 번호: 0
-        표제어: -더구려
-        항목ID: 79408
-      - 동형어 번호: 0
-        표제어: -로구려
-        항목ID: 79405
-      뜻풀이: (예사 높임으로) 새롭게 알게 된 사실에 감탄함을 나타내는 종결 어미.
-      용례.대화:
-      - 가는 세월 앞에 장사가 있겠어요?
-      용례.문장:
-      - 정말 고운 처자이구려.
-      - 벚꽃이 참 흐드러지게 피었구려.
-      - 어릴 적에 살던 곳인데 그새 많이 변했구려.
-      - 아직도 세상 물정을 모르다니 참으로 딱하시구려.
-      의미 참고: ‘이다’, 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
-      의미ID: 1
-    - 뜻풀이: (예사 높임으로) 상대방에게 권유하거나 완곡하게 시킴을 나타내는 종결 어미.
-      용례.대화:
-      - 저는 아무 할 말이 없습니다.
-      용례.문장:
-      - 여보, 손님 시장하실 테니 저녁상 들이구려.
-      - 내가 다 잘못했으니 어서 집으로 돌아오구려.
-      - 자네와는 더 이상 할 말이 없으니 그만 가 보시구려.
-      의미 참고: 동사 또는 ‘-으시-’ 뒤에 붙여 쓴다.
-      의미ID: 2
-    표제어: -구려
-    품사: 어미
-    항목ID: 73809
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 구령__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34798
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4140,7 +4385,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34794
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4227,7 +4472,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34792
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4265,7 +4510,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88806
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4302,7 +4547,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88807
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4337,7 +4582,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34791
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4375,7 +4620,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34811
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -4447,7 +4692,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34802
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -4506,7 +4751,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64487
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4553,7 +4798,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34800
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4588,7 +4833,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34808
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4622,7 +4867,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34810
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4657,7 +4902,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34819
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4696,7 +4941,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34817
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4734,7 +4979,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34815
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4824,7 +5069,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34825
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4861,7 +5106,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34820
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4909,27 +5154,11 @@ processed:
     표제어: 구릿빛
     품사: 명사
 ---
-000_KEYWORD: -구만__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85029
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 뜻풀이: → -구먼
-      의미ID: 1
-    표제어: -구만
-    품사: 어미
-    항목ID: 85029
-processed: {}
----
 000_KEYWORD: 구만리__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34822
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -4962,7 +5191,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34823
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5012,7 +5241,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34921
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5058,7 +5287,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34828
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5098,7 +5327,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34827
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5129,50 +5358,11 @@ processed:
     표제어: 구매하다
     품사: 동사
 ---
-000_KEYWORD: -구먼__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73886
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 관련어:준말:
-      - 동형어 번호: 1
-        표제어: -군
-        항목ID: 73887
-      관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -는구먼
-        항목ID: 83733
-      - 동형어 번호: 0
-        표제어: -더구먼
-        항목ID: 83735
-      - 동형어 번호: 0
-        표제어: -로구먼
-        항목ID: 83734
-      뜻풀이: (두루낮춤으로) 새롭게 알게 된 사실에 주목하거나 감탄함을 나타내는 종결 어미.
-      용례.대화:
-      - 거참, 사정이 딱하게 되었구먼.
-      용례.문장:
-      - 차가 참 좋구먼.
-      - 허허, 김 선생은 생각할수록 이상한 사람이구먼.
-      - 만날 술만 마시니 그러다가 몸을 버릴까 걱정이구먼.
-      - 집에 불이 나서 재산도 잃고 가족도 잃었으니 그야말로 엎친 데 덮친 격이구먼.
-      의미 참고: 주로 구어나 혼잣말로 쓰고, ‘이다’, 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
-      의미ID: 1
-    표제어: -구먼
-    품사: 어미
-    항목ID: 73886
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 구멍__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34923
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5237,7 +5427,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34941
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5272,7 +5462,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34948
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -5306,7 +5496,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34942
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -5344,7 +5534,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34939
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -5380,7 +5570,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34937
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -5417,7 +5607,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34945
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5456,7 +5646,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34987
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -5493,7 +5683,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34985
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -5530,7 +5720,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34975
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     검색용 이형태: 구명보우트
     구분: 단어
     동형어 번호: 0
@@ -5567,7 +5757,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34988
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5609,7 +5799,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34991
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     검색용 이형태: 구명쪼끼, 구명죠끼, 구명쬬끼, 구명조키
     구분: 단어
     동형어 번호: 0
@@ -5660,7 +5850,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34998
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -5697,7 +5887,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34995
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -5732,7 +5922,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35000
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5782,7 +5972,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35010
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -5839,7 +6029,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35011
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -5877,7 +6067,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35014
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5928,7 +6118,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35002
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -5978,7 +6168,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35031
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6025,7 +6215,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35029
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6061,7 +6251,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35034
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6109,7 +6299,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35037
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6162,7 +6352,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24112
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6199,7 +6389,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24114
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6238,7 +6428,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24488
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6275,7 +6465,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35046
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6309,7 +6499,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35044
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6344,7 +6534,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35039
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6408,7 +6598,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35048
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6458,7 +6648,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35054
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6508,7 +6698,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24492
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6548,7 +6738,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24496
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6587,7 +6777,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24499
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6623,7 +6813,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35052
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6665,7 +6855,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35056
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6706,7 +6896,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35059
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6760,7 +6950,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89794
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6800,7 +6990,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35058
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6833,7 +7023,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89795
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6877,7 +7067,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89798
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -6924,7 +7114,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35063
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -6961,7 +7151,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35060
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -6997,7 +7187,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35064
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7034,7 +7224,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35081
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7073,7 +7263,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35079
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7110,7 +7300,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36561
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7148,7 +7338,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36558
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7196,7 +7386,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36559
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7232,7 +7422,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36557
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7268,7 +7458,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36556
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -7304,7 +7494,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36555
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -7356,7 +7546,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36569
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7391,7 +7581,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36562
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7442,7 +7632,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36568
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7487,7 +7677,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36563
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7538,7 +7728,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36565
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -7576,7 +7766,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36567
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -7614,7 +7804,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88808
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7655,7 +7845,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36566
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7694,7 +7884,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36570
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7737,7 +7927,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24503
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7812,7 +8002,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24507
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7858,7 +8048,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36571
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7896,7 +8086,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36353
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7931,7 +8121,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36354
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -7964,7 +8154,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36355
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8015,7 +8205,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36356
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8053,7 +8243,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36357
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8090,7 +8280,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24512
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8148,7 +8338,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24557
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8200,7 +8390,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36358
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8234,7 +8424,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36359
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8278,7 +8468,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36360
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8328,7 +8518,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36361
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8360,7 +8550,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24556
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8413,7 +8603,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36364
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8447,7 +8637,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36365
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8489,7 +8679,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36366
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8542,7 +8732,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24553
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -8600,7 +8790,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36367
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -8645,7 +8835,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36368
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8690,7 +8880,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24550
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8738,7 +8928,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36369
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8796,7 +8986,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24548
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8843,7 +9033,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36371
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8921,7 +9111,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36372
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8956,7 +9146,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36373
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -8988,7 +9178,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36374
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9025,7 +9215,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36375
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9075,7 +9265,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36376
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9106,7 +9296,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36377
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9162,7 +9352,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36378
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9199,7 +9389,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36379
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9241,7 +9431,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36380
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9272,7 +9462,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36381
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9315,7 +9505,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36382
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9348,7 +9538,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36383
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -9380,7 +9570,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36384
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -9413,7 +9603,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36385
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9456,7 +9646,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88383
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9493,7 +9683,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88384
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9538,7 +9728,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36386
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9581,7 +9771,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36387
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9640,7 +9830,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36388
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -9676,7 +9866,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36389
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -9708,7 +9898,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36390
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -9740,7 +9930,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88809
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -9775,7 +9965,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36391
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9822,7 +10012,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36392
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9855,7 +10045,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36393
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -9888,7 +10078,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36394
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -9920,7 +10110,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36395
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -9964,7 +10154,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89598
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -10024,7 +10214,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28637
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -10072,7 +10262,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90320
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -10108,7 +10298,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35660
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -10142,7 +10332,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35661
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10177,7 +10367,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35662
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -10213,7 +10403,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35665
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -10246,7 +10436,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35669
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10315,7 +10505,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35680
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10383,7 +10573,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35684
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10419,7 +10609,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24546
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10470,7 +10660,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35687
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10505,7 +10695,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35696
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10541,7 +10731,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35701
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10575,7 +10765,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35705
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10610,7 +10800,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35710
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10647,7 +10837,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35713
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10679,7 +10869,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35715
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10711,7 +10901,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35718
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10761,7 +10951,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35725
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10811,7 +11001,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35729
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10860,7 +11050,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35730
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10902,7 +11092,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35731
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10935,7 +11125,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35737
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -10982,7 +11172,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20190
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11023,7 +11213,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35743
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11059,7 +11249,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35747
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11101,7 +11291,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35759
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -11139,7 +11329,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35761
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -11173,7 +11363,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35762
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11213,7 +11403,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35765
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11267,7 +11457,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35766
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11302,7 +11492,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35767
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11343,7 +11533,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24545
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11393,7 +11583,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24544
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11458,7 +11648,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35771
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11497,7 +11687,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35772
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11543,7 +11733,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35773
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11582,7 +11772,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35775
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11619,7 +11809,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35776
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11654,7 +11844,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35777
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11708,7 +11898,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35778
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11745,7 +11935,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35779
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11803,7 +11993,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35780
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11845,7 +12035,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35781
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11892,7 +12082,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35782
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -11928,7 +12118,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35783
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -11964,7 +12154,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35784
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -12012,7 +12202,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36915
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12045,7 +12235,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36916
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12080,7 +12270,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36918
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12127,7 +12317,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36919
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12174,7 +12364,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36920
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12206,7 +12396,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36921
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -12247,7 +12437,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36922
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -12280,7 +12470,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36923
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -12315,7 +12505,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24543
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -12370,7 +12560,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36924
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12406,7 +12596,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89293
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12443,7 +12633,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36926
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12479,7 +12669,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36928
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12533,7 +12723,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36929
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -12571,7 +12761,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36930
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -12621,7 +12811,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36931
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12658,7 +12848,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36932
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12692,7 +12882,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36933
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12724,7 +12914,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36934
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12759,7 +12949,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36935
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12793,7 +12983,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64781
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12831,7 +13021,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36704
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12866,7 +13056,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36705
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12898,7 +13088,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36706
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12942,7 +13132,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36707
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -12990,7 +13180,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93368
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13031,7 +13221,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93369
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13068,7 +13258,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88810
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13102,7 +13292,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36709
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13137,7 +13327,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36710
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13170,7 +13360,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36711
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13229,7 +13419,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36712
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13292,7 +13482,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36713
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13353,7 +13543,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36714
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13397,7 +13587,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36715
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13435,7 +13625,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24542
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13488,7 +13678,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36717
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13526,7 +13716,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89791
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -13574,7 +13764,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60098
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -13622,7 +13812,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36718
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13660,7 +13850,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36719
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13710,7 +13900,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36720
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13763,7 +13953,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36722
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13813,7 +14003,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36723
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13876,7 +14066,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36724
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13929,7 +14119,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36725
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -13994,7 +14184,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36726
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14031,7 +14221,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36727
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14068,7 +14258,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36728
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14103,7 +14293,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36729
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14149,7 +14339,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36730
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14183,7 +14373,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36731
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14218,7 +14408,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36732
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14252,7 +14442,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36733
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14287,7 +14477,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36734
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14322,7 +14512,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36735
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14357,7 +14547,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36751
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14414,7 +14604,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36752
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14454,7 +14644,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36753
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14488,7 +14678,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36754
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14528,7 +14718,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36755
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14563,7 +14753,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36756
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14595,7 +14785,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58299
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -14668,7 +14858,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62810
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -14730,7 +14920,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36757
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14763,7 +14953,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36758
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14796,7 +14986,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36759
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14833,7 +15023,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36760
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -14868,7 +15058,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36761
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -14901,7 +15091,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36762
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -14935,7 +15125,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89060
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
@@ -14974,7 +15164,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36763
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15009,7 +15199,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36764
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15043,7 +15233,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36765
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -15079,7 +15269,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36766
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -15132,7 +15322,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36767
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15165,7 +15355,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36768
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15201,7 +15391,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36769
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15245,7 +15435,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36770
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15294,7 +15484,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36771
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15328,7 +15518,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36772
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15379,7 +15569,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36774
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15435,7 +15625,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36775
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15471,7 +15661,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36776
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15507,7 +15697,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36778
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15582,116 +15772,11 @@ processed:
     표제어: 국
     품사: 명사
 ---
-000_KEYWORD: -국__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72370
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 1
-    어휘 등급: 고급
-    원어: 局
-    의미:
-    - 뜻풀이: ‘업무 부서’의 뜻을 더하는 접미사.
-      용례.구:
-      - 관리국
-      - 기지국
-      - 기획국
-      - 무선국
-      - 방송국
-      - 보도국
-      - 우체국
-      - 우편국
-      - 전화국
-      - 정보국
-      - 총무국
-      - 통신국
-      - 편집국
-      의미ID: 1
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -국
-    품사: 접사
-    항목ID: 72370
-processed:
-  맞춤법 검사: {}
----
-000_KEYWORD: -국__접사__002
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72371
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 2
-    어휘 등급: 고급
-    원어: 國
-    의미:
-    - 뜻풀이: ‘나라’의 뜻을 더하는 접미사.
-      용례.구:
-      - 가맹국
-      - 강대국
-      - 개도국
-      - 개최국
-      - 경쟁국
-      - 거인국
-      - 공업국
-      - 공화국
-      - 관계국
-      - 관련국
-      - 교역국
-      - 농업국
-      - 대상국
-      - 독립국
-      - 동맹국
-      - 동방국
-      - 문명국
-      - 보유국
-      - 보호국
-      - 분단국
-      - 산업국
-      - 산유국
-      - 생산국
-      - 선진국
-      - 소인국
-      - 수입국
-      - 수출국
-      - 승전국
-      - 신생국
-      - 약소국
-      - 연합국
-      - 우방국
-      - 의장국
-      - 이민국
-      - 이상국
-      - 적대국
-      - 종주국
-      - 주도국
-      - 주변국
-      - 주재국
-      - 주최국
-      - 중립국
-      - 중진국
-      - 지도국
-      - 지원국
-      - 참가국
-      - 참전국
-      - 최혜국
-      - 패전국
-      - 합중국
-      - 회원국
-      - 후진국
-      의미ID: 1
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -국
-    품사: 접사
-    항목ID: 72371
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 국가__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62382
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -15751,7 +15836,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36780
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -15801,7 +15886,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36782
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15929,7 +16014,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36783
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -15972,7 +16057,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36784
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16006,7 +16091,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89061
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16090,7 +16175,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24540
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -16134,7 +16219,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24539
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -16194,7 +16279,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36785
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16223,7 +16308,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36786
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16254,7 +16339,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89316
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16302,7 +16387,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36787
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16338,7 +16423,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36788
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16374,7 +16459,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36789
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16405,7 +16490,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36790
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16470,7 +16555,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36791
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16517,7 +16602,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36792
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -16551,7 +16636,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64463
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -16586,7 +16671,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36793
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16636,7 +16721,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36794
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16670,7 +16755,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36795
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16720,7 +16805,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37679
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16772,7 +16857,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37681
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16807,7 +16892,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60099
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16850,7 +16935,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37684
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16899,7 +16984,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37685
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16941,7 +17026,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24538
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -16982,7 +17067,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24537
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17021,7 +17106,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37689
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -17056,7 +17141,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37690
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -17120,7 +17205,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37691
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17153,7 +17238,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37692
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17187,7 +17272,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37694
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17234,7 +17319,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37695
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17273,7 +17358,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42224
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17332,7 +17417,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37697
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17403,7 +17488,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37699
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17443,7 +17528,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37701
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17479,7 +17564,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37702
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17517,7 +17602,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37703
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17551,7 +17636,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37705
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17614,7 +17699,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37707
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17668,7 +17753,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37709
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17732,7 +17817,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37710
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17776,7 +17861,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64512
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17833,7 +17918,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60100
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17873,7 +17958,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37713
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -17938,7 +18023,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37717
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18047,7 +18132,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37721
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18083,7 +18168,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37722
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18121,7 +18206,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24535
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -18158,7 +18243,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24533
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -18199,7 +18284,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37723
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18265,7 +18350,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36738
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18303,7 +18388,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88811
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18352,7 +18437,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36739
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18401,7 +18486,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36740
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18448,7 +18533,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36741
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18488,7 +18573,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36742
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18534,7 +18619,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36743
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18570,7 +18655,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36745
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18610,7 +18695,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36746
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18660,7 +18745,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65085
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18700,7 +18785,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36747
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18749,7 +18834,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36748
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -18787,7 +18872,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38564
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -18838,7 +18923,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89065
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -18870,7 +18955,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38565
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
@@ -18904,7 +18989,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38566
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -18942,7 +19027,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38567
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -18982,7 +19067,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38568
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19032,7 +19117,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38569
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19067,7 +19152,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24530
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -19122,7 +19207,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38570
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -19163,7 +19248,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24529
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19208,7 +19293,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38571
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19249,7 +19334,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38572
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19285,7 +19370,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38573
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19321,7 +19406,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38574
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19356,7 +19441,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38575
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19394,7 +19479,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38576
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19468,7 +19553,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38577
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19521,7 +19606,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38578
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19559,7 +19644,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38579
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19603,7 +19688,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38580
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19678,7 +19763,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38581
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19712,7 +19797,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38582
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19761,7 +19846,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64465
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19810,7 +19895,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38583
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19887,7 +19972,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38584
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19925,7 +20010,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38586
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -19963,7 +20048,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38588
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20017,7 +20102,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89223
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20064,7 +20149,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38590
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20112,7 +20197,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38592
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20147,7 +20232,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89317
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20181,7 +20266,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38593
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20217,7 +20302,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24526
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20254,7 +20339,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38594
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20302,7 +20387,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38596
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20338,7 +20423,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38597
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20376,7 +20461,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38598
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20418,7 +20503,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91728
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20459,7 +20544,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38600
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20501,7 +20586,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38601
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20539,7 +20624,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38602
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20576,7 +20661,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38603
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20628,7 +20713,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38604
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20684,7 +20769,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38605
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -20723,7 +20808,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38606
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -20762,7 +20847,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24524
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -20847,7 +20932,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38608
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -20876,7 +20961,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38609
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -20913,7 +20998,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38610
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
@@ -20993,7 +21078,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58597
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21037,7 +21122,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64464
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21074,7 +21159,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89224
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21110,7 +21195,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38614
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21146,7 +21231,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38615
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21181,7 +21266,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38617
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21215,7 +21300,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38619
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21296,7 +21381,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24522
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21374,7 +21459,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24519
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -21413,7 +21498,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24517
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -21466,7 +21551,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36796
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21503,7 +21588,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89226
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21541,7 +21626,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35491
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21576,7 +21661,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35482
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21613,7 +21698,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35485
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21647,7 +21732,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35471
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -21681,7 +21766,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35467
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -21716,7 +21801,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35479
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21753,7 +21838,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35461
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21804,7 +21889,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35459
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21849,7 +21934,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90886
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21883,7 +21968,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35475
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21917,7 +22002,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35464
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -21954,7 +22039,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35504
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22020,7 +22105,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35510
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22065,7 +22150,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86819
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22098,7 +22183,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35513
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22135,7 +22220,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35514
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22182,7 +22267,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35530
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22218,7 +22303,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35508
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22256,7 +22341,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35516
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22290,7 +22375,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35506
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -22328,7 +22413,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35522
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -22371,7 +22456,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35517
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22422,7 +22507,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35524
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22473,7 +22558,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36856
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22604,7 +22689,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72372
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     어휘 등급: 없음
@@ -22634,7 +22719,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89227
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
@@ -22668,7 +22753,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62238
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -22720,7 +22805,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36857
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -22766,75 +22851,11 @@ processed:
     표제어: 군
     품사: 명사
 ---
-000_KEYWORD: -군__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73887
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 1
-    어휘 등급: 없음
-    의미:
-    - 관련어:본말:
-      - 동형어 번호: 0
-        표제어: -구먼
-        항목ID: 73886
-      관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -는군
-        항목ID: 81573
-      - 동형어 번호: 0
-        표제어: -더군
-        항목ID: 81572
-      - 동형어 번호: 0
-        표제어: -로군
-        항목ID: 81575
-      뜻풀이: (두루낮춤으로) 새롭게 알게 된 사실에 주목하거나 감탄함을 나타내는 종결 어미.
-      용례.대화:
-      - 경찰차가 서 있는 걸 보니 앞에서 사고가 난 모양이군.
-      용례.문장:
-      - 오늘따라 날씨 참 화창하군.
-      - 별일도 아닌데 칭찬을 들으니 왠지 쑥스럽군.
-      - 지금부터 저렇게 상사에게 굽신거리니 곧 출세하겠군.
-      - 일하는 폼을 보니 새로 들어온 사람도 얼마 못 버티다가 그만두겠군.
-      - 민준이 녀석 어제 시합에서 그렇게 열심히 달리더니 아마도 몸살이 난 모양이군.
-      의미ID: 1
-    - 관련어:본말:
-      - 동형어 번호: 0
-        표제어: -구나
-        항목ID: 73807
-      관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -는군
-        항목ID: 81573
-      - 동형어 번호: 0
-        표제어: -더군
-        항목ID: 81572
-      - 동형어 번호: 0
-        표제어: -로군
-        항목ID: 81575
-      뜻풀이: (아주낮춤으로) 새롭게 알게 된 사실에 어떤 느낌을 실어 말함을 나타내는 종결 어미.
-      용례.대화:
-      - 금방 여름이 오겠어요.
-      용례.문장:
-      - 딱 봐도 꽤나 시간이 걸리겠군.
-      - 정 대리, 중요한 사항을 알려 줘서 고맙군.
-      - 어디에서부터 어떻게 시작해야 할지 모르겠군.
-      - 그동안 마음 고생을 해서 그런지 얼굴이 좀 상했군.
-      - 자네가 역시 젊어서 그런지 생각하는 게 확실히 다르군.
-      의미ID: 2
-    전체 참고: 주로 구어나 혼잣말에서, ‘이다’, 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
-    표제어: -군
-    품사: 어미
-    항목ID: 73887
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 군__의존_명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60199
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 4
     발음:
@@ -22863,33 +22884,11 @@ processed:
     표제어: 군
     품사: 의존 명사
 ---
-000_KEYWORD: -군__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72373
-    가져온 시각: '2019-06-26T04:26:01+09:00'
-    구분: 단어
-    동형어 번호: 3
-    어휘 등급: 없음
-    원어: 群
-    의미:
-    - 뜻풀이: ‘무리’나 ‘떼’의 뜻을 더하는 접미사.
-      용례.구:
-      - 동물군
-      - 식물군
-      의미ID: 1
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -군
-    품사: 접사
-    항목ID: 72373
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 군가__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35556
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22925,7 +22924,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35536
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -22963,7 +22962,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89229
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23000,7 +22999,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35559
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23034,7 +23033,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35558
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23089,7 +23088,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35537
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23132,7 +23131,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35541
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23170,7 +23169,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35539
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23205,7 +23204,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35543
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23242,7 +23241,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35551
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23287,7 +23286,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35550
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -23320,7 +23319,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35552
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -23355,7 +23354,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35567
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23404,7 +23403,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60101
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23444,7 +23443,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35568
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23489,7 +23488,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35569
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23523,7 +23522,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64514
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23560,7 +23559,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35570
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -23595,7 +23594,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35571
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -23644,7 +23643,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35572
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23703,7 +23702,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35560
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23737,7 +23736,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35564
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23771,7 +23770,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35562
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23818,7 +23817,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35563
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23851,7 +23850,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35566
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23889,7 +23888,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35565
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -23949,7 +23948,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35579
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24000,7 +23999,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35581
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24035,7 +24034,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35582
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -24069,7 +24068,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35583
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -24104,7 +24103,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35585
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24143,7 +24142,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35573
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24192,7 +24191,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35577
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24237,7 +24236,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35575
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24296,7 +24295,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35580
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24334,7 +24333,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35578
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24369,7 +24368,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35591
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24402,7 +24401,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35592
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -24438,7 +24437,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89799
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -24478,7 +24477,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36858
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -24521,7 +24520,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36859
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -24561,7 +24560,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35588
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24620,7 +24619,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32594
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24673,7 +24672,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32596
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -24707,7 +24706,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32598
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -24741,7 +24740,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32601
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24785,7 +24784,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32603
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24832,7 +24831,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32604
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24881,7 +24880,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32605
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24944,7 +24943,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32606
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -24979,7 +24978,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32608
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25021,7 +25020,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32609
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25062,7 +25061,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32610
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25097,7 +25096,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32612
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25132,7 +25131,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32613
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25172,7 +25171,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32617
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25211,7 +25210,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32618
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25245,7 +25244,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32800
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25289,7 +25288,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32801
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25326,7 +25325,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32802
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25360,7 +25359,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32803
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25410,7 +25409,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32804
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25449,7 +25448,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32806
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25490,7 +25489,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32807
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25540,7 +25539,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32808
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25577,7 +25576,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62241
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25627,7 +25626,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32810
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25668,7 +25667,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32811
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25704,7 +25703,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32812
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25740,7 +25739,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32814
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25778,7 +25777,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32816
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25841,7 +25840,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32819
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25879,7 +25878,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37276
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25915,7 +25914,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37281
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -25951,7 +25950,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37282
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26024,7 +26023,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37372
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26062,7 +26061,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37373
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26106,7 +26105,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37375
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26138,7 +26137,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37376
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26173,7 +26172,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37377
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26223,7 +26222,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37381
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26276,7 +26275,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37382
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26325,7 +26324,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37383
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26377,7 +26376,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37385
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26410,7 +26409,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36860
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -26516,7 +26515,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65591
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -26602,7 +26601,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37386
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26660,7 +26659,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36861
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26767,7 +26766,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37387
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26803,7 +26802,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37409
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26851,7 +26850,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36862
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -26933,7 +26932,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37411
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -26974,7 +26973,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37415
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -27037,7 +27036,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37416
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27096,7 +27095,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37417
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27141,7 +27140,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37418
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27175,7 +27174,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37419
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27225,7 +27224,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37533
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27270,7 +27269,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37534
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27348,7 +27347,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37540
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27428,7 +27427,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37543
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27476,7 +27475,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37545
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27557,7 +27556,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37546
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27606,7 +27605,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93614
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27670,7 +27669,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37548
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27713,7 +27712,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37549
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27758,7 +27757,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37550
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27878,7 +27877,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37556
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27923,7 +27922,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89270
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27959,7 +27958,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37558
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -27994,7 +27993,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37559
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28030,7 +28029,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37560
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28069,7 +28068,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37561
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28124,7 +28123,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33406
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28172,7 +28171,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33417
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28207,7 +28206,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33431
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -28241,7 +28240,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33435
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -28276,7 +28275,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33443
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28343,7 +28342,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33446
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28411,7 +28410,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33450
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28493,7 +28492,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33453
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28544,7 +28543,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33460
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28584,7 +28583,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33465
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -28619,7 +28618,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33469
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -28656,7 +28655,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33472
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28692,7 +28691,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33475
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28730,7 +28729,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33700
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28777,7 +28776,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33701
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28818,7 +28817,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33702
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28854,7 +28853,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33703
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -28900,7 +28899,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89458
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29056,7 +29055,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33704
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29168,7 +29167,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33705
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29299,7 +29298,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=33706
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29444,7 +29443,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36230
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29492,7 +29491,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36863
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29548,7 +29547,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36228
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29611,7 +29610,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36224
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29650,7 +29649,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36219
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29696,7 +29695,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36216
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29744,7 +29743,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36213
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29808,7 +29807,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36210
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29844,7 +29843,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88385
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29906,7 +29905,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88386
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -29969,7 +29968,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36203
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30046,7 +30045,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60102
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -30140,7 +30139,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36199
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -30192,7 +30191,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36197
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30229,7 +30228,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36194
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30275,7 +30274,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36191
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30348,7 +30347,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92165
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30401,7 +30400,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88387
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30446,7 +30445,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36188
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30514,7 +30513,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88388
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30568,7 +30567,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88390
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30635,7 +30634,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36187
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30704,7 +30703,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36186
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30751,7 +30750,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36181
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30811,7 +30810,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36174
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30858,7 +30857,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36170
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30909,7 +30908,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36164
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -30957,7 +30956,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36156
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -30990,7 +30989,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36162
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -31023,7 +31022,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36153
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31072,7 +31071,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36151
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31128,7 +31127,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89272
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31184,7 +31183,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36864
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31247,7 +31246,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36147
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31302,7 +31301,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36145
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31337,7 +31336,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36142
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31371,7 +31370,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36124
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -31413,7 +31412,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36122
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -31466,7 +31465,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36118
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31520,7 +31519,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36117
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31565,7 +31564,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36865
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -31599,7 +31598,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36866
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -31633,7 +31632,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35140
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31722,7 +31721,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35138
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31764,7 +31763,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35136
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31826,7 +31825,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35134
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31862,7 +31861,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34878
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31899,7 +31898,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34879
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31962,7 +31961,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34877
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -31999,7 +31998,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34876
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32035,7 +32034,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34875
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32084,7 +32083,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34874
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32119,7 +32118,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34872
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32161,7 +32160,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34870
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32208,7 +32207,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34867
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32258,7 +32257,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34865
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32301,7 +32300,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34864
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32364,7 +32363,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34863
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32443,7 +32442,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34860
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -32462,7 +32461,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34858
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32509,7 +32508,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67893
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32532,7 +32531,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34856
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32582,7 +32581,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34854
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32633,7 +32632,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34842
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32675,7 +32674,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37292
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32709,7 +32708,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37293
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32747,7 +32746,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37296
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32792,7 +32791,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37298
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32838,7 +32837,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37299
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32915,7 +32914,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37300
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -32960,7 +32959,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37302
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -33024,7 +33023,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37306
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -33058,7 +33057,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37307
-    가져온 시각: '2019-06-26T04:26:01+09:00'
+    가져온 시각: '2019-08-13T01:37:57+09:00'
     구분: 단어
     동형어 번호: 0
     발음:

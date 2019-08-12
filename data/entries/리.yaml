@@ -1,9 +1,8 @@
----
 000_KEYWORD: -리-__어미__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52612
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -43,7 +42,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74921
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 3
     어휘 등급: 없음
@@ -52,7 +51,7 @@ imported:
       - 동형어 번호: 1
         표제어: -구-
         항목ID: 72332
-      - 동형어 번호: 3
+      - 동형어 번호: 1
         표제어: -기-
         항목ID: 73331
       - 동형어 번호: 2
@@ -98,7 +97,7 @@ imported:
       - 휘돌리다
       의미ID: 1
     - 관련어:참고어:
-      - 동형어 번호: 3
+      - 동형어 번호: 1
         표제어: -기-
         항목ID: 73331
       - 동형어 번호: 3
@@ -175,7 +174,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52609
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 2
     어휘 등급: 없음
@@ -221,11 +220,165 @@ imported:
 processed:
   맞춤법 검사: {}
 ---
+000_KEYWORD: -리__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74922
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 4
+    어휘 등급: 없음
+    원어: 裡/裏
+    의미:
+    - 뜻풀이: ‘가운데’ 또는 ‘속’의 뜻을 더하는 접미사.
+      용례.구:
+      - 극비리
+      - 비밀리
+      - 성황리
+      - 암암리
+      - 인기리
+      - 절찬리
+      의미ID: 1
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -리
+    품사: 접사
+    항목ID: 74922
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -리라__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79280
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -으리라
+        항목ID: 79281
+      뜻풀이: (아주낮춤으로) 말하는 사람이 어떤 상황에 대하여 추측함을 나타내는 종결 어미.
+      용례.문장:
+      - 어려울 때는 내 도움이 필요하리라.
+      - 우리나라도 언젠가는 통일이 되리라.
+      - 그 분의 은혜를 영원히 잊지 못하리라.
+      - 친구가 있다면 당신은 혼자가 아니리라.
+      - 흩어진 우리 가족이 함께 모여 살 날도 곧 오리라.
+      의미ID: 1
+    - 관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -으리라
+        항목ID: 79281
+      뜻풀이: (아주낮춤으로) 말하는 사람이 마음속으로 다짐함을 나타내는 종결 어미.
+      용례.문장:
+      - 평생 그대만을 사랑하리라.
+      - 올해 시험에는 꼭 합격하리라.
+      - 지금의 시련을 이겨 내고 말리라.
+      - 결과가 어떻게 되든 최선을 다하리라.
+      - 아무리 힘든 일이 있어도 나의 꿈을 이루리라.
+      의미ID: 2
+    전체 참고: ‘이다’, 받침이 없거나 ‘ㄹ’ 받침인 동사와 형용사 또는 ‘-으시-’, ‘-으리-’ 뒤에 붙여 쓴다.
+    표제어: -리라
+    품사: 어미
+    항목ID: 79280
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -리만큼__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87692
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -으리만큼
+        항목ID: 86608
+      뜻풀이: 앞에 오는 말이 나타내는 분량이나 수준이 뒤에 오는 말의 근거가 됨을 나타내는 연결 어미.
+      용례.대화:
+      - 여기가 한국의 절경의 하나로 선정되리만큼 멋진 곳이랍니다.
+      용례.문장:
+      - 그는 상상도 못하리만큼 비싼 차를 타고 나타났다.
+      - 아이의 재롱에 집안이 들썩하리만큼 가족들의 웃음보가 터졌다.
+      - 현대인들은 복잡한 사회에서 심각하리만큼 스트레스를 받고 있다.
+      - 김 박사의 콤플렉스 해결 방안은 명쾌하리만큼 상세하고 다양하다.
+      의미 참고: 받침이 없거나 ‘ㄹ’ 받침인 동사와 형용사 또는 ‘-으시-’ 뒤에 붙여 쓴다.
+      의미ID: 1
+    표제어: -리만큼
+    품사: 어미
+    항목ID: 87692
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -리오__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79282
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 관련어:참고어:
+      - 동형어 번호: 0
+        표제어: -으리오
+        항목ID: 79283
+      뜻풀이: 가능성이 없음을 강조하여 반문하듯이 말함을 나타내는 종결 어미.
+      용례.대화:
+      - 내가 어찌 어머님과 부인을 두고 혼자 가리오.
+      용례.문장:
+      - 그 누가 아름다운 당신을 싫어하리오.
+      - 정든 친구를 어찌 쉽게 떠나보내리오.
+      - 내가 어찌 당신을 옆에 두고 책만 읽으오리오.
+      의미 참고: 주로 구어에서 혼잣말로 '어찌', '얼마나' 등의 부사와 함께 쓰고, ‘이다’, 받침이 없거나 ‘ㄹ’ 받침인 동사와 형용사
+        또는 ‘-으시-’, ‘-으오-’ 뒤에 붙여 쓴다.
+      의미ID: 1
+    표제어: -리오
+    품사: 어미
+    항목ID: 79282
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -림__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74923
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    원어: 林
+    의미:
+    - 뜻풀이: ‘숲’의 뜻을 더하는 접미사.
+      용례.구:
+      - 국유림
+      - 아열대림
+      - 열대림
+      - 온대림
+      - 원시림
+      - 자연림
+      - 조엽수림
+      - 침엽수림
+      - 활엽수림
+      - 휴양림
+      의미ID: 1
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -림
+    품사: 접사
+    항목ID: 74923
+processed:
+  맞춤법 검사: {}
+---
 000_KEYWORD: 리__의존_명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52621
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -256,7 +409,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52617
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -284,7 +437,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52615
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
@@ -316,37 +469,11 @@ processed:
     표제어: 리
     품사: 의존 명사
 ---
-000_KEYWORD: -리__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74922
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 4
-    어휘 등급: 없음
-    원어: 裡/裏
-    의미:
-    - 뜻풀이: ‘가운데’ 또는 ‘속’의 뜻을 더하는 접미사.
-      용례.구:
-      - 극비리
-      - 비밀리
-      - 성황리
-      - 암암리
-      - 인기리
-      - 절찬리
-      의미ID: 1
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -리
-    품사: 접사
-    항목ID: 74922
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 리그__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14609
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 고급
@@ -396,7 +523,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52484
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -451,7 +578,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52481
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -491,7 +618,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50088
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 고급
@@ -533,7 +660,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50090
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -590,7 +717,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50093
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -647,7 +774,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50096
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -703,80 +830,11 @@ processed:
     표제어: 리듬체조
     품사: 명사
 ---
-000_KEYWORD: -리라__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79280
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -으리라
-        항목ID: 79281
-      뜻풀이: (아주낮춤으로) 말하는 사람이 어떤 상황에 대하여 추측함을 나타내는 종결 어미.
-      용례.문장:
-      - 어려울 때는 내 도움이 필요하리라.
-      - 우리나라도 언젠가는 통일이 되리라.
-      - 그 분의 은혜를 영원히 잊지 못하리라.
-      - 친구가 있다면 당신은 혼자가 아니리라.
-      - 흩어진 우리 가족이 함께 모여 살 날도 곧 오리라.
-      의미ID: 1
-    - 관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -으리라
-        항목ID: 79281
-      뜻풀이: (아주낮춤으로) 말하는 사람이 마음속으로 다짐함을 나타내는 종결 어미.
-      용례.문장:
-      - 평생 그대만을 사랑하리라.
-      - 올해 시험에는 꼭 합격하리라.
-      - 지금의 시련을 이겨 내고 말리라.
-      - 결과가 어떻게 되든 최선을 다하리라.
-      - 아무리 힘든 일이 있어도 나의 꿈을 이루리라.
-      의미ID: 2
-    전체 참고: ‘이다’, 받침이 없거나 ‘ㄹ’ 받침인 동사와 형용사 또는 ‘-으시-’, ‘-으리-’ 뒤에 붙여 쓴다.
-    표제어: -리라
-    품사: 어미
-    항목ID: 79280
-processed:
-  맞춤법 검사: {}
----
-000_KEYWORD: -리만큼__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87692
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -으리만큼
-        항목ID: 86608
-      뜻풀이: 앞에 오는 말이 나타내는 분량이나 수준이 뒤에 오는 말의 근거가 됨을 나타내는 연결 어미.
-      용례.대화:
-      - 여기가 한국의 절경의 하나로 선정되리만큼 멋진 곳이랍니다.
-      용례.문장:
-      - 그는 상상도 못하리만큼 비싼 차를 타고 나타났다.
-      - 아이의 재롱에 집안이 들썩하리만큼 가족들의 웃음보가 터졌다.
-      - 현대인들은 복잡한 사회에서 심각하리만큼 스트레스를 받고 있다.
-      - 김 박사의 콤플렉스 해결 방안은 명쾌하리만큼 상세하고 다양하다.
-      의미 참고: 받침이 없거나 ‘ㄹ’ 받침인 동사와 형용사 또는 ‘-으시-’ 뒤에 붙여 쓴다.
-      의미ID: 1
-    표제어: -리만큼
-    품사: 어미
-    항목ID: 87692
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 리메이크__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90949
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -809,7 +867,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90950
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -856,7 +914,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50103
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -893,7 +951,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50104
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -940,7 +998,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50106
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -974,7 +1032,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90951
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1008,7 +1066,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90952
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1038,7 +1096,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50108
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1086,7 +1144,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50111
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -1196,7 +1254,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68350
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1220,7 +1278,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50118
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1257,7 +1315,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50120
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1306,7 +1364,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50122
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1338,7 +1396,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50125
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1373,7 +1431,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50128
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1409,7 +1467,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50130
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1458,7 +1516,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50133
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1495,7 +1553,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50135
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1545,40 +1603,11 @@ processed:
     표제어: 리얼하다
     품사: 형용사
 ---
-000_KEYWORD: -리오__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79282
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 관련어:참고어:
-      - 동형어 번호: 0
-        표제어: -으리오
-        항목ID: 79283
-      뜻풀이: 가능성이 없음을 강조하여 반문하듯이 말함을 나타내는 종결 어미.
-      용례.대화:
-      - 내가 어찌 어머님과 부인을 두고 혼자 가리오.
-      용례.문장:
-      - 그 누가 아름다운 당신을 싫어하리오.
-      - 정든 친구를 어찌 쉽게 떠나보내리오.
-      - 내가 어찌 당신을 옆에 두고 책만 읽으오리오.
-      의미 참고: 주로 구어에서 혼잣말로 '어찌', '얼마나' 등의 부사와 함께 쓰고, ‘이다’, 받침이 없거나 ‘ㄹ’ 받침인 동사와 형용사
-        또는 ‘-으시-’, ‘-으오-’ 뒤에 붙여 쓴다.
-      의미ID: 1
-    표제어: -리오
-    품사: 어미
-    항목ID: 79282
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 리을__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69080
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1615,7 +1644,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50139
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1648,7 +1677,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90953
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1682,7 +1711,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50140
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1736,7 +1765,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50142
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     검색용 이형태: L, l, liter, 리이터
     구분: 단어
     동형어 번호: 0
@@ -1830,7 +1859,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50146
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 고급
@@ -1863,7 +1892,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50148
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1928,7 +1957,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50153
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2001,7 +2030,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50155
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2034,7 +2063,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50157
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2065,7 +2094,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50159
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2096,7 +2125,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50162
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2185,41 +2214,11 @@ processed:
     표제어: 릴리스하다
     품사: 동사
 ---
-000_KEYWORD: -림__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74923
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    원어: 林
-    의미:
-    - 뜻풀이: ‘숲’의 뜻을 더하는 접미사.
-      용례.구:
-      - 국유림
-      - 아열대림
-      - 열대림
-      - 온대림
-      - 원시림
-      - 자연림
-      - 조엽수림
-      - 침엽수림
-      - 활엽수림
-      - 휴양림
-      의미ID: 1
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -림
-    품사: 접사
-    항목ID: 74923
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 림프__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50166
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2250,7 +2249,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89220
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -2285,7 +2284,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50168
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2322,7 +2321,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50170
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2360,7 +2359,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50175
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2429,7 +2428,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50182
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2481,7 +2480,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50183
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -2513,7 +2512,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50186
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 2
     어휘 등급: 없음

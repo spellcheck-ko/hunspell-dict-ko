@@ -1,24 +1,8 @@
----
-000_KEYWORD: 데__명사__001
-imported:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 데
-    품사: 명사:보통:서술성
-    항목ID: 6751
-processed:
-  맞춤법 검사:
-    표제어: 데
-    품사: 명사
----
 000_KEYWORD: -데__어미__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77242
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -42,11 +26,73 @@ imported:
 processed:
   맞춤법 검사: {}
 ---
+000_KEYWORD: -데기__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92137
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 뜻풀이: ‘그와 관련된 일을 하거나 그런 성질을 가진 사람’의 뜻을 더하는 접미사.
+      용례.구:
+      - 부엌데기
+      - 새침데기
+      - 소박데기
+      의미ID: 1
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -데기
+    품사: 접사
+    항목ID: 92137
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -데요__어미__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86256
+    가져온 시각: '2019-08-13T01:42:31+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 없음
+    의미:
+    - 뜻풀이: (두루높임으로) 말하는 사람이 이전에 직접 경험한 사실을 말함을 나타내는 종결 어미.
+      용례.대화:
+      - 네. 회사 앞에 있는 식당에 갔는데 그곳 감자탕이 아주 맛있데요.
+      용례.문장:
+      - 그 아이는 정말 똑똑하데요.
+      - 어제 공원에 가 보니 벌써 꽃들이 다 폈데요.
+      - 그 사람이 익살스러운 표정을 지으니까 사람들이 다 웃데요.
+      의미 참고: 주로 구어에서 쓴다.
+      의미ID: 1
+    전체 참고: ‘이다’, 동사와 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
+    표제어: -데요
+    품사: 어미
+    항목ID: 86256
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: 데__명사__001
+imported:
+  갈퀴 Django:
+    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
+    기여자:
+    - ryu.changwoo
+    라이선스: CC BY 4.0
+    표제어: 데
+    품사: 명사:보통:서술성
+    항목ID: 6751
+processed:
+  맞춤법 검사:
+    표제어: 데
+    품사: 명사
+---
 000_KEYWORD: 데__의존_명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47455
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -104,7 +150,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47456
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -141,7 +187,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47457
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -177,28 +223,6 @@ processed:
   맞춤법 검사:
     표제어: 데굴데굴
     품사: 부사
----
-000_KEYWORD: -데기__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92137
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 뜻풀이: ‘그와 관련된 일을 하거나 그런 성질을 가진 사람’의 뜻을 더하는 접미사.
-      용례.구:
-      - 부엌데기
-      - 새침데기
-      - 소박데기
-      의미ID: 1
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -데기
-    품사: 접사
-    항목ID: 92137
-processed:
-  맞춤법 검사: {}
 ---
 000_KEYWORD: 데네브__명사__001
 imported:
@@ -237,7 +261,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47458
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -296,7 +320,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47459
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -342,7 +366,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64541
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -395,7 +419,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14379
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -443,7 +467,7 @@ processed_overrides:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61342
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -486,7 +510,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47460
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -550,7 +574,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47461
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -610,7 +634,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47462
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 고급
@@ -662,7 +686,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47463
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -697,7 +721,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47464
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -733,7 +757,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47465
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     검색용 이형태: 데뷰
     구분: 단어
     동형어 번호: 0
@@ -766,7 +790,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47467
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -800,7 +824,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47466
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -853,7 +877,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47472
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     검색용 이형태: 데쌩, 뎃생
     구분: 단어
     동형어 번호: 0
@@ -889,7 +913,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47473
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -933,7 +957,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90481
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     검색용 이형태: 데스크탑
     구분: 단어
     동형어 번호: 0
@@ -972,7 +996,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47475
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     검색용 이형태: dL, dl, 데쉬리터, 데실리터
     구분: 단어
     동형어 번호: 0
@@ -1012,7 +1036,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47478
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     검색용 이형태: dB, 데쉬벨
     구분: 단어
     동형어 번호: 0
@@ -1041,36 +1065,11 @@ processed:
     표제어: 데시벨
     품사: 의존 명사
 ---
-000_KEYWORD: -데요__어미__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86256
-    가져온 시각: '2019-06-26T04:30:24+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 없음
-    의미:
-    - 뜻풀이: (두루높임으로) 말하는 사람이 이전에 직접 경험한 사실을 말함을 나타내는 종결 어미.
-      용례.대화:
-      - 네. 회사 앞에 있는 식당에 갔는데 그곳 감자탕이 아주 맛있데요.
-      용례.문장:
-      - 그 아이는 정말 똑똑하데요.
-      - 어제 공원에 가 보니 벌써 꽃들이 다 폈데요.
-      - 그 사람이 익살스러운 표정을 지으니까 사람들이 다 웃데요.
-      의미 참고: 주로 구어에서 쓴다.
-      의미ID: 1
-    전체 참고: ‘이다’, 동사와 형용사 또는 ‘-으시-’, ‘-었-’, ‘-겠-’ 뒤에 붙여 쓴다.
-    표제어: -데요
-    품사: 어미
-    항목ID: 86256
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 데우다__동사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14380
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1114,7 +1113,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47484
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     검색용 이형태: 데이타
     구분: 단어
     동형어 번호: 0
@@ -1167,7 +1166,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47486
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     검색용 이형태: 데이타베이스
     구분: 단어
     동형어 번호: 0
@@ -1201,7 +1200,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14381
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 초급
@@ -1234,7 +1233,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90688
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1283,7 +1282,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47487
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1350,7 +1349,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68328
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1373,7 +1372,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93461
-    가져온 시각: '2019-06-26T04:30:24+09:00'
+    가져온 시각: '2019-08-13T01:42:31+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음

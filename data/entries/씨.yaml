@@ -1,9 +1,92 @@
+000_KEYWORD: -씨__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72040
+    가져온 시각: '2019-08-13T01:55:04+09:00'
+    구분: 단어
+    동형어 번호: 1
+    어휘 등급: 없음
+    의미:
+    - 뜻풀이: ‘태도’ 또는 ‘모양’의 뜻을 더하는 접미사.
+      용례.구:
+      - 마음씨
+      - 말씨
+      - 맘씨
+      의미ID: 1
+    전체 참고: 일부 명사 뒤에 붙는다.
+    표제어: -씨
+    품사: 접사
+    항목ID: 72040
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -씨__접사__002
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72041
+    가져온 시각: '2019-08-13T01:55:04+09:00'
+    구분: 단어
+    동형어 번호: 2
+    어휘 등급: 없음
+    원어: 氏
+    의미:
+    - 관련어:참고어:
+      - 동형어 번호: 2
+        표제어: 씨
+        항목ID: 58145
+      뜻풀이: '''그 성씨 자체'', ''그 성씨의 가문''의 뜻을 더하는 접미사.'
+      용례.구:
+      - 김씨
+      - 이씨
+      - 박씨
+      의미ID: 1
+    전체 참고: 인명에서 성을 나타내는 명사 뒤에 붙는다.
+    표제어: -씨
+    품사: 접사
+    항목ID: 72041
+processed:
+  맞춤법 검사: {}
+---
+000_KEYWORD: -씩__접사__001
+imported:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72043
+    가져온 시각: '2019-08-13T01:55:04+09:00'
+    구분: 단어
+    동형어 번호: 0
+    어휘 등급: 중급
+    의미:
+    - 뜻풀이: '''그 수량이나 크기로 나뉨''의 뜻을 더하는 접미사.'
+      용례.구:
+      - 두 사람씩
+      - 다섯 마리씩
+      - 며칠씩
+      - 열 그릇씩
+      - 조금씩
+      - 하나씩
+      - 한 걸음씩
+      - 한 번씩
+      의미 참고: 수량을 나타내는 말 뒤에 붙는다.
+      의미ID: 1
+    - 뜻풀이: 화자가 예상하거나 기대한 수준을 넘어서는 말 뒤에서 ‘아주 뜻밖’임의 뜻을 더하는 접미사.
+      용례.대화:
+      - 네. 그게 그래도 장남이라고 부모님께 용돈씩이나 주더라고요.
+      용례.문장:
+      - 학생이 무슨 돈이 있다고 고기씩이나 사 왔니?
+      - 형편을 뻔히 아는데 누나 생일이라고 선물씩이나 사 오고.. 정말 고맙다.
+      의미 참고: 일부 명사 뒤에 붙는다. 주로 ‘씩이나’ 꼴로 쓰인다.
+      의미ID: 2
+    표제어: -씩
+    품사: 접사
+    항목ID: 72043
+processed:
+  맞춤법 검사: {}
 ---
 000_KEYWORD: 씨__명사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65937
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -81,7 +164,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58145
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -117,60 +200,11 @@ processed:
     표제어: 씨
     품사: 의존 명사
 ---
-000_KEYWORD: -씨__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72040
-    가져온 시각: '2019-06-26T04:42:37+09:00'
-    구분: 단어
-    동형어 번호: 1
-    어휘 등급: 없음
-    의미:
-    - 뜻풀이: ‘태도’ 또는 ‘모양’의 뜻을 더하는 접미사.
-      용례.구:
-      - 마음씨
-      - 말씨
-      - 맘씨
-      의미ID: 1
-    전체 참고: 일부 명사 뒤에 붙는다.
-    표제어: -씨
-    품사: 접사
-    항목ID: 72040
-processed:
-  맞춤법 검사: {}
----
-000_KEYWORD: -씨__접사__002
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72041
-    가져온 시각: '2019-06-26T04:42:37+09:00'
-    구분: 단어
-    동형어 번호: 2
-    어휘 등급: 없음
-    원어: 氏
-    의미:
-    - 관련어:참고어:
-      - 동형어 번호: 2
-        표제어: 씨
-        항목ID: 58145
-      뜻풀이: '''그 성씨 자체'', ''그 성씨의 가문''의 뜻을 더하는 접미사.'
-      용례.구:
-      - 김씨
-      - 이씨
-      - 박씨
-      의미ID: 1
-    전체 참고: 인명에서 성을 나타내는 명사 뒤에 붙는다.
-    표제어: -씨
-    품사: 접사
-    항목ID: 72041
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 씨근거리다__동사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69614
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -211,7 +245,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89601
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -253,7 +287,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89602
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -297,7 +331,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89603
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -350,7 +384,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65175
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -401,7 +435,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69615
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -433,7 +467,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69682
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -479,7 +513,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66459
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -525,7 +559,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89606
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -570,7 +604,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89607
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -607,7 +641,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89608
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -652,7 +686,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66540
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -688,7 +722,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16740
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -760,7 +794,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66460
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -786,46 +820,11 @@ processed:
     표제어: 씩
     품사: 부사
 ---
-000_KEYWORD: -씩__접사__001
-imported:
-  한국어기초사전:
-    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72043
-    가져온 시각: '2019-06-26T04:42:37+09:00'
-    구분: 단어
-    동형어 번호: 0
-    어휘 등급: 중급
-    의미:
-    - 뜻풀이: '''그 수량이나 크기로 나뉨''의 뜻을 더하는 접미사.'
-      용례.구:
-      - 두 사람씩
-      - 다섯 마리씩
-      - 며칠씩
-      - 열 그릇씩
-      - 조금씩
-      - 하나씩
-      - 한 걸음씩
-      - 한 번씩
-      의미 참고: 수량을 나타내는 말 뒤에 붙는다.
-      의미ID: 1
-    - 뜻풀이: 화자가 예상하거나 기대한 수준을 넘어서는 말 뒤에서 ‘아주 뜻밖’임의 뜻을 더하는 접미사.
-      용례.대화:
-      - 네. 그게 그래도 장남이라고 부모님께 용돈씩이나 주더라고요.
-      용례.문장:
-      - 학생이 무슨 돈이 있다고 고기씩이나 사 왔니?
-      - 형편을 뻔히 아는데 누나 생일이라고 선물씩이나 사 오고.. 정말 고맙다.
-      의미 참고: 일부 명사 뒤에 붙는다. 주로 ‘씩이나’ 꼴로 쓰인다.
-      의미ID: 2
-    표제어: -씩
-    품사: 접사
-    항목ID: 72043
-processed:
-  맞춤법 검사: {}
----
 000_KEYWORD: 씩씩__부사__001
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69538
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -856,7 +855,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69539
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -898,7 +897,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69540
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -938,7 +937,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16743
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -985,7 +984,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69683
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1033,7 +1032,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89609
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1079,7 +1078,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89612
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1116,7 +1115,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89613
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1163,7 +1162,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89610
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1202,7 +1201,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89611
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1240,7 +1239,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65972
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1314,7 +1313,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69685
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1376,7 +1375,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16745
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
@@ -1436,7 +1435,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17391
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
@@ -1499,7 +1498,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17191
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
@@ -1602,7 +1601,7 @@ processed:
 imported:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69687
-    가져온 시각: '2019-06-26T04:42:37+09:00'
+    가져온 시각: '2019-08-13T01:55:04+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
