@@ -7,7 +7,7 @@ Copyright (C) 2008-2019 spellcheck-ko contributors
 MPL-1.1/GPL-2.0/LGPL-2.1 tri-license
 ------------------------------------
 
-- The code and and the "dict-ko-mplgpllgpl.json" word dictionary file (and
+- The code and and the "dict-ko-mplgpllgpl.yaml" word dictionary file (and
   their source files with "-legacy" in data/entries) are distributed under the
   MPL-1.1/GPL-2.0/LGPL-2.1 tri-license. See LICENSE.MPL, LICENSE.GPL and
   LICENSE.LGPL for terms.
@@ -15,7 +15,7 @@ MPL-1.1/GPL-2.0/LGPL-2.1 tri-license
 CC BY-SA 4.0
 ------------
 
-- The word dictionary files "dict-ko-builtins.json" and "dict-ko-ccbysa.json"
+- The word dictionary files "dict-ko-builtins.yaml" and "dict-ko-ccbysa.yaml"
   (and their source files without "-legacy" in data/entries) are distributed
   under the Creative Commons Attribution-ShareAlike 4.0 International Public
   License. See LICENSE.CC-BY-SA-4.0 for terms.

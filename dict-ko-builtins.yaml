@@ -1,0 +1,210 @@
+entries:
+- pos: 특수:숫자
+  word: '0'
+- pos: 특수:숫자
+  word: '1'
+- pos: 특수:숫자
+  word: '2'
+- pos: 특수:숫자
+  word: '3'
+- pos: 특수:숫자
+  word: '4'
+- pos: 특수:숫자
+  word: '5'
+- pos: 특수:숫자
+  word: '6'
+- pos: 특수:숫자
+  word: '7'
+- pos: 특수:숫자
+  word: '8'
+- pos: 특수:숫자
+  word: '9'
+- pos: 특수:알파벳
+  word: a
+- pos: 특수:알파벳
+  word: b
+- pos: 특수:알파벳
+  word: c
+- pos: 특수:알파벳
+  word: d
+- pos: 특수:알파벳
+  word: e
+- pos: 특수:알파벳
+  word: f
+- pos: 특수:알파벳
+  word: g
+- pos: 특수:알파벳
+  word: h
+- pos: 특수:알파벳
+  word: i
+- pos: 특수:알파벳
+  word: j
+- pos: 특수:알파벳
+  word: k
+- pos: 특수:알파벳
+  word: l
+- pos: 특수:알파벳
+  word: m
+- pos: 특수:알파벳
+  word: n
+- pos: 특수:알파벳
+  word: o
+- pos: 특수:알파벳
+  word: p
+- pos: 특수:알파벳
+  word: q
+- pos: 특수:알파벳
+  word: r
+- pos: 특수:알파벳
+  word: s
+- pos: 특수:알파벳
+  word: t
+- pos: 특수:알파벳
+  word: u
+- pos: 특수:알파벳
+  word: v
+- pos: 특수:알파벳
+  word: w
+- pos: 특수:알파벳
+  word: x
+- pos: 특수:알파벳
+  word: y
+- pos: 특수:알파벳
+  word: z
+- pos: 특수:복수접미사
+  word: 들
+- pos: 수사
+  props:
+  - 수:10
+  word: 일십
+- pos: 수사
+  props:
+  - 수:100
+  word: 일백
+- pos: 수사
+  props:
+  - 수:100
+  word: 이백
+- pos: 수사
+  props:
+  - 수:100
+  word: 삼백
+- pos: 수사
+  props:
+  - 수:100
+  word: 사백
+- pos: 수사
+  props:
+  - 수:100
+  word: 오백
+- pos: 수사
+  props:
+  - 수:100
+  word: 육백
+- pos: 수사
+  props:
+  - 수:100
+  word: 칠백
+- pos: 수사
+  props:
+  - 수:100
+  word: 팔백
+- pos: 수사
+  props:
+  - 수:100
+  word: 구백
+- pos: 수사
+  props:
+  - 수:1000
+  word: 일천
+- pos: 수사
+  props:
+  - 수:1000
+  word: 이천
+- pos: 수사
+  props:
+  - 수:1000
+  word: 삼천
+- pos: 수사
+  props:
+  - 수:1000
+  word: 사천
+- pos: 수사
+  props:
+  - 수:1000
+  word: 오천
+- pos: 수사
+  props:
+  - 수:1000
+  word: 육천
+- pos: 수사
+  props:
+  - 수:1000
+  word: 칠천
+- pos: 수사
+  props:
+  - 수:1000
+  word: 팔천
+- pos: 수사
+  props:
+  - 수:1000
+  word: 구천
+- pos: 수사
+  props:
+  - 수:10000
+  word: 해
+- pos: 수사
+  props:
+  - 수:10000
+  word: 시
+- pos: 수사
+  props:
+  - 수:10000
+  word: 양
+- pos: 수사
+  props:
+  - 수:10000
+  word: 구
+- pos: 수사
+  props:
+  - 수:10000
+  word: 간
+- pos: 수사
+  props:
+  - 수:10000
+  word: 정
+- pos: 수사
+  props:
+  - 수:10000
+  word: 재
+- pos: 수사
+  props:
+  - 수:10000
+  word: 극
+- pos: 수사
+  props:
+  - 수:10000
+  word: 항하사
+- pos: 수사
+  props:
+  - 수:10000
+  word: 아승기
+- pos: 수사
+  props:
+  - 수:10000
+  word: 나유타
+- pos: 수사
+  props:
+  - 수:10000
+  word: 불가사의
+- pos: 수사
+  props:
+  - 수:10000
+  word: 무량수
+- pos: 수사
+  props:
+  - 수:10000
+  word: 무량대수
+- description: It's an easter egg!
+  pos: 명사
+  word: 김수한무거북이와두루미삼천갑자동방삭치치카포사리사리센타워리워리세브리캉무드셀라구름위허리케인에담벼락서생원에고양이고양이는바둑이바둑이는돌돌이

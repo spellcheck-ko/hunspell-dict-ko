@@ -39,7 +39,7 @@
 import sys
 import copy
 import unicodedata
-import json
+import yaml
 
 import config
 import suffix
@@ -204,8 +204,8 @@ class Dictionary:
         for w in words:
             self.words.add(w)
 
-    def load_json(self, infile):
-        d = json.load(infile)
+    def load_yaml(self, infile):
+        d = yaml.load(infile, Loader=yaml.FullLoader)
         for entry in d['entries']:
             w = Word()
             w.word = entry['word']
@@ -462,8 +462,8 @@ if __name__ == '__main__':
     infilenames = sys.argv[3:]
     dic = Dictionary()
     for filename in infilenames:
-        if filename.endswith('.json'):
-            dic.load_json(open(filename, encoding='utf-8'))
+        if filename.endswith('.yaml'):
+            dic.load_yaml(open(filename, encoding='utf-8'))
         else:
             print('ERROR: unknown file type: ' + filename)
             sys.exit(1)
