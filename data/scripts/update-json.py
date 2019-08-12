@@ -71,6 +71,6 @@ def find_and_save(dir, filename_ccbysa, filename_mplgpllgpl):
 
 if __name__ == '__main__':
     dir = './entries'
-    outfile_ccbysa = '../dict-ko-galkwi-ccbysa.json'
-    outfile_mplgpllgpl = '../dict-ko-galkwi-mplgpllgpl.json'
+    outfile_ccbysa = '../dict-ko-ccbysa.json'
+    outfile_mplgpllgpl = '../dict-ko-mplgpllgpl.json'
     find_and_save(dir, outfile_ccbysa, outfile_mplgpllgpl)
