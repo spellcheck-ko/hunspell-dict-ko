@@ -1,3 +1,19 @@
+# 0.7.91
+
+https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.91
+
+내부적인 단어 정보 정리를 테스트하는 버전입니다. 기능상으로는 0.7.1과 큰
+차이가 없습니다.
+
+## 변경 사항
+
+- 데이터 정리
+  - 내부 포맷을 YAML로 통일
+  - 단어 파일 수가 너무 많아서 첫 음절 기준으로 합침
+
+- 활용
+  - 호환 자모 뒤에 조사 ('ㄱ이', 'ㅏ는')
+
 # 0.7.90
 
 https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.90
