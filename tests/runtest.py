@@ -7,14 +7,15 @@ import subprocess
 
 
 def usage():
-    sys.stderr.write('Usage: %s filename\n' % sys.argv[0])
+    sys.stderr.write('Usage: %s dictionary filename\n' % sys.argv[0])
 
 
 def main():
-    if len(sys.argv) != 2:
+    if len(sys.argv) != 3:
         usage()
         sys.exit(1)
-    filename = sys.argv[1]
+    dictionary = sys.argv[1]
+    filename = sys.argv[2]
     lines = open(filename).read().split('\n')
     for l in lines:
         if len(l) > 0 and l[0] == 'S':
@@ -27,7 +28,7 @@ def main():
         hunspell_cmd = './hunspell'
     else:
         hunspell_cmd = 'hunspell'
-    args = [hunspell_cmd, '-i', 'UTF-8', '-d', '../ko']
+    args = [hunspell_cmd, '-i', 'UTF-8', '-d', dictionary]
     hunspell = subprocess.Popen(args,
                                 stdin=subprocess.PIPE, stdout=subprocess.PIPE)
     hunspell.stdout.readline()  # the first line "Hunspell 1.2.8 ..."

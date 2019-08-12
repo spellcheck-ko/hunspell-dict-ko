@@ -47,4 +47,7 @@ dist:: distdir $(BIN_DISTCONTENT)
 test: build
 	$(MAKE) -C tests test
 
-.PHONY: all build clean dist distdir test
+autopkgtest:
+	$(MAKE) -C tests autopkgtest
+
+.PHONY: all build clean dist distdir test autopkgtest
