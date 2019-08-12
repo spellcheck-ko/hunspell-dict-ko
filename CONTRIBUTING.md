@@ -16,6 +16,7 @@
 
   - GNU make
   - Python 3.5 이상
+  - PyYAML
 
 ## 내부 인코딩
 
