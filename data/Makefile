@@ -1,5 +1,6 @@
 PYTHON=python3
 SCRIPTSDIR=scripts
+ENTRIESDIR=entries
 
 .PHONY:
 .PHONY: all build help
@@ -13,3 +14,6 @@ help:
 
 build:
 	$(PYTHON) $(SCRIPTSDIR)/build.py
+
+process:
+	$(PYTHON) $(SCRIPTSDIR)/process.py $(ENTRIESDIR)
