@@ -1,5 +1,5 @@
 000_KEYWORD: 놔두다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28326
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -84,17 +84,17 @@ imported:
     - 발음: 놔ː둠니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28326_nwa-dumnida.wav
       형태: 놔둡니다
-processed:
+result:
   맞춤법 검사:
     표제어: 놔두다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 놔주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45303
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -142,7 +142,7 @@ imported:
     - 발음: 놔ː줌니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/45303_nwa-jumnida.wav
       형태: 놔줍니다
-processed:
+result:
   맞춤법 검사:
     표제어: 놔주다
     품사: 동사

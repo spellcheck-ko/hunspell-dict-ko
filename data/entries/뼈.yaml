@@ -1,5 +1,5 @@
 000_KEYWORD: 뼈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66640
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -81,13 +81,13 @@ imported:
     표제어: 뼈
     품사: 명사
     항목ID: 66640
-processed:
+result:
   맞춤법 검사:
     표제어: 뼈
     품사: 명사
 ---
 000_KEYWORD: 뼈다귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62058
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -125,13 +125,13 @@ imported:
     표제어: 뼈다귀
     품사: 명사
     항목ID: 62058
-processed:
+result:
   맞춤법 검사:
     표제어: 뼈다귀
     품사: 명사
 ---
 000_KEYWORD: 뼈대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62106
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -208,13 +208,13 @@ imported:
     표제어: 뼈대
     품사: 명사
     항목ID: 62106
-processed:
+result:
   맞춤법 검사:
     표제어: 뼈대
     품사: 명사
 ---
 000_KEYWORD: 뼈마디__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61165
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -249,13 +249,13 @@ imported:
     표제어: 뼈마디
     품사: 명사
     항목ID: 61165
-processed:
+result:
   맞춤법 검사:
     표제어: 뼈마디
     품사: 명사
 ---
 000_KEYWORD: 뼈아프다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61320
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -300,17 +300,17 @@ imported:
       형태: 뼈아프니
     - 발음: 뼈아픔니다
       형태: 뼈아픕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뼈아프다
     품사: 형용사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 으불규칙
 ---
 000_KEYWORD: 뼈저리다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61324
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -360,13 +360,13 @@ imported:
       형태: 뼈저리니
     - 발음: 뼈저림니다
       형태: 뼈저립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뼈저리다
     품사: 형용사
 ---
 000_KEYWORD: 뼘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62083
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -395,13 +395,13 @@ imported:
     표제어: 뼘
     품사: 명사
     항목ID: 62083
-processed:
+result:
   맞춤법 검사:
     표제어: 뼘
     품사: 명사
 ---
 000_KEYWORD: 뼘__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62084
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -428,13 +428,13 @@ imported:
     표제어: 뼘
     품사: 의존 명사
     항목ID: 62084
-processed:
+result:
   맞춤법 검사:
     표제어: 뼘
     품사: 의존 명사
 ---
 000_KEYWORD: 뼛속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62059
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -506,7 +506,7 @@ imported:
     - 발음: 뼏쏭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/62059_ppyeotssongman.wav
       형태: 뼛속만
-processed:
+result:
   맞춤법 검사:
     표제어: 뼛속
     품사: 명사

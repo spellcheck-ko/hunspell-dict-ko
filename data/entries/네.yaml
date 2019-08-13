@@ -1,5 +1,5 @@
 000_KEYWORD: -네__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77333
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -31,11 +31,11 @@ imported:
     표제어: -네
     품사: 어미
     항목ID: 77333
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -네__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88846
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -62,11 +62,11 @@ imported:
     표제어: -네
     품사: 접사
     항목ID: 88846
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 네__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17294
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -125,13 +125,13 @@ imported:
     표제어: 네
     품사: 감탄사
     항목ID: 17294
-processed:
+result:
   맞춤법 검사:
     표제어: 네
     품사: 감탄사
 ---
 000_KEYWORD: 네__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64556
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -166,13 +166,13 @@ imported:
     표제어: 네
     품사: 관형사
     항목ID: 64556
-processed:
+result:
   맞춤법 검사:
     표제어: 네
     품사: 관형사
 ---
 000_KEYWORD: 네__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89180
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -203,13 +203,13 @@ imported:
     - 발음: 네가
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/92077_nega.wav
       형태: 네가
-processed:
+result:
   맞춤법 검사:
     표제어: 네
     품사: 대명사
 ---
 000_KEYWORD: 네거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41416
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -240,13 +240,13 @@ imported:
     표제어: 네거리
     품사: 명사
     항목ID: 41416
-processed:
+result:
   맞춤법 검사:
     표제어: 네거리
     품사: 명사
 ---
 000_KEYWORD: 네거티브__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -257,13 +257,13 @@ imported:
     표제어: 네거티브
     품사: 명사:보통:서술성
     항목ID: 5339
-processed:
+result:
   맞춤법 검사:
     표제어: 네거티브
     품사: 명사
 ---
 000_KEYWORD: 네거티브하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -274,13 +274,13 @@ imported:
     표제어: 네거티브하다
     품사: 형용사
     항목ID: 5340
-processed:
+result:
   맞춤법 검사:
     표제어: 네거티브하다
     품사: 형용사
 ---
 000_KEYWORD: 네까짓__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41424
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -310,13 +310,13 @@ imported:
     표제어: 네까짓
     품사: 관형사
     항목ID: 41424
-processed:
+result:
   맞춤법 검사:
     표제어: 네까짓
     품사: 관형사
 ---
 000_KEYWORD: 네깟__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41438
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -346,13 +346,13 @@ imported:
     표제어: 네깟
     품사: 관형사
     항목ID: 41438
-processed:
+result:
   맞춤법 검사:
     표제어: 네깟
     품사: 관형사
 ---
 000_KEYWORD: 네년__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41440
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -377,13 +377,13 @@ imported:
     표제어: 네년
     품사: 대명사
     항목ID: 41440
-processed:
+result:
   맞춤법 검사:
     표제어: 네년
     품사: 대명사
 ---
 000_KEYWORD: 네년__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -393,13 +393,13 @@ imported:
     표제어: 네년
     품사: 명사:보통:서술성
     항목ID: 5341
-processed:
+result:
   맞춤법 검사:
     표제어: 네년
     품사: 명사
 ---
 000_KEYWORD: 네놈__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41446
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -424,17 +424,17 @@ imported:
     표제어: 네놈
     품사: 대명사
     항목ID: 41446
-processed:
+result:
   맞춤법 검사:
     표제어: 네놈
     품사: 대명사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 가산명사
 ---
 000_KEYWORD: 네눈박이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -444,13 +444,13 @@ imported:
     표제어: 네눈박이
     품사: 명사:보통:비서술성
     항목ID: 5343
-processed:
+result:
   맞춤법 검사:
     표제어: 네눈박이
     품사: 명사
 ---
 000_KEYWORD: 네다섯__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88337
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -484,13 +484,13 @@ imported:
     표제어: 네다섯
     품사: 관형사
     항목ID: 88337
-processed:
+result:
   맞춤법 검사:
     표제어: 네다섯
     품사: 관형사
 ---
 000_KEYWORD: 네다섯__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87362
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -531,13 +531,13 @@ imported:
     - 발음: 네ː다선만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/87362_ne-daseonman.wav
       형태: 네다섯만
-processed:
+result:
   맞춤법 검사:
     표제어: 네다섯
     품사: 수사
 ---
 000_KEYWORD: 네댓__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88336
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -571,13 +571,13 @@ imported:
     표제어: 네댓
     품사: 관형사
     항목ID: 88336
-processed:
+result:
   맞춤법 검사:
     표제어: 네댓
     품사: 관형사
 ---
 000_KEYWORD: 네댓__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41451
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -618,13 +618,13 @@ imported:
     - 발음: 네ː댄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41451_ne-daenman.wav
       형태: 네댓만
-processed:
+result:
   맞춤법 검사:
     표제어: 네댓
     품사: 수사
 ---
 000_KEYWORD: 네덜란드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68318
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -642,13 +642,13 @@ imported:
     표제어: 네덜란드
     품사: 명사
     항목ID: 68318
-processed:
+result:
   맞춤법 검사:
     표제어: 네덜란드
     품사: 명사
 ---
 000_KEYWORD: 네덜란드어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93477
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -682,13 +682,13 @@ imported:
     표제어: 네덜란드어
     품사: 명사
     항목ID: 93477
-processed:
+result:
   맞춤법 검사:
     표제어: 네덜란드어
     품사: 명사
 ---
 000_KEYWORD: 네모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41454
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -736,13 +736,13 @@ imported:
     표제어: 네모
     품사: 명사
     항목ID: 41454
-processed:
+result:
   맞춤법 검사:
     표제어: 네모
     품사: 명사
 ---
 000_KEYWORD: 네모꼴__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -751,13 +751,13 @@ imported:
     표제어: 네모꼴
     품사: 명사:보통:비서술성
     항목ID: 5347
-processed:
+result:
   맞춤법 검사:
     표제어: 네모꼴
     품사: 명사
 ---
 000_KEYWORD: 네모나다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41457
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -805,13 +805,13 @@ imported:
     - 발음: 네ː모남니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41457_ne-monamnida.wav
       형태: 네모납니다
-processed:
+result:
   맞춤법 검사:
     표제어: 네모나다
     품사: 형용사
 ---
 000_KEYWORD: 네모반듯하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41475
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -855,13 +855,13 @@ imported:
     - 발음: 네ː모반드탐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41475_ne-mobandeutamnida.wav
       형태: 네모반듯합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 네모반듯하다
     품사: 형용사
 ---
 000_KEYWORD: 네모지다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41545
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -913,13 +913,13 @@ imported:
     - 발음: 네ː모짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41545_ne-mojimnida.wav
       형태: 네모집니다
-processed:
+result:
   맞춤법 검사:
     표제어: 네모지다
     품사: 형용사
 ---
 000_KEYWORD: 네발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20513
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -944,13 +944,13 @@ imported:
     표제어: 네발
     품사: 명사
     항목ID: 20513
-processed:
+result:
   맞춤법 검사:
     표제어: 네발
     품사: 명사
 ---
 000_KEYWORD: 네발짐승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20535
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -975,13 +975,13 @@ imported:
     표제어: 네발짐승
     품사: 명사
     항목ID: 20535
-processed:
+result:
   맞춤법 검사:
     표제어: 네발짐승
     품사: 명사
 ---
 000_KEYWORD: 네안데르탈인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -991,13 +991,13 @@ imported:
     표제어: 네안데르탈인
     품사: 명사:보통:비서술성
     항목ID: 5349
-processed:
+result:
   맞춤법 검사:
     표제어: 네안데르탈인
     품사: 명사
 ---
 000_KEYWORD: 네온__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20538
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1036,13 +1036,13 @@ imported:
     표제어: 네온
     품사: 명사
     항목ID: 20538
-processed:
+result:
   맞춤법 검사:
     표제어: 네온
     품사: 명사
 ---
 000_KEYWORD: 네온사인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41555
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1074,13 +1074,13 @@ imported:
     표제어: 네온사인
     품사: 명사
     항목ID: 41555
-processed:
+result:
   맞춤법 검사:
     표제어: 네온사인
     품사: 명사
 ---
 000_KEYWORD: 네이버__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1089,13 +1089,13 @@ imported:
     표제어: 네이버
     품사: 명사:보통:서술성
     항목ID: 31790
-processed:
+result:
   맞춤법 검사:
     표제어: 네이버
     품사: 명사
 ---
 000_KEYWORD: 네트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41563
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1149,13 +1149,13 @@ imported:
     표제어: 네트
     품사: 명사
     항목ID: 41563
-processed:
+result:
   맞춤법 검사:
     표제어: 네트
     품사: 명사
 ---
 000_KEYWORD: 네트워크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41570
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1223,13 +1223,13 @@ imported:
     표제어: 네트워크
     품사: 명사
     항목ID: 41570
-processed:
+result:
   맞춤법 검사:
     표제어: 네트워크
     품사: 명사
 ---
 000_KEYWORD: 네티즌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41575
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1261,13 +1261,13 @@ imported:
     표제어: 네티즌
     품사: 명사
     항목ID: 41575
-processed:
+result:
   맞춤법 검사:
     표제어: 네티즌
     품사: 명사
 ---
 000_KEYWORD: 네팔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68321
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1285,13 +1285,13 @@ imported:
     표제어: 네팔
     품사: 명사
     항목ID: 68321
-processed:
+result:
   맞춤법 검사:
     표제어: 네팔
     품사: 명사
 ---
 000_KEYWORD: 넥타이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17258
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1329,13 +1329,13 @@ imported:
     표제어: 넥타이
     품사: 명사
     항목ID: 17258
-processed:
+result:
   맞춤법 검사:
     표제어: 넥타이
     품사: 명사
 ---
 000_KEYWORD: 넥타이핀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41581
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1363,13 +1363,13 @@ imported:
     표제어: 넥타이핀
     품사: 명사
     항목ID: 41581
-processed:
+result:
   맞춤법 검사:
     표제어: 넥타이핀
     품사: 명사
 ---
 000_KEYWORD: 넷__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34873
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1401,17 +1401,17 @@ imported:
     - 발음: 넨ː만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/34873_nen-man.wav
       형태: 넷만
-processed:
+result:
   맞춤법 검사:
     표제어: 넷
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 고유수:1
 ---
 000_KEYWORD: 넷째__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71735
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1440,13 +1440,13 @@ imported:
     표제어: 넷째
     품사: 관형사
     항목ID: 71735
-processed:
+result:
   맞춤법 검사:
     표제어: 넷째
     품사: 관형사
 ---
 000_KEYWORD: 넷째__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90892
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1466,13 +1466,13 @@ imported:
     표제어: 넷째
     품사: 명사
     항목ID: 90892
-processed:
+result:
   맞춤법 검사:
     표제어: 넷째
     품사: 명사
 ---
 000_KEYWORD: 넷째__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26821
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1494,7 +1494,7 @@ imported:
     표제어: 넷째
     품사: 수사
     항목ID: 26821
-processed:
+result:
   맞춤법 검사:
     표제어: 넷째
     품사: 수사

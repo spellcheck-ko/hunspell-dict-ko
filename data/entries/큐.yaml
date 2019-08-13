@@ -1,5 +1,5 @@
 000_KEYWORD: 큐레이터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81329
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -26,13 +26,13 @@ imported:
     표제어: 큐레이터
     품사: 명사
     항목ID: 81329
-processed:
+result:
   맞춤법 검사:
     표제어: 큐레이터
     품사: 명사
 ---
 000_KEYWORD: 큐피드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81335
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -58,7 +58,7 @@ imported:
     표제어: 큐피드
     품사: 명사
     항목ID: 81335
-processed:
+result:
   맞춤법 검사:
     표제어: 큐피드
     품사: 명사

@@ -1,5 +1,5 @@
 000_KEYWORD: 쿼리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 쿼리
     품사: 명사:보통:서술성
     항목ID: 27587
-processed:
+result:
   맞춤법 검사:
     표제어: 쿼리
     품사: 명사
 ---
 000_KEYWORD: 쿼터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81308
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -44,13 +44,13 @@ imported:
     표제어: 쿼터
     품사: 명사
     항목ID: 81308
-processed:
+result:
   맞춤법 검사:
     표제어: 쿼터
     품사: 명사
 ---
 000_KEYWORD: 쿼터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81303
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -79,7 +79,7 @@ imported:
     표제어: 쿼터
     품사: 의존 명사
     항목ID: 81303
-processed:
+result:
   맞춤법 검사:
     표제어: 쿼터
     품사: 의존 명사

@@ -1,5 +1,5 @@
 000_KEYWORD: -뜨기__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74913
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17,11 +17,11 @@ imported:
     표제어: -뜨기
     품사: 접사
     항목ID: 74913
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -뜨리다__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74914
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -69,11 +69,11 @@ imported:
     표제어: -뜨리다
     품사: 접사
     항목ID: 74914
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 뜨개질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53927
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -101,13 +101,13 @@ imported:
     표제어: 뜨개질
     품사: 명사
     항목ID: 53927
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨개질
     품사: 명사
 ---
 000_KEYWORD: 뜨개질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53928
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -135,13 +135,13 @@ imported:
     표제어: 뜨개질하다
     품사: 동사
     항목ID: 53928
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨개질하다
     품사: 동사
 ---
 000_KEYWORD: 뜨거워지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53930
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -220,13 +220,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/53930_tteugeowojeo.wav
       형태: 뜨거워져
     - 형태: 뜨거워지니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨거워지다
     품사: 동사
 ---
 000_KEYWORD: 뜨겁다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66027
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -310,7 +310,7 @@ imported:
       형태: 뜨거우니
     - 발음: 뜨겁씀니다
       형태: 뜨겁습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -318,7 +318,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 뜨끈뜨끈하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53933
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -362,13 +362,13 @@ imported:
       형태: 뜨끈뜨끈하니
     - 발음: 뜨끈뜨끈함니다
       형태: 뜨끈뜨끈합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끈뜨끈하다
     품사: 형용사
 ---
 000_KEYWORD: 뜨끈하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53936
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -413,13 +413,13 @@ imported:
       형태: 뜨끈하니
     - 발음: 뜨끈함니다
       형태: 뜨끈합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끈하다
     품사: 형용사
 ---
 000_KEYWORD: 뜨끔__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -429,13 +429,13 @@ imported:
     표제어: 뜨끔
     품사: 부사
     항목ID: 7999
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끔
     품사: 부사
 ---
 000_KEYWORD: 뜨끔거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53937
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -490,13 +490,13 @@ imported:
     표제어: 뜨끔거리다
     품사: 동사
     항목ID: 53937
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끔거리다
     품사: 동사
 ---
 000_KEYWORD: 뜨끔대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90832
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -548,13 +548,13 @@ imported:
     표제어: 뜨끔대다
     품사: 동사
     항목ID: 90832
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끔대다
     품사: 동사
 ---
 000_KEYWORD: 뜨끔뜨끔__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53939
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -600,13 +600,13 @@ imported:
     표제어: 뜨끔뜨끔
     품사: 부사
     항목ID: 53939
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끔뜨끔
     품사: 부사
 ---
 000_KEYWORD: 뜨끔뜨끔하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90833
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -659,13 +659,13 @@ imported:
     표제어: 뜨끔뜨끔하다
     품사: 동사
     항목ID: 90833
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끔뜨끔하다
     품사: 동사
 ---
 000_KEYWORD: 뜨끔뜨끔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90834
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -715,13 +715,13 @@ imported:
       형태: 뜨끔뜨끔하니
     - 발음: 뜨끔뜨끔함니다
       형태: 뜨끔뜨끔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끔뜨끔하다
     품사: 형용사
 ---
 000_KEYWORD: 뜨끔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53943
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -774,13 +774,13 @@ imported:
       형태: 뜨끔하니
     - 발음: 뜨끔함니다
       형태: 뜨끔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨끔하다
     품사: 형용사
 ---
 000_KEYWORD: 뜨내기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53944
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -821,13 +821,13 @@ imported:
     표제어: 뜨내기
     품사: 명사
     항목ID: 53944
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨내기
     품사: 명사
 ---
 000_KEYWORD: 뜨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66028
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -925,13 +925,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53947
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -986,13 +986,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14456
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1035,13 +1035,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__동사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53949
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1157,13 +1157,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__동사__005
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62313
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1214,13 +1214,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__동사__006
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53951
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1278,13 +1278,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__동사__007
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53953
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1329,13 +1329,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__동사__008
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90943
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1366,13 +1366,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__동사__009
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90944
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1402,13 +1402,13 @@ imported:
     활용:
     - 형태: 떠
     - 형태: 뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 동사
 ---
 000_KEYWORD: 뜨다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90167
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1516,13 +1516,13 @@ imported:
     - 발음: 뜸니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/90944_tteumnida.wav
       형태: 뜹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨다
     품사: 형용사
 ---
 000_KEYWORD: 뜨듯이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90946
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1553,13 +1553,13 @@ imported:
     표제어: 뜨듯이
     품사: 부사
     항목ID: 90946
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨듯이
     품사: 부사
 ---
 000_KEYWORD: 뜨듯하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53954
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1602,13 +1602,13 @@ imported:
       형태: 뜨듯하니
     - 발음: 뜨드탐니다
       형태: 뜨듯합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨듯하다
     품사: 형용사
 ---
 000_KEYWORD: 뜨뜻미지근하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53956
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1663,13 +1663,13 @@ imported:
       형태: 뜨뜻미지근하니
     - 발음: 뜨뜬미지근함니다
       형태: 뜨뜻미지근합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨뜻미지근하다
     품사: 형용사
 ---
 000_KEYWORD: 뜨뜻이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90947
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1700,13 +1700,13 @@ imported:
     표제어: 뜨뜻이
     품사: 부사
     항목ID: 90947
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨뜻이
     품사: 부사
 ---
 000_KEYWORD: 뜨뜻하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53958
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1754,13 +1754,13 @@ imported:
       형태: 뜨뜻하니
     - 발음: 뜨뜨탐니다
       형태: 뜨뜻합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨뜻하다
     품사: 형용사
 ---
 000_KEYWORD: 뜨락__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1769,13 +1769,13 @@ imported:
     표제어: 뜨락
     품사: 명사:보통:비서술성
     항목ID: 8003
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨락
     품사: 명사
 ---
 000_KEYWORD: 뜨물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53959
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1802,13 +1802,13 @@ imported:
     표제어: 뜨물
     품사: 명사
     항목ID: 53959
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨물
     품사: 명사
 ---
 000_KEYWORD: 뜨악하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53960
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1847,13 +1847,13 @@ imported:
       형태: 뜨악하니
     - 발음: 뜨아캄니다
       형태: 뜨악합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨악하다
     품사: 형용사
 ---
 000_KEYWORD: 뜨이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53962
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1942,13 +1942,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53962_tteuiyeo.wav
       형태: 뜨이어
     - 형태: 뜨이니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜨이다
     품사: 동사
 ---
 000_KEYWORD: 뜬공__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1958,13 +1958,13 @@ imported:
     표제어: 뜬공
     품사: 명사:보통:서술성
     항목ID: 8005
-processed:
+result:
   맞춤법 검사:
     표제어: 뜬공
     품사: 명사
 ---
 000_KEYWORD: 뜬구름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53964
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2004,13 +2004,13 @@ imported:
     표제어: 뜬구름
     품사: 명사
     항목ID: 53964
-processed:
+result:
   맞춤법 검사:
     표제어: 뜬구름
     품사: 명사
 ---
 000_KEYWORD: 뜬금없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53965
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2056,13 +2056,13 @@ imported:
     - 발음: 뜬그멉찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53965_tteungeumeopjji.wav
       형태: 뜬금없지
-processed:
+result:
   맞춤법 검사:
     표제어: 뜬금없다
     품사: 형용사
 ---
 000_KEYWORD: 뜬금없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53966
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2089,13 +2089,13 @@ imported:
     표제어: 뜬금없이
     품사: 부사
     항목ID: 53966
-processed:
+result:
   맞춤법 검사:
     표제어: 뜬금없이
     품사: 부사
 ---
 000_KEYWORD: 뜬눈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53967
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2123,13 +2123,13 @@ imported:
     표제어: 뜬눈
     품사: 명사
     항목ID: 53967
-processed:
+result:
   맞춤법 검사:
     표제어: 뜬눈
     품사: 명사
 ---
 000_KEYWORD: 뜬소문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53968
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2164,13 +2164,13 @@ imported:
     표제어: 뜬소문
     품사: 명사
     항목ID: 53968
-processed:
+result:
   맞춤법 검사:
     표제어: 뜬소문
     품사: 명사
 ---
 000_KEYWORD: 뜯기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53969
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2271,13 +2271,13 @@ imported:
     - 발음: 뜯끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53969_tteutkkini.wav
       형태: 뜯기니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜯기다
     품사: 동사
 ---
 000_KEYWORD: 뜯기다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53970
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2332,13 +2332,13 @@ imported:
     - 발음: 뜯끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53969_tteutkkini.wav
       형태: 뜯기니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜯기다
     품사: 동사
 ---
 000_KEYWORD: 뜯다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14460
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2462,7 +2462,7 @@ imported:
     - 발음: 뜬는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14460_tteunneun.wav
       형태: 뜯는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -2470,7 +2470,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뜯어고치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54120
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2513,13 +2513,13 @@ imported:
     - 발음: 뜨더고치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54120_tteudeogochini.wav
       형태: 뜯어고치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜯어고치다
     품사: 동사
 ---
 000_KEYWORD: 뜯어내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54124
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2586,17 +2586,17 @@ imported:
     - 발음: 뜨더내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54124_tteudeonaeni.wav
       형태: 뜯어내니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜯어내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뜯어말리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54131
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2637,13 +2637,13 @@ imported:
     - 발음: 뜨더말리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54131_tteudeomallini.wav
       형태: 뜯어말리니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜯어말리다
     품사: 동사
 ---
 000_KEYWORD: 뜯어먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54137
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2681,17 +2681,17 @@ imported:
     - 발음: 뜨더멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54137_tteudeomeongneun.wav
       형태: 뜯어먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 뜯어먹다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뜯어보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54138
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2746,13 +2746,13 @@ imported:
     - 발음: 뜨더보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54138_tteudeoboni.wav
       형태: 뜯어보니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜯어보다
     품사: 동사
 ---
 000_KEYWORD: 뜰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15228
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2782,13 +2782,13 @@ imported:
     표제어: 뜰
     품사: 명사
     항목ID: 15228
-processed:
+result:
   맞춤법 검사:
     표제어: 뜰
     품사: 명사
 ---
 000_KEYWORD: 뜸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54139
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2811,13 +2811,13 @@ imported:
     표제어: 뜸
     품사: 명사
     항목ID: 54139
-processed:
+result:
   맞춤법 검사:
     표제어: 뜸
     품사: 명사
 ---
 000_KEYWORD: 뜸__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54142
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2847,13 +2847,13 @@ imported:
     표제어: 뜸
     품사: 명사
     항목ID: 54142
-processed:
+result:
   맞춤법 검사:
     표제어: 뜸
     품사: 명사
 ---
 000_KEYWORD: 뜸하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54144
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2894,13 +2894,13 @@ imported:
       형태: 뜸하니
     - 발음: 뜸ː함니다
       형태: 뜸합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜸하다
     품사: 형용사
 ---
 000_KEYWORD: 뜻__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=43785
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2987,13 +2987,13 @@ imported:
     - 발음: 뜬만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/43785_tteunman.wav
       형태: 뜻만
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻
     품사: 명사
 ---
 000_KEYWORD: 뜻글자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54145
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3026,13 +3026,13 @@ imported:
     표제어: 뜻글자
     품사: 명사
     항목ID: 54145
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻글자
     품사: 명사
 ---
 000_KEYWORD: 뜻깊다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54147
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3071,13 +3071,13 @@ imported:
       형태: 뜯깊으니
     - 발음: 뜯낍씀니다
       형태: 뜻깊습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻깊다
     품사: 형용사
 ---
 000_KEYWORD: 뜻대로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28109
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3112,13 +3112,13 @@ imported:
     표제어: 뜻대로
     품사: 부사
     항목ID: 28109
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻대로
     품사: 부사
 ---
 000_KEYWORD: 뜻밖__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15231
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3159,13 +3159,13 @@ imported:
     - 발음: 뜯빵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15231_tteutppangman.wav
       형태: 뜻밖만
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻밖
     품사: 명사
 ---
 000_KEYWORD: 뜻밖에__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15234
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3197,13 +3197,13 @@ imported:
     표제어: 뜻밖에
     품사: 부사
     항목ID: 15234
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻밖에
     품사: 부사
 ---
 000_KEYWORD: 뜻있다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90387
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3263,13 +3263,13 @@ imported:
       형태: 뜻있으니
     - 발음: 뜨딛씀니다
       형태: 뜻있습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻있다
     품사: 형용사
 ---
 000_KEYWORD: 뜻풀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54149
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3297,13 +3297,13 @@ imported:
     표제어: 뜻풀이
     품사: 명사
     항목ID: 54149
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻풀이
     품사: 명사
 ---
 000_KEYWORD: 뜻풀이되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90948
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3333,13 +3333,13 @@ imported:
     표제어: 뜻풀이되다
     품사: 동사
     항목ID: 90948
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻풀이되다
     품사: 동사
 ---
 000_KEYWORD: 뜻풀이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54150
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3367,13 +3367,13 @@ imported:
     표제어: 뜻풀이하다
     품사: 동사
     항목ID: 54150
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻풀이하다
     품사: 동사
 ---
 000_KEYWORD: 뜻하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15236
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3430,7 +3430,7 @@ imported:
     표제어: 뜻하다
     품사: 동사
     항목ID: 15236
-processed:
+result:
   맞춤법 검사:
     표제어: 뜻하다
     품사: 동사

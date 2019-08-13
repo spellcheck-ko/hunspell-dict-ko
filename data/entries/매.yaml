@@ -1,5 +1,5 @@
 000_KEYWORD: -매__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86085
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -22,11 +22,11 @@ imported:
     표제어: -매
     품사: 어미
     항목ID: 86085
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -매__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74930
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -45,11 +45,11 @@ imported:
     표제어: -매
     품사: 접사
     항목ID: 74930
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 매__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57240
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -78,13 +78,13 @@ imported:
     표제어: 매
     품사: 관형사
     항목ID: 57240
-processed:
+result:
   맞춤법 검사:
     표제어: 매
     품사: 관형사
 ---
 000_KEYWORD: 매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15944
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -111,13 +111,13 @@ imported:
     표제어: 매
     품사: 명사
     항목ID: 15944
-processed:
+result:
   맞춤법 검사:
     표제어: 매
     품사: 명사
 ---
 000_KEYWORD: 매__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57239
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -151,13 +151,13 @@ imported:
     표제어: 매
     품사: 명사
     항목ID: 57239
-processed:
+result:
   맞춤법 검사:
     표제어: 매
     품사: 명사
 ---
 000_KEYWORD: 매__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57241
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -189,13 +189,13 @@ imported:
     표제어: 매
     품사: 의존 명사
     항목ID: 57241
-processed:
+result:
   맞춤법 검사:
     표제어: 매
     품사: 의존 명사
 ---
 000_KEYWORD: 매가리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -205,13 +205,13 @@ imported:
     표제어: 매가리
     품사: 명사:보통:서술성
     항목ID: 8672
-processed:
+result:
   맞춤법 검사:
     표제어: 매가리
     품사: 명사
 ---
 000_KEYWORD: 매각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57248
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -251,13 +251,13 @@ imported:
     - 발음: 매ː강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/57248_mae-gangman.wav
       형태: 매각만
-processed:
+result:
   맞춤법 검사:
     표제어: 매각
     품사: 명사
 ---
 000_KEYWORD: 매각되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57249
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -287,13 +287,13 @@ imported:
     표제어: 매각되다
     품사: 동사
     항목ID: 57249
-processed:
+result:
   맞춤법 검사:
     표제어: 매각되다
     품사: 동사
 ---
 000_KEYWORD: 매각하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57250
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -321,13 +321,13 @@ imported:
     표제어: 매각하다
     품사: 동사
     항목ID: 57250
-processed:
+result:
   맞춤법 검사:
     표제어: 매각하다
     품사: 동사
 ---
 000_KEYWORD: 매개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57447
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -352,13 +352,13 @@ imported:
     표제어: 매개
     품사: 명사
     항목ID: 57447
-processed:
+result:
   맞춤법 검사:
     표제어: 매개
     품사: 명사
 ---
 000_KEYWORD: 매개물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57448
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -388,13 +388,13 @@ imported:
     표제어: 매개물
     품사: 명사
     항목ID: 57448
-processed:
+result:
   맞춤법 검사:
     표제어: 매개물
     품사: 명사
 ---
 000_KEYWORD: 매개변수__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -404,13 +404,13 @@ imported:
     표제어: 매개변수
     품사: 명사:보통:비서술성
     항목ID: 8677
-processed:
+result:
   맞춤법 검사:
     표제어: 매개변수
     품사: 명사
 ---
 000_KEYWORD: 매개자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57449
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -435,13 +435,13 @@ imported:
     표제어: 매개자
     품사: 명사
     항목ID: 57449
-processed:
+result:
   맞춤법 검사:
     표제어: 매개자
     품사: 명사
 ---
 000_KEYWORD: 매개체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57450
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -473,13 +473,13 @@ imported:
     표제어: 매개체
     품사: 명사
     항목ID: 57450
-processed:
+result:
   맞춤법 검사:
     표제어: 매개체
     품사: 명사
 ---
 000_KEYWORD: 매개하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57451
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -508,13 +508,13 @@ imported:
     표제어: 매개하다
     품사: 동사
     항목ID: 57451
-processed:
+result:
   맞춤법 검사:
     표제어: 매개하다
     품사: 동사
 ---
 000_KEYWORD: 매관매직__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57446
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -550,13 +550,13 @@ imported:
     - 발음: 매ː관매ː징만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/57446_mae-gwanmae-jingman.wav
       형태: 매관매직만
-processed:
+result:
   맞춤법 검사:
     표제어: 매관매직
     품사: 명사
 ---
 000_KEYWORD: 매국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57266
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -590,13 +590,13 @@ imported:
     - 발음: 매ː궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/57266_mae-gungman.wav
       형태: 매국만
-processed:
+result:
   맞춤법 검사:
     표제어: 매국
     품사: 명사
 ---
 000_KEYWORD: 매국노__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57267
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -621,13 +621,13 @@ imported:
     표제어: 매국노
     품사: 명사
     항목ID: 57267
-processed:
+result:
   맞춤법 검사:
     표제어: 매국노
     품사: 명사
 ---
 000_KEYWORD: 매기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57264
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -653,13 +653,13 @@ imported:
     표제어: 매기
     품사: 명사
     항목ID: 57264
-processed:
+result:
   맞춤법 검사:
     표제어: 매기
     품사: 명사
 ---
 000_KEYWORD: 매기__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57265
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -685,13 +685,13 @@ imported:
     표제어: 매기
     품사: 부사
     항목ID: 57265
-processed:
+result:
   맞춤법 검사:
     표제어: 매기
     품사: 부사
 ---
 000_KEYWORD: 매기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57445
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -730,13 +730,13 @@ imported:
     - 발음: 매김니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/mieum_2006/maegida.wav
       형태: 매깁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매기다
     품사: 동사
 ---
 000_KEYWORD: 매끄럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57475
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -806,7 +806,7 @@ imported:
       형태: 매끄러우니
     - 발음: 매끄럽씀니다
       형태: 매끄럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -814,7 +814,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 매끈거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57476
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -849,13 +849,13 @@ imported:
     표제어: 매끈거리다
     품사: 동사
     항목ID: 57476
-processed:
+result:
   맞춤법 검사:
     표제어: 매끈거리다
     품사: 동사
 ---
 000_KEYWORD: 매끈대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89643
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -886,13 +886,13 @@ imported:
     표제어: 매끈대다
     품사: 동사
     항목ID: 89643
-processed:
+result:
   맞춤법 검사:
     표제어: 매끈대다
     품사: 동사
 ---
 000_KEYWORD: 매끈매끈__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57477
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -921,13 +921,13 @@ imported:
     표제어: 매끈매끈
     품사: 부사
     항목ID: 57477
-processed:
+result:
   맞춤법 검사:
     표제어: 매끈매끈
     품사: 부사
 ---
 000_KEYWORD: 매끈매끈하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57478
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -965,13 +965,13 @@ imported:
       형태: 매끈매끈하니
     - 발음: 매끈매끈함니다
       형태: 매끈매끈합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매끈매끈하다
     품사: 형용사
 ---
 000_KEYWORD: 매끈하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57479
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1022,13 +1022,13 @@ imported:
     - 발음: 매끈함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57479_maekkeunhamnida.wav
       형태: 매끈합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매끈하다
     품사: 형용사
 ---
 000_KEYWORD: 매끈히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91112
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1068,13 +1068,13 @@ imported:
     표제어: 매끈히
     품사: 부사
     항목ID: 91112
-processed:
+result:
   맞춤법 검사:
     표제어: 매끈히
     품사: 부사
 ---
 000_KEYWORD: 매끌매끌하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57480
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1112,13 +1112,13 @@ imported:
       형태: 매끌매끌하니
     - 발음: 매끌매끌함니다
       형태: 매끌매끌합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매끌매끌하다
     품사: 형용사
 ---
 000_KEYWORD: 매끼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57260
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1144,13 +1144,13 @@ imported:
     표제어: 매끼
     품사: 명사
     항목ID: 57260
-processed:
+result:
   맞춤법 검사:
     표제어: 매끼
     품사: 명사
 ---
 000_KEYWORD: 매끼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57261
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1176,13 +1176,13 @@ imported:
     표제어: 매끼
     품사: 부사
     항목ID: 57261
-processed:
+result:
   맞춤법 검사:
     표제어: 매끼
     품사: 부사
 ---
 000_KEYWORD: 매너__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15947
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1207,13 +1207,13 @@ imported:
     표제어: 매너
     품사: 명사
     항목ID: 15947
-processed:
+result:
   맞춤법 검사:
     표제어: 매너
     품사: 명사
 ---
 000_KEYWORD: 매너리즘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51743
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1242,13 +1242,13 @@ imported:
     표제어: 매너리즘
     품사: 명사
     항목ID: 51743
-processed:
+result:
   맞춤법 검사:
     표제어: 매너리즘
     품사: 명사
 ---
 000_KEYWORD: 매년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51746
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1278,13 +1278,13 @@ imported:
     표제어: 매년
     품사: 명사
     항목ID: 51746
-processed:
+result:
   맞춤법 검사:
     표제어: 매년
     품사: 명사
 ---
 000_KEYWORD: 매년__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51749
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1322,13 +1322,13 @@ imported:
     표제어: 매년
     품사: 부사
     항목ID: 51749
-processed:
+result:
   맞춤법 검사:
     표제어: 매년
     품사: 부사
 ---
 000_KEYWORD: 매뉴얼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1337,13 +1337,13 @@ imported:
     표제어: 매뉴얼
     품사: 명사:보통:비서술성
     항목ID: 8687
-processed:
+result:
   맞춤법 검사:
     표제어: 매뉴얼
     품사: 명사
 ---
 000_KEYWORD: 매니저__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51752
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1401,13 +1401,13 @@ imported:
     표제어: 매니저
     품사: 명사
     항목ID: 51752
-processed:
+result:
   맞춤법 검사:
     표제어: 매니저
     품사: 명사
 ---
 000_KEYWORD: 매니큐어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51758
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1437,13 +1437,13 @@ imported:
     표제어: 매니큐어
     품사: 명사
     항목ID: 51758
-processed:
+result:
   맞춤법 검사:
     표제어: 매니큐어
     품사: 명사
 ---
 000_KEYWORD: 매다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26487
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1544,13 +1544,13 @@ imported:
     - 발음: 매ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/mieum_2006/mae-ni.wav
       형태: 매니
-processed:
+result:
   맞춤법 검사:
     표제어: 매다
     품사: 동사
 ---
 000_KEYWORD: 매다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51762
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1587,13 +1587,13 @@ imported:
     - 발음: 매ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/51762_mae-ni.wav
       형태: 매니
-processed:
+result:
   맞춤법 검사:
     표제어: 매다
     품사: 동사
 ---
 000_KEYWORD: 매달__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91115
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1626,13 +1626,13 @@ imported:
     표제어: 매달
     품사: 명사
     항목ID: 91115
-processed:
+result:
   맞춤법 검사:
     표제어: 매달
     품사: 명사
 ---
 000_KEYWORD: 매달__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15926
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1669,13 +1669,13 @@ imported:
     표제어: 매달
     품사: 부사
     항목ID: 15926
-processed:
+result:
   맞춤법 검사:
     표제어: 매달
     품사: 부사
 ---
 000_KEYWORD: 매달다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15950
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1723,13 +1723,13 @@ imported:
     - 발음: 매ː담니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/15950_mae-damnida.wav
       형태: 매답니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매달다
     품사: 동사
 ---
 000_KEYWORD: 매달리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15970
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1822,13 +1822,13 @@ imported:
     - 발음: 매ː달리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/15970_mae-dallini.wav
       형태: 매달리니
-processed:
+result:
   맞춤법 검사:
     표제어: 매달리다
     품사: 동사
 ---
 000_KEYWORD: 매도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51773
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1855,13 +1855,13 @@ imported:
     표제어: 매도
     품사: 명사
     항목ID: 51773
-processed:
+result:
   맞춤법 검사:
     표제어: 매도
     품사: 명사
 ---
 000_KEYWORD: 매도__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51775
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1895,13 +1895,13 @@ imported:
     표제어: 매도
     품사: 명사
     항목ID: 51775
-processed:
+result:
   맞춤법 검사:
     표제어: 매도
     품사: 명사
 ---
 000_KEYWORD: 매도인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51849
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1933,13 +1933,13 @@ imported:
     표제어: 매도인
     품사: 명사
     항목ID: 51849
-processed:
+result:
   맞춤법 검사:
     표제어: 매도인
     품사: 명사
 ---
 000_KEYWORD: 매도하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51878
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1970,13 +1970,13 @@ imported:
     표제어: 매도하다
     품사: 동사
     항목ID: 51878
-processed:
+result:
   맞춤법 검사:
     표제어: 매도하다
     품사: 동사
 ---
 000_KEYWORD: 매도하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51853
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2007,13 +2007,13 @@ imported:
     표제어: 매도하다
     품사: 동사
     항목ID: 51853
-processed:
+result:
   맞춤법 검사:
     표제어: 매도하다
     품사: 동사
 ---
 000_KEYWORD: 매듭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55563
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2095,13 +2095,13 @@ imported:
     - 발음: 매듬만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55563_maedeumman.wav
       형태: 매듭만
-processed:
+result:
   맞춤법 검사:
     표제어: 매듭
     품사: 명사
 ---
 000_KEYWORD: 매듭짓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55564
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2162,7 +2162,7 @@ imported:
     - 발음: 매듭찐는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55564_maedeupjjinneun.wav
       형태: 매듭짓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -2170,7 +2170,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 매력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52056
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2217,13 +2217,13 @@ imported:
     - 발음: 매령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/52056_maeryeongman.wav
       형태: 매력만
-processed:
+result:
   맞춤법 검사:
     표제어: 매력
     품사: 명사
 ---
 000_KEYWORD: 매력적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52057
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2254,13 +2254,13 @@ imported:
     표제어: 매력적
     품사: 관형사
     항목ID: 52057
-processed:
+result:
   맞춤법 검사:
     표제어: 매력적
     품사: 관형사
 ---
 000_KEYWORD: 매력적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52058
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2293,13 +2293,13 @@ imported:
     표제어: 매력적
     품사: 명사
     항목ID: 52058
-processed:
+result:
   맞춤법 검사:
     표제어: 매력적
     품사: 명사
 ---
 000_KEYWORD: 매료__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2308,13 +2308,13 @@ imported:
     표제어: 매료
     품사: 명사:보통:서술성
     항목ID: 8700
-processed:
+result:
   맞춤법 검사:
     표제어: 매료
     품사: 명사
 ---
 000_KEYWORD: 매료당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85367
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2348,13 +2348,13 @@ imported:
     표제어: 매료당하다
     품사: 동사
     항목ID: 85367
-processed:
+result:
   맞춤법 검사:
     표제어: 매료당하다
     품사: 동사
 ---
 000_KEYWORD: 매료되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55566
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2398,13 +2398,13 @@ imported:
     표제어: 매료되다
     품사: 동사
     항목ID: 55566
-processed:
+result:
   맞춤법 검사:
     표제어: 매료되다
     품사: 동사
 ---
 000_KEYWORD: 매료시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85430
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2434,13 +2434,13 @@ imported:
     표제어: 매료시키다
     품사: 동사
     항목ID: 85430
-processed:
+result:
   맞춤법 검사:
     표제어: 매료시키다
     품사: 동사
 ---
 000_KEYWORD: 매료하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55567
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2477,13 +2477,13 @@ imported:
     표제어: 매료하다
     품사: 동사
     항목ID: 55567
-processed:
+result:
   맞춤법 검사:
     표제어: 매료하다
     품사: 동사
 ---
 000_KEYWORD: 매립__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55568
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2534,13 +2534,13 @@ imported:
     - 발음: 매림만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/55568_maerimman.wav
       형태: 매립만
-processed:
+result:
   맞춤법 검사:
     표제어: 매립
     품사: 명사
 ---
 000_KEYWORD: 매립장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55571
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2569,13 +2569,13 @@ imported:
     표제어: 매립장
     품사: 명사
     항목ID: 55571
-processed:
+result:
   맞춤법 검사:
     표제어: 매립장
     품사: 명사
 ---
 000_KEYWORD: 매립지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55572
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2615,13 +2615,13 @@ imported:
     표제어: 매립지
     품사: 명사
     항목ID: 55572
-processed:
+result:
   맞춤법 검사:
     표제어: 매립지
     품사: 명사
 ---
 000_KEYWORD: 매립하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55574
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2665,13 +2665,13 @@ imported:
     표제어: 매립하다
     품사: 동사
     항목ID: 55574
-processed:
+result:
   맞춤법 검사:
     표제어: 매립하다
     품사: 동사
 ---
 000_KEYWORD: 매만지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55542
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2725,13 +2725,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/55542_maemanjeo.wav
       형태: 매만져
     - 형태: 매만지니
-processed:
+result:
   맞춤법 검사:
     표제어: 매만지다
     품사: 동사
 ---
 000_KEYWORD: 매매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55543
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2767,13 +2767,13 @@ imported:
     표제어: 매매
     품사: 명사
     항목ID: 55543
-processed:
+result:
   맞춤법 검사:
     표제어: 매매
     품사: 명사
 ---
 000_KEYWORD: 매매되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55544
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2805,13 +2805,13 @@ imported:
     표제어: 매매되다
     품사: 동사
     항목ID: 55544
-processed:
+result:
   맞춤법 검사:
     표제어: 매매되다
     품사: 동사
 ---
 000_KEYWORD: 매매하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55545
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2841,13 +2841,13 @@ imported:
     표제어: 매매하다
     품사: 동사
     항목ID: 55545
-processed:
+result:
   맞춤법 검사:
     표제어: 매매하다
     품사: 동사
 ---
 000_KEYWORD: 매머드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55546
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2870,13 +2870,13 @@ imported:
     표제어: 매머드
     품사: 명사
     항목ID: 55546
-processed:
+result:
   맞춤법 검사:
     표제어: 매머드
     품사: 명사
 ---
 000_KEYWORD: 매몰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55547
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2904,13 +2904,13 @@ imported:
     표제어: 매몰
     품사: 명사
     항목ID: 55547
-processed:
+result:
   맞춤법 검사:
     표제어: 매몰
     품사: 명사
 ---
 000_KEYWORD: 매몰되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55548
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2944,13 +2944,13 @@ imported:
     표제어: 매몰되다
     품사: 동사
     항목ID: 55548
-processed:
+result:
   맞춤법 검사:
     표제어: 매몰되다
     품사: 동사
 ---
 000_KEYWORD: 매몰자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55549
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2979,13 +2979,13 @@ imported:
     표제어: 매몰자
     품사: 명사
     항목ID: 55549
-processed:
+result:
   맞춤법 검사:
     표제어: 매몰자
     품사: 명사
 ---
 000_KEYWORD: 매몰차다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55550
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3030,13 +3030,13 @@ imported:
       형태: 매몰차니
     - 발음: 매몰참니다
       형태: 매몰찹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매몰차다
     품사: 형용사
 ---
 000_KEYWORD: 매몰하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55551
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3066,13 +3066,13 @@ imported:
     표제어: 매몰하다
     품사: 동사
     항목ID: 55551
-processed:
+result:
   맞춤법 검사:
     표제어: 매몰하다
     품사: 동사
 ---
 000_KEYWORD: 매무새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55552
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3106,13 +3106,13 @@ imported:
     표제어: 매무새
     품사: 명사
     항목ID: 55552
-processed:
+result:
   맞춤법 검사:
     표제어: 매무새
     품사: 명사
 ---
 000_KEYWORD: 매무시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55553
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3138,13 +3138,13 @@ imported:
     표제어: 매무시
     품사: 명사
     항목ID: 55553
-processed:
+result:
   맞춤법 검사:
     표제어: 매무시
     품사: 명사
 ---
 000_KEYWORD: 매물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55555
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3174,13 +3174,13 @@ imported:
     표제어: 매물
     품사: 명사
     항목ID: 55555
-processed:
+result:
   맞춤법 검사:
     표제어: 매물
     품사: 명사
 ---
 000_KEYWORD: 매미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55556
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3210,13 +3210,13 @@ imported:
     표제어: 매미
     품사: 명사
     항목ID: 55556
-processed:
+result:
   맞춤법 검사:
     표제어: 매미
     품사: 명사
 ---
 000_KEYWORD: 매번__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91116
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3243,13 +3243,13 @@ imported:
     표제어: 매번
     품사: 명사
     항목ID: 91116
-processed:
+result:
   맞춤법 검사:
     표제어: 매번
     품사: 명사
 ---
 000_KEYWORD: 매번__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15974
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3281,13 +3281,13 @@ imported:
     표제어: 매번
     품사: 부사
     항목ID: 15974
-processed:
+result:
   맞춤법 검사:
     표제어: 매번
     품사: 부사
 ---
 000_KEYWORD: 매복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55557
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3327,13 +3327,13 @@ imported:
     - 발음: 매봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/55557_maebongman.wav
       형태: 매복만
-processed:
+result:
   맞춤법 검사:
     표제어: 매복
     품사: 명사
 ---
 000_KEYWORD: 매복하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55558
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3363,13 +3363,13 @@ imported:
     표제어: 매복하다
     품사: 동사
     항목ID: 55558
-processed:
+result:
   맞춤법 검사:
     표제어: 매복하다
     품사: 동사
 ---
 000_KEYWORD: 매부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55559
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3395,13 +3395,13 @@ imported:
     표제어: 매부
     품사: 명사
     항목ID: 55559
-processed:
+result:
   맞춤법 검사:
     표제어: 매부
     품사: 명사
 ---
 000_KEYWORD: 매부리코__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55560
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3426,13 +3426,13 @@ imported:
     표제어: 매부리코
     품사: 명사
     항목ID: 55560
-processed:
+result:
   맞춤법 검사:
     표제어: 매부리코
     품사: 명사
 ---
 000_KEYWORD: 매사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55561
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3463,13 +3463,13 @@ imported:
     표제어: 매사
     품사: 명사
     항목ID: 55561
-processed:
+result:
   맞춤법 검사:
     표제어: 매사
     품사: 명사
 ---
 000_KEYWORD: 매사__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55562
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3500,13 +3500,13 @@ imported:
     표제어: 매사
     품사: 부사
     항목ID: 55562
-processed:
+result:
   맞춤법 검사:
     표제어: 매사
     품사: 부사
 ---
 000_KEYWORD: 매사추세츠__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3516,13 +3516,13 @@ imported:
     표제어: 매사추세츠
     품사: 명사:고유
     항목ID: 8721
-processed:
+result:
   맞춤법 검사:
     표제어: 매사추세츠
     품사: 명사
 ---
 000_KEYWORD: 매상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55595
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3573,13 +3573,13 @@ imported:
     표제어: 매상
     품사: 명사
     항목ID: 55595
-processed:
+result:
   맞춤법 검사:
     표제어: 매상
     품사: 명사
 ---
 000_KEYWORD: 매상액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55597
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3625,13 +3625,13 @@ imported:
     - 발음: 매ː상앵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/55597_mae-sangaengman.wav
       형태: 매상액만
-processed:
+result:
   맞춤법 검사:
     표제어: 매상액
     품사: 명사
 ---
 000_KEYWORD: 매설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55598
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3660,13 +3660,13 @@ imported:
     표제어: 매설
     품사: 명사
     항목ID: 55598
-processed:
+result:
   맞춤법 검사:
     표제어: 매설
     품사: 명사
 ---
 000_KEYWORD: 매설되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91129
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3696,13 +3696,13 @@ imported:
     표제어: 매설되다
     품사: 동사
     항목ID: 91129
-processed:
+result:
   맞춤법 검사:
     표제어: 매설되다
     품사: 동사
 ---
 000_KEYWORD: 매설하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55599
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3731,13 +3731,13 @@ imported:
     표제어: 매설하다
     품사: 동사
     항목ID: 55599
-processed:
+result:
   맞춤법 검사:
     표제어: 매설하다
     품사: 동사
 ---
 000_KEYWORD: 매섭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55600
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3799,7 +3799,7 @@ imported:
     - 발음: 매섭씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55600_maeseopsseumnida.wav
       형태: 매섭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -3807,7 +3807,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 매수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55601
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3834,13 +3834,13 @@ imported:
     표제어: 매수
     품사: 명사
     항목ID: 55601
-processed:
+result:
   맞춤법 검사:
     표제어: 매수
     품사: 명사
 ---
 000_KEYWORD: 매수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55602
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3880,13 +3880,13 @@ imported:
     표제어: 매수
     품사: 명사
     항목ID: 55602
-processed:
+result:
   맞춤법 검사:
     표제어: 매수
     품사: 명사
 ---
 000_KEYWORD: 매수되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55603
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3930,13 +3930,13 @@ imported:
     표제어: 매수되다
     품사: 동사
     항목ID: 55603
-processed:
+result:
   맞춤법 검사:
     표제어: 매수되다
     품사: 동사
 ---
 000_KEYWORD: 매수세__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3945,13 +3945,13 @@ imported:
     표제어: 매수세
     품사: 명사:보통:서술성
     항목ID: 8726
-processed:
+result:
   맞춤법 검사:
     표제어: 매수세
     품사: 명사
 ---
 000_KEYWORD: 매수인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55606
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3981,13 +3981,13 @@ imported:
     표제어: 매수인
     품사: 명사
     항목ID: 55606
-processed:
+result:
   맞춤법 검사:
     표제어: 매수인
     품사: 명사
 ---
 000_KEYWORD: 매수하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55607
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4030,13 +4030,13 @@ imported:
     표제어: 매수하다
     품사: 동사
     항목ID: 55607
-processed:
+result:
   맞춤법 검사:
     표제어: 매수하다
     품사: 동사
 ---
 000_KEYWORD: 매스껍다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55609
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4095,7 +4095,7 @@ imported:
     - 발음: 매스껍씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55609_maeseukkeopsseumnida.wav
       형태: 매스껍습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -4103,7 +4103,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 매스컴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15928
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4128,13 +4128,13 @@ imported:
     표제어: 매스컴
     품사: 명사
     항목ID: 15928
-processed:
+result:
   맞춤법 검사:
     표제어: 매스컴
     품사: 명사
 ---
 000_KEYWORD: 매시간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55610
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4159,13 +4159,13 @@ imported:
     표제어: 매시간
     품사: 명사
     항목ID: 55610
-processed:
+result:
   맞춤법 검사:
     표제어: 매시간
     품사: 명사
 ---
 000_KEYWORD: 매시간__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55611
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4193,13 +4193,13 @@ imported:
     표제어: 매시간
     품사: 부사
     항목ID: 55611
-processed:
+result:
   맞춤법 검사:
     표제어: 매시간
     품사: 부사
 ---
 000_KEYWORD: 매식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55702
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4239,13 +4239,13 @@ imported:
     - 발음: 매ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/55702_mae-singman.wav
       형태: 매식만
-processed:
+result:
   맞춤법 검사:
     표제어: 매식
     품사: 명사
 ---
 000_KEYWORD: 매식하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55703
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4278,13 +4278,13 @@ imported:
     표제어: 매식하다
     품사: 동사
     항목ID: 55703
-processed:
+result:
   맞춤법 검사:
     표제어: 매식하다
     품사: 동사
 ---
 000_KEYWORD: 매실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55704
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4314,13 +4314,13 @@ imported:
     표제어: 매실
     품사: 명사
     항목ID: 55704
-processed:
+result:
   맞춤법 검사:
     표제어: 매실
     품사: 명사
 ---
 000_KEYWORD: 매실주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55705
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4351,13 +4351,13 @@ imported:
     표제어: 매실주
     품사: 명사
     항목ID: 55705
-processed:
+result:
   맞춤법 검사:
     표제어: 매실주
     품사: 명사
 ---
 000_KEYWORD: 매양__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55706
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4389,13 +4389,13 @@ imported:
     표제어: 매양
     품사: 부사
     항목ID: 55706
-processed:
+result:
   맞춤법 검사:
     표제어: 매양
     품사: 부사
 ---
 000_KEYWORD: 매연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55707
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4428,13 +4428,13 @@ imported:
     표제어: 매연
     품사: 명사
     항목ID: 55707
-processed:
+result:
   맞춤법 검사:
     표제어: 매연
     품사: 명사
 ---
 000_KEYWORD: 매우__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61510
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4470,13 +4470,13 @@ imported:
     표제어: 매우
     품사: 부사
     항목ID: 61510
-processed:
+result:
   맞춤법 검사:
     표제어: 매우
     품사: 부사
 ---
 000_KEYWORD: 매운맛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55708
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4525,13 +4525,13 @@ imported:
     - 발음: 매운만만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55708_maeunmanman.wav
       형태: 매운맛만
-processed:
+result:
   맞춤법 검사:
     표제어: 매운맛
     품사: 명사
 ---
 000_KEYWORD: 매운탕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55709
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4565,13 +4565,13 @@ imported:
     표제어: 매운탕
     품사: 명사
     항목ID: 55709
-processed:
+result:
   맞춤법 검사:
     표제어: 매운탕
     품사: 명사
 ---
 000_KEYWORD: 매월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55710
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4602,13 +4602,13 @@ imported:
     표제어: 매월
     품사: 명사
     항목ID: 55710
-processed:
+result:
   맞춤법 검사:
     표제어: 매월
     품사: 명사
 ---
 000_KEYWORD: 매월__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55711
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4643,13 +4643,13 @@ imported:
     표제어: 매월
     품사: 부사
     항목ID: 55711
-processed:
+result:
   맞춤법 검사:
     표제어: 매월
     품사: 부사
 ---
 000_KEYWORD: 매음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55712
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4680,13 +4680,13 @@ imported:
     표제어: 매음
     품사: 명사
     항목ID: 55712
-processed:
+result:
   맞춤법 검사:
     표제어: 매음
     품사: 명사
 ---
 000_KEYWORD: 매이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55713
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4775,13 +4775,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55713_maeiyeo.wav
       형태: 매이어
     - 형태: 매이니
-processed:
+result:
   맞춤법 검사:
     표제어: 매이다
     품사: 동사
 ---
 000_KEYWORD: 매일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58103
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4815,13 +4815,13 @@ imported:
     표제어: 매일
     품사: 명사
     항목ID: 58103
-processed:
+result:
   맞춤법 검사:
     표제어: 매일
     품사: 명사
 ---
 000_KEYWORD: 매일__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58104
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4856,13 +4856,13 @@ imported:
     표제어: 매일
     품사: 부사
     항목ID: 58104
-processed:
+result:
   맞춤법 검사:
     표제어: 매일
     품사: 부사
 ---
 000_KEYWORD: 매일매일__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4872,13 +4872,13 @@ imported:
     표제어: 매일매일
     품사: 명사:보통:서술성
     항목ID: 8738
-processed:
+result:
   맞춤법 검사:
     표제어: 매일매일
     품사: 명사
 ---
 000_KEYWORD: 매일매일__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4888,13 +4888,13 @@ imported:
     표제어: 매일매일
     품사: 부사
     항목ID: 8737
-processed:
+result:
   맞춤법 검사:
     표제어: 매일매일
     품사: 부사
 ---
 000_KEYWORD: 매일반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55714
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4924,13 +4924,13 @@ imported:
     표제어: 매일반
     품사: 명사
     항목ID: 55714
-processed:
+result:
   맞춤법 검사:
     표제어: 매일반
     품사: 명사
 ---
 000_KEYWORD: 매입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55715
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4975,13 +4975,13 @@ imported:
     - 발음: 매ː임만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/55715_mae-imman.wav
       형태: 매입만
-processed:
+result:
   맞춤법 검사:
     표제어: 매입
     품사: 명사
 ---
 000_KEYWORD: 매입되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91135
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5011,13 +5011,13 @@ imported:
     표제어: 매입되다
     품사: 동사
     항목ID: 91135
-processed:
+result:
   맞춤법 검사:
     표제어: 매입되다
     품사: 동사
 ---
 000_KEYWORD: 매입하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55716
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5046,13 +5046,13 @@ imported:
     표제어: 매입하다
     품사: 동사
     항목ID: 55716
-processed:
+result:
   맞춤법 검사:
     표제어: 매입하다
     품사: 동사
 ---
 000_KEYWORD: 매장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55718
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5090,13 +5090,13 @@ imported:
     표제어: 매장
     품사: 명사
     항목ID: 55718
-processed:
+result:
   맞춤법 검사:
     표제어: 매장
     품사: 명사
 ---
 000_KEYWORD: 매장__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55719
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5132,13 +5132,13 @@ imported:
     표제어: 매장
     품사: 명사
     항목ID: 55719
-processed:
+result:
   맞춤법 검사:
     표제어: 매장
     품사: 명사
 ---
 000_KEYWORD: 매장__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15929
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5168,13 +5168,13 @@ imported:
     표제어: 매장
     품사: 명사
     항목ID: 15929
-processed:
+result:
   맞춤법 검사:
     표제어: 매장
     품사: 명사
 ---
 000_KEYWORD: 매장되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55720
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5219,13 +5219,13 @@ imported:
     표제어: 매장되다
     품사: 동사
     항목ID: 55720
-processed:
+result:
   맞춤법 검사:
     표제어: 매장되다
     품사: 동사
 ---
 000_KEYWORD: 매장되다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55721
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5270,13 +5270,13 @@ imported:
     표제어: 매장되다
     품사: 동사
     항목ID: 55721
-processed:
+result:
   맞춤법 검사:
     표제어: 매장되다
     품사: 동사
 ---
 000_KEYWORD: 매장량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55722
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5302,13 +5302,13 @@ imported:
     표제어: 매장량
     품사: 명사
     항목ID: 55722
-processed:
+result:
   맞춤법 검사:
     표제어: 매장량
     품사: 명사
 ---
 000_KEYWORD: 매장문화재__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5318,13 +5318,13 @@ imported:
     표제어: 매장문화재
     품사: 명사:보통:비서술성
     항목ID: 8744
-processed:
+result:
   맞춤법 검사:
     표제어: 매장문화재
     품사: 명사
 ---
 000_KEYWORD: 매장하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55723
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5367,13 +5367,13 @@ imported:
     표제어: 매장하다
     품사: 동사
     항목ID: 55723
-processed:
+result:
   맞춤법 검사:
     표제어: 매장하다
     품사: 동사
 ---
 000_KEYWORD: 매장하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55724
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5401,13 +5401,13 @@ imported:
     표제어: 매장하다
     품사: 동사
     항목ID: 55724
-processed:
+result:
   맞춤법 검사:
     표제어: 매장하다
     품사: 동사
 ---
 000_KEYWORD: 매점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55725
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5440,13 +5440,13 @@ imported:
     표제어: 매점
     품사: 명사
     항목ID: 55725
-processed:
+result:
   맞춤법 검사:
     표제어: 매점
     품사: 명사
 ---
 000_KEYWORD: 매점매석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55726
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5482,13 +5482,13 @@ imported:
     - 발음: 매ː점매성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55726_mae-jeommaeseongman.wav
       형태: 매점매석만
-processed:
+result:
   맞춤법 검사:
     표제어: 매점매석
     품사: 명사
 ---
 000_KEYWORD: 매정하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55727
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5532,13 +5532,13 @@ imported:
     - 발음: 매정함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55727_maejeonghamnida.wav
       형태: 매정합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매정하다
     품사: 형용사
 ---
 000_KEYWORD: 매정히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91131
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5565,13 +5565,13 @@ imported:
     표제어: 매정히
     품사: 부사
     항목ID: 91131
-processed:
+result:
   맞춤법 검사:
     표제어: 매정히
     품사: 부사
 ---
 000_KEYWORD: 매제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55728
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5606,13 +5606,13 @@ imported:
     표제어: 매제
     품사: 명사
     항목ID: 55728
-processed:
+result:
   맞춤법 검사:
     표제어: 매제
     품사: 명사
 ---
 000_KEYWORD: 매주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91132
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5642,13 +5642,13 @@ imported:
     표제어: 매주
     품사: 명사
     항목ID: 91132
-processed:
+result:
   맞춤법 검사:
     표제어: 매주
     품사: 명사
 ---
 000_KEYWORD: 매주__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15931
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5678,13 +5678,13 @@ imported:
     표제어: 매주
     품사: 부사
     항목ID: 15931
-processed:
+result:
   맞춤법 검사:
     표제어: 매주
     품사: 부사
 ---
 000_KEYWORD: 매직__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5695,13 +5695,13 @@ imported:
     표제어: 매직
     품사: 명사:보통:비서술성
     항목ID: 8750
-processed:
+result:
   맞춤법 검사:
     표제어: 매직
     품사: 명사
 ---
 000_KEYWORD: 매직펜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55729
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5729,13 +5729,13 @@ imported:
     표제어: 매직펜
     품사: 명사
     항목ID: 55729
-processed:
+result:
   맞춤법 검사:
     표제어: 매직펜
     품사: 명사
 ---
 000_KEYWORD: 매진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55731
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5762,13 +5762,13 @@ imported:
     표제어: 매진
     품사: 명사
     항목ID: 55731
-processed:
+result:
   맞춤법 검사:
     표제어: 매진
     품사: 명사
 ---
 000_KEYWORD: 매진__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91133
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5792,13 +5792,13 @@ imported:
     표제어: 매진
     품사: 명사
     항목ID: 91133
-processed:
+result:
   맞춤법 검사:
     표제어: 매진
     품사: 명사
 ---
 000_KEYWORD: 매진되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55732
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5830,13 +5830,13 @@ imported:
     표제어: 매진되다
     품사: 동사
     항목ID: 55732
-processed:
+result:
   맞춤법 검사:
     표제어: 매진되다
     품사: 동사
 ---
 000_KEYWORD: 매진하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55735
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5865,13 +5865,13 @@ imported:
     표제어: 매진하다
     품사: 동사
     항목ID: 55735
-processed:
+result:
   맞춤법 검사:
     표제어: 매진하다
     품사: 동사
 ---
 000_KEYWORD: 매진하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91134
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5900,13 +5900,13 @@ imported:
     표제어: 매진하다
     품사: 동사
     항목ID: 91134
-processed:
+result:
   맞춤법 검사:
     표제어: 매진하다
     품사: 동사
 ---
 000_KEYWORD: 매질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55736
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5933,13 +5933,13 @@ imported:
     표제어: 매질
     품사: 명사
     항목ID: 55736
-processed:
+result:
   맞춤법 검사:
     표제어: 매질
     품사: 명사
 ---
 000_KEYWORD: 매질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55737
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5967,13 +5967,13 @@ imported:
     표제어: 매질하다
     품사: 동사
     항목ID: 55737
-processed:
+result:
   맞춤법 검사:
     표제어: 매질하다
     품사: 동사
 ---
 000_KEYWORD: 매체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15975
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6021,13 +6021,13 @@ imported:
     표제어: 매체
     품사: 명사
     항목ID: 15975
-processed:
+result:
   맞춤법 검사:
     표제어: 매체
     품사: 명사
 ---
 000_KEYWORD: 매초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55738
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6052,13 +6052,13 @@ imported:
     표제어: 매초
     품사: 명사
     항목ID: 55738
-processed:
+result:
   맞춤법 검사:
     표제어: 매초
     품사: 명사
 ---
 000_KEYWORD: 매초__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55740
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6086,13 +6086,13 @@ imported:
     표제어: 매초
     품사: 부사
     항목ID: 55740
-processed:
+result:
   맞춤법 검사:
     표제어: 매초
     품사: 부사
 ---
 000_KEYWORD: 매춘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55741
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6126,13 +6126,13 @@ imported:
     표제어: 매춘
     품사: 명사
     항목ID: 55741
-processed:
+result:
   맞춤법 검사:
     표제어: 매춘
     품사: 명사
 ---
 000_KEYWORD: 매춘부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55742
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6162,13 +6162,13 @@ imported:
     표제어: 매춘부
     품사: 명사
     항목ID: 55742
-processed:
+result:
   맞춤법 검사:
     표제어: 매춘부
     품사: 명사
 ---
 000_KEYWORD: 매출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55743
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6202,13 +6202,13 @@ imported:
     표제어: 매출
     품사: 명사
     항목ID: 55743
-processed:
+result:
   맞춤법 검사:
     표제어: 매출
     품사: 명사
 ---
 000_KEYWORD: 매출액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55744
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6247,13 +6247,13 @@ imported:
     - 발음: 매ː추랭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55744_mae-churaengman.wav
       형태: 매출액만
-processed:
+result:
   맞춤법 검사:
     표제어: 매출액
     품사: 명사
 ---
 000_KEYWORD: 매치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55745
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6288,13 +6288,13 @@ imported:
     표제어: 매치
     품사: 명사
     항목ID: 55745
-processed:
+result:
   맞춤법 검사:
     표제어: 매치
     품사: 명사
 ---
 000_KEYWORD: 매치되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91136
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6321,13 +6321,13 @@ imported:
     표제어: 매치되다
     품사: 동사
     항목ID: 91136
-processed:
+result:
   맞춤법 검사:
     표제어: 매치되다
     품사: 동사
 ---
 000_KEYWORD: 매치하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55746
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6354,13 +6354,13 @@ imported:
     표제어: 매치하다
     품사: 동사
     항목ID: 55746
-processed:
+result:
   맞춤법 검사:
     표제어: 매치하다
     품사: 동사
 ---
 000_KEYWORD: 매캐하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55747
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6401,13 +6401,13 @@ imported:
     - 발음: 매캐함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55747_maekaehamnida.wav
       형태: 매캐합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매캐하다
     품사: 형용사
 ---
 000_KEYWORD: 매콤하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55748
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6447,13 +6447,13 @@ imported:
     - 발음: 매콤함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55748_maekomhamnida.wav
       형태: 매콤합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 매콤하다
     품사: 형용사
 ---
 000_KEYWORD: 매크로__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6463,13 +6463,13 @@ imported:
     표제어: 매크로
     품사: 명사:보통:비서술성
     항목ID: 8759
-processed:
+result:
   맞춤법 검사:
     표제어: 매크로
     품사: 명사
 ---
 000_KEYWORD: 매킨토시__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6478,13 +6478,13 @@ imported:
     표제어: 매킨토시
     품사: 명사:보통:서술성
     항목ID: 8760
-processed:
+result:
   맞춤법 검사:
     표제어: 매킨토시
     품사: 명사
 ---
 000_KEYWORD: 매트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55214
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6560,13 +6560,13 @@ imported:
     표제어: 매트
     품사: 명사
     항목ID: 55214
-processed:
+result:
   맞춤법 검사:
     표제어: 매트
     품사: 명사
 ---
 000_KEYWORD: 매트리스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55215
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6599,13 +6599,13 @@ imported:
     표제어: 매트리스
     품사: 명사
     항목ID: 55215
-processed:
+result:
   맞춤법 검사:
     표제어: 매트리스
     품사: 명사
 ---
 000_KEYWORD: 매표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55216
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6651,13 +6651,13 @@ imported:
     표제어: 매표
     품사: 명사
     항목ID: 55216
-processed:
+result:
   맞춤법 검사:
     표제어: 매표
     품사: 명사
 ---
 000_KEYWORD: 매표__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55217
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6688,13 +6688,13 @@ imported:
     표제어: 매표
     품사: 명사
     항목ID: 55217
-processed:
+result:
   맞춤법 검사:
     표제어: 매표
     품사: 명사
 ---
 000_KEYWORD: 매표구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55218
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6727,13 +6727,13 @@ imported:
     표제어: 매표구
     품사: 명사
     항목ID: 55218
-processed:
+result:
   맞춤법 검사:
     표제어: 매표구
     품사: 명사
 ---
 000_KEYWORD: 매표소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55219
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6770,13 +6770,13 @@ imported:
     표제어: 매표소
     품사: 명사
     항목ID: 55219
-processed:
+result:
   맞춤법 검사:
     표제어: 매표소
     품사: 명사
 ---
 000_KEYWORD: 매표원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55220
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6806,13 +6806,13 @@ imported:
     표제어: 매표원
     품사: 명사
     항목ID: 55220
-processed:
+result:
   맞춤법 검사:
     표제어: 매표원
     품사: 명사
 ---
 000_KEYWORD: 매표창구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55221
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6844,13 +6844,13 @@ imported:
     표제어: 매표창구
     품사: 명사
     항목ID: 55221
-processed:
+result:
   맞춤법 검사:
     표제어: 매표창구
     품사: 명사
 ---
 000_KEYWORD: 매한가지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55222
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6881,13 +6881,13 @@ imported:
     표제어: 매한가지
     품사: 명사
     항목ID: 55222
-processed:
+result:
   맞춤법 검사:
     표제어: 매한가지
     품사: 명사
 ---
 000_KEYWORD: 매해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91113
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6918,13 +6918,13 @@ imported:
     표제어: 매해
     품사: 명사
     항목ID: 91113
-processed:
+result:
   맞춤법 검사:
     표제어: 매해
     품사: 명사
 ---
 000_KEYWORD: 매해__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91114
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6955,13 +6955,13 @@ imported:
     표제어: 매해
     품사: 부사
     항목ID: 91114
-processed:
+result:
   맞춤법 검사:
     표제어: 매해
     품사: 부사
 ---
 000_KEYWORD: 매형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55223
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6995,13 +6995,13 @@ imported:
     표제어: 매형
     품사: 명사
     항목ID: 55223
-processed:
+result:
   맞춤법 검사:
     표제어: 매형
     품사: 명사
 ---
 000_KEYWORD: 매혹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55224
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7039,13 +7039,13 @@ imported:
     - 발음: 매홍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55224_maehongman.wav
       형태: 매혹만
-processed:
+result:
   맞춤법 검사:
     표제어: 매혹
     품사: 명사
 ---
 000_KEYWORD: 매혹당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85368
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7078,13 +7078,13 @@ imported:
     표제어: 매혹당하다
     품사: 동사
     항목ID: 85368
-processed:
+result:
   맞춤법 검사:
     표제어: 매혹당하다
     품사: 동사
 ---
 000_KEYWORD: 매혹되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55225
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7120,13 +7120,13 @@ imported:
     표제어: 매혹되다
     품사: 동사
     항목ID: 55225
-processed:
+result:
   맞춤법 검사:
     표제어: 매혹되다
     품사: 동사
 ---
 000_KEYWORD: 매혹시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85431
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7159,13 +7159,13 @@ imported:
     표제어: 매혹시키다
     품사: 동사
     항목ID: 85431
-processed:
+result:
   맞춤법 검사:
     표제어: 매혹시키다
     품사: 동사
 ---
 000_KEYWORD: 매혹적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55226
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7193,13 +7193,13 @@ imported:
     표제어: 매혹적
     품사: 관형사
     항목ID: 55226
-processed:
+result:
   맞춤법 검사:
     표제어: 매혹적
     품사: 관형사
 ---
 000_KEYWORD: 매혹적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55227
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7227,13 +7227,13 @@ imported:
     표제어: 매혹적
     품사: 명사
     항목ID: 55227
-processed:
+result:
   맞춤법 검사:
     표제어: 매혹적
     품사: 명사
 ---
 000_KEYWORD: 매혹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55228
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7266,13 +7266,13 @@ imported:
     표제어: 매혹하다
     품사: 동사
     항목ID: 55228
-processed:
+result:
   맞춤법 검사:
     표제어: 매혹하다
     품사: 동사
 ---
 000_KEYWORD: 매화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7282,13 +7282,13 @@ imported:
     표제어: 매화
     품사: 명사:보통:서술성
     항목ID: 8767
-processed:
+result:
   맞춤법 검사:
     표제어: 매화
     품사: 명사
 ---
 000_KEYWORD: 매회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55229
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7318,13 +7318,13 @@ imported:
     표제어: 매회
     품사: 명사
     항목ID: 55229
-processed:
+result:
   맞춤법 검사:
     표제어: 매회
     품사: 명사
 ---
 000_KEYWORD: 매회__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55230
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7354,13 +7354,13 @@ imported:
     표제어: 매회
     품사: 부사
     항목ID: 55230
-processed:
+result:
   맞춤법 검사:
     표제어: 매회
     품사: 부사
 ---
 000_KEYWORD: 맥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55231
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7462,13 +7462,13 @@ imported:
     - 발음: 맹만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55231_maengman.wav
       형태: 맥만
-processed:
+result:
   맞춤법 검사:
     표제어: 맥
     품사: 명사
 ---
 000_KEYWORD: 맥락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55232
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7513,13 +7513,13 @@ imported:
     - 발음: 맹낭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55232_maengnangman.wav
       형태: 맥락만
-processed:
+result:
   맞춤법 검사:
     표제어: 맥락
     품사: 명사
 ---
 000_KEYWORD: 맥박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55233
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7565,13 +7565,13 @@ imported:
     - 발음: 맥빵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55233_maekppangman.wav
       형태: 맥박만
-processed:
+result:
   맞춤법 검사:
     표제어: 맥박
     품사: 명사
 ---
 000_KEYWORD: 맥반석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55234
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7610,13 +7610,13 @@ imported:
     - 발음: 맥빤성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55234_maekppanseongman.wav
       형태: 맥반석만
-processed:
+result:
   맞춤법 검사:
     표제어: 맥반석
     품사: 명사
 ---
 000_KEYWORD: 맥아당__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7626,13 +7626,13 @@ imported:
     표제어: 맥아당
     품사: 명사:보통:서술성
     항목ID: 8774
-processed:
+result:
   맞춤법 검사:
     표제어: 맥아당
     품사: 명사
 ---
 000_KEYWORD: 맥없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55235
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7680,13 +7680,13 @@ imported:
     - 발음: 매겁찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55235_maegeopjji.wav
       형태: 맥없지
-processed:
+result:
   맞춤법 검사:
     표제어: 맥없다
     품사: 형용사
 ---
 000_KEYWORD: 맥없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55236
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7714,13 +7714,13 @@ imported:
     표제어: 맥없이
     품사: 부사
     항목ID: 55236
-processed:
+result:
   맞춤법 검사:
     표제어: 맥없이
     품사: 부사
 ---
 000_KEYWORD: 맥주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30216
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7768,13 +7768,13 @@ imported:
     표제어: 맥주
     품사: 명사
     항목ID: 30216
-processed:
+result:
   맞춤법 검사:
     표제어: 맥주
     품사: 명사
 ---
 000_KEYWORD: 맥주병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55237
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7815,13 +7815,13 @@ imported:
     표제어: 맥주병
     품사: 명사
     항목ID: 55237
-processed:
+result:
   맞춤법 검사:
     표제어: 맥주병
     품사: 명사
 ---
 000_KEYWORD: 맥줏집__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7830,13 +7830,13 @@ imported:
     표제어: 맥줏집
     품사: 명사:보통:비서술성
     항목ID: 8778
-processed:
+result:
   맞춤법 검사:
     표제어: 맥줏집
     품사: 명사
 ---
 000_KEYWORD: 맨-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74931
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7863,11 +7863,11 @@ imported:
     표제어: 맨-
     품사: 접사
     항목ID: 74931
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 맨__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65109
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7897,13 +7897,13 @@ imported:
     표제어: 맨
     품사: 관형사
     항목ID: 65109
-processed:
+result:
   맞춤법 검사:
     표제어: 맨
     품사: 관형사
 ---
 000_KEYWORD: 맨__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55238
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7930,13 +7930,13 @@ imported:
     표제어: 맨
     품사: 부사
     항목ID: 55238
-processed:
+result:
   맞춤법 검사:
     표제어: 맨
     품사: 부사
 ---
 000_KEYWORD: 맨날__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93533
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7959,13 +7959,13 @@ imported:
     표제어: 맨날
     품사: 부사
     항목ID: 93533
-processed:
+result:
   맞춤법 검사:
     표제어: 맨날
     품사: 부사
 ---
 000_KEYWORD: 맨눈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55239
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7993,13 +7993,13 @@ imported:
     표제어: 맨눈
     품사: 명사
     항목ID: 55239
-processed:
+result:
   맞춤법 검사:
     표제어: 맨눈
     품사: 명사
 ---
 000_KEYWORD: 맨다리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55240
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8024,13 +8024,13 @@ imported:
     표제어: 맨다리
     품사: 명사
     항목ID: 55240
-processed:
+result:
   맞춤법 검사:
     표제어: 맨다리
     품사: 명사
 ---
 000_KEYWORD: 맨드라미__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8040,13 +8040,13 @@ imported:
     표제어: 맨드라미
     품사: 명사:보통:서술성
     항목ID: 8782
-processed:
+result:
   맞춤법 검사:
     표제어: 맨드라미
     품사: 명사
 ---
 000_KEYWORD: 맨땅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55241
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8086,13 +8086,13 @@ imported:
     표제어: 맨땅
     품사: 명사
     항목ID: 55241
-processed:
+result:
   맞춤법 검사:
     표제어: 맨땅
     품사: 명사
 ---
 000_KEYWORD: 맨몸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55242
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8142,13 +8142,13 @@ imported:
     표제어: 맨몸
     품사: 명사
     항목ID: 55242
-processed:
+result:
   맞춤법 검사:
     표제어: 맨몸
     품사: 명사
 ---
 000_KEYWORD: 맨몸뚱이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55243
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8189,13 +8189,13 @@ imported:
     표제어: 맨몸뚱이
     품사: 명사
     항목ID: 55243
-processed:
+result:
   맞춤법 검사:
     표제어: 맨몸뚱이
     품사: 명사
 ---
 000_KEYWORD: 맨바닥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55244
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8233,13 +8233,13 @@ imported:
     - 발음: 맨바당만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55244_maenbadangman.wav
       형태: 맨바닥만
-processed:
+result:
   맞춤법 검사:
     표제어: 맨바닥
     품사: 명사
 ---
 000_KEYWORD: 맨발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55245
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8269,13 +8269,13 @@ imported:
     표제어: 맨발
     품사: 명사
     항목ID: 55245
-processed:
+result:
   맞춤법 검사:
     표제어: 맨발
     품사: 명사
 ---
 000_KEYWORD: 맨밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55246
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8311,13 +8311,13 @@ imported:
     - 발음: 맨밤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55246_maenbamman.wav
       형태: 맨밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 맨밥
     품사: 명사
 ---
 000_KEYWORD: 맨살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55247
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8344,13 +8344,13 @@ imported:
     표제어: 맨살
     품사: 명사
     항목ID: 55247
-processed:
+result:
   맞춤법 검사:
     표제어: 맨살
     품사: 명사
 ---
 000_KEYWORD: 맨션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55248
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8375,13 +8375,13 @@ imported:
     표제어: 맨션
     품사: 명사
     항목ID: 55248
-processed:
+result:
   맞춤법 검사:
     표제어: 맨션
     품사: 명사
 ---
 000_KEYWORD: 맨손__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55249
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8434,13 +8434,13 @@ imported:
     표제어: 맨손
     품사: 명사
     항목ID: 55249
-processed:
+result:
   맞춤법 검사:
     표제어: 맨손
     품사: 명사
 ---
 000_KEYWORD: 맨송맨송__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55251
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8529,13 +8529,13 @@ imported:
     표제어: 맨송맨송
     품사: 부사
     항목ID: 55251
-processed:
+result:
   맞춤법 검사:
     표제어: 맨송맨송
     품사: 부사
 ---
 000_KEYWORD: 맨송맨송하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55252
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8611,13 +8611,13 @@ imported:
     - 발음: 맨송맨송함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55252_maensongmaensonghamnida.wav
       형태: 맨송맨송합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맨송맨송하다
     품사: 형용사
 ---
 000_KEYWORD: 맨숭맨숭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91138
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8699,13 +8699,13 @@ imported:
     표제어: 맨숭맨숭
     품사: 부사
     항목ID: 91138
-processed:
+result:
   맞춤법 검사:
     표제어: 맨숭맨숭
     품사: 부사
 ---
 000_KEYWORD: 맨숭맨숭하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91139
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8802,13 +8802,13 @@ imported:
       형태: 맨숭맨숭하니
     - 발음: 맨숭맨숭함니다
       형태: 맨숭맨숭합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맨숭맨숭하다
     품사: 형용사
 ---
 000_KEYWORD: 맨입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55253
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8860,13 +8860,13 @@ imported:
     - 발음: 맨님만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55253_maennimman.wav
       형태: 맨입만
-processed:
+result:
   맞춤법 검사:
     표제어: 맨입
     품사: 명사
 ---
 000_KEYWORD: 맨정신__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8877,13 +8877,13 @@ imported:
     표제어: 맨정신
     품사: 명사:보통:서술성
     항목ID: 8788
-processed:
+result:
   맞춤법 검사:
     표제어: 맨정신
     품사: 명사
 ---
 000_KEYWORD: 맨주먹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55106
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8933,13 +8933,13 @@ imported:
     - 발음: 맨주멍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55106_maenjumeongman.wav
       형태: 맨주먹만
-processed:
+result:
   맞춤법 검사:
     표제어: 맨주먹
     품사: 명사
 ---
 000_KEYWORD: 맨체스터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8950,13 +8950,13 @@ imported:
     표제어: 맨체스터
     품사: 명사:고유
     항목ID: 8789
-processed:
+result:
   맞춤법 검사:
     표제어: 맨체스터
     품사: 명사
 ---
 000_KEYWORD: 맨틀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8966,13 +8966,13 @@ imported:
     표제어: 맨틀
     품사: 명사:보통:서술성
     항목ID: 8790
-processed:
+result:
   맞춤법 검사:
     표제어: 맨틀
     품사: 명사
 ---
 000_KEYWORD: 맨홀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8981,13 +8981,13 @@ imported:
     표제어: 맨홀
     품사: 명사:보통:비서술성
     항목ID: 8791
-processed:
+result:
   맞춤법 검사:
     표제어: 맨홀
     품사: 명사
 ---
 000_KEYWORD: 맴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55107
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9010,13 +9010,13 @@ imported:
     표제어: 맴
     품사: 명사
     항목ID: 55107
-processed:
+result:
   맞춤법 검사:
     표제어: 맴
     품사: 명사
 ---
 000_KEYWORD: 맴돌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55108
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9086,13 +9086,13 @@ imported:
     - 발음: 맴ː돔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55108_maem-domnida.wav
       형태: 맴돕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맴돌다
     품사: 동사
 ---
 000_KEYWORD: 맴돌이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9102,13 +9102,13 @@ imported:
     표제어: 맴돌이
     품사: 명사:보통:서술성
     항목ID: 8793
-processed:
+result:
   맞춤법 검사:
     표제어: 맴돌이
     품사: 명사
 ---
 000_KEYWORD: 맴돌이전류__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9118,13 +9118,13 @@ imported:
     표제어: 맴돌이전류
     품사: 명사:보통:서술성
     항목ID: 8794
-processed:
+result:
   맞춤법 검사:
     표제어: 맴돌이전류
     품사: 명사
 ---
 000_KEYWORD: 맴매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55109
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9169,13 +9169,13 @@ imported:
     표제어: 맴매
     품사: 명사
     항목ID: 55109
-processed:
+result:
   맞춤법 검사:
     표제어: 맴매
     품사: 명사
 ---
 000_KEYWORD: 맴매하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91142
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9207,13 +9207,13 @@ imported:
     표제어: 맴매하다
     품사: 동사
     항목ID: 91142
-processed:
+result:
   맞춤법 검사:
     표제어: 맴매하다
     품사: 동사
 ---
 000_KEYWORD: 맴맴__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55110
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9238,13 +9238,13 @@ imported:
     표제어: 맴맴
     품사: 부사
     항목ID: 55110
-processed:
+result:
   맞춤법 검사:
     표제어: 맴맴
     품사: 부사
 ---
 000_KEYWORD: 맵다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74131
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9332,7 +9332,7 @@ imported:
       형태: 매우니
     - 발음: 맵씀니다
       형태: 맵습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -9340,7 +9340,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 맵디맵다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55111
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9379,7 +9379,7 @@ imported:
       형태: 맵디매우니
     - 발음: 맵띠맵씀니다
       형태: 맵디맵습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -9387,7 +9387,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 맵시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55112
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9419,13 +9419,13 @@ imported:
     표제어: 맵시
     품사: 명사
     항목ID: 55112
-processed:
+result:
   맞춤법 검사:
     표제어: 맵시
     품사: 명사
 ---
 000_KEYWORD: 맵싸하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55113
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9466,13 +9466,13 @@ imported:
       형태: 맵싸하니
     - 발음: 맵싸함니다
       형태: 맵싸합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맵싸하다
     품사: 형용사
 ---
 000_KEYWORD: 맷돌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55115
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9503,13 +9503,13 @@ imported:
     표제어: 맷돌
     품사: 명사
     항목ID: 55115
-processed:
+result:
   맞춤법 검사:
     표제어: 맷돌
     품사: 명사
 ---
 000_KEYWORD: 맷집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55116
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9556,13 +9556,13 @@ imported:
     - 발음: 맫찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55116_maetjjimman.wav
       형태: 맷집만
-processed:
+result:
   맞춤법 검사:
     표제어: 맷집
     품사: 명사
 ---
 000_KEYWORD: 맹-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74932
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9579,11 +9579,11 @@ imported:
     표제어: 맹-
     품사: 접사
     항목ID: 74932
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 맹-__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74933
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9605,11 +9605,11 @@ imported:
     표제어: 맹-
     품사: 접사
     항목ID: 74933
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 맹감__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9619,13 +9619,13 @@ imported:
     표제어: 맹감
     품사: 명사:보통:비서술성
     항목ID: 8800
-processed:
+result:
   맞춤법 검사:
     표제어: 맹감
     품사: 명사
 ---
 000_KEYWORD: 맹공__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91158
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9658,13 +9658,13 @@ imported:
     표제어: 맹공
     품사: 명사
     항목ID: 91158
-processed:
+result:
   맞춤법 검사:
     표제어: 맹공
     품사: 명사
 ---
 000_KEYWORD: 맹공격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55117
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9704,13 +9704,13 @@ imported:
     - 발음: 맹ː공경만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55117_maeng-gonggyeongman.wav
       형태: 맹공격만
-processed:
+result:
   맞춤법 검사:
     표제어: 맹공격
     품사: 명사
 ---
 000_KEYWORD: 맹공격하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91157
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9740,13 +9740,13 @@ imported:
     표제어: 맹공격하다
     품사: 동사
     항목ID: 91157
-processed:
+result:
   맞춤법 검사:
     표제어: 맹공격하다
     품사: 동사
 ---
 000_KEYWORD: 맹꽁맹꽁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55118
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9770,13 +9770,13 @@ imported:
     표제어: 맹꽁맹꽁
     품사: 부사
     항목ID: 55118
-processed:
+result:
   맞춤법 검사:
     표제어: 맹꽁맹꽁
     품사: 부사
 ---
 000_KEYWORD: 맹꽁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55119
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9817,13 +9817,13 @@ imported:
     표제어: 맹꽁이
     품사: 명사
     항목ID: 55119
-processed:
+result:
   맞춤법 검사:
     표제어: 맹꽁이
     품사: 명사
 ---
 000_KEYWORD: 맹독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55120
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9862,13 +9862,13 @@ imported:
     - 발음: 맹ː동만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55120_maeng-dongman.wav
       형태: 맹독만
-processed:
+result:
   맞춤법 검사:
     표제어: 맹독
     품사: 명사
 ---
 000_KEYWORD: 맹독성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55121
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9895,13 +9895,13 @@ imported:
     표제어: 맹독성
     품사: 명사
     항목ID: 55121
-processed:
+result:
   맞춤법 검사:
     표제어: 맹독성
     품사: 명사
 ---
 000_KEYWORD: 맹랑하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55122
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9969,13 +9969,13 @@ imported:
     - 발음: 맹ː낭함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55122_maeng-nanghamnida.wav
       형태: 맹랑합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맹랑하다
     품사: 형용사
 ---
 000_KEYWORD: 맹렬하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55123
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10021,13 +10021,13 @@ imported:
     - 발음: 맹ː녈함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55123_maeng-nyeolhamnida.wav
       형태: 맹렬합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맹렬하다
     품사: 형용사
 ---
 000_KEYWORD: 맹렬히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55124
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10056,13 +10056,13 @@ imported:
     표제어: 맹렬히
     품사: 부사
     항목ID: 55124
-processed:
+result:
   맞춤법 검사:
     표제어: 맹렬히
     품사: 부사
 ---
 000_KEYWORD: 맹맹하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55394
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10122,13 +10122,13 @@ imported:
       형태: 맹맹하니
     - 발음: 맹맹함니다
       형태: 맹맹합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맹맹하다
     품사: 형용사
 ---
 000_KEYWORD: 맹맹하다__형용사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55395
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10165,13 +10165,13 @@ imported:
       형태: 맹맹하니
     - 발음: 맹맹함니다
       형태: 맹맹합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맹맹하다
     품사: 형용사
 ---
 000_KEYWORD: 맹모삼천__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10181,13 +10181,13 @@ imported:
     표제어: 맹모삼천
     품사: 명사:보통:서술성
     항목ID: 8809
-processed:
+result:
   맞춤법 검사:
     표제어: 맹모삼천
     품사: 명사
 ---
 000_KEYWORD: 맹목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55128
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10223,13 +10223,13 @@ imported:
     - 발음: 맹몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55128_maengmongman.wav
       형태: 맹목만
-processed:
+result:
   맞춤법 검사:
     표제어: 맹목
     품사: 명사
 ---
 000_KEYWORD: 맹목적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55131
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10257,13 +10257,13 @@ imported:
     표제어: 맹목적
     품사: 관형사
     항목ID: 55131
-processed:
+result:
   맞춤법 검사:
     표제어: 맹목적
     품사: 관형사
 ---
 000_KEYWORD: 맹목적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55133
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10291,13 +10291,13 @@ imported:
     표제어: 맹목적
     품사: 명사
     항목ID: 55133
-processed:
+result:
   맞춤법 검사:
     표제어: 맹목적
     품사: 명사
 ---
 000_KEYWORD: 맹물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55135
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10331,13 +10331,13 @@ imported:
     표제어: 맹물
     품사: 명사
     항목ID: 55135
-processed:
+result:
   맞춤법 검사:
     표제어: 맹물
     품사: 명사
 ---
 000_KEYWORD: 맹비난__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55137
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10363,13 +10363,13 @@ imported:
     표제어: 맹비난
     품사: 명사
     항목ID: 55137
-processed:
+result:
   맞춤법 검사:
     표제어: 맹비난
     품사: 명사
 ---
 000_KEYWORD: 맹비난하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55144
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10399,13 +10399,13 @@ imported:
     표제어: 맹비난하다
     품사: 동사
     항목ID: 55144
-processed:
+result:
   맞춤법 검사:
     표제어: 맹비난하다
     품사: 동사
 ---
 000_KEYWORD: 맹서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55367
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10434,13 +10434,13 @@ imported:
     표제어: 맹서
     품사: 명사
     항목ID: 55367
-processed:
+result:
   맞춤법 검사:
     표제어: 맹서
     품사: 명사
 ---
 000_KEYWORD: 맹세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55368
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10476,13 +10476,13 @@ imported:
     표제어: 맹세
     품사: 명사
     항목ID: 55368
-processed:
+result:
   맞춤법 검사:
     표제어: 맹세
     품사: 명사
 ---
 000_KEYWORD: 맹세코__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55369
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10511,13 +10511,13 @@ imported:
     표제어: 맹세코
     품사: 부사
     항목ID: 55369
-processed:
+result:
   맞춤법 검사:
     표제어: 맹세코
     품사: 부사
 ---
 000_KEYWORD: 맹세하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55370
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10546,13 +10546,13 @@ imported:
     표제어: 맹세하다
     품사: 동사
     항목ID: 55370
-processed:
+result:
   맞춤법 검사:
     표제어: 맹세하다
     품사: 동사
 ---
 000_KEYWORD: 맹수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55371
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10579,13 +10579,13 @@ imported:
     표제어: 맹수
     품사: 명사
     항목ID: 55371
-processed:
+result:
   맞춤법 검사:
     표제어: 맹수
     품사: 명사
 ---
 000_KEYWORD: 맹숭맹숭__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10594,13 +10594,13 @@ imported:
     표제어: 맹숭맹숭
     품사: 부사
     항목ID: 8816
-processed:
+result:
   맞춤법 검사:
     표제어: 맹숭맹숭
     품사: 부사
 ---
 000_KEYWORD: 맹신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55406
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10631,13 +10631,13 @@ imported:
     표제어: 맹신
     품사: 명사
     항목ID: 55406
-processed:
+result:
   맞춤법 검사:
     표제어: 맹신
     품사: 명사
 ---
 000_KEYWORD: 맹신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55408
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10666,13 +10666,13 @@ imported:
     표제어: 맹신하다
     품사: 동사
     항목ID: 55408
-processed:
+result:
   맞춤법 검사:
     표제어: 맹신하다
     품사: 동사
 ---
 000_KEYWORD: 맹아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55409
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10698,13 +10698,13 @@ imported:
     표제어: 맹아
     품사: 명사
     항목ID: 55409
-processed:
+result:
   맞춤법 검사:
     표제어: 맹아
     품사: 명사
 ---
 000_KEYWORD: 맹아__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55410
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10748,13 +10748,13 @@ imported:
     표제어: 맹아
     품사: 명사
     항목ID: 55410
-processed:
+result:
   맞춤법 검사:
     표제어: 맹아
     품사: 명사
 ---
 000_KEYWORD: 맹약__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10764,13 +10764,13 @@ imported:
     표제어: 맹약
     품사: 명사:보통:서술성
     항목ID: 8818
-processed:
+result:
   맞춤법 검사:
     표제어: 맹약
     품사: 명사
 ---
 000_KEYWORD: 맹연습__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10779,13 +10779,13 @@ imported:
     표제어: 맹연습
     품사: 명사:보통:서술성
     항목ID: 8819
-processed:
+result:
   맞춤법 검사:
     표제어: 맹연습
     품사: 명사
 ---
 000_KEYWORD: 맹연습하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10794,13 +10794,13 @@ imported:
     표제어: 맹연습하다
     품사: 동사
     항목ID: 8820
-processed:
+result:
   맞춤법 검사:
     표제어: 맹연습하다
     품사: 동사
 ---
 000_KEYWORD: 맹위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55412
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10825,13 +10825,13 @@ imported:
     표제어: 맹위
     품사: 명사
     항목ID: 55412
-processed:
+result:
   맞춤법 검사:
     표제어: 맹위
     품사: 명사
 ---
 000_KEYWORD: 맹인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55413
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10860,13 +10860,13 @@ imported:
     표제어: 맹인
     품사: 명사
     항목ID: 55413
-processed:
+result:
   맞춤법 검사:
     표제어: 맹인
     품사: 명사
 ---
 000_KEYWORD: 맹자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92063
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10884,13 +10884,13 @@ imported:
     표제어: 맹자
     품사: 명사
     항목ID: 92063
-processed:
+result:
   맞춤법 검사:
     표제어: 맹자
     품사: 명사
 ---
 000_KEYWORD: 맹장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55415
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10916,13 +10916,13 @@ imported:
     표제어: 맹장
     품사: 명사
     항목ID: 55415
-processed:
+result:
   맞춤법 검사:
     표제어: 맹장
     품사: 명사
 ---
 000_KEYWORD: 맹장염__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55417
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10948,13 +10948,13 @@ imported:
     표제어: 맹장염
     품사: 명사
     항목ID: 55417
-processed:
+result:
   맞춤법 검사:
     표제어: 맹장염
     품사: 명사
 ---
 000_KEYWORD: 맹점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55418
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10981,13 +10981,13 @@ imported:
     표제어: 맹점
     품사: 명사
     항목ID: 55418
-processed:
+result:
   맞춤법 검사:
     표제어: 맹점
     품사: 명사
 ---
 000_KEYWORD: 맹종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55420
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11015,13 +11015,13 @@ imported:
     표제어: 맹종
     품사: 명사
     항목ID: 55420
-processed:
+result:
   맞춤법 검사:
     표제어: 맹종
     품사: 명사
 ---
 000_KEYWORD: 맹종하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55421
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11050,13 +11050,13 @@ imported:
     표제어: 맹종하다
     품사: 동사
     항목ID: 55421
-processed:
+result:
   맞춤법 검사:
     표제어: 맹종하다
     품사: 동사
 ---
 000_KEYWORD: 맹주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55397
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11083,13 +11083,13 @@ imported:
     표제어: 맹주
     품사: 명사
     항목ID: 55397
-processed:
+result:
   맞춤법 검사:
     표제어: 맹주
     품사: 명사
 ---
 000_KEYWORD: 맹추__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55398
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11115,13 +11115,13 @@ imported:
     표제어: 맹추
     품사: 명사
     항목ID: 55398
-processed:
+result:
   맞춤법 검사:
     표제어: 맹추
     품사: 명사
 ---
 000_KEYWORD: 맹추격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55399
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11158,13 +11158,13 @@ imported:
     - 발음: 맹ː추경만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55399_maeng-chugyeongman.wav
       형태: 맹추격만
-processed:
+result:
   맞춤법 검사:
     표제어: 맹추격
     품사: 명사
 ---
 000_KEYWORD: 맹추격하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91159
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11192,13 +11192,13 @@ imported:
     표제어: 맹추격하다
     품사: 동사
     항목ID: 91159
-processed:
+result:
   맞춤법 검사:
     표제어: 맹추격하다
     품사: 동사
 ---
 000_KEYWORD: 맹탕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55401
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11237,13 +11237,13 @@ imported:
     표제어: 맹탕
     품사: 명사
     항목ID: 55401
-processed:
+result:
   맞춤법 검사:
     표제어: 맹탕
     품사: 명사
 ---
 000_KEYWORD: 맹탕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55402
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11268,13 +11268,13 @@ imported:
     표제어: 맹탕
     품사: 부사
     항목ID: 55402
-processed:
+result:
   맞춤법 검사:
     표제어: 맹탕
     품사: 부사
 ---
 000_KEYWORD: 맹하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55403
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11314,13 +11314,13 @@ imported:
       형태: 맹하니
     - 발음: 맹ː함니다
       형태: 맹합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 맹하다
     품사: 형용사
 ---
 000_KEYWORD: 맹호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55400
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11346,13 +11346,13 @@ imported:
     표제어: 맹호
     품사: 명사
     항목ID: 55400
-processed:
+result:
   맞춤법 검사:
     표제어: 맹호
     품사: 명사
 ---
 000_KEYWORD: 맹활약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55424
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11389,13 +11389,13 @@ imported:
     - 발음: 맹ː화량만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55424_maeng-hwaryangman.wav
       형태: 맹활약만
-processed:
+result:
   맞춤법 검사:
     표제어: 맹활약
     품사: 명사
 ---
 000_KEYWORD: 맹활약하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55425
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11424,13 +11424,13 @@ imported:
     표제어: 맹활약하다
     품사: 동사
     항목ID: 55425
-processed:
+result:
   맞춤법 검사:
     표제어: 맹활약하다
     품사: 동사
 ---
 000_KEYWORD: 맹훈련__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55396
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11459,13 +11459,13 @@ imported:
     표제어: 맹훈련
     품사: 명사
     항목ID: 55396
-processed:
+result:
   맞춤법 검사:
     표제어: 맹훈련
     품사: 명사
 ---
 000_KEYWORD: 맺다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15976
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11567,13 +11567,13 @@ imported:
     - 발음: 맨는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/15976_maenneun.wav
       형태: 맺는
-processed:
+result:
   맞춤법 검사:
     표제어: 맺다
     품사: 동사
 ---
 000_KEYWORD: 맺어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55404
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11615,7 +11615,7 @@ imported:
     - 발음: 매저지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55404_maejeojini.wav
       형태: 맺어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -11623,7 +11623,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 맺음말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55426
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11656,13 +11656,13 @@ imported:
     표제어: 맺음말
     품사: 명사
     항목ID: 55426
-processed:
+result:
   맞춤법 검사:
     표제어: 맺음말
     품사: 명사
 ---
 000_KEYWORD: 맺히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55405
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11741,7 +11741,7 @@ imported:
     - 발음: 매치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55405_maechini.wav
       형태: 맺히니
-processed:
+result:
   맞춤법 검사:
     표제어: 맺히다
     품사: 동사

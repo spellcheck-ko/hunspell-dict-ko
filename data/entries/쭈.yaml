@@ -1,5 +1,5 @@
 000_KEYWORD: 쭈그러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78201
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -60,17 +60,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78201_jjugeureojeo.wav
       형태: 쭈그러져
     - 형태: 쭈그러지니
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈그러지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 쭈그리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78750
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -129,13 +129,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78750_jjugeuriyeo.wav
       형태: 쭈그리어
     - 형태: 쭈그리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈그리다
     품사: 동사
 ---
 000_KEYWORD: 쭈글쭈글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78069
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -166,13 +166,13 @@ imported:
     표제어: 쭈글쭈글
     품사: 부사
     항목ID: 78069
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈글쭈글
     품사: 부사
 ---
 000_KEYWORD: 쭈글쭈글하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78070
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -212,13 +212,13 @@ imported:
       형태: 쭈글쭈글하니
     - 발음: 쭈글쭈글함니다
       형태: 쭈글쭈글합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈글쭈글하다
     품사: 형용사
 ---
 000_KEYWORD: 쭈르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78817
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -300,13 +300,13 @@ imported:
     표제어: 쭈르르
     품사: 부사
     항목ID: 78817
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈르르
     품사: 부사
 ---
 000_KEYWORD: 쭈뼛__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79028
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -369,13 +369,13 @@ imported:
     표제어: 쭈뼛
     품사: 부사
     항목ID: 79028
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈뼛
     품사: 부사
 ---
 000_KEYWORD: 쭈뼛거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81554
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -473,13 +473,13 @@ imported:
     표제어: 쭈뼛거리다
     품사: 동사
     항목ID: 81554
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈뼛거리다
     품사: 동사
 ---
 000_KEYWORD: 쭈뼛대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90141
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -576,13 +576,13 @@ imported:
     표제어: 쭈뼛대다
     품사: 동사
     항목ID: 90141
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈뼛대다
     품사: 동사
 ---
 000_KEYWORD: 쭈뼛쭈뼛__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81596
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -645,13 +645,13 @@ imported:
     표제어: 쭈뼛쭈뼛
     품사: 부사
     항목ID: 81596
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈뼛쭈뼛
     품사: 부사
 ---
 000_KEYWORD: 쭈뼛쭈뼛하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81602
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -746,13 +746,13 @@ imported:
     표제어: 쭈뼛쭈뼛하다
     품사: 동사
     항목ID: 81602
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈뼛쭈뼛하다
     품사: 동사
 ---
 000_KEYWORD: 쭈뼛쭈뼛하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81603
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -791,13 +791,13 @@ imported:
       형태: 쭈뼛쭈뼛하니
     - 발음: 쭈뼏쭈뼈탐니다
       형태: 쭈뼛쭈뼛합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈뼛쭈뼛하다
     품사: 형용사
 ---
 000_KEYWORD: 쭈뼛하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81604
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -865,13 +865,13 @@ imported:
     표제어: 쭈뼛하다
     품사: 동사
     항목ID: 81604
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈뼛하다
     품사: 동사
 ---
 000_KEYWORD: 쭈뼛하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81605
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -911,13 +911,13 @@ imported:
       형태: 쭈뼛하니
     - 발음: 쭈뼈탐니다
       형태: 쭈뼛합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쭈뼛하다
     품사: 형용사
 ---
 000_KEYWORD: 쭉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37202
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1116,13 +1116,13 @@ imported:
     표제어: 쭉
     품사: 부사
     항목ID: 37202
-processed:
+result:
   맞춤법 검사:
     표제어: 쭉
     품사: 부사
 ---
 000_KEYWORD: 쭉정이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78752
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1162,13 +1162,13 @@ imported:
     표제어: 쭉정이
     품사: 명사
     항목ID: 78752
-processed:
+result:
   맞춤법 검사:
     표제어: 쭉정이
     품사: 명사
 ---
 000_KEYWORD: 쭉쭉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90171
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1365,7 +1365,7 @@ imported:
     표제어: 쭉쭉
     품사: 부사
     항목ID: 90171
-processed:
+result:
   맞춤법 검사:
     표제어: 쭉쭉
     품사: 부사

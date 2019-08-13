@@ -1,5 +1,5 @@
 000_KEYWORD: 빠각__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 빠각
     품사: 부사
     항목ID: 13068
-processed:
+result:
   맞춤법 검사:
     표제어: 빠각
     품사: 부사
 ---
 000_KEYWORD: 빠개다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60830
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -51,13 +51,13 @@ imported:
     활용:
     - 형태: 빠개어
     - 형태: 빠개니
-processed:
+result:
   맞춤법 검사:
     표제어: 빠개다
     품사: 동사
 ---
 000_KEYWORD: 빠개지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60831
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -96,7 +96,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/60831_ppagaejeo.wav
       형태: 빠개져
     - 형태: 빠개지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -104,7 +104,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 빠끔__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60794
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -167,13 +167,13 @@ imported:
     표제어: 빠끔
     품사: 부사
     항목ID: 60794
-processed:
+result:
   맞춤법 검사:
     표제어: 빠끔
     품사: 부사
 ---
 000_KEYWORD: 빠끔__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60795
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -213,13 +213,13 @@ imported:
     표제어: 빠끔
     품사: 부사
     항목ID: 60795
-processed:
+result:
   맞춤법 검사:
     표제어: 빠끔
     품사: 부사
 ---
 000_KEYWORD: 빠끔빠끔__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60798
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -260,13 +260,13 @@ imported:
     표제어: 빠끔빠끔
     품사: 부사
     항목ID: 60798
-processed:
+result:
   맞춤법 검사:
     표제어: 빠끔빠끔
     품사: 부사
 ---
 000_KEYWORD: 빠끔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60803
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -311,13 +311,13 @@ imported:
       형태: 빠끔하니
     - 발음: 빠끔함니다
       형태: 빠끔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빠끔하다
     품사: 형용사
 ---
 000_KEYWORD: 빠끔히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60806
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -388,13 +388,13 @@ imported:
     표제어: 빠끔히
     품사: 부사
     항목ID: 60806
-processed:
+result:
   맞춤법 검사:
     표제어: 빠끔히
     품사: 부사
 ---
 000_KEYWORD: 빠듯하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60808
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -453,13 +453,13 @@ imported:
       형태: 빠듯하니
     - 발음: 빠드탐니다
       형태: 빠듯합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빠듯하다
     품사: 형용사
 ---
 000_KEYWORD: 빠뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15643
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -571,13 +571,13 @@ imported:
     - 발음: 빠ː뜨리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15643_ppa-tteurini.wav
       형태: 빠뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 빠뜨리다
     품사: 동사
 ---
 000_KEYWORD: 빠르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68755
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -679,7 +679,7 @@ imported:
       형태: 빠르니
     - 발음: 빠름니다
       형태: 빠릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -687,7 +687,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 빠른우편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60809
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -715,13 +715,13 @@ imported:
     표제어: 빠른우편
     품사: 명사
     항목ID: 60809
-processed:
+result:
   맞춤법 검사:
     표제어: 빠른우편
     품사: 명사
 ---
 000_KEYWORD: 빠릿빠릿하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -731,13 +731,13 @@ imported:
     표제어: 빠릿빠릿하다
     품사: 형용사
     항목ID: 13072
-processed:
+result:
   맞춤법 검사:
     표제어: 빠릿빠릿하다
     품사: 형용사
 ---
 000_KEYWORD: 빠삭하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -747,13 +747,13 @@ imported:
     표제어: 빠삭하다
     품사: 형용사
     항목ID: 13073
-processed:
+result:
   맞춤법 검사:
     표제어: 빠삭하다
     품사: 형용사
 ---
 000_KEYWORD: 빠이빠이__감탄사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -763,13 +763,13 @@ imported:
     표제어: 빠이빠이
     품사: 감탄사
     항목ID: 13074
-processed:
+result:
   맞춤법 검사:
     표제어: 빠이빠이
     품사: 감탄사
 ---
 000_KEYWORD: 빠져나가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15644
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -806,17 +806,17 @@ imported:
     - 발음: 빠ː저나가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15644_ppa-jeonagani.wav
       형태: 빠져나가니
-processed:
+result:
   맞춤법 검사:
     표제어: 빠져나가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 빠져나오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15645
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -852,17 +852,17 @@ imported:
     - 발음: 빠ː저나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15645_ppa-jeonaoni.wav
       형태: 빠져나오니
-processed:
+result:
   맞춤법 검사:
     표제어: 빠져나오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 빠져들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60832
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -928,17 +928,17 @@ imported:
     - 발음: 빠ː저듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60832_ppa-jeodeumnida.wav
       형태: 빠져듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빠져들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 빠지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66637
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1143,13 +1143,13 @@ imported:
     - 발음: 빠ː지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/66637_ppa-jini.wav
       형태: 빠지니
-processed:
+result:
   맞춤법 검사:
     표제어: 빠지다
     품사: 동사
 ---
 000_KEYWORD: 빠지다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71273
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1248,13 +1248,13 @@ imported:
     - 발음: 빠ː지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppa-jini.wav
       형태: 빠지니
-processed:
+result:
   맞춤법 검사:
     표제어: 빠지다
     품사: 동사
 ---
 000_KEYWORD: 빠지다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73404
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1298,7 +1298,7 @@ imported:
       형태: 빠지니
     - 발음: 빠ː짐니다
       형태: 빠집니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -1306,7 +1306,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 빠짐없다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1316,13 +1316,13 @@ imported:
     표제어: 빠짐없다
     품사: 형용사
     항목ID: 13079
-processed:
+result:
   맞춤법 검사:
     표제어: 빠짐없다
     품사: 형용사
 ---
 000_KEYWORD: 빠짐없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60833
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1350,13 +1350,13 @@ imported:
     표제어: 빠짐없이
     품사: 부사
     항목ID: 60833
-processed:
+result:
   맞춤법 검사:
     표제어: 빠짐없이
     품사: 부사
 ---
 000_KEYWORD: 빠트리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60923
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1458,13 +1458,13 @@ imported:
     - 발음: 빠ː트리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/60923_ppa-teurini.wav
       형태: 빠트리니
-processed:
+result:
   맞춤법 검사:
     표제어: 빠트리다
     품사: 동사
 ---
 000_KEYWORD: 빡__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1474,13 +1474,13 @@ imported:
     표제어: 빡
     품사: 부사
     항목ID: 13082
-processed:
+result:
   맞춤법 검사:
     표제어: 빡
     품사: 부사
 ---
 000_KEYWORD: 빡빡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60924
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1593,13 +1593,13 @@ imported:
     표제어: 빡빡
     품사: 부사
     항목ID: 60924
-processed:
+result:
   맞춤법 검사:
     표제어: 빡빡
     품사: 부사
 ---
 000_KEYWORD: 빡빡머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89910
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1633,13 +1633,13 @@ imported:
     표제어: 빡빡머리
     품사: 명사
     항목ID: 89910
-processed:
+result:
   맞춤법 검사:
     표제어: 빡빡머리
     품사: 명사
 ---
 000_KEYWORD: 빡빡하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1648,13 +1648,13 @@ imported:
     표제어: 빡빡하다
     품사: 동사
     항목ID: 13084
-processed:
+result:
   맞춤법 검사:
     표제어: 빡빡하다
     품사: 동사
 ---
 000_KEYWORD: 빡빡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60925
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1765,13 +1765,13 @@ imported:
       형태: 빡빡하니
     - 발음: 빡빠캄니다
       형태: 빡빡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빡빡하다
     품사: 형용사
 ---
 000_KEYWORD: 빤질거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61002
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1831,13 +1831,13 @@ imported:
     표제어: 빤질거리다
     품사: 동사
     항목ID: 61002
-processed:
+result:
   맞춤법 검사:
     표제어: 빤질거리다
     품사: 동사
 ---
 000_KEYWORD: 빤질대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88779
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1891,13 +1891,13 @@ imported:
     표제어: 빤질대다
     품사: 동사
     항목ID: 88779
-processed:
+result:
   맞춤법 검사:
     표제어: 빤질대다
     품사: 동사
 ---
 000_KEYWORD: 빤질빤질__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88790
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1954,13 +1954,13 @@ imported:
     표제어: 빤질빤질
     품사: 부사
     항목ID: 88790
-processed:
+result:
   맞춤법 검사:
     표제어: 빤질빤질
     품사: 부사
 ---
 000_KEYWORD: 빤질빤질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88780
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2000,13 +2000,13 @@ imported:
     표제어: 빤질빤질하다
     품사: 동사
     항목ID: 88780
-processed:
+result:
   맞춤법 검사:
     표제어: 빤질빤질하다
     품사: 동사
 ---
 000_KEYWORD: 빤질빤질하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88781
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2067,13 +2067,13 @@ imported:
       형태: 빤질빤질하니
     - 발음: 빤질빤질함니다
       형태: 빤질빤질합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빤질빤질하다
     품사: 형용사
 ---
 000_KEYWORD: 빤짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61010
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2185,13 +2185,13 @@ imported:
     표제어: 빤짝
     품사: 부사
     항목ID: 61010
-processed:
+result:
   맞춤법 검사:
     표제어: 빤짝
     품사: 부사
 ---
 000_KEYWORD: 빤짝거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61007
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2225,13 +2225,13 @@ imported:
     표제어: 빤짝거리다
     품사: 동사
     항목ID: 61007
-processed:
+result:
   맞춤법 검사:
     표제어: 빤짝거리다
     품사: 동사
 ---
 000_KEYWORD: 빤짝대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88782
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2264,13 +2264,13 @@ imported:
     표제어: 빤짝대다
     품사: 동사
     항목ID: 88782
-processed:
+result:
   맞춤법 검사:
     표제어: 빤짝대다
     품사: 동사
 ---
 000_KEYWORD: 빤짝빤짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61011
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2363,13 +2363,13 @@ imported:
     표제어: 빤짝빤짝
     품사: 부사
     항목ID: 61011
-processed:
+result:
   맞춤법 검사:
     표제어: 빤짝빤짝
     품사: 부사
 ---
 000_KEYWORD: 빤짝빤짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88783
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2402,13 +2402,13 @@ imported:
     표제어: 빤짝빤짝하다
     품사: 동사
     항목ID: 88783
-processed:
+result:
   맞춤법 검사:
     표제어: 빤짝빤짝하다
     품사: 동사
 ---
 000_KEYWORD: 빤짝빤짝하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88784
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2468,13 +2468,13 @@ imported:
       형태: 빤짝빤짝하니
     - 발음: 빤짝빤짜캄니다
       형태: 빤짝빤짝합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빤짝빤짝하다
     품사: 형용사
 ---
 000_KEYWORD: 빤짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88785
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2593,13 +2593,13 @@ imported:
     표제어: 빤짝하다
     품사: 동사
     항목ID: 88785
-processed:
+result:
   맞춤법 검사:
     표제어: 빤짝하다
     품사: 동사
 ---
 000_KEYWORD: 빤하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61012
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2664,13 +2664,13 @@ imported:
       형태: 빤하니
     - 발음: 빤ː함니다
       형태: 빤합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빤하다
     품사: 형용사
 ---
 000_KEYWORD: 빤히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60505
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2722,13 +2722,13 @@ imported:
     표제어: 빤히
     품사: 부사
     항목ID: 60505
-processed:
+result:
   맞춤법 검사:
     표제어: 빤히
     품사: 부사
 ---
 000_KEYWORD: 빨가벗다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60674
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2770,7 +2770,7 @@ imported:
     - 발음: 빨가번는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60674_ppalgabeonneun.wav
       형태: 빨가벗는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -2778,7 +2778,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 빨간불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60383
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2839,13 +2839,13 @@ imported:
     표제어: 빨간불
     품사: 명사
     항목ID: 60383
-processed:
+result:
   맞춤법 검사:
     표제어: 빨간불
     품사: 명사
 ---
 000_KEYWORD: 빨간색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26849
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2893,13 +2893,13 @@ imported:
     - 발음: 빨간생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/26849_ppalgansaengman.wav
       형태: 빨간색만
-processed:
+result:
   맞춤법 검사:
     표제어: 빨간색
     품사: 명사
 ---
 000_KEYWORD: 빨강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60326
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2928,13 +2928,13 @@ imported:
     표제어: 빨강
     품사: 명사
     항목ID: 60326
-processed:
+result:
   맞춤법 검사:
     표제어: 빨강
     품사: 명사
 ---
 000_KEYWORD: 빨갛다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71070
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2979,7 +2979,7 @@ imported:
     - 발음: 빨ː가씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/71070_ppar-gasseumnida.wav
       형태: 빨갛습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -2987,7 +2987,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 빨개지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60585
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3034,7 +3034,7 @@ imported:
     - 발음: 빨ː개지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60585_ppar-gaejini.wav
       형태: 빨개지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3042,7 +3042,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 빨갱이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60382
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3069,13 +3069,13 @@ imported:
     표제어: 빨갱이
     품사: 명사
     항목ID: 60382
-processed:
+result:
   맞춤법 검사:
     표제어: 빨갱이
     품사: 명사
 ---
 000_KEYWORD: 빨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15646
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3130,13 +3130,13 @@ imported:
     - 발음: 빰니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/65866_ppamnida.wav
       형태: 빱니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빨다
     품사: 동사
 ---
 000_KEYWORD: 빨다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65866
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3175,13 +3175,13 @@ imported:
     - 발음: 빰니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/65866_ppamnida.wav
       형태: 빱니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빨다
     품사: 동사
 ---
 000_KEYWORD: 빨대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60378
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3212,13 +3212,13 @@ imported:
     표제어: 빨대
     품사: 명사
     항목ID: 60378
-processed:
+result:
   맞춤법 검사:
     표제어: 빨대
     품사: 명사
 ---
 000_KEYWORD: 빨랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92252
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3231,10 +3231,10 @@ imported:
     표제어: 빨랑
     품사: 부사
     항목ID: 92252
-processed: {}
+result: {}
 ---
 000_KEYWORD: 빨랑빨랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60379
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3262,13 +3262,13 @@ imported:
     표제어: 빨랑빨랑
     품사: 부사
     항목ID: 60379
-processed:
+result:
   맞춤법 검사:
     표제어: 빨랑빨랑
     품사: 부사
 ---
 000_KEYWORD: 빨래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66638
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3310,13 +3310,13 @@ imported:
     표제어: 빨래
     품사: 명사
     항목ID: 66638
-processed:
+result:
   맞춤법 검사:
     표제어: 빨래
     품사: 명사
 ---
 000_KEYWORD: 빨래방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60380
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3350,13 +3350,13 @@ imported:
     표제어: 빨래방
     품사: 명사
     항목ID: 60380
-processed:
+result:
   맞춤법 검사:
     표제어: 빨래방
     품사: 명사
 ---
 000_KEYWORD: 빨래집게__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60381
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3385,13 +3385,13 @@ imported:
     표제어: 빨래집게
     품사: 명사
     항목ID: 60381
-processed:
+result:
   맞춤법 검사:
     표제어: 빨래집게
     품사: 명사
 ---
 000_KEYWORD: 빨래터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3400,13 +3400,13 @@ imported:
     표제어: 빨래터
     품사: 명사:보통:비서술성
     항목ID: 13097
-processed:
+result:
   맞춤법 검사:
     표제어: 빨래터
     품사: 명사
 ---
 000_KEYWORD: 빨래판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61004
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3437,13 +3437,13 @@ imported:
     표제어: 빨래판
     품사: 명사
     항목ID: 61004
-processed:
+result:
   맞춤법 검사:
     표제어: 빨래판
     품사: 명사
 ---
 000_KEYWORD: 빨래하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61003
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3473,13 +3473,13 @@ imported:
     표제어: 빨래하다
     품사: 동사
     항목ID: 61003
-processed:
+result:
   맞춤법 검사:
     표제어: 빨래하다
     품사: 동사
 ---
 000_KEYWORD: 빨랫감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61008
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3516,13 +3516,13 @@ imported:
     표제어: 빨랫감
     품사: 명사
     항목ID: 61008
-processed:
+result:
   맞춤법 검사:
     표제어: 빨랫감
     품사: 명사
 ---
 000_KEYWORD: 빨랫방망이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61059
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3555,13 +3555,13 @@ imported:
     표제어: 빨랫방망이
     품사: 명사
     항목ID: 61059
-processed:
+result:
   맞춤법 검사:
     표제어: 빨랫방망이
     품사: 명사
 ---
 000_KEYWORD: 빨랫비누__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61062
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3602,13 +3602,13 @@ imported:
     표제어: 빨랫비누
     품사: 명사
     항목ID: 61062
-processed:
+result:
   맞춤법 검사:
     표제어: 빨랫비누
     품사: 명사
 ---
 000_KEYWORD: 빨랫줄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61064
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3647,13 +3647,13 @@ imported:
     표제어: 빨랫줄
     품사: 명사
     항목ID: 61064
-processed:
+result:
   맞춤법 검사:
     표제어: 빨랫줄
     품사: 명사
 ---
 000_KEYWORD: 빨리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57305
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3682,13 +3682,13 @@ imported:
     표제어: 빨리
     품사: 부사
     항목ID: 57305
-processed:
+result:
   맞춤법 검사:
     표제어: 빨리
     품사: 부사
 ---
 000_KEYWORD: 빨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61087
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3752,13 +3752,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
       형태: 빨리어
     - 형태: 빨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 빨리다
     품사: 동사
 ---
 000_KEYWORD: 빨리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91949
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3796,13 +3796,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
       형태: 빨리어
     - 형태: 빨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 빨리다
     품사: 동사
 ---
 000_KEYWORD: 빨리다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61088
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3836,13 +3836,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
       형태: 빨리어
     - 형태: 빨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 빨리다
     품사: 동사
 ---
 000_KEYWORD: 빨리빨리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61184
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3876,13 +3876,13 @@ imported:
     표제어: 빨리빨리
     품사: 부사
     항목ID: 61184
-processed:
+result:
   맞춤법 검사:
     표제어: 빨리빨리
     품사: 부사
 ---
 000_KEYWORD: 빨리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61185
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3917,13 +3917,13 @@ imported:
     표제어: 빨리하다
     품사: 동사
     항목ID: 61185
-processed:
+result:
   맞춤법 검사:
     표제어: 빨리하다
     품사: 동사
 ---
 000_KEYWORD: 빨빨__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61192
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3954,13 +3954,13 @@ imported:
     표제어: 빨빨
     품사: 부사
     항목ID: 61192
-processed:
+result:
   맞춤법 검사:
     표제어: 빨빨
     품사: 부사
 ---
 000_KEYWORD: 빨빨거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61193
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3993,13 +3993,13 @@ imported:
     표제어: 빨빨거리다
     품사: 동사
     항목ID: 61193
-processed:
+result:
   맞춤법 검사:
     표제어: 빨빨거리다
     품사: 동사
 ---
 000_KEYWORD: 빨빨대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88786
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4031,13 +4031,13 @@ imported:
     표제어: 빨빨대다
     품사: 동사
     항목ID: 88786
-processed:
+result:
   맞춤법 검사:
     표제어: 빨빨대다
     품사: 동사
 ---
 000_KEYWORD: 빨아내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61194
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4076,7 +4076,7 @@ imported:
     - 발음: 빠라내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61194_pparanaeni.wav
       형태: 빨아내니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -4084,7 +4084,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 빨아들이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61195
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4141,17 +4141,17 @@ imported:
     - 발음: 빠라드리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61195_pparadeurini.wav
       형태: 빨아들이니
-processed:
+result:
   맞춤법 검사:
     표제어: 빨아들이다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 빨아먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61210
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4189,13 +4189,13 @@ imported:
     - 발음: 빠라멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61210_pparameongneun.wav
       형태: 빨아먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 빨아먹다
     품사: 동사
 ---
 000_KEYWORD: 빨아올리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61214
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4239,13 +4239,13 @@ imported:
     - 발음: 빠라올리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61214_pparaollini.wav
       형태: 빨아올리니
-processed:
+result:
   맞춤법 검사:
     표제어: 빨아올리다
     품사: 동사
 ---
 000_KEYWORD: 빨치산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61220
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4284,13 +4284,13 @@ imported:
     표제어: 빨치산
     품사: 명사
     항목ID: 61220
-processed:
+result:
   맞춤법 검사:
     표제어: 빨치산
     품사: 명사
 ---
 000_KEYWORD: 빨판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67362
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4323,13 +4323,13 @@ imported:
     표제어: 빨판
     품사: 명사
     항목ID: 67362
-processed:
+result:
   맞춤법 검사:
     표제어: 빨판
     품사: 명사
 ---
 000_KEYWORD: 빳빳이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61244
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4373,13 +4373,13 @@ imported:
     표제어: 빳빳이
     품사: 부사
     항목ID: 61244
-processed:
+result:
   맞춤법 검사:
     표제어: 빳빳이
     품사: 부사
 ---
 000_KEYWORD: 빳빳하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61245
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4444,13 +4444,13 @@ imported:
       형태: 빳빳하니
     - 발음: 빧빠탐니다
       형태: 빳빳합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빳빳하다
     품사: 형용사
 ---
 000_KEYWORD: 빵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23402
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4504,13 +4504,13 @@ imported:
     표제어: 빵
     품사: 명사
     항목ID: 23402
-processed:
+result:
   맞춤법 검사:
     표제어: 빵
     품사: 명사
 ---
 000_KEYWORD: 빵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61246
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4587,13 +4587,13 @@ imported:
     표제어: 빵
     품사: 부사
     항목ID: 61246
-processed:
+result:
   맞춤법 검사:
     표제어: 빵
     품사: 부사
 ---
 000_KEYWORD: 빵가루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61249
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4625,13 +4625,13 @@ imported:
     표제어: 빵가루
     품사: 명사
     항목ID: 61249
-processed:
+result:
   맞춤법 검사:
     표제어: 빵가루
     품사: 명사
 ---
 000_KEYWORD: 빵꾸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92253
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4645,10 +4645,10 @@ imported:
     표제어: 빵꾸
     품사: 명사
     항목ID: 92253
-processed: {}
+result: {}
 ---
 000_KEYWORD: 빵빵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61247
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4739,13 +4739,13 @@ imported:
     표제어: 빵빵
     품사: 부사
     항목ID: 61247
-processed:
+result:
   맞춤법 검사:
     표제어: 빵빵
     품사: 부사
 ---
 000_KEYWORD: 빵빵거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61248
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4814,13 +4814,13 @@ imported:
     표제어: 빵빵거리다
     품사: 동사
     항목ID: 61248
-processed:
+result:
   맞춤법 검사:
     표제어: 빵빵거리다
     품사: 동사
 ---
 000_KEYWORD: 빵빵대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88787
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4887,13 +4887,13 @@ imported:
     표제어: 빵빵대다
     품사: 동사
     항목ID: 88787
-processed:
+result:
   맞춤법 검사:
     표제어: 빵빵대다
     품사: 동사
 ---
 000_KEYWORD: 빵빵하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4903,13 +4903,13 @@ imported:
     표제어: 빵빵하다
     품사: 형용사
     항목ID: 13111
-processed:
+result:
   맞춤법 검사:
     표제어: 빵빵하다
     품사: 형용사
 ---
 000_KEYWORD: 빵점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61251
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4957,13 +4957,13 @@ imported:
     표제어: 빵점
     품사: 명사
     항목ID: 61251
-processed:
+result:
   맞춤법 검사:
     표제어: 빵점
     품사: 명사
 ---
 000_KEYWORD: 빵집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61250
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5014,13 +5014,13 @@ imported:
     - 발음: 빵찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61250_ppangjjimman.wav
       형태: 빵집만
-processed:
+result:
   맞춤법 검사:
     표제어: 빵집
     품사: 명사
 ---
 000_KEYWORD: 빻다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61509
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5067,7 +5067,7 @@ imported:
     - 발음: 빠ː씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61509_ppa-sseumnida.wav
       형태: 빻습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙

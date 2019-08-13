@@ -1,5 +1,5 @@
 000_KEYWORD: -통__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83201
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -22,11 +22,11 @@ imported:
     표제어: -통
     품사: 접사
     항목ID: 83201
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 토-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83199
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -45,11 +45,11 @@ imported:
     표제어: 토-
     품사: 접사
     항목ID: 83199
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 토__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80179
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -93,13 +93,13 @@ imported:
     표제어: 토
     품사: 명사
     항목ID: 80179
-processed:
+result:
   맞춤법 검사:
     표제어: 토
     품사: 명사
 ---
 000_KEYWORD: 토__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90013
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -127,13 +127,13 @@ imported:
     표제어: 토
     품사: 명사
     항목ID: 90013
-processed:
+result:
   맞춤법 검사:
     표제어: 토
     품사: 명사
 ---
 000_KEYWORD: 토건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80181
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -160,13 +160,13 @@ imported:
     표제어: 토건
     품사: 명사
     항목ID: 80181
-processed:
+result:
   맞춤법 검사:
     표제어: 토건
     품사: 명사
 ---
 000_KEYWORD: 토고__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -175,13 +175,13 @@ imported:
     표제어: 토고
     품사: 명사:고유
     항목ID: 28036
-processed:
+result:
   맞춤법 검사:
     표제어: 토고
     품사: 명사
 ---
 000_KEYWORD: 토굴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80182
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -213,13 +213,13 @@ imported:
     표제어: 토굴
     품사: 명사
     항목ID: 80182
-processed:
+result:
   맞춤법 검사:
     표제어: 토굴
     품사: 명사
 ---
 000_KEYWORD: 토기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80184
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -264,13 +264,13 @@ imported:
     표제어: 토기
     품사: 명사
     항목ID: 80184
-processed:
+result:
   맞춤법 검사:
     표제어: 토기
     품사: 명사
 ---
 000_KEYWORD: 토끼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89388
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -302,13 +302,13 @@ imported:
     표제어: 토끼
     품사: 명사
     항목ID: 89388
-processed:
+result:
   맞춤법 검사:
     표제어: 토끼
     품사: 명사
 ---
 000_KEYWORD: 토끼다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80186
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -343,17 +343,17 @@ imported:
       형태: 토끼어
     - 형태: ''
     - 형태: 토끼니
-processed:
+result:
   맞춤법 검사:
     표제어: 토끼다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 비속어
 ---
 000_KEYWORD: 토끼띠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68728
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -377,13 +377,13 @@ imported:
     표제어: 토끼띠
     품사: 명사
     항목ID: 68728
-processed:
+result:
   맞춤법 검사:
     표제어: 토끼띠
     품사: 명사
 ---
 000_KEYWORD: 토끼풀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80255
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -417,13 +417,13 @@ imported:
     표제어: 토끼풀
     품사: 명사
     항목ID: 80255
-processed:
+result:
   맞춤법 검사:
     표제어: 토끼풀
     품사: 명사
 ---
 000_KEYWORD: 토너__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -433,13 +433,13 @@ imported:
     표제어: 토너
     품사: 명사:보통:서술성
     항목ID: 28043
-processed:
+result:
   맞춤법 검사:
     표제어: 토너
     품사: 명사
 ---
 000_KEYWORD: 토너먼트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80284
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -470,13 +470,13 @@ imported:
     표제어: 토너먼트
     품사: 명사
     항목ID: 80284
-processed:
+result:
   맞춤법 검사:
     표제어: 토너먼트
     품사: 명사
 ---
 000_KEYWORD: 토네이도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -486,13 +486,13 @@ imported:
     표제어: 토네이도
     품사: 명사:보통:서술성
     항목ID: 28045
-processed:
+result:
   맞춤법 검사:
     표제어: 토네이도
     품사: 명사
 ---
 000_KEYWORD: 토닥거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80302
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -534,13 +534,13 @@ imported:
     표제어: 토닥거리다
     품사: 동사
     항목ID: 80302
-processed:
+result:
   맞춤법 검사:
     표제어: 토닥거리다
     품사: 동사
 ---
 000_KEYWORD: 토닥대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91322
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -580,13 +580,13 @@ imported:
     표제어: 토닥대다
     품사: 동사
     항목ID: 91322
-processed:
+result:
   맞춤법 검사:
     표제어: 토닥대다
     품사: 동사
 ---
 000_KEYWORD: 토닥이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80305
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -620,13 +620,13 @@ imported:
     표제어: 토닥이다
     품사: 동사
     항목ID: 80305
-processed:
+result:
   맞춤법 검사:
     표제어: 토닥이다
     품사: 동사
 ---
 000_KEYWORD: 토닥토닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91323
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -656,13 +656,13 @@ imported:
     표제어: 토닥토닥
     품사: 부사
     항목ID: 91323
-processed:
+result:
   맞춤법 검사:
     표제어: 토닥토닥
     품사: 부사
 ---
 000_KEYWORD: 토닥토닥하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91324
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -704,13 +704,13 @@ imported:
     표제어: 토닥토닥하다
     품사: 동사
     항목ID: 91324
-processed:
+result:
   맞춤법 검사:
     표제어: 토닥토닥하다
     품사: 동사
 ---
 000_KEYWORD: 토담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80307
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -745,13 +745,13 @@ imported:
     표제어: 토담
     품사: 명사
     항목ID: 80307
-processed:
+result:
   맞춤법 검사:
     표제어: 토담
     품사: 명사
 ---
 000_KEYWORD: 토대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49282
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -791,13 +791,13 @@ imported:
     표제어: 토대
     품사: 명사
     항목ID: 49282
-processed:
+result:
   맞춤법 검사:
     표제어: 토대
     품사: 명사
 ---
 000_KEYWORD: 토대하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80310
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -827,13 +827,13 @@ imported:
     표제어: 토대하다
     품사: 동사
     항목ID: 80310
-processed:
+result:
   맞춤법 검사:
     표제어: 토대하다
     품사: 동사
 ---
 000_KEYWORD: 토라지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80314
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -873,7 +873,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/80314_torajeo.wav
       형태: 토라져
     - 형태: 토라지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -881,7 +881,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 토란__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80320
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -915,13 +915,13 @@ imported:
     표제어: 토란
     품사: 명사
     항목ID: 80320
-processed:
+result:
   맞춤법 검사:
     표제어: 토란
     품사: 명사
 ---
 000_KEYWORD: 토란국__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -931,13 +931,13 @@ imported:
     표제어: 토란국
     품사: 명사:보통:서술성
     항목ID: 28049
-processed:
+result:
   맞춤법 검사:
     표제어: 토란국
     품사: 명사
 ---
 000_KEYWORD: 토란대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -947,13 +947,13 @@ imported:
     표제어: 토란대
     품사: 명사:보통:서술성
     항목ID: 28050
-processed:
+result:
   맞춤법 검사:
     표제어: 토란대
     품사: 명사
 ---
 000_KEYWORD: 토로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80538
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -982,13 +982,13 @@ imported:
     표제어: 토로
     품사: 명사
     항목ID: 80538
-processed:
+result:
   맞춤법 검사:
     표제어: 토로
     품사: 명사
 ---
 000_KEYWORD: 토로하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80540
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1022,13 +1022,13 @@ imported:
     표제어: 토로하다
     품사: 동사
     항목ID: 80540
-processed:
+result:
   맞춤법 검사:
     표제어: 토로하다
     품사: 동사
 ---
 000_KEYWORD: 토록__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86121
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1048,11 +1048,11 @@ imported:
     표제어: 토록
     품사: 조사
     항목ID: 86121
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 토론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89389
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1082,13 +1082,13 @@ imported:
     표제어: 토론
     품사: 명사
     항목ID: 89389
-processed:
+result:
   맞춤법 검사:
     표제어: 토론
     품사: 명사
 ---
 000_KEYWORD: 토론되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80549
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1119,13 +1119,13 @@ imported:
     표제어: 토론되다
     품사: 동사
     항목ID: 80549
-processed:
+result:
   맞춤법 검사:
     표제어: 토론되다
     품사: 동사
 ---
 000_KEYWORD: 토론자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49283
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1153,13 +1153,13 @@ imported:
     표제어: 토론자
     품사: 명사
     항목ID: 49283
-processed:
+result:
   맞춤법 검사:
     표제어: 토론자
     품사: 명사
 ---
 000_KEYWORD: 토론토__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1169,13 +1169,13 @@ imported:
     표제어: 토론토
     품사: 명사:고유
     항목ID: 28055
-processed:
+result:
   맞춤법 검사:
     표제어: 토론토
     품사: 명사
 ---
 000_KEYWORD: 토론하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49284
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1204,13 +1204,13 @@ imported:
     표제어: 토론하다
     품사: 동사
     항목ID: 49284
-processed:
+result:
   맞춤법 검사:
     표제어: 토론하다
     품사: 동사
 ---
 000_KEYWORD: 토론회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49285
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1241,13 +1241,13 @@ imported:
     표제어: 토론회
     품사: 명사
     항목ID: 49285
-processed:
+result:
   맞춤법 검사:
     표제어: 토론회
     품사: 명사
 ---
 000_KEYWORD: 토마토__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89390
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1279,13 +1279,13 @@ imported:
     표제어: 토마토
     품사: 명사
     항목ID: 89390
-processed:
+result:
   맞춤법 검사:
     표제어: 토마토
     품사: 명사
 ---
 000_KEYWORD: 토마토케첩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80553
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1319,13 +1319,13 @@ imported:
     표제어: 토마토케첩
     품사: 명사
     항목ID: 80553
-processed:
+result:
   맞춤법 검사:
     표제어: 토마토케첩
     품사: 명사
 ---
 000_KEYWORD: 토막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80558
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1412,13 +1412,13 @@ imported:
     - 발음: 토망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80558_tomangman.wav
       형태: 토막만
-processed:
+result:
   맞춤법 검사:
     표제어: 토막
     품사: 명사
 ---
 000_KEYWORD: 토막토막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80559
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1445,13 +1445,13 @@ imported:
     표제어: 토막토막
     품사: 명사
     항목ID: 80559
-processed:
+result:
   맞춤법 검사:
     표제어: 토막토막
     품사: 명사
 ---
 000_KEYWORD: 토막토막__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80562
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1491,13 +1491,13 @@ imported:
     표제어: 토막토막
     품사: 부사
     항목ID: 80562
-processed:
+result:
   맞춤법 검사:
     표제어: 토막토막
     품사: 부사
 ---
 000_KEYWORD: 토목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80563
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1544,13 +1544,13 @@ imported:
     표제어: 토목
     품사: 명사
     항목ID: 80563
-processed:
+result:
   맞춤법 검사:
     표제어: 토목
     품사: 명사
 ---
 000_KEYWORD: 토목공사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1559,13 +1559,13 @@ imported:
     표제어: 토목공사
     품사: 명사:보통:비서술성
     항목ID: 28062
-processed:
+result:
   맞춤법 검사:
     표제어: 토목공사
     품사: 명사
 ---
 000_KEYWORD: 토목공학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1574,13 +1574,13 @@ imported:
     표제어: 토목공학
     품사: 명사:보통:서술성
     항목ID: 28063
-processed:
+result:
   맞춤법 검사:
     표제어: 토목공학
     품사: 명사
 ---
 000_KEYWORD: 토박이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80565
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1615,13 +1615,13 @@ imported:
     표제어: 토박이
     품사: 명사
     항목ID: 80565
-processed:
+result:
   맞춤법 검사:
     표제어: 토박이
     품사: 명사
 ---
 000_KEYWORD: 토박이말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80567
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1654,13 +1654,13 @@ imported:
     표제어: 토박이말
     품사: 명사
     항목ID: 80567
-processed:
+result:
   맞춤법 검사:
     표제어: 토박이말
     품사: 명사
 ---
 000_KEYWORD: 토방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80587
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1692,13 +1692,13 @@ imported:
     표제어: 토방
     품사: 명사
     항목ID: 80587
-processed:
+result:
   맞춤법 검사:
     표제어: 토방
     품사: 명사
 ---
 000_KEYWORD: 토벌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80594
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1727,13 +1727,13 @@ imported:
     표제어: 토벌
     품사: 명사
     항목ID: 80594
-processed:
+result:
   맞춤법 검사:
     표제어: 토벌
     품사: 명사
 ---
 000_KEYWORD: 토사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80598
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1765,13 +1765,13 @@ imported:
     표제어: 토사
     품사: 명사
     항목ID: 80598
-processed:
+result:
   맞춤법 검사:
     표제어: 토사
     품사: 명사
 ---
 000_KEYWORD: 토사곽란__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80607
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1799,13 +1799,13 @@ imported:
     표제어: 토사곽란
     품사: 명사
     항목ID: 80607
-processed:
+result:
   맞춤법 검사:
     표제어: 토사곽란
     품사: 명사
 ---
 000_KEYWORD: 토사구팽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80611
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1831,13 +1831,13 @@ imported:
     표제어: 토사구팽
     품사: 명사
     항목ID: 80611
-processed:
+result:
   맞춤법 검사:
     표제어: 토사구팽
     품사: 명사
 ---
 000_KEYWORD: 토사물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80612
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1865,13 +1865,13 @@ imported:
     표제어: 토사물
     품사: 명사
     항목ID: 80612
-processed:
+result:
   맞춤법 검사:
     표제어: 토사물
     품사: 명사
 ---
 000_KEYWORD: 토산물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80616
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1899,13 +1899,13 @@ imported:
     표제어: 토산물
     품사: 명사
     항목ID: 80616
-processed:
+result:
   맞춤법 검사:
     표제어: 토산물
     품사: 명사
 ---
 000_KEYWORD: 토산품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80617
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1933,13 +1933,13 @@ imported:
     표제어: 토산품
     품사: 명사
     항목ID: 80617
-processed:
+result:
   맞춤법 검사:
     표제어: 토산품
     품사: 명사
 ---
 000_KEYWORD: 토성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80620
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1970,13 +1970,13 @@ imported:
     표제어: 토성
     품사: 명사
     항목ID: 80620
-processed:
+result:
   맞춤법 검사:
     표제어: 토성
     품사: 명사
 ---
 000_KEYWORD: 토성__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80623
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2010,13 +2010,13 @@ imported:
     표제어: 토성
     품사: 명사
     항목ID: 80623
-processed:
+result:
   맞춤법 검사:
     표제어: 토성
     품사: 명사
 ---
 000_KEYWORD: 토속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80649
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2054,13 +2054,13 @@ imported:
     - 발음: 토송만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80649_tosongman.wav
       형태: 토속만
-processed:
+result:
   맞춤법 검사:
     표제어: 토속
     품사: 명사
 ---
 000_KEYWORD: 토속적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80653
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2088,13 +2088,13 @@ imported:
     표제어: 토속적
     품사: 관형사
     항목ID: 80653
-processed:
+result:
   맞춤법 검사:
     표제어: 토속적
     품사: 관형사
 ---
 000_KEYWORD: 토속적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80655
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2122,13 +2122,13 @@ imported:
     표제어: 토속적
     품사: 명사
     항목ID: 80655
-processed:
+result:
   맞춤법 검사:
     표제어: 토속적
     품사: 명사
 ---
 000_KEYWORD: 토스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80727
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2164,13 +2164,13 @@ imported:
     표제어: 토스
     품사: 명사
     항목ID: 80727
-processed:
+result:
   맞춤법 검사:
     표제어: 토스
     품사: 명사
 ---
 000_KEYWORD: 토스터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80732
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2199,13 +2199,13 @@ imported:
     표제어: 토스터
     품사: 명사
     항목ID: 80732
-processed:
+result:
   맞춤법 검사:
     표제어: 토스터
     품사: 명사
 ---
 000_KEYWORD: 토스트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80740
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2234,13 +2234,13 @@ imported:
     표제어: 토스트
     품사: 명사
     항목ID: 80740
-processed:
+result:
   맞춤법 검사:
     표제어: 토스트
     품사: 명사
 ---
 000_KEYWORD: 토스하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80738
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2281,13 +2281,13 @@ imported:
     표제어: 토스하다
     품사: 동사
     항목ID: 80738
-processed:
+result:
   맞춤법 검사:
     표제어: 토스하다
     품사: 동사
 ---
 000_KEYWORD: 토시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80796
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2346,13 +2346,13 @@ imported:
     표제어: 토시
     품사: 명사
     항목ID: 80796
-processed:
+result:
   맞춤법 검사:
     표제어: 토시
     품사: 명사
 ---
 000_KEYWORD: 토실토실__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80811
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2379,13 +2379,13 @@ imported:
     표제어: 토실토실
     품사: 부사
     항목ID: 80811
-processed:
+result:
   맞춤법 검사:
     표제어: 토실토실
     품사: 부사
 ---
 000_KEYWORD: 토실토실하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80815
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2424,13 +2424,13 @@ imported:
       형태: 토실토실하니
     - 발음: 토실토실함니다
       형태: 토실토실합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 토실토실하다
     품사: 형용사
 ---
 000_KEYWORD: 토씨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2439,13 +2439,13 @@ imported:
     표제어: 토씨
     품사: 명사:보통:비서술성
     항목ID: 28081
-processed:
+result:
   맞춤법 검사:
     표제어: 토씨
     품사: 명사
 ---
 000_KEYWORD: 토양__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80850
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2512,13 +2512,13 @@ imported:
     표제어: 토양
     품사: 명사
     항목ID: 80850
-processed:
+result:
   맞춤법 검사:
     표제어: 토양
     품사: 명사
 ---
 000_KEYWORD: 토요일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30214
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2563,13 +2563,13 @@ imported:
     표제어: 토요일
     품사: 명사
     항목ID: 30214
-processed:
+result:
   맞춤법 검사:
     표제어: 토요일
     품사: 명사
 ---
 000_KEYWORD: 토우__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2580,13 +2580,13 @@ imported:
     표제어: 토우
     품사: 명사:보통:비서술성
     항목ID: 28085
-processed:
+result:
   맞춤법 검사:
     표제어: 토우
     품사: 명사
 ---
 000_KEYWORD: 토의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80858
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2625,13 +2625,13 @@ imported:
     표제어: 토의
     품사: 명사
     항목ID: 80858
-processed:
+result:
   맞춤법 검사:
     표제어: 토의
     품사: 명사
 ---
 000_KEYWORD: 토의되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80861
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2665,13 +2665,13 @@ imported:
     표제어: 토의되다
     품사: 동사
     항목ID: 80861
-processed:
+result:
   맞춤법 검사:
     표제어: 토의되다
     품사: 동사
 ---
 000_KEYWORD: 토의하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80864
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2703,13 +2703,13 @@ imported:
     표제어: 토의하다
     품사: 동사
     항목ID: 80864
-processed:
+result:
   맞춤법 검사:
     표제어: 토의하다
     품사: 동사
 ---
 000_KEYWORD: 토익__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2719,13 +2719,13 @@ imported:
     표제어: 토익
     품사: 명사:보통:서술성
     항목ID: 28088
-processed:
+result:
   맞춤법 검사:
     표제어: 토익
     품사: 명사
 ---
 000_KEYWORD: 토종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80868
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2776,13 +2776,13 @@ imported:
     표제어: 토종
     품사: 명사
     항목ID: 80868
-processed:
+result:
   맞춤법 검사:
     표제어: 토종
     품사: 명사
 ---
 000_KEYWORD: 토종꿀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80869
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2810,13 +2810,13 @@ imported:
     표제어: 토종꿀
     품사: 명사
     항목ID: 80869
-processed:
+result:
   맞춤법 검사:
     표제어: 토종꿀
     품사: 명사
 ---
 000_KEYWORD: 토종닭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80874
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2855,13 +2855,13 @@ imported:
     - 발음: 토종땅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80874_tojongttangman.wav
       형태: 토종닭만
-processed:
+result:
   맞춤법 검사:
     표제어: 토종닭
     품사: 명사
 ---
 000_KEYWORD: 토지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80879
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2900,13 +2900,13 @@ imported:
     표제어: 토지
     품사: 명사
     항목ID: 80879
-processed:
+result:
   맞춤법 검사:
     표제어: 토지
     품사: 명사
 ---
 000_KEYWORD: 토질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80884
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2950,13 +2950,13 @@ imported:
     표제어: 토질
     품사: 명사
     항목ID: 80884
-processed:
+result:
   맞춤법 검사:
     표제어: 토질
     품사: 명사
 ---
 000_KEYWORD: 토착__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80913
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2998,13 +2998,13 @@ imported:
     - 발음: 토창만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80913_tochangman.wav
       형태: 토착만
-processed:
+result:
   맞춤법 검사:
     표제어: 토착
     품사: 명사
 ---
 000_KEYWORD: 토착되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80922
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3035,13 +3035,13 @@ imported:
     표제어: 토착되다
     품사: 동사
     항목ID: 80922
-processed:
+result:
   맞춤법 검사:
     표제어: 토착되다
     품사: 동사
 ---
 000_KEYWORD: 토착하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80924
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3069,13 +3069,13 @@ imported:
     표제어: 토착하다
     품사: 동사
     항목ID: 80924
-processed:
+result:
   맞춤법 검사:
     표제어: 토착하다
     품사: 동사
 ---
 000_KEYWORD: 토착화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81111
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3110,13 +3110,13 @@ imported:
     표제어: 토착화
     품사: 명사
     항목ID: 81111
-processed:
+result:
   맞춤법 검사:
     표제어: 토착화
     품사: 명사
 ---
 000_KEYWORD: 토착화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81113
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3150,13 +3150,13 @@ imported:
     표제어: 토착화되다
     품사: 동사
     항목ID: 81113
-processed:
+result:
   맞춤법 검사:
     표제어: 토착화되다
     품사: 동사
 ---
 000_KEYWORD: 토착화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81114
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3185,13 +3185,13 @@ imported:
     표제어: 토착화하다
     품사: 동사
     항목ID: 81114
-processed:
+result:
   맞춤법 검사:
     표제어: 토착화하다
     품사: 동사
 ---
 000_KEYWORD: 토크__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3202,13 +3202,13 @@ imported:
     표제어: 토크
     품사: 명사:보통:서술성
     항목ID: 28094
-processed:
+result:
   맞춤법 검사:
     표제어: 토크
     품사: 명사
 ---
 000_KEYWORD: 토큰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81120
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3237,13 +3237,13 @@ imported:
     표제어: 토큰
     품사: 명사
     항목ID: 81120
-processed:
+result:
   맞춤법 검사:
     표제어: 토큰
     품사: 명사
 ---
 000_KEYWORD: 토테미즘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81123
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3272,13 +3272,13 @@ imported:
     표제어: 토테미즘
     품사: 명사
     항목ID: 81123
-processed:
+result:
   맞춤법 검사:
     표제어: 토테미즘
     품사: 명사
 ---
 000_KEYWORD: 토템__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81129
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3311,13 +3311,13 @@ imported:
     표제어: 토템
     품사: 명사
     항목ID: 81129
-processed:
+result:
   맞춤법 검사:
     표제어: 토템
     품사: 명사
 ---
 000_KEYWORD: 토플__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81134
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3345,13 +3345,13 @@ imported:
     표제어: 토플
     품사: 명사
     항목ID: 81134
-processed:
+result:
   맞춤법 검사:
     표제어: 토플
     품사: 명사
 ---
 000_KEYWORD: 토픽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81140
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3400,13 +3400,13 @@ imported:
     표제어: 토픽
     품사: 명사
     항목ID: 81140
-processed:
+result:
   맞춤법 검사:
     표제어: 토픽
     품사: 명사
 ---
 000_KEYWORD: 토핑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81151
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3431,13 +3431,13 @@ imported:
     표제어: 토핑
     품사: 명사
     항목ID: 81151
-processed:
+result:
   맞춤법 검사:
     표제어: 토핑
     품사: 명사
 ---
 000_KEYWORD: 토하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49300
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3496,13 +3496,13 @@ imported:
     표제어: 토하다
     품사: 동사
     항목ID: 49300
-processed:
+result:
   맞춤법 검사:
     표제어: 토하다
     품사: 동사
 ---
 000_KEYWORD: 토호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81159
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3531,13 +3531,13 @@ imported:
     표제어: 토호
     품사: 명사
     항목ID: 81159
-processed:
+result:
   맞춤법 검사:
     표제어: 토호
     품사: 명사
 ---
 000_KEYWORD: 톡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81178
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3691,13 +3691,13 @@ imported:
     표제어: 톡
     품사: 부사
     항목ID: 81178
-processed:
+result:
   맞춤법 검사:
     표제어: 톡
     품사: 부사
 ---
 000_KEYWORD: 톡탁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81186
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3741,13 +3741,13 @@ imported:
     표제어: 톡탁
     품사: 부사
     항목ID: 81186
-processed:
+result:
   맞춤법 검사:
     표제어: 톡탁
     품사: 부사
 ---
 000_KEYWORD: 톡탁거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81197
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3804,13 +3804,13 @@ imported:
     표제어: 톡탁거리다
     품사: 동사
     항목ID: 81197
-processed:
+result:
   맞춤법 검사:
     표제어: 톡탁거리다
     품사: 동사
 ---
 000_KEYWORD: 톡탁대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91325
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3866,13 +3866,13 @@ imported:
     표제어: 톡탁대다
     품사: 동사
     항목ID: 91325
-processed:
+result:
   맞춤법 검사:
     표제어: 톡탁대다
     품사: 동사
 ---
 000_KEYWORD: 톡탁이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91326
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3915,13 +3915,13 @@ imported:
     표제어: 톡탁이다
     품사: 동사
     항목ID: 91326
-processed:
+result:
   맞춤법 검사:
     표제어: 톡탁이다
     품사: 동사
 ---
 000_KEYWORD: 톡탁톡탁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91327
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3961,13 +3961,13 @@ imported:
     표제어: 톡탁톡탁
     품사: 부사
     항목ID: 91327
-processed:
+result:
   맞춤법 검사:
     표제어: 톡탁톡탁
     품사: 부사
 ---
 000_KEYWORD: 톡탁톡탁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91333
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4027,13 +4027,13 @@ imported:
     표제어: 톡탁톡탁하다
     품사: 동사
     항목ID: 91333
-processed:
+result:
   맞춤법 검사:
     표제어: 톡탁톡탁하다
     품사: 동사
 ---
 000_KEYWORD: 톡탁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91334
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4075,13 +4075,13 @@ imported:
     표제어: 톡탁하다
     품사: 동사
     항목ID: 91334
-processed:
+result:
   맞춤법 검사:
     표제어: 톡탁하다
     품사: 동사
 ---
 000_KEYWORD: 톡톡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81281
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4258,13 +4258,13 @@ imported:
     표제어: 톡톡
     품사: 부사
     항목ID: 81281
-processed:
+result:
   맞춤법 검사:
     표제어: 톡톡
     품사: 부사
 ---
 000_KEYWORD: 톡톡거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81300
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4423,13 +4423,13 @@ imported:
     표제어: 톡톡거리다
     품사: 동사
     항목ID: 81300
-processed:
+result:
   맞춤법 검사:
     표제어: 톡톡거리다
     품사: 동사
 ---
 000_KEYWORD: 톡톡대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91335
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4585,13 +4585,13 @@ imported:
     표제어: 톡톡대다
     품사: 동사
     항목ID: 91335
-processed:
+result:
   맞춤법 검사:
     표제어: 톡톡대다
     품사: 동사
 ---
 000_KEYWORD: 톡톡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81331
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4712,13 +4712,13 @@ imported:
       형태: 톡톡하니
     - 발음: 톡토캄니다
       형태: 톡톡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 톡톡하다
     품사: 형용사
 ---
 000_KEYWORD: 톡톡히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81344
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4806,13 +4806,13 @@ imported:
     표제어: 톡톡히
     품사: 부사
     항목ID: 81344
-processed:
+result:
   맞춤법 검사:
     표제어: 톡톡히
     품사: 부사
 ---
 000_KEYWORD: 톤__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81351
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4871,13 +4871,13 @@ imported:
     표제어: 톤
     품사: 명사
     항목ID: 81351
-processed:
+result:
   맞춤법 검사:
     표제어: 톤
     품사: 명사
 ---
 000_KEYWORD: 톤__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71292
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4917,13 +4917,13 @@ imported:
     표제어: 톤
     품사: 의존 명사
     항목ID: 71292
-processed:
+result:
   맞춤법 검사:
     표제어: 톤
     품사: 의존 명사
 ---
 000_KEYWORD: 톨__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81358
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4948,13 +4948,13 @@ imported:
     표제어: 톨
     품사: 의존 명사
     항목ID: 81358
-processed:
+result:
   맞춤법 검사:
     표제어: 톨
     품사: 의존 명사
 ---
 000_KEYWORD: 톨게이트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81365
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4987,13 +4987,13 @@ imported:
     표제어: 톨게이트
     품사: 명사
     항목ID: 81365
-processed:
+result:
   맞춤법 검사:
     표제어: 톨게이트
     품사: 명사
 ---
 000_KEYWORD: 톨스토이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5003,13 +5003,13 @@ imported:
     표제어: 톨스토이
     품사: 명사:고유
     항목ID: 28105
-processed:
+result:
   맞춤법 검사:
     표제어: 톨스토이
     품사: 명사
 ---
 000_KEYWORD: 톱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81369
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5049,13 +5049,13 @@ imported:
     - 발음: 톰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81381_tomman.wav
       형태: 톱만
-processed:
+result:
   맞춤법 검사:
     표제어: 톱
     품사: 명사
 ---
 000_KEYWORD: 톱__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81381
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5099,13 +5099,13 @@ imported:
     표제어: 톱
     품사: 명사
     항목ID: 81381
-processed:
+result:
   맞춤법 검사:
     표제어: 톱
     품사: 명사
 ---
 000_KEYWORD: 톱날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81399
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5132,13 +5132,13 @@ imported:
     표제어: 톱날
     품사: 명사
     항목ID: 81399
-processed:
+result:
   맞춤법 검사:
     표제어: 톱날
     품사: 명사
 ---
 000_KEYWORD: 톱니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81407
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5165,13 +5165,13 @@ imported:
     표제어: 톱니
     품사: 명사
     항목ID: 81407
-processed:
+result:
   맞춤법 검사:
     표제어: 톱니
     품사: 명사
 ---
 000_KEYWORD: 톱니바퀴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81413
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5203,13 +5203,13 @@ imported:
     표제어: 톱니바퀴
     품사: 명사
     항목ID: 81413
-processed:
+result:
   맞춤법 검사:
     표제어: 톱니바퀴
     품사: 명사
 ---
 000_KEYWORD: 톱밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81417
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5255,13 +5255,13 @@ imported:
     - 발음: 톱빰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81417_topppamman.wav
       형태: 톱밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 톱밥
     품사: 명사
 ---
 000_KEYWORD: 톱질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81421
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5289,13 +5289,13 @@ imported:
     표제어: 톱질
     품사: 명사
     항목ID: 81421
-processed:
+result:
   맞춤법 검사:
     표제어: 톱질
     품사: 명사
 ---
 000_KEYWORD: 톱질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81423
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5323,13 +5323,13 @@ imported:
     표제어: 톱질하다
     품사: 동사
     항목ID: 81423
-processed:
+result:
   맞춤법 검사:
     표제어: 톱질하다
     품사: 동사
 ---
 000_KEYWORD: 톱클래스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5339,13 +5339,13 @@ imported:
     표제어: 톱클래스
     품사: 명사:보통:서술성
     항목ID: 28110
-processed:
+result:
   맞춤법 검사:
     표제어: 톱클래스
     품사: 명사
 ---
 000_KEYWORD: 통-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83200
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5381,11 +5381,11 @@ imported:
     표제어: 통-
     품사: 접사
     항목ID: 83200
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81468
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5426,13 +5426,13 @@ imported:
     표제어: 통
     품사: 명사
     항목ID: 81468
-processed:
+result:
   맞춤법 검사:
     표제어: 통
     품사: 명사
 ---
 000_KEYWORD: 통__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81472
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5487,13 +5487,13 @@ imported:
     표제어: 통
     품사: 명사
     항목ID: 81472
-processed:
+result:
   맞춤법 검사:
     표제어: 통
     품사: 명사
 ---
 000_KEYWORD: 통__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71293
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5538,13 +5538,13 @@ imported:
     표제어: 통
     품사: 명사
     항목ID: 71293
-processed:
+result:
   맞춤법 검사:
     표제어: 통
     품사: 명사
 ---
 000_KEYWORD: 통__명사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81478
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5571,13 +5571,13 @@ imported:
     표제어: 통
     품사: 명사
     항목ID: 81478
-processed:
+result:
   맞춤법 검사:
     표제어: 통
     품사: 명사
 ---
 000_KEYWORD: 통__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81476
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5629,13 +5629,13 @@ imported:
     표제어: 통
     품사: 부사
     항목ID: 81476
-processed:
+result:
   맞춤법 검사:
     표제어: 통
     품사: 부사
 ---
 000_KEYWORD: 통__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81473
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5661,13 +5661,13 @@ imported:
     표제어: 통
     품사: 의존 명사
     항목ID: 81473
-processed:
+result:
   맞춤법 검사:
     표제어: 통
     품사: 의존 명사
 ---
 000_KEYWORD: 통__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71294
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5694,13 +5694,13 @@ imported:
     표제어: 통
     품사: 의존 명사
     항목ID: 71294
-processed:
+result:
   맞춤법 검사:
     표제어: 통
     품사: 의존 명사
 ---
 000_KEYWORD: 통가__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5710,13 +5710,13 @@ imported:
     표제어: 통가
     품사: 명사:고유
     항목ID: 28113
-processed:
+result:
   맞춤법 검사:
     표제어: 통가
     품사: 명사
 ---
 000_KEYWORD: 통가죽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81482
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5754,13 +5754,13 @@ imported:
     - 발음: 통가중만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81482_tonggajungman.wav
       형태: 통가죽만
-processed:
+result:
   맞춤법 검사:
     표제어: 통가죽
     품사: 명사
 ---
 000_KEYWORD: 통각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81483
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5796,13 +5796,13 @@ imported:
     - 발음: 통ː강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81483_tong-gangman.wav
       형태: 통각만
-processed:
+result:
   맞춤법 검사:
     표제어: 통각
     품사: 명사
 ---
 000_KEYWORD: 통감부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5812,13 +5812,13 @@ imported:
     표제어: 통감부
     품사: 명사:보통:서술성
     항목ID: 28115
-processed:
+result:
   맞춤법 검사:
     표제어: 통감부
     품사: 명사
 ---
 000_KEYWORD: 통감하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81486
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5851,13 +5851,13 @@ imported:
     표제어: 통감하다
     품사: 동사
     항목ID: 81486
-processed:
+result:
   맞춤법 검사:
     표제어: 통감하다
     품사: 동사
 ---
 000_KEYWORD: 통계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49302
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5895,13 +5895,13 @@ imported:
     표제어: 통계
     품사: 명사
     항목ID: 49302
-processed:
+result:
   맞춤법 검사:
     표제어: 통계
     품사: 명사
 ---
 000_KEYWORD: 통계적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81488
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5934,13 +5934,13 @@ imported:
     표제어: 통계적
     품사: 관형사
     항목ID: 81488
-processed:
+result:
   맞춤법 검사:
     표제어: 통계적
     품사: 관형사
 ---
 000_KEYWORD: 통계적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81490
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5978,13 +5978,13 @@ imported:
     표제어: 통계적
     품사: 명사
     항목ID: 81490
-processed:
+result:
   맞춤법 검사:
     표제어: 통계적
     품사: 명사
 ---
 000_KEYWORD: 통계청__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5993,13 +5993,13 @@ imported:
     표제어: 통계청
     품사: 명사:보통:서술성
     항목ID: 28119
-processed:
+result:
   맞춤법 검사:
     표제어: 통계청
     품사: 명사
 ---
 000_KEYWORD: 통계표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85946
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6031,13 +6031,13 @@ imported:
     표제어: 통계표
     품사: 명사
     항목ID: 85946
-processed:
+result:
   맞춤법 검사:
     표제어: 통계표
     품사: 명사
 ---
 000_KEYWORD: 통계하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85944
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6080,13 +6080,13 @@ imported:
     표제어: 통계하다
     품사: 동사
     항목ID: 85944
-processed:
+result:
   맞춤법 검사:
     표제어: 통계하다
     품사: 동사
 ---
 000_KEYWORD: 통계학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85947
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6135,13 +6135,13 @@ imported:
     - 발음: 통ː게항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/85947_tong-gehangman.wav
       형태: 통계학만
-processed:
+result:
   맞춤법 검사:
     표제어: 통계학
     품사: 명사
 ---
 000_KEYWORD: 통고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85948
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6170,13 +6170,13 @@ imported:
     표제어: 통고
     품사: 명사
     항목ID: 85948
-processed:
+result:
   맞춤법 검사:
     표제어: 통고
     품사: 명사
 ---
 000_KEYWORD: 통고되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85949
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6207,13 +6207,13 @@ imported:
     표제어: 통고되다
     품사: 동사
     항목ID: 85949
-processed:
+result:
   맞춤법 검사:
     표제어: 통고되다
     품사: 동사
 ---
 000_KEYWORD: 통고처분__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6223,13 +6223,13 @@ imported:
     표제어: 통고처분
     품사: 명사:보통:서술성
     항목ID: 28121
-processed:
+result:
   맞춤법 검사:
     표제어: 통고처분
     품사: 명사
 ---
 000_KEYWORD: 통고하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85950
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6258,13 +6258,13 @@ imported:
     표제어: 통고하다
     품사: 동사
     항목ID: 85950
-processed:
+result:
   맞춤법 검사:
     표제어: 통고하다
     품사: 동사
 ---
 000_KEYWORD: 통곡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85951
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6307,13 +6307,13 @@ imported:
     - 발음: 통ː공만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/85951_tong-gongman.wav
       형태: 통곡만
-processed:
+result:
   맞춤법 검사:
     표제어: 통곡
     품사: 명사
 ---
 000_KEYWORD: 통곡하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85952
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6342,13 +6342,13 @@ imported:
     표제어: 통곡하다
     품사: 동사
     항목ID: 85952
-processed:
+result:
   맞춤법 검사:
     표제어: 통곡하다
     품사: 동사
 ---
 000_KEYWORD: 통과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49304
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6420,13 +6420,13 @@ imported:
     표제어: 통과
     품사: 명사
     항목ID: 49304
-processed:
+result:
   맞춤법 검사:
     표제어: 통과
     품사: 명사
 ---
 000_KEYWORD: 통과되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85953
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6486,13 +6486,13 @@ imported:
     표제어: 통과되다
     품사: 동사
     항목ID: 85953
-processed:
+result:
   맞춤법 검사:
     표제어: 통과되다
     품사: 동사
 ---
 000_KEYWORD: 통과시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85673
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6551,13 +6551,13 @@ imported:
     표제어: 통과시키다
     품사: 동사
     항목ID: 85673
-processed:
+result:
   맞춤법 검사:
     표제어: 통과시키다
     품사: 동사
 ---
 000_KEYWORD: 통과의례__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6567,13 +6567,13 @@ imported:
     표제어: 통과의례
     품사: 명사:보통:서술성
     항목ID: 28128
-processed:
+result:
   맞춤법 검사:
     표제어: 통과의례
     품사: 명사
 ---
 000_KEYWORD: 통과하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49307
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6645,13 +6645,13 @@ imported:
     표제어: 통과하다
     품사: 동사
     항목ID: 49307
-processed:
+result:
   맞춤법 검사:
     표제어: 통과하다
     품사: 동사
 ---
 000_KEYWORD: 통관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85955
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6683,13 +6683,13 @@ imported:
     표제어: 통관
     품사: 명사
     항목ID: 85955
-processed:
+result:
   맞춤법 검사:
     표제어: 통관
     품사: 명사
 ---
 000_KEYWORD: 통관하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85956
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6718,13 +6718,13 @@ imported:
     표제어: 통관하다
     품사: 동사
     항목ID: 85956
-processed:
+result:
   맞춤법 검사:
     표제어: 통관하다
     품사: 동사
 ---
 000_KEYWORD: 통괄하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6734,13 +6734,13 @@ imported:
     표제어: 통괄하다
     품사: 동사
     항목ID: 28130
-processed:
+result:
   맞춤법 검사:
     표제어: 통괄하다
     품사: 동사
 ---
 000_KEYWORD: 통구이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6750,13 +6750,13 @@ imported:
     표제어: 통구이
     품사: 명사:보통:서술성
     항목ID: 28131
-processed:
+result:
   맞춤법 검사:
     표제어: 통구이
     품사: 명사
 ---
 000_KEYWORD: 통권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85957
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6784,13 +6784,13 @@ imported:
     표제어: 통권
     품사: 명사
     항목ID: 85957
-processed:
+result:
   맞춤법 검사:
     표제어: 통권
     품사: 명사
 ---
 000_KEYWORD: 통근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85958
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6818,13 +6818,13 @@ imported:
     표제어: 통근
     품사: 명사
     항목ID: 85958
-processed:
+result:
   맞춤법 검사:
     표제어: 통근
     품사: 명사
 ---
 000_KEYWORD: 통근하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85959
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6854,13 +6854,13 @@ imported:
     표제어: 통근하다
     품사: 동사
     항목ID: 85959
-processed:
+result:
   맞춤법 검사:
     표제어: 통근하다
     품사: 동사
 ---
 000_KEYWORD: 통금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85960
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6914,13 +6914,13 @@ imported:
     표제어: 통금
     품사: 명사
     항목ID: 85960
-processed:
+result:
   맞춤법 검사:
     표제어: 통금
     품사: 명사
 ---
 000_KEYWORD: 통기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85961
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6951,13 +6951,13 @@ imported:
     표제어: 통기
     품사: 명사
     항목ID: 85961
-processed:
+result:
   맞춤법 검사:
     표제어: 통기
     품사: 명사
 ---
 000_KEYWORD: 통기성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85962
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6986,13 +6986,13 @@ imported:
     표제어: 통기성
     품사: 명사
     항목ID: 85962
-processed:
+result:
   맞춤법 검사:
     표제어: 통기성
     품사: 명사
 ---
 000_KEYWORD: 통깨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7002,13 +7002,13 @@ imported:
     표제어: 통깨
     품사: 명사:보통:비서술성
     항목ID: 28134
-processed:
+result:
   맞춤법 검사:
     표제어: 통깨
     품사: 명사
 ---
 000_KEYWORD: 통나무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85963
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7039,13 +7039,13 @@ imported:
     표제어: 통나무
     품사: 명사
     항목ID: 85963
-processed:
+result:
   맞춤법 검사:
     표제어: 통나무
     품사: 명사
 ---
 000_KEYWORD: 통나무배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85964
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7072,13 +7072,13 @@ imported:
     표제어: 통나무배
     품사: 명사
     항목ID: 85964
-processed:
+result:
   맞춤법 검사:
     표제어: 통나무배
     품사: 명사
 ---
 000_KEYWORD: 통나무집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85965
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7118,13 +7118,13 @@ imported:
     - 발음: 통나무짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/85965_tongnamujimman.wav
       형태: 통나무집만
-processed:
+result:
   맞춤법 검사:
     표제어: 통나무집
     품사: 명사
 ---
 000_KEYWORD: 통념__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85966
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7161,13 +7161,13 @@ imported:
     표제어: 통념
     품사: 명사
     항목ID: 85966
-processed:
+result:
   맞춤법 검사:
     표제어: 통념
     품사: 명사
 ---
 000_KEYWORD: 통달__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85967
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7211,13 +7211,13 @@ imported:
     표제어: 통달
     품사: 명사
     항목ID: 85967
-processed:
+result:
   맞춤법 검사:
     표제어: 통달
     품사: 명사
 ---
 000_KEYWORD: 통달하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85968
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7260,13 +7260,13 @@ imported:
     표제어: 통달하다
     품사: 동사
     항목ID: 85968
-processed:
+result:
   맞춤법 검사:
     표제어: 통달하다
     품사: 동사
 ---
 000_KEYWORD: 통닭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85969
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7306,13 +7306,13 @@ imported:
     - 발음: 통당만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/85969_tongdangman.wav
       형태: 통닭만
-processed:
+result:
   맞춤법 검사:
     표제어: 통닭
     품사: 명사
 ---
 000_KEYWORD: 통독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85970
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7350,13 +7350,13 @@ imported:
     - 발음: 통동만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/85970_tongdongman.wav
       형태: 통독만
-processed:
+result:
   맞춤법 검사:
     표제어: 통독
     품사: 명사
 ---
 000_KEYWORD: 통독하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85971
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7384,13 +7384,13 @@ imported:
     표제어: 통독하다
     품사: 동사
     항목ID: 85971
-processed:
+result:
   맞춤법 검사:
     표제어: 통독하다
     품사: 동사
 ---
 000_KEYWORD: 통렬하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85972
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7432,13 +7432,13 @@ imported:
       형태: 통렬하니
     - 발음: 통ː녈함니다
       형태: 통렬합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 통렬하다
     품사: 형용사
 ---
 000_KEYWORD: 통렬히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85974
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7467,13 +7467,13 @@ imported:
     표제어: 통렬히
     품사: 부사
     항목ID: 85974
-processed:
+result:
   맞춤법 검사:
     표제어: 통렬히
     품사: 부사
 ---
 000_KEYWORD: 통로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49310
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7511,13 +7511,13 @@ imported:
     표제어: 통로
     품사: 명사
     항목ID: 49310
-processed:
+result:
   맞춤법 검사:
     표제어: 통로
     품사: 명사
 ---
 000_KEYWORD: 통마늘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85973
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7543,13 +7543,13 @@ imported:
     표제어: 통마늘
     품사: 명사
     항목ID: 85973
-processed:
+result:
   맞춤법 검사:
     표제어: 통마늘
     품사: 명사
 ---
 000_KEYWORD: 통밀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7559,13 +7559,13 @@ imported:
     표제어: 통밀
     품사: 명사:보통:서술성
     항목ID: 28143
-processed:
+result:
   맞춤법 검사:
     표제어: 통밀
     품사: 명사
 ---
 000_KEYWORD: 통배추__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85975
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7591,13 +7591,13 @@ imported:
     표제어: 통배추
     품사: 명사
     항목ID: 85975
-processed:
+result:
   맞춤법 검사:
     표제어: 통배추
     품사: 명사
 ---
 000_KEYWORD: 통보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85976
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7630,13 +7630,13 @@ imported:
     표제어: 통보
     품사: 명사
     항목ID: 85976
-processed:
+result:
   맞춤법 검사:
     표제어: 통보
     품사: 명사
 ---
 000_KEYWORD: 통보되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85977
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7668,13 +7668,13 @@ imported:
     표제어: 통보되다
     품사: 동사
     항목ID: 85977
-processed:
+result:
   맞춤법 검사:
     표제어: 통보되다
     품사: 동사
 ---
 000_KEYWORD: 통보하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85978
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7718,13 +7718,13 @@ imported:
     표제어: 통보하다
     품사: 동사
     항목ID: 85978
-processed:
+result:
   맞춤법 검사:
     표제어: 통보하다
     품사: 동사
 ---
 000_KEYWORD: 통분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85979
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7752,13 +7752,13 @@ imported:
     표제어: 통분
     품사: 명사
     항목ID: 85979
-processed:
+result:
   맞춤법 검사:
     표제어: 통분
     품사: 명사
 ---
 000_KEYWORD: 통분하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85980
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7787,13 +7787,13 @@ imported:
     표제어: 통분하다
     품사: 동사
     항목ID: 85980
-processed:
+result:
   맞춤법 검사:
     표제어: 통분하다
     품사: 동사
 ---
 000_KEYWORD: 통사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85981
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7821,13 +7821,13 @@ imported:
     표제어: 통사
     품사: 명사
     항목ID: 85981
-processed:
+result:
   맞춤법 검사:
     표제어: 통사
     품사: 명사
 ---
 000_KEYWORD: 통사론__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7837,13 +7837,13 @@ imported:
     표제어: 통사론
     품사: 명사:보통:서술성
     항목ID: 28147
-processed:
+result:
   맞춤법 검사:
     표제어: 통사론
     품사: 명사
 ---
 000_KEYWORD: 통사적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7852,13 +7852,13 @@ imported:
     표제어: 통사적
     품사: 명사:보통:서술성
     항목ID: 28148
-processed:
+result:
   맞춤법 검사:
     표제어: 통사적
     품사: 명사
 ---
 000_KEYWORD: 통사정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85982
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7901,13 +7901,13 @@ imported:
     표제어: 통사정
     품사: 명사
     항목ID: 85982
-processed:
+result:
   맞춤법 검사:
     표제어: 통사정
     품사: 명사
 ---
 000_KEYWORD: 통사정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85983
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7949,13 +7949,13 @@ imported:
     표제어: 통사정하다
     품사: 동사
     항목ID: 85983
-processed:
+result:
   맞춤법 검사:
     표제어: 통사정하다
     품사: 동사
 ---
 000_KEYWORD: 통산__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7964,13 +7964,13 @@ imported:
     표제어: 통산
     품사: 명사:보통:서술성
     항목ID: 28149
-processed:
+result:
   맞춤법 검사:
     표제어: 통산
     품사: 명사
 ---
 000_KEYWORD: 통상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85984
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8003,13 +8003,13 @@ imported:
     표제어: 통상
     품사: 명사
     항목ID: 85984
-processed:
+result:
   맞춤법 검사:
     표제어: 통상
     품사: 명사
 ---
 000_KEYWORD: 통상__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85986
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8041,13 +8041,13 @@ imported:
     표제어: 통상
     품사: 명사
     항목ID: 85986
-processed:
+result:
   맞춤법 검사:
     표제어: 통상
     품사: 명사
 ---
 000_KEYWORD: 통상__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85987
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8080,13 +8080,13 @@ imported:
     표제어: 통상
     품사: 부사
     항목ID: 85987
-processed:
+result:
   맞춤법 검사:
     표제어: 통상
     품사: 부사
 ---
 000_KEYWORD: 통상적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85988
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8114,13 +8114,13 @@ imported:
     표제어: 통상적
     품사: 관형사
     항목ID: 85988
-processed:
+result:
   맞춤법 검사:
     표제어: 통상적
     품사: 관형사
 ---
 000_KEYWORD: 통상적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85989
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8148,13 +8148,13 @@ imported:
     표제어: 통상적
     품사: 명사
     항목ID: 85989
-processed:
+result:
   맞춤법 검사:
     표제어: 통상적
     품사: 명사
 ---
 000_KEYWORD: 통상조약__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8164,13 +8164,13 @@ imported:
     표제어: 통상조약
     품사: 명사:보통:서술성
     항목ID: 28152
-processed:
+result:
   맞춤법 검사:
     표제어: 통상조약
     품사: 명사
 ---
 000_KEYWORD: 통상하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85985
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8200,13 +8200,13 @@ imported:
     표제어: 통상하다
     품사: 동사
     항목ID: 85985
-processed:
+result:
   맞춤법 검사:
     표제어: 통상하다
     품사: 동사
 ---
 000_KEYWORD: 통설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85990
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8236,13 +8236,13 @@ imported:
     표제어: 통설
     품사: 명사
     항목ID: 85990
-processed:
+result:
   맞춤법 검사:
     표제어: 통설
     품사: 명사
 ---
 000_KEYWORD: 통성명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85991
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8269,13 +8269,13 @@ imported:
     표제어: 통성명
     품사: 명사
     항목ID: 85991
-processed:
+result:
   맞춤법 검사:
     표제어: 통성명
     품사: 명사
 ---
 000_KEYWORD: 통성명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85992
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8305,13 +8305,13 @@ imported:
     표제어: 통성명하다
     품사: 동사
     항목ID: 85992
-processed:
+result:
   맞춤법 검사:
     표제어: 통성명하다
     품사: 동사
 ---
 000_KEYWORD: 통속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85993
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8363,13 +8363,13 @@ imported:
     - 발음: 통송만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/85993_tongsongman.wav
       형태: 통속만
-processed:
+result:
   맞춤법 검사:
     표제어: 통속
     품사: 명사
 ---
 000_KEYWORD: 통속극__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85996
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8409,13 +8409,13 @@ imported:
     - 발음: 통속끙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/85996_tongsokkkeungman.wav
       형태: 통속극만
-processed:
+result:
   맞춤법 검사:
     표제어: 통속극
     품사: 명사
 ---
 000_KEYWORD: 통속성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85997
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8444,13 +8444,13 @@ imported:
     표제어: 통속성
     품사: 명사
     항목ID: 85997
-processed:
+result:
   맞춤법 검사:
     표제어: 통속성
     품사: 명사
 ---
 000_KEYWORD: 통속적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85994
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8493,13 +8493,13 @@ imported:
     표제어: 통속적
     품사: 관형사
     항목ID: 85994
-processed:
+result:
   맞춤법 검사:
     표제어: 통속적
     품사: 관형사
 ---
 000_KEYWORD: 통속적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85995
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8542,13 +8542,13 @@ imported:
     표제어: 통속적
     품사: 명사
     항목ID: 85995
-processed:
+result:
   맞춤법 검사:
     표제어: 통속적
     품사: 명사
 ---
 000_KEYWORD: 통솔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85998
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8576,13 +8576,13 @@ imported:
     표제어: 통솔
     품사: 명사
     항목ID: 85998
-processed:
+result:
   맞춤법 검사:
     표제어: 통솔
     품사: 명사
 ---
 000_KEYWORD: 통솔권__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8591,13 +8591,13 @@ imported:
     표제어: 통솔권
     품사: 명사:보통:서술성
     항목ID: 28156
-processed:
+result:
   맞춤법 검사:
     표제어: 통솔권
     품사: 명사
 ---
 000_KEYWORD: 통솔력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86000
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8643,13 +8643,13 @@ imported:
     - 발음: 통ː솔령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/86000_tong-sollyeongman.wav
       형태: 통솔력만
-processed:
+result:
   맞춤법 검사:
     표제어: 통솔력
     품사: 명사
 ---
 000_KEYWORD: 통솔하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85999
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8678,13 +8678,13 @@ imported:
     표제어: 통솔하다
     품사: 동사
     항목ID: 85999
-processed:
+result:
   맞춤법 검사:
     표제어: 통솔하다
     품사: 동사
 ---
 000_KEYWORD: 통수권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86001
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8713,13 +8713,13 @@ imported:
     표제어: 통수권
     품사: 명사
     항목ID: 86001
-processed:
+result:
   맞춤법 검사:
     표제어: 통수권
     품사: 명사
 ---
 000_KEYWORD: 통수하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8728,13 +8728,13 @@ imported:
     표제어: 통수하다
     품사: 동사
     항목ID: 32079
-processed:
+result:
   맞춤법 검사:
     표제어: 통수하다
     품사: 동사
 ---
 000_KEYWORD: 통신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71479
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8773,13 +8773,13 @@ imported:
     표제어: 통신
     품사: 명사
     항목ID: 71479
-processed:
+result:
   맞춤법 검사:
     표제어: 통신
     품사: 명사
 ---
 000_KEYWORD: 통신망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86002
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8844,13 +8844,13 @@ imported:
     표제어: 통신망
     품사: 명사
     항목ID: 86002
-processed:
+result:
   맞춤법 검사:
     표제어: 통신망
     품사: 명사
 ---
 000_KEYWORD: 통신병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86003
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8878,13 +8878,13 @@ imported:
     표제어: 통신병
     품사: 명사
     항목ID: 86003
-processed:
+result:
   맞춤법 검사:
     표제어: 통신병
     품사: 명사
 ---
 000_KEYWORD: 통신비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86004
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8914,13 +8914,13 @@ imported:
     표제어: 통신비
     품사: 명사
     항목ID: 86004
-processed:
+result:
   맞춤법 검사:
     표제어: 통신비
     품사: 명사
 ---
 000_KEYWORD: 통신사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8929,13 +8929,13 @@ imported:
     표제어: 통신사
     품사: 명사:보통:비서술성
     항목ID: 28163
-processed:
+result:
   맞춤법 검사:
     표제어: 통신사
     품사: 명사
 ---
 000_KEYWORD: 통신원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86005
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8963,13 +8963,13 @@ imported:
     표제어: 통신원
     품사: 명사
     항목ID: 86005
-processed:
+result:
   맞춤법 검사:
     표제어: 통신원
     품사: 명사
 ---
 000_KEYWORD: 통신위성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8978,13 +8978,13 @@ imported:
     표제어: 통신위성
     품사: 명사:보통:비서술성
     항목ID: 28165
-processed:
+result:
   맞춤법 검사:
     표제어: 통신위성
     품사: 명사
 ---
 000_KEYWORD: 통신판매__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8993,13 +8993,13 @@ imported:
     표제어: 통신판매
     품사: 명사:보통:서술성
     항목ID: 28166
-processed:
+result:
   맞춤법 검사:
     표제어: 통신판매
     품사: 명사
 ---
 000_KEYWORD: 통신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86008
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9059,13 +9059,13 @@ imported:
     표제어: 통신하다
     품사: 동사
     항목ID: 86008
-processed:
+result:
   맞춤법 검사:
     표제어: 통신하다
     품사: 동사
 ---
 000_KEYWORD: 통역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86009
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9120,13 +9120,13 @@ imported:
     - 발음: 통영만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/86009_tongyeongman.wav
       형태: 통역만
-processed:
+result:
   맞춤법 검사:
     표제어: 통역
     품사: 명사
 ---
 000_KEYWORD: 통역관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86010
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9154,13 +9154,13 @@ imported:
     표제어: 통역관
     품사: 명사
     항목ID: 86010
-processed:
+result:
   맞춤법 검사:
     표제어: 통역관
     품사: 명사
 ---
 000_KEYWORD: 통역사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86011
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9188,13 +9188,13 @@ imported:
     표제어: 통역사
     품사: 명사
     항목ID: 86011
-processed:
+result:
   맞춤법 검사:
     표제어: 통역사
     품사: 명사
 ---
 000_KEYWORD: 통역하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86012
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9222,13 +9222,13 @@ imported:
     표제어: 통역하다
     품사: 동사
     항목ID: 86012
-processed:
+result:
   맞춤법 검사:
     표제어: 통역하다
     품사: 동사
 ---
 000_KEYWORD: 통용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86013
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9271,13 +9271,13 @@ imported:
     표제어: 통용
     품사: 명사
     항목ID: 86013
-processed:
+result:
   맞춤법 검사:
     표제어: 통용
     품사: 명사
 ---
 000_KEYWORD: 통용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86014
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9338,13 +9338,13 @@ imported:
     표제어: 통용되다
     품사: 동사
     항목ID: 86014
-processed:
+result:
   맞춤법 검사:
     표제어: 통용되다
     품사: 동사
 ---
 000_KEYWORD: 통용어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86016
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9373,13 +9373,13 @@ imported:
     표제어: 통용어
     품사: 명사
     항목ID: 86016
-processed:
+result:
   맞춤법 검사:
     표제어: 통용어
     품사: 명사
 ---
 000_KEYWORD: 통용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86015
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9437,13 +9437,13 @@ imported:
     표제어: 통용하다
     품사: 동사
     항목ID: 86015
-processed:
+result:
   맞춤법 검사:
     표제어: 통용하다
     품사: 동사
 ---
 000_KEYWORD: 통운__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81130
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9474,13 +9474,13 @@ imported:
     표제어: 통운
     품사: 명사
     항목ID: 81130
-processed:
+result:
   맞춤법 검사:
     표제어: 통운
     품사: 명사
 ---
 000_KEYWORD: 통원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81143
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9512,13 +9512,13 @@ imported:
     표제어: 통원
     품사: 명사
     항목ID: 81143
-processed:
+result:
   맞춤법 검사:
     표제어: 통원
     품사: 명사
 ---
 000_KEYWORD: 통원하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81146
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9546,13 +9546,13 @@ imported:
     표제어: 통원하다
     품사: 동사
     항목ID: 81146
-processed:
+result:
   맞춤법 검사:
     표제어: 통원하다
     품사: 동사
 ---
 000_KEYWORD: 통유리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81153
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9579,13 +9579,13 @@ imported:
     표제어: 통유리
     품사: 명사
     항목ID: 81153
-processed:
+result:
   맞춤법 검사:
     표제어: 통유리
     품사: 명사
 ---
 000_KEYWORD: 통일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62409
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9648,13 +9648,13 @@ imported:
     표제어: 통일
     품사: 명사
     항목ID: 62409
-processed:
+result:
   맞춤법 검사:
     표제어: 통일
     품사: 명사
 ---
 000_KEYWORD: 통일감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81162
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9681,13 +9681,13 @@ imported:
     표제어: 통일감
     품사: 명사
     항목ID: 81162
-processed:
+result:
   맞춤법 검사:
     표제어: 통일감
     품사: 명사
 ---
 000_KEYWORD: 통일되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81198
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9743,13 +9743,13 @@ imported:
     표제어: 통일되다
     품사: 동사
     항목ID: 81198
-processed:
+result:
   맞춤법 검사:
     표제어: 통일되다
     품사: 동사
 ---
 000_KEYWORD: 통일민주당__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9758,13 +9758,13 @@ imported:
     표제어: 통일민주당
     품사: 명사:보통:서술성
     항목ID: 31862
-processed:
+result:
   맞춤법 검사:
     표제어: 통일민주당
     품사: 명사
 ---
 000_KEYWORD: 통일부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9773,13 +9773,13 @@ imported:
     표제어: 통일부
     품사: 명사:보통:서술성
     항목ID: 28178
-processed:
+result:
   맞춤법 검사:
     표제어: 통일부
     품사: 명사
 ---
 000_KEYWORD: 통일성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81210
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9807,13 +9807,13 @@ imported:
     표제어: 통일성
     품사: 명사
     항목ID: 81210
-processed:
+result:
   맞춤법 검사:
     표제어: 통일성
     품사: 명사
 ---
 000_KEYWORD: 통일안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81215
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9852,13 +9852,13 @@ imported:
     표제어: 통일안
     품사: 명사
     항목ID: 81215
-processed:
+result:
   맞춤법 검사:
     표제어: 통일안
     품사: 명사
 ---
 000_KEYWORD: 통일하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91126
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9904,13 +9904,13 @@ imported:
     표제어: 통일하다
     품사: 동사
     항목ID: 91126
-processed:
+result:
   맞춤법 검사:
     표제어: 통일하다
     품사: 동사
 ---
 000_KEYWORD: 통장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71295
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9943,13 +9943,13 @@ imported:
     표제어: 통장
     품사: 명사
     항목ID: 71295
-processed:
+result:
   맞춤법 검사:
     표제어: 통장
     품사: 명사
 ---
 000_KEYWORD: 통절하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81222
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10001,13 +10001,13 @@ imported:
       형태: 통절하니
     - 발음: 통ː절함니다
       형태: 통절합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 통절하다
     품사: 형용사
 ---
 000_KEYWORD: 통절히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81228
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10035,13 +10035,13 @@ imported:
     표제어: 통절히
     품사: 부사
     항목ID: 81228
-processed:
+result:
   맞춤법 검사:
     표제어: 통절히
     품사: 부사
 ---
 000_KEYWORD: 통정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81232
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10115,13 +10115,13 @@ imported:
     표제어: 통정
     품사: 명사
     항목ID: 81232
-processed:
+result:
   맞춤법 검사:
     표제어: 통정
     품사: 명사
 ---
 000_KEYWORD: 통정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81235
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10166,13 +10166,13 @@ imported:
     표제어: 통정하다
     품사: 동사
     항목ID: 81235
-processed:
+result:
   맞춤법 검사:
     표제어: 통정하다
     품사: 동사
 ---
 000_KEYWORD: 통제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49312
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10215,13 +10215,13 @@ imported:
     표제어: 통제
     품사: 명사
     항목ID: 49312
-processed:
+result:
   맞춤법 검사:
     표제어: 통제
     품사: 명사
 ---
 000_KEYWORD: 통제권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81241
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10250,13 +10250,13 @@ imported:
     표제어: 통제권
     품사: 명사
     항목ID: 81241
-processed:
+result:
   맞춤법 검사:
     표제어: 통제권
     품사: 명사
 ---
 000_KEYWORD: 통제되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81249
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10301,13 +10301,13 @@ imported:
     표제어: 통제되다
     품사: 동사
     항목ID: 81249
-processed:
+result:
   맞춤법 검사:
     표제어: 통제되다
     품사: 동사
 ---
 000_KEYWORD: 통제력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81257
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10346,13 +10346,13 @@ imported:
     - 발음: 통ː제령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81257_tong-jeryeongman.wav
       형태: 통제력만
-processed:
+result:
   맞춤법 검사:
     표제어: 통제력
     품사: 명사
 ---
 000_KEYWORD: 통제하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81261
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10405,13 +10405,13 @@ imported:
     표제어: 통제하다
     품사: 동사
     항목ID: 81261
-processed:
+result:
   맞춤법 검사:
     표제어: 통제하다
     품사: 동사
 ---
 000_KEYWORD: 통조림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81267
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10444,13 +10444,13 @@ imported:
     표제어: 통조림
     품사: 명사
     항목ID: 81267
-processed:
+result:
   맞춤법 검사:
     표제어: 통조림
     품사: 명사
 ---
 000_KEYWORD: 통증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49309
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10482,13 +10482,13 @@ imported:
     표제어: 통증
     품사: 명사
     항목ID: 49309
-processed:
+result:
   맞춤법 검사:
     표제어: 통증
     품사: 명사
 ---
 000_KEYWORD: 통지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81273
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10518,13 +10518,13 @@ imported:
     표제어: 통지
     품사: 명사
     항목ID: 81273
-processed:
+result:
   맞춤법 검사:
     표제어: 통지
     품사: 명사
 ---
 000_KEYWORD: 통지되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81282
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10554,13 +10554,13 @@ imported:
     표제어: 통지되다
     품사: 동사
     항목ID: 81282
-processed:
+result:
   맞춤법 검사:
     표제어: 통지되다
     품사: 동사
 ---
 000_KEYWORD: 통지서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81287
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10592,13 +10592,13 @@ imported:
     표제어: 통지서
     품사: 명사
     항목ID: 81287
-processed:
+result:
   맞춤법 검사:
     표제어: 통지서
     품사: 명사
 ---
 000_KEYWORD: 통지표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81292
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10639,13 +10639,13 @@ imported:
     표제어: 통지표
     품사: 명사
     항목ID: 81292
-processed:
+result:
   맞춤법 검사:
     표제어: 통지표
     품사: 명사
 ---
 000_KEYWORD: 통지하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81299
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10673,13 +10673,13 @@ imported:
     표제어: 통지하다
     품사: 동사
     항목ID: 81299
-processed:
+result:
   맞춤법 검사:
     표제어: 통지하다
     품사: 동사
 ---
 000_KEYWORD: 통째__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81313
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10707,13 +10707,13 @@ imported:
     표제어: 통째
     품사: 명사
     항목ID: 81313
-processed:
+result:
   맞춤법 검사:
     표제어: 통째
     품사: 명사
 ---
 000_KEYWORD: 통찰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81322
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10744,13 +10744,13 @@ imported:
     표제어: 통찰
     품사: 명사
     항목ID: 81322
-processed:
+result:
   맞춤법 검사:
     표제어: 통찰
     품사: 명사
 ---
 000_KEYWORD: 통찰력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81328
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10787,13 +10787,13 @@ imported:
     - 발음: 통ː찰령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81328_tong-challyeongman.wav
       형태: 통찰력만
-processed:
+result:
   맞춤법 검사:
     표제어: 통찰력
     품사: 명사
 ---
 000_KEYWORD: 통찰하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81337
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10822,13 +10822,13 @@ imported:
     표제어: 통찰하다
     품사: 동사
     항목ID: 81337
-processed:
+result:
   맞춤법 검사:
     표제어: 통찰하다
     품사: 동사
 ---
 000_KEYWORD: 통첩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81348
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10865,13 +10865,13 @@ imported:
     - 발음: 통첨만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81348_tongcheomman.wav
       형태: 통첩만
-processed:
+result:
   맞춤법 검사:
     표제어: 통첩
     품사: 명사
 ---
 000_KEYWORD: 통치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81354
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10903,13 +10903,13 @@ imported:
     표제어: 통치
     품사: 명사
     항목ID: 81354
-processed:
+result:
   맞춤법 검사:
     표제어: 통치
     품사: 명사
 ---
 000_KEYWORD: 통치권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81779
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10942,13 +10942,13 @@ imported:
     표제어: 통치권
     품사: 명사
     항목ID: 81779
-processed:
+result:
   맞춤법 검사:
     표제어: 통치권
     품사: 명사
 ---
 000_KEYWORD: 통치권자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81786
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10975,13 +10975,13 @@ imported:
     표제어: 통치권자
     품사: 명사
     항목ID: 81786
-processed:
+result:
   맞춤법 검사:
     표제어: 통치권자
     품사: 명사
 ---
 000_KEYWORD: 통치되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81789
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11012,13 +11012,13 @@ imported:
     표제어: 통치되다
     품사: 동사
     항목ID: 81789
-processed:
+result:
   맞춤법 검사:
     표제어: 통치되다
     품사: 동사
 ---
 000_KEYWORD: 통치자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81799
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11046,13 +11046,13 @@ imported:
     표제어: 통치자
     품사: 명사
     항목ID: 81799
-processed:
+result:
   맞춤법 검사:
     표제어: 통치자
     품사: 명사
 ---
 000_KEYWORD: 통치하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81804
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11082,13 +11082,13 @@ imported:
     표제어: 통치하다
     품사: 동사
     항목ID: 81804
-processed:
+result:
   맞춤법 검사:
     표제어: 통치하다
     품사: 동사
 ---
 000_KEYWORD: 통치행위__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11098,13 +11098,13 @@ imported:
     표제어: 통치행위
     품사: 명사:보통:서술성
     항목ID: 28199
-processed:
+result:
   맞춤법 검사:
     표제어: 통치행위
     품사: 명사
 ---
 000_KEYWORD: 통칭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81815
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11145,13 +11145,13 @@ imported:
     표제어: 통칭
     품사: 명사
     항목ID: 81815
-processed:
+result:
   맞춤법 검사:
     표제어: 통칭
     품사: 명사
 ---
 000_KEYWORD: 통칭하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81818
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11193,13 +11193,13 @@ imported:
     표제어: 통칭하다
     품사: 동사
     항목ID: 81818
-processed:
+result:
   맞춤법 검사:
     표제어: 통칭하다
     품사: 동사
 ---
 000_KEYWORD: 통쾌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81825
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11223,13 +11223,13 @@ imported:
     표제어: 통쾌
     품사: 명사
     항목ID: 81825
-processed:
+result:
   맞춤법 검사:
     표제어: 통쾌
     품사: 명사
 ---
 000_KEYWORD: 통쾌하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81838
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11268,13 +11268,13 @@ imported:
       형태: 통쾌하니
     - 발음: 통ː쾌함니다
       형태: 통쾌합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 통쾌하다
     품사: 형용사
 ---
 000_KEYWORD: 통탄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81848
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11307,13 +11307,13 @@ imported:
     표제어: 통탄
     품사: 명사
     항목ID: 81848
-processed:
+result:
   맞춤법 검사:
     표제어: 통탄
     품사: 명사
 ---
 000_KEYWORD: 통탄하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81851
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11343,13 +11343,13 @@ imported:
     표제어: 통탄하다
     품사: 동사
     항목ID: 81851
-processed:
+result:
   맞춤법 검사:
     표제어: 통탄하다
     품사: 동사
 ---
 000_KEYWORD: 통통__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81854
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11383,13 +11383,13 @@ imported:
     표제어: 통통
     품사: 부사
     항목ID: 81854
-processed:
+result:
   맞춤법 검사:
     표제어: 통통
     품사: 부사
 ---
 000_KEYWORD: 통통__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81858
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11467,13 +11467,13 @@ imported:
     표제어: 통통
     품사: 부사
     항목ID: 81858
-processed:
+result:
   맞춤법 검사:
     표제어: 통통
     품사: 부사
 ---
 000_KEYWORD: 통통배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81862
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11499,13 +11499,13 @@ imported:
     표제어: 통통배
     품사: 명사
     항목ID: 81862
-processed:
+result:
   맞춤법 검사:
     표제어: 통통배
     품사: 명사
 ---
 000_KEYWORD: 통통하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81865
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11563,13 +11563,13 @@ imported:
       형태: 통통하니
     - 발음: 통통함니다
       형태: 통통합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 통통하다
     품사: 형용사
 ---
 000_KEYWORD: 통틀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81869
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11602,13 +11602,13 @@ imported:
     - 발음: 통틈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/81869_tongteumnida.wav
       형태: 통틉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 통틀다
     품사: 동사
 ---
 000_KEYWORD: 통틀어__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81874
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11634,13 +11634,13 @@ imported:
     표제어: 통틀어
     품사: 부사
     항목ID: 81874
-processed:
+result:
   맞춤법 검사:
     표제어: 통틀어
     품사: 부사
 ---
 000_KEYWORD: 통판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90671
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11669,13 +11669,13 @@ imported:
     표제어: 통판
     품사: 명사
     항목ID: 90671
-processed:
+result:
   맞춤법 검사:
     표제어: 통판
     품사: 명사
 ---
 000_KEYWORD: 통폐합__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81881
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11723,13 +11723,13 @@ imported:
     - 발음: 통ː페함만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/81881_tong-pehamman.wav
       형태: 통폐합만
-processed:
+result:
   맞춤법 검사:
     표제어: 통폐합
     품사: 명사
 ---
 000_KEYWORD: 통폐합되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81885
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11759,13 +11759,13 @@ imported:
     표제어: 통폐합되다
     품사: 동사
     항목ID: 81885
-processed:
+result:
   맞춤법 검사:
     표제어: 통폐합되다
     품사: 동사
 ---
 000_KEYWORD: 통폐합하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81889
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11795,13 +11795,13 @@ imported:
     표제어: 통폐합하다
     품사: 동사
     항목ID: 81889
-processed:
+result:
   맞춤법 검사:
     표제어: 통폐합하다
     품사: 동사
 ---
 000_KEYWORD: 통풍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81898
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11833,13 +11833,13 @@ imported:
     표제어: 통풍
     품사: 명사
     항목ID: 81898
-processed:
+result:
   맞춤법 검사:
     표제어: 통풍
     품사: 명사
 ---
 000_KEYWORD: 통풍구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81902
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11868,13 +11868,13 @@ imported:
     표제어: 통풍구
     품사: 명사
     항목ID: 81902
-processed:
+result:
   맞춤법 검사:
     표제어: 통풍구
     품사: 명사
 ---
 000_KEYWORD: 통하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58169
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12102,13 +12102,13 @@ imported:
     표제어: 통하다
     품사: 동사
     항목ID: 58169
-processed:
+result:
   맞춤법 검사:
     표제어: 통하다
     품사: 동사
 ---
 000_KEYWORD: 통학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81905
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12147,13 +12147,13 @@ imported:
     - 발음: 통항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81905_tonghangman.wav
       형태: 통학만
-processed:
+result:
   맞춤법 검사:
     표제어: 통학
     품사: 명사
 ---
 000_KEYWORD: 통학생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81908
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12181,13 +12181,13 @@ imported:
     표제어: 통학생
     품사: 명사
     항목ID: 81908
-processed:
+result:
   맞춤법 검사:
     표제어: 통학생
     품사: 명사
 ---
 000_KEYWORD: 통학하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81917
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12217,13 +12217,13 @@ imported:
     표제어: 통학하다
     품사: 동사
     항목ID: 81917
-processed:
+result:
   맞춤법 검사:
     표제어: 통학하다
     품사: 동사
 ---
 000_KEYWORD: 통한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81919
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12252,13 +12252,13 @@ imported:
     표제어: 통한
     품사: 명사
     항목ID: 81919
-processed:
+result:
   맞춤법 검사:
     표제어: 통한
     품사: 명사
 ---
 000_KEYWORD: 통할하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12267,13 +12267,13 @@ imported:
     표제어: 통할하다
     품사: 동사
     항목ID: 32080
-processed:
+result:
   맞춤법 검사:
     표제어: 통할하다
     품사: 동사
 ---
 000_KEYWORD: 통합__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81923
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12316,13 +12316,13 @@ imported:
     - 발음: 통ː함만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81923_tong-hamman.wav
       형태: 통합만
-processed:
+result:
   맞춤법 검사:
     표제어: 통합
     품사: 명사
 ---
 000_KEYWORD: 통합되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81926
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12354,13 +12354,13 @@ imported:
     표제어: 통합되다
     품사: 동사
     항목ID: 81926
-processed:
+result:
   맞춤법 검사:
     표제어: 통합되다
     품사: 동사
 ---
 000_KEYWORD: 통합민주당__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12369,13 +12369,13 @@ imported:
     표제어: 통합민주당
     품사: 명사:보통:서술성
     항목ID: 31864
-processed:
+result:
   맞춤법 검사:
     표제어: 통합민주당
     품사: 명사
 ---
 000_KEYWORD: 통합성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81929
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12402,13 +12402,13 @@ imported:
     표제어: 통합성
     품사: 명사
     항목ID: 81929
-processed:
+result:
   맞춤법 검사:
     표제어: 통합성
     품사: 명사
 ---
 000_KEYWORD: 통합적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81931
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12435,13 +12435,13 @@ imported:
     표제어: 통합적
     품사: 관형사
     항목ID: 81931
-processed:
+result:
   맞춤법 검사:
     표제어: 통합적
     품사: 관형사
 ---
 000_KEYWORD: 통합적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81933
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12467,13 +12467,13 @@ imported:
     표제어: 통합적
     품사: 명사
     항목ID: 81933
-processed:
+result:
   맞춤법 검사:
     표제어: 통합적
     품사: 명사
 ---
 000_KEYWORD: 통합하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81936
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12502,13 +12502,13 @@ imported:
     표제어: 통합하다
     품사: 동사
     항목ID: 81936
-processed:
+result:
   맞춤법 검사:
     표제어: 통합하다
     품사: 동사
 ---
 000_KEYWORD: 통행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81941
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12537,13 +12537,13 @@ imported:
     표제어: 통행
     품사: 명사
     항목ID: 81941
-processed:
+result:
   맞춤법 검사:
     표제어: 통행
     품사: 명사
 ---
 000_KEYWORD: 통행금지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81942
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12589,13 +12589,13 @@ imported:
     표제어: 통행금지
     품사: 명사
     항목ID: 81942
-processed:
+result:
   맞춤법 검사:
     표제어: 통행금지
     품사: 명사
 ---
 000_KEYWORD: 통행료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81954
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12623,13 +12623,13 @@ imported:
     표제어: 통행료
     품사: 명사
     항목ID: 81954
-processed:
+result:
   맞춤법 검사:
     표제어: 통행료
     품사: 명사
 ---
 000_KEYWORD: 통행하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81959
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12658,13 +12658,13 @@ imported:
     표제어: 통행하다
     품사: 동사
     항목ID: 81959
-processed:
+result:
   맞춤법 검사:
     표제어: 통행하다
     품사: 동사
 ---
 000_KEYWORD: 통화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82036
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12693,13 +12693,13 @@ imported:
     표제어: 통화
     품사: 명사
     항목ID: 82036
-processed:
+result:
   맞춤법 검사:
     표제어: 통화
     품사: 명사
 ---
 000_KEYWORD: 통화__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82044
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12742,13 +12742,13 @@ imported:
     표제어: 통화
     품사: 명사
     항목ID: 82044
-processed:
+result:
   맞춤법 검사:
     표제어: 통화
     품사: 명사
 ---
 000_KEYWORD: 통화권__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12759,13 +12759,13 @@ imported:
     표제어: 통화권
     품사: 명사:보통:서술성
     항목ID: 28220
-processed:
+result:
   맞춤법 검사:
     표제어: 통화권
     품사: 명사
 ---
 000_KEYWORD: 통화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82049
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12796,13 +12796,13 @@ imported:
     표제어: 통화되다
     품사: 동사
     항목ID: 82049
-processed:
+result:
   맞춤법 검사:
     표제어: 통화되다
     품사: 동사
 ---
 000_KEYWORD: 통화량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82057
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12829,13 +12829,13 @@ imported:
     표제어: 통화량
     품사: 명사
     항목ID: 82057
-processed:
+result:
   맞춤법 검사:
     표제어: 통화량
     품사: 명사
 ---
 000_KEYWORD: 통화량__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82061
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12860,13 +12860,13 @@ imported:
     표제어: 통화량
     품사: 명사
     항목ID: 82061
-processed:
+result:
   맞춤법 검사:
     표제어: 통화량
     품사: 명사
 ---
 000_KEYWORD: 통화료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82066
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12894,13 +12894,13 @@ imported:
     표제어: 통화료
     품사: 명사
     항목ID: 82066
-processed:
+result:
   맞춤법 검사:
     표제어: 통화료
     품사: 명사
 ---
 000_KEYWORD: 통화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82053
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12929,13 +12929,13 @@ imported:
     표제어: 통화하다
     품사: 동사
     항목ID: 82053
-processed:
+result:
   맞춤법 검사:
     표제어: 통화하다
     품사: 동사
 ---
 000_KEYWORD: 통후추__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12945,7 +12945,7 @@ imported:
     표제어: 통후추
     품사: 명사:보통:비서술성
     항목ID: 28223
-processed:
+result:
   맞춤법 검사:
     표제어: 통후추
     품사: 명사

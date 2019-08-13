@@ -7,11 +7,11 @@ import sys
 
 def append_entry(entries, yaml):
     entry = {}
-    if 'processed' in yaml and '맞춤법 검사' in yaml['processed']:
-        entry = yaml['processed']['맞춤법 검사']
-    if 'processed_overrides' in yaml and '맞춤법 검사' in yaml['processed_overrides']:
-        for key in yaml['processed_overrides']['맞춤법 검사'].keys():
-            entry[key] = yaml['processed_overrides']['맞춤법 검사'][key]
+    if 'import_derived' in yaml and '맞춤법 검사' in yaml['import_derived']:
+        entry = yaml['import_derived']['맞춤법 검사']
+    if 'manual' in yaml and '맞춤법 검사' in yaml['manual']:
+        for key in yaml['manual']['맞춤법 검사'].keys():
+            entry[key] = yaml['manual']['맞춤법 검사'][key]
     if entry:
         keys = entry.keys()
         REPLACE = {'표제어':'word', '품사':'pos', '속성':'props'}
@@ -34,13 +34,13 @@ def process_file(filename, entries_ccbysa, entries_mplgpllgpl):
     documents = yaml.load_all(open(filename), Loader=yaml.FullLoader)
     for k in documents:
         license = 'ccbysa'
-        if 'imported' in k:
-            if '한국어기초사전' in k['imported']:
+        if 'import' in k:
+            if '한국어기초사전' in k['import']:
                 license = 'ccbysa'
-            if '갈퀴 Django' in k['imported']:
-                if k['imported']['갈퀴 Django']['라이선스'] == 'CC BY 4.0':
+            if '갈퀴 Django' in k['import']:
+                if k['import']['갈퀴 Django']['라이선스'] == 'CC BY 4.0':
                     license = 'ccbysa'
-                elif  k['imported']['갈퀴 Django']['라이선스'] == 'MPL 1.1/GPL 2.0/LGPL 2.1':
+                elif  k['import']['갈퀴 Django']['라이선스'] == 'MPL 1.1/GPL 2.0/LGPL 2.1':
                     license = 'mplgpllgpl'
         if license == 'ccbysa':
             append_entry(entries_ccbysa, k)

@@ -1,5 +1,5 @@
 000_KEYWORD: -코__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83194
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -24,11 +24,11 @@ imported:
     표제어: -코
     품사: 접사
     항목ID: 83194
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 코__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=46814
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -103,13 +103,13 @@ imported:
     표제어: 코
     품사: 명사
     항목ID: 46814
-processed:
+result:
   맞춤법 검사:
     표제어: 코
     품사: 명사
 ---
 000_KEYWORD: 코__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83255
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -143,13 +143,13 @@ imported:
     표제어: 코
     품사: 명사
     항목ID: 83255
-processed:
+result:
   맞춤법 검사:
     표제어: 코
     품사: 명사
 ---
 000_KEYWORD: 코감기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83256
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -177,13 +177,13 @@ imported:
     표제어: 코감기
     품사: 명사
     항목ID: 83256
-processed:
+result:
   맞춤법 검사:
     표제어: 코감기
     품사: 명사
 ---
 000_KEYWORD: 코걸이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83257
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -207,13 +207,13 @@ imported:
     표제어: 코걸이
     품사: 명사
     항목ID: 83257
-processed:
+result:
   맞춤법 검사:
     표제어: 코걸이
     품사: 명사
 ---
 000_KEYWORD: 코끝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28152
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -250,13 +250,13 @@ imported:
     - 발음: 코끈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/28152_kokkeunman.wav
       형태: 코끝만
-processed:
+result:
   맞춤법 검사:
     표제어: 코끝
     품사: 명사
 ---
 000_KEYWORD: 코끼리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28148
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -287,13 +287,13 @@ imported:
     표제어: 코끼리
     품사: 명사
     항목ID: 28148
-processed:
+result:
   맞춤법 검사:
     표제어: 코끼리
     품사: 명사
 ---
 000_KEYWORD: 코냑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83258
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -321,13 +321,13 @@ imported:
     표제어: 코냑
     품사: 명사
     항목ID: 83258
-processed:
+result:
   맞춤법 검사:
     표제어: 코냑
     품사: 명사
 ---
 000_KEYWORD: 코너__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71473
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -391,13 +391,13 @@ imported:
     표제어: 코너
     품사: 명사
     항목ID: 71473
-processed:
+result:
   맞춤법 검사:
     표제어: 코너
     품사: 명사
 ---
 000_KEYWORD: 코너킥__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -407,13 +407,13 @@ imported:
     표제어: 코너킥
     품사: 명사:보통:비서술성
     항목ID: 27461
-processed:
+result:
   맞춤법 검사:
     표제어: 코너킥
     품사: 명사
 ---
 000_KEYWORD: 코덱__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -423,13 +423,13 @@ imported:
     표제어: 코덱
     품사: 명사:보통:비서술성
     항목ID: 27462
-processed:
+result:
   맞춤법 검사:
     표제어: 코덱
     품사: 명사
 ---
 000_KEYWORD: 코드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28149
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -471,13 +471,13 @@ imported:
     표제어: 코드
     품사: 명사
     항목ID: 28149
-processed:
+result:
   맞춤법 검사:
     표제어: 코드
     품사: 명사
 ---
 000_KEYWORD: 코디__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -487,13 +487,13 @@ imported:
     표제어: 코디
     품사: 명사:보통:서술성
     항목ID: 27464
-processed:
+result:
   맞춤법 검사:
     표제어: 코디
     품사: 명사
 ---
 000_KEYWORD: 코디네이터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83259
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -515,13 +515,13 @@ imported:
     표제어: 코디네이터
     품사: 명사
     항목ID: 83259
-processed:
+result:
   맞춤법 검사:
     표제어: 코디네이터
     품사: 명사
 ---
 000_KEYWORD: 코딩__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -530,13 +530,13 @@ imported:
     표제어: 코딩
     품사: 명사:보통:서술성
     항목ID: 27465
-processed:
+result:
   맞춤법 검사:
     표제어: 코딩
     품사: 명사
 ---
 000_KEYWORD: 코딩하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -546,13 +546,13 @@ imported:
     표제어: 코딩하다
     품사: 동사
     항목ID: 27466
-processed:
+result:
   맞춤법 검사:
     표제어: 코딩하다
     품사: 동사
 ---
 000_KEYWORD: 코딱지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81132
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -589,13 +589,13 @@ imported:
     표제어: 코딱지
     품사: 명사
     항목ID: 81132
-processed:
+result:
   맞춤법 검사:
     표제어: 코딱지
     품사: 명사
 ---
 000_KEYWORD: 코란__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81136
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -621,13 +621,13 @@ imported:
     표제어: 코란
     품사: 명사
     항목ID: 81136
-processed:
+result:
   맞춤법 검사:
     표제어: 코란
     품사: 명사
 ---
 000_KEYWORD: 코러스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81144
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -678,13 +678,13 @@ imported:
     표제어: 코러스
     품사: 명사
     항목ID: 81144
-processed:
+result:
   맞춤법 검사:
     표제어: 코러스
     품사: 명사
 ---
 000_KEYWORD: 코로나__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -695,13 +695,13 @@ imported:
     표제어: 코로나
     품사: 명사:보통:서술성
     항목ID: 27470
-processed:
+result:
   맞춤법 검사:
     표제어: 코로나
     품사: 명사
 ---
 000_KEYWORD: 코르덴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81149
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -728,13 +728,13 @@ imported:
     표제어: 코르덴
     품사: 명사
     항목ID: 81149
-processed:
+result:
   맞춤법 검사:
     표제어: 코르덴
     품사: 명사
 ---
 000_KEYWORD: 코르크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81152
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -772,13 +772,13 @@ imported:
     표제어: 코르크
     품사: 명사
     항목ID: 81152
-processed:
+result:
   맞춤법 검사:
     표제어: 코르크
     품사: 명사
 ---
 000_KEYWORD: 코맹맹이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81155
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -801,13 +801,13 @@ imported:
     표제어: 코맹맹이
     품사: 명사
     항목ID: 81155
-processed:
+result:
   맞춤법 검사:
     표제어: 코맹맹이
     품사: 명사
 ---
 000_KEYWORD: 코메디__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92338
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -820,10 +820,10 @@ imported:
     표제어: 코메디
     품사: 명사
     항목ID: 92338
-processed: {}
+result: {}
 ---
 000_KEYWORD: 코멘트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -833,13 +833,13 @@ imported:
     표제어: 코멘트
     품사: 명사:보통:서술성
     항목ID: 27473
-processed:
+result:
   맞춤법 검사:
     표제어: 코멘트
     품사: 명사
 ---
 000_KEYWORD: 코미디__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28153
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -884,13 +884,13 @@ imported:
     표제어: 코미디
     품사: 명사
     항목ID: 28153
-processed:
+result:
   맞춤법 검사:
     표제어: 코미디
     품사: 명사
 ---
 000_KEYWORD: 코미디언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81160
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -914,13 +914,13 @@ imported:
     표제어: 코미디언
     품사: 명사
     항목ID: 81160
-processed:
+result:
   맞춤법 검사:
     표제어: 코미디언
     품사: 명사
 ---
 000_KEYWORD: 코믹하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81165
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -950,13 +950,13 @@ imported:
     - 형태: 코믹하여
     - 형태: 코믹하니
     - 형태: 코믹합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 코믹하다
     품사: 형용사
 ---
 000_KEYWORD: 코밑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81168
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1018,13 +1018,13 @@ imported:
     - 발음: 코미틀
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81168_komiteul.wav
       형태: 코밑을
-processed:
+result:
   맞춤법 검사:
     표제어: 코밑
     품사: 명사
 ---
 000_KEYWORD: 코바늘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81172
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1056,13 +1056,13 @@ imported:
     표제어: 코바늘
     품사: 명사
     항목ID: 81172
-processed:
+result:
   맞춤법 검사:
     표제어: 코바늘
     품사: 명사
 ---
 000_KEYWORD: 코발트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1072,13 +1072,13 @@ imported:
     표제어: 코발트
     품사: 명사:보통:서술성
     항목ID: 27477
-processed:
+result:
   맞춤법 검사:
     표제어: 코발트
     품사: 명사
 ---
 000_KEYWORD: 코브라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81174
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1105,13 +1105,13 @@ imported:
     표제어: 코브라
     품사: 명사
     항목ID: 81174
-processed:
+result:
   맞춤법 검사:
     표제어: 코브라
     품사: 명사
 ---
 000_KEYWORD: 코빼기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81179
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1136,13 +1136,13 @@ imported:
     표제어: 코빼기
     품사: 명사
     항목ID: 81179
-processed:
+result:
   맞춤법 검사:
     표제어: 코빼기
     품사: 명사
 ---
 000_KEYWORD: 코뼈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81183
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1169,13 +1169,13 @@ imported:
     표제어: 코뼈
     품사: 명사
     항목ID: 81183
-processed:
+result:
   맞춤법 검사:
     표제어: 코뼈
     품사: 명사
 ---
 000_KEYWORD: 코뿔소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81184
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1207,13 +1207,13 @@ imported:
     표제어: 코뿔소
     품사: 명사
     항목ID: 81184
-processed:
+result:
   맞춤법 검사:
     표제어: 코뿔소
     품사: 명사
 ---
 000_KEYWORD: 코사인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1224,13 +1224,13 @@ imported:
     표제어: 코사인
     품사: 명사:보통:서술성
     항목ID: 27482
-processed:
+result:
   맞춤법 검사:
     표제어: 코사인
     품사: 명사
 ---
 000_KEYWORD: 코스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28157
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1294,13 +1294,13 @@ imported:
     표제어: 코스
     품사: 명사
     항목ID: 28157
-processed:
+result:
   맞춤법 검사:
     표제어: 코스
     품사: 명사
 ---
 000_KEYWORD: 코스닥__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1309,13 +1309,13 @@ imported:
     표제어: 코스닥
     품사: 명사:보통:서술성
     항목ID: 31903
-processed:
+result:
   맞춤법 검사:
     표제어: 코스닥
     품사: 명사
 ---
 000_KEYWORD: 코스모스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28164
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1343,13 +1343,13 @@ imported:
     표제어: 코스모스
     품사: 명사
     항목ID: 28164
-processed:
+result:
   맞춤법 검사:
     표제어: 코스모스
     품사: 명사
 ---
 000_KEYWORD: 코스타리카__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1358,13 +1358,13 @@ imported:
     표제어: 코스타리카
     품사: 명사:고유
     항목ID: 27485
-processed:
+result:
   맞춤법 검사:
     표제어: 코스타리카
     품사: 명사
 ---
 000_KEYWORD: 코스튬__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1375,13 +1375,13 @@ imported:
     표제어: 코스튬
     품사: 명사:보통:비서술성
     항목ID: 27486
-processed:
+result:
   맞춤법 검사:
     표제어: 코스튬
     품사: 명사
 ---
 000_KEYWORD: 코스튬플레이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1393,13 +1393,13 @@ imported:
     표제어: 코스튬플레이
     품사: 명사:보통:서술성
     항목ID: 27487
-processed:
+result:
   맞춤법 검사:
     표제어: 코스튬플레이
     품사: 명사
 ---
 000_KEYWORD: 코스피__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1408,13 +1408,13 @@ imported:
     표제어: 코스피
     품사: 명사:보통:서술성
     항목ID: 31904
-processed:
+result:
   맞춤법 검사:
     표제어: 코스피
     품사: 명사
 ---
 000_KEYWORD: 코알라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81187
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1440,13 +1440,13 @@ imported:
     표제어: 코알라
     품사: 명사
     항목ID: 81187
-processed:
+result:
   맞춤법 검사:
     표제어: 코알라
     품사: 명사
 ---
 000_KEYWORD: 코앞__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92516
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1504,13 +1504,13 @@ imported:
     - 발음: 코암만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/kieuk_2005/koamman.wav
       형태: 코앞만
-processed:
+result:
   맞춤법 검사:
     표제어: 코앞
     품사: 명사
 ---
 000_KEYWORD: 코어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1520,13 +1520,13 @@ imported:
     표제어: 코어
     품사: 명사:보통:비서술성
     항목ID: 27490
-processed:
+result:
   맞춤법 검사:
     표제어: 코어
     품사: 명사
 ---
 000_KEYWORD: 코요테__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1536,13 +1536,13 @@ imported:
     표제어: 코요테
     품사: 명사:보통:비서술성
     항목ID: 27492
-processed:
+result:
   맞춤법 검사:
     표제어: 코요테
     품사: 명사
 ---
 000_KEYWORD: 코웃음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81190
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1569,13 +1569,13 @@ imported:
     표제어: 코웃음
     품사: 명사
     항목ID: 81190
-processed:
+result:
   맞춤법 검사:
     표제어: 코웃음
     품사: 명사
 ---
 000_KEYWORD: 코일__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1585,13 +1585,13 @@ imported:
     표제어: 코일
     품사: 명사:보통:서술성
     항목ID: 27494
-processed:
+result:
   맞춤법 검사:
     표제어: 코일
     품사: 명사
 ---
 000_KEYWORD: 코쟁이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1601,13 +1601,13 @@ imported:
     표제어: 코쟁이
     품사: 명사:보통:비서술성
     항목ID: 27495
-processed:
+result:
   맞춤법 검사:
     표제어: 코쟁이
     품사: 명사
 ---
 000_KEYWORD: 코주부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81199
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1632,13 +1632,13 @@ imported:
     표제어: 코주부
     품사: 명사
     항목ID: 81199
-processed:
+result:
   맞춤법 검사:
     표제어: 코주부
     품사: 명사
 ---
 000_KEYWORD: 코치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28169
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1691,13 +1691,13 @@ imported:
     표제어: 코치
     품사: 명사
     항목ID: 28169
-processed:
+result:
   맞춤법 검사:
     표제어: 코치
     품사: 명사
 ---
 000_KEYWORD: 코치하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81202
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1735,13 +1735,13 @@ imported:
     표제어: 코치하다
     품사: 동사
     항목ID: 81202
-processed:
+result:
   맞춤법 검사:
     표제어: 코치하다
     품사: 동사
 ---
 000_KEYWORD: 코칭스태프__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1751,13 +1751,13 @@ imported:
     표제어: 코칭스태프
     품사: 명사:보통:비서술성
     항목ID: 27497
-processed:
+result:
   맞춤법 검사:
     표제어: 코칭스태프
     품사: 명사
 ---
 000_KEYWORD: 코카인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81206
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1787,13 +1787,13 @@ imported:
     표제어: 코카인
     품사: 명사
     항목ID: 81206
-processed:
+result:
   맞춤법 검사:
     표제어: 코카인
     품사: 명사
 ---
 000_KEYWORD: 코코넛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81209
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1824,13 +1824,13 @@ imported:
     표제어: 코코넛
     품사: 명사
     항목ID: 81209
-processed:
+result:
   맞춤법 검사:
     표제어: 코코넛
     품사: 명사
 ---
 000_KEYWORD: 코코아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81213
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1872,13 +1872,13 @@ imported:
     표제어: 코코아
     품사: 명사
     항목ID: 81213
-processed:
+result:
   맞춤법 검사:
     표제어: 코코아
     품사: 명사
 ---
 000_KEYWORD: 코털__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81214
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1905,13 +1905,13 @@ imported:
     표제어: 코털
     품사: 명사
     항목ID: 81214
-processed:
+result:
   맞춤법 검사:
     표제어: 코털
     품사: 명사
 ---
 000_KEYWORD: 코트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81219
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1948,13 +1948,13 @@ imported:
     표제어: 코트
     품사: 명사
     항목ID: 81219
-processed:
+result:
   맞춤법 검사:
     표제어: 코트
     품사: 명사
 ---
 000_KEYWORD: 코트__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28163
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1991,13 +1991,13 @@ imported:
     표제어: 코트
     품사: 명사
     항목ID: 28163
-processed:
+result:
   맞춤법 검사:
     표제어: 코트
     품사: 명사
 ---
 000_KEYWORD: 코트디부아르__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2006,13 +2006,13 @@ imported:
     표제어: 코트디부아르
     품사: 명사:고유
     항목ID: 27503
-processed:
+result:
   맞춤법 검사:
     표제어: 코트디부아르
     품사: 명사
 ---
 000_KEYWORD: 코팅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81223
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2040,13 +2040,13 @@ imported:
     표제어: 코팅
     품사: 명사
     항목ID: 81223
-processed:
+result:
   맞춤법 검사:
     표제어: 코팅
     품사: 명사
 ---
 000_KEYWORD: 코팅하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81227
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2072,13 +2072,13 @@ imported:
     표제어: 코팅하다
     품사: 동사
     항목ID: 81227
-processed:
+result:
   맞춤법 검사:
     표제어: 코팅하다
     품사: 동사
 ---
 000_KEYWORD: 코펜하겐__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2088,13 +2088,13 @@ imported:
     표제어: 코펜하겐
     품사: 명사:고유
     항목ID: 27506
-processed:
+result:
   맞춤법 검사:
     표제어: 코펜하겐
     품사: 명사
 ---
 000_KEYWORD: 코피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72169
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2123,13 +2123,13 @@ imported:
     표제어: 코피
     품사: 명사
     항목ID: 72169
-processed:
+result:
   맞춤법 검사:
     표제어: 코피
     품사: 명사
 ---
 000_KEYWORD: 코하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81229
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2154,13 +2154,13 @@ imported:
     표제어: 코하다
     품사: 동사
     항목ID: 81229
-processed:
+result:
   맞춤법 검사:
     표제어: 코하다
     품사: 동사
 ---
 000_KEYWORD: 코허리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90221
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2188,13 +2188,13 @@ imported:
     표제어: 코허리
     품사: 명사
     항목ID: 90221
-processed:
+result:
   맞춤법 검사:
     표제어: 코허리
     품사: 명사
 ---
 000_KEYWORD: 코흘리개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81233
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2226,13 +2226,13 @@ imported:
     표제어: 코흘리개
     품사: 명사
     항목ID: 81233
-processed:
+result:
   맞춤법 검사:
     표제어: 코흘리개
     품사: 명사
 ---
 000_KEYWORD: 콕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81236
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2262,13 +2262,13 @@ imported:
     표제어: 콕
     품사: 부사
     항목ID: 81236
-processed:
+result:
   맞춤법 검사:
     표제어: 콕
     품사: 부사
 ---
 000_KEYWORD: 콕콕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81238
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2297,13 +2297,13 @@ imported:
     표제어: 콕콕
     품사: 부사
     항목ID: 81238
-processed:
+result:
   맞춤법 검사:
     표제어: 콕콕
     품사: 부사
 ---
 000_KEYWORD: 콘덴서__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2313,13 +2313,13 @@ imported:
     표제어: 콘덴서
     품사: 명사:보통:비서술성
     항목ID: 27511
-processed:
+result:
   맞춤법 검사:
     표제어: 콘덴서
     품사: 명사
 ---
 000_KEYWORD: 콘도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81240
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2352,13 +2352,13 @@ imported:
     표제어: 콘도
     품사: 명사
     항목ID: 81240
-processed:
+result:
   맞춤법 검사:
     표제어: 콘도
     품사: 명사
 ---
 000_KEYWORD: 콘도미니엄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81242
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2387,13 +2387,13 @@ imported:
     표제어: 콘도미니엄
     품사: 명사
     항목ID: 81242
-processed:
+result:
   맞춤법 검사:
     표제어: 콘도미니엄
     품사: 명사
 ---
 000_KEYWORD: 콘돔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81243
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2420,13 +2420,13 @@ imported:
     표제어: 콘돔
     품사: 명사
     항목ID: 81243
-processed:
+result:
   맞춤법 검사:
     표제어: 콘돔
     품사: 명사
 ---
 000_KEYWORD: 콘비프__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2437,13 +2437,13 @@ imported:
     표제어: 콘비프
     품사: 명사:보통:서술성
     항목ID: 27514
-processed:
+result:
   맞춤법 검사:
     표제어: 콘비프
     품사: 명사
 ---
 000_KEYWORD: 콘서트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28165
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2480,13 +2480,13 @@ imported:
     표제어: 콘서트
     품사: 명사
     항목ID: 28165
-processed:
+result:
   맞춤법 검사:
     표제어: 콘서트
     품사: 명사
 ---
 000_KEYWORD: 콘센트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81245
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2515,13 +2515,13 @@ imported:
     표제어: 콘센트
     품사: 명사
     항목ID: 81245
-processed:
+result:
   맞춤법 검사:
     표제어: 콘센트
     품사: 명사
 ---
 000_KEYWORD: 콘셉트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2532,13 +2532,13 @@ imported:
     표제어: 콘셉트
     품사: 명사:보통:서술성
     항목ID: 27517
-processed:
+result:
   맞춤법 검사:
     표제어: 콘셉트
     품사: 명사
 ---
 000_KEYWORD: 콘크리트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81247
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2565,13 +2565,13 @@ imported:
     표제어: 콘크리트
     품사: 명사
     항목ID: 81247
-processed:
+result:
   맞춤법 검사:
     표제어: 콘크리트
     품사: 명사
 ---
 000_KEYWORD: 콘택트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2582,13 +2582,13 @@ imported:
     표제어: 콘택트
     품사: 명사:보통:서술성
     항목ID: 27519
-processed:
+result:
   맞춤법 검사:
     표제어: 콘택트
     품사: 명사
 ---
 000_KEYWORD: 콘택트렌즈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81248
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2619,13 +2619,13 @@ imported:
     표제어: 콘택트렌즈
     품사: 명사
     항목ID: 81248
-processed:
+result:
   맞춤법 검사:
     표제어: 콘택트렌즈
     품사: 명사
 ---
 000_KEYWORD: 콘테스트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81252
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2652,13 +2652,13 @@ imported:
     표제어: 콘테스트
     품사: 명사
     항목ID: 81252
-processed:
+result:
   맞춤법 검사:
     표제어: 콘테스트
     품사: 명사
 ---
 000_KEYWORD: 콘텐츠__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2668,13 +2668,13 @@ imported:
     표제어: 콘텐츠
     품사: 명사:보통:비서술성
     항목ID: 27522
-processed:
+result:
   맞춤법 검사:
     표제어: 콘텐츠
     품사: 명사
 ---
 000_KEYWORD: 콘트라베이스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81256
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2708,13 +2708,13 @@ imported:
     표제어: 콘트라베이스
     품사: 명사
     항목ID: 81256
-processed:
+result:
   맞춤법 검사:
     표제어: 콘트라베이스
     품사: 명사
 ---
 000_KEYWORD: 콘티__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2725,13 +2725,13 @@ imported:
     표제어: 콘티
     품사: 명사:보통:서술성
     항목ID: 27524
-processed:
+result:
   맞춤법 검사:
     표제어: 콘티
     품사: 명사
 ---
 000_KEYWORD: 콘퍼런스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2742,13 +2742,13 @@ imported:
     표제어: 콘퍼런스
     품사: 명사:보통:비서술성
     항목ID: 27525
-processed:
+result:
   맞춤법 검사:
     표제어: 콘퍼런스
     품사: 명사
 ---
 000_KEYWORD: 콜걸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81259
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2770,13 +2770,13 @@ imported:
     표제어: 콜걸
     품사: 명사
     항목ID: 81259
-processed:
+result:
   맞춤법 검사:
     표제어: 콜걸
     품사: 명사
 ---
 000_KEYWORD: 콜드크림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81262
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2800,13 +2800,13 @@ imported:
     표제어: 콜드크림
     품사: 명사
     항목ID: 81262
-processed:
+result:
   맞춤법 검사:
     표제어: 콜드크림
     품사: 명사
 ---
 000_KEYWORD: 콜라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17238
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2837,13 +2837,13 @@ imported:
     표제어: 콜라
     품사: 명사
     항목ID: 17238
-processed:
+result:
   맞춤법 검사:
     표제어: 콜라
     품사: 명사
 ---
 000_KEYWORD: 콜라주__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2853,13 +2853,13 @@ imported:
     표제어: 콜라주
     품사: 명사:보통:서술성
     항목ID: 27527
-processed:
+result:
   맞춤법 검사:
     표제어: 콜라주
     품사: 명사
 ---
 000_KEYWORD: 콜럼버스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2870,13 +2870,13 @@ imported:
     표제어: 콜럼버스
     품사: 명사:보통:서술성
     항목ID: 27528
-processed:
+result:
   맞춤법 검사:
     표제어: 콜럼버스
     품사: 명사
 ---
 000_KEYWORD: 콜레라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81264
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2902,13 +2902,13 @@ imported:
     표제어: 콜레라
     품사: 명사
     항목ID: 81264
-processed:
+result:
   맞춤법 검사:
     표제어: 콜레라
     품사: 명사
 ---
 000_KEYWORD: 콜레스테롤__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81274
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2934,13 +2934,13 @@ imported:
     표제어: 콜레스테롤
     품사: 명사
     항목ID: 81274
-processed:
+result:
   맞춤법 검사:
     표제어: 콜레스테롤
     품사: 명사
 ---
 000_KEYWORD: 콜록__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81276
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2965,13 +2965,13 @@ imported:
     표제어: 콜록
     품사: 부사
     항목ID: 81276
-processed:
+result:
   맞춤법 검사:
     표제어: 콜록
     품사: 부사
 ---
 000_KEYWORD: 콜록거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81278
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3004,13 +3004,13 @@ imported:
     표제어: 콜록거리다
     품사: 동사
     항목ID: 81278
-processed:
+result:
   맞춤법 검사:
     표제어: 콜록거리다
     품사: 동사
 ---
 000_KEYWORD: 콜록대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90033
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3044,13 +3044,13 @@ imported:
     표제어: 콜록대다
     품사: 동사
     항목ID: 90033
-processed:
+result:
   맞춤법 검사:
     표제어: 콜록대다
     품사: 동사
 ---
 000_KEYWORD: 콜록콜록__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81284
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3077,13 +3077,13 @@ imported:
     표제어: 콜록콜록
     품사: 부사
     항목ID: 81284
-processed:
+result:
   맞춤법 검사:
     표제어: 콜록콜록
     품사: 부사
 ---
 000_KEYWORD: 콜록콜록하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81286
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3115,13 +3115,13 @@ imported:
     표제어: 콜록콜록하다
     품사: 동사
     항목ID: 81286
-processed:
+result:
   맞춤법 검사:
     표제어: 콜록콜록하다
     품사: 동사
 ---
 000_KEYWORD: 콜록하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90035
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3147,13 +3147,13 @@ imported:
     표제어: 콜록하다
     품사: 동사
     항목ID: 90035
-processed:
+result:
   맞춤법 검사:
     표제어: 콜록하다
     품사: 동사
 ---
 000_KEYWORD: 콜롬비아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68772
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3170,13 +3170,13 @@ imported:
     표제어: 콜롬비아
     품사: 명사
     항목ID: 68772
-processed:
+result:
   맞춤법 검사:
     표제어: 콜롬비아
     품사: 명사
 ---
 000_KEYWORD: 콜콜__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81289
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3204,13 +3204,13 @@ imported:
     표제어: 콜콜
     품사: 부사
     항목ID: 81289
-processed:
+result:
   맞춤법 검사:
     표제어: 콜콜
     품사: 부사
 ---
 000_KEYWORD: 콜콜거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81290
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3240,13 +3240,13 @@ imported:
     표제어: 콜콜거리다
     품사: 동사
     항목ID: 81290
-processed:
+result:
   맞춤법 검사:
     표제어: 콜콜거리다
     품사: 동사
 ---
 000_KEYWORD: 콜콜대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90036
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3276,13 +3276,13 @@ imported:
     표제어: 콜콜대다
     품사: 동사
     항목ID: 90036
-processed:
+result:
   맞춤법 검사:
     표제어: 콜콜대다
     품사: 동사
 ---
 000_KEYWORD: 콜콜하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90037
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3308,13 +3308,13 @@ imported:
     표제어: 콜콜하다
     품사: 동사
     항목ID: 90037
-processed:
+result:
   맞춤법 검사:
     표제어: 콜콜하다
     품사: 동사
 ---
 000_KEYWORD: 콜타르__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3325,13 +3325,13 @@ imported:
     표제어: 콜타르
     품사: 명사:보통:서술성
     항목ID: 27534
-processed:
+result:
   맞춤법 검사:
     표제어: 콜타르
     품사: 명사
 ---
 000_KEYWORD: 콜택시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81293
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3356,13 +3356,13 @@ imported:
     표제어: 콜택시
     품사: 명사
     항목ID: 81293
-processed:
+result:
   맞춤법 검사:
     표제어: 콜택시
     품사: 명사
 ---
 000_KEYWORD: 콤비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81295
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3386,13 +3386,13 @@ imported:
     표제어: 콤비
     품사: 명사
     항목ID: 81295
-processed:
+result:
   맞춤법 검사:
     표제어: 콤비
     품사: 명사
 ---
 000_KEYWORD: 콤파스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92337
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3405,10 +3405,10 @@ imported:
     표제어: 콤파스
     품사: 명사
     항목ID: 92337
-processed: {}
+result: {}
 ---
 000_KEYWORD: 콤팩트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81301
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3437,13 +3437,13 @@ imported:
     표제어: 콤팩트
     품사: 명사
     항목ID: 81301
-processed:
+result:
   맞춤법 검사:
     표제어: 콤팩트
     품사: 명사
 ---
 000_KEYWORD: 콤팩트디스크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81298
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3473,13 +3473,13 @@ imported:
     표제어: 콤팩트디스크
     품사: 명사
     항목ID: 81298
-processed:
+result:
   맞춤법 검사:
     표제어: 콤팩트디스크
     품사: 명사
 ---
 000_KEYWORD: 콤플렉스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72170
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3511,13 +3511,13 @@ imported:
     표제어: 콤플렉스
     품사: 명사
     항목ID: 72170
-processed:
+result:
   맞춤법 검사:
     표제어: 콤플렉스
     품사: 명사
 ---
 000_KEYWORD: 콧구멍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81306
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3559,13 +3559,13 @@ imported:
     표제어: 콧구멍
     품사: 명사
     항목ID: 81306
-processed:
+result:
   맞춤법 검사:
     표제어: 콧구멍
     품사: 명사
 ---
 000_KEYWORD: 콧김__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81310
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3609,13 +3609,13 @@ imported:
     표제어: 콧김
     품사: 명사
     항목ID: 81310
-processed:
+result:
   맞춤법 검사:
     표제어: 콧김
     품사: 명사
 ---
 000_KEYWORD: 콧날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81314
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3645,13 +3645,13 @@ imported:
     표제어: 콧날
     품사: 명사
     항목ID: 81314
-processed:
+result:
   맞춤법 검사:
     표제어: 콧날
     품사: 명사
 ---
 000_KEYWORD: 콧노래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81319
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3678,13 +3678,13 @@ imported:
     표제어: 콧노래
     품사: 명사
     항목ID: 81319
-processed:
+result:
   맞춤법 검사:
     표제어: 콧노래
     품사: 명사
 ---
 000_KEYWORD: 콧대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81334
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3726,13 +3726,13 @@ imported:
     표제어: 콧대
     품사: 명사
     항목ID: 81334
-processed:
+result:
   맞춤법 검사:
     표제어: 콧대
     품사: 명사
 ---
 000_KEYWORD: 콧등__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81341
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3761,13 +3761,13 @@ imported:
     표제어: 콧등
     품사: 명사
     항목ID: 81341
-processed:
+result:
   맞춤법 검사:
     표제어: 콧등
     품사: 명사
 ---
 000_KEYWORD: 콧물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81350
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3800,13 +3800,13 @@ imported:
     표제어: 콧물
     품사: 명사
     항목ID: 81350
-processed:
+result:
   맞춤법 검사:
     표제어: 콧물
     품사: 명사
 ---
 000_KEYWORD: 콧방귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81355
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3833,13 +3833,13 @@ imported:
     표제어: 콧방귀
     품사: 명사
     항목ID: 81355
-processed:
+result:
   맞춤법 검사:
     표제어: 콧방귀
     품사: 명사
 ---
 000_KEYWORD: 콧방울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81361
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3868,13 +3868,13 @@ imported:
     표제어: 콧방울
     품사: 명사
     항목ID: 81361
-processed:
+result:
   맞춤법 검사:
     표제어: 콧방울
     품사: 명사
 ---
 000_KEYWORD: 콧배기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92336
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3887,10 +3887,10 @@ imported:
     표제어: 콧배기
     품사: 명사
     항목ID: 92336
-processed: {}
+result: {}
 ---
 000_KEYWORD: 콧소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81368
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3931,13 +3931,13 @@ imported:
     표제어: 콧소리
     품사: 명사
     항목ID: 81368
-processed:
+result:
   맞춤법 검사:
     표제어: 콧소리
     품사: 명사
 ---
 000_KEYWORD: 콧속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81375
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3985,13 +3985,13 @@ imported:
     - 발음: 콛쏭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81375_kotssongman.wav
       형태: 콧속만
-processed:
+result:
   맞춤법 검사:
     표제어: 콧속
     품사: 명사
 ---
 000_KEYWORD: 콧수염__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81382
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4024,13 +4024,13 @@ imported:
     표제어: 콧수염
     품사: 명사
     항목ID: 81382
-processed:
+result:
   맞춤법 검사:
     표제어: 콧수염
     품사: 명사
 ---
 000_KEYWORD: 콧잔등__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81386
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4065,13 +4065,13 @@ imported:
     표제어: 콧잔등
     품사: 명사
     항목ID: 81386
-processed:
+result:
   맞춤법 검사:
     표제어: 콧잔등
     품사: 명사
 ---
 000_KEYWORD: 콧잔등이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90222
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4104,13 +4104,13 @@ imported:
     표제어: 콧잔등이
     품사: 명사
     항목ID: 90222
-processed:
+result:
   맞춤법 검사:
     표제어: 콧잔등이
     품사: 명사
 ---
 000_KEYWORD: 콩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72171
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4148,13 +4148,13 @@ imported:
     표제어: 콩
     품사: 명사
     항목ID: 72171
-processed:
+result:
   맞춤법 검사:
     표제어: 콩
     품사: 명사
 ---
 000_KEYWORD: 콩가루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81390
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4188,13 +4188,13 @@ imported:
     표제어: 콩가루
     품사: 명사
     항목ID: 81390
-processed:
+result:
   맞춤법 검사:
     표제어: 콩가루
     품사: 명사
 ---
 000_KEYWORD: 콩고__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4203,13 +4203,13 @@ imported:
     표제어: 콩고
     품사: 명사:고유
     항목ID: 27545
-processed:
+result:
   맞춤법 검사:
     표제어: 콩고
     품사: 명사
 ---
 000_KEYWORD: 콩고물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81397
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4253,13 +4253,13 @@ imported:
     표제어: 콩고물
     품사: 명사
     항목ID: 81397
-processed:
+result:
   맞춤법 검사:
     표제어: 콩고물
     품사: 명사
 ---
 000_KEYWORD: 콩기름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81401
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4283,13 +4283,13 @@ imported:
     표제어: 콩기름
     품사: 명사
     항목ID: 81401
-processed:
+result:
   맞춤법 검사:
     표제어: 콩기름
     품사: 명사
 ---
 000_KEYWORD: 콩깍지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81405
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4314,13 +4314,13 @@ imported:
     표제어: 콩깍지
     품사: 명사
     항목ID: 81405
-processed:
+result:
   맞춤법 검사:
     표제어: 콩깍지
     품사: 명사
 ---
 000_KEYWORD: 콩나물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72172
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4355,13 +4355,13 @@ imported:
     표제어: 콩나물
     품사: 명사
     항목ID: 72172
-processed:
+result:
   맞춤법 검사:
     표제어: 콩나물
     품사: 명사
 ---
 000_KEYWORD: 콩나물밥__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4372,13 +4372,13 @@ imported:
     표제어: 콩나물밥
     품사: 명사:보통:서술성
     항목ID: 27551
-processed:
+result:
   맞춤법 검사:
     표제어: 콩나물밥
     품사: 명사
 ---
 000_KEYWORD: 콩닥콩닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81411
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4415,13 +4415,13 @@ imported:
     표제어: 콩닥콩닥
     품사: 부사
     항목ID: 81411
-processed:
+result:
   맞춤법 검사:
     표제어: 콩닥콩닥
     품사: 부사
 ---
 000_KEYWORD: 콩닥콩닥하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81415
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4460,13 +4460,13 @@ imported:
     표제어: 콩닥콩닥하다
     품사: 동사
     항목ID: 81415
-processed:
+result:
   맞춤법 검사:
     표제어: 콩닥콩닥하다
     품사: 동사
 ---
 000_KEYWORD: 콩떡__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4476,13 +4476,13 @@ imported:
     표제어: 콩떡
     품사: 명사:보통:서술성
     항목ID: 27553
-processed:
+result:
   맞춤법 검사:
     표제어: 콩떡
     품사: 명사
 ---
 000_KEYWORD: 콩밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81428
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4528,13 +4528,13 @@ imported:
     - 발음: 콩밤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81428_kongbamman.wav
       형태: 콩밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 콩밥
     품사: 명사
 ---
 000_KEYWORD: 콩알__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81436
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4572,13 +4572,13 @@ imported:
     표제어: 콩알
     품사: 명사
     항목ID: 81436
-processed:
+result:
   맞춤법 검사:
     표제어: 콩알
     품사: 명사
 ---
 000_KEYWORD: 콩자반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81438
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4607,13 +4607,13 @@ imported:
     표제어: 콩자반
     품사: 명사
     항목ID: 81438
-processed:
+result:
   맞춤법 검사:
     표제어: 콩자반
     품사: 명사
 ---
 000_KEYWORD: 콩쥐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67986
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4637,13 +4637,13 @@ imported:
     표제어: 콩쥐
     품사: 명사
     항목ID: 67986
-processed:
+result:
   맞춤법 검사:
     표제어: 콩쥐
     품사: 명사
 ---
 000_KEYWORD: 콩콩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81442
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4681,13 +4681,13 @@ imported:
     표제어: 콩콩
     품사: 부사
     항목ID: 81442
-processed:
+result:
   맞춤법 검사:
     표제어: 콩콩
     품사: 부사
 ---
 000_KEYWORD: 콩콩거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81444
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4742,13 +4742,13 @@ imported:
     표제어: 콩콩거리다
     품사: 동사
     항목ID: 81444
-processed:
+result:
   맞춤법 검사:
     표제어: 콩콩거리다
     품사: 동사
 ---
 000_KEYWORD: 콩콩대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90038
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4804,13 +4804,13 @@ imported:
     표제어: 콩콩대다
     품사: 동사
     항목ID: 90038
-processed:
+result:
   맞춤법 검사:
     표제어: 콩콩대다
     품사: 동사
 ---
 000_KEYWORD: 콩콩이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90039
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4853,13 +4853,13 @@ imported:
     표제어: 콩콩이다
     품사: 동사
     항목ID: 90039
-processed:
+result:
   맞춤법 검사:
     표제어: 콩콩이다
     품사: 동사
 ---
 000_KEYWORD: 콩콩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90106
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4915,13 +4915,13 @@ imported:
     표제어: 콩콩하다
     품사: 동사
     항목ID: 90106
-processed:
+result:
   맞춤법 검사:
     표제어: 콩콩하다
     품사: 동사
 ---
 000_KEYWORD: 콩쿠르__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81541
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4949,13 +4949,13 @@ imported:
     표제어: 콩쿠르
     품사: 명사
     항목ID: 81541
-processed:
+result:
   맞춤법 검사:
     표제어: 콩쿠르
     품사: 명사
 ---
 000_KEYWORD: 콩트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81542
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4985,13 +4985,13 @@ imported:
     표제어: 콩트
     품사: 명사
     항목ID: 81542
-processed:
+result:
   맞춤법 검사:
     표제어: 콩트
     품사: 명사
 ---
 000_KEYWORD: 콩팥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81543
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5036,7 +5036,7 @@ imported:
     - 발음: 콩판만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81543_kongpanman.wav
       형태: 콩팥만
-processed:
+result:
   맞춤법 검사:
     표제어: 콩팥
     품사: 명사

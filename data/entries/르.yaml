@@ -1,5 +1,5 @@
 000_KEYWORD: 르네상스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 르네상스
     품사: 명사:보통:서술성
     항목ID: 8178
-processed:
+result:
   맞춤법 검사:
     표제어: 르네상스
     품사: 명사
 ---
 000_KEYWORD: 르완다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68349
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -33,13 +33,13 @@ imported:
     표제어: 르완다
     품사: 명사
     항목ID: 68349
-processed:
+result:
   맞춤법 검사:
     표제어: 르완다
     품사: 명사
 ---
 000_KEYWORD: 르완다어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -49,13 +49,13 @@ imported:
     표제어: 르완다어
     품사: 명사:보통:서술성
     항목ID: 8180
-processed:
+result:
   맞춤법 검사:
     표제어: 르완다어
     품사: 명사
 ---
 000_KEYWORD: 르포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52486
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -79,13 +79,13 @@ imported:
     표제어: 르포
     품사: 명사
     항목ID: 52486
-processed:
+result:
   맞춤법 검사:
     표제어: 르포
     품사: 명사
 ---
 000_KEYWORD: 를__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85764
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -248,5 +248,5 @@ imported:
     표제어: 를
     품사: 조사
     항목ID: 85764
-processed:
+result:
   맞춤법 검사: {}

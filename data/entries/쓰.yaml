@@ -1,5 +1,5 @@
 000_KEYWORD: 쓰기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66435
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -28,13 +28,13 @@ imported:
     표제어: 쓰기
     품사: 명사
     항목ID: 66435
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰기
     품사: 명사
 ---
 000_KEYWORD: 쓰나미__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -44,13 +44,13 @@ imported:
     표제어: 쓰나미
     품사: 명사:보통:서술성
     항목ID: 17030
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰나미
     품사: 명사
 ---
 000_KEYWORD: 쓰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65172
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -125,13 +125,13 @@ imported:
     활용:
     - 형태: 써
     - 형태: 쓰니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰다
     품사: 동사
 ---
 000_KEYWORD: 쓰다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65173
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -215,13 +215,13 @@ imported:
     활용:
     - 형태: 써
     - 형태: 쓰니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰다
     품사: 동사
 ---
 000_KEYWORD: 쓰다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71285
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -386,13 +386,13 @@ imported:
     - 발음: 씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/16718_sseumnida.wav
       형태: 씁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰다
     품사: 동사
 ---
 000_KEYWORD: 쓰다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16488
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -449,17 +449,17 @@ imported:
     - 발음: 씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/16718_sseumnida.wav
       형태: 씁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰다
     품사: 형용사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 으불규칙
 ---
 000_KEYWORD: 쓰다듬다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16490
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -505,13 +505,13 @@ imported:
     - 발음: 쓰다드므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/16490_sseudadeumeuni.wav
       형태: 쓰다듬으니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰다듬다
     품사: 동사
 ---
 000_KEYWORD: 쓰디쓰다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66436
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -563,13 +563,13 @@ imported:
       형태: 쓰디쓰니
     - 발음: 쓰디씀니다
       형태: 쓰디씁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰디쓰다
     품사: 형용사
 ---
 000_KEYWORD: 쓰라리다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66437
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -626,13 +626,13 @@ imported:
       형태: 쓰라리니
     - 발음: 쓰라림니다
       형태: 쓰라립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰라리다
     품사: 형용사
 ---
 000_KEYWORD: 쓰러뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66439
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -690,13 +690,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66439_sseureotteuriyeo.wav
       형태: 쓰러뜨리어
     - 형태: 쓰러뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰러뜨리다
     품사: 동사
 ---
 000_KEYWORD: 쓰러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16492
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -764,7 +764,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/16492_sseureojeo.wav
       형태: 쓰러져
     - 형태: 쓰러지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -772,7 +772,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 쓰러트리다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -782,13 +782,13 @@ imported:
     표제어: 쓰러트리다
     품사: 동사
     항목ID: 17037
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰러트리다
     품사: 동사
 ---
 000_KEYWORD: 쓰레기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29590
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -848,13 +848,13 @@ imported:
     표제어: 쓰레기
     품사: 명사
     항목ID: 29590
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰레기
     품사: 명사
 ---
 000_KEYWORD: 쓰레기봉투__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66441
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -883,13 +883,13 @@ imported:
     표제어: 쓰레기봉투
     품사: 명사
     항목ID: 66441
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰레기봉투
     품사: 명사
 ---
 000_KEYWORD: 쓰레기장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66442
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -913,13 +913,13 @@ imported:
     표제어: 쓰레기장
     품사: 명사
     항목ID: 66442
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰레기장
     품사: 명사
 ---
 000_KEYWORD: 쓰레기통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65174
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -954,13 +954,13 @@ imported:
     표제어: 쓰레기통
     품사: 명사
     항목ID: 65174
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰레기통
     품사: 명사
 ---
 000_KEYWORD: 쓰레받기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66443
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -986,13 +986,13 @@ imported:
     표제어: 쓰레받기
     품사: 명사
     항목ID: 66443
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰레받기
     품사: 명사
 ---
 000_KEYWORD: 쓰리다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66444
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1060,13 +1060,13 @@ imported:
       형태: 쓰리니
     - 발음: 쓰림니다
       형태: 쓰립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰리다
     품사: 형용사
 ---
 000_KEYWORD: 쓰이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66568
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1144,13 +1144,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66568_sseuiyeo.wav
       형태: 쓰이어
     - 형태: 쓰이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰이다
     품사: 동사
 ---
 000_KEYWORD: 쓰이다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16700
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1256,13 +1256,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66568_sseuiyeo.wav
       형태: 쓰이어
     - 형태: 쓰이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰이다
     품사: 동사
 ---
 000_KEYWORD: 쓰임새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66445
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1292,13 +1292,13 @@ imported:
     표제어: 쓰임새
     품사: 명사
     항목ID: 66445
-processed:
+result:
   맞춤법 검사:
     표제어: 쓰임새
     품사: 명사
 ---
 000_KEYWORD: 쓱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66547
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1375,13 +1375,13 @@ imported:
     표제어: 쓱
     품사: 부사
     항목ID: 66547
-processed:
+result:
   맞춤법 검사:
     표제어: 쓱
     품사: 부사
 ---
 000_KEYWORD: 쓱쓱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66446
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1416,13 +1416,13 @@ imported:
     표제어: 쓱쓱
     품사: 부사
     항목ID: 66446
-processed:
+result:
   맞춤법 검사:
     표제어: 쓱쓱
     품사: 부사
 ---
 000_KEYWORD: 쓴맛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16701
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1479,13 +1479,13 @@ imported:
     - 발음: 쓴만만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/16701_sseunmanman.wav
       형태: 쓴맛만
-processed:
+result:
   맞춤법 검사:
     표제어: 쓴맛
     품사: 명사
 ---
 000_KEYWORD: 쓴소리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1495,13 +1495,13 @@ imported:
     표제어: 쓴소리
     품사: 명사:보통:서술성
     항목ID: 17047
-processed:
+result:
   맞춤법 검사:
     표제어: 쓴소리
     품사: 명사
 ---
 000_KEYWORD: 쓴웃음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66447
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1530,13 +1530,13 @@ imported:
     표제어: 쓴웃음
     품사: 명사
     항목ID: 66447
-processed:
+result:
   맞춤법 검사:
     표제어: 쓴웃음
     품사: 명사
 ---
 000_KEYWORD: 쓸개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66468
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1578,13 +1578,13 @@ imported:
     표제어: 쓸개
     품사: 명사
     항목ID: 66468
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸개
     품사: 명사
 ---
 000_KEYWORD: 쓸다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16718
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1680,13 +1680,13 @@ imported:
     - 발음: 씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/16718_sseumnida.wav
       형태: 씁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸다
     품사: 동사
 ---
 000_KEYWORD: 쓸데__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66469
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1710,13 +1710,13 @@ imported:
     표제어: 쓸데
     품사: 명사
     항목ID: 66469
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸데
     품사: 명사
 ---
 000_KEYWORD: 쓸데없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16730
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1765,13 +1765,13 @@ imported:
     - 발음: 쓸떼업찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/16730_sseultteeopjji.wav
       형태: 쓸데없지
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸데없다
     품사: 형용사
 ---
 000_KEYWORD: 쓸데없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16732
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1796,13 +1796,13 @@ imported:
     표제어: 쓸데없이
     품사: 부사
     항목ID: 16732
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸데없이
     품사: 부사
 ---
 000_KEYWORD: 쓸리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66471
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1876,13 +1876,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66471_sseulliyeo.wav
       형태: 쓸리어
     - 형태: 쓸리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸리다
     품사: 동사
 ---
 000_KEYWORD: 쓸모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66472
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1921,13 +1921,13 @@ imported:
     표제어: 쓸모
     품사: 명사
     항목ID: 66472
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸모
     품사: 명사
 ---
 000_KEYWORD: 쓸모없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66474
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1974,13 +1974,13 @@ imported:
     - 발음: 쓸모업찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66474_sseulmoeopjji.wav
       형태: 쓸모없지
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸모없다
     품사: 형용사
 ---
 000_KEYWORD: 쓸모없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66476
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2002,13 +2002,13 @@ imported:
     표제어: 쓸모없이
     품사: 부사
     항목ID: 66476
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸모없이
     품사: 부사
 ---
 000_KEYWORD: 쓸쓸하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16735
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2067,13 +2067,13 @@ imported:
       형태: 쓸쓸하니
     - 발음: 쓸쓸함니다
       형태: 쓸쓸합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸쓸하다
     품사: 형용사
 ---
 000_KEYWORD: 쓸쓸히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66477
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2095,13 +2095,13 @@ imported:
     표제어: 쓸쓸히
     품사: 부사
     항목ID: 66477
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸쓸히
     품사: 부사
 ---
 000_KEYWORD: 쓸어내리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66478
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2149,13 +2149,13 @@ imported:
     - 발음: 쓸어내리여
       형태: 쓸어내리어
     - 형태: 쓸어내리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸어내리다
     품사: 동사
 ---
 000_KEYWORD: 쓸어버리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66479
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2196,13 +2196,13 @@ imported:
     - 발음: 쓰러버리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66479_sseureobeorini.wav
       형태: 쓸어버리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸어버리다
     품사: 동사
 ---
 000_KEYWORD: 쓸어안다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66480
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2235,13 +2235,13 @@ imported:
     - 발음: 쓰러아느니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66480_sseureoaneuni.wav
       형태: 쓸어안으니
-processed:
+result:
   맞춤법 검사:
     표제어: 쓸어안다
     품사: 동사
 ---
 000_KEYWORD: 씀씀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66481
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2271,13 +2271,13 @@ imported:
     표제어: 씀씀이
     품사: 명사
     항목ID: 66481
-processed:
+result:
   맞춤법 검사:
     표제어: 씀씀이
     품사: 명사
 ---
 000_KEYWORD: 씁쓰레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66482
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2301,13 +2301,13 @@ imported:
     표제어: 씁쓰레
     품사: 부사
     항목ID: 66482
-processed:
+result:
   맞춤법 검사:
     표제어: 씁쓰레
     품사: 부사
 ---
 000_KEYWORD: 씁쓰레하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66483
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2365,13 +2365,13 @@ imported:
       형태: 씁쓰레하니
     - 발음: 씁쓰레함니다
       형태: 씁쓰레합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 씁쓰레하다
     품사: 형용사
 ---
 000_KEYWORD: 씁쓰름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66484
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2430,13 +2430,13 @@ imported:
       형태: 씁쓰름하니
     - 발음: 씁쓰름함니다
       형태: 씁쓰름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 씁쓰름하다
     품사: 형용사
 ---
 000_KEYWORD: 씁쓸하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66422
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2497,13 +2497,13 @@ imported:
       형태: 씁쓸하니
     - 발음: 씁쓸함니다
       형태: 씁쓸합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 씁쓸하다
     품사: 형용사
 ---
 000_KEYWORD: 씁쓸히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66438
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2529,7 +2529,7 @@ imported:
     표제어: 씁쓸히
     품사: 부사
     항목ID: 66438
-processed:
+result:
   맞춤법 검사:
     표제어: 씁쓸히
     품사: 부사

@@ -1,5 +1,5 @@
 000_KEYWORD: -권__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72374
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -41,11 +41,11 @@ imported:
     표제어: -권
     품사: 접사
     항목ID: 72374
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -권__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72375
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -87,11 +87,11 @@ imported:
     표제어: -권
     품사: 접사
     항목ID: 72375
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -권__접사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72376
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -171,11 +171,11 @@ imported:
     표제어: -권
     품사: 접사
     항목ID: 72376
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 권__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62537
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -270,13 +270,13 @@ imported:
     표제어: 권
     품사: 의존 명사
     항목ID: 62537
-processed:
+result:
   맞춤법 검사:
     표제어: 권
     품사: 의존 명사
 ---
 000_KEYWORD: 권고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37308
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -307,13 +307,13 @@ imported:
     표제어: 권고
     품사: 명사
     항목ID: 37308
-processed:
+result:
   맞춤법 검사:
     표제어: 권고
     품사: 명사
 ---
 000_KEYWORD: 권고문__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -322,13 +322,13 @@ imported:
     표제어: 권고문
     품사: 명사:보통:서술성
     항목ID: 3412
-processed:
+result:
   맞춤법 검사:
     표제어: 권고문
     품사: 명사
 ---
 000_KEYWORD: 권고하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37310
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -358,13 +358,13 @@ imported:
     표제어: 권고하다
     품사: 동사
     항목ID: 37310
-processed:
+result:
   맞춤법 검사:
     표제어: 권고하다
     품사: 동사
 ---
 000_KEYWORD: 권능__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37312
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -395,13 +395,13 @@ imported:
     표제어: 권능
     품사: 명사
     항목ID: 37312
-processed:
+result:
   맞춤법 검사:
     표제어: 권능
     품사: 명사
 ---
 000_KEYWORD: 권두__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37313
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -431,13 +431,13 @@ imported:
     표제어: 권두
     품사: 명사
     항목ID: 37313
-processed:
+result:
   맞춤법 검사:
     표제어: 권두
     품사: 명사
 ---
 000_KEYWORD: 권력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37314
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -491,13 +491,13 @@ imported:
     - 발음: 궐령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/37314_gwollyeongman.wav
       형태: 권력만
-processed:
+result:
   맞춤법 검사:
     표제어: 권력
     품사: 명사
 ---
 000_KEYWORD: 권력가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89274
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -533,13 +533,13 @@ imported:
     표제어: 권력가
     품사: 명사
     항목ID: 89274
-processed:
+result:
   맞춤법 검사:
     표제어: 권력가
     품사: 명사
 ---
 000_KEYWORD: 권력기관__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -548,13 +548,13 @@ imported:
     표제어: 권력기관
     품사: 명사:보통:비서술성
     항목ID: 32103
-processed:
+result:
   맞춤법 검사:
     표제어: 권력기관
     품사: 명사
 ---
 000_KEYWORD: 권력분립__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -564,13 +564,13 @@ imported:
     표제어: 권력분립
     품사: 명사:보통:서술성
     항목ID: 3416
-processed:
+result:
   맞춤법 검사:
     표제어: 권력분립
     품사: 명사
 ---
 000_KEYWORD: 권력자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37315
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -607,13 +607,13 @@ imported:
     표제어: 권력자
     품사: 명사
     항목ID: 37315
-processed:
+result:
   맞춤법 검사:
     표제어: 권력자
     품사: 명사
 ---
 000_KEYWORD: 권력층__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37316
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -643,13 +643,13 @@ imported:
     표제어: 권력층
     품사: 명사
     항목ID: 37316
-processed:
+result:
   맞춤법 검사:
     표제어: 권력층
     품사: 명사
 ---
 000_KEYWORD: 권력형__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -658,13 +658,13 @@ imported:
     표제어: 권력형
     품사: 명사:보통:서술성
     항목ID: 3419
-processed:
+result:
   맞춤법 검사:
     표제어: 권력형
     품사: 명사
 ---
 000_KEYWORD: 권리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36867
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -697,13 +697,13 @@ imported:
     표제어: 권리
     품사: 명사
     항목ID: 36867
-processed:
+result:
   맞춤법 검사:
     표제어: 권리
     품사: 명사
 ---
 000_KEYWORD: 권리금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37317
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -735,13 +735,13 @@ imported:
     표제어: 권리금
     품사: 명사
     항목ID: 37317
-processed:
+result:
   맞춤법 검사:
     표제어: 권리금
     품사: 명사
 ---
 000_KEYWORD: 권면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37318
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -774,13 +774,13 @@ imported:
     표제어: 권면
     품사: 명사
     항목ID: 37318
-processed:
+result:
   맞춤법 검사:
     표제어: 권면
     품사: 명사
 ---
 000_KEYWORD: 권면하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37319
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -811,13 +811,13 @@ imported:
     표제어: 권면하다
     품사: 동사
     항목ID: 37319
-processed:
+result:
   맞춤법 검사:
     표제어: 권면하다
     품사: 동사
 ---
 000_KEYWORD: 권모술수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37321
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -847,13 +847,13 @@ imported:
     표제어: 권모술수
     품사: 명사
     항목ID: 37321
-processed:
+result:
   맞춤법 검사:
     표제어: 권모술수
     품사: 명사
 ---
 000_KEYWORD: 권법__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -863,13 +863,13 @@ imported:
     표제어: 권법
     품사: 명사:보통:비서술성
     항목ID: 3422
-processed:
+result:
   맞춤법 검사:
     표제어: 권법
     품사: 명사
 ---
 000_KEYWORD: 권불십년__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -879,13 +879,13 @@ imported:
     표제어: 권불십년
     품사: 명사:보통:서술성
     항목ID: 3423
-processed:
+result:
   맞춤법 검사:
     표제어: 권불십년
     품사: 명사
 ---
 000_KEYWORD: 권사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37322
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -911,13 +911,13 @@ imported:
     표제어: 권사
     품사: 명사
     항목ID: 37322
-processed:
+result:
   맞춤법 검사:
     표제어: 권사
     품사: 명사
 ---
 000_KEYWORD: 권선징악__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37323
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -956,13 +956,13 @@ imported:
     - 발음: 권선징앙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/37323_gwonseonjingangman.wav
       형태: 권선징악만
-processed:
+result:
   맞춤법 검사:
     표제어: 권선징악
     품사: 명사
 ---
 000_KEYWORD: 권세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37324
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -990,13 +990,13 @@ imported:
     표제어: 권세
     품사: 명사
     항목ID: 37324
-processed:
+result:
   맞춤법 검사:
     표제어: 권세
     품사: 명사
 ---
 000_KEYWORD: 권수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37326
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1024,13 +1024,13 @@ imported:
     표제어: 권수
     품사: 명사
     항목ID: 37326
-processed:
+result:
   맞춤법 검사:
     표제어: 권수
     품사: 명사
 ---
 000_KEYWORD: 권신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37327
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1058,13 +1058,13 @@ imported:
     표제어: 권신
     품사: 명사
     항목ID: 37327
-processed:
+result:
   맞춤법 검사:
     표제어: 권신
     품사: 명사
 ---
 000_KEYWORD: 권역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37328
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1106,13 +1106,13 @@ imported:
     - 발음: 궈녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/37328_gwonyeongman.wav
       형태: 권역만
-processed:
+result:
   맞춤법 검사:
     표제어: 권역
     품사: 명사
 ---
 000_KEYWORD: 권외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37329
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1142,13 +1142,13 @@ imported:
     표제어: 권외
     품사: 명사
     항목ID: 37329
-processed:
+result:
   맞춤법 검사:
     표제어: 권외
     품사: 명사
 ---
 000_KEYWORD: 권위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36868
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1196,13 +1196,13 @@ imported:
     표제어: 권위
     품사: 명사
     항목ID: 36868
-processed:
+result:
   맞춤법 검사:
     표제어: 권위
     품사: 명사
 ---
 000_KEYWORD: 권위자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37330
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1231,13 +1231,13 @@ imported:
     표제어: 권위자
     품사: 명사
     항목ID: 37330
-processed:
+result:
   맞춤법 검사:
     표제어: 권위자
     품사: 명사
 ---
 000_KEYWORD: 권위적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37331
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1271,13 +1271,13 @@ imported:
     표제어: 권위적
     품사: 관형사
     항목ID: 37331
-processed:
+result:
   맞춤법 검사:
     표제어: 권위적
     품사: 관형사
 ---
 000_KEYWORD: 권위적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37332
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1312,13 +1312,13 @@ imported:
     표제어: 권위적
     품사: 명사
     항목ID: 37332
-processed:
+result:
   맞춤법 검사:
     표제어: 권위적
     품사: 명사
 ---
 000_KEYWORD: 권위주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37389
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1351,13 +1351,13 @@ imported:
     표제어: 권위주의
     품사: 명사
     항목ID: 37389
-processed:
+result:
   맞춤법 검사:
     표제어: 권위주의
     품사: 명사
 ---
 000_KEYWORD: 권위주의적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92411
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1392,13 +1392,13 @@ imported:
     표제어: 권위주의적
     품사: 관형사
     항목ID: 92411
-processed:
+result:
   맞춤법 검사:
     표제어: 권위주의적
     품사: 관형사
 ---
 000_KEYWORD: 권위주의적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89276
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1433,13 +1433,13 @@ imported:
     표제어: 권위주의적
     품사: 명사
     항목ID: 89276
-processed:
+result:
   맞춤법 검사:
     표제어: 권위주의적
     품사: 명사
 ---
 000_KEYWORD: 권유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37390
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1470,13 +1470,13 @@ imported:
     표제어: 권유
     품사: 명사
     항목ID: 37390
-processed:
+result:
   맞춤법 검사:
     표제어: 권유
     품사: 명사
 ---
 000_KEYWORD: 권유하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37391
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1506,13 +1506,13 @@ imported:
     표제어: 권유하다
     품사: 동사
     항목ID: 37391
-processed:
+result:
   맞춤법 검사:
     표제어: 권유하다
     품사: 동사
 ---
 000_KEYWORD: 권익__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37392
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1558,13 +1558,13 @@ imported:
     - 발음: 궈닝만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/37392_gwoningman.wav
       형태: 권익만
-processed:
+result:
   맞춤법 검사:
     표제어: 권익
     품사: 명사
 ---
 000_KEYWORD: 권장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37393
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1598,13 +1598,13 @@ imported:
     표제어: 권장
     품사: 명사
     항목ID: 37393
-processed:
+result:
   맞춤법 검사:
     표제어: 권장
     품사: 명사
 ---
 000_KEYWORD: 권장되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37394
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1638,13 +1638,13 @@ imported:
     표제어: 권장되다
     품사: 동사
     항목ID: 37394
-processed:
+result:
   맞춤법 검사:
     표제어: 권장되다
     품사: 동사
 ---
 000_KEYWORD: 권장하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37395
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1676,13 +1676,13 @@ imported:
     표제어: 권장하다
     품사: 동사
     항목ID: 37395
-processed:
+result:
   맞춤법 검사:
     표제어: 권장하다
     품사: 동사
 ---
 000_KEYWORD: 권좌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37396
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1711,13 +1711,13 @@ imported:
     표제어: 권좌
     품사: 명사
     항목ID: 37396
-processed:
+result:
   맞춤법 검사:
     표제어: 권좌
     품사: 명사
 ---
 000_KEYWORD: 권총__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37397
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1750,13 +1750,13 @@ imported:
     표제어: 권총
     품사: 명사
     항목ID: 37397
-processed:
+result:
   맞춤법 검사:
     표제어: 권총
     품사: 명사
 ---
 000_KEYWORD: 권태__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37398
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1786,13 +1786,13 @@ imported:
     표제어: 권태
     품사: 명사
     항목ID: 37398
-processed:
+result:
   맞춤법 검사:
     표제어: 권태
     품사: 명사
 ---
 000_KEYWORD: 권태감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37399
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1821,13 +1821,13 @@ imported:
     표제어: 권태감
     품사: 명사
     항목ID: 37399
-processed:
+result:
   맞춤법 검사:
     표제어: 권태감
     품사: 명사
 ---
 000_KEYWORD: 권태기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37400
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1857,13 +1857,13 @@ imported:
     표제어: 권태기
     품사: 명사
     항목ID: 37400
-processed:
+result:
   맞춤법 검사:
     표제어: 권태기
     품사: 명사
 ---
 000_KEYWORD: 권태롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37401
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1904,7 +1904,7 @@ imported:
       형태: 권태로우니
     - 발음: 권ː태롭씀니다
       형태: 권태롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1912,7 +1912,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 권투__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37403
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1951,13 +1951,13 @@ imported:
     표제어: 권투
     품사: 명사
     항목ID: 37403
-processed:
+result:
   맞춤법 검사:
     표제어: 권투
     품사: 명사
 ---
 000_KEYWORD: 권하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73260
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2026,13 +2026,13 @@ imported:
     표제어: 권하다
     품사: 동사
     항목ID: 73260
-processed:
+result:
   맞춤법 검사:
     표제어: 권하다
     품사: 동사
 ---
 000_KEYWORD: 권한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37404
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2066,13 +2066,13 @@ imported:
     표제어: 권한
     품사: 명사
     항목ID: 37404
-processed:
+result:
   맞춤법 검사:
     표제어: 권한
     품사: 명사
 ---
 000_KEYWORD: 권한쟁의__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2082,13 +2082,13 @@ imported:
     표제어: 권한쟁의
     품사: 명사:보통:서술성
     항목ID: 3444
-processed:
+result:
   맞춤법 검사:
     표제어: 권한쟁의
     품사: 명사
 ---
 000_KEYWORD: 궐기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37405
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2117,13 +2117,13 @@ imported:
     표제어: 궐기
     품사: 명사
     항목ID: 37405
-processed:
+result:
   맞춤법 검사:
     표제어: 궐기
     품사: 명사
 ---
 000_KEYWORD: 궐기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37406
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2154,13 +2154,13 @@ imported:
     표제어: 궐기하다
     품사: 동사
     항목ID: 37406
-processed:
+result:
   맞춤법 검사:
     표제어: 궐기하다
     품사: 동사
 ---
 000_KEYWORD: 궐내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37407
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2194,13 +2194,13 @@ imported:
     표제어: 궐내
     품사: 명사
     항목ID: 37407
-processed:
+result:
   맞춤법 검사:
     표제어: 궐내
     품사: 명사
 ---
 000_KEYWORD: 궐련__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37408
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2230,13 +2230,13 @@ imported:
     표제어: 궐련
     품사: 명사
     항목ID: 37408
-processed:
+result:
   맞춤법 검사:
     표제어: 궐련
     품사: 명사
 ---
 000_KEYWORD: 궐위__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2245,7 +2245,7 @@ imported:
     표제어: 궐위
     품사: 명사:보통:서술성
     항목ID: 32018
-processed:
+result:
   맞춤법 검사:
     표제어: 궐위
     품사: 명사

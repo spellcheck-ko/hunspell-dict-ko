@@ -1,5 +1,5 @@
 000_KEYWORD: 폐-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83210
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -21,11 +21,11 @@ imported:
     표제어: 폐-
     품사: 접사
     항목ID: 83210
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 폐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83084
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -67,13 +67,13 @@ imported:
     표제어: 폐
     품사: 명사
     항목ID: 83084
-processed:
+result:
   맞춤법 검사:
     표제어: 폐
     품사: 명사
 ---
 000_KEYWORD: 폐__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83085
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -125,13 +125,13 @@ imported:
     표제어: 폐
     품사: 명사
     항목ID: 83085
-processed:
+result:
   맞춤법 검사:
     표제어: 폐
     품사: 명사
 ---
 000_KEYWORD: 폐가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83063
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -174,13 +174,13 @@ imported:
     표제어: 폐가
     품사: 명사
     항목ID: 83063
-processed:
+result:
   맞춤법 검사:
     표제어: 폐가
     품사: 명사
 ---
 000_KEYWORD: 폐간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83079
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -218,13 +218,13 @@ imported:
     표제어: 폐간
     품사: 명사
     항목ID: 83079
-processed:
+result:
   맞춤법 검사:
     표제어: 폐간
     품사: 명사
 ---
 000_KEYWORD: 폐간되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83080
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -255,13 +255,13 @@ imported:
     표제어: 폐간되다
     품사: 동사
     항목ID: 83080
-processed:
+result:
   맞춤법 검사:
     표제어: 폐간되다
     품사: 동사
 ---
 000_KEYWORD: 폐간시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85677
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -291,13 +291,13 @@ imported:
     표제어: 폐간시키다
     품사: 동사
     항목ID: 85677
-processed:
+result:
   맞춤법 검사:
     표제어: 폐간시키다
     품사: 동사
 ---
 000_KEYWORD: 폐간하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83081
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -328,13 +328,13 @@ imported:
     표제어: 폐간하다
     품사: 동사
     항목ID: 83081
-processed:
+result:
   맞춤법 검사:
     표제어: 폐간하다
     품사: 동사
 ---
 000_KEYWORD: 폐건전지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83087
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -364,13 +364,13 @@ imported:
     표제어: 폐건전지
     품사: 명사
     항목ID: 83087
-processed:
+result:
   맞춤법 검사:
     표제어: 폐건전지
     품사: 명사
 ---
 000_KEYWORD: 폐결핵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83083
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -425,13 +425,13 @@ imported:
     - 발음: 페ː결행만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83083_pe-gyeolhaengman.wav
       형태: 폐결핵만
-processed:
+result:
   맞춤법 검사:
     표제어: 폐결핵
     품사: 명사
 ---
 000_KEYWORD: 폐경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91811
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -466,13 +466,13 @@ imported:
     표제어: 폐경
     품사: 명사
     항목ID: 91811
-processed:
+result:
   맞춤법 검사:
     표제어: 폐경
     품사: 명사
 ---
 000_KEYWORD: 폐경기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -481,13 +481,13 @@ imported:
     표제어: 폐경기
     품사: 명사:보통:서술성
     항목ID: 28941
-processed:
+result:
   맞춤법 검사:
     표제어: 폐경기
     품사: 명사
 ---
 000_KEYWORD: 폐광__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83088
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -526,13 +526,13 @@ imported:
     표제어: 폐광
     품사: 명사
     항목ID: 83088
-processed:
+result:
   맞춤법 검사:
     표제어: 폐광
     품사: 명사
 ---
 000_KEYWORD: 폐교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83086
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -562,13 +562,13 @@ imported:
     표제어: 폐교
     품사: 명사
     항목ID: 83086
-processed:
+result:
   맞춤법 검사:
     표제어: 폐교
     품사: 명사
 ---
 000_KEYWORD: 폐교__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83067
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -615,13 +615,13 @@ imported:
     표제어: 폐교
     품사: 명사
     항목ID: 83067
-processed:
+result:
   맞춤법 검사:
     표제어: 폐교
     품사: 명사
 ---
 000_KEYWORD: 폐교되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -630,13 +630,13 @@ imported:
     표제어: 폐교되다
     품사: 동사
     항목ID: 28944
-processed:
+result:
   맞춤법 검사:
     표제어: 폐교되다
     품사: 동사
 ---
 000_KEYWORD: 폐기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83053
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -682,13 +682,13 @@ imported:
     표제어: 폐기
     품사: 명사
     항목ID: 83053
-processed:
+result:
   맞춤법 검사:
     표제어: 폐기
     품사: 명사
 ---
 000_KEYWORD: 폐기되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83054
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -733,13 +733,13 @@ imported:
     표제어: 폐기되다
     품사: 동사
     항목ID: 83054
-processed:
+result:
   맞춤법 검사:
     표제어: 폐기되다
     품사: 동사
 ---
 000_KEYWORD: 폐기물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83065
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -772,13 +772,13 @@ imported:
     표제어: 폐기물
     품사: 명사
     항목ID: 83065
-processed:
+result:
   맞춤법 검사:
     표제어: 폐기물
     품사: 명사
 ---
 000_KEYWORD: 폐기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83055
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -823,13 +823,13 @@ imported:
     표제어: 폐기하다
     품사: 동사
     항목ID: 83055
-processed:
+result:
   맞춤법 검사:
     표제어: 폐기하다
     품사: 동사
 ---
 000_KEYWORD: 폐단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83064
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -867,13 +867,13 @@ imported:
     표제어: 폐단
     품사: 명사
     항목ID: 83064
-processed:
+result:
   맞춤법 검사:
     표제어: 폐단
     품사: 명사
 ---
 000_KEYWORD: 폐동맥__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -883,13 +883,13 @@ imported:
     표제어: 폐동맥
     품사: 명사:보통:서술성
     항목ID: 28950
-processed:
+result:
   맞춤법 검사:
     표제어: 폐동맥
     품사: 명사
 ---
 000_KEYWORD: 폐렴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83082
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -924,13 +924,13 @@ imported:
     표제어: 폐렴
     품사: 명사
     항목ID: 83082
-processed:
+result:
   맞춤법 검사:
     표제어: 폐렴
     품사: 명사
 ---
 000_KEYWORD: 폐막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83092
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -986,13 +986,13 @@ imported:
     - 발음: 페ː망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83092_pe-mangman.wav
       형태: 폐막만
-processed:
+result:
   맞춤법 검사:
     표제어: 폐막
     품사: 명사
 ---
 000_KEYWORD: 폐막되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83093
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1028,13 +1028,13 @@ imported:
     표제어: 폐막되다
     품사: 동사
     항목ID: 83093
-processed:
+result:
   맞춤법 검사:
     표제어: 폐막되다
     품사: 동사
 ---
 000_KEYWORD: 폐막식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83091
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1092,13 +1092,13 @@ imported:
     - 발음: 페ː막씽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83091_pe-makssingman.wav
       형태: 폐막식만
-processed:
+result:
   맞춤법 검사:
     표제어: 폐막식
     품사: 명사
 ---
 000_KEYWORD: 폐막하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83094
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1133,13 +1133,13 @@ imported:
     표제어: 폐막하다
     품사: 동사
     항목ID: 83094
-processed:
+result:
   맞춤법 검사:
     표제어: 폐막하다
     품사: 동사
 ---
 000_KEYWORD: 폐물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83066
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1181,13 +1181,13 @@ imported:
     표제어: 폐물
     품사: 명사
     항목ID: 83066
-processed:
+result:
   맞춤법 검사:
     표제어: 폐물
     품사: 명사
 ---
 000_KEYWORD: 폐백__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83090
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1264,13 +1264,13 @@ imported:
     - 발음: 페ː뱅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83090_pe-baengman.wav
       형태: 폐백만
-processed:
+result:
   맞춤법 검사:
     표제어: 폐백
     품사: 명사
 ---
 000_KEYWORD: 폐병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83089
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1320,13 +1320,13 @@ imported:
     표제어: 폐병
     품사: 명사
     항목ID: 83089
-processed:
+result:
   맞춤법 검사:
     표제어: 폐병
     품사: 명사
 ---
 000_KEYWORD: 폐소공포증__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1336,13 +1336,13 @@ imported:
     표제어: 폐소공포증
     품사: 명사:보통:서술성
     항목ID: 28954
-processed:
+result:
   맞춤법 검사:
     표제어: 폐소공포증
     품사: 명사
 ---
 000_KEYWORD: 폐쇄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83046
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1403,13 +1403,13 @@ imported:
     표제어: 폐쇄
     품사: 명사
     항목ID: 83046
-processed:
+result:
   맞춤법 검사:
     표제어: 폐쇄
     품사: 명사
 ---
 000_KEYWORD: 폐쇄되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83047
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1469,13 +1469,13 @@ imported:
     표제어: 폐쇄되다
     품사: 동사
     항목ID: 83047
-processed:
+result:
   맞춤법 검사:
     표제어: 폐쇄되다
     품사: 동사
 ---
 000_KEYWORD: 폐쇄성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83051
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1506,13 +1506,13 @@ imported:
     표제어: 폐쇄성
     품사: 명사
     항목ID: 83051
-processed:
+result:
   맞춤법 검사:
     표제어: 폐쇄성
     품사: 명사
 ---
 000_KEYWORD: 폐쇄시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85678
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1563,13 +1563,13 @@ imported:
     표제어: 폐쇄시키다
     품사: 동사
     항목ID: 85678
-processed:
+result:
   맞춤법 검사:
     표제어: 폐쇄시키다
     품사: 동사
 ---
 000_KEYWORD: 폐쇄적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83049
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1603,13 +1603,13 @@ imported:
     표제어: 폐쇄적
     품사: 관형사
     항목ID: 83049
-processed:
+result:
   맞춤법 검사:
     표제어: 폐쇄적
     품사: 관형사
 ---
 000_KEYWORD: 폐쇄적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83050
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1643,13 +1643,13 @@ imported:
     표제어: 폐쇄적
     품사: 명사
     항목ID: 83050
-processed:
+result:
   맞춤법 검사:
     표제어: 폐쇄적
     품사: 명사
 ---
 000_KEYWORD: 폐쇄하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83048
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1709,13 +1709,13 @@ imported:
     표제어: 폐쇄하다
     품사: 동사
     항목ID: 83048
-processed:
+result:
   맞춤법 검사:
     표제어: 폐쇄하다
     품사: 동사
 ---
 000_KEYWORD: 폐수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83183
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1747,13 +1747,13 @@ imported:
     표제어: 폐수
     품사: 명사
     항목ID: 83183
-processed:
+result:
   맞춤법 검사:
     표제어: 폐수
     품사: 명사
 ---
 000_KEYWORD: 폐습__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83184
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1804,13 +1804,13 @@ imported:
     - 발음: 페ː슴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83184_pe-seumman.wav
       형태: 폐습만
-processed:
+result:
   맞춤법 검사:
     표제어: 폐습
     품사: 명사
 ---
 000_KEYWORD: 폐암__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83186
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1840,13 +1840,13 @@ imported:
     표제어: 폐암
     품사: 명사
     항목ID: 83186
-processed:
+result:
   맞춤법 검사:
     표제어: 폐암
     품사: 명사
 ---
 000_KEYWORD: 폐업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83223
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1899,13 +1899,13 @@ imported:
     - 발음: 페ː엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83223_pe-eomman.wav
       형태: 폐업만
-processed:
+result:
   맞춤법 검사:
     표제어: 폐업
     품사: 명사
 ---
 000_KEYWORD: 폐업하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83224
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1940,13 +1940,13 @@ imported:
     표제어: 폐업하다
     품사: 동사
     항목ID: 83224
-processed:
+result:
   맞춤법 검사:
     표제어: 폐업하다
     품사: 동사
 ---
 000_KEYWORD: 폐염__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92325
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1960,10 +1960,10 @@ imported:
     표제어: 폐염
     품사: 명사
     항목ID: 92325
-processed: {}
+result: {}
 ---
 000_KEYWORD: 폐인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83225
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2003,13 +2003,13 @@ imported:
     표제어: 폐인
     품사: 명사
     항목ID: 83225
-processed:
+result:
   맞춤법 검사:
     표제어: 폐인
     품사: 명사
 ---
 000_KEYWORD: 폐장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83226
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2045,13 +2045,13 @@ imported:
     표제어: 폐장
     품사: 명사
     항목ID: 83226
-processed:
+result:
   맞춤법 검사:
     표제어: 폐장
     품사: 명사
 ---
 000_KEYWORD: 폐장되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83227
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2087,13 +2087,13 @@ imported:
     표제어: 폐장되다
     품사: 동사
     항목ID: 83227
-processed:
+result:
   맞춤법 검사:
     표제어: 폐장되다
     품사: 동사
 ---
 000_KEYWORD: 폐장하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83243
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2128,13 +2128,13 @@ imported:
     표제어: 폐장하다
     품사: 동사
     항목ID: 83243
-processed:
+result:
   맞춤법 검사:
     표제어: 폐장하다
     품사: 동사
 ---
 000_KEYWORD: 폐점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83244
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2182,13 +2182,13 @@ imported:
     표제어: 폐점
     품사: 명사
     항목ID: 83244
-processed:
+result:
   맞춤법 검사:
     표제어: 폐점
     품사: 명사
 ---
 000_KEYWORD: 폐점되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83245
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2231,13 +2231,13 @@ imported:
     표제어: 폐점되다
     품사: 동사
     항목ID: 83245
-processed:
+result:
   맞춤법 검사:
     표제어: 폐점되다
     품사: 동사
 ---
 000_KEYWORD: 폐점하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83246
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2289,13 +2289,13 @@ imported:
     표제어: 폐점하다
     품사: 동사
     항목ID: 83246
-processed:
+result:
   맞춤법 검사:
     표제어: 폐점하다
     품사: 동사
 ---
 000_KEYWORD: 폐지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83247
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2327,13 +2327,13 @@ imported:
     표제어: 폐지
     품사: 명사
     항목ID: 83247
-processed:
+result:
   맞춤법 검사:
     표제어: 폐지
     품사: 명사
 ---
 000_KEYWORD: 폐지되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83261
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2363,13 +2363,13 @@ imported:
     표제어: 폐지되다
     품사: 동사
     항목ID: 83261
-processed:
+result:
   맞춤법 검사:
     표제어: 폐지되다
     품사: 동사
 ---
 000_KEYWORD: 폐지안__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2378,13 +2378,13 @@ imported:
     표제어: 폐지안
     품사: 명사:보통:서술성
     항목ID: 28967
-processed:
+result:
   맞춤법 검사:
     표제어: 폐지안
     품사: 명사
 ---
 000_KEYWORD: 폐지하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83262
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2415,13 +2415,13 @@ imported:
     표제어: 폐지하다
     품사: 동사
     항목ID: 83262
-processed:
+result:
   맞춤법 검사:
     표제어: 폐지하다
     품사: 동사
 ---
 000_KEYWORD: 폐차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83263
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2451,13 +2451,13 @@ imported:
     표제어: 폐차
     품사: 명사
     항목ID: 83263
-processed:
+result:
   맞춤법 검사:
     표제어: 폐차
     품사: 명사
 ---
 000_KEYWORD: 폐차되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83264
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2486,13 +2486,13 @@ imported:
     표제어: 폐차되다
     품사: 동사
     항목ID: 83264
-processed:
+result:
   맞춤법 검사:
     표제어: 폐차되다
     품사: 동사
 ---
 000_KEYWORD: 폐차장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83265
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2522,13 +2522,13 @@ imported:
     표제어: 폐차장
     품사: 명사
     항목ID: 83265
-processed:
+result:
   맞춤법 검사:
     표제어: 폐차장
     품사: 명사
 ---
 000_KEYWORD: 폐차하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83271
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2557,13 +2557,13 @@ imported:
     표제어: 폐차하다
     품사: 동사
     항목ID: 83271
-processed:
+result:
   맞춤법 검사:
     표제어: 폐차하다
     품사: 동사
 ---
 000_KEYWORD: 폐품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83272
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2594,13 +2594,13 @@ imported:
     표제어: 폐품
     품사: 명사
     항목ID: 83272
-processed:
+result:
   맞춤법 검사:
     표제어: 폐품
     품사: 명사
 ---
 000_KEYWORD: 폐하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83273
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2632,13 +2632,13 @@ imported:
     표제어: 폐하
     품사: 명사
     항목ID: 83273
-processed:
+result:
   맞춤법 검사:
     표제어: 폐하
     품사: 명사
 ---
 000_KEYWORD: 폐하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83274
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2688,13 +2688,13 @@ imported:
     표제어: 폐하다
     품사: 동사
     항목ID: 83274
-processed:
+result:
   맞춤법 검사:
     표제어: 폐하다
     품사: 동사
 ---
 000_KEYWORD: 폐해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83275
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2726,13 +2726,13 @@ imported:
     표제어: 폐해
     품사: 명사
     항목ID: 83275
-processed:
+result:
   맞춤법 검사:
     표제어: 폐해
     품사: 명사
 ---
 000_KEYWORD: 폐허__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83276
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2763,13 +2763,13 @@ imported:
     표제어: 폐허
     품사: 명사
     항목ID: 83276
-processed:
+result:
   맞춤법 검사:
     표제어: 폐허
     품사: 명사
 ---
 000_KEYWORD: 폐활량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83277
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2801,13 +2801,13 @@ imported:
     표제어: 폐활량
     품사: 명사
     항목ID: 83277
-processed:
+result:
   맞춤법 검사:
     표제어: 폐활량
     품사: 명사
 ---
 000_KEYWORD: 폐회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83278
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2841,13 +2841,13 @@ imported:
     표제어: 폐회
     품사: 명사
     항목ID: 83278
-processed:
+result:
   맞춤법 검사:
     표제어: 폐회
     품사: 명사
 ---
 000_KEYWORD: 폐회되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83279
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2881,13 +2881,13 @@ imported:
     표제어: 폐회되다
     품사: 동사
     항목ID: 83279
-processed:
+result:
   맞춤법 검사:
     표제어: 폐회되다
     품사: 동사
 ---
 000_KEYWORD: 폐회식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83280
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2941,13 +2941,13 @@ imported:
     - 발음: 페ː훼싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83280_pe-hwesingman.wav
       형태: 폐회식만
-processed:
+result:
   맞춤법 검사:
     표제어: 폐회식
     품사: 명사
 ---
 000_KEYWORD: 폐회하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83281
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2982,13 +2982,13 @@ imported:
     표제어: 폐회하다
     품사: 동사
     항목ID: 83281
-processed:
+result:
   맞춤법 검사:
     표제어: 폐회하다
     품사: 동사
 ---
 000_KEYWORD: 폐휴지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83282
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3018,7 +3018,7 @@ imported:
     표제어: 폐휴지
     품사: 명사
     항목ID: 83282
-processed:
+result:
   맞춤법 검사:
     표제어: 폐휴지
     품사: 명사

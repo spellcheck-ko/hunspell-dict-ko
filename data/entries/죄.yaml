@@ -1,5 +1,5 @@
 000_KEYWORD: 죄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24647
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -37,13 +37,13 @@ imported:
     표제어: 죄
     품사: 명사
     항목ID: 24647
-processed:
+result:
   맞춤법 검사:
     표제어: 죄
     품사: 명사
 ---
 000_KEYWORD: 죄과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90791
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -74,13 +74,13 @@ imported:
     표제어: 죄과
     품사: 명사
     항목ID: 90791
-processed:
+result:
   맞춤법 검사:
     표제어: 죄과
     품사: 명사
 ---
 000_KEYWORD: 죄다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90792
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -186,13 +186,13 @@ imported:
     - 발음: 줴ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90792_jwe-ni.wav
       형태: 죄니
-processed:
+result:
   맞춤법 검사:
     표제어: 죄다
     품사: 동사
 ---
 000_KEYWORD: 죄다__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -201,13 +201,13 @@ imported:
     표제어: 죄다
     품사: 부사
     항목ID: 24383
-processed:
+result:
   맞춤법 검사:
     표제어: 죄다
     품사: 부사
 ---
 000_KEYWORD: 죄명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90793
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -237,13 +237,13 @@ imported:
     표제어: 죄명
     품사: 명사
     항목ID: 90793
-processed:
+result:
   맞춤법 검사:
     표제어: 죄명
     품사: 명사
 ---
 000_KEYWORD: 죄목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90794
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -291,13 +291,13 @@ imported:
     - 발음: 줴ː몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90794_jwe-mongman.wav
       형태: 죄목만
-processed:
+result:
   맞춤법 검사:
     표제어: 죄목
     품사: 명사
 ---
 000_KEYWORD: 죄받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90795
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -346,7 +346,7 @@ imported:
     - 발음: 줴ː반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_jwe-banneun.wav
       형태: 죄받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -354,7 +354,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 죄상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90796
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -385,13 +385,13 @@ imported:
     표제어: 죄상
     품사: 명사
     항목ID: 90796
-processed:
+result:
   맞춤법 검사:
     표제어: 죄상
     품사: 명사
 ---
 000_KEYWORD: 죄송스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90797
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -445,7 +445,7 @@ imported:
       형태: 죄송스럽습니다
     - 발음: 줴ː송스럽씀니다
       형태: 죄송스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -453,7 +453,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 죄송하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91763
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -506,13 +506,13 @@ imported:
       형태: 죄송합니다
     - 발음: 줴ː송함니다
       형태: 죄송합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 죄송하다
     품사: 형용사
 ---
 000_KEYWORD: 죄수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90798
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -542,13 +542,13 @@ imported:
     표제어: 죄수
     품사: 명사
     항목ID: 90798
-processed:
+result:
   맞춤법 검사:
     표제어: 죄수
     품사: 명사
 ---
 000_KEYWORD: 죄수복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90799
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -601,13 +601,13 @@ imported:
     - 발음: 줴ː수봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90799_jwe-subongman.wav
       형태: 죄수복만
-processed:
+result:
   맞춤법 검사:
     표제어: 죄수복
     품사: 명사
 ---
 000_KEYWORD: 죄스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90800
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -659,7 +659,7 @@ imported:
       형태: 죄스럽습니다
     - 발음: 줴ː스럽씀니다
       형태: 죄스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -667,7 +667,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 죄악__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90801
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -717,13 +717,13 @@ imported:
     - 발음: 줴ː앙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90801_jwe-angman.wav
       형태: 죄악만
-processed:
+result:
   맞춤법 검사:
     표제어: 죄악
     품사: 명사
 ---
 000_KEYWORD: 죄악감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90802
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -757,13 +757,13 @@ imported:
     표제어: 죄악감
     품사: 명사
     항목ID: 90802
-processed:
+result:
   맞춤법 검사:
     표제어: 죄악감
     품사: 명사
 ---
 000_KEYWORD: 죄악시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90803
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -793,13 +793,13 @@ imported:
     표제어: 죄악시
     품사: 명사
     항목ID: 90803
-processed:
+result:
   맞춤법 검사:
     표제어: 죄악시
     품사: 명사
 ---
 000_KEYWORD: 죄악시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90804
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -830,13 +830,13 @@ imported:
     표제어: 죄악시되다
     품사: 동사
     항목ID: 90804
-processed:
+result:
   맞춤법 검사:
     표제어: 죄악시되다
     품사: 동사
 ---
 000_KEYWORD: 죄악시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90805
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -868,13 +868,13 @@ imported:
     표제어: 죄악시하다
     품사: 동사
     항목ID: 90805
-processed:
+result:
   맞춤법 검사:
     표제어: 죄악시하다
     품사: 동사
 ---
 000_KEYWORD: 죄어들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90806
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -963,13 +963,13 @@ imported:
     - 발음: 줴어듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90806_jweeodeumnida.wav
       형태: 죄어듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 죄어들다
     품사: 동사
 ---
 000_KEYWORD: 죄의식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90808
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1018,13 +1018,13 @@ imported:
     - 발음: 줴ː이싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90808_jwe-isingman.wav
       형태: 죄의식만
-processed:
+result:
   맞춤법 검사:
     표제어: 죄의식
     품사: 명사
 ---
 000_KEYWORD: 죄인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24649
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1068,13 +1068,13 @@ imported:
     표제어: 죄인
     품사: 명사
     항목ID: 24649
-processed:
+result:
   맞춤법 검사:
     표제어: 죄인
     품사: 명사
 ---
 000_KEYWORD: 죄질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90810
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1104,13 +1104,13 @@ imported:
     표제어: 죄질
     품사: 명사
     항목ID: 90810
-processed:
+result:
   맞춤법 검사:
     표제어: 죄질
     품사: 명사
 ---
 000_KEYWORD: 죄짓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90811
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1160,7 +1160,7 @@ imported:
     - 발음: 줴ː진는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90811_jwe-jinneun.wav
       형태: 죄짓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -1168,7 +1168,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 죄책감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90812
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1206,13 +1206,13 @@ imported:
     표제어: 죄책감
     품사: 명사
     항목ID: 90812
-processed:
+result:
   맞춤법 검사:
     표제어: 죄책감
     품사: 명사
 ---
 000_KEYWORD: 죔죔__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92535
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1235,13 +1235,13 @@ imported:
     표제어: 죔죔
     품사: 감탄사
     항목ID: 92535
-processed:
+result:
   맞춤법 검사:
     표제어: 죔죔
     품사: 감탄사
 ---
 000_KEYWORD: 죔죔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92536
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1270,13 +1270,13 @@ imported:
     표제어: 죔죔
     품사: 명사
     항목ID: 92536
-processed:
+result:
   맞춤법 검사:
     표제어: 죔죔
     품사: 명사
 ---
 000_KEYWORD: 죗값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90813
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1325,7 +1325,7 @@ imported:
     - 발음: 줻ː깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90813_jwed-kkamman.wav
       형태: 죗값만
-processed:
+result:
   맞춤법 검사:
     표제어: 죗값
     품사: 명사

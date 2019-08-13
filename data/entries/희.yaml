@@ -1,5 +1,5 @@
 000_KEYWORD: 희곡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88467
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -57,13 +57,13 @@ imported:
     - 발음: 히공만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88467_higongman.wav
       형태: 희곡만
-processed:
+result:
   맞춤법 검사:
     표제어: 희곡
     품사: 명사
 ---
 000_KEYWORD: 희구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88470
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -90,13 +90,13 @@ imported:
     표제어: 희구
     품사: 명사
     항목ID: 88470
-processed:
+result:
   맞춤법 검사:
     표제어: 희구
     품사: 명사
 ---
 000_KEYWORD: 희구하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88472
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -128,13 +128,13 @@ imported:
     표제어: 희구하다
     품사: 동사
     항목ID: 88472
-processed:
+result:
   맞춤법 검사:
     표제어: 희구하다
     품사: 동사
 ---
 000_KEYWORD: 희귀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -143,13 +143,13 @@ imported:
     표제어: 희귀
     품사: 명사:보통:서술성
     항목ID: 31683
-processed:
+result:
   맞춤법 검사:
     표제어: 희귀
     품사: 명사
 ---
 000_KEYWORD: 희귀병__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -158,13 +158,13 @@ imported:
     표제어: 희귀병
     품사: 명사:보통:비서술성
     항목ID: 31684
-processed:
+result:
   맞춤법 검사:
     표제어: 희귀병
     품사: 명사
 ---
 000_KEYWORD: 희귀종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88473
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -194,13 +194,13 @@ imported:
     표제어: 희귀종
     품사: 명사
     항목ID: 88473
-processed:
+result:
   맞춤법 검사:
     표제어: 희귀종
     품사: 명사
 ---
 000_KEYWORD: 희귀하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88474
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -240,13 +240,13 @@ imported:
       형태: 희귀하니
     - 발음: 히귀함니다
       형태: 희귀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희귀하다
     품사: 형용사
 ---
 000_KEYWORD: 희극__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88478
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -316,13 +316,13 @@ imported:
     - 발음: 히긍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88478_higeungman.wav
       형태: 희극만
-processed:
+result:
   맞춤법 검사:
     표제어: 희극
     품사: 명사
 ---
 000_KEYWORD: 희극적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89653
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -362,13 +362,13 @@ imported:
     표제어: 희극적
     품사: 관형사
     항목ID: 89653
-processed:
+result:
   맞춤법 검사:
     표제어: 희극적
     품사: 관형사
 ---
 000_KEYWORD: 희극적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88483
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -411,13 +411,13 @@ imported:
     표제어: 희극적
     품사: 명사
     항목ID: 88483
-processed:
+result:
   맞춤법 검사:
     표제어: 희극적
     품사: 명사
 ---
 000_KEYWORD: 희끄무레하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88486
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -471,13 +471,13 @@ imported:
       형태: 희끄무레하니
     - 발음: 히끄무레함니다
       형태: 희끄무레합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희끄무레하다
     품사: 형용사
 ---
 000_KEYWORD: 희끔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88488
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -516,13 +516,13 @@ imported:
       형태: 희끔하니
     - 발음: 히끔함니다
       형태: 희끔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희끔하다
     품사: 형용사
 ---
 000_KEYWORD: 희끗__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89654
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -559,13 +559,13 @@ imported:
     표제어: 희끗
     품사: 부사
     항목ID: 89654
-processed:
+result:
   맞춤법 검사:
     표제어: 희끗
     품사: 부사
 ---
 000_KEYWORD: 희끗거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89655
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -617,13 +617,13 @@ imported:
     표제어: 희끗거리다
     품사: 동사
     항목ID: 89655
-processed:
+result:
   맞춤법 검사:
     표제어: 희끗거리다
     품사: 동사
 ---
 000_KEYWORD: 희끗대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89656
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -676,13 +676,13 @@ imported:
     표제어: 희끗대다
     품사: 동사
     항목ID: 89656
-processed:
+result:
   맞춤법 검사:
     표제어: 희끗대다
     품사: 동사
 ---
 000_KEYWORD: 희끗하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89665
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -710,13 +710,13 @@ imported:
     표제어: 희끗하다
     품사: 동사
     항목ID: 89665
-processed:
+result:
   맞춤법 검사:
     표제어: 희끗하다
     품사: 동사
 ---
 000_KEYWORD: 희끗하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89666
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -755,13 +755,13 @@ imported:
       형태: 희끗하니
     - 발음: 히끄탐니다
       형태: 희끗합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희끗하다
     품사: 형용사
 ---
 000_KEYWORD: 희끗희끗__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89667
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -800,13 +800,13 @@ imported:
     표제어: 희끗희끗
     품사: 부사
     항목ID: 89667
-processed:
+result:
   맞춤법 검사:
     표제어: 희끗희끗
     품사: 부사
 ---
 000_KEYWORD: 희끗희끗하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89668
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -841,13 +841,13 @@ imported:
     표제어: 희끗희끗하다
     품사: 동사
     항목ID: 89668
-processed:
+result:
   맞춤법 검사:
     표제어: 희끗희끗하다
     품사: 동사
 ---
 000_KEYWORD: 희끗희끗하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89669
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -886,13 +886,13 @@ imported:
       형태: 희끗희끗하니
     - 발음: 히끄티끄탐니다
       형태: 희끗희끗합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희끗희끗하다
     품사: 형용사
 ---
 000_KEYWORD: 희다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92491
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -939,13 +939,13 @@ imported:
     - 발음: 힘니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/92491_himnida.wav
       형태: 흽니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희다
     품사: 형용사
 ---
 000_KEYWORD: 희대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89670
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -974,13 +974,13 @@ imported:
     표제어: 희대
     품사: 명사
     항목ID: 89670
-processed:
+result:
   맞춤법 검사:
     표제어: 희대
     품사: 명사
 ---
 000_KEYWORD: 희디희다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88206
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1022,13 +1022,13 @@ imported:
       형태: 희디희니
     - 발음: 히디힘니다
       형태: 희디흽니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희디희다
     품사: 형용사
 ---
 000_KEYWORD: 희떱다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88492
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1078,7 +1078,7 @@ imported:
       형태: 희떠우니
     - 발음: 히떱씀니다
       형태: 희떱습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1086,7 +1086,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 희로애락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88495
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1129,13 +1129,13 @@ imported:
     - 발음: 히로애랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88495_hiroaerangman.wav
       형태: 희로애락만
-processed:
+result:
   맞춤법 검사:
     표제어: 희로애락
     품사: 명사
 ---
 000_KEYWORD: 희롱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88207
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1175,13 +1175,13 @@ imported:
     표제어: 희롱
     품사: 명사
     항목ID: 88207
-processed:
+result:
   맞춤법 검사:
     표제어: 희롱
     품사: 명사
 ---
 000_KEYWORD: 희롱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88498
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1222,13 +1222,13 @@ imported:
     표제어: 희롱하다
     품사: 동사
     항목ID: 88498
-processed:
+result:
   맞춤법 검사:
     표제어: 희롱하다
     품사: 동사
 ---
 000_KEYWORD: 희망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73256
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1279,13 +1279,13 @@ imported:
     표제어: 희망
     품사: 명사
     항목ID: 73256
-processed:
+result:
   맞춤법 검사:
     표제어: 희망
     품사: 명사
 ---
 000_KEYWORD: 희망자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88502
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1314,13 +1314,13 @@ imported:
     표제어: 희망자
     품사: 명사
     항목ID: 88502
-processed:
+result:
   맞춤법 검사:
     표제어: 희망자
     품사: 명사
 ---
 000_KEYWORD: 희망적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88507
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1369,13 +1369,13 @@ imported:
     표제어: 희망적
     품사: 관형사
     항목ID: 88507
-processed:
+result:
   맞춤법 검사:
     표제어: 희망적
     품사: 관형사
 ---
 000_KEYWORD: 희망적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88508
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1424,13 +1424,13 @@ imported:
     표제어: 희망적
     품사: 명사
     항목ID: 88508
-processed:
+result:
   맞춤법 검사:
     표제어: 희망적
     품사: 명사
 ---
 000_KEYWORD: 희망차다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88208
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1471,13 +1471,13 @@ imported:
       형태: 희망차니
     - 발음: 히망참니다
       형태: 희망찹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희망차다
     품사: 형용사
 ---
 000_KEYWORD: 희망하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88509
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1510,13 +1510,13 @@ imported:
     표제어: 희망하다
     품사: 동사
     항목ID: 88509
-processed:
+result:
   맞춤법 검사:
     표제어: 희망하다
     품사: 동사
 ---
 000_KEYWORD: 희멀겋다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88510
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1555,7 +1555,7 @@ imported:
     - 발음: 히멀거씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/88510_himeolgeosseumnida.wav
       형태: 희멀겋습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -1563,7 +1563,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 희미하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88511
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1611,13 +1611,13 @@ imported:
       형태: 희미하니
     - 발음: 히미함니다
       형태: 희미합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희미하다
     품사: 형용사
 ---
 000_KEYWORD: 희박하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88512
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1685,13 +1685,13 @@ imported:
       형태: 희박하니
     - 발음: 히바캄니다
       형태: 희박합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희박하다
     품사: 형용사
 ---
 000_KEYWORD: 희번덕거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88209
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1737,13 +1737,13 @@ imported:
     표제어: 희번덕거리다
     품사: 동사
     항목ID: 88209
-processed:
+result:
   맞춤법 검사:
     표제어: 희번덕거리다
     품사: 동사
 ---
 000_KEYWORD: 희번덕대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88210
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1789,13 +1789,13 @@ imported:
     표제어: 희번덕대다
     품사: 동사
     항목ID: 88210
-processed:
+result:
   맞춤법 검사:
     표제어: 희번덕대다
     품사: 동사
 ---
 000_KEYWORD: 희번덕이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88211
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1834,13 +1834,13 @@ imported:
     표제어: 희번덕이다
     품사: 동사
     항목ID: 88211
-processed:
+result:
   맞춤법 검사:
     표제어: 희번덕이다
     품사: 동사
 ---
 000_KEYWORD: 희부옇다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88874
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1884,7 +1884,7 @@ imported:
     - 발음: 히부여씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/88874_hibuyeosseumnida.wav
       형태: 희부옇습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -1892,7 +1892,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 희비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88212
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1924,13 +1924,13 @@ imported:
     표제어: 희비
     품사: 명사
     항목ID: 88212
-processed:
+result:
   맞춤법 검사:
     표제어: 희비
     품사: 명사
 ---
 000_KEYWORD: 희비극__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88213
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1982,13 +1982,13 @@ imported:
     - 발음: 히비긍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88213_hibigeungman.wav
       형태: 희비극만
-processed:
+result:
   맞춤법 검사:
     표제어: 희비극
     품사: 명사
 ---
 000_KEYWORD: 희뿌옇다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88875
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2032,7 +2032,7 @@ imported:
       형태: 희뿌여니
     - 발음: 히뿌여씀니다
       형태: 희뿌옇습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -2040,7 +2040,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 희색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88214
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2079,13 +2079,13 @@ imported:
     - 발음: 히생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88214_hisaengman.wav
       형태: 희색만
-processed:
+result:
   맞춤법 검사:
     표제어: 희색
     품사: 명사
 ---
 000_KEYWORD: 희생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89165
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2129,13 +2129,13 @@ imported:
     표제어: 희생
     품사: 명사
     항목ID: 89165
-processed:
+result:
   맞춤법 검사:
     표제어: 희생
     품사: 명사
 ---
 000_KEYWORD: 희생되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89167
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2200,13 +2200,13 @@ imported:
       형태: 희생됩니다
     - 발음: 희생뒘니다
       형태: 희생됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희생되다
     품사: 동사
 ---
 000_KEYWORD: 희생물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89168
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2244,13 +2244,13 @@ imported:
     표제어: 희생물
     품사: 명사
     항목ID: 89168
-processed:
+result:
   맞춤법 검사:
     표제어: 희생물
     품사: 명사
 ---
 000_KEYWORD: 희생번트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2260,13 +2260,13 @@ imported:
     표제어: 희생번트
     품사: 명사:보통:비서술성
     항목ID: 31703
-processed:
+result:
   맞춤법 검사:
     표제어: 희생번트
     품사: 명사
 ---
 000_KEYWORD: 희생시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85749
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2293,13 +2293,13 @@ imported:
     표제어: 희생시키다
     품사: 동사
     항목ID: 85749
-processed:
+result:
   맞춤법 검사:
     표제어: 희생시키다
     품사: 동사
 ---
 000_KEYWORD: 희생양__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89173
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2337,13 +2337,13 @@ imported:
     표제어: 희생양
     품사: 명사
     항목ID: 89173
-processed:
+result:
   맞춤법 검사:
     표제어: 희생양
     품사: 명사
 ---
 000_KEYWORD: 희생자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89170
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2386,13 +2386,13 @@ imported:
     표제어: 희생자
     품사: 명사
     항목ID: 89170
-processed:
+result:
   맞춤법 검사:
     표제어: 희생자
     품사: 명사
 ---
 000_KEYWORD: 희생적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89171
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2420,13 +2420,13 @@ imported:
     표제어: 희생적
     품사: 관형사
     항목ID: 89171
-processed:
+result:
   맞춤법 검사:
     표제어: 희생적
     품사: 관형사
 ---
 000_KEYWORD: 희생적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89174
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2454,13 +2454,13 @@ imported:
     표제어: 희생적
     품사: 명사
     항목ID: 89174
-processed:
+result:
   맞춤법 검사:
     표제어: 희생적
     품사: 명사
 ---
 000_KEYWORD: 희생정신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89175
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2489,13 +2489,13 @@ imported:
     표제어: 희생정신
     품사: 명사
     항목ID: 89175
-processed:
+result:
   맞춤법 검사:
     표제어: 희생정신
     품사: 명사
 ---
 000_KEYWORD: 희생타__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2505,13 +2505,13 @@ imported:
     표제어: 희생타
     품사: 명사:보통:비서술성
     항목ID: 31707
-processed:
+result:
   맞춤법 검사:
     표제어: 희생타
     품사: 명사
 ---
 000_KEYWORD: 희생하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89177
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2541,13 +2541,13 @@ imported:
     표제어: 희생하다
     품사: 동사
     항목ID: 89177
-processed:
+result:
   맞춤법 검사:
     표제어: 희생하다
     품사: 동사
 ---
 000_KEYWORD: 희석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88876
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2585,13 +2585,13 @@ imported:
     - 발음: 히성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88876_hiseongman.wav
       형태: 희석만
-processed:
+result:
   맞춤법 검사:
     표제어: 희석
     품사: 명사
 ---
 000_KEYWORD: 희석되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88877
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2622,13 +2622,13 @@ imported:
     표제어: 희석되다
     품사: 동사
     항목ID: 88877
-processed:
+result:
   맞춤법 검사:
     표제어: 희석되다
     품사: 동사
 ---
 000_KEYWORD: 희석하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88878
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2658,13 +2658,13 @@ imported:
     표제어: 희석하다
     품사: 동사
     항목ID: 88878
-processed:
+result:
   맞춤법 검사:
     표제어: 희석하다
     품사: 동사
 ---
 000_KEYWORD: 희소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88879
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2693,13 +2693,13 @@ imported:
     표제어: 희소
     품사: 명사
     항목ID: 88879
-processed:
+result:
   맞춤법 검사:
     표제어: 희소
     품사: 명사
 ---
 000_KEYWORD: 희소성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88880
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2728,13 +2728,13 @@ imported:
     표제어: 희소성
     품사: 명사
     항목ID: 88880
-processed:
+result:
   맞춤법 검사:
     표제어: 희소성
     품사: 명사
 ---
 000_KEYWORD: 희소식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88881
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2774,13 +2774,13 @@ imported:
     - 발음: 히소싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88881_hisosingman.wav
       형태: 희소식만
-processed:
+result:
   맞춤법 검사:
     표제어: 희소식
     품사: 명사
 ---
 000_KEYWORD: 희소하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88882
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2822,13 +2822,13 @@ imported:
       형태: 희소하니
     - 발음: 히소함니다
       형태: 희소합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희소하다
     품사: 형용사
 ---
 000_KEYWORD: 희수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88883
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2859,13 +2859,13 @@ imported:
     표제어: 희수
     품사: 명사
     항목ID: 88883
-processed:
+result:
   맞춤법 검사:
     표제어: 희수
     품사: 명사
 ---
 000_KEYWORD: 희열__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88885
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2898,13 +2898,13 @@ imported:
     표제어: 희열
     품사: 명사
     항목ID: 88885
-processed:
+result:
   맞춤법 검사:
     표제어: 희열
     품사: 명사
 ---
 000_KEYWORD: 희외론__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2913,13 +2913,13 @@ imported:
     표제어: 희외론
     품사: 명사:보통:비서술성
     항목ID: 31717
-processed:
+result:
   맞춤법 검사:
     표제어: 희외론
     품사: 명사
 ---
 000_KEYWORD: 희종__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2930,13 +2930,13 @@ imported:
     표제어: 희종
     품사: 명사:보통:서술성
     항목ID: 31718
-processed:
+result:
   맞춤법 검사:
     표제어: 희종
     품사: 명사
 ---
 000_KEYWORD: 희토류__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2946,13 +2946,13 @@ imported:
     표제어: 희토류
     품사: 명사:보통:비서술성
     항목ID: 31719
-processed:
+result:
   맞춤법 검사:
     표제어: 희토류
     품사: 명사
 ---
 000_KEYWORD: 희한하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90679
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2996,13 +2996,13 @@ imported:
       형태: 희한하니
     - 발음: 히한함니다
       형태: 희한합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 희한하다
     품사: 형용사
 ---
 000_KEYWORD: 희화적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88886
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3033,13 +3033,13 @@ imported:
     표제어: 희화적
     품사: 관형사
     항목ID: 88886
-processed:
+result:
   맞춤법 검사:
     표제어: 희화적
     품사: 관형사
 ---
 000_KEYWORD: 희화적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88215
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3069,13 +3069,13 @@ imported:
     표제어: 희화적
     품사: 명사
     항목ID: 88215
-processed:
+result:
   맞춤법 검사:
     표제어: 희화적
     품사: 명사
 ---
 000_KEYWORD: 희희낙락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88216
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3113,13 +3113,13 @@ imported:
     - 발음: 히히낭낭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88216_hihinangnangman.wav
       형태: 희희낙락만
-processed:
+result:
   맞춤법 검사:
     표제어: 희희낙락
     품사: 명사
 ---
 000_KEYWORD: 희희낙락거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88217
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3151,13 +3151,13 @@ imported:
     표제어: 희희낙락거리다
     품사: 동사
     항목ID: 88217
-processed:
+result:
   맞춤법 검사:
     표제어: 희희낙락거리다
     품사: 동사
 ---
 000_KEYWORD: 희희낙락대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88218
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3189,13 +3189,13 @@ imported:
     표제어: 희희낙락대다
     품사: 동사
     항목ID: 88218
-processed:
+result:
   맞춤법 검사:
     표제어: 희희낙락대다
     품사: 동사
 ---
 000_KEYWORD: 희희낙락하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88219
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3222,13 +3222,13 @@ imported:
     표제어: 희희낙락하다
     품사: 동사
     항목ID: 88219
-processed:
+result:
   맞춤법 검사:
     표제어: 희희낙락하다
     품사: 동사
 ---
 000_KEYWORD: 흰개미__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3237,13 +3237,13 @@ imported:
     표제어: 흰개미
     품사: 명사:보통:비서술성
     항목ID: 31721
-processed:
+result:
   맞춤법 검사:
     표제어: 흰개미
     품사: 명사
 ---
 000_KEYWORD: 흰둥이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88220
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3304,13 +3304,13 @@ imported:
     표제어: 흰둥이
     품사: 명사
     항목ID: 88220
-processed:
+result:
   맞춤법 검사:
     표제어: 흰둥이
     품사: 명사
 ---
 000_KEYWORD: 흰머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88887
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3339,13 +3339,13 @@ imported:
     표제어: 흰머리
     품사: 명사
     항목ID: 88887
-processed:
+result:
   맞춤법 검사:
     표제어: 흰머리
     품사: 명사
 ---
 000_KEYWORD: 흰색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62883
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3392,13 +3392,13 @@ imported:
     - 발음: 힌생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/62883_hinsaengman.wav
       형태: 흰색만
-processed:
+result:
   맞춤법 검사:
     표제어: 흰색
     품사: 명사
 ---
 000_KEYWORD: 흰소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88888
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3425,13 +3425,13 @@ imported:
     표제어: 흰소리
     품사: 명사
     항목ID: 88888
-processed:
+result:
   맞춤법 검사:
     표제어: 흰소리
     품사: 명사
 ---
 000_KEYWORD: 흰자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88221
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3481,13 +3481,13 @@ imported:
     표제어: 흰자
     품사: 명사
     항목ID: 88221
-processed:
+result:
   맞춤법 검사:
     표제어: 흰자
     품사: 명사
 ---
 000_KEYWORD: 흰자위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88222
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3542,13 +3542,13 @@ imported:
     표제어: 흰자위
     품사: 명사
     항목ID: 88222
-processed:
+result:
   맞춤법 검사:
     표제어: 흰자위
     품사: 명사
 ---
 000_KEYWORD: 흰죽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88889
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3587,7 +3587,7 @@ imported:
     - 발음: 힌중만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/88889_hinjungman.wav
       형태: 흰죽만
-processed:
+result:
   맞춤법 검사:
     표제어: 흰죽
     품사: 명사

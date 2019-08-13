@@ -1,5 +1,5 @@
 000_KEYWORD: 향__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85817
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -66,13 +66,13 @@ imported:
     표제어: 향
     품사: 명사
     항목ID: 85817
-processed:
+result:
   맞춤법 검사:
     표제어: 향
     품사: 명사
 ---
 000_KEYWORD: 향가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85818
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -105,13 +105,13 @@ imported:
     표제어: 향가
     품사: 명사
     항목ID: 85818
-processed:
+result:
   맞춤법 검사:
     표제어: 향가
     품사: 명사
 ---
 000_KEYWORD: 향그럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92317
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -125,11 +125,10 @@ imported:
     표제어: 향그럽다
     품사: 형용사
     항목ID: 92317
-processed: {}
-processed_overrides: {}
+result: {}
 ---
 000_KEYWORD: 향긋하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85073
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -168,13 +167,13 @@ imported:
       형태: 향긋하니
     - 발음: 향그탐니다
       형태: 향긋합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 향긋하다
     품사: 형용사
 ---
 000_KEYWORD: 향기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72483
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -219,13 +218,13 @@ imported:
     표제어: 향기
     품사: 명사
     항목ID: 72483
-processed:
+result:
   맞춤법 검사:
     표제어: 향기
     품사: 명사
 ---
 000_KEYWORD: 향기롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85074
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -265,7 +264,7 @@ imported:
       형태: 향기로우니
     - 발음: 향기롭씀니다
       형태: 향기롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -273,7 +272,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 향낭__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -284,13 +283,13 @@ imported:
     표제어: 향낭
     품사: 명사:보통:비서술성
     항목ID: 30320
-processed:
+result:
   맞춤법 검사:
     표제어: 향낭
     품사: 명사
 ---
 000_KEYWORD: 향내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85075
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -346,13 +345,13 @@ imported:
     표제어: 향내
     품사: 명사
     항목ID: 85075
-processed:
+result:
   맞춤법 검사:
     표제어: 향내
     품사: 명사
 ---
 000_KEYWORD: 향냄새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85076
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -384,13 +383,13 @@ imported:
     표제어: 향냄새
     품사: 명사
     항목ID: 85076
-processed:
+result:
   맞춤법 검사:
     표제어: 향냄새
     품사: 명사
 ---
 000_KEYWORD: 향년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85077
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -417,13 +416,13 @@ imported:
     표제어: 향년
     품사: 명사
     항목ID: 85077
-processed:
+result:
   맞춤법 검사:
     표제어: 향년
     품사: 명사
 ---
 000_KEYWORD: 향락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85078
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -466,13 +465,13 @@ imported:
     - 발음: 향ː낭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85078_hyang-nangman.wav
       형태: 향락만
-processed:
+result:
   맞춤법 검사:
     표제어: 향락
     품사: 명사
 ---
 000_KEYWORD: 향락적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85079
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -500,13 +499,13 @@ imported:
     표제어: 향락적
     품사: 관형사
     항목ID: 85079
-processed:
+result:
   맞춤법 검사:
     표제어: 향락적
     품사: 관형사
 ---
 000_KEYWORD: 향락적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85082
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -535,13 +534,13 @@ imported:
     표제어: 향락적
     품사: 명사
     항목ID: 85082
-processed:
+result:
   맞춤법 검사:
     표제어: 향락적
     품사: 명사
 ---
 000_KEYWORD: 향로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85083
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -572,13 +571,13 @@ imported:
     표제어: 향로
     품사: 명사
     항목ID: 85083
-processed:
+result:
   맞춤법 검사:
     표제어: 향로
     품사: 명사
 ---
 000_KEYWORD: 향료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85084
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -607,13 +606,13 @@ imported:
     표제어: 향료
     품사: 명사
     항목ID: 85084
-processed:
+result:
   맞춤법 검사:
     표제어: 향료
     품사: 명사
 ---
 000_KEYWORD: 향방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85085
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -653,13 +652,13 @@ imported:
     표제어: 향방
     품사: 명사
     항목ID: 85085
-processed:
+result:
   맞춤법 검사:
     표제어: 향방
     품사: 명사
 ---
 000_KEYWORD: 향배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85086
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -688,13 +687,13 @@ imported:
     표제어: 향배
     품사: 명사
     항목ID: 85086
-processed:
+result:
   맞춤법 검사:
     표제어: 향배
     품사: 명사
 ---
 000_KEYWORD: 향상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85087
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -725,13 +724,13 @@ imported:
     표제어: 향상
     품사: 명사
     항목ID: 85087
-processed:
+result:
   맞춤법 검사:
     표제어: 향상
     품사: 명사
 ---
 000_KEYWORD: 향상되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85089
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -766,13 +765,13 @@ imported:
     표제어: 향상되다
     품사: 동사
     항목ID: 85089
-processed:
+result:
   맞춤법 검사:
     표제어: 향상되다
     품사: 동사
 ---
 000_KEYWORD: 향상하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85090
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -803,13 +802,13 @@ imported:
     표제어: 향상하다
     품사: 동사
     항목ID: 85090
-processed:
+result:
   맞춤법 검사:
     표제어: 향상하다
     품사: 동사
 ---
 000_KEYWORD: 향수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73067
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -842,13 +841,13 @@ imported:
     표제어: 향수
     품사: 명사
     항목ID: 73067
-processed:
+result:
   맞춤법 검사:
     표제어: 향수
     품사: 명사
 ---
 000_KEYWORD: 향수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93422
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -877,13 +876,13 @@ imported:
     표제어: 향수
     품사: 명사
     항목ID: 93422
-processed:
+result:
   맞춤법 검사:
     표제어: 향수
     품사: 명사
 ---
 000_KEYWORD: 향수병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85091
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -911,13 +910,13 @@ imported:
     표제어: 향수병
     품사: 명사
     항목ID: 85091
-processed:
+result:
   맞춤법 검사:
     표제어: 향수병
     품사: 명사
 ---
 000_KEYWORD: 향신료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85092
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -945,13 +944,13 @@ imported:
     표제어: 향신료
     품사: 명사
     항목ID: 85092
-processed:
+result:
   맞춤법 검사:
     표제어: 향신료
     품사: 명사
 ---
 000_KEYWORD: 향약__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -961,13 +960,13 @@ imported:
     표제어: 향약
     품사: 명사:보통:서술성
     항목ID: 30336
-processed:
+result:
   맞춤법 검사:
     표제어: 향약
     품사: 명사
 ---
 000_KEYWORD: 향연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85093
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -998,13 +997,13 @@ imported:
     표제어: 향연
     품사: 명사
     항목ID: 85093
-processed:
+result:
   맞춤법 검사:
     표제어: 향연
     품사: 명사
 ---
 000_KEYWORD: 향유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85094
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1034,13 +1033,13 @@ imported:
     표제어: 향유
     품사: 명사
     항목ID: 85094
-processed:
+result:
   맞춤법 검사:
     표제어: 향유
     품사: 명사
 ---
 000_KEYWORD: 향유하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85096
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1072,13 +1071,13 @@ imported:
     표제어: 향유하다
     품사: 동사
     항목ID: 85096
-processed:
+result:
   맞춤법 검사:
     표제어: 향유하다
     품사: 동사
 ---
 000_KEYWORD: 향응__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85097
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1106,13 +1105,13 @@ imported:
     표제어: 향응
     품사: 명사
     항목ID: 85097
-processed:
+result:
   맞춤법 검사:
     표제어: 향응
     품사: 명사
 ---
 000_KEYWORD: 향응하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85098
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1138,13 +1137,13 @@ imported:
     표제어: 향응하다
     품사: 동사
     항목ID: 85098
-processed:
+result:
   맞춤법 검사:
     표제어: 향응하다
     품사: 동사
 ---
 000_KEYWORD: 향주머니__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1154,13 +1153,13 @@ imported:
     표제어: 향주머니
     품사: 명사:보통:비서술성
     항목ID: 30341
-processed:
+result:
   맞춤법 검사:
     표제어: 향주머니
     품사: 명사
 ---
 000_KEYWORD: 향촌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85099
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1189,13 +1188,13 @@ imported:
     표제어: 향촌
     품사: 명사
     항목ID: 85099
-processed:
+result:
   맞춤법 검사:
     표제어: 향촌
     품사: 명사
 ---
 000_KEYWORD: 향취__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85100
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1234,13 +1233,13 @@ imported:
     표제어: 향취
     품사: 명사
     항목ID: 85100
-processed:
+result:
   맞춤법 검사:
     표제어: 향취
     품사: 명사
 ---
 000_KEYWORD: 향토__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85101
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1282,13 +1281,13 @@ imported:
     표제어: 향토
     품사: 명사
     항목ID: 85101
-processed:
+result:
   맞춤법 검사:
     표제어: 향토
     품사: 명사
 ---
 000_KEYWORD: 향토사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1299,13 +1298,13 @@ imported:
     표제어: 향토사
     품사: 명사:보통:서술성
     항목ID: 30345
-processed:
+result:
   맞춤법 검사:
     표제어: 향토사
     품사: 명사
 ---
 000_KEYWORD: 향토색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85103
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1343,13 +1342,13 @@ imported:
     - 발음: 향토생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85103_hyangtosaengman.wav
       형태: 향토색만
-processed:
+result:
   맞춤법 검사:
     표제어: 향토색
     품사: 명사
 ---
 000_KEYWORD: 향하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89810
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1420,13 +1419,13 @@ imported:
     표제어: 향하다
     품사: 동사
     항목ID: 89810
-processed:
+result:
   맞춤법 검사:
     표제어: 향하다
     품사: 동사
 ---
 000_KEYWORD: 향학열__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85104
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1455,13 +1454,13 @@ imported:
     표제어: 향학열
     품사: 명사
     항목ID: 85104
-processed:
+result:
   맞춤법 검사:
     표제어: 향학열
     품사: 명사
 ---
 000_KEYWORD: 향후__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85105
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1497,7 +1496,7 @@ imported:
     표제어: 향후
     품사: 명사
     항목ID: 85105
-processed:
+result:
   맞춤법 검사:
     표제어: 향후
     품사: 명사

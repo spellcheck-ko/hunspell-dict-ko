@@ -1,5 +1,5 @@
 000_KEYWORD: -드리다__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92135
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17,11 +17,11 @@ imported:
     표제어: -드리다
     품사: 접사
     항목ID: 92135
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -든__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86262
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -59,11 +59,11 @@ imported:
     표제어: -든
     품사: 어미
     항목ID: 86262
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -든가__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82342
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -101,11 +101,11 @@ imported:
     표제어: -든가
     품사: 어미
     항목ID: 82342
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -든지__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82337
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -151,11 +151,11 @@ imported:
     표제어: -든지
     품사: 어미
     항목ID: 82337
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -들__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74906
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -174,11 +174,11 @@ imported:
     표제어: -들
     품사: 접사
     항목ID: 74906
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -들이__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74908
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -196,11 +196,11 @@ imported:
     표제어: -들이
     품사: 접사
     항목ID: 74908
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -듯__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80280
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -223,11 +223,11 @@ imported:
     표제어: -듯
     품사: 어미
     항목ID: 80280
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -듯이__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80282
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -251,11 +251,11 @@ imported:
     표제어: -듯이
     품사: 어미
     항목ID: 80282
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 드-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92136
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -275,11 +275,11 @@ imported:
     표제어: 드-
     품사: 접사
     항목ID: 92136
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 드나들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50930
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -352,17 +352,17 @@ imported:
     - 발음: 드나듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50930_deunadeumnida.wav
       형태: 드나듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 드나들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 드난살이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50931
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -386,13 +386,13 @@ imported:
     표제어: 드난살이
     품사: 명사
     항목ID: 50931
-processed:
+result:
   맞춤법 검사:
     표제어: 드난살이
     품사: 명사
 ---
 000_KEYWORD: 드날리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50933
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -443,13 +443,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50933_deunalliyeo.wav
       형태: 드날리어
     - 형태: 드날리니
-processed:
+result:
   맞춤법 검사:
     표제어: 드날리다
     품사: 동사
 ---
 000_KEYWORD: 드넓다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50935
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -498,13 +498,13 @@ imported:
     - 발음: 드널찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50935_deuneoljji.wav
       형태: 드넓지
-processed:
+result:
   맞춤법 검사:
     표제어: 드넓다
     품사: 형용사
 ---
 000_KEYWORD: 드높다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -513,13 +513,13 @@ imported:
     표제어: 드높다
     품사: 동사
     항목ID: 7561
-processed:
+result:
   맞춤법 검사:
     표제어: 드높다
     품사: 동사
 ---
 000_KEYWORD: 드높다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50937
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -559,13 +559,13 @@ imported:
     - 발음: 드놉씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50937_deunopsseumnida.wav
       형태: 드높습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 드높다
     품사: 형용사
 ---
 000_KEYWORD: 드높이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50939
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -591,13 +591,13 @@ imported:
     표제어: 드높이
     품사: 부사
     항목ID: 50939
-processed:
+result:
   맞춤법 검사:
     표제어: 드높이
     품사: 부사
 ---
 000_KEYWORD: 드높이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50940
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -638,13 +638,13 @@ imported:
     - 발음: 드노피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50940_deunopini.wav
       형태: 드높이니
-processed:
+result:
   맞춤법 검사:
     표제어: 드높이다
     품사: 동사
 ---
 000_KEYWORD: 드디어__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15026
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -680,13 +680,13 @@ imported:
     표제어: 드디어
     품사: 부사
     항목ID: 15026
-processed:
+result:
   맞춤법 검사:
     표제어: 드디어
     품사: 부사
 ---
 000_KEYWORD: 드라마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61389
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -728,13 +728,13 @@ imported:
     표제어: 드라마
     품사: 명사
     항목ID: 61389
-processed:
+result:
   맞춤법 검사:
     표제어: 드라마
     품사: 명사
 ---
 000_KEYWORD: 드라이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50942
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -772,13 +772,13 @@ imported:
     표제어: 드라이
     품사: 명사
     항목ID: 50942
-processed:
+result:
   맞춤법 검사:
     표제어: 드라이
     품사: 명사
 ---
 000_KEYWORD: 드라이버__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50944
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -816,13 +816,13 @@ imported:
     표제어: 드라이버
     품사: 명사
     항목ID: 50944
-processed:
+result:
   맞춤법 검사:
     표제어: 드라이버
     품사: 명사
 ---
 000_KEYWORD: 드라이브__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50946
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -860,13 +860,13 @@ imported:
     표제어: 드라이브
     품사: 명사
     항목ID: 50946
-processed:
+result:
   맞춤법 검사:
     표제어: 드라이브
     품사: 명사
 ---
 000_KEYWORD: 드라이브하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50948
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -890,13 +890,13 @@ imported:
     표제어: 드라이브하다
     품사: 동사
     항목ID: 50948
-processed:
+result:
   맞춤법 검사:
     표제어: 드라이브하다
     품사: 동사
 ---
 000_KEYWORD: 드라이어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50949
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -949,13 +949,13 @@ imported:
     표제어: 드라이어
     품사: 명사
     항목ID: 50949
-processed:
+result:
   맞춤법 검사:
     표제어: 드라이어
     품사: 명사
 ---
 000_KEYWORD: 드라이클리닝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50951
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -984,13 +984,13 @@ imported:
     표제어: 드라이클리닝
     품사: 명사
     항목ID: 50951
-processed:
+result:
   맞춤법 검사:
     표제어: 드라이클리닝
     품사: 명사
 ---
 000_KEYWORD: 드라이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50952
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1026,13 +1026,13 @@ imported:
     표제어: 드라이하다
     품사: 동사
     항목ID: 50952
-processed:
+result:
   맞춤법 검사:
     표제어: 드라이하다
     품사: 동사
 ---
 000_KEYWORD: 드라큘라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50954
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1056,13 +1056,13 @@ imported:
     표제어: 드라큘라
     품사: 명사
     항목ID: 50954
-processed:
+result:
   맞춤법 검사:
     표제어: 드라큘라
     품사: 명사
 ---
 000_KEYWORD: 드래그__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1072,13 +1072,13 @@ imported:
     표제어: 드래그
     품사: 명사:보통:서술성
     항목ID: 7570
-processed:
+result:
   맞춤법 검사:
     표제어: 드래그
     품사: 명사
 ---
 000_KEYWORD: 드러나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15034
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1157,17 +1157,17 @@ imported:
     - 발음: 드러남니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/deureonada.wav
       형태: 드러납니다
-processed:
+result:
   맞춤법 검사:
     표제어: 드러나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 드러내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50956
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1226,17 +1226,17 @@ imported:
     활용:
     - 형태: 드러내어
     - 형태: 드러내니
-processed:
+result:
   맞춤법 검사:
     표제어: 드러내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 드러눕다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50958
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1283,19 +1283,19 @@ imported:
     - 발음: 드러눔는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50958_deureonumneun.wav
       형태: 드러눕는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
     표제어: 드러눕다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 드러머__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1305,13 +1305,13 @@ imported:
     표제어: 드러머
     품사: 명사:보통:비서술성
     항목ID: 7574
-processed:
+result:
   맞춤법 검사:
     표제어: 드러머
     품사: 명사
 ---
 000_KEYWORD: 드럼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50959
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1368,13 +1368,13 @@ imported:
     표제어: 드럼
     품사: 명사
     항목ID: 50959
-processed:
+result:
   맞춤법 검사:
     표제어: 드럼
     품사: 명사
 ---
 000_KEYWORD: 드럼__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1383,13 +1383,13 @@ imported:
     표제어: 드럼
     품사: 명사:의존:단위성
     항목ID: 32146
-processed:
+result:
   맞춤법 검사:
     표제어: 드럼
     품사: 명사
 ---
 000_KEYWORD: 드럼통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50962
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1430,13 +1430,13 @@ imported:
     표제어: 드럼통
     품사: 명사
     항목ID: 50962
-processed:
+result:
   맞춤법 검사:
     표제어: 드럼통
     품사: 명사
 ---
 000_KEYWORD: 드레스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50965
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1466,13 +1466,13 @@ imported:
     표제어: 드레스
     품사: 명사
     항목ID: 50965
-processed:
+result:
   맞춤법 검사:
     표제어: 드레스
     품사: 명사
 ---
 000_KEYWORD: 드르렁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50966
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1508,13 +1508,13 @@ imported:
     표제어: 드르렁
     품사: 부사
     항목ID: 50966
-processed:
+result:
   맞춤법 검사:
     표제어: 드르렁
     품사: 부사
 ---
 000_KEYWORD: 드르렁드르렁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50968
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1549,13 +1549,13 @@ imported:
     표제어: 드르렁드르렁
     품사: 부사
     항목ID: 50968
-processed:
+result:
   맞춤법 검사:
     표제어: 드르렁드르렁
     품사: 부사
 ---
 000_KEYWORD: 드르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50970
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1593,13 +1593,13 @@ imported:
     표제어: 드르르
     품사: 부사
     항목ID: 50970
-processed:
+result:
   맞춤법 검사:
     표제어: 드르르
     품사: 부사
 ---
 000_KEYWORD: 드르륵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50972
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1627,13 +1627,13 @@ imported:
     표제어: 드르륵
     품사: 부사
     항목ID: 50972
-processed:
+result:
   맞춤법 검사:
     표제어: 드르륵
     품사: 부사
 ---
 000_KEYWORD: 드르릉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50974
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1668,13 +1668,13 @@ imported:
     표제어: 드르릉
     품사: 부사
     항목ID: 50974
-processed:
+result:
   맞춤법 검사:
     표제어: 드르릉
     품사: 부사
 ---
 000_KEYWORD: 드리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61168
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1742,13 +1742,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/59252_deuriyeo.wav
       형태: 드리어
     - 형태: 드리니
-processed:
+result:
   맞춤법 검사:
     표제어: 드리다
     품사: 동사
 ---
 000_KEYWORD: 드리다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59252
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1789,7 +1789,7 @@ imported:
       형태: 드리니
     - 발음: 드림니다
       형태: 드립니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -1797,7 +1797,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 드리블__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1807,13 +1807,13 @@ imported:
     표제어: 드리블
     품사: 명사:보통:서술성
     항목ID: 7580
-processed:
+result:
   맞춤법 검사:
     표제어: 드리블
     품사: 명사
 ---
 000_KEYWORD: 드리블하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50977
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1840,13 +1840,13 @@ imported:
     표제어: 드리블하다
     품사: 동사
     항목ID: 50977
-processed:
+result:
   맞춤법 검사:
     표제어: 드리블하다
     품사: 동사
 ---
 000_KEYWORD: 드리우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50978
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1922,13 +1922,13 @@ imported:
     활용:
     - 형태: 드리우어
     - 형태: 드리우니
-processed:
+result:
   맞춤법 검사:
     표제어: 드리우다
     품사: 동사
 ---
 000_KEYWORD: 드리워지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50979
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1980,13 +1980,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/50979_deuriwojeo.wav
       형태: 드리워져
     - 형태: 드리워지니
-processed:
+result:
   맞춤법 검사:
     표제어: 드리워지다
     품사: 동사
 ---
 000_KEYWORD: 드릴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50980
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2013,13 +2013,13 @@ imported:
     표제어: 드릴
     품사: 명사
     항목ID: 50980
-processed:
+result:
   맞춤법 검사:
     표제어: 드릴
     품사: 명사
 ---
 000_KEYWORD: 드링크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50982
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2039,13 +2039,13 @@ imported:
     표제어: 드링크
     품사: 명사
     항목ID: 50982
-processed:
+result:
   맞춤법 검사:
     표제어: 드링크
     품사: 명사
 ---
 000_KEYWORD: 드문드문__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50983
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2101,13 +2101,13 @@ imported:
     표제어: 드문드문
     품사: 부사
     항목ID: 50983
-processed:
+result:
   맞춤법 검사:
     표제어: 드문드문
     품사: 부사
 ---
 000_KEYWORD: 드물다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15040
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2168,13 +2168,13 @@ imported:
     - 발음: 드뭄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15040_deumumnida.wav
       형태: 드뭅니다
-processed:
+result:
   맞춤법 검사:
     표제어: 드물다
     품사: 형용사
 ---
 000_KEYWORD: 드세다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50985
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2225,13 +2225,13 @@ imported:
     - 발음: 드셈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50985_deusemnida.wav
       형태: 드셉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 드세다
     품사: 형용사
 ---
 000_KEYWORD: 드잡이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50988
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2257,13 +2257,13 @@ imported:
     표제어: 드잡이
     품사: 명사
     항목ID: 50988
-processed:
+result:
   맞춤법 검사:
     표제어: 드잡이
     품사: 명사
 ---
 000_KEYWORD: 득__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50990
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2304,13 +2304,13 @@ imported:
     - 발음: 등만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/50990_deungman.wav
       형태: 득만
-processed:
+result:
   맞춤법 검사:
     표제어: 득
     품사: 명사
 ---
 000_KEYWORD: 득남__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50991
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2335,13 +2335,13 @@ imported:
     표제어: 득남
     품사: 명사
     항목ID: 50991
-processed:
+result:
   맞춤법 검사:
     표제어: 득남
     품사: 명사
 ---
 000_KEYWORD: 득남하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50993
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2369,13 +2369,13 @@ imported:
     표제어: 득남하다
     품사: 동사
     항목ID: 50993
-processed:
+result:
   맞춤법 검사:
     표제어: 득남하다
     품사: 동사
 ---
 000_KEYWORD: 득달같다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2384,13 +2384,13 @@ imported:
     표제어: 득달같다
     품사: 형용사
     항목ID: 7589
-processed:
+result:
   맞춤법 검사:
     표제어: 득달같다
     품사: 형용사
 ---
 000_KEYWORD: 득달같이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50994
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2417,13 +2417,13 @@ imported:
     표제어: 득달같이
     품사: 부사
     항목ID: 50994
-processed:
+result:
   맞춤법 검사:
     표제어: 득달같이
     품사: 부사
 ---
 000_KEYWORD: 득달하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50995
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2453,13 +2453,13 @@ imported:
     표제어: 득달하다
     품사: 동사
     항목ID: 50995
-processed:
+result:
   맞춤법 검사:
     표제어: 득달하다
     품사: 동사
 ---
 000_KEYWORD: 득도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50997
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2486,13 +2486,13 @@ imported:
     표제어: 득도
     품사: 명사
     항목ID: 50997
-processed:
+result:
   맞춤법 검사:
     표제어: 득도
     품사: 명사
 ---
 000_KEYWORD: 득도하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50998
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2522,13 +2522,13 @@ imported:
     표제어: 득도하다
     품사: 동사
     항목ID: 50998
-processed:
+result:
   맞춤법 검사:
     표제어: 득도하다
     품사: 동사
 ---
 000_KEYWORD: 득득__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51000
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2554,13 +2554,13 @@ imported:
     표제어: 득득
     품사: 부사
     항목ID: 51000
-processed:
+result:
   맞춤법 검사:
     표제어: 득득
     품사: 부사
 ---
 000_KEYWORD: 득세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50522
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2588,13 +2588,13 @@ imported:
     표제어: 득세
     품사: 명사
     항목ID: 50522
-processed:
+result:
   맞춤법 검사:
     표제어: 득세
     품사: 명사
 ---
 000_KEYWORD: 득세하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50524
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2623,13 +2623,13 @@ imported:
     표제어: 득세하다
     품사: 동사
     항목ID: 50524
-processed:
+result:
   맞춤법 검사:
     표제어: 득세하다
     품사: 동사
 ---
 000_KEYWORD: 득시글거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50526
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2668,13 +2668,13 @@ imported:
     표제어: 득시글거리다
     품사: 동사
     항목ID: 50526
-processed:
+result:
   맞춤법 검사:
     표제어: 득시글거리다
     품사: 동사
 ---
 000_KEYWORD: 득시글대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91501
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2713,13 +2713,13 @@ imported:
     표제어: 득시글대다
     품사: 동사
     항목ID: 91501
-processed:
+result:
   맞춤법 검사:
     표제어: 득시글대다
     품사: 동사
 ---
 000_KEYWORD: 득시글득시글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91502
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2750,13 +2750,13 @@ imported:
     표제어: 득시글득시글
     품사: 부사
     항목ID: 91502
-processed:
+result:
   맞춤법 검사:
     표제어: 득시글득시글
     품사: 부사
 ---
 000_KEYWORD: 득시글득시글하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90176
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2796,13 +2796,13 @@ imported:
     표제어: 득시글득시글하다
     품사: 동사
     항목ID: 90176
-processed:
+result:
   맞춤법 검사:
     표제어: 득시글득시글하다
     품사: 동사
 ---
 000_KEYWORD: 득시글하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90177
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2845,13 +2845,13 @@ imported:
       형태: 득시글하니
     - 발음: 득씨글함니다
       형태: 득시글합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 득시글하다
     품사: 형용사
 ---
 000_KEYWORD: 득실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50527
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2893,13 +2893,13 @@ imported:
     표제어: 득실
     품사: 명사
     항목ID: 50527
-processed:
+result:
   맞춤법 검사:
     표제어: 득실
     품사: 명사
 ---
 000_KEYWORD: 득실거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50529
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2939,13 +2939,13 @@ imported:
     표제어: 득실거리다
     품사: 동사
     항목ID: 50529
-processed:
+result:
   맞춤법 검사:
     표제어: 득실거리다
     품사: 동사
 ---
 000_KEYWORD: 득실대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50530
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2984,13 +2984,13 @@ imported:
     표제어: 득실대다
     품사: 동사
     항목ID: 50530
-processed:
+result:
   맞춤법 검사:
     표제어: 득실대다
     품사: 동사
 ---
 000_KEYWORD: 득실득실__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90178
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3021,13 +3021,13 @@ imported:
     표제어: 득실득실
     품사: 부사
     항목ID: 90178
-processed:
+result:
   맞춤법 검사:
     표제어: 득실득실
     품사: 부사
 ---
 000_KEYWORD: 득실득실하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90179
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3066,13 +3066,13 @@ imported:
     표제어: 득실득실하다
     품사: 동사
     항목ID: 90179
-processed:
+result:
   맞춤법 검사:
     표제어: 득실득실하다
     품사: 동사
 ---
 000_KEYWORD: 득실점__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3083,13 +3083,13 @@ imported:
     표제어: 득실점
     품사: 명사:보통:서술성
     항목ID: 7598
-processed:
+result:
   맞춤법 검사:
     표제어: 득실점
     품사: 명사
 ---
 000_KEYWORD: 득실하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90180
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3132,13 +3132,13 @@ imported:
       형태: 득실하니
     - 발음: 득씰함니다
       형태: 득실합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 득실하다
     품사: 형용사
 ---
 000_KEYWORD: 득의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50532
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3168,13 +3168,13 @@ imported:
     표제어: 득의
     품사: 명사
     항목ID: 50532
-processed:
+result:
   맞춤법 검사:
     표제어: 득의
     품사: 명사
 ---
 000_KEYWORD: 득의만만하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50533
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3224,13 +3224,13 @@ imported:
       형태: 득의만만합니다
     - 발음: 드기만만함니다
       형태: 득의만만합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 득의만만하다
     품사: 형용사
 ---
 000_KEYWORD: 득의만면하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50535
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3280,13 +3280,13 @@ imported:
       형태: 득의만면합니다
     - 발음: 드기만면함니다
       형태: 득의만면합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 득의만면하다
     품사: 형용사
 ---
 000_KEYWORD: 득의양양하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93365
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3338,13 +3338,13 @@ imported:
       형태: 득의양양합니다
     - 발음: 드기양양함니다
       형태: 득의양양합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 득의양양하다
     품사: 형용사
 ---
 000_KEYWORD: 득점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50536
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3379,17 +3379,17 @@ imported:
     표제어: 득점
     품사: 명사
     항목ID: 50536
-processed:
+result:
   맞춤법 검사:
     표제어: 득점
     품사: 명사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 단위명사
 ---
 000_KEYWORD: 득점력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50538
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3427,13 +3427,13 @@ imported:
     - 발음: 득쩜녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/50538_deukjjeomnyeongman.wav
       형태: 득점력만
-processed:
+result:
   맞춤법 검사:
     표제어: 득점력
     품사: 명사
 ---
 000_KEYWORD: 득점포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50539
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3462,13 +3462,13 @@ imported:
     표제어: 득점포
     품사: 명사
     항목ID: 50539
-processed:
+result:
   맞춤법 검사:
     표제어: 득점포
     품사: 명사
 ---
 000_KEYWORD: 득점하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50540
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3501,13 +3501,13 @@ imported:
     표제어: 득점하다
     품사: 동사
     항목ID: 50540
-processed:
+result:
   맞춤법 검사:
     표제어: 득점하다
     품사: 동사
 ---
 000_KEYWORD: 득표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50541
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3536,13 +3536,13 @@ imported:
     표제어: 득표
     품사: 명사
     항목ID: 50541
-processed:
+result:
   맞춤법 검사:
     표제어: 득표
     품사: 명사
 ---
 000_KEYWORD: 득표율__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50542
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3571,13 +3571,13 @@ imported:
     표제어: 득표율
     품사: 명사
     항목ID: 50542
-processed:
+result:
   맞춤법 검사:
     표제어: 득표율
     품사: 명사
 ---
 000_KEYWORD: 득표자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50543
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3605,13 +3605,13 @@ imported:
     표제어: 득표자
     품사: 명사
     항목ID: 50543
-processed:
+result:
   맞춤법 검사:
     표제어: 득표자
     품사: 명사
 ---
 000_KEYWORD: 득표하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50546
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3638,13 +3638,13 @@ imported:
     표제어: 득표하다
     품사: 동사
     항목ID: 50546
-processed:
+result:
   맞춤법 검사:
     표제어: 득표하다
     품사: 동사
 ---
 000_KEYWORD: 든__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86261
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3675,11 +3675,11 @@ imported:
     표제어: 든
     품사: 조사
     항목ID: 86261
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 든가__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70330
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3706,11 +3706,11 @@ imported:
     표제어: 든가
     품사: 조사
     항목ID: 70330
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 든든하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50551
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3816,13 +3816,13 @@ imported:
     - 발음: 든든함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50551_deundeunhamnida.wav
       형태: 든든합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 든든하다
     품사: 형용사
 ---
 000_KEYWORD: 든든히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50554
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3899,13 +3899,13 @@ imported:
     표제어: 든든히
     품사: 부사
     항목ID: 50554
-processed:
+result:
   맞춤법 검사:
     표제어: 든든히
     품사: 부사
 ---
 000_KEYWORD: 든지__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70334
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3943,11 +3943,11 @@ imported:
     표제어: 든지
     품사: 조사
     항목ID: 70334
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 듣기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50556
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3974,13 +3974,13 @@ imported:
     표제어: 듣기
     품사: 명사
     항목ID: 50556
-processed:
+result:
   맞춤법 검사:
     표제어: 듣기
     품사: 명사
 ---
 000_KEYWORD: 듣다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50557
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4017,7 +4017,7 @@ imported:
     - 발음: 든는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/74104_deunneun.wav
       형태: 듣는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -4025,7 +4025,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 듣다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74104
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4165,7 +4165,7 @@ imported:
       형태: 들으니
     - 발음: 듣씀니다
       형태: 듣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -4173,7 +4173,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 듣잡다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50558
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4213,7 +4213,7 @@ imported:
     - 발음: 듣짬는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50558_deutjjamneun.wav
       형태: 듣잡는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -4221,7 +4221,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 들-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74904
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4247,11 +4247,11 @@ imported:
     표제어: 들-
     품사: 접사
     항목ID: 74904
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 들-__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74905
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4274,11 +4274,11 @@ imported:
     표제어: 들-
     품사: 접사
     항목ID: 74905
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 들__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50559
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4330,13 +4330,13 @@ imported:
     표제어: 들
     품사: 명사
     항목ID: 50559
-processed:
+result:
   맞춤법 검사:
     표제어: 들
     품사: 명사
 ---
 000_KEYWORD: 들__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90912
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4362,13 +4362,13 @@ imported:
     표제어: 들
     품사: 의존 명사
     항목ID: 90912
-processed:
+result:
   맞춤법 검사:
     표제어: 들
     품사: 의존 명사
 ---
 000_KEYWORD: 들__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86264
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4394,11 +4394,11 @@ imported:
     표제어: 들
     품사: 조사
     항목ID: 86264
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 들개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50560
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4424,13 +4424,13 @@ imported:
     표제어: 들개
     품사: 명사
     항목ID: 50560
-processed:
+result:
   맞춤법 검사:
     표제어: 들개
     품사: 명사
 ---
 000_KEYWORD: 들것__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50561
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4472,13 +4472,13 @@ imported:
     - 발음: 들껀만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50561_deulkkeonman.wav
       형태: 들것만
-processed:
+result:
   맞춤법 검사:
     표제어: 들것
     품사: 명사
 ---
 000_KEYWORD: 들고나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50562
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4523,13 +4523,13 @@ imported:
     활용:
     - 형태: 들고나
     - 형태: 들고나니
-processed:
+result:
   맞춤법 검사:
     표제어: 들고나다
     품사: 동사
 ---
 000_KEYWORD: 들고뛰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50563
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4565,13 +4565,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50563_deulgottwiyeo.wav
       형태: 들고뛰어
     - 형태: 들고뛰니
-processed:
+result:
   맞춤법 검사:
     표제어: 들고뛰다
     품사: 동사
 ---
 000_KEYWORD: 들고양이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50564
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4601,13 +4601,13 @@ imported:
     표제어: 들고양이
     품사: 명사
     항목ID: 50564
-processed:
+result:
   맞춤법 검사:
     표제어: 들고양이
     품사: 명사
 ---
 000_KEYWORD: 들고일어나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50565
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4642,13 +4642,13 @@ imported:
     - 발음: 들고이러나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/50565_deulgoireonani.wav
       형태: 들고일어나니
-processed:
+result:
   맞춤법 검사:
     표제어: 들고일어나다
     품사: 동사
 ---
 000_KEYWORD: 들국화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50566
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4676,13 +4676,13 @@ imported:
     표제어: 들국화
     품사: 명사
     항목ID: 50566
-processed:
+result:
   맞춤법 검사:
     표제어: 들국화
     품사: 명사
 ---
 000_KEYWORD: 들기름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50567
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4714,13 +4714,13 @@ imported:
     표제어: 들기름
     품사: 명사
     항목ID: 50567
-processed:
+result:
   맞춤법 검사:
     표제어: 들기름
     품사: 명사
 ---
 000_KEYWORD: 들길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50568
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4748,13 +4748,13 @@ imported:
     표제어: 들길
     품사: 명사
     항목ID: 50568
-processed:
+result:
   맞춤법 검사:
     표제어: 들길
     품사: 명사
 ---
 000_KEYWORD: 들까불다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50569
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4790,13 +4790,13 @@ imported:
     - 발음: 들까붐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50569_deulkkabumnida.wav
       형태: 들까붑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들까불다
     품사: 동사
 ---
 000_KEYWORD: 들깨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50570
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4831,13 +4831,13 @@ imported:
     표제어: 들깨
     품사: 명사
     항목ID: 50570
-processed:
+result:
   맞춤법 검사:
     표제어: 들깨
     품사: 명사
 ---
 000_KEYWORD: 들꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50571
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4878,13 +4878,13 @@ imported:
     - 발음: 들ː꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50571_deur-kkonman.wav
       형태: 들꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 들꽃
     품사: 명사
 ---
 000_KEYWORD: 들끓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50572
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4972,13 +4972,13 @@ imported:
     - 발음: 들끌씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50572_deulkkeulsseumnida.wav
       형태: 들끓습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들끓다
     품사: 동사
 ---
 000_KEYWORD: 들나물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50573
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5010,13 +5010,13 @@ imported:
     표제어: 들나물
     품사: 명사
     항목ID: 50573
-processed:
+result:
   맞춤법 검사:
     표제어: 들나물
     품사: 명사
 ---
 000_KEYWORD: 들녘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50574
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5053,13 +5053,13 @@ imported:
     - 발음: 들ː령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50574_deur-ryeongman.wav
       형태: 들녘만
-processed:
+result:
   맞춤법 검사:
     표제어: 들녘
     품사: 명사
 ---
 000_KEYWORD: 들놀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50575
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5085,13 +5085,13 @@ imported:
     표제어: 들놀이
     품사: 명사
     항목ID: 50575
-processed:
+result:
   맞춤법 검사:
     표제어: 들놀이
     품사: 명사
 ---
 000_KEYWORD: 들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49856
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5126,13 +5126,13 @@ imported:
     - 발음: 듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49855_deumnida.wav
       형태: 듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들다
     품사: 동사
 ---
 000_KEYWORD: 들다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71686
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5536,13 +5536,13 @@ imported:
     - 발음: 듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49855_deumnida.wav
       형태: 듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들다
     품사: 동사
 ---
 000_KEYWORD: 들다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57293
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5632,13 +5632,13 @@ imported:
     - 발음: 듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49855_deumnida.wav
       형태: 듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들다
     품사: 동사
 ---
 000_KEYWORD: 들다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49855
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5678,7 +5678,7 @@ imported:
     - 발음: 듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49855_deumnida.wav
       형태: 듭니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-기로
@@ -5688,7 +5688,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 들들__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49857
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5733,13 +5733,13 @@ imported:
     표제어: 들들
     품사: 부사
     항목ID: 49857
-processed:
+result:
   맞춤법 검사:
     표제어: 들들
     품사: 부사
 ---
 000_KEYWORD: 들뛰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49858
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5776,13 +5776,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49858_deulttwiyeo.wav
       형태: 들뛰어
     - 형태: 들뛰니
-processed:
+result:
   맞춤법 검사:
     표제어: 들뛰다
     품사: 동사
 ---
 000_KEYWORD: 들뜨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49859
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5857,13 +5857,13 @@ imported:
     - 발음: 들뜸니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/deultteuda.wav
       형태: 들뜹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들뜨다
     품사: 동사
 ---
 000_KEYWORD: 들락거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49860
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5901,13 +5901,13 @@ imported:
     표제어: 들락거리다
     품사: 동사
     항목ID: 49860
-processed:
+result:
   맞춤법 검사:
     표제어: 들락거리다
     품사: 동사
 ---
 000_KEYWORD: 들락날락__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49861
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5936,13 +5936,13 @@ imported:
     표제어: 들락날락
     품사: 부사
     항목ID: 49861
-processed:
+result:
   맞춤법 검사:
     표제어: 들락날락
     품사: 부사
 ---
 000_KEYWORD: 들락날락하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49862
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5974,13 +5974,13 @@ imported:
     표제어: 들락날락하다
     품사: 동사
     항목ID: 49862
-processed:
+result:
   맞춤법 검사:
     표제어: 들락날락하다
     품사: 동사
 ---
 000_KEYWORD: 들락대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90223
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6018,13 +6018,13 @@ imported:
     표제어: 들락대다
     품사: 동사
     항목ID: 90223
-processed:
+result:
   맞춤법 검사:
     표제어: 들락대다
     품사: 동사
 ---
 000_KEYWORD: 들락이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49863
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6052,13 +6052,13 @@ imported:
     표제어: 들락이다
     품사: 동사
     항목ID: 49863
-processed:
+result:
   맞춤법 검사:
     표제어: 들락이다
     품사: 동사
 ---
 000_KEYWORD: 들랑거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49865
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6097,13 +6097,13 @@ imported:
     표제어: 들랑거리다
     품사: 동사
     항목ID: 49865
-processed:
+result:
   맞춤법 검사:
     표제어: 들랑거리다
     품사: 동사
 ---
 000_KEYWORD: 들랑날랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90913
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6132,13 +6132,13 @@ imported:
     표제어: 들랑날랑
     품사: 부사
     항목ID: 90913
-processed:
+result:
   맞춤법 검사:
     표제어: 들랑날랑
     품사: 부사
 ---
 000_KEYWORD: 들랑날랑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49867
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6170,13 +6170,13 @@ imported:
     표제어: 들랑날랑하다
     품사: 동사
     항목ID: 49867
-processed:
+result:
   맞춤법 검사:
     표제어: 들랑날랑하다
     품사: 동사
 ---
 000_KEYWORD: 들랑대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90224
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6214,13 +6214,13 @@ imported:
     표제어: 들랑대다
     품사: 동사
     항목ID: 90224
-processed:
+result:
   맞춤법 검사:
     표제어: 들랑대다
     품사: 동사
 ---
 000_KEYWORD: 들러리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49868
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6260,13 +6260,13 @@ imported:
     표제어: 들러리
     품사: 명사
     항목ID: 49868
-processed:
+result:
   맞춤법 검사:
     표제어: 들러리
     품사: 명사
 ---
 000_KEYWORD: 들러붙다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49870
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6361,17 +6361,17 @@ imported:
     - 발음: 들러분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49870_deulleobunneun.wav
       형태: 들러붙는
-processed:
+result:
   맞춤법 검사:
     표제어: 들러붙다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들려오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67875
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6405,17 +6405,17 @@ imported:
     활용:
     - 형태: 들려와
     - 형태: 들려오니
-processed:
+result:
   맞춤법 검사:
     표제어: 들려오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들려주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64545
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6450,17 +6450,17 @@ imported:
     활용:
     - 형태: 들려주어
     - 형태: 들려주니
-processed:
+result:
   맞춤법 검사:
     표제어: 들려주다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67876
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6496,7 +6496,7 @@ imported:
     활용:
     - 형태: 들러
     - 형태: 들르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -6504,7 +6504,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 들리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49872
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6559,13 +6559,13 @@ imported:
       형태: 들리니
     - 발음: 들림니다
       형태: 들립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들리다
     품사: 동사
 ---
 000_KEYWORD: 들리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70783
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6610,13 +6610,13 @@ imported:
       형태: 들리니
     - 발음: 들림니다
       형태: 들립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들리다
     품사: 동사
 ---
 000_KEYWORD: 들리다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49874
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6671,13 +6671,13 @@ imported:
       형태: 들리니
     - 발음: 들림니다
       형태: 들립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들리다
     품사: 동사
 ---
 000_KEYWORD: 들리다__동사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49875
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6713,13 +6713,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49876_deulliyeo.wav
       형태: 들리어
     - 형태: 들리니
-processed:
+result:
   맞춤법 검사:
     표제어: 들리다
     품사: 동사
 ---
 000_KEYWORD: 들리다__동사__005
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49876
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6759,13 +6759,13 @@ imported:
       형태: 들리니
     - 발음: 들림니다
       형태: 들립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들리다
     품사: 동사
 ---
 000_KEYWORD: 들머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51051
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6791,13 +6791,13 @@ imported:
     표제어: 들머리
     품사: 명사
     항목ID: 51051
-processed:
+result:
   맞춤법 검사:
     표제어: 들머리
     품사: 명사
 ---
 000_KEYWORD: 들먹거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51053
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6911,13 +6911,13 @@ imported:
     표제어: 들먹거리다
     품사: 동사
     항목ID: 51053
-processed:
+result:
   맞춤법 검사:
     표제어: 들먹거리다
     품사: 동사
 ---
 000_KEYWORD: 들먹대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90829
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7035,13 +7035,13 @@ imported:
     표제어: 들먹대다
     품사: 동사
     항목ID: 90829
-processed:
+result:
   맞춤법 검사:
     표제어: 들먹대다
     품사: 동사
 ---
 000_KEYWORD: 들먹들먹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90830
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7120,13 +7120,13 @@ imported:
     표제어: 들먹들먹
     품사: 부사
     항목ID: 90830
-processed:
+result:
   맞춤법 검사:
     표제어: 들먹들먹
     품사: 부사
 ---
 000_KEYWORD: 들먹들먹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51131
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7247,13 +7247,13 @@ imported:
     표제어: 들먹들먹하다
     품사: 동사
     항목ID: 51131
-processed:
+result:
   맞춤법 검사:
     표제어: 들먹들먹하다
     품사: 동사
 ---
 000_KEYWORD: 들먹이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51055
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7362,13 +7362,13 @@ imported:
       형태: 들먹이니
     - 발음: 들머김니다
       형태: 들먹입니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들먹이다
     품사: 동사
 ---
 000_KEYWORD: 들메끈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51057
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7394,13 +7394,13 @@ imported:
     표제어: 들메끈
     품사: 명사
     항목ID: 51057
-processed:
+result:
   맞춤법 검사:
     표제어: 들메끈
     품사: 명사
 ---
 000_KEYWORD: 들바람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51059
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7426,13 +7426,13 @@ imported:
     표제어: 들바람
     품사: 명사
     항목ID: 51059
-processed:
+result:
   맞춤법 검사:
     표제어: 들바람
     품사: 명사
 ---
 000_KEYWORD: 들볶다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51060
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7472,13 +7472,13 @@ imported:
     - 발음: 들봉는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/51060_deulbongneun.wav
       형태: 들볶는
-processed:
+result:
   맞춤법 검사:
     표제어: 들볶다
     품사: 동사
 ---
 000_KEYWORD: 들볶이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51064
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7519,13 +7519,13 @@ imported:
     - 발음: 들보끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51064_deulbokkini.wav
       형태: 들볶이니
-processed:
+result:
   맞춤법 검사:
     표제어: 들볶이다
     품사: 동사
 ---
 000_KEYWORD: 들불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51066
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7550,13 +7550,13 @@ imported:
     표제어: 들불
     품사: 명사
     항목ID: 51066
-processed:
+result:
   맞춤법 검사:
     표제어: 들불
     품사: 명사
 ---
 000_KEYWORD: 들새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51068
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7584,13 +7584,13 @@ imported:
     표제어: 들새
     품사: 명사
     항목ID: 51068
-processed:
+result:
   맞춤법 검사:
     표제어: 들새
     품사: 명사
 ---
 000_KEYWORD: 들소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51070
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7617,13 +7617,13 @@ imported:
     표제어: 들소
     품사: 명사
     항목ID: 51070
-processed:
+result:
   맞춤법 검사:
     표제어: 들소
     품사: 명사
 ---
 000_KEYWORD: 들숨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51072
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7651,13 +7651,13 @@ imported:
     표제어: 들숨
     품사: 명사
     항목ID: 51072
-processed:
+result:
   맞춤법 검사:
     표제어: 들숨
     품사: 명사
 ---
 000_KEYWORD: 들썩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51076
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7731,13 +7731,13 @@ imported:
     표제어: 들썩
     품사: 부사
     항목ID: 51076
-processed:
+result:
   맞춤법 검사:
     표제어: 들썩
     품사: 부사
 ---
 000_KEYWORD: 들썩거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51079
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7835,13 +7835,13 @@ imported:
     표제어: 들썩거리다
     품사: 동사
     항목ID: 51079
-processed:
+result:
   맞춤법 검사:
     표제어: 들썩거리다
     품사: 동사
 ---
 000_KEYWORD: 들썩대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90831
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7939,13 +7939,13 @@ imported:
     표제어: 들썩대다
     품사: 동사
     항목ID: 90831
-processed:
+result:
   맞춤법 검사:
     표제어: 들썩대다
     품사: 동사
 ---
 000_KEYWORD: 들썩들썩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51085
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8011,13 +8011,13 @@ imported:
     표제어: 들썩들썩
     품사: 부사
     항목ID: 51085
-processed:
+result:
   맞춤법 검사:
     표제어: 들썩들썩
     품사: 부사
 ---
 000_KEYWORD: 들썩들썩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51086
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8115,13 +8115,13 @@ imported:
     표제어: 들썩들썩하다
     품사: 동사
     항목ID: 51086
-processed:
+result:
   맞춤법 검사:
     표제어: 들썩들썩하다
     품사: 동사
 ---
 000_KEYWORD: 들썩이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51090
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8192,13 +8192,13 @@ imported:
     표제어: 들썩이다
     품사: 동사
     항목ID: 51090
-processed:
+result:
   맞춤법 검사:
     표제어: 들썩이다
     품사: 동사
 ---
 000_KEYWORD: 들썩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51093
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8267,13 +8267,13 @@ imported:
     표제어: 들썩하다
     품사: 동사
     항목ID: 51093
-processed:
+result:
   맞춤법 검사:
     표제어: 들썩하다
     품사: 동사
 ---
 000_KEYWORD: 들썩하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66590
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8326,13 +8326,13 @@ imported:
       형태: 들썩하니
     - 발음: 들써캄니다
       형태: 들썩합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들썩하다
     품사: 형용사
 ---
 000_KEYWORD: 들썽거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51096
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8364,13 +8364,13 @@ imported:
     표제어: 들썽거리다
     품사: 동사
     항목ID: 51096
-processed:
+result:
   맞춤법 검사:
     표제어: 들썽거리다
     품사: 동사
 ---
 000_KEYWORD: 들썽대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90257
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8405,13 +8405,13 @@ imported:
     표제어: 들썽대다
     품사: 동사
     항목ID: 90257
-processed:
+result:
   맞춤법 검사:
     표제어: 들썽대다
     품사: 동사
 ---
 000_KEYWORD: 들썽들썽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90258
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8436,13 +8436,13 @@ imported:
     표제어: 들썽들썽
     품사: 부사
     항목ID: 90258
-processed:
+result:
   맞춤법 검사:
     표제어: 들썽들썽
     품사: 부사
 ---
 000_KEYWORD: 들썽들썽하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90259
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8477,13 +8477,13 @@ imported:
     표제어: 들썽들썽하다
     품사: 동사
     항목ID: 90259
-processed:
+result:
   맞춤법 검사:
     표제어: 들썽들썽하다
     품사: 동사
 ---
 000_KEYWORD: 들썽하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90260
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8512,13 +8512,13 @@ imported:
     표제어: 들썽하다
     품사: 동사
     항목ID: 90260
-processed:
+result:
   맞춤법 검사:
     표제어: 들썽하다
     품사: 동사
 ---
 000_KEYWORD: 들쑤시다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51100
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8577,13 +8577,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/51100_deulssusiyeo.wav
       형태: 들쑤시어
     - 형태: 들쑤시니
-processed:
+result:
   맞춤법 검사:
     표제어: 들쑤시다
     품사: 동사
 ---
 000_KEYWORD: 들쑥날쑥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51103
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8631,13 +8631,13 @@ imported:
     표제어: 들쑥날쑥
     품사: 부사
     항목ID: 51103
-processed:
+result:
   맞춤법 검사:
     표제어: 들쑥날쑥
     품사: 부사
 ---
 000_KEYWORD: 들쑥날쑥하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51105
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8698,13 +8698,13 @@ imported:
       형태: 들쑥날쑥하니
     - 발음: 들쑹날쑤캄니다
       형태: 들쑥날쑥합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들쑥날쑥하다
     품사: 형용사
 ---
 000_KEYWORD: 들어가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67877
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8925,17 +8925,17 @@ imported:
     - 발음: 드러가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67877_deureogageora.wav
       형태: 들어가거라
-processed:
+result:
   맞춤법 검사:
     표제어: 들어가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들어내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51113
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8973,7 +8973,7 @@ imported:
     - 발음: 드러내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/51113_deureonaeni.wav
       형태: 들어내니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -8981,7 +8981,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 들어맞다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51119
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9033,17 +9033,17 @@ imported:
     - 발음: 드러만는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51119_deureomanneun.wav
       형태: 들어맞는
-processed:
+result:
   맞춤법 검사:
     표제어: 들어맞다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들어먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51120
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9094,13 +9094,13 @@ imported:
     - 발음: 드러멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51120_deureomeongneun.wav
       형태: 들어먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 들어먹다
     품사: 동사
 ---
 000_KEYWORD: 들어박히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51122
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9174,13 +9174,13 @@ imported:
     - 발음: 드러바키니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/51122_deureobakini.wav
       형태: 들어박히니
-processed:
+result:
   맞춤법 검사:
     표제어: 들어박히다
     품사: 동사
 ---
 000_KEYWORD: 들어붓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51123
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9244,7 +9244,7 @@ imported:
     - 발음: 드러분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/51124_deureobunneun.wav
       형태: 들어붓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -9252,7 +9252,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 들어붙다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51124
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9330,13 +9330,13 @@ imported:
     - 발음: 드러분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/51124_deureobunneun.wav
       형태: 들어붙는
-processed:
+result:
   맞춤법 검사:
     표제어: 들어붙다
     품사: 동사
 ---
 000_KEYWORD: 들어서다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58158
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9427,17 +9427,17 @@ imported:
     - 발음: 드러서니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58158_deureoseoni.wav
       형태: 들어서니
-processed:
+result:
   맞춤법 검사:
     표제어: 들어서다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들어앉다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51125
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9521,17 +9521,17 @@ imported:
     - 발음: 드러안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51125_deureoanjji.wav
       형태: 들어앉지
-processed:
+result:
   맞춤법 검사:
     표제어: 들어앉다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들어앉히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51126
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9601,13 +9601,13 @@ imported:
     - 발음: 드러안치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51126_deureoanchini.wav
       형태: 들어앉히니
-processed:
+result:
   맞춤법 검사:
     표제어: 들어앉히다
     품사: 동사
 ---
 000_KEYWORD: 들어오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74105
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9773,17 +9773,17 @@ imported:
     - 발음: 드러오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/74105_deureooneora.wav
       형태: 들어오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 들어오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들어주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15045
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9820,17 +9820,17 @@ imported:
     - 발음: 드러주니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15045_deureojuni.wav
       형태: 들어주니
-processed:
+result:
   맞춤법 검사:
     표제어: 들어주다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들어차다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51127
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9867,17 +9867,17 @@ imported:
     - 발음: 드러차니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51127_deureochani.wav
       형태: 들어차니
-processed:
+result:
   맞춤법 검사:
     표제어: 들어차다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들여가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49632
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -9930,13 +9930,13 @@ imported:
     - 발음: 드려가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49632_deuryeogageora.wav
       형태: 들여가거라
-processed:
+result:
   맞춤법 검사:
     표제어: 들여가다
     품사: 동사
 ---
 000_KEYWORD: 들여놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15050
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10023,19 +10023,19 @@ imported:
     - 발음: 드려노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15050_deuryeonosseumnida.wav
       형태: 들여놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
     표제어: 들여놓다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들여다보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64546
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10120,17 +10120,17 @@ imported:
     - 발음: 드려다보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/64546_deuryeodaboni.wav
       형태: 들여다보니
-processed:
+result:
   맞춤법 검사:
     표제어: 들여다보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들여다보이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49634
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10175,17 +10175,17 @@ imported:
     - 발음: 드려다보이니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49634_deuryeodaboini.wav
       형태: 들여다보이니
-processed:
+result:
   맞춤법 검사:
     표제어: 들여다보이다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들여다뵈다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49635
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10235,13 +10235,13 @@ imported:
     - 발음: 드려다붸니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/49635_deuryeodabweni.wav
       형태: 들여다뵈니
-processed:
+result:
   맞춤법 검사:
     표제어: 들여다뵈다
     품사: 동사
 ---
 000_KEYWORD: 들여보내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49638
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10306,17 +10306,17 @@ imported:
     - 발음: 드려보내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49638_deuryeobonaeni.wav
       형태: 들여보내니
-processed:
+result:
   맞춤법 검사:
     표제어: 들여보내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들여쓰기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10326,13 +10326,13 @@ imported:
     표제어: 들여쓰기
     품사: 명사:보통:서술성
     항목ID: 7648
-processed:
+result:
   맞춤법 검사:
     표제어: 들여쓰기
     품사: 명사
 ---
 000_KEYWORD: 들여앉히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51128
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10401,13 +10401,13 @@ imported:
     - 발음: 드려안치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51128_deuryeoanchini.wav
       형태: 들여앉히니
-processed:
+result:
   맞춤법 검사:
     표제어: 들여앉히다
     품사: 동사
 ---
 000_KEYWORD: 들여오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49639
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10460,13 +10460,13 @@ imported:
     - 발음: 드려오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49639_deuryeooneora.wav
       형태: 들여오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 들여오다
     품사: 동사
 ---
 000_KEYWORD: 들이-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74907
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10493,11 +10493,11 @@ imported:
     표제어: 들이-
     품사: 접사
     항목ID: 74907
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 들이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15078
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10665,13 +10665,13 @@ imported:
     - 발음: 드리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15078_deurini.wav
       형태: 들이니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이다
     품사: 동사
 ---
 000_KEYWORD: 들이닥치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49644
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10713,17 +10713,17 @@ imported:
     - 발음: 드리닥치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49644_deuridakchini.wav
       형태: 들이닥치니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이닥치다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들이대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51129
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10761,17 +10761,17 @@ imported:
     - 발음: 드리대니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51129_deuridaeni.wav
       형태: 들이대니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이대다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들이대다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51130
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10809,13 +10809,13 @@ imported:
     - 발음: 드리대니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51129_deuridaeni.wav
       형태: 들이대니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이대다
     품사: 동사
 ---
 000_KEYWORD: 들이덤비다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51098
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10856,13 +10856,13 @@ imported:
     - 발음: 드리덤비니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51098_deurideombini.wav
       형태: 들이덤비니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이덤비다
     품사: 동사
 ---
 000_KEYWORD: 들이마시다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89457
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10903,17 +10903,17 @@ imported:
     - 발음: 드리마시니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15070_deurimasini.wav
       형태: 들이마시니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이마시다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들이마시다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15070
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -10976,13 +10976,13 @@ imported:
     - 발음: 드리마시니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15070_deurimasini.wav
       형태: 들이마시니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이마시다
     품사: 동사
 ---
 000_KEYWORD: 들이밀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49646
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11072,13 +11072,13 @@ imported:
     - 발음: 드리밈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49646_deurimimnida.wav
       형태: 들이밉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들이밀다
     품사: 동사
 ---
 000_KEYWORD: 들이박다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49648
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11129,17 +11129,17 @@ imported:
     - 발음: 드리방는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49648_deuribangneun.wav
       형태: 들이박는
-processed:
+result:
   맞춤법 검사:
     표제어: 들이박다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들이받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49649
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11190,19 +11190,19 @@ imported:
     - 발음: 드리반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49649_deuribanneun.wav
       형태: 들이받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
     표제어: 들이받다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들이붓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49664
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11240,19 +11240,19 @@ imported:
     - 발음: 드리분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49664_deuribunneun.wav
       형태: 들이붓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
     표제어: 들이붓다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들이비치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49854
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11293,17 +11293,17 @@ imported:
     - 발음: 드리비치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49854_deuribichini.wav
       형태: 들이비치니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이비치다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들이쉬다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49659
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11345,13 +11345,13 @@ imported:
     - 발음: 드리쉬니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49659_deuriswini.wav
       형태: 들이쉬니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이쉬다
     품사: 동사
 ---
 000_KEYWORD: 들이치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49663
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11393,13 +11393,13 @@ imported:
     - 발음: 드리치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49661_deurichini.wav
       형태: 들이치니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이치다
     품사: 동사
 ---
 000_KEYWORD: 들이치다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49661
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11440,13 +11440,13 @@ imported:
     - 발음: 드리치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49661_deurichini.wav
       형태: 들이치니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이치다
     품사: 동사
 ---
 000_KEYWORD: 들이켜다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15074
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11497,17 +11497,17 @@ imported:
     - 발음: 드리켜니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15074_deurikyeoni.wav
       형태: 들이켜니
-processed:
+result:
   맞춤법 검사:
     표제어: 들이켜다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 들이키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92212
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11520,10 +11520,10 @@ imported:
     표제어: 들이키다
     품사: 동사
     항목ID: 92212
-processed: {}
+result: {}
 ---
 000_KEYWORD: 들일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49655
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11549,13 +11549,13 @@ imported:
     표제어: 들일
     품사: 명사
     항목ID: 49655
-processed:
+result:
   맞춤법 검사:
     표제어: 들일
     품사: 명사
 ---
 000_KEYWORD: 들입다__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49656
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11586,13 +11586,13 @@ imported:
     표제어: 들입다
     품사: 부사
     항목ID: 49656
-processed:
+result:
   맞춤법 검사:
     표제어: 들입다
     품사: 부사
 ---
 000_KEYWORD: 들장미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49658
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11618,13 +11618,13 @@ imported:
     표제어: 들장미
     품사: 명사
     항목ID: 49658
-processed:
+result:
   맞춤법 검사:
     표제어: 들장미
     품사: 명사
 ---
 000_KEYWORD: 들쥐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49652
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11648,13 +11648,13 @@ imported:
     표제어: 들쥐
     품사: 명사
     항목ID: 49652
-processed:
+result:
   맞춤법 검사:
     표제어: 들쥐
     품사: 명사
 ---
 000_KEYWORD: 들짐승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49654
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11689,13 +11689,13 @@ imported:
     표제어: 들짐승
     품사: 명사
     항목ID: 49654
-processed:
+result:
   맞춤법 검사:
     표제어: 들짐승
     품사: 명사
 ---
 000_KEYWORD: 들쩍지근하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49651
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11742,13 +11742,13 @@ imported:
       형태: 들쩍지근하니
     - 발음: 들쩍찌근함니다
       형태: 들쩍지근합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들쩍지근하다
     품사: 형용사
 ---
 000_KEYWORD: 들쭉날쭉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49943
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11796,13 +11796,13 @@ imported:
     표제어: 들쭉날쭉
     품사: 부사
     항목ID: 49943
-processed:
+result:
   맞춤법 검사:
     표제어: 들쭉날쭉
     품사: 부사
 ---
 000_KEYWORD: 들쭉날쭉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49945
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11870,13 +11870,13 @@ imported:
     - 발음: 들쭝날쭈캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49945_deuljjungnaljjukamnida.wav
       형태: 들쭉날쭉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들쭉날쭉하다
     품사: 형용사
 ---
 000_KEYWORD: 들창코__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49950
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11904,13 +11904,13 @@ imported:
     표제어: 들창코
     품사: 명사
     항목ID: 49950
-processed:
+result:
   맞춤법 검사:
     표제어: 들창코
     품사: 명사
 ---
 000_KEYWORD: 들척지근하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49951
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -11971,13 +11971,13 @@ imported:
       형태: 들척지근하니
     - 발음: 들척찌근함니다
       형태: 들척지근합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 들척지근하다
     품사: 형용사
 ---
 000_KEYWORD: 들추다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49955
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12035,13 +12035,13 @@ imported:
     활용:
     - 형태: 들추어
     - 형태: 들추니
-processed:
+result:
   맞춤법 검사:
     표제어: 들추다
     품사: 동사
 ---
 000_KEYWORD: 들추어내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49958
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12112,7 +12112,7 @@ imported:
     활용:
     - 형태: 들추어내어
     - 형태: 들추어내니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -12120,7 +12120,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 들춰내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90914
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12191,13 +12191,13 @@ imported:
     활용:
     - 형태: 들춰내어
     - 형태: 들춰내니
-processed:
+result:
   맞춤법 검사:
     표제어: 들춰내다
     품사: 동사
 ---
 000_KEYWORD: 들치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49962
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12236,13 +12236,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/49962_deulcheo.wav
       형태: 들쳐
     - 형태: 들치니
-processed:
+result:
   맞춤법 검사:
     표제어: 들치다
     품사: 동사
 ---
 000_KEYWORD: 들키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49964
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12292,13 +12292,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49964_deulkiyeo.wav
       형태: 들키어
     - 형태: 들키니
-processed:
+result:
   맞춤법 검사:
     표제어: 들키다
     품사: 동사
 ---
 000_KEYWORD: 들통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49966
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12323,13 +12323,13 @@ imported:
     표제어: 들통
     품사: 명사
     항목ID: 49966
-processed:
+result:
   맞춤법 검사:
     표제어: 들통
     품사: 명사
 ---
 000_KEYWORD: 들통나다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12338,13 +12338,13 @@ imported:
     표제어: 들통나다
     품사: 동사
     항목ID: 7669
-processed:
+result:
   맞춤법 검사:
     표제어: 들통나다
     품사: 동사
 ---
 000_KEYWORD: 들판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49969
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12375,13 +12375,13 @@ imported:
     표제어: 들판
     품사: 명사
     항목ID: 49969
-processed:
+result:
   맞춤법 검사:
     표제어: 들판
     품사: 명사
 ---
 000_KEYWORD: 들풀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49971
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12408,13 +12408,13 @@ imported:
     표제어: 들풀
     품사: 명사
     항목ID: 49971
-processed:
+result:
   맞춤법 검사:
     표제어: 들풀
     품사: 명사
 ---
 000_KEYWORD: 듬뿍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49972
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12464,13 +12464,13 @@ imported:
     표제어: 듬뿍
     품사: 부사
     항목ID: 49972
-processed:
+result:
   맞춤법 검사:
     표제어: 듬뿍
     품사: 부사
 ---
 000_KEYWORD: 듬성듬성__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49973
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12498,13 +12498,13 @@ imported:
     표제어: 듬성듬성
     품사: 부사
     항목ID: 49973
-processed:
+result:
   맞춤법 검사:
     표제어: 듬성듬성
     품사: 부사
 ---
 000_KEYWORD: 듬성듬성하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49975
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12543,13 +12543,13 @@ imported:
       형태: 듬성듬성하니
     - 발음: 듬성듬성함니다
       형태: 듬성듬성합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 듬성듬성하다
     품사: 형용사
 ---
 000_KEYWORD: 듬성하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49977
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12588,13 +12588,13 @@ imported:
       형태: 듬성하니
     - 발음: 듬성함니다
       형태: 듬성합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 듬성하다
     품사: 형용사
 ---
 000_KEYWORD: 듬직이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90915
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12634,13 +12634,13 @@ imported:
     표제어: 듬직이
     품사: 부사
     항목ID: 90915
-processed:
+result:
   맞춤법 검사:
     표제어: 듬직이
     품사: 부사
 ---
 000_KEYWORD: 듬직하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49978
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12697,13 +12697,13 @@ imported:
     - 발음: 듬지캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49978_deumjikamnida.wav
       형태: 듬직합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 듬직하다
     품사: 형용사
 ---
 000_KEYWORD: 듯__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49981
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12777,13 +12777,13 @@ imported:
     - 발음: 든만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49981_deunman.wav
       형태: 듯만
-processed:
+result:
   맞춤법 검사:
     표제어: 듯
     품사: 의존 명사
 ---
 000_KEYWORD: 듯싶다__보조_형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49985
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12821,7 +12821,7 @@ imported:
       형태: 듯싶으니
     - 발음: 듣씹씀니다
       형태: 듯싶습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-는
@@ -12831,7 +12831,7 @@ processed:
     품사: 보조 형용사
 ---
 000_KEYWORD: 듯이__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49987
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12877,13 +12877,13 @@ imported:
     표제어: 듯이
     품사: 의존 명사
     항목ID: 49987
-processed:
+result:
   맞춤법 검사:
     표제어: 듯이
     품사: 의존 명사
 ---
 000_KEYWORD: 듯하다__보조_형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49988
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12921,7 +12921,7 @@ imported:
       형태: 듯하니
     - 발음: 드탐니다
       형태: 듯합니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-는
@@ -12931,7 +12931,7 @@ processed:
     품사: 보조 형용사
 ---
 000_KEYWORD: 등-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74909
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -12949,11 +12949,11 @@ imported:
     표제어: 등-
     품사: 접사
     항목ID: 74909
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 등__대명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12962,13 +12962,13 @@ imported:
     표제어: 등
     품사: 대명사
     항목ID: 7678
-processed:
+result:
   맞춤법 검사:
     표제어: 등
     품사: 대명사
 ---
 000_KEYWORD: 등__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62455
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13019,13 +13019,13 @@ imported:
     표제어: 등
     품사: 명사
     항목ID: 62455
-processed:
+result:
   맞춤법 검사:
     표제어: 등
     품사: 명사
 ---
 000_KEYWORD: 등__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49993
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13055,13 +13055,13 @@ imported:
     표제어: 등
     품사: 명사
     항목ID: 49993
-processed:
+result:
   맞춤법 검사:
     표제어: 등
     품사: 명사
 ---
 000_KEYWORD: 등__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49992
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13110,13 +13110,13 @@ imported:
     표제어: 등
     품사: 의존 명사
     항목ID: 49992
-processed:
+result:
   맞춤법 검사:
     표제어: 등
     품사: 의존 명사
 ---
 000_KEYWORD: 등__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49990
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13148,13 +13148,13 @@ imported:
     표제어: 등
     품사: 의존 명사
     항목ID: 49990
-processed:
+result:
   맞춤법 검사:
     표제어: 등
     품사: 의존 명사
 ---
 000_KEYWORD: 등가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49996
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13179,13 +13179,13 @@ imported:
     표제어: 등가
     품사: 명사
     항목ID: 49996
-processed:
+result:
   맞춤법 검사:
     표제어: 등가
     품사: 명사
 ---
 000_KEYWORD: 등가교환__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13195,13 +13195,13 @@ imported:
     표제어: 등가교환
     품사: 명사:보통:서술성
     항목ID: 7680
-processed:
+result:
   맞춤법 검사:
     표제어: 등가교환
     품사: 명사
 ---
 000_KEYWORD: 등거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49998
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13227,13 +13227,13 @@ imported:
     표제어: 등거리
     품사: 명사
     항목ID: 49998
-processed:
+result:
   맞춤법 검사:
     표제어: 등거리
     품사: 명사
 ---
 000_KEYWORD: 등걸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50000
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13272,13 +13272,13 @@ imported:
     표제어: 등걸
     품사: 명사
     항목ID: 50000
-processed:
+result:
   맞춤법 검사:
     표제어: 등걸
     품사: 명사
 ---
 000_KEYWORD: 등고선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50003
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13307,13 +13307,13 @@ imported:
     표제어: 등고선
     품사: 명사
     항목ID: 50003
-processed:
+result:
   맞춤법 검사:
     표제어: 등고선
     품사: 명사
 ---
 000_KEYWORD: 등고자비__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13323,13 +13323,13 @@ imported:
     표제어: 등고자비
     품사: 명사:보통:서술성
     항목ID: 7682
-processed:
+result:
   맞춤법 검사:
     표제어: 등고자비
     품사: 명사
 ---
 000_KEYWORD: 등골__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50006
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13357,13 +13357,13 @@ imported:
     표제어: 등골
     품사: 명사
     항목ID: 50006
-processed:
+result:
   맞춤법 검사:
     표제어: 등골
     품사: 명사
 ---
 000_KEYWORD: 등골__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50009
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13395,13 +13395,13 @@ imported:
     표제어: 등골
     품사: 명사
     항목ID: 50009
-processed:
+result:
   맞춤법 검사:
     표제어: 등골
     품사: 명사
 ---
 000_KEYWORD: 등교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50018
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13432,13 +13432,13 @@ imported:
     표제어: 등교
     품사: 명사
     항목ID: 50018
-processed:
+result:
   맞춤법 검사:
     표제어: 등교
     품사: 명사
 ---
 000_KEYWORD: 등교하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50020
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13473,13 +13473,13 @@ imported:
     표제어: 등교하다
     품사: 동사
     항목ID: 50020
-processed:
+result:
   맞춤법 검사:
     표제어: 등교하다
     품사: 동사
 ---
 000_KEYWORD: 등굣길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50021
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13514,13 +13514,13 @@ imported:
     표제어: 등굣길
     품사: 명사
     항목ID: 50021
-processed:
+result:
   맞춤법 검사:
     표제어: 등굣길
     품사: 명사
 ---
 000_KEYWORD: 등극__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50023
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13568,13 +13568,13 @@ imported:
     - 발음: 등긍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/50023_deunggeungman.wav
       형태: 등극만
-processed:
+result:
   맞춤법 검사:
     표제어: 등극
     품사: 명사
 ---
 000_KEYWORD: 등극하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50025
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13615,13 +13615,13 @@ imported:
     표제어: 등극하다
     품사: 동사
     항목ID: 50025
-processed:
+result:
   맞춤법 검사:
     표제어: 등극하다
     품사: 동사
 ---
 000_KEYWORD: 등긁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50030
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13648,13 +13648,13 @@ imported:
     표제어: 등긁이
     품사: 명사
     항목ID: 50030
-processed:
+result:
   맞춤법 검사:
     표제어: 등긁이
     품사: 명사
 ---
 000_KEYWORD: 등급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50036
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13700,13 +13700,13 @@ imported:
     - 발음: 등ː금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/50036_deung-geumman.wav
       형태: 등급만
-processed:
+result:
   맞춤법 검사:
     표제어: 등급
     품사: 명사
 ---
 000_KEYWORD: 등급__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13715,13 +13715,13 @@ imported:
     표제어: 등급
     품사: 명사:의존:단위성
     항목ID: 7689
-processed:
+result:
   맞춤법 검사:
     표제어: 등급
     품사: 명사
 ---
 000_KEYWORD: 등기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50037
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13768,13 +13768,13 @@ imported:
     표제어: 등기
     품사: 명사
     항목ID: 50037
-processed:
+result:
   맞춤법 검사:
     표제어: 등기
     품사: 명사
 ---
 000_KEYWORD: 등기되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90916
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13804,13 +13804,13 @@ imported:
     표제어: 등기되다
     품사: 동사
     항목ID: 90916
-processed:
+result:
   맞춤법 검사:
     표제어: 등기되다
     품사: 동사
 ---
 000_KEYWORD: 등기부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50038
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13838,13 +13838,13 @@ imported:
     표제어: 등기부
     품사: 명사
     항목ID: 50038
-processed:
+result:
   맞춤법 검사:
     표제어: 등기부
     품사: 명사
 ---
 000_KEYWORD: 등기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50040
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13875,13 +13875,13 @@ imported:
     표제어: 등기하다
     품사: 동사
     항목ID: 50040
-processed:
+result:
   맞춤법 검사:
     표제어: 등기하다
     품사: 동사
 ---
 000_KEYWORD: 등나무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50041
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13911,13 +13911,13 @@ imported:
     표제어: 등나무
     품사: 명사
     항목ID: 50041
-processed:
+result:
   맞춤법 검사:
     표제어: 등나무
     품사: 명사
 ---
 000_KEYWORD: 등단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50042
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -13958,13 +13958,13 @@ imported:
     표제어: 등단
     품사: 명사
     항목ID: 50042
-processed:
+result:
   맞춤법 검사:
     표제어: 등단
     품사: 명사
 ---
 000_KEYWORD: 등단하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50043
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14007,13 +14007,13 @@ imported:
     표제어: 등단하다
     품사: 동사
     항목ID: 50043
-processed:
+result:
   맞춤법 검사:
     표제어: 등단하다
     품사: 동사
 ---
 000_KEYWORD: 등대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50044
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14057,13 +14057,13 @@ imported:
     표제어: 등대
     품사: 명사
     항목ID: 50044
-processed:
+result:
   맞춤법 검사:
     표제어: 등대
     품사: 명사
 ---
 000_KEYWORD: 등대지기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50045
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14087,13 +14087,13 @@ imported:
     표제어: 등대지기
     품사: 명사
     항목ID: 50045
-processed:
+result:
   맞춤법 검사:
     표제어: 등대지기
     품사: 명사
 ---
 000_KEYWORD: 등덜미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50047
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14118,13 +14118,13 @@ imported:
     표제어: 등덜미
     품사: 명사
     항목ID: 50047
-processed:
+result:
   맞춤법 검사:
     표제어: 등덜미
     품사: 명사
 ---
 000_KEYWORD: 등등__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14133,13 +14133,13 @@ imported:
     표제어: 등등
     품사: 명사:보통:서술성
     항목ID: 7697
-processed:
+result:
   맞춤법 검사:
     표제어: 등등
     품사: 명사
 ---
 000_KEYWORD: 등등__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50048
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14166,13 +14166,13 @@ imported:
     표제어: 등등
     품사: 의존 명사
     항목ID: 50048
-processed:
+result:
   맞춤법 검사:
     표제어: 등등
     품사: 의존 명사
 ---
 000_KEYWORD: 등등하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50049
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14212,13 +14212,13 @@ imported:
       형태: 등등하니
     - 발음: 등등함니다
       형태: 등등합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 등등하다
     품사: 형용사
 ---
 000_KEYWORD: 등딱지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50050
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14244,13 +14244,13 @@ imported:
     표제어: 등딱지
     품사: 명사
     항목ID: 50050
-processed:
+result:
   맞춤법 검사:
     표제어: 등딱지
     품사: 명사
 ---
 000_KEYWORD: 등락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50051
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14287,13 +14287,13 @@ imported:
     - 발음: 등낭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/50051_deungnangman.wav
       형태: 등락만
-processed:
+result:
   맞춤법 검사:
     표제어: 등락
     품사: 명사
 ---
 000_KEYWORD: 등락률__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14302,13 +14302,13 @@ imported:
     표제어: 등락률
     품사: 명사:보통:서술성
     항목ID: 7700
-processed:
+result:
   맞춤법 검사:
     표제어: 등락률
     품사: 명사
 ---
 000_KEYWORD: 등락폭__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14317,13 +14317,13 @@ imported:
     표제어: 등락폭
     품사: 명사:보통:서술성
     항목ID: 7701
-processed:
+result:
   맞춤법 검사:
     표제어: 등락폭
     품사: 명사
 ---
 000_KEYWORD: 등락하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50052
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14352,13 +14352,13 @@ imported:
     표제어: 등락하다
     품사: 동사
     항목ID: 50052
-processed:
+result:
   맞춤법 검사:
     표제어: 등락하다
     품사: 동사
 ---
 000_KEYWORD: 등록__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50053
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14398,13 +14398,13 @@ imported:
     - 발음: 등농만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/50053_deungnongman.wav
       형태: 등록만
-processed:
+result:
   맞춤법 검사:
     표제어: 등록
     품사: 명사
 ---
 000_KEYWORD: 등록금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50054
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14435,13 +14435,13 @@ imported:
     표제어: 등록금
     품사: 명사
     항목ID: 50054
-processed:
+result:
   맞춤법 검사:
     표제어: 등록금
     품사: 명사
 ---
 000_KEYWORD: 등록되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50055
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14488,13 +14488,13 @@ imported:
     표제어: 등록되다
     품사: 동사
     항목ID: 50055
-processed:
+result:
   맞춤법 검사:
     표제어: 등록되다
     품사: 동사
 ---
 000_KEYWORD: 등록번호__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14503,13 +14503,13 @@ imported:
     표제어: 등록번호
     품사: 명사:보통:비서술성
     항목ID: 7705
-processed:
+result:
   맞춤법 검사:
     표제어: 등록번호
     품사: 명사
 ---
 000_KEYWORD: 등록비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50056
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14534,13 +14534,13 @@ imported:
     표제어: 등록비
     품사: 명사
     항목ID: 50056
-processed:
+result:
   맞춤법 검사:
     표제어: 등록비
     품사: 명사
 ---
 000_KEYWORD: 등록세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50057
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14568,13 +14568,13 @@ imported:
     표제어: 등록세
     품사: 명사
     항목ID: 50057
-processed:
+result:
   맞춤법 검사:
     표제어: 등록세
     품사: 명사
 ---
 000_KEYWORD: 등록자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14583,13 +14583,13 @@ imported:
     표제어: 등록자
     품사: 명사:보통:비서술성
     항목ID: 7707
-processed:
+result:
   맞춤법 검사:
     표제어: 등록자
     품사: 명사
 ---
 000_KEYWORD: 등록증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15068
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14616,13 +14616,13 @@ imported:
     표제어: 등록증
     품사: 명사
     항목ID: 15068
-processed:
+result:
   맞춤법 검사:
     표제어: 등록증
     품사: 명사
 ---
 000_KEYWORD: 등록하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15063
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14665,13 +14665,13 @@ imported:
     표제어: 등록하다
     품사: 동사
     항목ID: 15063
-processed:
+result:
   맞춤법 검사:
     표제어: 등록하다
     품사: 동사
 ---
 000_KEYWORD: 등롱__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14681,13 +14681,13 @@ imported:
     표제어: 등롱
     품사: 명사:보통:비서술성
     항목ID: 7711
-processed:
+result:
   맞춤법 검사:
     표제어: 등롱
     품사: 명사
 ---
 000_KEYWORD: 등목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90987
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14731,13 +14731,13 @@ imported:
     - 발음: 등몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/90987_deungmongman.wav
       형태: 등목만
-processed:
+result:
   맞춤법 검사:
     표제어: 등목
     품사: 명사
 ---
 000_KEYWORD: 등물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90986
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14771,13 +14771,13 @@ imported:
     표제어: 등물
     품사: 명사
     항목ID: 90986
-processed:
+result:
   맞춤법 검사:
     표제어: 등물
     품사: 명사
 ---
 000_KEYWORD: 등반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50059
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14807,13 +14807,13 @@ imported:
     표제어: 등반
     품사: 명사
     항목ID: 50059
-processed:
+result:
   맞춤법 검사:
     표제어: 등반
     품사: 명사
 ---
 000_KEYWORD: 등반객__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14822,13 +14822,13 @@ imported:
     표제어: 등반객
     품사: 명사:보통:비서술성
     항목ID: 7714
-processed:
+result:
   맞춤법 검사:
     표제어: 등반객
     품사: 명사
 ---
 000_KEYWORD: 등반하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50067
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14857,13 +14857,13 @@ imported:
     표제어: 등반하다
     품사: 동사
     항목ID: 50067
-processed:
+result:
   맞춤법 검사:
     표제어: 등반하다
     품사: 동사
 ---
 000_KEYWORD: 등받이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50068
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14884,13 +14884,13 @@ imported:
     표제어: 등받이
     품사: 명사
     항목ID: 50068
-processed:
+result:
   맞춤법 검사:
     표제어: 등받이
     품사: 명사
 ---
 000_KEYWORD: 등본__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50070
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14918,13 +14918,13 @@ imported:
     표제어: 등본
     품사: 명사
     항목ID: 50070
-processed:
+result:
   맞춤법 검사:
     표제어: 등본
     품사: 명사
 ---
 000_KEYWORD: 등분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50071
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -14966,13 +14966,13 @@ imported:
     표제어: 등분
     품사: 명사
     항목ID: 50071
-processed:
+result:
   맞춤법 검사:
     표제어: 등분
     품사: 명사
 ---
 000_KEYWORD: 등분되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90917
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15003,13 +15003,13 @@ imported:
     표제어: 등분되다
     품사: 동사
     항목ID: 90917
-processed:
+result:
   맞춤법 검사:
     표제어: 등분되다
     품사: 동사
 ---
 000_KEYWORD: 등분하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50072
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15039,13 +15039,13 @@ imported:
     표제어: 등분하다
     품사: 동사
     항목ID: 50072
-processed:
+result:
   맞춤법 검사:
     표제어: 등분하다
     품사: 동사
 ---
 000_KEYWORD: 등불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50073
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15100,13 +15100,13 @@ imported:
     표제어: 등불
     품사: 명사
     항목ID: 50073
-processed:
+result:
   맞춤법 검사:
     표제어: 등불
     품사: 명사
 ---
 000_KEYWORD: 등비수열__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15116,13 +15116,13 @@ imported:
     표제어: 등비수열
     품사: 명사:보통:서술성
     항목ID: 7720
-processed:
+result:
   맞춤법 검사:
     표제어: 등비수열
     품사: 명사
 ---
 000_KEYWORD: 등뼈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50074
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15149,13 +15149,13 @@ imported:
     표제어: 등뼈
     품사: 명사
     항목ID: 50074
-processed:
+result:
   맞춤법 검사:
     표제어: 등뼈
     품사: 명사
 ---
 000_KEYWORD: 등산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40293
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15199,13 +15199,13 @@ imported:
     표제어: 등산
     품사: 명사
     항목ID: 40293
-processed:
+result:
   맞춤법 검사:
     표제어: 등산
     품사: 명사
 ---
 000_KEYWORD: 등산가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48775
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15232,13 +15232,13 @@ imported:
     표제어: 등산가
     품사: 명사
     항목ID: 48775
-processed:
+result:
   맞춤법 검사:
     표제어: 등산가
     품사: 명사
 ---
 000_KEYWORD: 등산객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48777
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15276,13 +15276,13 @@ imported:
     - 발음: 등산갱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/48777_deungsangaengman.wav
       형태: 등산객만
-processed:
+result:
   맞춤법 검사:
     표제어: 등산객
     품사: 명사
 ---
 000_KEYWORD: 등산로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48785
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15310,13 +15310,13 @@ imported:
     표제어: 등산로
     품사: 명사
     항목ID: 48785
-processed:
+result:
   맞춤법 검사:
     표제어: 등산로
     품사: 명사
 ---
 000_KEYWORD: 등산모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48798
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15345,13 +15345,13 @@ imported:
     표제어: 등산모
     품사: 명사
     항목ID: 48798
-processed:
+result:
   맞춤법 검사:
     표제어: 등산모
     품사: 명사
 ---
 000_KEYWORD: 등산복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48799
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15394,13 +15394,13 @@ imported:
     - 발음: 등산봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/48799_deungsanbongman.wav
       형태: 등산복만
-processed:
+result:
   맞춤법 검사:
     표제어: 등산복
     품사: 명사
 ---
 000_KEYWORD: 등산하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48802
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15433,13 +15433,13 @@ imported:
     표제어: 등산하다
     품사: 동사
     항목ID: 48802
-processed:
+result:
   맞춤법 검사:
     표제어: 등산하다
     품사: 동사
 ---
 000_KEYWORD: 등산화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48804
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15470,13 +15470,13 @@ imported:
     표제어: 등산화
     품사: 명사
     항목ID: 48804
-processed:
+result:
   맞춤법 검사:
     표제어: 등산화
     품사: 명사
 ---
 000_KEYWORD: 등살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49100
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15503,13 +15503,13 @@ imported:
     표제어: 등살
     품사: 명사
     항목ID: 49100
-processed:
+result:
   맞춤법 검사:
     표제어: 등살
     품사: 명사
 ---
 000_KEYWORD: 등성이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49101
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15543,13 +15543,13 @@ imported:
     표제어: 등성이
     품사: 명사
     항목ID: 49101
-processed:
+result:
   맞춤법 검사:
     표제어: 등성이
     품사: 명사
 ---
 000_KEYWORD: 등수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49102
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15577,13 +15577,13 @@ imported:
     표제어: 등수
     품사: 명사
     항목ID: 49102
-processed:
+result:
   맞춤법 검사:
     표제어: 등수
     품사: 명사
 ---
 000_KEYWORD: 등식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49103
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15634,13 +15634,13 @@ imported:
     - 발음: 등ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/49103_deung-singman.wav
       형태: 등식만
-processed:
+result:
   맞춤법 검사:
     표제어: 등식
     품사: 명사
 ---
 000_KEYWORD: 등심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49105
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15669,13 +15669,13 @@ imported:
     표제어: 등심
     품사: 명사
     항목ID: 49105
-processed:
+result:
   맞춤법 검사:
     표제어: 등심
     품사: 명사
 ---
 000_KEYWORD: 등쌀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49106
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15702,13 +15702,13 @@ imported:
     표제어: 등쌀
     품사: 명사
     항목ID: 49106
-processed:
+result:
   맞춤법 검사:
     표제어: 등쌀
     품사: 명사
 ---
 000_KEYWORD: 등용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49108
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15733,13 +15733,13 @@ imported:
     표제어: 등용
     품사: 명사
     항목ID: 49108
-processed:
+result:
   맞춤법 검사:
     표제어: 등용
     품사: 명사
 ---
 000_KEYWORD: 등용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49109
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15768,13 +15768,13 @@ imported:
     표제어: 등용되다
     품사: 동사
     항목ID: 49109
-processed:
+result:
   맞춤법 검사:
     표제어: 등용되다
     품사: 동사
 ---
 000_KEYWORD: 등용문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49110
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15798,13 +15798,13 @@ imported:
     표제어: 등용문
     품사: 명사
     항목ID: 49110
-processed:
+result:
   맞춤법 검사:
     표제어: 등용문
     품사: 명사
 ---
 000_KEYWORD: 등용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49111
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15831,13 +15831,13 @@ imported:
     표제어: 등용하다
     품사: 동사
     항목ID: 49111
-processed:
+result:
   맞춤법 검사:
     표제어: 등용하다
     품사: 동사
 ---
 000_KEYWORD: 등원__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15848,13 +15848,13 @@ imported:
     표제어: 등원
     품사: 명사:보통:서술성
     항목ID: 7733
-processed:
+result:
   맞춤법 검사:
     표제어: 등원
     품사: 명사
 ---
 000_KEYWORD: 등원하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15865,13 +15865,13 @@ imported:
     표제어: 등원하다
     품사: 동사
     항목ID: 7734
-processed:
+result:
   맞춤법 검사:
     표제어: 등원하다
     품사: 동사
 ---
 000_KEYWORD: 등위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49689
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15912,13 +15912,13 @@ imported:
     표제어: 등위
     품사: 명사
     항목ID: 49689
-processed:
+result:
   맞춤법 검사:
     표제어: 등위
     품사: 명사
 ---
 000_KEYWORD: 등위하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49690
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15947,13 +15947,13 @@ imported:
     표제어: 등위하다
     품사: 동사
     항목ID: 49690
-processed:
+result:
   맞춤법 검사:
     표제어: 등위하다
     품사: 동사
 ---
 000_KEYWORD: 등유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49113
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -15994,13 +15994,13 @@ imported:
     표제어: 등유
     품사: 명사
     항목ID: 49113
-processed:
+result:
   맞춤법 검사:
     표제어: 등유
     품사: 명사
 ---
 000_KEYWORD: 등잔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49114
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16028,13 +16028,13 @@ imported:
     표제어: 등잔
     품사: 명사
     항목ID: 49114
-processed:
+result:
   맞춤법 검사:
     표제어: 등잔
     품사: 명사
 ---
 000_KEYWORD: 등잔불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49115
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16066,13 +16066,13 @@ imported:
     표제어: 등잔불
     품사: 명사
     항목ID: 49115
-processed:
+result:
   맞춤법 검사:
     표제어: 등잔불
     품사: 명사
 ---
 000_KEYWORD: 등장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15030
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16131,13 +16131,13 @@ imported:
     표제어: 등장
     품사: 명사
     항목ID: 15030
-processed:
+result:
   맞춤법 검사:
     표제어: 등장
     품사: 명사
 ---
 000_KEYWORD: 등장시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49691
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16190,13 +16190,13 @@ imported:
     표제어: 등장시키다
     품사: 동사
     항목ID: 49691
-processed:
+result:
   맞춤법 검사:
     표제어: 등장시키다
     품사: 동사
 ---
 000_KEYWORD: 등장인물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49692
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16225,13 +16225,13 @@ imported:
     표제어: 등장인물
     품사: 명사
     항목ID: 49692
-processed:
+result:
   맞춤법 검사:
     표제어: 등장인물
     품사: 명사
 ---
 000_KEYWORD: 등장하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15048
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16292,13 +16292,13 @@ imported:
     표제어: 등장하다
     품사: 동사
     항목ID: 15048
-processed:
+result:
   맞춤법 검사:
     표제어: 등장하다
     품사: 동사
 ---
 000_KEYWORD: 등재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92450
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16348,13 +16348,13 @@ imported:
     표제어: 등재
     품사: 명사
     항목ID: 92450
-processed:
+result:
   맞춤법 검사:
     표제어: 등재
     품사: 명사
 ---
 000_KEYWORD: 등재되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49694
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16398,13 +16398,13 @@ imported:
     표제어: 등재되다
     품사: 동사
     항목ID: 49694
-processed:
+result:
   맞춤법 검사:
     표제어: 등재되다
     품사: 동사
 ---
 000_KEYWORD: 등재하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49693
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16447,13 +16447,13 @@ imported:
     표제어: 등재하다
     품사: 동사
     항목ID: 49693
-processed:
+result:
   맞춤법 검사:
     표제어: 등재하다
     품사: 동사
 ---
 000_KEYWORD: 등정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49697
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16478,13 +16478,13 @@ imported:
     표제어: 등정
     품사: 명사
     항목ID: 49697
-processed:
+result:
   맞춤법 검사:
     표제어: 등정
     품사: 명사
 ---
 000_KEYWORD: 등정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49695
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16513,13 +16513,13 @@ imported:
     표제어: 등정하다
     품사: 동사
     항목ID: 49695
-processed:
+result:
   맞춤법 검사:
     표제어: 등정하다
     품사: 동사
 ---
 000_KEYWORD: 등줄기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49698
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16545,13 +16545,13 @@ imported:
     표제어: 등줄기
     품사: 명사
     항목ID: 49698
-processed:
+result:
   맞춤법 검사:
     표제어: 등줄기
     품사: 명사
 ---
 000_KEYWORD: 등지__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16560,13 +16560,13 @@ imported:
     표제어: 등지
     품사: 명사:보통:서술성
     항목ID: 7741
-processed:
+result:
   맞춤법 검사:
     표제어: 등지
     품사: 명사
 ---
 000_KEYWORD: 등지__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49699
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16596,13 +16596,13 @@ imported:
     표제어: 등지
     품사: 의존 명사
     항목ID: 49699
-processed:
+result:
   맞춤법 검사:
     표제어: 등지
     품사: 의존 명사
 ---
 000_KEYWORD: 등지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86864
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16671,13 +16671,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/86864_deungjeo.wav
       형태: 등져
     - 형태: 등지니
-processed:
+result:
   맞춤법 검사:
     표제어: 등지다
     품사: 동사
 ---
 000_KEYWORD: 등짐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49701
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16705,13 +16705,13 @@ imported:
     표제어: 등짐
     품사: 명사
     항목ID: 49701
-processed:
+result:
   맞춤법 검사:
     표제어: 등짐
     품사: 명사
 ---
 000_KEYWORD: 등짐장수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49700
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16739,13 +16739,13 @@ imported:
     표제어: 등짐장수
     품사: 명사
     항목ID: 49700
-processed:
+result:
   맞춤법 검사:
     표제어: 등짐장수
     품사: 명사
 ---
 000_KEYWORD: 등짝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49705
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16782,13 +16782,13 @@ imported:
     - 발음: 등짱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49705_deungjjangman.wav
       형태: 등짝만
-processed:
+result:
   맞춤법 검사:
     표제어: 등짝
     품사: 명사
 ---
 000_KEYWORD: 등차수열__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16798,13 +16798,13 @@ imported:
     표제어: 등차수열
     품사: 명사:보통:서술성
     항목ID: 7742
-processed:
+result:
   맞춤법 검사:
     표제어: 등차수열
     품사: 명사
 ---
 000_KEYWORD: 등치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52819
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16843,13 +16843,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/52819_deungcheo.wav
       형태: 등쳐
     - 형태: 등치니
-processed:
+result:
   맞춤법 검사:
     표제어: 등치다
     품사: 동사
 ---
 000_KEYWORD: 등판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52820
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16889,13 +16889,13 @@ imported:
     표제어: 등판
     품사: 명사
     항목ID: 52820
-processed:
+result:
   맞춤법 검사:
     표제어: 등판
     품사: 명사
 ---
 000_KEYWORD: 등판__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52821
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16927,13 +16927,13 @@ imported:
     표제어: 등판
     품사: 명사
     항목ID: 52821
-processed:
+result:
   맞춤법 검사:
     표제어: 등판
     품사: 명사
 ---
 000_KEYWORD: 등판하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52833
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16963,13 +16963,13 @@ imported:
     표제어: 등판하다
     품사: 동사
     항목ID: 52833
-processed:
+result:
   맞춤법 검사:
     표제어: 등판하다
     품사: 동사
 ---
 000_KEYWORD: 등한시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52824
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -16995,13 +16995,13 @@ imported:
     표제어: 등한시
     품사: 명사
     항목ID: 52824
-processed:
+result:
   맞춤법 검사:
     표제어: 등한시
     품사: 명사
 ---
 000_KEYWORD: 등한시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52823
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17033,13 +17033,13 @@ imported:
     표제어: 등한시되다
     품사: 동사
     항목ID: 52823
-processed:
+result:
   맞춤법 검사:
     표제어: 등한시되다
     품사: 동사
 ---
 000_KEYWORD: 등한시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52827
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17069,13 +17069,13 @@ imported:
     표제어: 등한시하다
     품사: 동사
     항목ID: 52827
-processed:
+result:
   맞춤법 검사:
     표제어: 등한시하다
     품사: 동사
 ---
 000_KEYWORD: 등한하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52829
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17115,13 +17115,13 @@ imported:
       형태: 등한하니
     - 발음: 등ː한함니다
       형태: 등한합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 등한하다
     품사: 형용사
 ---
 000_KEYWORD: 등한히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52830
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17149,13 +17149,13 @@ imported:
     표제어: 등한히
     품사: 부사
     항목ID: 52830
-processed:
+result:
   맞춤법 검사:
     표제어: 등한히
     품사: 부사
 ---
 000_KEYWORD: 등허리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52832
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17198,13 +17198,13 @@ imported:
     표제어: 등허리
     품사: 명사
     항목ID: 52832
-processed:
+result:
   맞춤법 검사:
     표제어: 등허리
     품사: 명사
 ---
 000_KEYWORD: 등호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53917
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17231,13 +17231,13 @@ imported:
     표제어: 등호
     품사: 명사
     항목ID: 53917
-processed:
+result:
   맞춤법 검사:
     표제어: 등호
     품사: 명사
 ---
 000_KEYWORD: 등화관제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -17247,7 +17247,7 @@ imported:
     표제어: 등화관제
     품사: 명사:보통:서술성
     항목ID: 7746
-processed:
+result:
   맞춤법 검사:
     표제어: 등화관제
     품사: 명사

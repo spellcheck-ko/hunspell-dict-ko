@@ -1,5 +1,5 @@
 000_KEYWORD: 쉬__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65195
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -21,13 +21,13 @@ imported:
     표제어: 쉬
     품사: 감탄사
     항목ID: 65195
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬
     품사: 감탄사
 ---
 000_KEYWORD: 쉬__감탄사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65199
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -53,13 +53,13 @@ imported:
     표제어: 쉬
     품사: 감탄사
     항목ID: 65199
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬
     품사: 감탄사
 ---
 000_KEYWORD: 쉬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65194
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -85,13 +85,13 @@ imported:
     표제어: 쉬
     품사: 명사
     항목ID: 65194
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬
     품사: 명사
 ---
 000_KEYWORD: 쉬__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65198
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -161,13 +161,13 @@ imported:
     표제어: 쉬
     품사: 부사
     항목ID: 65198
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬
     품사: 부사
 ---
 000_KEYWORD: 쉬다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65202
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -206,13 +206,13 @@ imported:
     - 발음: 쉬ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/siot_2006/swi-ni.wav
       형태: 쉬니
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬다
     품사: 동사
 ---
 000_KEYWORD: 쉬다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65205
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -256,13 +256,13 @@ imported:
     - 발음: 쉬ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/siot_2006/swi-ni.wav
       형태: 쉬니
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬다
     품사: 동사
 ---
 000_KEYWORD: 쉬다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71280
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -371,13 +371,13 @@ imported:
     - 발음: 쉬ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/siot_2006/swi-ni.wav
       형태: 쉬니
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬다
     품사: 동사
 ---
 000_KEYWORD: 쉬다__동사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62819
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -417,13 +417,13 @@ imported:
     - 발음: 쉬ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/62819_swi-ni.wav
       형태: 쉬니
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬다
     품사: 동사
 ---
 000_KEYWORD: 쉬쉬하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65224
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -452,13 +452,13 @@ imported:
     표제어: 쉬쉬하다
     품사: 동사
     항목ID: 65224
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬쉬하다
     품사: 동사
 ---
 000_KEYWORD: 쉬엄쉬엄__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65227
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -500,13 +500,13 @@ imported:
     표제어: 쉬엄쉬엄
     품사: 부사
     항목ID: 65227
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬엄쉬엄
     품사: 부사
 ---
 000_KEYWORD: 쉬엄쉬엄하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -516,13 +516,13 @@ imported:
     표제어: 쉬엄쉬엄하다
     품사: 동사
     항목ID: 15953
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬엄쉬엄하다
     품사: 동사
 ---
 000_KEYWORD: 쉬이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65229
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -596,13 +596,13 @@ imported:
     표제어: 쉬이
     품사: 부사
     항목ID: 65229
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬이
     품사: 부사
 ---
 000_KEYWORD: 쉬하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65230
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -630,13 +630,13 @@ imported:
     표제어: 쉬하다
     품사: 동사
     항목ID: 65230
-processed:
+result:
   맞춤법 검사:
     표제어: 쉬하다
     품사: 동사
 ---
 000_KEYWORD: 쉭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65231
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -663,13 +663,13 @@ imported:
     표제어: 쉭
     품사: 부사
     항목ID: 65231
-processed:
+result:
   맞춤법 검사:
     표제어: 쉭
     품사: 부사
 ---
 000_KEYWORD: 쉭쉭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65233
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -712,13 +712,13 @@ imported:
     표제어: 쉭쉭
     품사: 부사
     항목ID: 65233
-processed:
+result:
   맞춤법 검사:
     표제어: 쉭쉭
     품사: 부사
 ---
 000_KEYWORD: 쉰__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65238
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -751,13 +751,13 @@ imported:
     표제어: 쉰
     품사: 관형사
     항목ID: 65238
-processed:
+result:
   맞춤법 검사:
     표제어: 쉰
     품사: 관형사
 ---
 000_KEYWORD: 쉰__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93500
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -789,17 +789,17 @@ imported:
     표제어: 쉰
     품사: 수사
     항목ID: 93500
-processed:
+result:
   맞춤법 검사:
     표제어: 쉰
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 고유수:10
 ---
 000_KEYWORD: 쉰내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65240
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -840,13 +840,13 @@ imported:
     표제어: 쉰내
     품사: 명사
     항목ID: 65240
-processed:
+result:
   맞춤법 검사:
     표제어: 쉰내
     품사: 명사
 ---
 000_KEYWORD: 쉼터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65258
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -879,13 +879,13 @@ imported:
     표제어: 쉼터
     품사: 명사
     항목ID: 65258
-processed:
+result:
   맞춤법 검사:
     표제어: 쉼터
     품사: 명사
 ---
 000_KEYWORD: 쉼표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65263
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -939,13 +939,13 @@ imported:
     표제어: 쉼표
     품사: 명사
     항목ID: 65263
-processed:
+result:
   맞춤법 검사:
     표제어: 쉼표
     품사: 명사
 ---
 000_KEYWORD: 쉽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66314
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1052,7 +1052,7 @@ imported:
       형태: 쉬우니
     - 발음: 쉽ː씀니다
       형태: 쉽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1060,7 +1060,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 쉽사리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65265
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1099,13 +1099,13 @@ imported:
     표제어: 쉽사리
     품사: 부사
     항목ID: 65265
-processed:
+result:
   맞춤법 검사:
     표제어: 쉽사리
     품사: 부사
 ---
 000_KEYWORD: 쉿__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65268
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1131,7 +1131,7 @@ imported:
     표제어: 쉿
     품사: 감탄사
     항목ID: 65268
-processed:
+result:
   맞춤법 검사:
     표제어: 쉿
     품사: 감탄사

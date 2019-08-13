@@ -1,5 +1,5 @@
 000_KEYWORD: -스럽다__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71244
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -48,11 +48,11 @@ imported:
     표제어: -스럽다
     품사: 접사
     항목ID: 71244
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -스레하다__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92096
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -77,11 +77,11 @@ imported:
     표제어: -스레하다
     품사: 접사
     항목ID: 92096
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -스름하다__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71245
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -112,11 +112,11 @@ imported:
     표제어: -스름하다
     품사: 접사
     항목ID: 71245
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -습네__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86561
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -140,11 +140,11 @@ imported:
     표제어: -습네
     품사: 어미
     항목ID: 86561
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -습니까__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79402
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -168,11 +168,11 @@ imported:
     표제어: -습니까
     품사: 어미
     항목ID: 79402
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -습니다__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79398
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -196,11 +196,11 @@ imported:
     표제어: -습니다
     품사: 어미
     항목ID: 79398
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -습디까__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80536
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -224,11 +224,11 @@ imported:
     표제어: -습디까
     품사: 어미
     항목ID: 80536
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -습디다__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80530
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -252,11 +252,11 @@ imported:
     표제어: -습디다
     품사: 어미
     항목ID: 80530
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -습죠__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80550
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -284,11 +284,11 @@ imported:
     표제어: -습죠
     품사: 어미
     항목ID: 80550
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -습지요__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80547
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -316,11 +316,11 @@ imported:
     표제어: -습지요
     품사: 어미
     항목ID: 80547
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 스낵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65298
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -349,13 +349,13 @@ imported:
     표제어: 스낵
     품사: 명사
     항목ID: 65298
-processed:
+result:
   맞춤법 검사:
     표제어: 스낵
     품사: 명사
 ---
 000_KEYWORD: 스낵바__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -365,13 +365,13 @@ imported:
     표제어: 스낵바
     품사: 명사:보통:비서술성
     항목ID: 15968
-processed:
+result:
   맞춤법 검사:
     표제어: 스낵바
     품사: 명사
 ---
 000_KEYWORD: 스냅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65303
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -428,13 +428,13 @@ imported:
     표제어: 스냅
     품사: 명사
     항목ID: 65303
-processed:
+result:
   맞춤법 검사:
     표제어: 스냅
     품사: 명사
 ---
 000_KEYWORD: 스노보드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65316
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -468,13 +468,13 @@ imported:
     표제어: 스노보드
     품사: 명사
     항목ID: 65316
-processed:
+result:
   맞춤법 검사:
     표제어: 스노보드
     품사: 명사
 ---
 000_KEYWORD: 스노우보드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -483,13 +483,13 @@ imported:
     표제어: 스노우보드
     품사: 명사:보통:비서술성
     항목ID: 15969
-processed:
+result:
   맞춤법 검사:
     표제어: 스노우보드
     품사: 명사
 ---
 000_KEYWORD: 스노클__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -500,13 +500,13 @@ imported:
     표제어: 스노클
     품사: 명사:보통:비서술성
     항목ID: 15970
-processed:
+result:
   맞춤법 검사:
     표제어: 스노클
     품사: 명사
 ---
 000_KEYWORD: 스님__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65320
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -548,13 +548,13 @@ imported:
     표제어: 스님
     품사: 명사
     항목ID: 65320
-processed:
+result:
   맞춤법 검사:
     표제어: 스님
     품사: 명사
 ---
 000_KEYWORD: 스러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65329
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -625,7 +625,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/65329_seureojeo.wav
       형태: 스러져
     - 형태: 스러지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -633,7 +633,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 스로틀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -645,13 +645,13 @@ imported:
     표제어: 스로틀
     품사: 명사:보통:서술성
     항목ID: 15972
-processed:
+result:
   맞춤법 검사:
     표제어: 스로틀
     품사: 명사
 ---
 000_KEYWORD: 스르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65335
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -748,13 +748,13 @@ imported:
     표제어: 스르르
     품사: 부사
     항목ID: 65335
-processed:
+result:
   맞춤법 검사:
     표제어: 스르르
     품사: 부사
 ---
 000_KEYWORD: 스르륵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65341
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -783,13 +783,13 @@ imported:
     표제어: 스르륵
     품사: 부사
     항목ID: 65341
-processed:
+result:
   맞춤법 검사:
     표제어: 스르륵
     품사: 부사
 ---
 000_KEYWORD: 스리랑카__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69779
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -808,13 +808,13 @@ imported:
     표제어: 스리랑카
     품사: 명사
     항목ID: 69779
-processed:
+result:
   맞춤법 검사:
     표제어: 스리랑카
     품사: 명사
 ---
 000_KEYWORD: 스리슬쩍__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -824,13 +824,13 @@ imported:
     표제어: 스리슬쩍
     품사: 부사
     항목ID: 15974
-processed:
+result:
   맞춤법 검사:
     표제어: 스리슬쩍
     품사: 부사
 ---
 000_KEYWORD: 스릴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65348
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -856,13 +856,13 @@ imported:
     표제어: 스릴
     품사: 명사
     항목ID: 65348
-processed:
+result:
   맞춤법 검사:
     표제어: 스릴
     품사: 명사
 ---
 000_KEYWORD: 스마일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65349
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -884,13 +884,13 @@ imported:
     표제어: 스마일
     품사: 명사
     항목ID: 65349
-processed:
+result:
   맞춤법 검사:
     표제어: 스마일
     품사: 명사
 ---
 000_KEYWORD: 스마트폰__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -899,13 +899,13 @@ imported:
     표제어: 스마트폰
     품사: 명사:보통:비서술성
     항목ID: 15977
-processed:
+result:
   맞춤법 검사:
     표제어: 스마트폰
     품사: 명사
 ---
 000_KEYWORD: 스마트하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65518
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -936,13 +936,13 @@ imported:
     - 형태: 스마트하여
     - 형태: 스마트하니
     - 형태: 스마트합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 스마트하다
     품사: 형용사
 ---
 000_KEYWORD: 스매시__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -953,13 +953,13 @@ imported:
     표제어: 스매시
     품사: 명사:보통:서술성
     항목ID: 15978
-processed:
+result:
   맞춤법 검사:
     표제어: 스매시
     품사: 명사
 ---
 000_KEYWORD: 스멀거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65350
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -994,13 +994,13 @@ imported:
     표제어: 스멀거리다
     품사: 동사
     항목ID: 65350
-processed:
+result:
   맞춤법 검사:
     표제어: 스멀거리다
     품사: 동사
 ---
 000_KEYWORD: 스멀대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89556
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1035,13 +1035,13 @@ imported:
     표제어: 스멀대다
     품사: 동사
     항목ID: 89556
-processed:
+result:
   맞춤법 검사:
     표제어: 스멀대다
     품사: 동사
 ---
 000_KEYWORD: 스멀스멀__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65356
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1068,13 +1068,13 @@ imported:
     표제어: 스멀스멀
     품사: 부사
     항목ID: 65356
-processed:
+result:
   맞춤법 검사:
     표제어: 스멀스멀
     품사: 부사
 ---
 000_KEYWORD: 스멀스멀하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89557
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1109,13 +1109,13 @@ imported:
     표제어: 스멀스멀하다
     품사: 동사
     항목ID: 89557
-processed:
+result:
   맞춤법 검사:
     표제어: 스멀스멀하다
     품사: 동사
 ---
 000_KEYWORD: 스며들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65361
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1180,17 +1180,17 @@ imported:
     - 발음: 스며듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/65361_seumyeodeumnida.wav
       형태: 스며듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 스며들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 스모그__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65363
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1220,13 +1220,13 @@ imported:
     표제어: 스모그
     품사: 명사
     항목ID: 65363
-processed:
+result:
   맞춤법 검사:
     표제어: 스모그
     품사: 명사
 ---
 000_KEYWORD: 스무__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17822
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1255,13 +1255,13 @@ imported:
     표제어: 스무
     품사: 관형사
     항목ID: 17822
-processed:
+result:
   맞춤법 검사:
     표제어: 스무
     품사: 관형사
 ---
 000_KEYWORD: 스무고개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65083
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1290,13 +1290,13 @@ imported:
     표제어: 스무고개
     품사: 명사
     항목ID: 65083
-processed:
+result:
   맞춤법 검사:
     표제어: 스무고개
     품사: 명사
 ---
 000_KEYWORD: 스물__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93505
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1326,17 +1326,17 @@ imported:
     표제어: 스물
     품사: 수사
     항목ID: 93505
-processed:
+result:
   맞춤법 검사:
     표제어: 스물
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 고유수:10
 ---
 000_KEYWORD: 스미다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65082
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1406,13 +1406,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/65082_seumiyeo.wav
       형태: 스미어
     - 형태: 스미니
-processed:
+result:
   맞춤법 검사:
     표제어: 스미다
     품사: 동사
 ---
 000_KEYWORD: 스산하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65080
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1480,13 +1480,13 @@ imported:
       형태: 스산하니
     - 발음: 스산함니다
       형태: 스산합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 스산하다
     품사: 형용사
 ---
 000_KEYWORD: 스스럼없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65065
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1536,13 +1536,13 @@ imported:
     - 발음: 스스러멉찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/65065_seuseureomeopjji.wav
       형태: 스스럼없지
-processed:
+result:
   맞춤법 검사:
     표제어: 스스럼없다
     품사: 형용사
 ---
 000_KEYWORD: 스스럼없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65079
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1572,13 +1572,13 @@ imported:
     표제어: 스스럼없이
     품사: 부사
     항목ID: 65079
-processed:
+result:
   맞춤법 검사:
     표제어: 스스럼없이
     품사: 부사
 ---
 000_KEYWORD: 스스로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62475
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1600,13 +1600,13 @@ imported:
     표제어: 스스로
     품사: 명사
     항목ID: 62475
-processed:
+result:
   맞춤법 검사:
     표제어: 스스로
     품사: 명사
 ---
 000_KEYWORD: 스스로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62476
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1637,13 +1637,13 @@ imported:
     표제어: 스스로
     품사: 부사
     항목ID: 62476
-processed:
+result:
   맞춤법 검사:
     표제어: 스스로
     품사: 부사
 ---
 000_KEYWORD: 스승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15828
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1675,13 +1675,13 @@ imported:
     표제어: 스승
     품사: 명사
     항목ID: 15828
-processed:
+result:
   맞춤법 검사:
     표제어: 스승
     품사: 명사
 ---
 000_KEYWORD: 스시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65064
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1712,13 +1712,13 @@ imported:
     표제어: 스시
     품사: 명사
     항목ID: 65064
-processed:
+result:
   맞춤법 검사:
     표제어: 스시
     품사: 명사
 ---
 000_KEYWORD: 스와질란드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1727,13 +1727,13 @@ imported:
     표제어: 스와질란드
     품사: 명사:고유
     항목ID: 15990
-processed:
+result:
   맞춤법 검사:
     표제어: 스와질란드
     품사: 명사
 ---
 000_KEYWORD: 스웨덴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69784
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1752,13 +1752,13 @@ imported:
     표제어: 스웨덴
     품사: 명사
     항목ID: 69784
-processed:
+result:
   맞춤법 검사:
     표제어: 스웨덴
     품사: 명사
 ---
 000_KEYWORD: 스웨덴어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93459
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1790,13 +1790,13 @@ imported:
     표제어: 스웨덴어
     품사: 명사
     항목ID: 93459
-processed:
+result:
   맞춤법 검사:
     표제어: 스웨덴어
     품사: 명사
 ---
 000_KEYWORD: 스웨터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65063
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1829,13 +1829,13 @@ imported:
     표제어: 스웨터
     품사: 명사
     항목ID: 65063
-processed:
+result:
   맞춤법 검사:
     표제어: 스웨터
     품사: 명사
 ---
 000_KEYWORD: 스위스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69795
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1853,13 +1853,13 @@ imported:
     표제어: 스위스
     품사: 명사
     항목ID: 69795
-processed:
+result:
   맞춤법 검사:
     표제어: 스위스
     품사: 명사
 ---
 000_KEYWORD: 스위치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15829
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1890,13 +1890,13 @@ imported:
     표제어: 스위치
     품사: 명사
     항목ID: 15829
-processed:
+result:
   맞춤법 검사:
     표제어: 스위치
     품사: 명사
 ---
 000_KEYWORD: 스위트룸__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1906,13 +1906,13 @@ imported:
     표제어: 스위트룸
     품사: 명사:보통:비서술성
     항목ID: 15996
-processed:
+result:
   맞춤법 검사:
     표제어: 스위트룸
     품사: 명사
 ---
 000_KEYWORD: 스윙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65062
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1937,13 +1937,13 @@ imported:
     표제어: 스윙
     품사: 명사
     항목ID: 65062
-processed:
+result:
   맞춤법 검사:
     표제어: 스윙
     품사: 명사
 ---
 000_KEYWORD: 스치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15831
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2025,13 +2025,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/15831_seucheo.wav
       형태: 스쳐
     - 형태: 스치니
-processed:
+result:
   맞춤법 검사:
     표제어: 스치다
     품사: 동사
 ---
 000_KEYWORD: 스카우트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65061
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2074,13 +2074,13 @@ imported:
     표제어: 스카우트
     품사: 명사
     항목ID: 65061
-processed:
+result:
   맞춤법 검사:
     표제어: 스카우트
     품사: 명사
 ---
 000_KEYWORD: 스카우트되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65060
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2108,13 +2108,13 @@ imported:
     표제어: 스카우트되다
     품사: 동사
     항목ID: 65060
-processed:
+result:
   맞춤법 검사:
     표제어: 스카우트되다
     품사: 동사
 ---
 000_KEYWORD: 스카우트하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65059
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2143,13 +2143,13 @@ imported:
     표제어: 스카우트하다
     품사: 동사
     항목ID: 65059
-processed:
+result:
   맞춤법 검사:
     표제어: 스카우트하다
     품사: 동사
 ---
 000_KEYWORD: 스카치테이프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65058
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2180,13 +2180,13 @@ imported:
     표제어: 스카치테이프
     품사: 명사
     항목ID: 65058
-processed:
+result:
   맞춤법 검사:
     표제어: 스카치테이프
     품사: 명사
 ---
 000_KEYWORD: 스카프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65057
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2220,13 +2220,13 @@ imported:
     표제어: 스카프
     품사: 명사
     항목ID: 65057
-processed:
+result:
   맞춤법 검사:
     표제어: 스카프
     품사: 명사
 ---
 000_KEYWORD: 스칸디나비아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2236,13 +2236,13 @@ imported:
     표제어: 스칸디나비아
     품사: 명사:보통:서술성
     항목ID: 16004
-processed:
+result:
   맞춤법 검사:
     표제어: 스칸디나비아
     품사: 명사
 ---
 000_KEYWORD: 스칼라__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2252,13 +2252,13 @@ imported:
     표제어: 스칼라
     품사: 명사:보통:서술성
     항목ID: 16005
-processed:
+result:
   맞춤법 검사:
     표제어: 스칼라
     품사: 명사
 ---
 000_KEYWORD: 스캐너__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65056
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2286,13 +2286,13 @@ imported:
     표제어: 스캐너
     품사: 명사
     항목ID: 65056
-processed:
+result:
   맞춤법 검사:
     표제어: 스캐너
     품사: 명사
 ---
 000_KEYWORD: 스캔들__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65055
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2326,13 +2326,13 @@ imported:
     표제어: 스캔들
     품사: 명사
     항목ID: 65055
-processed:
+result:
   맞춤법 검사:
     표제어: 스캔들
     품사: 명사
 ---
 000_KEYWORD: 스커트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65054
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2373,13 +2373,13 @@ imported:
     표제어: 스커트
     품사: 명사
     항목ID: 65054
-processed:
+result:
   맞춤법 검사:
     표제어: 스커트
     품사: 명사
 ---
 000_KEYWORD: 스컹크__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2389,13 +2389,13 @@ imported:
     표제어: 스컹크
     품사: 명사:보통:비서술성
     항목ID: 16009
-processed:
+result:
   맞춤법 검사:
     표제어: 스컹크
     품사: 명사
 ---
 000_KEYWORD: 스케이트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15836
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2437,13 +2437,13 @@ imported:
     표제어: 스케이트
     품사: 명사
     항목ID: 15836
-processed:
+result:
   맞춤법 검사:
     표제어: 스케이트
     품사: 명사
 ---
 000_KEYWORD: 스케이트보드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65052
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2474,13 +2474,13 @@ imported:
     표제어: 스케이트보드
     품사: 명사
     항목ID: 65052
-processed:
+result:
   맞춤법 검사:
     표제어: 스케이트보드
     품사: 명사
 ---
 000_KEYWORD: 스케이트장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65051
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2509,13 +2509,13 @@ imported:
     표제어: 스케이트장
     품사: 명사
     항목ID: 65051
-processed:
+result:
   맞춤법 검사:
     표제어: 스케이트장
     품사: 명사
 ---
 000_KEYWORD: 스케이팅__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2525,13 +2525,13 @@ imported:
     표제어: 스케이팅
     품사: 명사:보통:서술성
     항목ID: 16012
-processed:
+result:
   맞춤법 검사:
     표제어: 스케이팅
     품사: 명사
 ---
 000_KEYWORD: 스케일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64636
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2568,13 +2568,13 @@ imported:
     표제어: 스케일
     품사: 명사
     항목ID: 64636
-processed:
+result:
   맞춤법 검사:
     표제어: 스케일
     품사: 명사
 ---
 000_KEYWORD: 스케일링__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64637
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2597,13 +2597,13 @@ imported:
     표제어: 스케일링
     품사: 명사
     항목ID: 64637
-processed:
+result:
   맞춤법 검사:
     표제어: 스케일링
     품사: 명사
 ---
 000_KEYWORD: 스케일링하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2613,13 +2613,13 @@ imported:
     표제어: 스케일링하다
     품사: 동사
     항목ID: 16015
-processed:
+result:
   맞춤법 검사:
     표제어: 스케일링하다
     품사: 동사
 ---
 000_KEYWORD: 스케줄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64638
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2646,13 +2646,13 @@ imported:
     표제어: 스케줄
     품사: 명사
     항목ID: 64638
-processed:
+result:
   맞춤법 검사:
     표제어: 스케줄
     품사: 명사
 ---
 000_KEYWORD: 스케치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64639
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2689,13 +2689,13 @@ imported:
     표제어: 스케치
     품사: 명사
     항목ID: 64639
-processed:
+result:
   맞춤법 검사:
     표제어: 스케치
     품사: 명사
 ---
 000_KEYWORD: 스케치북__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64641
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2725,13 +2725,13 @@ imported:
     표제어: 스케치북
     품사: 명사
     항목ID: 64641
-processed:
+result:
   맞춤법 검사:
     표제어: 스케치북
     품사: 명사
 ---
 000_KEYWORD: 스케치하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64640
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2769,13 +2769,13 @@ imported:
     표제어: 스케치하다
     품사: 동사
     항목ID: 64640
-processed:
+result:
   맞춤법 검사:
     표제어: 스케치하다
     품사: 동사
 ---
 000_KEYWORD: 스코어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64642
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2801,13 +2801,13 @@ imported:
     표제어: 스코어
     품사: 명사
     항목ID: 64642
-processed:
+result:
   맞춤법 검사:
     표제어: 스코어
     품사: 명사
 ---
 000_KEYWORD: 스코틀랜드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2816,13 +2816,13 @@ imported:
     표제어: 스코틀랜드
     품사: 명사:보통:서술성
     항목ID: 16021
-processed:
+result:
   맞춤법 검사:
     표제어: 스코틀랜드
     품사: 명사
 ---
 000_KEYWORD: 스콜__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2833,13 +2833,13 @@ imported:
     표제어: 스콜
     품사: 명사:보통:서술성
     항목ID: 16022
-processed:
+result:
   맞춤법 검사:
     표제어: 스콜
     품사: 명사
 ---
 000_KEYWORD: 스쿠버__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2849,13 +2849,13 @@ imported:
     표제어: 스쿠버
     품사: 명사:보통:서술성
     항목ID: 16023
-processed:
+result:
   맞춤법 검사:
     표제어: 스쿠버
     품사: 명사
 ---
 000_KEYWORD: 스쿠터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64644
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2883,13 +2883,13 @@ imported:
     표제어: 스쿠터
     품사: 명사
     항목ID: 64644
-processed:
+result:
   맞춤법 검사:
     표제어: 스쿠터
     품사: 명사
 ---
 000_KEYWORD: 스쿨버스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64645
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2917,13 +2917,13 @@ imported:
     표제어: 스쿨버스
     품사: 명사
     항목ID: 64645
-processed:
+result:
   맞춤법 검사:
     표제어: 스쿨버스
     품사: 명사
 ---
 000_KEYWORD: 스크램블__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2933,13 +2933,13 @@ imported:
     표제어: 스크램블
     품사: 명사:보통:서술성
     항목ID: 16026
-processed:
+result:
   맞춤법 검사:
     표제어: 스크램블
     품사: 명사
 ---
 000_KEYWORD: 스크랩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64710
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2963,13 +2963,13 @@ imported:
     표제어: 스크랩
     품사: 명사
     항목ID: 64710
-processed:
+result:
   맞춤법 검사:
     표제어: 스크랩
     품사: 명사
 ---
 000_KEYWORD: 스크랩북__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64712
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2993,13 +2993,13 @@ imported:
     표제어: 스크랩북
     품사: 명사
     항목ID: 64712
-processed:
+result:
   맞춤법 검사:
     표제어: 스크랩북
     품사: 명사
 ---
 000_KEYWORD: 스크랩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64713
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3025,13 +3025,13 @@ imported:
     표제어: 스크랩하다
     품사: 동사
     항목ID: 64713
-processed:
+result:
   맞춤법 검사:
     표제어: 스크랩하다
     품사: 동사
 ---
 000_KEYWORD: 스크럼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64778
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3053,13 +3053,13 @@ imported:
     표제어: 스크럼
     품사: 명사
     항목ID: 64778
-processed:
+result:
   맞춤법 검사:
     표제어: 스크럼
     품사: 명사
 ---
 000_KEYWORD: 스크린__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64779
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3102,13 +3102,13 @@ imported:
     표제어: 스크린
     품사: 명사
     항목ID: 64779
-processed:
+result:
   맞춤법 검사:
     표제어: 스크린
     품사: 명사
 ---
 000_KEYWORD: 스크립트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3118,13 +3118,13 @@ imported:
     표제어: 스크립트
     품사: 명사:보통:비서술성
     항목ID: 16030
-processed:
+result:
   맞춤법 검사:
     표제어: 스크립트
     품사: 명사
 ---
 000_KEYWORD: 스키__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83172
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3170,13 +3170,13 @@ imported:
     표제어: 스키
     품사: 명사
     항목ID: 83172
-processed:
+result:
   맞춤법 검사:
     표제어: 스키
     품사: 명사
 ---
 000_KEYWORD: 스키장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15838
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3202,13 +3202,13 @@ imported:
     표제어: 스키장
     품사: 명사
     항목ID: 15838
-processed:
+result:
   맞춤법 검사:
     표제어: 스키장
     품사: 명사
 ---
 000_KEYWORD: 스킨로션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64819
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3234,13 +3234,13 @@ imported:
     표제어: 스킨로션
     품사: 명사
     항목ID: 64819
-processed:
+result:
   맞춤법 검사:
     표제어: 스킨로션
     품사: 명사
 ---
 000_KEYWORD: 스킨십__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3250,13 +3250,13 @@ imported:
     표제어: 스킨십
     품사: 명사:보통:서술성
     항목ID: 16033
-processed:
+result:
   맞춤법 검사:
     표제어: 스킨십
     품사: 명사
 ---
 000_KEYWORD: 스타__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65066
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3290,13 +3290,13 @@ imported:
     표제어: 스타
     품사: 명사
     항목ID: 65066
-processed:
+result:
   맞춤법 검사:
     표제어: 스타
     품사: 명사
 ---
 000_KEYWORD: 스타디움__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65067
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3323,13 +3323,13 @@ imported:
     표제어: 스타디움
     품사: 명사
     항목ID: 65067
-processed:
+result:
   맞춤법 검사:
     표제어: 스타디움
     품사: 명사
 ---
 000_KEYWORD: 스타일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65068
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3381,13 +3381,13 @@ imported:
     표제어: 스타일
     품사: 명사
     항목ID: 65068
-processed:
+result:
   맞춤법 검사:
     표제어: 스타일
     품사: 명사
 ---
 000_KEYWORD: 스타킹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65069
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3417,13 +3417,13 @@ imported:
     표제어: 스타킹
     품사: 명사
     항목ID: 65069
-processed:
+result:
   맞춤법 검사:
     표제어: 스타킹
     품사: 명사
 ---
 000_KEYWORD: 스태프__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3432,13 +3432,13 @@ imported:
     표제어: 스태프
     품사: 명사:보통:비서술성
     항목ID: 16039
-processed:
+result:
   맞춤법 검사:
     표제어: 스태프
     품사: 명사
 ---
 000_KEYWORD: 스탠드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65071
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3510,13 +3510,13 @@ imported:
     표제어: 스탠드
     품사: 명사
     항목ID: 65071
-processed:
+result:
   맞춤법 검사:
     표제어: 스탠드
     품사: 명사
 ---
 000_KEYWORD: 스탠드바__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65072
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3551,13 +3551,13 @@ imported:
     표제어: 스탠드바
     품사: 명사
     항목ID: 65072
-processed:
+result:
   맞춤법 검사:
     표제어: 스탠드바
     품사: 명사
 ---
 000_KEYWORD: 스탬프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65073
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3583,13 +3583,13 @@ imported:
     표제어: 스탬프
     품사: 명사
     항목ID: 65073
-processed:
+result:
   맞춤법 검사:
     표제어: 스탬프
     품사: 명사
 ---
 000_KEYWORD: 스턴트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3600,13 +3600,13 @@ imported:
     표제어: 스턴트
     품사: 명사:보통:서술성
     항목ID: 16043
-processed:
+result:
   맞춤법 검사:
     표제어: 스턴트
     품사: 명사
 ---
 000_KEYWORD: 스턴트맨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3617,13 +3617,13 @@ imported:
     표제어: 스턴트맨
     품사: 명사:보통:비서술성
     항목ID: 16044
-processed:
+result:
   맞춤법 검사:
     표제어: 스턴트맨
     품사: 명사
 ---
 000_KEYWORD: 스턴트우먼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3634,13 +3634,13 @@ imported:
     표제어: 스턴트우먼
     품사: 명사:보통:비서술성
     항목ID: 16045
-processed:
+result:
   맞춤법 검사:
     표제어: 스턴트우먼
     품사: 명사
 ---
 000_KEYWORD: 스테디셀러__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65074
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3663,13 +3663,13 @@ imported:
     표제어: 스테디셀러
     품사: 명사
     항목ID: 65074
-processed:
+result:
   맞춤법 검사:
     표제어: 스테디셀러
     품사: 명사
 ---
 000_KEYWORD: 스테레오__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65075
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3693,13 +3693,13 @@ imported:
     표제어: 스테레오
     품사: 명사
     항목ID: 65075
-processed:
+result:
   맞춤법 검사:
     표제어: 스테레오
     품사: 명사
 ---
 000_KEYWORD: 스테로이드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65076
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3724,13 +3724,13 @@ imported:
     표제어: 스테로이드
     품사: 명사
     항목ID: 65076
-processed:
+result:
   맞춤법 검사:
     표제어: 스테로이드
     품사: 명사
 ---
 000_KEYWORD: 스테이크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65077
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3758,13 +3758,13 @@ imported:
     표제어: 스테이크
     품사: 명사
     항목ID: 65077
-processed:
+result:
   맞춤법 검사:
     표제어: 스테이크
     품사: 명사
 ---
 000_KEYWORD: 스테이플러__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65078
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3789,13 +3789,13 @@ imported:
     표제어: 스테이플러
     품사: 명사
     항목ID: 65078
-processed:
+result:
   맞춤법 검사:
     표제어: 스테이플러
     품사: 명사
 ---
 000_KEYWORD: 스테인드글라스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3805,13 +3805,13 @@ imported:
     표제어: 스테인드글라스
     품사: 명사:보통:서술성
     항목ID: 16049
-processed:
+result:
   맞춤법 검사:
     표제어: 스테인드글라스
     품사: 명사
 ---
 000_KEYWORD: 스테인리스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85596
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3837,13 +3837,13 @@ imported:
     표제어: 스테인리스
     품사: 명사
     항목ID: 85596
-processed:
+result:
   맞춤법 검사:
     표제어: 스테인리스
     품사: 명사
 ---
 000_KEYWORD: 스테인리스강__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3853,13 +3853,13 @@ imported:
     표제어: 스테인리스강
     품사: 명사:보통:서술성
     항목ID: 16051
-processed:
+result:
   맞춤법 검사:
     표제어: 스테인리스강
     품사: 명사
 ---
 000_KEYWORD: 스테인리스스틸__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3869,13 +3869,13 @@ imported:
     표제어: 스테인리스스틸
     품사: 명사:보통:서술성
     항목ID: 16052
-processed:
+result:
   맞춤법 검사:
     표제어: 스테인리스스틸
     품사: 명사
 ---
 000_KEYWORD: 스텐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92275
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3888,10 +3888,10 @@ imported:
     표제어: 스텐
     품사: 명사
     항목ID: 92275
-processed: {}
+result: {}
 ---
 000_KEYWORD: 스텔스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3902,13 +3902,13 @@ imported:
     표제어: 스텔스
     품사: 명사:보통:서술성
     항목ID: 16053
-processed:
+result:
   맞춤법 검사:
     표제어: 스텔스
     품사: 명사
 ---
 000_KEYWORD: 스텝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85597
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3935,13 +3935,13 @@ imported:
     표제어: 스텝
     품사: 명사
     항목ID: 85597
-processed:
+result:
   맞춤법 검사:
     표제어: 스텝
     품사: 명사
 ---
 000_KEYWORD: 스토리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92276
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3957,10 +3957,10 @@ imported:
     표제어: 스토리
     품사: 명사
     항목ID: 92276
-processed: {}
+result: {}
 ---
 000_KEYWORD: 스토브__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85598
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3997,13 +3997,13 @@ imported:
     표제어: 스토브
     품사: 명사
     항목ID: 85598
-processed:
+result:
   맞춤법 검사:
     표제어: 스토브
     품사: 명사
 ---
 000_KEYWORD: 스토브리그__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4013,13 +4013,13 @@ imported:
     표제어: 스토브리그
     품사: 명사:보통:서술성
     항목ID: 16056
-processed:
+result:
   맞춤법 검사:
     표제어: 스토브리그
     품사: 명사
 ---
 000_KEYWORD: 스토아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4030,13 +4030,13 @@ imported:
     표제어: 스토아
     품사: 명사:보통:서술성
     항목ID: 16057
-processed:
+result:
   맞춤법 검사:
     표제어: 스토아
     품사: 명사
 ---
 000_KEYWORD: 스토아학파__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4047,13 +4047,13 @@ imported:
     표제어: 스토아학파
     품사: 명사:보통:서술성
     항목ID: 16058
-processed:
+result:
   맞춤법 검사:
     표제어: 스토아학파
     품사: 명사
 ---
 000_KEYWORD: 스토커__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4064,13 +4064,13 @@ imported:
     표제어: 스토커
     품사: 명사:보통:비서술성
     항목ID: 16059
-processed:
+result:
   맞춤법 검사:
     표제어: 스토커
     품사: 명사
 ---
 000_KEYWORD: 스토킹하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4081,13 +4081,13 @@ imported:
     표제어: 스토킹하다
     품사: 동사
     항목ID: 16060
-processed:
+result:
   맞춤법 검사:
     표제어: 스토킹하다
     품사: 동사
 ---
 000_KEYWORD: 스톡홀름__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4098,13 +4098,13 @@ imported:
     표제어: 스톡홀름
     품사: 명사:보통:서술성
     항목ID: 16061
-processed:
+result:
   맞춤법 검사:
     표제어: 스톡홀름
     품사: 명사
 ---
 000_KEYWORD: 스톨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4115,13 +4115,13 @@ imported:
     표제어: 스톨
     품사: 명사:보통:비서술성
     항목ID: 16062
-processed:
+result:
   맞춤법 검사:
     표제어: 스톨
     품사: 명사
 ---
 000_KEYWORD: 스튜__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4132,13 +4132,13 @@ imported:
     표제어: 스튜
     품사: 명사:보통:서술성
     항목ID: 16063
-processed:
+result:
   맞춤법 검사:
     표제어: 스튜
     품사: 명사
 ---
 000_KEYWORD: 스튜디오__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15842
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4190,13 +4190,13 @@ imported:
     표제어: 스튜디오
     품사: 명사
     항목ID: 15842
-processed:
+result:
   맞춤법 검사:
     표제어: 스튜디오
     품사: 명사
 ---
 000_KEYWORD: 스튜어드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65206
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4224,13 +4224,13 @@ imported:
     표제어: 스튜어드
     품사: 명사
     항목ID: 65206
-processed:
+result:
   맞춤법 검사:
     표제어: 스튜어드
     품사: 명사
 ---
 000_KEYWORD: 스튜어디스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65207
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4259,13 +4259,13 @@ imported:
     표제어: 스튜어디스
     품사: 명사
     항목ID: 65207
-processed:
+result:
   맞춤법 검사:
     표제어: 스튜어디스
     품사: 명사
 ---
 000_KEYWORD: 스트라이커__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65208
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4290,13 +4290,13 @@ imported:
     표제어: 스트라이커
     품사: 명사
     항목ID: 65208
-processed:
+result:
   맞춤법 검사:
     표제어: 스트라이커
     품사: 명사
 ---
 000_KEYWORD: 스트라이크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65210
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4322,13 +4322,13 @@ imported:
     표제어: 스트라이크
     품사: 명사
     항목ID: 65210
-processed:
+result:
   맞춤법 검사:
     표제어: 스트라이크
     품사: 명사
 ---
 000_KEYWORD: 스트라이크__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65211
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4368,13 +4368,13 @@ imported:
     표제어: 스트라이크
     품사: 명사
     항목ID: 65211
-processed:
+result:
   맞춤법 검사:
     표제어: 스트라이크
     품사: 명사
 ---
 000_KEYWORD: 스트레스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62510
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4409,13 +4409,13 @@ imported:
     표제어: 스트레스
     품사: 명사
     항목ID: 62510
-processed:
+result:
   맞춤법 검사:
     표제어: 스트레스
     품사: 명사
 ---
 000_KEYWORD: 스트레이트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65286
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4480,13 +4480,13 @@ imported:
     표제어: 스트레이트
     품사: 명사
     항목ID: 65286
-processed:
+result:
   맞춤법 검사:
     표제어: 스트레이트
     품사: 명사
 ---
 000_KEYWORD: 스트레칭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65212
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4516,13 +4516,13 @@ imported:
     표제어: 스트레칭
     품사: 명사
     항목ID: 65212
-processed:
+result:
   맞춤법 검사:
     표제어: 스트레칭
     품사: 명사
 ---
 000_KEYWORD: 스트립쇼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65213
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4545,13 +4545,13 @@ imported:
     표제어: 스트립쇼
     품사: 명사
     항목ID: 65213
-processed:
+result:
   맞춤법 검사:
     표제어: 스트립쇼
     품사: 명사
 ---
 000_KEYWORD: 스티로폼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65214
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4580,13 +4580,13 @@ imported:
     표제어: 스티로폼
     품사: 명사
     항목ID: 65214
-processed:
+result:
   맞춤법 검사:
     표제어: 스티로폼
     품사: 명사
 ---
 000_KEYWORD: 스티커__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65215
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4629,13 +4629,13 @@ imported:
     표제어: 스티커
     품사: 명사
     항목ID: 65215
-processed:
+result:
   맞춤법 검사:
     표제어: 스티커
     품사: 명사
 ---
 000_KEYWORD: 스틱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65216
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4662,13 +4662,13 @@ imported:
     표제어: 스틱
     품사: 명사
     항목ID: 65216
-processed:
+result:
   맞춤법 검사:
     표제어: 스틱
     품사: 명사
 ---
 000_KEYWORD: 스팀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65217
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4709,13 +4709,13 @@ imported:
     표제어: 스팀
     품사: 명사
     항목ID: 65217
-processed:
+result:
   맞춤법 검사:
     표제어: 스팀
     품사: 명사
 ---
 000_KEYWORD: 스파게티__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65218
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4747,13 +4747,13 @@ imported:
     표제어: 스파게티
     품사: 명사
     항목ID: 65218
-processed:
+result:
   맞춤법 검사:
     표제어: 스파게티
     품사: 명사
 ---
 000_KEYWORD: 스파르타__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4763,13 +4763,13 @@ imported:
     표제어: 스파르타
     품사: 명사:보통:서술성
     항목ID: 16074
-processed:
+result:
   맞춤법 검사:
     표제어: 스파르타
     품사: 명사
 ---
 000_KEYWORD: 스파이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65219
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4802,13 +4802,13 @@ imported:
     표제어: 스파이
     품사: 명사
     항목ID: 65219
-processed:
+result:
   맞춤법 검사:
     표제어: 스파이
     품사: 명사
 ---
 000_KEYWORD: 스파이크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65220
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4846,13 +4846,13 @@ imported:
     표제어: 스파이크
     품사: 명사
     항목ID: 65220
-processed:
+result:
   맞춤법 검사:
     표제어: 스파이크
     품사: 명사
 ---
 000_KEYWORD: 스파크__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4863,13 +4863,13 @@ imported:
     표제어: 스파크
     품사: 명사:보통:비서술성
     항목ID: 16077
-processed:
+result:
   맞춤법 검사:
     표제어: 스파크
     품사: 명사
 ---
 000_KEYWORD: 스패너__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4880,13 +4880,13 @@ imported:
     표제어: 스패너
     품사: 명사:보통:비서술성
     항목ID: 16078
-processed:
+result:
   맞춤법 검사:
     표제어: 스패너
     품사: 명사
 ---
 000_KEYWORD: 스펀지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65222
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4915,13 +4915,13 @@ imported:
     표제어: 스펀지
     품사: 명사
     항목ID: 65222
-processed:
+result:
   맞춤법 검사:
     표제어: 스펀지
     품사: 명사
 ---
 000_KEYWORD: 스페셜__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4932,13 +4932,13 @@ imported:
     표제어: 스페셜
     품사: 명사:보통:서술성
     항목ID: 16081
-processed:
+result:
   맞춤법 검사:
     표제어: 스페셜
     품사: 명사
 ---
 000_KEYWORD: 스페어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4948,13 +4948,13 @@ imported:
     표제어: 스페어
     품사: 명사:보통:서술성
     항목ID: 16082
-processed:
+result:
   맞춤법 검사:
     표제어: 스페어
     품사: 명사
 ---
 000_KEYWORD: 스페어타이어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65223
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4979,13 +4979,13 @@ imported:
     표제어: 스페어타이어
     품사: 명사
     항목ID: 65223
-processed:
+result:
   맞춤법 검사:
     표제어: 스페어타이어
     품사: 명사
 ---
 000_KEYWORD: 스페이드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4995,13 +4995,13 @@ imported:
     표제어: 스페이드
     품사: 명사:보통:비서술성
     항목ID: 16084
-processed:
+result:
   맞춤법 검사:
     표제어: 스페이드
     품사: 명사
 ---
 000_KEYWORD: 스페인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92054
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5022,13 +5022,13 @@ imported:
     표제어: 스페인
     품사: 명사
     항목ID: 92054
-processed:
+result:
   맞춤법 검사:
     표제어: 스페인
     품사: 명사
 ---
 000_KEYWORD: 스페인어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93446
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5064,13 +5064,13 @@ imported:
     표제어: 스페인어
     품사: 명사
     항목ID: 93446
-processed:
+result:
   맞춤법 검사:
     표제어: 스페인어
     품사: 명사
 ---
 000_KEYWORD: 스펙트럼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65283
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5116,13 +5116,13 @@ imported:
     표제어: 스펙트럼
     품사: 명사
     항목ID: 65283
-processed:
+result:
   맞춤법 검사:
     표제어: 스펙트럼
     품사: 명사
 ---
 000_KEYWORD: 스펠링__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65225
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5149,13 +5149,13 @@ imported:
     표제어: 스펠링
     품사: 명사
     항목ID: 65225
-processed:
+result:
   맞춤법 검사:
     표제어: 스펠링
     품사: 명사
 ---
 000_KEYWORD: 스포이트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65232
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5183,13 +5183,13 @@ imported:
     표제어: 스포이트
     품사: 명사
     항목ID: 65232
-processed:
+result:
   맞춤법 검사:
     표제어: 스포이트
     품사: 명사
 ---
 000_KEYWORD: 스포츠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62511
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5226,13 +5226,13 @@ imported:
     표제어: 스포츠
     품사: 명사
     항목ID: 62511
-processed:
+result:
   맞춤법 검사:
     표제어: 스포츠
     품사: 명사
 ---
 000_KEYWORD: 스포츠맨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65282
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5261,13 +5261,13 @@ imported:
     표제어: 스포츠맨
     품사: 명사
     항목ID: 65282
-processed:
+result:
   맞춤법 검사:
     표제어: 스포츠맨
     품사: 명사
 ---
 000_KEYWORD: 스포츠카__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65281
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5296,13 +5296,13 @@ imported:
     표제어: 스포츠카
     품사: 명사
     항목ID: 65281
-processed:
+result:
   맞춤법 검사:
     표제어: 스포츠카
     품사: 명사
 ---
 000_KEYWORD: 스포트라이트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65280
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5348,13 +5348,13 @@ imported:
     표제어: 스포트라이트
     품사: 명사
     항목ID: 65280
-processed:
+result:
   맞춤법 검사:
     표제어: 스포트라이트
     품사: 명사
 ---
 000_KEYWORD: 스폰서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65279
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5396,13 +5396,13 @@ imported:
     표제어: 스폰서
     품사: 명사
     항목ID: 65279
-processed:
+result:
   맞춤법 검사:
     표제어: 스폰서
     품사: 명사
 ---
 000_KEYWORD: 스폰지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92277
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5415,10 +5415,10 @@ imported:
     표제어: 스폰지
     품사: 명사
     항목ID: 92277
-processed: {}
+result: {}
 ---
 000_KEYWORD: 스푼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65277
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5457,13 +5457,13 @@ imported:
     표제어: 스푼
     품사: 명사
     항목ID: 65277
-processed:
+result:
   맞춤법 검사:
     표제어: 스푼
     품사: 명사
 ---
 000_KEYWORD: 스프레드시트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5473,13 +5473,13 @@ imported:
     표제어: 스프레드시트
     품사: 명사:보통:서술성
     항목ID: 16093
-processed:
+result:
   맞춤법 검사:
     표제어: 스프레드시트
     품사: 명사
 ---
 000_KEYWORD: 스프레이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65276
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5520,13 +5520,13 @@ imported:
     표제어: 스프레이
     품사: 명사
     항목ID: 65276
-processed:
+result:
   맞춤법 검사:
     표제어: 스프레이
     품사: 명사
 ---
 000_KEYWORD: 스프링__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65274
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5563,13 +5563,13 @@ imported:
     표제어: 스프링
     품사: 명사
     항목ID: 65274
-processed:
+result:
   맞춤법 검사:
     표제어: 스프링
     품사: 명사
 ---
 000_KEYWORD: 스프링클러__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5579,13 +5579,13 @@ imported:
     표제어: 스프링클러
     품사: 명사:보통:비서술성
     항목ID: 16096
-processed:
+result:
   맞춤법 검사:
     표제어: 스프링클러
     품사: 명사
 ---
 000_KEYWORD: 스피노자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5596,13 +5596,13 @@ imported:
     표제어: 스피노자
     품사: 명사:보통:서술성
     항목ID: 16097
-processed:
+result:
   맞춤법 검사:
     표제어: 스피노자
     품사: 명사
 ---
 000_KEYWORD: 스피드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65272
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5633,13 +5633,13 @@ imported:
     표제어: 스피드
     품사: 명사
     항목ID: 65272
-processed:
+result:
   맞춤법 검사:
     표제어: 스피드
     품사: 명사
 ---
 000_KEYWORD: 스피카__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5650,13 +5650,13 @@ imported:
     표제어: 스피카
     품사: 명사:보통:서술성
     항목ID: 16099
-processed:
+result:
   맞춤법 검사:
     표제어: 스피카
     품사: 명사
 ---
 000_KEYWORD: 스피커__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65270
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5688,13 +5688,13 @@ imported:
     표제어: 스피커
     품사: 명사
     항목ID: 65270
-processed:
+result:
   맞춤법 검사:
     표제어: 스피커
     품사: 명사
 ---
 000_KEYWORD: 스피커폰__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5704,13 +5704,13 @@ imported:
     표제어: 스피커폰
     품사: 명사:보통:비서술성
     항목ID: 16101
-processed:
+result:
   맞춤법 검사:
     표제어: 스피커폰
     품사: 명사
 ---
 000_KEYWORD: 스핀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65269
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5758,13 +5758,13 @@ imported:
     표제어: 스핀
     품사: 명사
     항목ID: 65269
-processed:
+result:
   맞춤법 검사:
     표제어: 스핀
     품사: 명사
 ---
 000_KEYWORD: 스핀들__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5773,13 +5773,13 @@ imported:
     표제어: 스핀들
     품사: 명사:보통:서술성
     항목ID: 16103
-processed:
+result:
   맞춤법 검사:
     표제어: 스핀들
     품사: 명사
 ---
 000_KEYWORD: 스핑크스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65267
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5804,13 +5804,13 @@ imported:
     표제어: 스핑크스
     품사: 명사
     항목ID: 65267
-processed:
+result:
   맞춤법 검사:
     표제어: 스핑크스
     품사: 명사
 ---
 000_KEYWORD: 슬그머니__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15845
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5854,13 +5854,13 @@ imported:
     표제어: 슬그머니
     품사: 부사
     항목ID: 15845
-processed:
+result:
   맞춤법 검사:
     표제어: 슬그머니
     품사: 부사
 ---
 000_KEYWORD: 슬금슬금__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65266
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5891,13 +5891,13 @@ imported:
     표제어: 슬금슬금
     품사: 부사
     항목ID: 65266
-processed:
+result:
   맞춤법 검사:
     표제어: 슬금슬금
     품사: 부사
 ---
 000_KEYWORD: 슬기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65264
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5928,13 +5928,13 @@ imported:
     표제어: 슬기
     품사: 명사
     항목ID: 65264
-processed:
+result:
   맞춤법 검사:
     표제어: 슬기
     품사: 명사
 ---
 000_KEYWORD: 슬기롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65261
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5980,7 +5980,7 @@ imported:
       형태: 슬기로우니
     - 발음: 슬기롭씀니다
       형태: 슬기롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -5988,7 +5988,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 슬다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65259
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6035,13 +6035,13 @@ imported:
     - 발음: 슴니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/65259_seumnida.wav
       형태: 습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 슬다
     품사: 동사
 ---
 000_KEYWORD: 슬라이더__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6052,13 +6052,13 @@ imported:
     표제어: 슬라이더
     품사: 명사:보통:서술성
     항목ID: 16109
-processed:
+result:
   맞춤법 검사:
     표제어: 슬라이더
     품사: 명사
 ---
 000_KEYWORD: 슬라이드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65257
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6091,13 +6091,13 @@ imported:
     표제어: 슬라이드
     품사: 명사
     항목ID: 65257
-processed:
+result:
   맞춤법 검사:
     표제어: 슬라이드
     품사: 명사
 ---
 000_KEYWORD: 슬라이딩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65256
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6152,13 +6152,13 @@ imported:
     표제어: 슬라이딩
     품사: 명사
     항목ID: 65256
-processed:
+result:
   맞춤법 검사:
     표제어: 슬라이딩
     품사: 명사
 ---
 000_KEYWORD: 슬라이딩하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6168,13 +6168,13 @@ imported:
     표제어: 슬라이딩하다
     품사: 동사
     항목ID: 16112
-processed:
+result:
   맞춤법 검사:
     표제어: 슬라이딩하다
     품사: 동사
 ---
 000_KEYWORD: 슬럼프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65255
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6213,13 +6213,13 @@ imported:
     표제어: 슬럼프
     품사: 명사
     항목ID: 65255
-processed:
+result:
   맞춤법 검사:
     표제어: 슬럼프
     품사: 명사
 ---
 000_KEYWORD: 슬렁슬렁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65254
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6246,13 +6246,13 @@ imported:
     표제어: 슬렁슬렁
     품사: 부사
     항목ID: 65254
-processed:
+result:
   맞춤법 검사:
     표제어: 슬렁슬렁
     품사: 부사
 ---
 000_KEYWORD: 슬레이트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6262,13 +6262,13 @@ imported:
     표제어: 슬레이트
     품사: 명사:보통:비서술성
     항목ID: 16114
-processed:
+result:
   맞춤법 검사:
     표제어: 슬레이트
     품사: 명사
 ---
 000_KEYWORD: 슬로건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65252
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6296,13 +6296,13 @@ imported:
     표제어: 슬로건
     품사: 명사
     항목ID: 65252
-processed:
+result:
   맞춤법 검사:
     표제어: 슬로건
     품사: 명사
 ---
 000_KEYWORD: 슬로바키아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69865
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6319,13 +6319,13 @@ imported:
     표제어: 슬로바키아
     품사: 명사
     항목ID: 69865
-processed:
+result:
   맞춤법 검사:
     표제어: 슬로바키아
     품사: 명사
 ---
 000_KEYWORD: 슬로베니아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69867
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6342,13 +6342,13 @@ imported:
     표제어: 슬로베니아
     품사: 명사
     항목ID: 69867
-processed:
+result:
   맞춤법 검사:
     표제어: 슬로베니아
     품사: 명사
 ---
 000_KEYWORD: 슬로베니아어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6358,13 +6358,13 @@ imported:
     표제어: 슬로베니아어
     품사: 명사:보통:서술성
     항목ID: 16118
-processed:
+result:
   맞춤법 검사:
     표제어: 슬로베니아어
     품사: 명사
 ---
 000_KEYWORD: 슬롯__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6375,13 +6375,13 @@ imported:
     표제어: 슬롯
     품사: 명사:보통:서술성
     항목ID: 16119
-processed:
+result:
   맞춤법 검사:
     표제어: 슬롯
     품사: 명사
 ---
 000_KEYWORD: 슬롯머신__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6391,13 +6391,13 @@ imported:
     표제어: 슬롯머신
     품사: 명사:보통:비서술성
     항목ID: 16120
-processed:
+result:
   맞춤법 검사:
     표제어: 슬롯머신
     품사: 명사
 ---
 000_KEYWORD: 슬리퍼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65251
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6427,13 +6427,13 @@ imported:
     표제어: 슬리퍼
     품사: 명사
     항목ID: 65251
-processed:
+result:
   맞춤법 검사:
     표제어: 슬리퍼
     품사: 명사
 ---
 000_KEYWORD: 슬며시__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65249
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6494,13 +6494,13 @@ imported:
     표제어: 슬며시
     품사: 부사
     항목ID: 65249
-processed:
+result:
   맞춤법 검사:
     표제어: 슬며시
     품사: 부사
 ---
 000_KEYWORD: 슬슬__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65248
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6633,13 +6633,13 @@ imported:
     표제어: 슬슬
     품사: 부사
     항목ID: 65248
-processed:
+result:
   맞춤법 검사:
     표제어: 슬슬
     품사: 부사
 ---
 000_KEYWORD: 슬쩍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15849
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6730,13 +6730,13 @@ imported:
     표제어: 슬쩍
     품사: 부사
     항목ID: 15849
-processed:
+result:
   맞춤법 검사:
     표제어: 슬쩍
     품사: 부사
 ---
 000_KEYWORD: 슬쩍슬쩍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65247
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6829,13 +6829,13 @@ imported:
     표제어: 슬쩍슬쩍
     품사: 부사
     항목ID: 65247
-processed:
+result:
   맞춤법 검사:
     표제어: 슬쩍슬쩍
     품사: 부사
 ---
 000_KEYWORD: 슬쩍하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65245
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6863,13 +6863,13 @@ imported:
     표제어: 슬쩍하다
     품사: 동사
     항목ID: 65245
-processed:
+result:
   맞춤법 검사:
     표제어: 슬쩍하다
     품사: 동사
 ---
 000_KEYWORD: 슬퍼하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66565
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6913,13 +6913,13 @@ imported:
       형태: 슬퍼하니
     - 발음: 슬퍼함니다
       형태: 슬퍼합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 슬퍼하다
     품사: 동사
 ---
 000_KEYWORD: 슬프다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65103
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6964,17 +6964,17 @@ imported:
       형태: 슬프니
     - 발음: 슬픔니다
       형태: 슬픕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 슬프다
     품사: 형용사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 으불규칙
 ---
 000_KEYWORD: 슬픔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65104
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7006,13 +7006,13 @@ imported:
     표제어: 슬픔
     품사: 명사
     항목ID: 65104
-processed:
+result:
   맞춤법 검사:
     표제어: 슬픔
     품사: 명사
 ---
 000_KEYWORD: 슬피__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65244
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7039,13 +7039,13 @@ imported:
     표제어: 슬피
     품사: 부사
     항목ID: 65244
-processed:
+result:
   맞춤법 검사:
     표제어: 슬피
     품사: 부사
 ---
 000_KEYWORD: 슬하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65242
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7073,13 +7073,13 @@ imported:
     표제어: 슬하
     품사: 명사
     항목ID: 65242
-processed:
+result:
   맞춤법 검사:
     표제어: 슬하
     품사: 명사
 ---
 000_KEYWORD: 습격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65239
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7120,13 +7120,13 @@ imported:
     - 발음: 습꼉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/65239_seupkkyeongman.wav
       형태: 습격만
-processed:
+result:
   맞춤법 검사:
     표제어: 습격
     품사: 명사
 ---
 000_KEYWORD: 습격하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65241
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7154,13 +7154,13 @@ imported:
     표제어: 습격하다
     품사: 동사
     항목ID: 65241
-processed:
+result:
   맞춤법 검사:
     표제어: 습격하다
     품사: 동사
 ---
 000_KEYWORD: 습관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65105
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7195,13 +7195,13 @@ imported:
     표제어: 습관
     품사: 명사
     항목ID: 65105
-processed:
+result:
   맞춤법 검사:
     표제어: 습관
     품사: 명사
 ---
 000_KEYWORD: 습관성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83448
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7240,13 +7240,13 @@ imported:
     표제어: 습관성
     품사: 명사
     항목ID: 83448
-processed:
+result:
   맞춤법 검사:
     표제어: 습관성
     품사: 명사
 ---
 000_KEYWORD: 습관적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83450
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7274,13 +7274,13 @@ imported:
     표제어: 습관적
     품사: 관형사
     항목ID: 83450
-processed:
+result:
   맞춤법 검사:
     표제어: 습관적
     품사: 관형사
 ---
 000_KEYWORD: 습관적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83451
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7309,13 +7309,13 @@ imported:
     표제어: 습관적
     품사: 명사
     항목ID: 83451
-processed:
+result:
   맞춤법 검사:
     표제어: 습관적
     품사: 명사
 ---
 000_KEYWORD: 습관화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83452
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7342,13 +7342,13 @@ imported:
     표제어: 습관화
     품사: 명사
     항목ID: 83452
-processed:
+result:
   맞춤법 검사:
     표제어: 습관화
     품사: 명사
 ---
 000_KEYWORD: 습관화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83453
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7379,13 +7379,13 @@ imported:
     표제어: 습관화되다
     품사: 동사
     항목ID: 83453
-processed:
+result:
   맞춤법 검사:
     표제어: 습관화되다
     품사: 동사
 ---
 000_KEYWORD: 습관화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83454
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7414,13 +7414,13 @@ imported:
     표제어: 습관화하다
     품사: 동사
     항목ID: 83454
-processed:
+result:
   맞춤법 검사:
     표제어: 습관화하다
     품사: 동사
 ---
 000_KEYWORD: 습기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15852
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7450,13 +7450,13 @@ imported:
     표제어: 습기
     품사: 명사
     항목ID: 15852
-processed:
+result:
   맞춤법 검사:
     표제어: 습기
     품사: 명사
 ---
 000_KEYWORD: 습도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83455
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7485,13 +7485,13 @@ imported:
     표제어: 습도
     품사: 명사
     항목ID: 83455
-processed:
+result:
   맞춤법 검사:
     표제어: 습도
     품사: 명사
 ---
 000_KEYWORD: 습도계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83456
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7522,13 +7522,13 @@ imported:
     표제어: 습도계
     품사: 명사
     항목ID: 83456
-processed:
+result:
   맞춤법 검사:
     표제어: 습도계
     품사: 명사
 ---
 000_KEYWORD: 습득__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83458
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7570,13 +7570,13 @@ imported:
     - 발음: 습뜽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/83458_seuptteungman.wav
       형태: 습득만
-processed:
+result:
   맞춤법 검사:
     표제어: 습득
     품사: 명사
 ---
 000_KEYWORD: 습득되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83457
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7607,13 +7607,13 @@ imported:
     표제어: 습득되다
     품사: 동사
     항목ID: 83457
-processed:
+result:
   맞춤법 검사:
     표제어: 습득되다
     품사: 동사
 ---
 000_KEYWORD: 습득시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85482
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7642,13 +7642,13 @@ imported:
     표제어: 습득시키다
     품사: 동사
     항목ID: 85482
-processed:
+result:
   맞춤법 검사:
     표제어: 습득시키다
     품사: 동사
 ---
 000_KEYWORD: 습득하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83460
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7681,13 +7681,13 @@ imported:
     표제어: 습득하다
     품사: 동사
     항목ID: 83460
-processed:
+result:
   맞춤법 검사:
     표제어: 습득하다
     품사: 동사
 ---
 000_KEYWORD: 습득하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83459
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7716,13 +7716,13 @@ imported:
     표제어: 습득하다
     품사: 동사
     항목ID: 83459
-processed:
+result:
   맞춤법 검사:
     표제어: 습득하다
     품사: 동사
 ---
 000_KEYWORD: 습성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83461
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7767,13 +7767,13 @@ imported:
     표제어: 습성
     품사: 명사
     항목ID: 83461
-processed:
+result:
   맞춤법 검사:
     표제어: 습성
     품사: 명사
 ---
 000_KEYWORD: 습성화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83464
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7798,13 +7798,13 @@ imported:
     표제어: 습성화
     품사: 명사
     항목ID: 83464
-processed:
+result:
   맞춤법 검사:
     표제어: 습성화
     품사: 명사
 ---
 000_KEYWORD: 습성화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83463
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7835,13 +7835,13 @@ imported:
     표제어: 습성화되다
     품사: 동사
     항목ID: 83463
-processed:
+result:
   맞춤법 검사:
     표제어: 습성화되다
     품사: 동사
 ---
 000_KEYWORD: 습성화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83462
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7869,13 +7869,13 @@ imported:
     표제어: 습성화하다
     품사: 동사
     항목ID: 83462
-processed:
+result:
   맞춤법 검사:
     표제어: 습성화하다
     품사: 동사
 ---
 000_KEYWORD: 습식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65900
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7916,13 +7916,13 @@ imported:
     - 발음: 습씽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/65900_seupssingman.wav
       형태: 습식만
-processed:
+result:
   맞춤법 검사:
     표제어: 습식
     품사: 명사
 ---
 000_KEYWORD: 습작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65895
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7962,13 +7962,13 @@ imported:
     - 발음: 습짱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/65895_seupjjangman.wav
       형태: 습작만
-processed:
+result:
   맞춤법 검사:
     표제어: 습작
     품사: 명사
 ---
 000_KEYWORD: 습작하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65894
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7997,13 +7997,13 @@ imported:
     표제어: 습작하다
     품사: 동사
     항목ID: 65894
-processed:
+result:
   맞춤법 검사:
     표제어: 습작하다
     품사: 동사
 ---
 000_KEYWORD: 습지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65898
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8031,13 +8031,13 @@ imported:
     표제어: 습지
     품사: 명사
     항목ID: 65898
-processed:
+result:
   맞춤법 검사:
     표제어: 습지
     품사: 명사
 ---
 000_KEYWORD: 습지대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8047,13 +8047,13 @@ imported:
     표제어: 습지대
     품사: 명사:보통:비서술성
     항목ID: 16143
-processed:
+result:
   맞춤법 검사:
     표제어: 습지대
     품사: 명사
 ---
 000_KEYWORD: 습진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65899
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8083,13 +8083,13 @@ imported:
     표제어: 습진
     품사: 명사
     항목ID: 65899
-processed:
+result:
   맞춤법 검사:
     표제어: 습진
     품사: 명사
 ---
 000_KEYWORD: 습하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83465
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8132,13 +8132,13 @@ imported:
       형태: 습하니
     - 발음: 습팜니다
       형태: 습합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 습하다
     품사: 형용사
 ---
 000_KEYWORD: 승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87228
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8173,13 +8173,13 @@ imported:
     표제어: 승
     품사: 명사
     항목ID: 87228
-processed:
+result:
   맞춤법 검사:
     표제어: 승
     품사: 명사
 ---
 000_KEYWORD: 승__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83466
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8214,13 +8214,13 @@ imported:
     표제어: 승
     품사: 명사
     항목ID: 83466
-processed:
+result:
   맞춤법 검사:
     표제어: 승
     품사: 명사
 ---
 000_KEYWORD: 승__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83467
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8256,13 +8256,13 @@ imported:
     표제어: 승
     품사: 명사
     항목ID: 83467
-processed:
+result:
   맞춤법 검사:
     표제어: 승
     품사: 명사
 ---
 000_KEYWORD: 승__명사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83469
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8296,13 +8296,13 @@ imported:
     표제어: 승
     품사: 명사
     항목ID: 83469
-processed:
+result:
   맞춤법 검사:
     표제어: 승
     품사: 명사
 ---
 000_KEYWORD: 승__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83468
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8336,13 +8336,13 @@ imported:
     표제어: 승
     품사: 의존 명사
     항목ID: 83468
-processed:
+result:
   맞춤법 검사:
     표제어: 승
     품사: 의존 명사
 ---
 000_KEYWORD: 승강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83470
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8381,13 +8381,13 @@ imported:
     표제어: 승강
     품사: 명사
     항목ID: 83470
-processed:
+result:
   맞춤법 검사:
     표제어: 승강
     품사: 명사
 ---
 000_KEYWORD: 승강구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65893
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8420,13 +8420,13 @@ imported:
     표제어: 승강구
     품사: 명사
     항목ID: 65893
-processed:
+result:
   맞춤법 검사:
     표제어: 승강구
     품사: 명사
 ---
 000_KEYWORD: 승강기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65892
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8475,13 +8475,13 @@ imported:
     표제어: 승강기
     품사: 명사
     항목ID: 65892
-processed:
+result:
   맞춤법 검사:
     표제어: 승강기
     품사: 명사
 ---
 000_KEYWORD: 승강장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65890
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8520,13 +8520,13 @@ imported:
     표제어: 승강장
     품사: 명사
     항목ID: 65890
-processed:
+result:
   맞춤법 검사:
     표제어: 승강장
     품사: 명사
 ---
 000_KEYWORD: 승객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15945
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8565,13 +8565,13 @@ imported:
     - 발음: 승갱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/15945_seunggaengman.wav
       형태: 승객만
-processed:
+result:
   맞춤법 검사:
     표제어: 승객
     품사: 명사
 ---
 000_KEYWORD: 승격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65884
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8612,13 +8612,13 @@ imported:
     - 발음: 승꼉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/65884_seungkkyeongman.wav
       형태: 승격만
-processed:
+result:
   맞춤법 검사:
     표제어: 승격
     품사: 명사
 ---
 000_KEYWORD: 승격되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65883
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8649,13 +8649,13 @@ imported:
     표제어: 승격되다
     품사: 동사
     항목ID: 65883
-processed:
+result:
   맞춤법 검사:
     표제어: 승격되다
     품사: 동사
 ---
 000_KEYWORD: 승격하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65881
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8684,13 +8684,13 @@ imported:
     표제어: 승격하다
     품사: 동사
     항목ID: 65881
-processed:
+result:
   맞춤법 검사:
     표제어: 승격하다
     품사: 동사
 ---
 000_KEYWORD: 승계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83471
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8736,13 +8736,13 @@ imported:
     표제어: 승계
     품사: 명사
     항목ID: 83471
-processed:
+result:
   맞춤법 검사:
     표제어: 승계
     품사: 명사
 ---
 000_KEYWORD: 승계되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83472
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8787,13 +8787,13 @@ imported:
     표제어: 승계되다
     품사: 동사
     항목ID: 83472
-processed:
+result:
   맞춤법 검사:
     표제어: 승계되다
     품사: 동사
 ---
 000_KEYWORD: 승계하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83473
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8841,13 +8841,13 @@ imported:
     표제어: 승계하다
     품사: 동사
     항목ID: 83473
-processed:
+result:
   맞춤법 검사:
     표제어: 승계하다
     품사: 동사
 ---
 000_KEYWORD: 승급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83597
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8884,13 +8884,13 @@ imported:
     - 발음: 승금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/83597_seunggeumman.wav
       형태: 승급만
-processed:
+result:
   맞춤법 검사:
     표제어: 승급
     품사: 명사
 ---
 000_KEYWORD: 승급하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83596
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8918,13 +8918,13 @@ imported:
     표제어: 승급하다
     품사: 동사
     항목ID: 83596
-processed:
+result:
   맞춤법 검사:
     표제어: 승급하다
     품사: 동사
 ---
 000_KEYWORD: 승기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8933,13 +8933,13 @@ imported:
     표제어: 승기
     품사: 명사:보통:서술성
     항목ID: 16153
-processed:
+result:
   맞춤법 검사:
     표제어: 승기
     품사: 명사
 ---
 000_KEYWORD: 승낙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65897
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8992,13 +8992,13 @@ imported:
     - 발음: 승낭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/65897_seungnangman.wav
       형태: 승낙만
-processed:
+result:
   맞춤법 검사:
     표제어: 승낙
     품사: 명사
 ---
 000_KEYWORD: 승낙하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65896
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9041,13 +9041,13 @@ imported:
     표제어: 승낙하다
     품사: 동사
     항목ID: 65896
-processed:
+result:
   맞춤법 검사:
     표제어: 승낙하다
     품사: 동사
 ---
 000_KEYWORD: 승냥이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83600
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9074,13 +9074,13 @@ imported:
     표제어: 승냥이
     품사: 명사
     항목ID: 83600
-processed:
+result:
   맞춤법 검사:
     표제어: 승냥이
     품사: 명사
 ---
 000_KEYWORD: 승려__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65901
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9118,13 +9118,13 @@ imported:
     표제어: 승려
     품사: 명사
     항목ID: 65901
-processed:
+result:
   맞춤법 검사:
     표제어: 승려
     품사: 명사
 ---
 000_KEYWORD: 승률__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83601
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9154,13 +9154,13 @@ imported:
     표제어: 승률
     품사: 명사
     항목ID: 83601
-processed:
+result:
   맞춤법 검사:
     표제어: 승률
     품사: 명사
 ---
 000_KEYWORD: 승리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15946
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9194,13 +9194,13 @@ imported:
     표제어: 승리
     품사: 명사
     항목ID: 15946
-processed:
+result:
   맞춤법 검사:
     표제어: 승리
     품사: 명사
 ---
 000_KEYWORD: 승리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15949
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9233,13 +9233,13 @@ imported:
     표제어: 승리하다
     품사: 동사
     항목ID: 15949
-processed:
+result:
   맞춤법 검사:
     표제어: 승리하다
     품사: 동사
 ---
 000_KEYWORD: 승마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83602
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9290,13 +9290,13 @@ imported:
     표제어: 승마
     품사: 명사
     항목ID: 83602
-processed:
+result:
   맞춤법 검사:
     표제어: 승마
     품사: 명사
 ---
 000_KEYWORD: 승마복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83603
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9335,13 +9335,13 @@ imported:
     - 발음: 승마봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/83603_seungmabongman.wav
       형태: 승마복만
-processed:
+result:
   맞춤법 검사:
     표제어: 승마복
     품사: 명사
 ---
 000_KEYWORD: 승무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65874
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9367,13 +9367,13 @@ imported:
     표제어: 승무
     품사: 명사
     항목ID: 65874
-processed:
+result:
   맞춤법 검사:
     표제어: 승무
     품사: 명사
 ---
 000_KEYWORD: 승무__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65873
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9403,13 +9403,13 @@ imported:
     표제어: 승무
     품사: 명사
     항목ID: 65873
-processed:
+result:
   맞춤법 검사:
     표제어: 승무
     품사: 명사
 ---
 000_KEYWORD: 승무원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65871
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9441,13 +9441,13 @@ imported:
     표제어: 승무원
     품사: 명사
     항목ID: 65871
-processed:
+result:
   맞춤법 검사:
     표제어: 승무원
     품사: 명사
 ---
 000_KEYWORD: 승복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65870
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9486,13 +9486,13 @@ imported:
     - 발음: 승봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/65869_seungbongman.wav
       형태: 승복만
-processed:
+result:
   맞춤법 검사:
     표제어: 승복
     품사: 명사
 ---
 000_KEYWORD: 승복__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65869
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9528,13 +9528,13 @@ imported:
     - 발음: 승봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/65869_seungbongman.wav
       형태: 승복만
-processed:
+result:
   맞춤법 검사:
     표제어: 승복
     품사: 명사
 ---
 000_KEYWORD: 승복하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65868
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9564,13 +9564,13 @@ imported:
     표제어: 승복하다
     품사: 동사
     항목ID: 65868
-processed:
+result:
   맞춤법 검사:
     표제어: 승복하다
     품사: 동사
 ---
 000_KEYWORD: 승부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15951
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9611,13 +9611,13 @@ imported:
     표제어: 승부
     품사: 명사
     항목ID: 15951
-processed:
+result:
   맞춤법 검사:
     표제어: 승부
     품사: 명사
 ---
 000_KEYWORD: 승부사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9626,13 +9626,13 @@ imported:
     표제어: 승부사
     품사: 명사:보통:비서술성
     항목ID: 16165
-processed:
+result:
   맞춤법 검사:
     표제어: 승부사
     품사: 명사
 ---
 000_KEYWORD: 승부수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65574
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9663,13 +9663,13 @@ imported:
     표제어: 승부수
     품사: 명사
     항목ID: 65574
-processed:
+result:
   맞춤법 검사:
     표제어: 승부수
     품사: 명사
 ---
 000_KEYWORD: 승부욕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65575
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9707,13 +9707,13 @@ imported:
     - 발음: 승부용만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/65575_seungbuyongman.wav
       형태: 승부욕만
-processed:
+result:
   맞춤법 검사:
     표제어: 승부욕
     품사: 명사
 ---
 000_KEYWORD: 승부차기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9722,13 +9722,13 @@ imported:
     표제어: 승부차기
     품사: 명사:보통:비서술성
     항목ID: 16168
-processed:
+result:
   맞춤법 검사:
     표제어: 승부차기
     품사: 명사
 ---
 000_KEYWORD: 승부처__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65579
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9757,13 +9757,13 @@ imported:
     표제어: 승부처
     품사: 명사
     항목ID: 65579
-processed:
+result:
   맞춤법 검사:
     표제어: 승부처
     품사: 명사
 ---
 000_KEYWORD: 승산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65592
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9796,13 +9796,13 @@ imported:
     표제어: 승산
     품사: 명사
     항목ID: 65592
-processed:
+result:
   맞춤법 검사:
     표제어: 승산
     품사: 명사
 ---
 000_KEYWORD: 승선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65595
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9833,13 +9833,13 @@ imported:
     표제어: 승선
     품사: 명사
     항목ID: 65595
-processed:
+result:
   맞춤법 검사:
     표제어: 승선
     품사: 명사
 ---
 000_KEYWORD: 승선하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65605
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9868,13 +9868,13 @@ imported:
     표제어: 승선하다
     품사: 동사
     항목ID: 65605
-processed:
+result:
   맞춤법 검사:
     표제어: 승선하다
     품사: 동사
 ---
 000_KEYWORD: 승소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65607
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9910,13 +9910,13 @@ imported:
     표제어: 승소
     품사: 명사
     항목ID: 65607
-processed:
+result:
   맞춤법 검사:
     표제어: 승소
     품사: 명사
 ---
 000_KEYWORD: 승소하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65608
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9949,13 +9949,13 @@ imported:
     표제어: 승소하다
     품사: 동사
     항목ID: 65608
-processed:
+result:
   맞춤법 검사:
     표제어: 승소하다
     품사: 동사
 ---
 000_KEYWORD: 승승장구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65609
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -9990,13 +9990,13 @@ imported:
     표제어: 승승장구
     품사: 명사
     항목ID: 65609
-processed:
+result:
   맞춤법 검사:
     표제어: 승승장구
     품사: 명사
 ---
 000_KEYWORD: 승승장구하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65610
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10027,13 +10027,13 @@ imported:
     표제어: 승승장구하다
     품사: 동사
     항목ID: 65610
-processed:
+result:
   맞춤법 검사:
     표제어: 승승장구하다
     품사: 동사
 ---
 000_KEYWORD: 승압기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65620
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10062,13 +10062,13 @@ imported:
     표제어: 승압기
     품사: 명사
     항목ID: 65620
-processed:
+result:
   맞춤법 검사:
     표제어: 승압기
     품사: 명사
 ---
 000_KEYWORD: 승용차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65106
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10104,13 +10104,13 @@ imported:
     표제어: 승용차
     품사: 명사
     항목ID: 65106
-processed:
+result:
   맞춤법 검사:
     표제어: 승용차
     품사: 명사
 ---
 000_KEYWORD: 승인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65686
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10160,13 +10160,13 @@ imported:
     표제어: 승인
     품사: 명사
     항목ID: 65686
-processed:
+result:
   맞춤법 검사:
     표제어: 승인
     품사: 명사
 ---
 000_KEYWORD: 승인되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65692
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10213,13 +10213,13 @@ imported:
     표제어: 승인되다
     품사: 동사
     항목ID: 65692
-processed:
+result:
   맞춤법 검사:
     표제어: 승인되다
     품사: 동사
 ---
 000_KEYWORD: 승인서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65720
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10253,13 +10253,13 @@ imported:
     표제어: 승인서
     품사: 명사
     항목ID: 65720
-processed:
+result:
   맞춤법 검사:
     표제어: 승인서
     품사: 명사
 ---
 000_KEYWORD: 승인하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65691
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10303,13 +10303,13 @@ imported:
     표제어: 승인하다
     품사: 동사
     항목ID: 65691
-processed:
+result:
   맞춤법 검사:
     표제어: 승인하다
     품사: 동사
 ---
 000_KEYWORD: 승자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65640
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10347,13 +10347,13 @@ imported:
     표제어: 승자
     품사: 명사
     항목ID: 65640
-processed:
+result:
   맞춤법 검사:
     표제어: 승자
     품사: 명사
 ---
 000_KEYWORD: 승전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65636
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10387,13 +10387,13 @@ imported:
     표제어: 승전
     품사: 명사
     항목ID: 65636
-processed:
+result:
   맞춤법 검사:
     표제어: 승전
     품사: 명사
 ---
 000_KEYWORD: 승전가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65638
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10423,13 +10423,13 @@ imported:
     표제어: 승전가
     품사: 명사
     항목ID: 65638
-processed:
+result:
   맞춤법 검사:
     표제어: 승전가
     품사: 명사
 ---
 000_KEYWORD: 승전국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65639
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10475,13 +10475,13 @@ imported:
     - 발음: 승전궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/65639_seungjeongungman.wav
       형태: 승전국만
-processed:
+result:
   맞춤법 검사:
     표제어: 승전국
     품사: 명사
 ---
 000_KEYWORD: 승전보__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10490,13 +10490,13 @@ imported:
     표제어: 승전보
     품사: 명사:보통:서술성
     항목ID: 16183
-processed:
+result:
   맞춤법 검사:
     표제어: 승전보
     품사: 명사
 ---
 000_KEYWORD: 승전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65637
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10530,13 +10530,13 @@ imported:
     표제어: 승전하다
     품사: 동사
     항목ID: 65637
-processed:
+result:
   맞춤법 검사:
     표제어: 승전하다
     품사: 동사
 ---
 000_KEYWORD: 승점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65641
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10571,13 +10571,13 @@ imported:
     표제어: 승점
     품사: 명사
     항목ID: 65641
-processed:
+result:
   맞춤법 검사:
     표제어: 승점
     품사: 명사
 ---
 000_KEYWORD: 승조원__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10587,13 +10587,13 @@ imported:
     표제어: 승조원
     품사: 명사:보통:비서술성
     항목ID: 16185
-processed:
+result:
   맞춤법 검사:
     표제어: 승조원
     품사: 명사
 ---
 000_KEYWORD: 승진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15953
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10633,13 +10633,13 @@ imported:
     표제어: 승진
     품사: 명사
     항목ID: 15953
-processed:
+result:
   맞춤법 검사:
     표제어: 승진
     품사: 명사
 ---
 000_KEYWORD: 승진시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85483
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10668,13 +10668,13 @@ imported:
     표제어: 승진시키다
     품사: 동사
     항목ID: 85483
-processed:
+result:
   맞춤법 검사:
     표제어: 승진시키다
     품사: 동사
 ---
 000_KEYWORD: 승진인사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10683,13 +10683,13 @@ imported:
     표제어: 승진인사
     품사: 명사:보통:서술성
     항목ID: 16187
-processed:
+result:
   맞춤법 검사:
     표제어: 승진인사
     품사: 명사
 ---
 000_KEYWORD: 승진하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65642
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10725,13 +10725,13 @@ imported:
     표제어: 승진하다
     품사: 동사
     항목ID: 65642
-processed:
+result:
   맞춤법 검사:
     표제어: 승진하다
     품사: 동사
 ---
 000_KEYWORD: 승차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65644
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10770,13 +10770,13 @@ imported:
     표제어: 승차
     품사: 명사
     항목ID: 65644
-processed:
+result:
   맞춤법 검사:
     표제어: 승차
     품사: 명사
 ---
 000_KEYWORD: 승차감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65652
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10805,13 +10805,13 @@ imported:
     표제어: 승차감
     품사: 명사
     항목ID: 65652
-processed:
+result:
   맞춤법 검사:
     표제어: 승차감
     품사: 명사
 ---
 000_KEYWORD: 승차권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65661
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10853,13 +10853,13 @@ imported:
     표제어: 승차권
     품사: 명사
     항목ID: 65661
-processed:
+result:
   맞춤법 검사:
     표제어: 승차권
     품사: 명사
 ---
 000_KEYWORD: 승차하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65648
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10895,13 +10895,13 @@ imported:
     표제어: 승차하다
     품사: 동사
     항목ID: 65648
-processed:
+result:
   맞춤법 검사:
     표제어: 승차하다
     품사: 동사
 ---
 000_KEYWORD: 승천__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65718
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10943,13 +10943,13 @@ imported:
     표제어: 승천
     품사: 명사
     항목ID: 65718
-processed:
+result:
   맞춤법 검사:
     표제어: 승천
     품사: 명사
 ---
 000_KEYWORD: 승천하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65719
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -10990,13 +10990,13 @@ imported:
     표제어: 승천하다
     품사: 동사
     항목ID: 65719
-processed:
+result:
   맞춤법 검사:
     표제어: 승천하다
     품사: 동사
 ---
 000_KEYWORD: 승패__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65776
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -11032,13 +11032,13 @@ imported:
     표제어: 승패
     품사: 명사
     항목ID: 65776
-processed:
+result:
   맞춤법 검사:
     표제어: 승패
     품사: 명사
 ---
 000_KEYWORD: 승하차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65778
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -11069,13 +11069,13 @@ imported:
     표제어: 승하차
     품사: 명사
     항목ID: 65778
-processed:
+result:
   맞춤법 검사:
     표제어: 승하차
     품사: 명사
 ---
 000_KEYWORD: 승합차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65779
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -11108,13 +11108,13 @@ imported:
     표제어: 승합차
     품사: 명사
     항목ID: 65779
-processed:
+result:
   맞춤법 검사:
     표제어: 승합차
     품사: 명사
 ---
 000_KEYWORD: 승화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65818
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -11165,13 +11165,13 @@ imported:
     표제어: 승화
     품사: 명사
     항목ID: 65818
-processed:
+result:
   맞춤법 검사:
     표제어: 승화
     품사: 명사
 ---
 000_KEYWORD: 승화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65819
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -11217,13 +11217,13 @@ imported:
     표제어: 승화되다
     품사: 동사
     항목ID: 65819
-processed:
+result:
   맞춤법 검사:
     표제어: 승화되다
     품사: 동사
 ---
 000_KEYWORD: 승화시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85484
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -11252,13 +11252,13 @@ imported:
     표제어: 승화시키다
     품사: 동사
     항목ID: 85484
-processed:
+result:
   맞춤법 검사:
     표제어: 승화시키다
     품사: 동사
 ---
 000_KEYWORD: 승화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65820
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -11303,7 +11303,7 @@ imported:
     표제어: 승화하다
     품사: 동사
     항목ID: 65820
-processed:
+result:
   맞춤법 검사:
     표제어: 승화하다
     품사: 동사

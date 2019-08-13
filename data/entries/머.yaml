@@ -1,5 +1,5 @@
 000_KEYWORD: -머리__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74934
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -27,11 +27,11 @@ imported:
     표제어: -머리
     품사: 접사
     항목ID: 74934
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 머__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55428
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -85,13 +85,13 @@ imported:
     표제어: 머
     품사: 감탄사
     항목ID: 55428
-processed:
+result:
   맞춤법 검사:
     표제어: 머
     품사: 감탄사
 ---
 000_KEYWORD: 머__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55427
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -122,13 +122,13 @@ imported:
     표제어: 머
     품사: 대명사
     항목ID: 55427
-processed:
+result:
   맞춤법 검사:
     표제어: 머
     품사: 대명사
 ---
 000_KEYWORD: 머그잔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55430
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -159,13 +159,13 @@ imported:
     표제어: 머그잔
     품사: 명사
     항목ID: 55430
-processed:
+result:
   맞춤법 검사:
     표제어: 머그잔
     품사: 명사
 ---
 000_KEYWORD: 머금다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55429
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -235,13 +235,13 @@ imported:
     - 발음: 머그므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55429_meogeumeuni.wav
       형태: 머금으니
-processed:
+result:
   맞춤법 검사:
     표제어: 머금다
     품사: 동사
 ---
 000_KEYWORD: 머나먼__관형사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -251,13 +251,13 @@ imported:
     표제어: 머나먼
     품사: 관형사
     항목ID: 8836
-processed:
+result:
   맞춤법 검사:
     표제어: 머나먼
     품사: 관형사
 ---
 000_KEYWORD: 머나멀다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55393
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -291,13 +291,13 @@ imported:
     활용:
     - 발음: 머ː나먼
       형태: 머나먼
-processed:
+result:
   맞춤법 검사:
     표제어: 머나멀다
     품사: 형용사
 ---
 000_KEYWORD: 머루__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -307,13 +307,13 @@ imported:
     표제어: 머루
     품사: 명사:보통:서술성
     항목ID: 8837
-processed:
+result:
   맞춤법 검사:
     표제어: 머루
     품사: 명사
 ---
 000_KEYWORD: 머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66234
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -453,13 +453,13 @@ imported:
     표제어: 머리
     품사: 명사
     항목ID: 66234
-processed:
+result:
   맞춤법 검사:
     표제어: 머리
     품사: 명사
 ---
 000_KEYWORD: 머리글__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -469,13 +469,13 @@ imported:
     표제어: 머리글
     품사: 명사:보통:서술성
     항목ID: 8839
-processed:
+result:
   맞춤법 검사:
     표제어: 머리글
     품사: 명사
 ---
 000_KEYWORD: 머리글자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55392
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -503,13 +503,13 @@ imported:
     표제어: 머리글자
     품사: 명사
     항목ID: 55392
-processed:
+result:
   맞춤법 검사:
     표제어: 머리글자
     품사: 명사
 ---
 000_KEYWORD: 머리기사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55391
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -541,13 +541,13 @@ imported:
     표제어: 머리기사
     품사: 명사
     항목ID: 55391
-processed:
+result:
   맞춤법 검사:
     표제어: 머리기사
     품사: 명사
 ---
 000_KEYWORD: 머리꼭지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55389
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -579,13 +579,13 @@ imported:
     표제어: 머리꼭지
     품사: 명사
     항목ID: 55389
-processed:
+result:
   맞춤법 검사:
     표제어: 머리꼭지
     품사: 명사
 ---
 000_KEYWORD: 머리끄덩이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55388
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -610,13 +610,13 @@ imported:
     표제어: 머리끄덩이
     품사: 명사
     항목ID: 55388
-processed:
+result:
   맞춤법 검사:
     표제어: 머리끄덩이
     품사: 명사
 ---
 000_KEYWORD: 머리끝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55387
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -665,13 +665,13 @@ imported:
     - 발음: 머리끈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/55387_meorikkeunman.wav
       형태: 머리끝만
-processed:
+result:
   맞춤법 검사:
     표제어: 머리끝
     품사: 명사
 ---
 000_KEYWORD: 머리띠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55386
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -713,13 +713,13 @@ imported:
     표제어: 머리띠
     품사: 명사
     항목ID: 55386
-processed:
+result:
   맞춤법 검사:
     표제어: 머리띠
     품사: 명사
 ---
 000_KEYWORD: 머리말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15977
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -746,13 +746,13 @@ imported:
     표제어: 머리말
     품사: 명사
     항목ID: 15977
-processed:
+result:
   맞춤법 검사:
     표제어: 머리말
     품사: 명사
 ---
 000_KEYWORD: 머리맡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55385
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -797,13 +797,13 @@ imported:
     - 발음: 머리마틀
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55385_meorimateul.wav
       형태: 머리맡을
-processed:
+result:
   맞춤법 검사:
     표제어: 머리맡
     품사: 명사
 ---
 000_KEYWORD: 머리빗__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55384
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -848,13 +848,13 @@ imported:
     - 발음: 머리빈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55384_meoribinman.wav
       형태: 머리빗만
-processed:
+result:
   맞춤법 검사:
     표제어: 머리빗
     품사: 명사
 ---
 000_KEYWORD: 머리숱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55383
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -893,13 +893,13 @@ imported:
     - 발음: 머리수틀
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55383_meorisuteul.wav
       형태: 머리숱을
-processed:
+result:
   맞춤법 검사:
     표제어: 머리숱
     품사: 명사
 ---
 000_KEYWORD: 머리채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55382
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -926,13 +926,13 @@ imported:
     표제어: 머리채
     품사: 명사
     항목ID: 55382
-processed:
+result:
   맞춤법 검사:
     표제어: 머리채
     품사: 명사
 ---
 000_KEYWORD: 머리카락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55381
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -978,13 +978,13 @@ imported:
     - 발음: 머리카랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55381_meorikarangman.wav
       형태: 머리카락만
-processed:
+result:
   맞춤법 검사:
     표제어: 머리카락
     품사: 명사
 ---
 000_KEYWORD: 머리칼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15978
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1019,13 +1019,13 @@ imported:
     표제어: 머리칼
     품사: 명사
     항목ID: 15978
-processed:
+result:
   맞춤법 검사:
     표제어: 머리칼
     품사: 명사
 ---
 000_KEYWORD: 머리털__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55380
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1059,13 +1059,13 @@ imported:
     표제어: 머리털
     품사: 명사
     항목ID: 55380
-processed:
+result:
   맞춤법 검사:
     표제어: 머리털
     품사: 명사
 ---
 000_KEYWORD: 머리통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55379
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1105,13 +1105,13 @@ imported:
     표제어: 머리통
     품사: 명사
     항목ID: 55379
-processed:
+result:
   맞춤법 검사:
     표제어: 머리통
     품사: 명사
 ---
 000_KEYWORD: 머리핀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55378
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1144,13 +1144,13 @@ imported:
     표제어: 머리핀
     품사: 명사
     항목ID: 55378
-processed:
+result:
   맞춤법 검사:
     표제어: 머리핀
     품사: 명사
 ---
 000_KEYWORD: 머리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55377
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1177,13 +1177,13 @@ imported:
     표제어: 머리하다
     품사: 동사
     항목ID: 55377
-processed:
+result:
   맞춤법 검사:
     표제어: 머리하다
     품사: 동사
 ---
 000_KEYWORD: 머릿결__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55376
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1213,13 +1213,13 @@ imported:
     표제어: 머릿결
     품사: 명사
     항목ID: 55376
-processed:
+result:
   맞춤법 검사:
     표제어: 머릿결
     품사: 명사
 ---
 000_KEYWORD: 머릿기름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55375
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1244,13 +1244,13 @@ imported:
     표제어: 머릿기름
     품사: 명사
     항목ID: 55375
-processed:
+result:
   맞춤법 검사:
     표제어: 머릿기름
     품사: 명사
 ---
 000_KEYWORD: 머릿돌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55374
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1280,13 +1280,13 @@ imported:
     표제어: 머릿돌
     품사: 명사
     항목ID: 55374
-processed:
+result:
   맞춤법 검사:
     표제어: 머릿돌
     품사: 명사
 ---
 000_KEYWORD: 머릿속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55373
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1335,13 +1335,13 @@ imported:
     - 발음: 머릳쏭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55373_meoritssongman.wav
       형태: 머릿속만
-processed:
+result:
   맞춤법 검사:
     표제어: 머릿속
     품사: 명사
 ---
 000_KEYWORD: 머릿수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54782
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1370,13 +1370,13 @@ imported:
     표제어: 머릿수
     품사: 명사
     항목ID: 54782
-processed:
+result:
   맞춤법 검사:
     표제어: 머릿수
     품사: 명사
 ---
 000_KEYWORD: 머릿수건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54784
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1418,13 +1418,13 @@ imported:
     표제어: 머릿수건
     품사: 명사
     항목ID: 54784
-processed:
+result:
   맞춤법 검사:
     표제어: 머릿수건
     품사: 명사
 ---
 000_KEYWORD: 머무르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62324
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1491,7 +1491,7 @@ imported:
     - 발음: 머무름니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/mieum_2005/meomureuda.wav
       형태: 머무릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -1499,7 +1499,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 머무적거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54786
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1538,13 +1538,13 @@ imported:
     표제어: 머무적거리다
     품사: 동사
     항목ID: 54786
-processed:
+result:
   맞춤법 검사:
     표제어: 머무적거리다
     품사: 동사
 ---
 000_KEYWORD: 머무적대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89644
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1584,13 +1584,13 @@ imported:
     표제어: 머무적대다
     품사: 동사
     항목ID: 89644
-processed:
+result:
   맞춤법 검사:
     표제어: 머무적대다
     품사: 동사
 ---
 000_KEYWORD: 머무적머무적__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54788
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1621,13 +1621,13 @@ imported:
     표제어: 머무적머무적
     품사: 부사
     항목ID: 54788
-processed:
+result:
   맞춤법 검사:
     표제어: 머무적머무적
     품사: 부사
 ---
 000_KEYWORD: 머무적머무적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89645
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1666,13 +1666,13 @@ imported:
     표제어: 머무적머무적하다
     품사: 동사
     항목ID: 89645
-processed:
+result:
   맞춤법 검사:
     표제어: 머무적머무적하다
     품사: 동사
 ---
 000_KEYWORD: 머물다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15980
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1734,17 +1734,17 @@ imported:
     - 발음: 머뭄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/mieum_2005/meomulda.wav
       형태: 머뭅니다
-processed:
+result:
   맞춤법 검사:
     표제어: 머물다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 준말용언
 ---
 000_KEYWORD: 머뭇거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54791
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1785,13 +1785,13 @@ imported:
     표제어: 머뭇거리다
     품사: 동사
     항목ID: 54791
-processed:
+result:
   맞춤법 검사:
     표제어: 머뭇거리다
     품사: 동사
 ---
 000_KEYWORD: 머뭇대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89646
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1831,13 +1831,13 @@ imported:
     표제어: 머뭇대다
     품사: 동사
     항목ID: 89646
-processed:
+result:
   맞춤법 검사:
     표제어: 머뭇대다
     품사: 동사
 ---
 000_KEYWORD: 머뭇머뭇__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54792
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1868,13 +1868,13 @@ imported:
     표제어: 머뭇머뭇
     품사: 부사
     항목ID: 54792
-processed:
+result:
   맞춤법 검사:
     표제어: 머뭇머뭇
     품사: 부사
 ---
 000_KEYWORD: 머뭇머뭇하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54794
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1913,13 +1913,13 @@ imported:
     표제어: 머뭇머뭇하다
     품사: 동사
     항목ID: 54794
-processed:
+result:
   맞춤법 검사:
     표제어: 머뭇머뭇하다
     품사: 동사
 ---
 000_KEYWORD: 머뭇하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54795
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1947,13 +1947,13 @@ imported:
     표제어: 머뭇하다
     품사: 동사
     항목ID: 54795
-processed:
+result:
   맞춤법 검사:
     표제어: 머뭇하다
     품사: 동사
 ---
 000_KEYWORD: 머스터드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54797
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1981,13 +1981,13 @@ imported:
     표제어: 머스터드
     품사: 명사
     항목ID: 54797
-processed:
+result:
   맞춤법 검사:
     표제어: 머스터드
     품사: 명사
 ---
 000_KEYWORD: 머슴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54798
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2014,13 +2014,13 @@ imported:
     표제어: 머슴
     품사: 명사
     항목ID: 54798
-processed:
+result:
   맞춤법 검사:
     표제어: 머슴
     품사: 명사
 ---
 000_KEYWORD: 머쓱하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54799
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2070,13 +2070,13 @@ imported:
       형태: 머쓱하니
     - 발음: 머쓰캄니다
       형태: 머쓱합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 머쓱하다
     품사: 형용사
 ---
 000_KEYWORD: 머저리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54800
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2101,13 +2101,13 @@ imported:
     표제어: 머저리
     품사: 명사
     항목ID: 54800
-processed:
+result:
   맞춤법 검사:
     표제어: 머저리
     품사: 명사
 ---
 000_KEYWORD: 머지않다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54801
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2154,13 +2154,13 @@ imported:
       형태: 머지않고
     - 발음: 머지안치
       형태: 머지않지
-processed:
+result:
   맞춤법 검사:
     표제어: 머지않다
     품사: 형용사
 ---
 000_KEYWORD: 머플러__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54802
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2205,13 +2205,13 @@ imported:
     표제어: 머플러
     품사: 명사
     항목ID: 54802
-processed:
+result:
   맞춤법 검사:
     표제어: 머플러
     품사: 명사
 ---
 000_KEYWORD: 머핀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54803
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2240,13 +2240,13 @@ imported:
     표제어: 머핀
     품사: 명사
     항목ID: 54803
-processed:
+result:
   맞춤법 검사:
     표제어: 머핀
     품사: 명사
 ---
 000_KEYWORD: 먹-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74935
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2266,11 +2266,11 @@ imported:
     표제어: 먹-
     품사: 접사
     항목ID: 74935
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 먹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54804
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2339,13 +2339,13 @@ imported:
     - 발음: 멍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54804_meongman.wav
       형태: 먹만
-processed:
+result:
   맞춤법 검사:
     표제어: 먹
     품사: 명사
 ---
 000_KEYWORD: 먹거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91160
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2376,13 +2376,13 @@ imported:
     표제어: 먹거리
     품사: 명사
     항목ID: 91160
-processed:
+result:
   맞춤법 검사:
     표제어: 먹거리
     품사: 명사
 ---
 000_KEYWORD: 먹고살다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15982
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2422,13 +2422,13 @@ imported:
     - 발음: 먹꼬삼니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/15982_meokkkosamnida.wav
       형태: 먹고삽니다
-processed:
+result:
   맞춤법 검사:
     표제어: 먹고살다
     품사: 동사
 ---
 000_KEYWORD: 먹구름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54805
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2474,13 +2474,13 @@ imported:
     표제어: 먹구름
     품사: 명사
     항목ID: 54805
-processed:
+result:
   맞춤법 검사:
     표제어: 먹구름
     품사: 명사
 ---
 000_KEYWORD: 먹구름장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54806
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2505,13 +2505,13 @@ imported:
     표제어: 먹구름장
     품사: 명사
     항목ID: 54806
-processed:
+result:
   맞춤법 검사:
     표제어: 먹구름장
     품사: 명사
 ---
 000_KEYWORD: 먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15983
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2550,13 +2550,13 @@ imported:
     - 발음: 멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/15983_meongneun.wav
       형태: 먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 먹다
     품사: 동사
 ---
 000_KEYWORD: 먹다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58272
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2963,13 +2963,13 @@ imported:
     - 발음: 멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/15983_meongneun.wav
       형태: 먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 먹다
     품사: 동사
 ---
 000_KEYWORD: 먹다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77243
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3004,7 +3004,7 @@ imported:
       형태: 먹으니
     - 발음: 먹씀니다
       형태: 먹습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -3012,7 +3012,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 먹먹하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54807
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3058,13 +3058,13 @@ imported:
       형태: 먹먹하니
     - 발음: 멍머캄니다
       형태: 먹먹합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 먹먹하다
     품사: 형용사
 ---
 000_KEYWORD: 먹물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54808
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3122,13 +3122,13 @@ imported:
     표제어: 먹물
     품사: 명사
     항목ID: 54808
-processed:
+result:
   맞춤법 검사:
     표제어: 먹물
     품사: 명사
 ---
 000_KEYWORD: 먹보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54809
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3153,13 +3153,13 @@ imported:
     표제어: 먹보
     품사: 명사
     항목ID: 54809
-processed:
+result:
   맞춤법 검사:
     표제어: 먹보
     품사: 명사
 ---
 000_KEYWORD: 먹성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54810
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3201,13 +3201,13 @@ imported:
     표제어: 먹성
     품사: 명사
     항목ID: 54810
-processed:
+result:
   맞춤법 검사:
     표제어: 먹성
     품사: 명사
 ---
 000_KEYWORD: 먹을거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54814
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3238,13 +3238,13 @@ imported:
     표제어: 먹을거리
     품사: 명사
     항목ID: 54814
-processed:
+result:
   맞춤법 검사:
     표제어: 먹을거리
     품사: 명사
 ---
 000_KEYWORD: 먹음직스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54816
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3286,7 +3286,7 @@ imported:
     - 발음: 머금직쓰럽씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54816_meogeumjiksseureopsseumnida.wav
       형태: 먹음직스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -3294,7 +3294,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 먹음직스레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91161
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3323,13 +3323,13 @@ imported:
     표제어: 먹음직스레
     품사: 부사
     항목ID: 91161
-processed:
+result:
   맞춤법 검사:
     표제어: 먹음직스레
     품사: 부사
 ---
 000_KEYWORD: 먹음직하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54817
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3373,13 +3373,13 @@ imported:
     - 발음: 머금지캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/54817_meogeumjikamnida.wav
       형태: 먹음직합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 먹음직하다
     품사: 형용사
 ---
 000_KEYWORD: 먹이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15985
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3408,13 +3408,13 @@ imported:
     표제어: 먹이
     품사: 명사
     항목ID: 15985
-processed:
+result:
   맞춤법 검사:
     표제어: 먹이
     품사: 명사
 ---
 000_KEYWORD: 먹이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61953
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3519,13 +3519,13 @@ imported:
     - 발음: 머기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/61953_meogini.wav
       형태: 먹이니
-processed:
+result:
   맞춤법 검사:
     표제어: 먹이다
     품사: 동사
 ---
 000_KEYWORD: 먹잇감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54820
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3554,13 +3554,13 @@ imported:
     표제어: 먹잇감
     품사: 명사
     항목ID: 54820
-processed:
+result:
   맞춤법 검사:
     표제어: 먹잇감
     품사: 명사
 ---
 000_KEYWORD: 먹자골목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54821
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3598,13 +3598,13 @@ imported:
     - 발음: 먹짜골몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/54821_meokjjagolmongman.wav
       형태: 먹자골목만
-processed:
+result:
   맞춤법 검사:
     표제어: 먹자골목
     품사: 명사
 ---
 000_KEYWORD: 먹자판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54824
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3631,13 +3631,13 @@ imported:
     표제어: 먹자판
     품사: 명사
     항목ID: 54824
-processed:
+result:
   맞춤법 검사:
     표제어: 먹자판
     품사: 명사
 ---
 000_KEYWORD: 먹장구름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54826
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3671,13 +3671,13 @@ imported:
     표제어: 먹장구름
     품사: 명사
     항목ID: 54826
-processed:
+result:
   맞춤법 검사:
     표제어: 먹장구름
     품사: 명사
 ---
 000_KEYWORD: 먹장어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3687,13 +3687,13 @@ imported:
     표제어: 먹장어
     품사: 명사:보통:비서술성
     항목ID: 8875
-processed:
+result:
   맞춤법 검사:
     표제어: 먹장어
     품사: 명사
 ---
 000_KEYWORD: 먹지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54828
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3725,13 +3725,13 @@ imported:
     표제어: 먹지
     품사: 명사
     항목ID: 54828
-processed:
+result:
   맞춤법 검사:
     표제어: 먹지
     품사: 명사
 ---
 000_KEYWORD: 먹칠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54829
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3769,13 +3769,13 @@ imported:
     표제어: 먹칠
     품사: 명사
     항목ID: 54829
-processed:
+result:
   맞춤법 검사:
     표제어: 먹칠
     품사: 명사
 ---
 000_KEYWORD: 먹칠하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54830
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3816,13 +3816,13 @@ imported:
     표제어: 먹칠하다
     품사: 동사
     항목ID: 54830
-processed:
+result:
   맞춤법 검사:
     표제어: 먹칠하다
     품사: 동사
 ---
 000_KEYWORD: 먹통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54833
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3846,13 +3846,13 @@ imported:
     표제어: 먹통
     품사: 명사
     항목ID: 54833
-processed:
+result:
   맞춤법 검사:
     표제어: 먹통
     품사: 명사
 ---
 000_KEYWORD: 먹혀들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54834
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3891,17 +3891,17 @@ imported:
     - 발음: 머켜듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54834_meokyeodeumnida.wav
       형태: 먹혀듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 먹혀들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 먹히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62055
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3982,13 +3982,13 @@ imported:
     - 발음: 머키니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/62055_meokini.wav
       형태: 먹히니
-processed:
+result:
   맞춤법 검사:
     표제어: 먹히다
     품사: 동사
 ---
 000_KEYWORD: 먼동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54836
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4016,13 +4016,13 @@ imported:
     표제어: 먼동
     품사: 명사
     항목ID: 54836
-processed:
+result:
   맞춤법 검사:
     표제어: 먼동
     품사: 명사
 ---
 000_KEYWORD: 먼바다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54837
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4052,13 +4052,13 @@ imported:
     표제어: 먼바다
     품사: 명사
     항목ID: 54837
-processed:
+result:
   맞춤법 검사:
     표제어: 먼바다
     품사: 명사
 ---
 000_KEYWORD: 먼발치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54838
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4084,13 +4084,13 @@ imported:
     표제어: 먼발치
     품사: 명사
     항목ID: 54838
-processed:
+result:
   맞춤법 검사:
     표제어: 먼발치
     품사: 명사
 ---
 000_KEYWORD: 먼저__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54839
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4118,13 +4118,13 @@ imported:
     표제어: 먼저
     품사: 명사
     항목ID: 54839
-processed:
+result:
   맞춤법 검사:
     표제어: 먼저
     품사: 명사
 ---
 000_KEYWORD: 먼저__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54840
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4147,13 +4147,13 @@ imported:
     표제어: 먼저
     품사: 부사
     항목ID: 54840
-processed:
+result:
   맞춤법 검사:
     표제어: 먼저
     품사: 부사
 ---
 000_KEYWORD: 먼젓번__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54842
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4187,13 +4187,13 @@ imported:
     표제어: 먼젓번
     품사: 명사
     항목ID: 54842
-processed:
+result:
   맞춤법 검사:
     표제어: 먼젓번
     품사: 명사
 ---
 000_KEYWORD: 먼지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54843
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4223,13 +4223,13 @@ imported:
     표제어: 먼지
     품사: 명사
     항목ID: 54843
-processed:
+result:
   맞춤법 검사:
     표제어: 먼지
     품사: 명사
 ---
 000_KEYWORD: 먼지떨이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54845
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4258,13 +4258,13 @@ imported:
     표제어: 먼지떨이
     품사: 명사
     항목ID: 54845
-processed:
+result:
   맞춤법 검사:
     표제어: 먼지떨이
     품사: 명사
 ---
 000_KEYWORD: 먼지투성이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54846
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4292,13 +4292,13 @@ imported:
     표제어: 먼지투성이
     품사: 명사
     항목ID: 54846
-processed:
+result:
   맞춤법 검사:
     표제어: 먼지투성이
     품사: 명사
 ---
 000_KEYWORD: 멀거니__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54849
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4325,13 +4325,13 @@ imported:
     표제어: 멀거니
     품사: 부사
     항목ID: 54849
-processed:
+result:
   맞춤법 검사:
     표제어: 멀거니
     품사: 부사
 ---
 000_KEYWORD: 멀겋다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54852
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4401,7 +4401,7 @@ imported:
     - 발음: 멀ː거씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/54852_meor-geosseumnida.wav
       형태: 멀겋습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -4409,7 +4409,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 멀끔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54854
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4454,13 +4454,13 @@ imported:
       형태: 멀끔하니
     - 발음: 멀끔함니다
       형태: 멀끔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멀끔하다
     품사: 형용사
 ---
 000_KEYWORD: 멀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54855
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4507,13 +4507,13 @@ imported:
     - 발음: 멈ː니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54855_meom-nida.wav
       형태: 멉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멀다
     품사: 동사
 ---
 000_KEYWORD: 멀다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26833
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4650,13 +4650,13 @@ imported:
     - 발음: 멈ː니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54855_meom-nida.wav
       형태: 멉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멀다
     품사: 형용사
 ---
 000_KEYWORD: 멀뚱거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54857
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4693,13 +4693,13 @@ imported:
     표제어: 멀뚱거리다
     품사: 동사
     항목ID: 54857
-processed:
+result:
   맞춤법 검사:
     표제어: 멀뚱거리다
     품사: 동사
 ---
 000_KEYWORD: 멀뚱대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89647
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4733,13 +4733,13 @@ imported:
     표제어: 멀뚱대다
     품사: 동사
     항목ID: 89647
-processed:
+result:
   맞춤법 검사:
     표제어: 멀뚱대다
     품사: 동사
 ---
 000_KEYWORD: 멀뚱멀뚱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54859
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4786,13 +4786,13 @@ imported:
     표제어: 멀뚱멀뚱
     품사: 부사
     항목ID: 54859
-processed:
+result:
   맞춤법 검사:
     표제어: 멀뚱멀뚱
     품사: 부사
 ---
 000_KEYWORD: 멀뚱멀뚱하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54860
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4833,13 +4833,13 @@ imported:
       형태: 멀뚱멀뚱하니
     - 발음: 멀뚱멀뚱함니다
       형태: 멀뚱멀뚱합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멀뚱멀뚱하다
     품사: 형용사
 ---
 000_KEYWORD: 멀뚱하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54963
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4877,13 +4877,13 @@ imported:
       형태: 멀뚱하니
     - 발음: 멀뚱함니다
       형태: 멀뚱합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멀뚱하다
     품사: 형용사
 ---
 000_KEYWORD: 멀뚱히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54964
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4910,13 +4910,13 @@ imported:
     표제어: 멀뚱히
     품사: 부사
     항목ID: 54964
-processed:
+result:
   맞춤법 검사:
     표제어: 멀뚱히
     품사: 부사
 ---
 000_KEYWORD: 멀리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93620
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4941,13 +4941,13 @@ imported:
     표제어: 멀리
     품사: 명사
     항목ID: 93620
-processed:
+result:
   맞춤법 검사:
     표제어: 멀리
     품사: 명사
 ---
 000_KEYWORD: 멀리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54965
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4984,13 +4984,13 @@ imported:
     표제어: 멀리
     품사: 부사
     항목ID: 54965
-processed:
+result:
   맞춤법 검사:
     표제어: 멀리
     품사: 부사
 ---
 000_KEYWORD: 멀리뛰기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54966
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5023,13 +5023,13 @@ imported:
     표제어: 멀리뛰기
     품사: 명사
     항목ID: 54966
-processed:
+result:
   맞춤법 검사:
     표제어: 멀리뛰기
     품사: 명사
 ---
 000_KEYWORD: 멀리멀리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54967
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5058,13 +5058,13 @@ imported:
     표제어: 멀리멀리
     품사: 부사
     항목ID: 54967
-processed:
+result:
   맞춤법 검사:
     표제어: 멀리멀리
     품사: 부사
 ---
 000_KEYWORD: 멀리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54968
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5114,13 +5114,13 @@ imported:
     표제어: 멀리하다
     품사: 동사
     항목ID: 54968
-processed:
+result:
   맞춤법 검사:
     표제어: 멀리하다
     품사: 동사
 ---
 000_KEYWORD: 멀미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54969
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5159,13 +5159,13 @@ imported:
     표제어: 멀미
     품사: 명사
     항목ID: 54969
-processed:
+result:
   맞춤법 검사:
     표제어: 멀미
     품사: 명사
 ---
 000_KEYWORD: 멀미하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54970
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5203,13 +5203,13 @@ imported:
     표제어: 멀미하다
     품사: 동사
     항목ID: 54970
-processed:
+result:
   맞춤법 검사:
     표제어: 멀미하다
     품사: 동사
 ---
 000_KEYWORD: 멀쑥하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54971
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5264,13 +5264,13 @@ imported:
       형태: 멀쑥하니
     - 발음: 멀쑤캄니다
       형태: 멀쑥합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멀쑥하다
     품사: 형용사
 ---
 000_KEYWORD: 멀어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62082
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5342,7 +5342,7 @@ imported:
     - 발음: 머ː러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/62082_meo-reojini.wav
       형태: 멀어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -5350,7 +5350,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 멀쩡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54972
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5427,13 +5427,13 @@ imported:
       형태: 멀쩡하니
     - 발음: 멀쩡함니다
       형태: 멀쩡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멀쩡하다
     품사: 형용사
 ---
 000_KEYWORD: 멀쩡히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54973
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5460,13 +5460,13 @@ imported:
     표제어: 멀쩡히
     품사: 부사
     항목ID: 54973
-processed:
+result:
   맞춤법 검사:
     표제어: 멀쩡히
     품사: 부사
 ---
 000_KEYWORD: 멀찌감치__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54974
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5498,13 +5498,13 @@ imported:
     표제어: 멀찌감치
     품사: 부사
     항목ID: 54974
-processed:
+result:
   맞춤법 검사:
     표제어: 멀찌감치
     품사: 부사
 ---
 000_KEYWORD: 멀찍이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54975
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5535,13 +5535,13 @@ imported:
     표제어: 멀찍이
     품사: 부사
     항목ID: 54975
-processed:
+result:
   맞춤법 검사:
     표제어: 멀찍이
     품사: 부사
 ---
 000_KEYWORD: 멀찍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54976
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5577,13 +5577,13 @@ imported:
       형태: 멀찍하니
     - 발음: 멀찌캄니다
       형태: 멀찍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멀찍하다
     품사: 형용사
 ---
 000_KEYWORD: 멀티미디어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54977
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5606,13 +5606,13 @@ imported:
     표제어: 멀티미디어
     품사: 명사
     항목ID: 54977
-processed:
+result:
   맞춤법 검사:
     표제어: 멀티미디어
     품사: 명사
 ---
 000_KEYWORD: 멀티태스킹__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5622,13 +5622,13 @@ imported:
     표제어: 멀티태스킹
     품사: 명사:보통:서술성
     항목ID: 8899
-processed:
+result:
   맞춤법 검사:
     표제어: 멀티태스킹
     품사: 명사
 ---
 000_KEYWORD: 멈추다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=46133
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5723,13 +5723,13 @@ imported:
     활용:
     - 형태: 멈추어
     - 형태: 멈추니
-processed:
+result:
   맞춤법 검사:
     표제어: 멈추다
     품사: 동사
 ---
 000_KEYWORD: 멈칫__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54978
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5756,13 +5756,13 @@ imported:
     표제어: 멈칫
     품사: 부사
     항목ID: 54978
-processed:
+result:
   맞춤법 검사:
     표제어: 멈칫
     품사: 부사
 ---
 000_KEYWORD: 멈칫거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54979
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5797,13 +5797,13 @@ imported:
     표제어: 멈칫거리다
     품사: 동사
     항목ID: 54979
-processed:
+result:
   맞춤법 검사:
     표제어: 멈칫거리다
     품사: 동사
 ---
 000_KEYWORD: 멈칫대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89648
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5838,13 +5838,13 @@ imported:
     표제어: 멈칫대다
     품사: 동사
     항목ID: 89648
-processed:
+result:
   맞춤법 검사:
     표제어: 멈칫대다
     품사: 동사
 ---
 000_KEYWORD: 멈칫멈칫__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54980
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5871,13 +5871,13 @@ imported:
     표제어: 멈칫멈칫
     품사: 부사
     항목ID: 54980
-processed:
+result:
   맞춤법 검사:
     표제어: 멈칫멈칫
     품사: 부사
 ---
 000_KEYWORD: 멈칫멈칫하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89649
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5912,13 +5912,13 @@ imported:
     표제어: 멈칫멈칫하다
     품사: 동사
     항목ID: 89649
-processed:
+result:
   맞춤법 검사:
     표제어: 멈칫멈칫하다
     품사: 동사
 ---
 000_KEYWORD: 멈칫하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54981
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5946,13 +5946,13 @@ imported:
     표제어: 멈칫하다
     품사: 동사
     항목ID: 54981
-processed:
+result:
   맞춤법 검사:
     표제어: 멈칫하다
     품사: 동사
 ---
 000_KEYWORD: 멋__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54982
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6010,13 +6010,13 @@ imported:
     - 발음: 먼만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54982_meonman.wav
       형태: 멋만
-processed:
+result:
   맞춤법 검사:
     표제어: 멋
     품사: 명사
 ---
 000_KEYWORD: 멋대로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54983
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6056,13 +6056,13 @@ imported:
     표제어: 멋대로
     품사: 부사
     항목ID: 54983
-processed:
+result:
   맞춤법 검사:
     표제어: 멋대로
     품사: 부사
 ---
 000_KEYWORD: 멋들어지다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54984
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6108,7 +6108,7 @@ imported:
       형태: 멋들어지니
     - 발음: 먿뜨러짐니다
       형태: 멋들어집니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -6116,7 +6116,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 멋모르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54985
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6153,7 +6153,7 @@ imported:
     - 발음: 먼모르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54985_meonmoreuni.wav
       형태: 멋모르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -6161,7 +6161,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 멋스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54986
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6203,7 +6203,7 @@ imported:
       형태: 멋스러우니
     - 발음: 먿쓰럽씀니다
       형태: 멋스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6211,7 +6211,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 멋없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54987
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6257,13 +6257,13 @@ imported:
     - 발음: 머덥찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54987_meodeopjji.wav
       형태: 멋없지
-processed:
+result:
   맞춤법 검사:
     표제어: 멋없다
     품사: 형용사
 ---
 000_KEYWORD: 멋있다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15989
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6326,13 +6326,13 @@ imported:
       형태: 멋있습니다
     - 발음: 머싣씀니다
       형태: 멋있습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멋있다
     품사: 형용사
 ---
 000_KEYWORD: 멋장이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92225
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6345,10 +6345,10 @@ imported:
     표제어: 멋장이
     품사: 명사
     항목ID: 92225
-processed: {}
+result: {}
 ---
 000_KEYWORD: 멋쟁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54988
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6378,13 +6378,13 @@ imported:
     표제어: 멋쟁이
     품사: 명사
     항목ID: 54988
-processed:
+result:
   맞춤법 검사:
     표제어: 멋쟁이
     품사: 명사
 ---
 000_KEYWORD: 멋지다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15991
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6433,13 +6433,13 @@ imported:
       형태: 멋지니
     - 발음: 먿찜니다
       형태: 멋집니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멋지다
     품사: 형용사
 ---
 000_KEYWORD: 멋쩍다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54989
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6494,13 +6494,13 @@ imported:
       형태: 멋쩍으니
     - 발음: 먿쩍씀니다
       형태: 멋쩍습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멋쩍다
     품사: 형용사
 ---
 000_KEYWORD: 멍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54990
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6539,13 +6539,13 @@ imported:
     표제어: 멍
     품사: 명사
     항목ID: 54990
-processed:
+result:
   맞춤법 검사:
     표제어: 멍
     품사: 명사
 ---
 000_KEYWORD: 멍들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54991
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6598,13 +6598,13 @@ imported:
     - 발음: 멍듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54991_meongdeumnida.wav
       형태: 멍듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멍들다
     품사: 동사
 ---
 000_KEYWORD: 멍멍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15992
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6629,13 +6629,13 @@ imported:
     표제어: 멍멍
     품사: 부사
     항목ID: 15992
-processed:
+result:
   맞춤법 검사:
     표제어: 멍멍
     품사: 부사
 ---
 000_KEYWORD: 멍멍이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6645,13 +6645,13 @@ imported:
     표제어: 멍멍이
     품사: 명사:보통:비서술성
     항목ID: 8916
-processed:
+result:
   맞춤법 검사:
     표제어: 멍멍이
     품사: 명사
 ---
 000_KEYWORD: 멍멍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55813
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6690,13 +6690,13 @@ imported:
       형태: 멍멍하니
     - 발음: 멍멍함니다
       형태: 멍멍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멍멍하다
     품사: 형용사
 ---
 000_KEYWORD: 멍석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55505
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6738,13 +6738,13 @@ imported:
     - 발음: 멍성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55505_meongseongman.wav
       형태: 멍석만
-processed:
+result:
   맞춤법 검사:
     표제어: 멍석
     품사: 명사
 ---
 000_KEYWORD: 멍석말이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55506
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6773,13 +6773,13 @@ imported:
     표제어: 멍석말이
     품사: 명사
     항목ID: 55506
-processed:
+result:
   맞춤법 검사:
     표제어: 멍석말이
     품사: 명사
 ---
 000_KEYWORD: 멍에__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55507
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6822,13 +6822,13 @@ imported:
     표제어: 멍에
     품사: 명사
     항목ID: 55507
-processed:
+result:
   맞춤법 검사:
     표제어: 멍에
     품사: 명사
 ---
 000_KEYWORD: 멍울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55508
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6887,13 +6887,13 @@ imported:
     표제어: 멍울
     품사: 명사
     항목ID: 55508
-processed:
+result:
   맞춤법 검사:
     표제어: 멍울
     품사: 명사
 ---
 000_KEYWORD: 멍울멍울__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55509
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6922,13 +6922,13 @@ imported:
     표제어: 멍울멍울
     품사: 부사
     항목ID: 55509
-processed:
+result:
   맞춤법 검사:
     표제어: 멍울멍울
     품사: 부사
 ---
 000_KEYWORD: 멍청이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55510
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6959,13 +6959,13 @@ imported:
     표제어: 멍청이
     품사: 명사
     항목ID: 55510
-processed:
+result:
   맞춤법 검사:
     표제어: 멍청이
     품사: 명사
 ---
 000_KEYWORD: 멍청하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55812
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7020,13 +7020,13 @@ imported:
       형태: 멍청하니
     - 발음: 멍청함니다
       형태: 멍청합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멍청하다
     품사: 형용사
 ---
 000_KEYWORD: 멍청히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55511
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7066,13 +7066,13 @@ imported:
     표제어: 멍청히
     품사: 부사
     항목ID: 55511
-processed:
+result:
   맞춤법 검사:
     표제어: 멍청히
     품사: 부사
 ---
 000_KEYWORD: 멍키스패너__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7083,13 +7083,13 @@ imported:
     표제어: 멍키스패너
     품사: 명사:보통:비서술성
     항목ID: 8920
-processed:
+result:
   맞춤법 검사:
     표제어: 멍키스패너
     품사: 명사
 ---
 000_KEYWORD: 멍텅구리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55512
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7120,13 +7120,13 @@ imported:
     표제어: 멍텅구리
     품사: 명사
     항목ID: 55512
-processed:
+result:
   맞춤법 검사:
     표제어: 멍텅구리
     품사: 명사
 ---
 000_KEYWORD: 멍하니__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55515
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7155,13 +7155,13 @@ imported:
     표제어: 멍하니
     품사: 부사
     항목ID: 55515
-processed:
+result:
   맞춤법 검사:
     표제어: 멍하니
     품사: 부사
 ---
 000_KEYWORD: 멍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55811
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7216,13 +7216,13 @@ imported:
       형태: 멍하니
     - 발음: 멍ː함니다
       형태: 멍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 멍하다
     품사: 형용사
 ---
 000_KEYWORD: 멍히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55516
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7256,13 +7256,13 @@ imported:
     표제어: 멍히
     품사: 부사
     항목ID: 55516
-processed:
+result:
   맞춤법 검사:
     표제어: 멍히
     품사: 부사
 ---
 000_KEYWORD: 멎다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15993
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7324,7 +7324,7 @@ imported:
     - 발음: 먼는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/15993_meonneun.wav
       형태: 멎는
-processed:
+result:
   맞춤법 검사:
     표제어: 멎다
     품사: 동사

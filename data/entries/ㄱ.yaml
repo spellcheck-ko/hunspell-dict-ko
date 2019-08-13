@@ -1,5 +1,5 @@
 000_KEYWORD: ㄱ__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69069
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -25,7 +25,7 @@ imported:
     - 발음: 기영만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/69070_giyeongman.wav
       형태: ㄱ만
-processed:
+result:
   맞춤법 검사:
     표제어: ㄱ
     품사: 명사

@@ -1,5 +1,5 @@
 000_KEYWORD: 촬영__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72131
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -35,13 +35,13 @@ imported:
     표제어: 촬영
     품사: 명사
     항목ID: 72131
-processed:
+result:
   맞춤법 검사:
     표제어: 촬영
     품사: 명사
 ---
 000_KEYWORD: 촬영기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82517
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -70,13 +70,13 @@ imported:
     표제어: 촬영기
     품사: 명사
     항목ID: 82517
-processed:
+result:
   맞춤법 검사:
     표제어: 촬영기
     품사: 명사
 ---
 000_KEYWORD: 촬영되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -85,13 +85,13 @@ imported:
     표제어: 촬영되다
     품사: 동사
     항목ID: 26649
-processed:
+result:
   맞춤법 검사:
     표제어: 촬영되다
     품사: 동사
 ---
 000_KEYWORD: 촬영분__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -100,13 +100,13 @@ imported:
     표제어: 촬영분
     품사: 명사:보통:서술성
     항목ID: 26650
-processed:
+result:
   맞춤법 검사:
     표제어: 촬영분
     품사: 명사
 ---
 000_KEYWORD: 촬영소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82520
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -138,13 +138,13 @@ imported:
     표제어: 촬영소
     품사: 명사
     항목ID: 82520
-processed:
+result:
   맞춤법 검사:
     표제어: 촬영소
     품사: 명사
 ---
 000_KEYWORD: 촬영장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82521
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -172,13 +172,13 @@ imported:
     표제어: 촬영장
     품사: 명사
     항목ID: 82521
-processed:
+result:
   맞춤법 검사:
     표제어: 촬영장
     품사: 명사
 ---
 000_KEYWORD: 촬영지__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -187,13 +187,13 @@ imported:
     표제어: 촬영지
     품사: 명사:보통:비서술성
     항목ID: 26653
-processed:
+result:
   맞춤법 검사:
     표제어: 촬영지
     품사: 명사
 ---
 000_KEYWORD: 촬영하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82522
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -222,7 +222,7 @@ imported:
     표제어: 촬영하다
     품사: 동사
     항목ID: 82522
-processed:
+result:
   맞춤법 검사:
     표제어: 촬영하다
     품사: 동사

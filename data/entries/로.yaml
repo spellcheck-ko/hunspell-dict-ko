@@ -1,5 +1,5 @@
 000_KEYWORD: -로__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92129
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -26,11 +26,11 @@ imported:
     표제어: -로
     품사: 접사
     항목ID: 92129
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -로__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92128
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -49,11 +49,11 @@ imported:
     표제어: -로
     품사: 접사
     항목ID: 92128
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -로구나__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79271
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -88,11 +88,11 @@ imported:
     표제어: -로구나
     품사: 어미
     항목ID: 79271
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -로구려__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79405
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -122,11 +122,11 @@ imported:
     표제어: -로구려
     품사: 어미
     항목ID: 79405
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -로구먼__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83734
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -160,11 +160,11 @@ imported:
     표제어: -로구먼
     품사: 어미
     항목ID: 83734
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -로군__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81575
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -220,11 +220,11 @@ imported:
     표제어: -로군
     품사: 어미
     항목ID: 81575
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -로다__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89451
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -248,11 +248,11 @@ imported:
     표제어: -로다
     품사: 어미
     항목ID: 89451
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -로되__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86551
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -277,11 +277,11 @@ imported:
     표제어: -로되
     품사: 어미
     항목ID: 86551
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -로세__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81535
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -302,11 +302,11 @@ imported:
     표제어: -로세
     품사: 어미
     항목ID: 81535
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -론__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74916
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -365,11 +365,11 @@ imported:
     표제어: -론
     품사: 접사
     항목ID: 74916
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -롭다__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92127
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -396,11 +396,11 @@ imported:
     표제어: -롭다
     품사: 접사
     항목ID: 92127
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 로__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85761
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -566,11 +566,11 @@ imported:
     표제어: 로
     품사: 조사
     항목ID: 85761
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 로고__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -580,13 +580,13 @@ imported:
     표제어: 로고
     품사: 명사:보통:비서술성
     항목ID: 8118
-processed:
+result:
   맞춤법 검사:
     표제어: 로고
     품사: 명사
 ---
 000_KEYWORD: 로구만__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92511
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -599,10 +599,10 @@ imported:
     표제어: 로구만
     품사: 어미
     항목ID: 92511
-processed: {}
+result: {}
 ---
 000_KEYWORD: 로그__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -613,13 +613,13 @@ imported:
     표제어: 로그
     품사: 명사:보통:서술성
     항목ID: 8119
-processed:
+result:
   맞춤법 검사:
     표제어: 로그
     품사: 명사
 ---
 000_KEYWORD: 로그아웃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52530
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -644,13 +644,13 @@ imported:
     표제어: 로그아웃
     품사: 명사
     항목ID: 52530
-processed:
+result:
   맞춤법 검사:
     표제어: 로그아웃
     품사: 명사
 ---
 000_KEYWORD: 로그아웃하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -660,13 +660,13 @@ imported:
     표제어: 로그아웃하다
     품사: 동사
     항목ID: 8121
-processed:
+result:
   맞춤법 검사:
     표제어: 로그아웃하다
     품사: 동사
 ---
 000_KEYWORD: 로그인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52528
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -695,13 +695,13 @@ imported:
     표제어: 로그인
     품사: 명사
     항목ID: 52528
-processed:
+result:
   맞춤법 검사:
     표제어: 로그인
     품사: 명사
 ---
 000_KEYWORD: 로그인하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -711,13 +711,13 @@ imported:
     표제어: 로그인하다
     품사: 동사
     항목ID: 8123
-processed:
+result:
   맞춤법 검사:
     표제어: 로그인하다
     품사: 동사
 ---
 000_KEYWORD: 로까지__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85919
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -741,11 +741,11 @@ imported:
     표제어: 로까지
     품사: 조사
     항목ID: 85919
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 로다가__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86550
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -897,11 +897,11 @@ imported:
     표제어: 로다가
     품사: 조사
     항목ID: 86550
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 로더__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -912,13 +912,13 @@ imported:
     표제어: 로더
     품사: 명사:보통:비서술성
     항목ID: 8124
-processed:
+result:
   맞춤법 검사:
     표제어: 로더
     품사: 명사
 ---
 000_KEYWORD: 로데오__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -928,13 +928,13 @@ imported:
     표제어: 로데오
     품사: 명사:보통:서술성
     항목ID: 8125
-processed:
+result:
   맞춤법 검사:
     표제어: 로데오
     품사: 명사
 ---
 000_KEYWORD: 로렌츠__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -945,13 +945,13 @@ imported:
     표제어: 로렌츠
     품사: 명사:보통:서술성
     항목ID: 8128
-processed:
+result:
   맞춤법 검사:
     표제어: 로렌츠
     품사: 명사
 ---
 000_KEYWORD: 로렌츠곡선__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -961,13 +961,13 @@ imported:
     표제어: 로렌츠곡선
     품사: 명사:보통:서술성
     항목ID: 8129
-processed:
+result:
   맞춤법 검사:
     표제어: 로렌츠곡선
     품사: 명사
 ---
 000_KEYWORD: 로마__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -976,13 +976,13 @@ imported:
     표제어: 로마
     품사: 명사:보통:서술성
     항목ID: 8130
-processed:
+result:
   맞춤법 검사:
     표제어: 로마
     품사: 명사
 ---
 000_KEYWORD: 로마인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -991,13 +991,13 @@ imported:
     표제어: 로마인
     품사: 명사:보통:비서술성
     항목ID: 8131
-processed:
+result:
   맞춤법 검사:
     표제어: 로마인
     품사: 명사
 ---
 000_KEYWORD: 로마자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52526
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1019,13 +1019,13 @@ imported:
     표제어: 로마자
     품사: 명사
     항목ID: 52526
-processed:
+result:
   맞춤법 검사:
     표제어: 로마자
     품사: 명사
 ---
 000_KEYWORD: 로망__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1035,13 +1035,13 @@ imported:
     표제어: 로망
     품사: 명사:보통:서술성
     항목ID: 8133
-processed:
+result:
   맞춤법 검사:
     표제어: 로망
     품사: 명사
 ---
 000_KEYWORD: 로맨스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52524
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1065,13 +1065,13 @@ imported:
     표제어: 로맨스
     품사: 명사
     항목ID: 52524
-processed:
+result:
   맞춤법 검사:
     표제어: 로맨스
     품사: 명사
 ---
 000_KEYWORD: 로맨틱하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52522
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1102,13 +1102,13 @@ imported:
     - 형태: 로맨틱하여
     - 형태: 로맨틱하니
     - 형태: 로맨틱합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 로맨틱하다
     품사: 형용사
 ---
 000_KEYWORD: 로보트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92219
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1122,10 +1122,10 @@ imported:
     표제어: 로보트
     품사: 명사
     항목ID: 92219
-processed: {}
+result: {}
 ---
 000_KEYWORD: 로봇__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15538
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1177,13 +1177,13 @@ imported:
     표제어: 로봇
     품사: 명사
     항목ID: 15538
-processed:
+result:
   맞춤법 검사:
     표제어: 로봇
     품사: 명사
 ---
 000_KEYWORD: 로봇공학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1193,13 +1193,13 @@ imported:
     표제어: 로봇공학
     품사: 명사:보통:서술성
     항목ID: 8137
-processed:
+result:
   맞춤법 검사:
     표제어: 로봇공학
     품사: 명사
 ---
 000_KEYWORD: 로부터__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80332
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1229,11 +1229,11 @@ imported:
     표제어: 로부터
     품사: 조사
     항목ID: 80332
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 로비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52520
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1270,13 +1270,13 @@ imported:
     표제어: 로비
     품사: 명사
     항목ID: 52520
-processed:
+result:
   맞춤법 검사:
     표제어: 로비
     품사: 명사
 ---
 000_KEYWORD: 로서__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70301
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1304,11 +1304,11 @@ imported:
     표제어: 로서
     품사: 조사
     항목ID: 70301
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 로션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52519
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1336,13 +1336,13 @@ imported:
     표제어: 로션
     품사: 명사
     항목ID: 52519
-processed:
+result:
   맞춤법 검사:
     표제어: 로션
     품사: 명사
 ---
 000_KEYWORD: 로스앤젤레스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1352,13 +1352,13 @@ imported:
     표제어: 로스앤젤레스
     품사: 명사:고유
     항목ID: 8140
-processed:
+result:
   맞춤법 검사:
     표제어: 로스앤젤레스
     품사: 명사
 ---
 000_KEYWORD: 로스쿨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1368,13 +1368,13 @@ imported:
     표제어: 로스쿨
     품사: 명사:보통:비서술성
     항목ID: 8141
-processed:
+result:
   맞춤법 검사:
     표제어: 로스쿨
     품사: 명사
 ---
 000_KEYWORD: 로스트비프__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1384,13 +1384,13 @@ imported:
     표제어: 로스트비프
     품사: 명사:보통:서술성
     항목ID: 8142
-processed:
+result:
   맞춤법 검사:
     표제어: 로스트비프
     품사: 명사
 ---
 000_KEYWORD: 로써__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80297
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1449,11 +1449,11 @@ imported:
     표제어: 로써
     품사: 조사
     항목ID: 80297
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 로열티__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52518
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1475,13 +1475,13 @@ imported:
     표제어: 로열티
     품사: 명사
     항목ID: 52518
-processed:
+result:
   맞춤법 검사:
     표제어: 로열티
     품사: 명사
 ---
 000_KEYWORD: 로즈메리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1492,13 +1492,13 @@ imported:
     표제어: 로즈메리
     품사: 명사:보통:비서술성
     항목ID: 8144
-processed:
+result:
   맞춤법 검사:
     표제어: 로즈메리
     품사: 명사
 ---
 000_KEYWORD: 로케이션__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1509,13 +1509,13 @@ imported:
     표제어: 로케이션
     품사: 명사:보통:서술성
     항목ID: 8145
-processed:
+result:
   맞춤법 검사:
     표제어: 로케이션
     품사: 명사
 ---
 000_KEYWORD: 로켓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52516
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1537,13 +1537,13 @@ imported:
     표제어: 로켓
     품사: 명사
     항목ID: 52516
-processed:
+result:
   맞춤법 검사:
     표제어: 로켓
     품사: 명사
 ---
 000_KEYWORD: 로크__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1554,13 +1554,13 @@ imported:
     표제어: 로크
     품사: 명사:보통:서술성
     항목ID: 8147
-processed:
+result:
   맞춤법 검사:
     표제어: 로크
     품사: 명사
 ---
 000_KEYWORD: 로큰롤__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1570,13 +1570,13 @@ imported:
     표제어: 로큰롤
     품사: 명사:보통:서술성
     항목ID: 8148
-processed:
+result:
   맞춤법 검사:
     표제어: 로큰롤
     품사: 명사
 ---
 000_KEYWORD: 로터리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15541
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1598,13 +1598,13 @@ imported:
     표제어: 로터리
     품사: 명사
     항목ID: 15541
-processed:
+result:
   맞춤법 검사:
     표제어: 로터리
     품사: 명사
 ---
 000_KEYWORD: 로테이션__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1614,13 +1614,13 @@ imported:
     표제어: 로테이션
     품사: 명사:보통:서술성
     항목ID: 8150
-processed:
+result:
   맞춤법 검사:
     표제어: 로테이션
     품사: 명사
 ---
 000_KEYWORD: 로프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52510
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1653,13 +1653,13 @@ imported:
     표제어: 로프
     품사: 명사
     항목ID: 52510
-processed:
+result:
   맞춤법 검사:
     표제어: 로프
     품사: 명사
 ---
 000_KEYWORD: 롤__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1669,13 +1669,13 @@ imported:
     표제어: 롤
     품사: 명사:보통:비서술성
     항목ID: 8152
-processed:
+result:
   맞춤법 검사:
     표제어: 롤
     품사: 명사
 ---
 000_KEYWORD: 롤러__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52508
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1702,13 +1702,13 @@ imported:
     표제어: 롤러
     품사: 명사
     항목ID: 52508
-processed:
+result:
   맞춤법 검사:
     표제어: 롤러
     품사: 명사
 ---
 000_KEYWORD: 롤러스케이트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52504
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1731,13 +1731,13 @@ imported:
     표제어: 롤러스케이트
     품사: 명사
     항목ID: 52504
-processed:
+result:
   맞춤법 검사:
     표제어: 롤러스케이트
     품사: 명사
 ---
 000_KEYWORD: 롤러코스터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1747,13 +1747,13 @@ imported:
     표제어: 롤러코스터
     품사: 명사:보통:비서술성
     항목ID: 8155
-processed:
+result:
   맞춤법 검사:
     표제어: 롤러코스터
     품사: 명사
 ---
 000_KEYWORD: 롤빵__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1764,13 +1764,13 @@ imported:
     표제어: 롤빵
     품사: 명사:보통:비서술성
     항목ID: 8156
-processed:
+result:
   맞춤법 검사:
     표제어: 롤빵
     품사: 명사
 ---
 000_KEYWORD: 롤플레잉__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1781,13 +1781,13 @@ imported:
     표제어: 롤플레잉
     품사: 명사:보통:서술성
     항목ID: 8157
-processed:
+result:
   맞춤법 검사:
     표제어: 롤플레잉
     품사: 명사
 ---
 000_KEYWORD: 롬__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1798,7 +1798,7 @@ imported:
     표제어: 롬
     품사: 명사:보통:서술성
     항목ID: 8158
-processed:
+result:
   맞춤법 검사:
     표제어: 롬
     품사: 명사

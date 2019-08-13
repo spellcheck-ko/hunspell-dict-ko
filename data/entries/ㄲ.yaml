@@ -1,5 +1,5 @@
 000_KEYWORD: ㄲ__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69071
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -24,7 +24,7 @@ imported:
       형태: ㄲ도
     - 발음: 쌍기역만
       형태: ㄲ만
-processed:
+result:
   맞춤법 검사:
     표제어: ㄲ
     품사: 명사

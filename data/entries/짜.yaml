@@ -1,5 +1,5 @@
 000_KEYWORD: -짜리__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78254
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -25,11 +25,11 @@ imported:
     표제어: -짜리
     품사: 접사
     항목ID: 78254
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -짝__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88686
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -51,11 +51,11 @@ imported:
     표제어: -짝
     품사: 접사
     항목ID: 88686
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 짜개다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77755
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -87,13 +87,13 @@ imported:
     활용:
     - 형태: 짜개어
     - 형태: 짜개니
-processed:
+result:
   맞춤법 검사:
     표제어: 짜개다
     품사: 동사
 ---
 000_KEYWORD: 짜깁기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77756
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -133,13 +133,13 @@ imported:
     표제어: 짜깁기
     품사: 명사
     항목ID: 77756
-processed:
+result:
   맞춤법 검사:
     표제어: 짜깁기
     품사: 명사
 ---
 000_KEYWORD: 짜깁기하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -148,13 +148,13 @@ imported:
     표제어: 짜깁기하다
     품사: 동사
     항목ID: 25576
-processed:
+result:
   맞춤법 검사:
     표제어: 짜깁기하다
     품사: 동사
 ---
 000_KEYWORD: 짜내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78252
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -230,17 +230,17 @@ imported:
     활용:
     - 형태: 짜내어
     - 형태: 짜내니
-processed:
+result:
   맞춤법 검사:
     표제어: 짜내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 짜다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37053
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -329,13 +329,13 @@ imported:
     활용:
     - 형태: 짜
     - 형태: 짜니
-processed:
+result:
   맞춤법 검사:
     표제어: 짜다
     품사: 동사
 ---
 000_KEYWORD: 짜다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37058
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -399,13 +399,13 @@ imported:
     활용:
     - 형태: 짜
     - 형태: 짜니
-processed:
+result:
   맞춤법 검사:
     표제어: 짜다
     품사: 동사
 ---
 000_KEYWORD: 짜다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71578
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -466,13 +466,13 @@ imported:
       형태: 짜니
     - 발음: 짬니다
       형태: 짭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짜다
     품사: 형용사
 ---
 000_KEYWORD: 짜디짜다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78253
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -530,13 +530,13 @@ imported:
       형태: 짜디짜니
     - 발음: 짜디짬니다
       형태: 짜디짭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짜디짜다
     품사: 형용사
 ---
 000_KEYWORD: 짜르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92374
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -549,11 +549,10 @@ imported:
     표제어: 짜르다
     품사: 동사
     항목ID: 92374
-processed: {}
-processed_overrides: {}
+result: {}
 ---
 000_KEYWORD: 짜릿짜릿__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78257
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -593,13 +592,13 @@ imported:
     표제어: 짜릿짜릿
     품사: 부사
     항목ID: 78257
-processed:
+result:
   맞춤법 검사:
     표제어: 짜릿짜릿
     품사: 부사
 ---
 000_KEYWORD: 짜릿짜릿하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78256
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -652,13 +651,13 @@ imported:
       형태: 짜릿짜릿하니
     - 발음: 짜릳짜리탐니다
       형태: 짜릿짜릿합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짜릿짜릿하다
     품사: 형용사
 ---
 000_KEYWORD: 짜릿하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78258
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -712,13 +711,13 @@ imported:
       형태: 짜릿하니
     - 발음: 짜리탐니다
       형태: 짜릿합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짜릿하다
     품사: 형용사
 ---
 000_KEYWORD: 짜이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78259
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -810,13 +809,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78259_jjaiyeo.wav
       형태: 짜이어
     - 형태: 짜이니
-processed:
+result:
   맞춤법 검사:
     표제어: 짜이다
     품사: 동사
 ---
 000_KEYWORD: 짜임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78260
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -844,13 +843,13 @@ imported:
     표제어: 짜임
     품사: 명사
     항목ID: 78260
-processed:
+result:
   맞춤법 검사:
     표제어: 짜임
     품사: 명사
 ---
 000_KEYWORD: 짜임새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78261
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -898,13 +897,13 @@ imported:
     표제어: 짜임새
     품사: 명사
     항목ID: 78261
-processed:
+result:
   맞춤법 검사:
     표제어: 짜임새
     품사: 명사
 ---
 000_KEYWORD: 짜장면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78263
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -944,13 +943,13 @@ imported:
     표제어: 짜장면
     품사: 명사
     항목ID: 78263
-processed:
+result:
   맞춤법 검사:
     표제어: 짜장면
     품사: 명사
 ---
 000_KEYWORD: 짜증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71579
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -980,13 +979,13 @@ imported:
     표제어: 짜증
     품사: 명사
     항목ID: 71579
-processed:
+result:
   맞춤법 검사:
     표제어: 짜증
     품사: 명사
 ---
 000_KEYWORD: 짜증스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37139
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1027,7 +1026,7 @@ imported:
       형태: 짜증스러우니
     - 발음: 짜증스럽씀니다
       형태: 짜증스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1035,7 +1034,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 짝-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88685
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1052,11 +1051,11 @@ imported:
     표제어: 짝-
     품사: 접사
     항목ID: 88685
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 짝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37141
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1136,13 +1135,13 @@ imported:
     - 발음: 짱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37141_jjangman.wav
       형태: 짝만
-processed:
+result:
   맞춤법 검사:
     표제어: 짝
     품사: 명사
 ---
 000_KEYWORD: 짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78265
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1203,13 +1202,13 @@ imported:
     표제어: 짝
     품사: 부사
     항목ID: 78265
-processed:
+result:
   맞춤법 검사:
     표제어: 짝
     품사: 부사
 ---
 000_KEYWORD: 짝__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78266
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1257,13 +1256,13 @@ imported:
     표제어: 짝
     품사: 부사
     항목ID: 78266
-processed:
+result:
   맞춤법 검사:
     표제어: 짝
     품사: 부사
 ---
 000_KEYWORD: 짝__부사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78267
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1291,13 +1290,13 @@ imported:
     표제어: 짝
     품사: 부사
     항목ID: 78267
-processed:
+result:
   맞춤법 검사:
     표제어: 짝
     품사: 부사
 ---
 000_KEYWORD: 짝__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78264
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1329,13 +1328,13 @@ imported:
     - 발음: 짱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37141_jjangman.wav
       형태: 짝만
-processed:
+result:
   맞춤법 검사:
     표제어: 짝
     품사: 의존 명사
 ---
 000_KEYWORD: 짝꿍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78268
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1375,13 +1374,13 @@ imported:
     표제어: 짝꿍
     품사: 명사
     항목ID: 78268
-processed:
+result:
   맞춤법 검사:
     표제어: 짝꿍
     품사: 명사
 ---
 000_KEYWORD: 짝눈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78270
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1421,13 +1420,13 @@ imported:
     표제어: 짝눈
     품사: 명사
     항목ID: 78270
-processed:
+result:
   맞춤법 검사:
     표제어: 짝눈
     품사: 명사
 ---
 000_KEYWORD: 짝사랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78271
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1457,13 +1456,13 @@ imported:
     표제어: 짝사랑
     품사: 명사
     항목ID: 78271
-processed:
+result:
   맞춤법 검사:
     표제어: 짝사랑
     품사: 명사
 ---
 000_KEYWORD: 짝사랑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78272
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1491,13 +1490,13 @@ imported:
     표제어: 짝사랑하다
     품사: 동사
     항목ID: 78272
-processed:
+result:
   맞춤법 검사:
     표제어: 짝사랑하다
     품사: 동사
 ---
 000_KEYWORD: 짝수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78273
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1533,13 +1532,13 @@ imported:
     표제어: 짝수
     품사: 명사
     항목ID: 78273
-processed:
+result:
   맞춤법 검사:
     표제어: 짝수
     품사: 명사
 ---
 000_KEYWORD: 짝짓기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78275
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1581,13 +1580,13 @@ imported:
     표제어: 짝짓기
     품사: 명사
     항목ID: 78275
-processed:
+result:
   맞춤법 검사:
     표제어: 짝짓기
     품사: 명사
 ---
 000_KEYWORD: 짝짓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78281
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1638,7 +1637,7 @@ imported:
     - 발음: 짝찐는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78281_jjakjjinneun.wav
       형태: 짝짓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -1646,7 +1645,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 짝짜꿍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78276
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1686,13 +1685,13 @@ imported:
     표제어: 짝짜꿍
     품사: 명사
     항목ID: 78276
-processed:
+result:
   맞춤법 검사:
     표제어: 짝짜꿍
     품사: 명사
 ---
 000_KEYWORD: 짝짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78277
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1758,13 +1757,13 @@ imported:
     표제어: 짝짝
     품사: 부사
     항목ID: 78277
-processed:
+result:
   맞춤법 검사:
     표제어: 짝짝
     품사: 부사
 ---
 000_KEYWORD: 짝짝__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78280
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1813,13 +1812,13 @@ imported:
     표제어: 짝짝
     품사: 부사
     항목ID: 78280
-processed:
+result:
   맞춤법 검사:
     표제어: 짝짝
     품사: 부사
 ---
 000_KEYWORD: 짝짝__부사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78279
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1874,13 +1873,13 @@ imported:
     표제어: 짝짝
     품사: 부사
     항목ID: 78279
-processed:
+result:
   맞춤법 검사:
     표제어: 짝짝
     품사: 부사
 ---
 000_KEYWORD: 짝짝__부사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78913
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1907,13 +1906,13 @@ imported:
     표제어: 짝짝
     품사: 부사
     항목ID: 78913
-processed:
+result:
   맞춤법 검사:
     표제어: 짝짝
     품사: 부사
 ---
 000_KEYWORD: 짝짝이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78914
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1943,13 +1942,13 @@ imported:
     표제어: 짝짝이
     품사: 명사
     항목ID: 78914
-processed:
+result:
   맞춤법 검사:
     표제어: 짝짝이
     품사: 명사
 ---
 000_KEYWORD: 짝퉁__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1959,13 +1958,13 @@ imported:
     표제어: 짝퉁
     품사: 명사:보통:비서술성
     항목ID: 25593
-processed:
+result:
   맞춤법 검사:
     표제어: 짝퉁
     품사: 명사
 ---
 000_KEYWORD: 짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78915
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1995,13 +1994,13 @@ imported:
     표제어: 짝하다
     품사: 동사
     항목ID: 78915
-processed:
+result:
   맞춤법 검사:
     표제어: 짝하다
     품사: 동사
 ---
 000_KEYWORD: 짠돌이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2010,13 +2009,13 @@ imported:
     표제어: 짠돌이
     품사: 명사:보통:비서술성
     항목ID: 25594
-processed:
+result:
   맞춤법 검사:
     표제어: 짠돌이
     품사: 명사
 ---
 000_KEYWORD: 짠맛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78916
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2055,13 +2054,13 @@ imported:
     - 발음: 짠만만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78916_jjanmanman.wav
       형태: 짠맛만
-processed:
+result:
   맞춤법 검사:
     표제어: 짠맛
     품사: 명사
 ---
 000_KEYWORD: 짠물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78917
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2087,13 +2086,13 @@ imported:
     표제어: 짠물
     품사: 명사
     항목ID: 78917
-processed:
+result:
   맞춤법 검사:
     표제어: 짠물
     품사: 명사
 ---
 000_KEYWORD: 짠순이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78918
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2120,13 +2119,13 @@ imported:
     표제어: 짠순이
     품사: 명사
     항목ID: 78918
-processed:
+result:
   맞춤법 검사:
     표제어: 짠순이
     품사: 명사
 ---
 000_KEYWORD: 짠지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78919
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2156,13 +2155,13 @@ imported:
     표제어: 짠지
     품사: 명사
     항목ID: 78919
-processed:
+result:
   맞춤법 검사:
     표제어: 짠지
     품사: 명사
 ---
 000_KEYWORD: 짠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78920
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2201,13 +2200,13 @@ imported:
       형태: 짠하니
     - 발음: 짠ː함니다
       형태: 짠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짠하다
     품사: 형용사
 ---
 000_KEYWORD: 짤따랗다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78921
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2251,7 +2250,7 @@ imported:
     - 발음: 짤따라씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78921_jjalttarasseumnida.wav
       형태: 짤따랗습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -2259,7 +2258,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 짤랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78922
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2287,13 +2286,13 @@ imported:
     표제어: 짤랑
     품사: 부사
     항목ID: 78922
-processed:
+result:
   맞춤법 검사:
     표제어: 짤랑
     품사: 부사
 ---
 000_KEYWORD: 짤랑거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78923
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2329,13 +2328,13 @@ imported:
     표제어: 짤랑거리다
     품사: 동사
     항목ID: 78923
-processed:
+result:
   맞춤법 검사:
     표제어: 짤랑거리다
     품사: 동사
 ---
 000_KEYWORD: 짤랑대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91029
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2370,13 +2369,13 @@ imported:
     표제어: 짤랑대다
     품사: 동사
     항목ID: 91029
-processed:
+result:
   맞춤법 검사:
     표제어: 짤랑대다
     품사: 동사
 ---
 000_KEYWORD: 짤랑이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91031
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2404,13 +2403,13 @@ imported:
     표제어: 짤랑이다
     품사: 동사
     항목ID: 91031
-processed:
+result:
   맞춤법 검사:
     표제어: 짤랑이다
     품사: 동사
 ---
 000_KEYWORD: 짤랑짤랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91028
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2441,13 +2440,13 @@ imported:
     표제어: 짤랑짤랑
     품사: 부사
     항목ID: 91028
-processed:
+result:
   맞춤법 검사:
     표제어: 짤랑짤랑
     품사: 부사
 ---
 000_KEYWORD: 짤랑짤랑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91034
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2482,13 +2481,13 @@ imported:
     표제어: 짤랑짤랑하다
     품사: 동사
     항목ID: 91034
-processed:
+result:
   맞춤법 검사:
     표제어: 짤랑짤랑하다
     품사: 동사
 ---
 000_KEYWORD: 짤랑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91036
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2516,13 +2515,13 @@ imported:
     표제어: 짤랑하다
     품사: 동사
     항목ID: 91036
-processed:
+result:
   맞춤법 검사:
     표제어: 짤랑하다
     품사: 동사
 ---
 000_KEYWORD: 짤록__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78924
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2553,13 +2552,13 @@ imported:
     표제어: 짤록
     품사: 부사
     항목ID: 78924
-processed:
+result:
   맞춤법 검사:
     표제어: 짤록
     품사: 부사
 ---
 000_KEYWORD: 짤록하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78925
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2602,13 +2601,13 @@ imported:
       형태: 짤록하니
     - 발음: 짤로캄니다
       형태: 짤록합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짤록하다
     품사: 형용사
 ---
 000_KEYWORD: 짤리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92373
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2621,10 +2620,10 @@ imported:
     표제어: 짤리다
     품사: 동사
     항목ID: 92373
-processed: {}
+result: {}
 ---
 000_KEYWORD: 짤막하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78926
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2667,13 +2666,13 @@ imported:
       형태: 짤막하니
     - 발음: 짤마캄니다
       형태: 짤막합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짤막하다
     품사: 형용사
 ---
 000_KEYWORD: 짧다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71363
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2778,13 +2777,13 @@ imported:
     - 발음: 짤찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71363_jjaljji.wav
       형태: 짧지
-processed:
+result:
   맞춤법 검사:
     표제어: 짧다
     품사: 형용사
 ---
 000_KEYWORD: 짧아지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71580
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2826,17 +2825,17 @@ imported:
     - 발음: 짤바지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71580_jjalbajini.wav
       형태: 짧아지니
-processed:
+result:
   맞춤법 검사:
     표제어: 짧아지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 짧은소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89978
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2871,13 +2870,13 @@ imported:
     표제어: 짧은소리
     품사: 명사
     항목ID: 89978
-processed:
+result:
   맞춤법 검사:
     표제어: 짧은소리
     품사: 명사
 ---
 000_KEYWORD: 짬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78927
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2904,13 +2903,13 @@ imported:
     표제어: 짬
     품사: 명사
     항목ID: 78927
-processed:
+result:
   맞춤법 검사:
     표제어: 짬
     품사: 명사
 ---
 000_KEYWORD: 짬밥__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2920,13 +2919,13 @@ imported:
     표제어: 짬밥
     품사: 명사:보통:서술성
     항목ID: 25602
-processed:
+result:
   맞춤법 검사:
     표제어: 짬밥
     품사: 명사
 ---
 000_KEYWORD: 짬뽕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78928
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2970,13 +2969,13 @@ imported:
     표제어: 짬뽕
     품사: 명사
     항목ID: 78928
-processed:
+result:
   맞춤법 검사:
     표제어: 짬뽕
     품사: 명사
 ---
 000_KEYWORD: 짬짜미__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2985,13 +2984,13 @@ imported:
     표제어: 짬짜미
     품사: 명사:보통:서술성
     항목ID: 25604
-processed:
+result:
   맞춤법 검사:
     표제어: 짬짜미
     품사: 명사
 ---
 000_KEYWORD: 짬짬이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78929
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3019,13 +3018,13 @@ imported:
     표제어: 짬짬이
     품사: 부사
     항목ID: 78929
-processed:
+result:
   맞춤법 검사:
     표제어: 짬짬이
     품사: 부사
 ---
 000_KEYWORD: 짭새__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3035,13 +3034,13 @@ imported:
     표제어: 짭새
     품사: 명사:보통:비서술성
     항목ID: 25605
-processed:
+result:
   맞춤법 검사:
     표제어: 짭새
     품사: 명사
 ---
 000_KEYWORD: 짭조름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78930
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3083,13 +3082,13 @@ imported:
       형태: 짭조름하니
     - 발음: 짭쪼름함니다
       형태: 짭조름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짭조름하다
     품사: 형용사
 ---
 000_KEYWORD: 짭짤하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78931
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3170,13 +3169,13 @@ imported:
       형태: 짭짤하니
     - 발음: 짭짤함니다
       형태: 짭짤합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짭짤하다
     품사: 형용사
 ---
 000_KEYWORD: 짭짭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78932
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3233,13 +3232,13 @@ imported:
     표제어: 짭짭
     품사: 부사
     항목ID: 78932
-processed:
+result:
   맞춤법 검사:
     표제어: 짭짭
     품사: 부사
 ---
 000_KEYWORD: 짭짭거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78933
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3315,13 +3314,13 @@ imported:
     표제어: 짭짭거리다
     품사: 동사
     항목ID: 78933
-processed:
+result:
   맞춤법 검사:
     표제어: 짭짭거리다
     품사: 동사
 ---
 000_KEYWORD: 짭짭대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91040
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3397,13 +3396,13 @@ imported:
     표제어: 짭짭대다
     품사: 동사
     항목ID: 91040
-processed:
+result:
   맞춤법 검사:
     표제어: 짭짭대다
     품사: 동사
 ---
 000_KEYWORD: 짭짭하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91041
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3464,13 +3463,13 @@ imported:
     표제어: 짭짭하다
     품사: 동사
     항목ID: 91041
-processed:
+result:
   맞춤법 검사:
     표제어: 짭짭하다
     품사: 동사
 ---
 000_KEYWORD: 짱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78934
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3498,13 +3497,13 @@ imported:
     표제어: 짱
     품사: 부사
     항목ID: 78934
-processed:
+result:
   맞춤법 검사:
     표제어: 짱
     품사: 부사
 ---
 000_KEYWORD: 짱구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78935
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3531,13 +3530,13 @@ imported:
     표제어: 짱구
     품사: 명사
     항목ID: 78935
-processed:
+result:
   맞춤법 검사:
     표제어: 짱구
     품사: 명사
 ---
 000_KEYWORD: 짱돌__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3546,13 +3545,13 @@ imported:
     표제어: 짱돌
     품사: 명사:보통:비서술성
     항목ID: 25608
-processed:
+result:
   맞춤법 검사:
     표제어: 짱돌
     품사: 명사
 ---
 000_KEYWORD: 짱짱하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78936
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3605,7 +3604,7 @@ imported:
       형태: 짱짱하니
     - 발음: 짱짱함니다
       형태: 짱짱합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 짱짱하다
     품사: 형용사

@@ -1,5 +1,5 @@
 000_KEYWORD: -빼기__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70679
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -23,11 +23,11 @@ imported:
     표제어: -빼기
     품사: 접사
     항목ID: 70679
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 빼곡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61511
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -73,13 +73,13 @@ imported:
       형태: 빼곡하니
     - 발음: 빼고캄니다
       형태: 빼곡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빼곡하다
     품사: 형용사
 ---
 000_KEYWORD: 빼곡히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61512
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -109,13 +109,13 @@ imported:
     표제어: 빼곡히
     품사: 부사
     항목ID: 61512
-processed:
+result:
   맞춤법 검사:
     표제어: 빼곡히
     품사: 부사
 ---
 000_KEYWORD: 빼기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61514
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -161,13 +161,13 @@ imported:
     표제어: 빼기
     품사: 명사
     항목ID: 61514
-processed:
+result:
   맞춤법 검사:
     표제어: 빼기
     품사: 명사
 ---
 000_KEYWORD: 빼꼼히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61111
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -220,13 +220,13 @@ imported:
     표제어: 빼꼼히
     품사: 부사
     항목ID: 61111
-processed:
+result:
   맞춤법 검사:
     표제어: 빼꼼히
     품사: 부사
 ---
 000_KEYWORD: 빼내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61757
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -312,17 +312,17 @@ imported:
     - 발음: 빼ː내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61757_ppae-naeni.wav
       형태: 빼내니
-processed:
+result:
   맞춤법 검사:
     표제어: 빼내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 빼놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15647
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -393,19 +393,19 @@ imported:
     - 발음: 빼ː노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15647_ppae-nosseumnida.wav
       형태: 빼놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
     표제어: 빼놓다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 빼다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85714
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -599,13 +599,13 @@ imported:
     - 발음: 빼ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/85714_ppae-ni.wav
       형태: 빼니
-processed:
+result:
   맞춤법 검사:
     표제어: 빼다
     품사: 동사
 ---
 000_KEYWORD: 빼다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61123
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -650,13 +650,13 @@ imported:
     - 발음: 빼ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppae-ni.wav
       형태: 빼니
-processed:
+result:
   맞춤법 검사:
     표제어: 빼다
     품사: 동사
 ---
 000_KEYWORD: 빼다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61462
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -700,13 +700,13 @@ imported:
     - 발음: 빼ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppae-ni.wav
       형태: 빼니
-processed:
+result:
   맞춤법 검사:
     표제어: 빼다
     품사: 동사
 ---
 000_KEYWORD: 빼닮다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61479
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -754,13 +754,13 @@ imported:
     - 발음: 빼ː담찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61479_ppae-damjji.wav
       형태: 빼닮지
-processed:
+result:
   맞춤법 검사:
     표제어: 빼닮다
     품사: 동사
 ---
 000_KEYWORD: 빼돌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61480
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -805,13 +805,13 @@ imported:
     - 발음: 빼ː돌리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61480_ppae-dollini.wav
       형태: 빼돌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 빼돌리다
     품사: 동사
 ---
 000_KEYWORD: 빼먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61481
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -873,13 +873,13 @@ imported:
     - 발음: 빼ː멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61481_ppae-meongneun.wav
       형태: 빼먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 빼먹다
     품사: 동사
 ---
 000_KEYWORD: 빼먹다__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -891,14 +891,14 @@ imported:
     표제어: 빼먹다
     품사: 명사:보통:서술성
     항목ID: 13122
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 빼먹다
     품사: 명사
 ---
 000_KEYWORD: 빼물다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61482
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -942,13 +942,13 @@ imported:
     - 발음: 빼ː뭄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61482_ppae-mumnida.wav
       형태: 빼뭅니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빼물다
     품사: 동사
 ---
 000_KEYWORD: 빼빼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61483
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -968,13 +968,13 @@ imported:
     표제어: 빼빼
     품사: 명사
     항목ID: 61483
-processed:
+result:
   맞춤법 검사:
     표제어: 빼빼
     품사: 명사
 ---
 000_KEYWORD: 빼빼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61484
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -999,13 +999,13 @@ imported:
     표제어: 빼빼
     품사: 부사
     항목ID: 61484
-processed:
+result:
   맞춤법 검사:
     표제어: 빼빼
     품사: 부사
 ---
 000_KEYWORD: 빼빼하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61485
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1044,13 +1044,13 @@ imported:
       형태: 빼빼하니
     - 발음: 빼빼함니다
       형태: 빼빼합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빼빼하다
     품사: 형용사
 ---
 000_KEYWORD: 빼앗기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15648
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1165,13 +1165,13 @@ imported:
     - 발음: 빼앋끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/15648_ppaeatkkini.wav
       형태: 빼앗기니
-processed:
+result:
   맞춤법 검사:
     표제어: 빼앗기다
     품사: 동사
 ---
 000_KEYWORD: 빼앗다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15649
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1274,7 +1274,7 @@ imported:
     - 발음: 빼안는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15649_ppaeanneun.wav
       형태: 빼앗는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1282,7 +1282,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 빼어나다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61486
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1320,17 +1320,17 @@ imported:
       형태: 빼어나니
     - 발음: 빼어남니다
       형태: 빼어납니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빼어나다
     품사: 형용사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 빽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61487
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1359,13 +1359,13 @@ imported:
     표제어: 빽
     품사: 부사
     항목ID: 61487
-processed:
+result:
   맞춤법 검사:
     표제어: 빽
     품사: 부사
 ---
 000_KEYWORD: 빽__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61488
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1392,13 +1392,13 @@ imported:
     표제어: 빽
     품사: 부사
     항목ID: 61488
-processed:
+result:
   맞춤법 검사:
     표제어: 빽
     품사: 부사
 ---
 000_KEYWORD: 빽빽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61490
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1426,13 +1426,13 @@ imported:
     표제어: 빽빽
     품사: 부사
     항목ID: 61490
-processed:
+result:
   맞춤법 검사:
     표제어: 빽빽
     품사: 부사
 ---
 000_KEYWORD: 빽빽거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61492
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1458,13 +1458,13 @@ imported:
     표제어: 빽빽거리다
     품사: 동사
     항목ID: 61492
-processed:
+result:
   맞춤법 검사:
     표제어: 빽빽거리다
     품사: 동사
 ---
 000_KEYWORD: 빽빽대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88788
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1495,13 +1495,13 @@ imported:
     표제어: 빽빽대다
     품사: 동사
     항목ID: 88788
-processed:
+result:
   맞춤법 검사:
     표제어: 빽빽대다
     품사: 동사
 ---
 000_KEYWORD: 빽빽이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61523
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1530,13 +1530,13 @@ imported:
     표제어: 빽빽이
     품사: 부사
     항목ID: 61523
-processed:
+result:
   맞춤법 검사:
     표제어: 빽빽이
     품사: 부사
 ---
 000_KEYWORD: 빽빽하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61558
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1579,13 +1579,13 @@ imported:
       형태: 빽빽하니
     - 발음: 빽빼캄니다
       형태: 빽빽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 빽빽하다
     품사: 형용사
 ---
 000_KEYWORD: 뺄셈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61559
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1626,13 +1626,13 @@ imported:
     표제어: 뺄셈
     품사: 명사
     항목ID: 61559
-processed:
+result:
   맞춤법 검사:
     표제어: 뺄셈
     품사: 명사
 ---
 000_KEYWORD: 뺏기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62010
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1748,13 +1748,13 @@ imported:
     - 발음: 뺃ː끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/62010_ppaed-kkini.wav
       형태: 뺏기니
-processed:
+result:
   맞춤법 검사:
     표제어: 뺏기다
     품사: 동사
 ---
 000_KEYWORD: 뺏다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15650
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1867,7 +1867,7 @@ imported:
     - 발음: 뺀ː는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15650_ppaen-neun.wav
       형태: 뺏는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1875,7 +1875,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뺑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62005
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1925,13 +1925,13 @@ imported:
     표제어: 뺑
     품사: 부사
     항목ID: 62005
-processed:
+result:
   맞춤법 검사:
     표제어: 뺑
     품사: 부사
 ---
 000_KEYWORD: 뺑덕어멈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92059
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1955,13 +1955,13 @@ imported:
     표제어: 뺑덕어멈
     품사: 명사
     항목ID: 92059
-processed:
+result:
   맞춤법 검사:
     표제어: 뺑덕어멈
     품사: 명사
 ---
 000_KEYWORD: 뺑뺑__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1971,13 +1971,13 @@ imported:
     표제어: 뺑뺑
     품사: 부사
     항목ID: 13131
-processed:
+result:
   맞춤법 검사:
     표제어: 뺑뺑
     품사: 부사
 ---
 000_KEYWORD: 뺑뺑이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61602
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2004,13 +2004,13 @@ imported:
     표제어: 뺑뺑이
     품사: 명사
     항목ID: 61602
-processed:
+result:
   맞춤법 검사:
     표제어: 뺑뺑이
     품사: 명사
 ---
 000_KEYWORD: 뺑소니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61603
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2041,13 +2041,13 @@ imported:
     표제어: 뺑소니
     품사: 명사
     항목ID: 61603
-processed:
+result:
   맞춤법 검사:
     표제어: 뺑소니
     품사: 명사
 ---
 000_KEYWORD: 뺑소니치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61604
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2087,7 +2087,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/61604_ppaengsonicheo.wav
       형태: 뺑소니쳐
     - 형태: 뺑소니치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뺑소니치다
     품사: 동사

@@ -1,5 +1,5 @@
 000_KEYWORD: -ㅁ__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78527
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -27,11 +27,11 @@ imported:
     표제어: -ㅁ
     품사: 어미
     항목ID: 78527
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅁ__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92098
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -60,11 +60,11 @@ imported:
     표제어: -ㅁ
     품사: 접사
     항목ID: 92098
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅁ세__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78483
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -91,11 +91,11 @@ imported:
     표제어: -ㅁ세
     품사: 어미
     항목ID: 78483
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅁ에도__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78533
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -120,11 +120,11 @@ imported:
     표제어: -ㅁ에도
     품사: 어미
     항목ID: 78533
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅁ직스럽-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92123
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -148,11 +148,11 @@ imported:
     표제어: -ㅁ직스럽-
     품사: 접사
     항목ID: 92123
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅁ직하-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92124
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -176,11 +176,11 @@ imported:
     표제어: -ㅁ직하-
     품사: 접사
     항목ID: 92124
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: ㅁ__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69081
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -196,7 +196,7 @@ imported:
     표제어: ㅁ
     품사: 명사
     항목ID: 69081
-processed:
+result:
   맞춤법 검사:
     표제어: ㅁ
     품사: 명사

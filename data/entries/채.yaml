@@ -1,5 +1,5 @@
 000_KEYWORD: -채__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73130
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -19,11 +19,11 @@ imported:
     표제어: -채
     품사: 접사
     항목ID: 73130
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -책__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88696
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -42,11 +42,11 @@ imported:
     표제어: -책
     품사: 접사
     항목ID: 88696
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -책__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88697
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -80,11 +80,11 @@ imported:
     표제어: -책
     품사: 접사
     항목ID: 88697
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83969
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -166,13 +166,13 @@ imported:
     표제어: 채
     품사: 명사
     항목ID: 83969
-processed:
+result:
   맞춤법 검사:
     표제어: 채
     품사: 명사
 ---
 000_KEYWORD: 채__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83943
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -196,13 +196,13 @@ imported:
     표제어: 채
     품사: 명사
     항목ID: 83943
-processed:
+result:
   맞춤법 검사:
     표제어: 채
     품사: 명사
 ---
 000_KEYWORD: 채__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24917
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -232,13 +232,13 @@ imported:
     표제어: 채
     품사: 부사
     항목ID: 24917
-processed:
+result:
   맞춤법 검사:
     표제어: 채
     품사: 부사
 ---
 000_KEYWORD: 채__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71486
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -304,13 +304,13 @@ imported:
     표제어: 채
     품사: 의존 명사
     항목ID: 71486
-processed:
+result:
   맞춤법 검사:
     표제어: 채
     품사: 의존 명사
 ---
 000_KEYWORD: 채__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71819
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -333,13 +333,13 @@ imported:
     표제어: 채
     품사: 의존 명사
     항목ID: 71819
-processed:
+result:
   맞춤법 검사:
     표제어: 채
     품사: 의존 명사
 ---
 000_KEYWORD: 채광__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83944
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -367,13 +367,13 @@ imported:
     표제어: 채광
     품사: 명사
     항목ID: 83944
-processed:
+result:
   맞춤법 검사:
     표제어: 채광
     품사: 명사
 ---
 000_KEYWORD: 채광하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -382,13 +382,13 @@ imported:
     표제어: 채광하다
     품사: 동사
     항목ID: 25978
-processed:
+result:
   맞춤법 검사:
     표제어: 채광하다
     품사: 동사
 ---
 000_KEYWORD: 채굴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83945
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -417,13 +417,13 @@ imported:
     표제어: 채굴
     품사: 명사
     항목ID: 83945
-processed:
+result:
   맞춤법 검사:
     표제어: 채굴
     품사: 명사
 ---
 000_KEYWORD: 채굴되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83119
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -454,13 +454,13 @@ imported:
     표제어: 채굴되다
     품사: 동사
     항목ID: 83119
-processed:
+result:
   맞춤법 검사:
     표제어: 채굴되다
     품사: 동사
 ---
 000_KEYWORD: 채굴하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83120
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -489,13 +489,13 @@ imported:
     표제어: 채굴하다
     품사: 동사
     항목ID: 83120
-processed:
+result:
   맞춤법 검사:
     표제어: 채굴하다
     품사: 동사
 ---
 000_KEYWORD: 채권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83121
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -526,13 +526,13 @@ imported:
     표제어: 채권
     품사: 명사
     항목ID: 83121
-processed:
+result:
   맞춤법 검사:
     표제어: 채권
     품사: 명사
 ---
 000_KEYWORD: 채권단__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -541,13 +541,13 @@ imported:
     표제어: 채권단
     품사: 명사:보통:비서술성
     항목ID: 25981
-processed:
+result:
   맞춤법 검사:
     표제어: 채권단
     품사: 명사
 ---
 000_KEYWORD: 채권자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83122
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -579,13 +579,13 @@ imported:
     표제어: 채권자
     품사: 명사
     항목ID: 83122
-processed:
+result:
   맞춤법 검사:
     표제어: 채권자
     품사: 명사
 ---
 000_KEYWORD: 채근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83123
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -652,13 +652,13 @@ imported:
     표제어: 채근
     품사: 명사
     항목ID: 83123
-processed:
+result:
   맞춤법 검사:
     표제어: 채근
     품사: 명사
 ---
 000_KEYWORD: 채근하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83139
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -730,13 +730,13 @@ imported:
     표제어: 채근하다
     품사: 동사
     항목ID: 83139
-processed:
+result:
   맞춤법 검사:
     표제어: 채근하다
     품사: 동사
 ---
 000_KEYWORD: 채널__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72034
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -776,13 +776,13 @@ imported:
     표제어: 채널
     품사: 명사
     항목ID: 72034
-processed:
+result:
   맞춤법 검사:
     표제어: 채널
     품사: 명사
 ---
 000_KEYWORD: 채다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83142
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -855,13 +855,13 @@ imported:
     - 발음: 채ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/chieut_2006/chae-ni.wav
       형태: 채니
-processed:
+result:
   맞춤법 검사:
     표제어: 채다
     품사: 동사
 ---
 000_KEYWORD: 채다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83144
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -918,13 +918,13 @@ imported:
     활용:
     - 형태: 채어
     - 형태: 채니
-processed:
+result:
   맞춤법 검사:
     표제어: 채다
     품사: 동사
 ---
 000_KEYWORD: 채다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83145
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -954,13 +954,13 @@ imported:
     활용:
     - 형태: 채어
     - 형태: 채니
-processed:
+result:
   맞춤법 검사:
     표제어: 채다
     품사: 동사
 ---
 000_KEYWORD: 채도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83124
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -995,13 +995,13 @@ imported:
     표제어: 채도
     품사: 명사
     항목ID: 83124
-processed:
+result:
   맞춤법 검사:
     표제어: 채도
     품사: 명사
 ---
 000_KEYWORD: 채록__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83181
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1039,13 +1039,13 @@ imported:
     - 발음: 채ː롱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/83181_chae-rongman.wav
       형태: 채록만
-processed:
+result:
   맞춤법 검사:
     표제어: 채록
     품사: 명사
 ---
 000_KEYWORD: 채록하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83182
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1074,13 +1074,13 @@ imported:
     표제어: 채록하다
     품사: 동사
     항목ID: 83182
-processed:
+result:
   맞춤법 검사:
     표제어: 채록하다
     품사: 동사
 ---
 000_KEYWORD: 채무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83125
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1109,13 +1109,13 @@ imported:
     표제어: 채무
     품사: 명사
     항목ID: 83125
-processed:
+result:
   맞춤법 검사:
     표제어: 채무
     품사: 명사
 ---
 000_KEYWORD: 채무자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83126
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1147,13 +1147,13 @@ imported:
     표제어: 채무자
     품사: 명사
     항목ID: 83126
-processed:
+result:
   맞춤법 검사:
     표제어: 채무자
     품사: 명사
 ---
 000_KEYWORD: 채반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83127
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1184,13 +1184,13 @@ imported:
     표제어: 채반
     품사: 명사
     항목ID: 83127
-processed:
+result:
   맞춤법 검사:
     표제어: 채반
     품사: 명사
 ---
 000_KEYWORD: 채비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83128
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1217,13 +1217,13 @@ imported:
     표제어: 채비
     품사: 명사
     항목ID: 83128
-processed:
+result:
   맞춤법 검사:
     표제어: 채비
     품사: 명사
 ---
 000_KEYWORD: 채비하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77652
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1255,13 +1255,13 @@ imported:
     표제어: 채비하다
     품사: 동사
     항목ID: 77652
-processed:
+result:
   맞춤법 검사:
     표제어: 채비하다
     품사: 동사
 ---
 000_KEYWORD: 채산성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1270,13 +1270,13 @@ imported:
     표제어: 채산성
     품사: 명사:보통:서술성
     항목ID: 25990
-processed:
+result:
   맞춤법 검사:
     표제어: 채산성
     품사: 명사
 ---
 000_KEYWORD: 채색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77653
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1343,13 +1343,13 @@ imported:
     - 발음: 채ː생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/77653_chae-saengman.wav
       형태: 채색만
-processed:
+result:
   맞춤법 검사:
     표제어: 채색
     품사: 명사
 ---
 000_KEYWORD: 채색되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77654
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1380,13 +1380,13 @@ imported:
     표제어: 채색되다
     품사: 동사
     항목ID: 77654
-processed:
+result:
   맞춤법 검사:
     표제어: 채색되다
     품사: 동사
 ---
 000_KEYWORD: 채색하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77655
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1418,13 +1418,13 @@ imported:
     표제어: 채색하다
     품사: 동사
     항목ID: 77655
-processed:
+result:
   맞춤법 검사:
     표제어: 채색하다
     품사: 동사
 ---
 000_KEYWORD: 채색화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77656
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1455,13 +1455,13 @@ imported:
     표제어: 채색화
     품사: 명사
     항목ID: 77656
-processed:
+result:
   맞춤법 검사:
     표제어: 채색화
     품사: 명사
 ---
 000_KEYWORD: 채석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77692
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1499,13 +1499,13 @@ imported:
     - 발음: 채ː성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/77692_chae-seongman.wav
       형태: 채석만
-processed:
+result:
   맞춤법 검사:
     표제어: 채석
     품사: 명사
 ---
 000_KEYWORD: 채석장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77697
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1533,13 +1533,13 @@ imported:
     표제어: 채석장
     품사: 명사
     항목ID: 77697
-processed:
+result:
   맞춤법 검사:
     표제어: 채석장
     품사: 명사
 ---
 000_KEYWORD: 채소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72036
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1575,13 +1575,13 @@ imported:
     표제어: 채소
     품사: 명사
     항목ID: 72036
-processed:
+result:
   맞춤법 검사:
     표제어: 채소
     품사: 명사
 ---
 000_KEYWORD: 채소밭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77701
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1619,13 +1619,13 @@ imported:
     - 발음: 채ː소반만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/77701_chae-sobanman.wav
       형태: 채소밭만
-processed:
+result:
   맞춤법 검사:
     표제어: 채소밭
     품사: 명사
 ---
 000_KEYWORD: 채송화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77834
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1656,13 +1656,13 @@ imported:
     표제어: 채송화
     품사: 명사
     항목ID: 77834
-processed:
+result:
   맞춤법 검사:
     표제어: 채송화
     품사: 명사
 ---
 000_KEYWORD: 채식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77835
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1710,13 +1710,13 @@ imported:
     - 발음: 채ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/77835_chae-singman.wav
       형태: 채식만
-processed:
+result:
   맞춤법 검사:
     표제어: 채식
     품사: 명사
 ---
 000_KEYWORD: 채식주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77836
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1746,13 +1746,13 @@ imported:
     표제어: 채식주의
     품사: 명사
     항목ID: 77836
-processed:
+result:
   맞춤법 검사:
     표제어: 채식주의
     품사: 명사
 ---
 000_KEYWORD: 채신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77921
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1786,13 +1786,13 @@ imported:
     표제어: 채신
     품사: 명사
     항목ID: 77921
-processed:
+result:
   맞춤법 검사:
     표제어: 채신
     품사: 명사
 ---
 000_KEYWORD: 채신머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77924
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1823,13 +1823,13 @@ imported:
     표제어: 채신머리
     품사: 명사
     항목ID: 77924
-processed:
+result:
   맞춤법 검사:
     표제어: 채신머리
     품사: 명사
 ---
 000_KEYWORD: 채신없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77925
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1876,13 +1876,13 @@ imported:
     - 발음: 채ː시넙찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77925_chae-sineopjji.wav
       형태: 채신없지
-processed:
+result:
   맞춤법 검사:
     표제어: 채신없다
     품사: 형용사
 ---
 000_KEYWORD: 채썰기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1892,13 +1892,13 @@ imported:
     표제어: 채썰기
     품사: 명사:보통:서술성
     항목ID: 25998
-processed:
+result:
   맞춤법 검사:
     표제어: 채썰기
     품사: 명사
 ---
 000_KEYWORD: 채용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77926
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1952,13 +1952,13 @@ imported:
     표제어: 채용
     품사: 명사
     항목ID: 77926
-processed:
+result:
   맞춤법 검사:
     표제어: 채용
     품사: 명사
 ---
 000_KEYWORD: 채용공고__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1967,13 +1967,13 @@ imported:
     표제어: 채용공고
     품사: 명사:보통:서술성
     항목ID: 26000
-processed:
+result:
   맞춤법 검사:
     표제어: 채용공고
     품사: 명사
 ---
 000_KEYWORD: 채용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77928
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2025,13 +2025,13 @@ imported:
     표제어: 채용되다
     품사: 동사
     항목ID: 77928
-processed:
+result:
   맞춤법 검사:
     표제어: 채용되다
     품사: 동사
 ---
 000_KEYWORD: 채용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77990
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2077,13 +2077,13 @@ imported:
     표제어: 채용하다
     품사: 동사
     항목ID: 77990
-processed:
+result:
   맞춤법 검사:
     표제어: 채용하다
     품사: 동사
 ---
 000_KEYWORD: 채우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77991
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2147,13 +2147,13 @@ imported:
     활용:
     - 형태: 채우어
     - 형태: 채우니
-processed:
+result:
   맞춤법 검사:
     표제어: 채우다
     품사: 동사
 ---
 000_KEYWORD: 채우다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71467
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2214,13 +2214,13 @@ imported:
     활용:
     - 형태: 채우어
     - 형태: 채우니
-processed:
+result:
   맞춤법 검사:
     표제어: 채우다
     품사: 동사
 ---
 000_KEYWORD: 채우다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77992
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2254,13 +2254,13 @@ imported:
     활용:
     - 형태: 채우어
     - 형태: 채우니
-processed:
+result:
   맞춤법 검사:
     표제어: 채우다
     품사: 동사
 ---
 000_KEYWORD: 채점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24919
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2289,13 +2289,13 @@ imported:
     표제어: 채점
     품사: 명사
     항목ID: 24919
-processed:
+result:
   맞춤법 검사:
     표제어: 채점
     품사: 명사
 ---
 000_KEYWORD: 채점되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77993
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2326,13 +2326,13 @@ imported:
     표제어: 채점되다
     품사: 동사
     항목ID: 77993
-processed:
+result:
   맞춤법 검사:
     표제어: 채점되다
     품사: 동사
 ---
 000_KEYWORD: 채점하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77994
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2361,13 +2361,13 @@ imported:
     표제어: 채점하다
     품사: 동사
     항목ID: 77994
-processed:
+result:
   맞춤법 검사:
     표제어: 채점하다
     품사: 동사
 ---
 000_KEYWORD: 채증__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2376,13 +2376,13 @@ imported:
     표제어: 채증
     품사: 명사:보통:서술성
     항목ID: 26004
-processed:
+result:
   맞춤법 검사:
     표제어: 채증
     품사: 명사
 ---
 000_KEYWORD: 채집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77995
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2424,13 +2424,13 @@ imported:
     - 발음: 채ː짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/77995_chae-jimman.wav
       형태: 채집만
-processed:
+result:
   맞춤법 검사:
     표제어: 채집
     품사: 명사
 ---
 000_KEYWORD: 채집되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77996
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2463,13 +2463,13 @@ imported:
     표제어: 채집되다
     품사: 동사
     항목ID: 77996
-processed:
+result:
   맞춤법 검사:
     표제어: 채집되다
     품사: 동사
 ---
 000_KEYWORD: 채집하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77997
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2500,13 +2500,13 @@ imported:
     표제어: 채집하다
     품사: 동사
     항목ID: 77997
-processed:
+result:
   맞춤법 검사:
     표제어: 채집하다
     품사: 동사
 ---
 000_KEYWORD: 채찍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78054
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2556,13 +2556,13 @@ imported:
     - 발음: 채찡만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78054_chaejjingman.wav
       형태: 채찍만
-processed:
+result:
   맞춤법 검사:
     표제어: 채찍
     품사: 명사
 ---
 000_KEYWORD: 채찍질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78059
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2603,13 +2603,13 @@ imported:
     표제어: 채찍질
     품사: 명사
     항목ID: 78059
-processed:
+result:
   맞춤법 검사:
     표제어: 채찍질
     품사: 명사
 ---
 000_KEYWORD: 채찍질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78060
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2649,13 +2649,13 @@ imported:
     표제어: 채찍질하다
     품사: 동사
     항목ID: 78060
-processed:
+result:
   맞춤법 검사:
     표제어: 채찍질하다
     품사: 동사
 ---
 000_KEYWORD: 채취__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78061
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2710,13 +2710,13 @@ imported:
     표제어: 채취
     품사: 명사
     항목ID: 78061
-processed:
+result:
   맞춤법 검사:
     표제어: 채취
     품사: 명사
 ---
 000_KEYWORD: 채취되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78062
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2770,13 +2770,13 @@ imported:
     표제어: 채취되다
     품사: 동사
     항목ID: 78062
-processed:
+result:
   맞춤법 검사:
     표제어: 채취되다
     품사: 동사
 ---
 000_KEYWORD: 채취하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78063
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2832,13 +2832,13 @@ imported:
     표제어: 채취하다
     품사: 동사
     항목ID: 78063
-processed:
+result:
   맞춤법 검사:
     표제어: 채취하다
     품사: 동사
 ---
 000_KEYWORD: 채칼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78114
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2869,13 +2869,13 @@ imported:
     표제어: 채칼
     품사: 명사
     항목ID: 78114
-processed:
+result:
   맞춤법 검사:
     표제어: 채칼
     품사: 명사
 ---
 000_KEYWORD: 채택__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78115
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2916,13 +2916,13 @@ imported:
     - 발음: 채ː탱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/78115_chae-taengman.wav
       형태: 채택만
-processed:
+result:
   맞춤법 검사:
     표제어: 채택
     품사: 명사
 ---
 000_KEYWORD: 채택되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78116
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2959,13 +2959,13 @@ imported:
     표제어: 채택되다
     품사: 동사
     항목ID: 78116
-processed:
+result:
   맞춤법 검사:
     표제어: 채택되다
     품사: 동사
 ---
 000_KEYWORD: 채택하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78117
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2994,13 +2994,13 @@ imported:
     표제어: 채택하다
     품사: 동사
     항목ID: 78117
-processed:
+result:
   맞춤법 검사:
     표제어: 채택하다
     품사: 동사
 ---
 000_KEYWORD: 채팅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78118
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3029,13 +3029,13 @@ imported:
     표제어: 채팅
     품사: 명사
     항목ID: 78118
-processed:
+result:
   맞춤법 검사:
     표제어: 채팅
     품사: 명사
 ---
 000_KEYWORD: 채팅하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78119
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3063,13 +3063,13 @@ imported:
     표제어: 채팅하다
     품사: 동사
     항목ID: 78119
-processed:
+result:
   맞춤법 검사:
     표제어: 채팅하다
     품사: 동사
 ---
 000_KEYWORD: 채플__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78121
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3094,13 +3094,13 @@ imported:
     표제어: 채플
     품사: 명사
     항목ID: 78121
-processed:
+result:
   맞춤법 검사:
     표제어: 채플
     품사: 명사
 ---
 000_KEYWORD: 채혈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3110,13 +3110,13 @@ imported:
     표제어: 채혈
     품사: 명사:보통:서술성
     항목ID: 26019
-processed:
+result:
   맞춤법 검사:
     표제어: 채혈
     품사: 명사
 ---
 000_KEYWORD: 책__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71468
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3187,13 +3187,13 @@ imported:
     - 발음: 챙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/71468_chaengman.wav
       형태: 책만
-processed:
+result:
   맞춤법 검사:
     표제어: 책
     품사: 명사
 ---
 000_KEYWORD: 책가방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72037
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3226,13 +3226,13 @@ imported:
     표제어: 책가방
     품사: 명사
     항목ID: 72037
-processed:
+result:
   맞춤법 검사:
     표제어: 책가방
     품사: 명사
 ---
 000_KEYWORD: 책갈피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78122
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3280,13 +3280,13 @@ imported:
     표제어: 책갈피
     품사: 명사
     항목ID: 78122
-processed:
+result:
   맞춤법 검사:
     표제어: 책갈피
     품사: 명사
 ---
 000_KEYWORD: 책값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78123
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3336,13 +3336,13 @@ imported:
     - 발음: 책깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/78123_chaekkkamman.wav
       형태: 책값만
-processed:
+result:
   맞춤법 검사:
     표제어: 책값
     품사: 명사
 ---
 000_KEYWORD: 책거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78124
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3369,13 +3369,13 @@ imported:
     표제어: 책거리
     품사: 명사
     항목ID: 78124
-processed:
+result:
   맞춤법 검사:
     표제어: 책거리
     품사: 명사
 ---
 000_KEYWORD: 책걸상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78255
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3405,13 +3405,13 @@ imported:
     표제어: 책걸상
     품사: 명사
     항목ID: 78255
-processed:
+result:
   맞춤법 검사:
     표제어: 책걸상
     품사: 명사
 ---
 000_KEYWORD: 책꽂이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78262
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3447,13 +3447,13 @@ imported:
     표제어: 책꽂이
     품사: 명사
     항목ID: 78262
-processed:
+result:
   맞춤법 검사:
     표제어: 책꽂이
     품사: 명사
 ---
 000_KEYWORD: 책동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78274
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3493,13 +3493,13 @@ imported:
     표제어: 책동
     품사: 명사
     항목ID: 78274
-processed:
+result:
   맞춤법 검사:
     표제어: 책동
     품사: 명사
 ---
 000_KEYWORD: 책동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78278
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3539,13 +3539,13 @@ imported:
     표제어: 책동하다
     품사: 동사
     항목ID: 78278
-processed:
+result:
   맞춤법 검사:
     표제어: 책동하다
     품사: 동사
 ---
 000_KEYWORD: 책략__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78282
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3584,13 +3584,13 @@ imported:
     - 발음: 챙냥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/78282_chaengnyangman.wav
       형태: 책략만
-processed:
+result:
   맞춤법 검사:
     표제어: 책략
     품사: 명사
 ---
 000_KEYWORD: 책망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78283
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3619,13 +3619,13 @@ imported:
     표제어: 책망
     품사: 명사
     항목ID: 78283
-processed:
+result:
   맞춤법 검사:
     표제어: 책망
     품사: 명사
 ---
 000_KEYWORD: 책망하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78284
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3660,13 +3660,13 @@ imported:
     표제어: 책망하다
     품사: 동사
     항목ID: 78284
-processed:
+result:
   맞춤법 검사:
     표제어: 책망하다
     품사: 동사
 ---
 000_KEYWORD: 책무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78285
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3702,13 +3702,13 @@ imported:
     표제어: 책무
     품사: 명사
     항목ID: 78285
-processed:
+result:
   맞춤법 검사:
     표제어: 책무
     품사: 명사
 ---
 000_KEYWORD: 책받침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78286
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3743,13 +3743,13 @@ imported:
     표제어: 책받침
     품사: 명사
     항목ID: 78286
-processed:
+result:
   맞춤법 검사:
     표제어: 책받침
     품사: 명사
 ---
 000_KEYWORD: 책방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24922
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3789,13 +3789,13 @@ imported:
     표제어: 책방
     품사: 명사
     항목ID: 24922
-processed:
+result:
   맞춤법 검사:
     표제어: 책방
     품사: 명사
 ---
 000_KEYWORD: 책벌레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78690
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3823,13 +3823,13 @@ imported:
     표제어: 책벌레
     품사: 명사
     항목ID: 78690
-processed:
+result:
   맞춤법 검사:
     표제어: 책벌레
     품사: 명사
 ---
 000_KEYWORD: 책보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78691
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3858,13 +3858,13 @@ imported:
     표제어: 책보
     품사: 명사
     항목ID: 78691
-processed:
+result:
   맞춤법 검사:
     표제어: 책보
     품사: 명사
 ---
 000_KEYWORD: 책사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3874,13 +3874,13 @@ imported:
     표제어: 책사
     품사: 명사:보통:비서술성
     항목ID: 26030
-processed:
+result:
   맞춤법 검사:
     표제어: 책사
     품사: 명사
 ---
 000_KEYWORD: 책상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72039
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3918,13 +3918,13 @@ imported:
     표제어: 책상
     품사: 명사
     항목ID: 72039
-processed:
+result:
   맞춤법 검사:
     표제어: 책상
     품사: 명사
 ---
 000_KEYWORD: 책상다리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78692
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3955,13 +3955,13 @@ imported:
     표제어: 책상다리
     품사: 명사
     항목ID: 78692
-processed:
+result:
   맞춤법 검사:
     표제어: 책상다리
     품사: 명사
 ---
 000_KEYWORD: 책상머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78693
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3989,13 +3989,13 @@ imported:
     표제어: 책상머리
     품사: 명사
     항목ID: 78693
-processed:
+result:
   맞춤법 검사:
     표제어: 책상머리
     품사: 명사
 ---
 000_KEYWORD: 책임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37609
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4079,13 +4079,13 @@ imported:
     표제어: 책임
     품사: 명사
     항목ID: 37609
-processed:
+result:
   맞춤법 검사:
     표제어: 책임
     품사: 명사
 ---
 000_KEYWORD: 책임감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24923
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4121,13 +4121,13 @@ imported:
     표제어: 책임감
     품사: 명사
     항목ID: 24923
-processed:
+result:
   맞춤법 검사:
     표제어: 책임감
     품사: 명사
 ---
 000_KEYWORD: 책임량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78694
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4154,13 +4154,13 @@ imported:
     표제어: 책임량
     품사: 명사
     항목ID: 78694
-processed:
+result:
   맞춤법 검사:
     표제어: 책임량
     품사: 명사
 ---
 000_KEYWORD: 책임자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72042
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4189,13 +4189,13 @@ imported:
     표제어: 책임자
     품사: 명사
     항목ID: 72042
-processed:
+result:
   맞춤법 검사:
     표제어: 책임자
     품사: 명사
 ---
 000_KEYWORD: 책임지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24925
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4253,13 +4253,13 @@ imported:
     - 발음: 채김지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/24925_chaegimjini.wav
       형태: 책임지니
-processed:
+result:
   맞춤법 검사:
     표제어: 책임지다
     품사: 동사
 ---
 000_KEYWORD: 책자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78695
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4296,13 +4296,13 @@ imported:
     표제어: 책자
     품사: 명사
     항목ID: 78695
-processed:
+result:
   맞춤법 검사:
     표제어: 책자
     품사: 명사
 ---
 000_KEYWORD: 책장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78696
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4331,13 +4331,13 @@ imported:
     표제어: 책장
     품사: 명사
     항목ID: 78696
-processed:
+result:
   맞춤법 검사:
     표제어: 책장
     품사: 명사
 ---
 000_KEYWORD: 책장__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78697
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4374,13 +4374,13 @@ imported:
     표제어: 책장
     품사: 명사
     항목ID: 78697
-processed:
+result:
   맞춤법 검사:
     표제어: 책장
     품사: 명사
 ---
 000_KEYWORD: 책정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78698
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4409,13 +4409,13 @@ imported:
     표제어: 책정
     품사: 명사
     항목ID: 78698
-processed:
+result:
   맞춤법 검사:
     표제어: 책정
     품사: 명사
 ---
 000_KEYWORD: 책정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78699
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4449,13 +4449,13 @@ imported:
     표제어: 책정되다
     품사: 동사
     항목ID: 78699
-processed:
+result:
   맞춤법 검사:
     표제어: 책정되다
     품사: 동사
 ---
 000_KEYWORD: 책정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78700
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4486,13 +4486,13 @@ imported:
     표제어: 책정하다
     품사: 동사
     항목ID: 78700
-processed:
+result:
   맞춤법 검사:
     표제어: 책정하다
     품사: 동사
 ---
 000_KEYWORD: 책하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78701
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4525,13 +4525,13 @@ imported:
     표제어: 책하다
     품사: 동사
     항목ID: 78701
-processed:
+result:
   맞춤법 검사:
     표제어: 책하다
     품사: 동사
 ---
 000_KEYWORD: 챔피언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72052
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4577,13 +4577,13 @@ imported:
     표제어: 챔피언
     품사: 명사
     항목ID: 72052
-processed:
+result:
   맞춤법 검사:
     표제어: 챔피언
     품사: 명사
 ---
 000_KEYWORD: 챙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78702
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4616,13 +4616,13 @@ imported:
     표제어: 챙
     품사: 명사
     항목ID: 78702
-processed:
+result:
   맞춤법 검사:
     표제어: 챙
     품사: 명사
 ---
 000_KEYWORD: 챙기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29778
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4709,7 +4709,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/29778_chaenggiyeo.wav
       형태: 챙기어
     - 형태: 챙기니
-processed:
+result:
   맞춤법 검사:
     표제어: 챙기다
     품사: 동사

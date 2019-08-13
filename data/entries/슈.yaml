@@ -1,5 +1,5 @@
 000_KEYWORD: 슈뢰딩거__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10,13 +10,13 @@ imported:
     표제어: 슈뢰딩거
     품사: 명사:보통:서술성
     항목ID: 15961
-processed:
+result:
   맞춤법 검사:
     표제어: 슈뢰딩거
     품사: 명사
 ---
 000_KEYWORD: 슈크림__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -27,13 +27,13 @@ imported:
     표제어: 슈크림
     품사: 명사:보통:서술성
     항목ID: 15962
-processed:
+result:
   맞춤법 검사:
     표제어: 슈크림
     품사: 명사
 ---
 000_KEYWORD: 슈팅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65275
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -62,13 +62,13 @@ imported:
     표제어: 슈팅
     품사: 명사
     항목ID: 65275
-processed:
+result:
   맞춤법 검사:
     표제어: 슈팅
     품사: 명사
 ---
 000_KEYWORD: 슈퍼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65285
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -101,13 +101,13 @@ imported:
     표제어: 슈퍼
     품사: 명사
     항목ID: 65285
-processed:
+result:
   맞춤법 검사:
     표제어: 슈퍼
     품사: 명사
 ---
 000_KEYWORD: 슈퍼마켓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62509
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -143,13 +143,13 @@ imported:
     표제어: 슈퍼마켓
     품사: 명사
     항목ID: 62509
-processed:
+result:
   맞춤법 검사:
     표제어: 슈퍼마켓
     품사: 명사
 ---
 000_KEYWORD: 슈퍼맨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65287
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -174,13 +174,13 @@ imported:
     표제어: 슈퍼맨
     품사: 명사
     항목ID: 65287
-processed:
+result:
   맞춤법 검사:
     표제어: 슈퍼맨
     품사: 명사
 ---
 000_KEYWORD: 슈퍼우먼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65517
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -205,13 +205,13 @@ imported:
     표제어: 슈퍼우먼
     품사: 명사
     항목ID: 65517
-processed:
+result:
   맞춤법 검사:
     표제어: 슈퍼우먼
     품사: 명사
 ---
 000_KEYWORD: 슈퍼컴퓨터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -220,13 +220,13 @@ imported:
     표제어: 슈퍼컴퓨터
     품사: 명사:보통:비서술성
     항목ID: 15966
-processed:
+result:
   맞춤법 검사:
     표제어: 슈퍼컴퓨터
     품사: 명사
 ---
 000_KEYWORD: 슛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65290
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -257,13 +257,13 @@ imported:
     표제어: 슛
     품사: 명사
     항목ID: 65290
-processed:
+result:
   맞춤법 검사:
     표제어: 슛
     품사: 명사
 ---
 000_KEYWORD: 슛하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65294
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -297,7 +297,7 @@ imported:
     표제어: 슛하다
     품사: 동사
     항목ID: 65294
-processed:
+result:
   맞춤법 검사:
     표제어: 슛하다
     품사: 동사

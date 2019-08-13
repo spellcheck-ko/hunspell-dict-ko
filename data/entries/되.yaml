@@ -1,5 +1,5 @@
 000_KEYWORD: -되__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80289
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -51,11 +51,11 @@ imported:
     표제어: -되
     품사: 어미
     항목ID: 80289
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -되다__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74902
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -231,11 +231,11 @@ imported:
     표제어: -되다
     품사: 접사
     항목ID: 74902
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 되-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74901
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -274,11 +274,11 @@ imported:
     표제어: 되-
     품사: 접사
     항목ID: 74901
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 되__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48189
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -316,13 +316,13 @@ imported:
     표제어: 되
     품사: 명사
     항목ID: 48189
-processed:
+result:
   맞춤법 검사:
     표제어: 되
     품사: 명사
 ---
 000_KEYWORD: 되__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48190
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -365,13 +365,13 @@ imported:
     표제어: 되
     품사: 의존 명사
     항목ID: 48190
-processed:
+result:
   맞춤법 검사:
     표제어: 되
     품사: 의존 명사
 ---
 000_KEYWORD: 되가지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48192
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -415,7 +415,7 @@ imported:
     - 발음: 뒈가지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/48192_dwegajini.wav
       형태: 되가지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -423,7 +423,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 되감기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48200
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -453,13 +453,13 @@ imported:
     표제어: 되감기
     품사: 명사
     항목ID: 48200
-processed:
+result:
   맞춤법 검사:
     표제어: 되감기
     품사: 명사
 ---
 000_KEYWORD: 되감기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48197
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -507,13 +507,13 @@ imported:
     - 발음: 뒈감기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/48197_dwegamgini.wav
       형태: 되감기니
-processed:
+result:
   맞춤법 검사:
     표제어: 되감기다
     품사: 동사
 ---
 000_KEYWORD: 되감다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48202
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -557,13 +557,13 @@ imported:
     - 발음: 뒈가므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/48202_dwegameuni.wav
       형태: 되감으니
-processed:
+result:
   맞춤법 검사:
     표제어: 되감다
     품사: 동사
 ---
 000_KEYWORD: 되게__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14902
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -591,13 +591,13 @@ imported:
     표제어: 되게
     품사: 부사
     항목ID: 14902
-processed:
+result:
   맞춤법 검사:
     표제어: 되게
     품사: 부사
 ---
 000_KEYWORD: 되넘기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48204
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -653,13 +653,13 @@ imported:
     - 발음: 뒈넘기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/48204_dweneomgini.wav
       형태: 되넘기니
-processed:
+result:
   맞춤법 검사:
     표제어: 되넘기다
     품사: 동사
 ---
 000_KEYWORD: 되뇌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48208
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -708,13 +708,13 @@ imported:
     - 발음: 뒈눼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/48208_dwenweni.wav
       형태: 되뇌니
-processed:
+result:
   맞춤법 검사:
     표제어: 되뇌다
     품사: 동사
 ---
 000_KEYWORD: 되뇌이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92205
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -727,10 +727,10 @@ imported:
     표제어: 되뇌이다
     품사: 동사
     항목ID: 92205
-processed: {}
+result: {}
 ---
 000_KEYWORD: 되는대로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48211
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -780,13 +780,13 @@ imported:
     표제어: 되는대로
     품사: 부사
     항목ID: 48211
-processed:
+result:
   맞춤법 검사:
     표제어: 되는대로
     품사: 부사
 ---
 000_KEYWORD: 되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89858
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1222,13 +1222,13 @@ imported:
     - 발음: 뒈니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/89858_dweni.wav
       형태: 되니
-processed:
+result:
   맞춤법 검사:
     표제어: 되다
     품사: 동사
 ---
 000_KEYWORD: 되다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48214
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1321,13 +1321,13 @@ imported:
       형태: 됩니다
     - 발음: 뒘ː니다
       형태: 됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 되다
     품사: 형용사
 ---
 000_KEYWORD: 되도록__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48221
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1363,13 +1363,13 @@ imported:
     표제어: 되도록
     품사: 부사
     항목ID: 48221
-processed:
+result:
   맞춤법 검사:
     표제어: 되도록
     품사: 부사
 ---
 000_KEYWORD: 되도록이면__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1379,13 +1379,13 @@ imported:
     표제어: 되도록이면
     품사: 부사
     항목ID: 31777
-processed:
+result:
   맞춤법 검사:
     표제어: 되도록이면
     품사: 부사
 ---
 000_KEYWORD: 되돌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48224
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1432,13 +1432,13 @@ imported:
     - 발음: 뒈돔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/48224_dwedomnida.wav
       형태: 되돕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 되돌다
     품사: 동사
 ---
 000_KEYWORD: 되돌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14906
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1510,13 +1510,13 @@ imported:
     - 발음: 뒈돌리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14906_dwedollini.wav
       형태: 되돌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 되돌리다
     품사: 동사
 ---
 000_KEYWORD: 되돌아가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14923
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1583,17 +1583,17 @@ imported:
     - 발음: 뒈도라가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14923_dwedoragani.wav
       형태: 되돌아가니
-processed:
+result:
   맞춤법 검사:
     표제어: 되돌아가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 되돌아보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14913
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1651,17 +1651,17 @@ imported:
     - 발음: 뒈도라보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14913_dwedoraboni.wav
       형태: 되돌아보니
-processed:
+result:
   맞춤법 검사:
     표제어: 되돌아보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 되돌아서다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48228
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1730,13 +1730,13 @@ imported:
     - 발음: 뒈도라서니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/48228_dwedoraseoni.wav
       형태: 되돌아서니
-processed:
+result:
   맞춤법 검사:
     표제어: 되돌아서다
     품사: 동사
 ---
 000_KEYWORD: 되돌아오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14917
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1795,17 +1795,17 @@ imported:
     - 발음: 뒈도라오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14917_dwedoraoni.wav
       형태: 되돌아오니
-processed:
+result:
   맞춤법 검사:
     표제어: 되돌아오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 되레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48231
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1838,13 +1838,13 @@ imported:
     표제어: 되레
     품사: 부사
     항목ID: 48231
-processed:
+result:
   맞춤법 검사:
     표제어: 되레
     품사: 부사
 ---
 000_KEYWORD: 되묻다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48175
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1913,7 +1913,7 @@ imported:
     - 발음: 뒈문는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/48175_dwemunneun.wav
       형태: 되묻는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -1921,7 +1921,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 되바라지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48179
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2007,7 +2007,7 @@ imported:
     - 발음: 뒈바라짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48179_dwebarajimnida.wav
       형태: 되바라집니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -2015,7 +2015,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 되받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48184
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2091,7 +2091,7 @@ imported:
     - 발음: 뒈반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48184_dwebanneun.wav
       형태: 되받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -2099,7 +2099,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 되받아치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48186
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2146,17 +2146,17 @@ imported:
     - 발음: 뒈바다치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48186_dwebadachini.wav
       형태: 되받아치니
-processed:
+result:
   맞춤법 검사:
     표제어: 되받아치다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 되살다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48188
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2238,13 +2238,13 @@ imported:
     - 발음: 뒈삼니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48188_dwesamnida.wav
       형태: 되삽니다
-processed:
+result:
   맞춤법 검사:
     표제어: 되살다
     품사: 동사
 ---
 000_KEYWORD: 되살리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14919
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2327,13 +2327,13 @@ imported:
     - 발음: 뒈살리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/14919_dwesallini.wav
       형태: 되살리니
-processed:
+result:
   맞춤법 검사:
     표제어: 되살리다
     품사: 동사
 ---
 000_KEYWORD: 되살아나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48193
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2405,17 +2405,17 @@ imported:
     - 발음: 뒈사라나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48193_dwesaranani.wav
       형태: 되살아나니
-processed:
+result:
   맞춤법 검사:
     표제어: 되살아나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 되새기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48194
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2509,13 +2509,13 @@ imported:
     - 발음: 뒈새기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48194_dwesaegini.wav
       형태: 되새기니
-processed:
+result:
   맞춤법 검사:
     표제어: 되새기다
     품사: 동사
 ---
 000_KEYWORD: 되새김질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48195
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2543,13 +2543,13 @@ imported:
     표제어: 되새김질
     품사: 명사
     항목ID: 48195
-processed:
+result:
   맞춤법 검사:
     표제어: 되새김질
     품사: 명사
 ---
 000_KEYWORD: 되새김질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48196
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2581,13 +2581,13 @@ imported:
     표제어: 되새김질하다
     품사: 동사
     항목ID: 48196
-processed:
+result:
   맞춤법 검사:
     표제어: 되새김질하다
     품사: 동사
 ---
 000_KEYWORD: 되세우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48198
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2651,13 +2651,13 @@ imported:
     - 발음: 뒈세우니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/48198_dweseuni.wav
       형태: 되세우니
-processed:
+result:
   맞춤법 검사:
     표제어: 되세우다
     품사: 동사
 ---
 000_KEYWORD: 되쏘다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48201
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2729,13 +2729,13 @@ imported:
     - 발음: 뒈쏘니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/48201_dwessoni.wav
       형태: 되쏘니
-processed:
+result:
   맞춤법 검사:
     표제어: 되쏘다
     품사: 동사
 ---
 000_KEYWORD: 되씹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48206
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2837,7 +2837,7 @@ imported:
     - 발음: 뒈씸는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48206_dwessimneun.wav
       형태: 되씹는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -2845,7 +2845,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 되알지다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2854,13 +2854,13 @@ imported:
     표제어: 되알지다
     품사: 형용사
     항목ID: 7352
-processed:
+result:
   맞춤법 검사:
     표제어: 되알지다
     품사: 형용사
 ---
 000_KEYWORD: 되작거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48210
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2903,13 +2903,13 @@ imported:
     표제어: 되작거리다
     품사: 동사
     항목ID: 48210
-processed:
+result:
   맞춤법 검사:
     표제어: 되작거리다
     품사: 동사
 ---
 000_KEYWORD: 되작대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90284
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2950,13 +2950,13 @@ imported:
     표제어: 되작대다
     품사: 동사
     항목ID: 90284
-processed:
+result:
   맞춤법 검사:
     표제어: 되작대다
     품사: 동사
 ---
 000_KEYWORD: 되작되작__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90285
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2983,13 +2983,13 @@ imported:
     표제어: 되작되작
     품사: 부사
     항목ID: 90285
-processed:
+result:
   맞춤법 검사:
     표제어: 되작되작
     품사: 부사
 ---
 000_KEYWORD: 되작되작하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90286
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3030,13 +3030,13 @@ imported:
     표제어: 되작되작하다
     품사: 동사
     항목ID: 90286
-processed:
+result:
   맞춤법 검사:
     표제어: 되작되작하다
     품사: 동사
 ---
 000_KEYWORD: 되작이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90287
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3070,13 +3070,13 @@ imported:
     표제어: 되작이다
     품사: 동사
     항목ID: 90287
-processed:
+result:
   맞춤법 검사:
     표제어: 되작이다
     품사: 동사
 ---
 000_KEYWORD: 되잖다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48212
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3143,13 +3143,13 @@ imported:
       형태: 되잖지
     - 발음: 뒈잔치
       형태: 되잖지
-processed:
+result:
   맞춤법 검사:
     표제어: 되잖다
     품사: 형용사
 ---
 000_KEYWORD: 되잡다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48216
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3227,7 +3227,7 @@ imported:
     - 발음: 뒈잠는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/48216_dwejamneun.wav
       형태: 되잡는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -3235,7 +3235,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 되지못하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48222
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3295,13 +3295,13 @@ imported:
     - 발음: 뒈지모탐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48222_dwejimotamnida.wav
       형태: 되지못합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 되지못하다
     품사: 형용사
 ---
 000_KEYWORD: 되직이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90907
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3328,13 +3328,13 @@ imported:
     표제어: 되직이
     품사: 부사
     항목ID: 90907
-processed:
+result:
   맞춤법 검사:
     표제어: 되직이
     품사: 부사
 ---
 000_KEYWORD: 되직하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48226
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3390,13 +3390,13 @@ imported:
     - 발음: 뒈지캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48226_dwejikamnida.wav
       형태: 되직합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 되직하다
     품사: 형용사
 ---
 000_KEYWORD: 되짚다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48230
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3472,13 +3472,13 @@ imported:
     - 발음: 뒈짐는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48230_dwejimneun.wav
       형태: 되짚는
-processed:
+result:
   맞춤법 검사:
     표제어: 되짚다
     품사: 동사
 ---
 000_KEYWORD: 되찾다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14920
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3528,13 +3528,13 @@ imported:
     - 발음: 뒈찬는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/14920_dwechanneun.wav
       형태: 되찾는
-processed:
+result:
   맞춤법 검사:
     표제어: 되찾다
     품사: 동사
 ---
 000_KEYWORD: 되치기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48233
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3565,13 +3565,13 @@ imported:
     표제어: 되치기
     품사: 명사
     항목ID: 48233
-processed:
+result:
   맞춤법 검사:
     표제어: 되치기
     품사: 명사
 ---
 000_KEYWORD: 되팔다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48235
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3620,13 +3620,13 @@ imported:
     - 발음: 뒈팜니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48235_dwepamnida.wav
       형태: 되팝니다
-processed:
+result:
   맞춤법 검사:
     표제어: 되팔다
     품사: 동사
 ---
 000_KEYWORD: 되풀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48236
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3649,13 +3649,13 @@ imported:
     표제어: 되풀이
     품사: 명사
     항목ID: 48236
-processed:
+result:
   맞춤법 검사:
     표제어: 되풀이
     품사: 명사
 ---
 000_KEYWORD: 되풀이되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14935
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3698,13 +3698,13 @@ imported:
     - 발음: 뒈푸리뒈니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/14935_dwepuridweni.wav
       형태: 되풀이되니
-processed:
+result:
   맞춤법 검사:
     표제어: 되풀이되다
     품사: 동사
 ---
 000_KEYWORD: 되풀이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14933
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3733,13 +3733,13 @@ imported:
     표제어: 되풀이하다
     품사: 동사
     항목ID: 14933
-processed:
+result:
   맞춤법 검사:
     표제어: 되풀이하다
     품사: 동사
 ---
 000_KEYWORD: 된밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48237
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3793,13 +3793,13 @@ imported:
     - 발음: 뒌ː밤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48237_dwen-bamman.wav
       형태: 된밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 된밥
     품사: 명사
 ---
 000_KEYWORD: 된서리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48239
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3840,13 +3840,13 @@ imported:
     표제어: 된서리
     품사: 명사
     항목ID: 48239
-processed:
+result:
   맞춤법 검사:
     표제어: 된서리
     품사: 명사
 ---
 000_KEYWORD: 된소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48240
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3889,13 +3889,13 @@ imported:
     표제어: 된소리
     품사: 명사
     항목ID: 48240
-processed:
+result:
   맞춤법 검사:
     표제어: 된소리
     품사: 명사
 ---
 000_KEYWORD: 된장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48241
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3931,13 +3931,13 @@ imported:
     표제어: 된장
     품사: 명사
     항목ID: 48241
-processed:
+result:
   맞춤법 검사:
     표제어: 된장
     품사: 명사
 ---
 000_KEYWORD: 된장국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48243
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3989,13 +3989,13 @@ imported:
     - 발음: 뒌ː장꿍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/25000/48243_dwen-jangkkungman.wav
       형태: 된장국만
-processed:
+result:
   맞춤법 검사:
     표제어: 된장국
     품사: 명사
 ---
 000_KEYWORD: 된장찌개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14930
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4030,13 +4030,13 @@ imported:
     표제어: 된장찌개
     품사: 명사
     항목ID: 14930
-processed:
+result:
   맞춤법 검사:
     표제어: 된장찌개
     품사: 명사
 ---
 000_KEYWORD: 된통__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48246
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4073,13 +4073,13 @@ imported:
     표제어: 된통
     품사: 부사
     항목ID: 48246
-processed:
+result:
   맞춤법 검사:
     표제어: 된통
     품사: 부사
 ---
 000_KEYWORD: 됨됨이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48248
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4110,7 +4110,7 @@ imported:
     표제어: 됨됨이
     품사: 명사
     항목ID: 48248
-processed:
+result:
   맞춤법 검사:
     표제어: 됨됨이
     품사: 명사

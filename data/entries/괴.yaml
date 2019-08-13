@@ -1,5 +1,5 @@
 000_KEYWORD: 괴괴하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30840
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -50,13 +50,13 @@ imported:
       형태: 괴괴합니다
     - 발음: 궤궤함니다
       형태: 괴괴합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 괴괴하다
     품사: 형용사
 ---
 000_KEYWORD: 괴기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30841
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -87,13 +87,13 @@ imported:
     표제어: 괴기
     품사: 명사
     항목ID: 30841
-processed:
+result:
   맞춤법 검사:
     표제어: 괴기
     품사: 명사
 ---
 000_KEYWORD: 괴기하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30842
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -144,13 +144,13 @@ imported:
       형태: 괴기합니다
     - 발음: 궤ː기함니다
       형태: 괴기합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 괴기하다
     품사: 형용사
 ---
 000_KEYWORD: 괴나리봇짐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30843
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -184,13 +184,13 @@ imported:
     표제어: 괴나리봇짐
     품사: 명사
     항목ID: 30843
-processed:
+result:
   맞춤법 검사:
     표제어: 괴나리봇짐
     품사: 명사
 ---
 000_KEYWORD: 괴다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30844
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -260,13 +260,13 @@ imported:
     - 발음: 궤ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/30844_gwe-ni.wav
       형태: 괴니
-processed:
+result:
   맞춤법 검사:
     표제어: 괴다
     품사: 동사
 ---
 000_KEYWORD: 괴다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30846
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -331,13 +331,13 @@ imported:
     - 발음: 궤ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/gwe-ni.wav
       형태: 괴니
-processed:
+result:
   맞춤법 검사:
     표제어: 괴다
     품사: 동사
 ---
 000_KEYWORD: 괴담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30847
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -372,13 +372,13 @@ imported:
     표제어: 괴담
     품사: 명사
     항목ID: 30847
-processed:
+result:
   맞춤법 검사:
     표제어: 괴담
     품사: 명사
 ---
 000_KEYWORD: 괴도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -389,13 +389,13 @@ imported:
     표제어: 괴도
     품사: 명사:보통:비서술성
     항목ID: 2814
-processed:
+result:
   맞춤법 검사:
     표제어: 괴도
     품사: 명사
 ---
 000_KEYWORD: 괴력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30848
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -445,13 +445,13 @@ imported:
     - 발음: 궤ː령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/30848_gwe-ryeongman.wav
       형태: 괴력만
-processed:
+result:
   맞춤법 검사:
     표제어: 괴력
     품사: 명사
 ---
 000_KEYWORD: 괴로움__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24009
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -493,13 +493,13 @@ imported:
     표제어: 괴로움
     품사: 명사
     항목ID: 24009
-processed:
+result:
   맞춤법 검사:
     표제어: 괴로움
     품사: 명사
 ---
 000_KEYWORD: 괴로워하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24010
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -556,17 +556,17 @@ imported:
     - 발음: 궤로워하니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/24010_gwerowohani.wav
       형태: 괴로워하니
-processed:
+result:
   맞춤법 검사:
     표제어: 괴로워하다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 괴로이__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -576,13 +576,13 @@ imported:
     표제어: 괴로이
     품사: 부사
     항목ID: 2818
-processed:
+result:
   맞춤법 검사:
     표제어: 괴로이
     품사: 부사
 ---
 000_KEYWORD: 괴롬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30849
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -613,13 +613,13 @@ imported:
     표제어: 괴롬
     품사: 명사
     항목ID: 30849
-processed:
+result:
   맞춤법 검사:
     표제어: 괴롬
     품사: 명사
 ---
 000_KEYWORD: 괴롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30850
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -673,7 +673,7 @@ imported:
       형태: 괴롭습니다
     - 발음: 궤롭씀니다
       형태: 괴롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -681,7 +681,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 괴롭히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24017
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -730,13 +730,13 @@ imported:
     - 발음: 궤로피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/24017_gweropini.wav
       형태: 괴롭히니
-processed:
+result:
   맞춤법 검사:
     표제어: 괴롭히다
     품사: 동사
 ---
 000_KEYWORD: 괴뢰__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -746,13 +746,13 @@ imported:
     표제어: 괴뢰
     품사: 명사:보통:서술성
     항목ID: 2821
-processed:
+result:
   맞춤법 검사:
     표제어: 괴뢰
     품사: 명사
 ---
 000_KEYWORD: 괴뢰군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30852
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -784,13 +784,13 @@ imported:
     표제어: 괴뢰군
     품사: 명사
     항목ID: 30852
-processed:
+result:
   맞춤법 검사:
     표제어: 괴뢰군
     품사: 명사
 ---
 000_KEYWORD: 괴뢰정권__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -800,13 +800,13 @@ imported:
     표제어: 괴뢰정권
     품사: 명사:보통:서술성
     항목ID: 2822
-processed:
+result:
   맞춤법 검사:
     표제어: 괴뢰정권
     품사: 명사
 ---
 000_KEYWORD: 괴리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30853
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -837,13 +837,13 @@ imported:
     표제어: 괴리
     품사: 명사
     항목ID: 30853
-processed:
+result:
   맞춤법 검사:
     표제어: 괴리
     품사: 명사
 ---
 000_KEYWORD: 괴리감__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -852,13 +852,13 @@ imported:
     표제어: 괴리감
     품사: 명사:보통:서술성
     항목ID: 2824
-processed:
+result:
   맞춤법 검사:
     표제어: 괴리감
     품사: 명사
 ---
 000_KEYWORD: 괴리되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30855
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -890,13 +890,13 @@ imported:
     표제어: 괴리되다
     품사: 동사
     항목ID: 30855
-processed:
+result:
   맞춤법 검사:
     표제어: 괴리되다
     품사: 동사
 ---
 000_KEYWORD: 괴멸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30856
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -926,13 +926,13 @@ imported:
     표제어: 괴멸
     품사: 명사
     항목ID: 30856
-processed:
+result:
   맞춤법 검사:
     표제어: 괴멸
     품사: 명사
 ---
 000_KEYWORD: 괴멸되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30857
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -963,13 +963,13 @@ imported:
     표제어: 괴멸되다
     품사: 동사
     항목ID: 30857
-processed:
+result:
   맞춤법 검사:
     표제어: 괴멸되다
     품사: 동사
 ---
 000_KEYWORD: 괴멸하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30860
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1001,13 +1001,13 @@ imported:
     표제어: 괴멸하다
     품사: 동사
     항목ID: 30860
-processed:
+result:
   맞춤법 검사:
     표제어: 괴멸하다
     품사: 동사
 ---
 000_KEYWORD: 괴물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30861
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1058,13 +1058,13 @@ imported:
     표제어: 괴물
     품사: 명사
     항목ID: 30861
-processed:
+result:
   맞춤법 검사:
     표제어: 괴물
     품사: 명사
 ---
 000_KEYWORD: 괴발개발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30862
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1094,13 +1094,13 @@ imported:
     표제어: 괴발개발
     품사: 명사
     항목ID: 30862
-processed:
+result:
   맞춤법 검사:
     표제어: 괴발개발
     품사: 명사
 ---
 000_KEYWORD: 괴벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30863
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1148,13 +1148,13 @@ imported:
     - 발음: 궤ː병만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/30863_gwe-byeongman.wav
       형태: 괴벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 괴벽
     품사: 명사
 ---
 000_KEYWORD: 괴변__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30864
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1184,13 +1184,13 @@ imported:
     표제어: 괴변
     품사: 명사
     항목ID: 30864
-processed:
+result:
   맞춤법 검사:
     표제어: 괴변
     품사: 명사
 ---
 000_KEYWORD: 괴사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30866
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1221,13 +1221,13 @@ imported:
     표제어: 괴사하다
     품사: 동사
     항목ID: 30866
-processed:
+result:
   맞춤법 검사:
     표제어: 괴사하다
     품사: 동사
 ---
 000_KEYWORD: 괴산__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1238,13 +1238,13 @@ imported:
     표제어: 괴산
     품사: 명사:보통:서술성
     항목ID: 2829
-processed:
+result:
   맞춤법 검사:
     표제어: 괴산
     품사: 명사
 ---
 000_KEYWORD: 괴상망측하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30865
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1295,13 +1295,13 @@ imported:
       형태: 괴상망측합니다
     - 발음: 궤상망츠캄니다
       형태: 괴상망측합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 괴상망측하다
     품사: 형용사
 ---
 000_KEYWORD: 괴상하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30867
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1356,13 +1356,13 @@ imported:
       형태: 괴상합니다
     - 발음: 궤상함니다
       형태: 괴상합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 괴상하다
     품사: 형용사
 ---
 000_KEYWORD: 괴석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30868
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1412,13 +1412,13 @@ imported:
     - 발음: 궤ː성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/30868_gwe-seongman.wav
       형태: 괴석만
-processed:
+result:
   맞춤법 검사:
     표제어: 괴석
     품사: 명사
 ---
 000_KEYWORD: 괴성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30869
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1449,13 +1449,13 @@ imported:
     표제어: 괴성
     품사: 명사
     항목ID: 30869
-processed:
+result:
   맞춤법 검사:
     표제어: 괴성
     품사: 명사
 ---
 000_KEYWORD: 괴소문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30870
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1489,13 +1489,13 @@ imported:
     표제어: 괴소문
     품사: 명사
     항목ID: 30870
-processed:
+result:
   맞춤법 검사:
     표제어: 괴소문
     품사: 명사
 ---
 000_KEYWORD: 괴수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30871
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1527,13 +1527,13 @@ imported:
     표제어: 괴수
     품사: 명사
     항목ID: 30871
-processed:
+result:
   맞춤법 검사:
     표제어: 괴수
     품사: 명사
 ---
 000_KEYWORD: 괴수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30872
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1571,13 +1571,13 @@ imported:
     표제어: 괴수
     품사: 명사
     항목ID: 30872
-processed:
+result:
   맞춤법 검사:
     표제어: 괴수
     품사: 명사
 ---
 000_KEYWORD: 괴어오르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30873
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1652,7 +1652,7 @@ imported:
     - 발음: 궤여오르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/30873_gweyeooreuni.wav
       형태: 괴어오르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -1660,7 +1660,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 괴이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87220
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1717,13 +1717,13 @@ imported:
     - 발음: 궤이니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/87220_gweini.wav
       형태: 괴이니
-processed:
+result:
   맞춤법 검사:
     표제어: 괴이다
     품사: 동사
 ---
 000_KEYWORD: 괴이쩍다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30874
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1777,13 +1777,13 @@ imported:
       형태: 괴이쩍습니다
     - 발음: 궤이쩍씀니다
       형태: 괴이쩍습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 괴이쩍다
     품사: 형용사
 ---
 000_KEYWORD: 괴이하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30875
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1841,13 +1841,13 @@ imported:
       형태: 괴이합니다
     - 발음: 궤이함니다
       형태: 괴이합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 괴이하다
     품사: 형용사
 ---
 000_KEYWORD: 괴질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30876
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1882,13 +1882,13 @@ imported:
     표제어: 괴질
     품사: 명사
     항목ID: 30876
-processed:
+result:
   맞춤법 검사:
     표제어: 괴질
     품사: 명사
 ---
 000_KEYWORD: 괴짜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30877
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1923,13 +1923,13 @@ imported:
     표제어: 괴짜
     품사: 명사
     항목ID: 30877
-processed:
+result:
   맞춤법 검사:
     표제어: 괴짜
     품사: 명사
 ---
 000_KEYWORD: 괴팍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30878
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1980,13 +1980,13 @@ imported:
       형태: 괴팍합니다
     - 발음: 궤ː파캄니다
       형태: 괴팍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 괴팍하다
     품사: 형용사
 ---
 000_KEYWORD: 괴퍅하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92164
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1999,10 +1999,10 @@ imported:
     표제어: 괴퍅하다
     품사: 형용사
     항목ID: 92164
-processed: {}
+result: {}
 ---
 000_KEYWORD: 괴한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30879
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2034,13 +2034,13 @@ imported:
     표제어: 괴한
     품사: 명사
     항목ID: 30879
-processed:
+result:
   맞춤법 검사:
     표제어: 괴한
     품사: 명사
 ---
 000_KEYWORD: 괴혈병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30880
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2071,13 +2071,13 @@ imported:
     표제어: 괴혈병
     품사: 명사
     항목ID: 30880
-processed:
+result:
   맞춤법 검사:
     표제어: 괴혈병
     품사: 명사
 ---
 000_KEYWORD: 굉음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30881
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2112,13 +2112,13 @@ imported:
     표제어: 굉음
     품사: 명사
     항목ID: 30881
-processed:
+result:
   맞춤법 검사:
     표제어: 굉음
     품사: 명사
 ---
 000_KEYWORD: 굉장하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24024
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2184,13 +2184,13 @@ imported:
       형태: 굉장합니다
     - 발음: 궹장함니다
       형태: 굉장합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 굉장하다
     품사: 형용사
 ---
 000_KEYWORD: 굉장히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30882
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2235,7 +2235,7 @@ imported:
     표제어: 굉장히
     품사: 부사
     항목ID: 30882
-processed:
+result:
   맞춤법 검사:
     표제어: 굉장히
     품사: 부사

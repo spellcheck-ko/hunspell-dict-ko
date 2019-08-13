@@ -1,5 +1,5 @@
 000_KEYWORD: -범__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74956
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -36,11 +36,11 @@ imported:
     표제어: -범
     품사: 접사
     항목ID: 74956
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -법__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70308
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -118,11 +118,11 @@ imported:
     표제어: -법
     품사: 접사
     항목ID: 70308
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 버겁다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58772
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -159,7 +159,7 @@ imported:
       형태: 버거우니
     - 발음: 버겁씀니다
       형태: 버겁습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -167,7 +167,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 버그__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58777
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -198,13 +198,13 @@ imported:
     표제어: 버그
     품사: 명사
     항목ID: 58777
-processed:
+result:
   맞춤법 검사:
     표제어: 버그
     품사: 명사
 ---
 000_KEYWORD: 버그러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58783
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -251,7 +251,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/58783_beogeureojeo.wav
       형태: 버그러지어
     - 형태: 버그러지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -259,7 +259,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 버글거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58877
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -320,13 +320,13 @@ imported:
     표제어: 버글거리다
     품사: 동사
     항목ID: 58877
-processed:
+result:
   맞춤법 검사:
     표제어: 버글거리다
     품사: 동사
 ---
 000_KEYWORD: 버글대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89344
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -381,13 +381,13 @@ imported:
     표제어: 버글대다
     품사: 동사
     항목ID: 89344
-processed:
+result:
   맞춤법 검사:
     표제어: 버글대다
     품사: 동사
 ---
 000_KEYWORD: 버글버글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89345
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -423,13 +423,13 @@ imported:
     표제어: 버글버글
     품사: 부사
     항목ID: 89345
-processed:
+result:
   맞춤법 검사:
     표제어: 버글버글
     품사: 부사
 ---
 000_KEYWORD: 버글버글하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89346
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -485,13 +485,13 @@ imported:
     표제어: 버글버글하다
     품사: 동사
     항목ID: 89346
-processed:
+result:
   맞춤법 검사:
     표제어: 버글버글하다
     품사: 동사
 ---
 000_KEYWORD: 버금가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58889
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -530,13 +530,13 @@ imported:
     활용:
     - 형태: 버금가
     - 형태: 버금가니
-processed:
+result:
   맞춤법 검사:
     표제어: 버금가다
     품사: 동사
 ---
 000_KEYWORD: 버너__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58906
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -565,13 +565,13 @@ imported:
     표제어: 버너
     품사: 명사
     항목ID: 58906
-processed:
+result:
   맞춤법 검사:
     표제어: 버너
     품사: 명사
 ---
 000_KEYWORD: 버둥거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58914
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -629,13 +629,13 @@ imported:
     표제어: 버둥거리다
     품사: 동사
     항목ID: 58914
-processed:
+result:
   맞춤법 검사:
     표제어: 버둥거리다
     품사: 동사
 ---
 000_KEYWORD: 버둥대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58917
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -685,13 +685,13 @@ imported:
     표제어: 버둥대다
     품사: 동사
     항목ID: 58917
-processed:
+result:
   맞춤법 검사:
     표제어: 버둥대다
     품사: 동사
 ---
 000_KEYWORD: 버둥버둥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89347
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -734,13 +734,13 @@ imported:
     표제어: 버둥버둥
     품사: 부사
     항목ID: 89347
-processed:
+result:
   맞춤법 검사:
     표제어: 버둥버둥
     품사: 부사
 ---
 000_KEYWORD: 버둥버둥하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89348
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -792,13 +792,13 @@ imported:
     표제어: 버둥버둥하다
     품사: 동사
     항목ID: 89348
-processed:
+result:
   맞춤법 검사:
     표제어: 버둥버둥하다
     품사: 동사
 ---
 000_KEYWORD: 버드나무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58918
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -825,13 +825,13 @@ imported:
     표제어: 버드나무
     품사: 명사
     항목ID: 58918
-processed:
+result:
   맞춤법 검사:
     표제어: 버드나무
     품사: 명사
 ---
 000_KEYWORD: 버들__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58920
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -857,13 +857,13 @@ imported:
     표제어: 버들
     품사: 명사
     항목ID: 58920
-processed:
+result:
   맞춤법 검사:
     표제어: 버들
     품사: 명사
 ---
 000_KEYWORD: 버들가지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58922
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -885,13 +885,13 @@ imported:
     표제어: 버들가지
     품사: 명사
     항목ID: 58922
-processed:
+result:
   맞춤법 검사:
     표제어: 버들가지
     품사: 명사
 ---
 000_KEYWORD: 버들강아지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58923
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -915,13 +915,13 @@ imported:
     표제어: 버들강아지
     품사: 명사
     항목ID: 58923
-processed:
+result:
   맞춤법 검사:
     표제어: 버들강아지
     품사: 명사
 ---
 000_KEYWORD: 버들잎__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58927
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -956,13 +956,13 @@ imported:
     - 발음: 버들림만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58927_beodeullimman.wav
       형태: 버들잎만
-processed:
+result:
   맞춤법 검사:
     표제어: 버들잎
     품사: 명사
 ---
 000_KEYWORD: 버들피리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58249
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -996,13 +996,13 @@ imported:
     표제어: 버들피리
     품사: 명사
     항목ID: 58249
-processed:
+result:
   맞춤법 검사:
     표제어: 버들피리
     품사: 명사
 ---
 000_KEYWORD: 버러지__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1011,13 +1011,13 @@ imported:
     표제어: 버러지
     품사: 명사:보통:비서술성
     항목ID: 11216
-processed:
+result:
   맞춤법 검사:
     표제어: 버러지
     품사: 명사
 ---
 000_KEYWORD: 버럭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58250
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1048,13 +1048,13 @@ imported:
     표제어: 버럭
     품사: 부사
     항목ID: 58250
-processed:
+result:
   맞춤법 검사:
     표제어: 버럭
     품사: 부사
 ---
 000_KEYWORD: 버럭버럭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58303
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1085,13 +1085,13 @@ imported:
     표제어: 버럭버럭
     품사: 부사
     항목ID: 58303
-processed:
+result:
   맞춤법 검사:
     표제어: 버럭버럭
     품사: 부사
 ---
 000_KEYWORD: 버려두다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58342
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1131,13 +1131,13 @@ imported:
     활용:
     - 형태: 버려두어
     - 형태: 버려두니
-processed:
+result:
   맞춤법 검사:
     표제어: 버려두다
     품사: 동사
 ---
 000_KEYWORD: 버려지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14495
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1190,13 +1190,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/14495_beoryeojeo.wav
       형태: 버려져
     - 형태: 버려지니
-processed:
+result:
   맞춤법 검사:
     표제어: 버려지다
     품사: 동사
 ---
 000_KEYWORD: 버르장머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58304
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1224,13 +1224,13 @@ imported:
     표제어: 버르장머리
     품사: 명사
     항목ID: 58304
-processed:
+result:
   맞춤법 검사:
     표제어: 버르장머리
     품사: 명사
 ---
 000_KEYWORD: 버르적거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58343
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1262,13 +1262,13 @@ imported:
     표제어: 버르적거리다
     품사: 동사
     항목ID: 58343
-processed:
+result:
   맞춤법 검사:
     표제어: 버르적거리다
     품사: 동사
 ---
 000_KEYWORD: 버르적대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89349
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1303,13 +1303,13 @@ imported:
     표제어: 버르적대다
     품사: 동사
     항목ID: 89349
-processed:
+result:
   맞춤법 검사:
     표제어: 버르적대다
     품사: 동사
 ---
 000_KEYWORD: 버르적버르적__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89350
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1330,13 +1330,13 @@ imported:
     표제어: 버르적버르적
     품사: 부사
     항목ID: 89350
-processed:
+result:
   맞춤법 검사:
     표제어: 버르적버르적
     품사: 부사
 ---
 000_KEYWORD: 버르적버르적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89351
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1370,13 +1370,13 @@ imported:
     표제어: 버르적버르적하다
     품사: 동사
     항목ID: 89351
-processed:
+result:
   맞춤법 검사:
     표제어: 버르적버르적하다
     품사: 동사
 ---
 000_KEYWORD: 버릇__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58306
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1427,13 +1427,13 @@ imported:
     - 발음: 버른만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58306_beoreunman.wav
       형태: 버릇만
-processed:
+result:
   맞춤법 검사:
     표제어: 버릇
     품사: 명사
 ---
 000_KEYWORD: 버릇없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58308
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1481,13 +1481,13 @@ imported:
     - 발음: 버르덥찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58308_beoreudeopjji.wav
       형태: 버릇없지
-processed:
+result:
   맞춤법 검사:
     표제어: 버릇없다
     품사: 형용사
 ---
 000_KEYWORD: 버릇없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58307
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1512,13 +1512,13 @@ imported:
     표제어: 버릇없이
     품사: 부사
     항목ID: 58307
-processed:
+result:
   맞춤법 검사:
     표제어: 버릇없이
     품사: 부사
 ---
 000_KEYWORD: 버릇하다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58344
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1555,7 +1555,7 @@ imported:
       형태: 버릇하니
     - 발음: 버르탐니다
       형태: 버릇합니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -1563,7 +1563,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 버리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65570
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1702,13 +1702,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/62601_beoriyeo.wav
       형태: 버리어
     - 형태: 버리니
-processed:
+result:
   맞춤법 검사:
     표제어: 버리다
     품사: 동사
 ---
 000_KEYWORD: 버리다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62601
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1745,7 +1745,7 @@ imported:
       형태: 버리니
     - 발음: 버림니다
       형태: 버립니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -1753,7 +1753,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 버림받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58345
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1790,7 +1790,7 @@ imported:
     - 발음: 버림반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58345_beorimbanneun.wav
       형태: 버림받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1798,7 +1798,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 버마__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1808,13 +1808,13 @@ imported:
     표제어: 버마
     품사: 명사:보통:서술성
     항목ID: 11223
-processed:
+result:
   맞춤법 검사:
     표제어: 버마
     품사: 명사
 ---
 000_KEYWORD: 버무리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58347
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1856,13 +1856,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58347_beomuriyeo.wav
       형태: 버무리어
     - 형태: 버무리니
-processed:
+result:
   맞춤법 검사:
     표제어: 버무리다
     품사: 동사
 ---
 000_KEYWORD: 버물리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58348
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1897,13 +1897,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/58348_beomulliyeo.wav
       형태: 버물리어
     - 형태: 버물리니
-processed:
+result:
   맞춤법 검사:
     표제어: 버물리다
     품사: 동사
 ---
 000_KEYWORD: 버벅거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58585
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1934,13 +1934,13 @@ imported:
     표제어: 버벅거리다
     품사: 동사
     항목ID: 58585
-processed:
+result:
   맞춤법 검사:
     표제어: 버벅거리다
     품사: 동사
 ---
 000_KEYWORD: 버벅대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89352
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1969,13 +1969,13 @@ imported:
     표제어: 버벅대다
     품사: 동사
     항목ID: 89352
-processed:
+result:
   맞춤법 검사:
     표제어: 버벅대다
     품사: 동사
 ---
 000_KEYWORD: 버석거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58349
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2009,13 +2009,13 @@ imported:
     표제어: 버석거리다
     품사: 동사
     항목ID: 58349
-processed:
+result:
   맞춤법 검사:
     표제어: 버석거리다
     품사: 동사
 ---
 000_KEYWORD: 버석대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89353
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2050,13 +2050,13 @@ imported:
     표제어: 버석대다
     품사: 동사
     항목ID: 89353
-processed:
+result:
   맞춤법 검사:
     표제어: 버석대다
     품사: 동사
 ---
 000_KEYWORD: 버석버석__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89354
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2081,13 +2081,13 @@ imported:
     표제어: 버석버석
     품사: 부사
     항목ID: 89354
-processed:
+result:
   맞춤법 검사:
     표제어: 버석버석
     품사: 부사
 ---
 000_KEYWORD: 버석버석하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58350
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2119,13 +2119,13 @@ imported:
     표제어: 버석버석하다
     품사: 동사
     항목ID: 58350
-processed:
+result:
   맞춤법 검사:
     표제어: 버석버석하다
     품사: 동사
 ---
 000_KEYWORD: 버석버석하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58351
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2160,13 +2160,13 @@ imported:
       형태: 버석버석하니
     - 발음: 버석뻐서캄니다
       형태: 버석버석합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 버석버석하다
     품사: 형용사
 ---
 000_KEYWORD: 버석하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89355
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2194,13 +2194,13 @@ imported:
     표제어: 버석하다
     품사: 동사
     항목ID: 89355
-processed:
+result:
   맞춤법 검사:
     표제어: 버석하다
     품사: 동사
 ---
 000_KEYWORD: 버석하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89356
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2239,13 +2239,13 @@ imported:
       형태: 버석하니
     - 발음: 버서캄니다
       형태: 버석합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 버석하다
     품사: 형용사
 ---
 000_KEYWORD: 버선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58311
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2277,13 +2277,13 @@ imported:
     표제어: 버선
     품사: 명사
     항목ID: 58311
-processed:
+result:
   맞춤법 검사:
     표제어: 버선
     품사: 명사
 ---
 000_KEYWORD: 버선코__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58315
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2311,13 +2311,13 @@ imported:
     표제어: 버선코
     품사: 명사
     항목ID: 58315
-processed:
+result:
   맞춤법 검사:
     표제어: 버선코
     품사: 명사
 ---
 000_KEYWORD: 버섯__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58316
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2359,13 +2359,13 @@ imported:
     - 발음: 버선만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58316_beoseonman.wav
       형태: 버섯만
-processed:
+result:
   맞춤법 검사:
     표제어: 버섯
     품사: 명사
 ---
 000_KEYWORD: 버섯전골__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58317
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2395,13 +2395,13 @@ imported:
     표제어: 버섯전골
     품사: 명사
     항목ID: 58317
-processed:
+result:
   맞춤법 검사:
     표제어: 버섯전골
     품사: 명사
 ---
 000_KEYWORD: 버스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36678
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2446,13 +2446,13 @@ imported:
     표제어: 버스
     품사: 명사
     항목ID: 36678
-processed:
+result:
   맞춤법 검사:
     표제어: 버스
     품사: 명사
 ---
 000_KEYWORD: 버저__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58492
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2481,13 +2481,13 @@ imported:
     표제어: 버저
     품사: 명사
     항목ID: 58492
-processed:
+result:
   맞춤법 검사:
     표제어: 버저
     품사: 명사
 ---
 000_KEYWORD: 버전__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2497,13 +2497,13 @@ imported:
     표제어: 버전
     품사: 명사:보통:비서술성
     항목ID: 11228
-processed:
+result:
   맞춤법 검사:
     표제어: 버전
     품사: 명사
 ---
 000_KEYWORD: 버젓이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58595
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2538,13 +2538,13 @@ imported:
     표제어: 버젓이
     품사: 부사
     항목ID: 58595
-processed:
+result:
   맞춤법 검사:
     표제어: 버젓이
     품사: 부사
 ---
 000_KEYWORD: 버젓하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58352
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2597,13 +2597,13 @@ imported:
       형태: 버젓하니
     - 발음: 버저탐니다
       형태: 버젓합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 버젓하다
     품사: 형용사
 ---
 000_KEYWORD: 버짐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58320
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2630,13 +2630,13 @@ imported:
     표제어: 버짐
     품사: 명사
     항목ID: 58320
-processed:
+result:
   맞춤법 검사:
     표제어: 버짐
     품사: 명사
 ---
 000_KEYWORD: 버쩍버쩍__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2646,13 +2646,13 @@ imported:
     표제어: 버쩍버쩍
     품사: 명사:보통:서술성
     항목ID: 11231
-processed:
+result:
   맞춤법 검사:
     표제어: 버쩍버쩍
     품사: 명사
 ---
 000_KEYWORD: 버찌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58445
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2677,13 +2677,13 @@ imported:
     표제어: 버찌
     품사: 명사
     항목ID: 58445
-processed:
+result:
   맞춤법 검사:
     표제어: 버찌
     품사: 명사
 ---
 000_KEYWORD: 버터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58455
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2715,13 +2715,13 @@ imported:
     표제어: 버터
     품사: 명사
     항목ID: 58455
-processed:
+result:
   맞춤법 검사:
     표제어: 버터
     품사: 명사
 ---
 000_KEYWORD: 버튼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58465
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2748,13 +2748,13 @@ imported:
     표제어: 버튼
     품사: 명사
     항목ID: 58465
-processed:
+result:
   맞춤법 검사:
     표제어: 버튼
     품사: 명사
 ---
 000_KEYWORD: 버티다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14497
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2869,13 +2869,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/14497_beotiyeo.wav
       형태: 버티어
     - 형태: 버티니
-processed:
+result:
   맞춤법 검사:
     표제어: 버티다
     품사: 동사
 ---
 000_KEYWORD: 버팀기둥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58467
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2903,13 +2903,13 @@ imported:
     표제어: 버팀기둥
     품사: 명사
     항목ID: 58467
-processed:
+result:
   맞춤법 검사:
     표제어: 버팀기둥
     품사: 명사
 ---
 000_KEYWORD: 버팀대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58475
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2939,13 +2939,13 @@ imported:
     표제어: 버팀대
     품사: 명사
     항목ID: 58475
-processed:
+result:
   맞춤법 검사:
     표제어: 버팀대
     품사: 명사
 ---
 000_KEYWORD: 버팀목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58482
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3001,13 +3001,13 @@ imported:
     - 발음: 버팀몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/58482_beotimmongman.wav
       형태: 버팀목만
-processed:
+result:
   맞춤법 검사:
     표제어: 버팀목
     품사: 명사
 ---
 000_KEYWORD: 버퍼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3016,13 +3016,13 @@ imported:
     표제어: 버퍼
     품사: 명사:보통:서술성
     항목ID: 11238
-processed:
+result:
   맞춤법 검사:
     표제어: 버퍼
     품사: 명사
 ---
 000_KEYWORD: 버퍼링__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3032,13 +3032,13 @@ imported:
     표제어: 버퍼링
     품사: 명사:보통:서술성
     항목ID: 11239
-processed:
+result:
   맞춤법 검사:
     표제어: 버퍼링
     품사: 명사
 ---
 000_KEYWORD: 벅벅__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59071
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3139,13 +3139,13 @@ imported:
     표제어: 벅벅
     품사: 부사
     항목ID: 59071
-processed:
+result:
   맞춤법 검사:
     표제어: 벅벅
     품사: 부사
 ---
 000_KEYWORD: 벅차다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3154,13 +3154,13 @@ imported:
     표제어: 벅차다
     품사: 동사
     항목ID: 11240
-processed:
+result:
   맞춤법 검사:
     표제어: 벅차다
     품사: 동사
 ---
 000_KEYWORD: 벅차다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58356
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3222,13 +3222,13 @@ imported:
       형태: 벅차니
     - 발음: 벅참니다
       형태: 벅찹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 벅차다
     품사: 형용사
 ---
 000_KEYWORD: 벅차오르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58357
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3260,19 +3260,19 @@ imported:
     활용:
     - 형태: 벅차올라
     - 형태: 벅차오르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
     표제어: 벅차오르다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 번__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26846
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3330,13 +3330,13 @@ imported:
     표제어: 번
     품사: 의존 명사
     항목ID: 26846
-processed:
+result:
   맞춤법 검사:
     표제어: 번
     품사: 의존 명사
 ---
 000_KEYWORD: 번갈다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58358
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3392,13 +3392,13 @@ imported:
     표제어: 번갈다
     품사: 동사
     항목ID: 58358
-processed:
+result:
   맞춤법 검사:
     표제어: 번갈다
     품사: 동사
 ---
 000_KEYWORD: 번개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14440
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3439,13 +3439,13 @@ imported:
     표제어: 번개
     품사: 명사
     항목ID: 14440
-processed:
+result:
   맞춤법 검사:
     표제어: 번개
     품사: 명사
 ---
 000_KEYWORD: 번갯불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59067
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3478,13 +3478,13 @@ imported:
     표제어: 번갯불
     품사: 명사
     항목ID: 59067
-processed:
+result:
   맞춤법 검사:
     표제어: 번갯불
     품사: 명사
 ---
 000_KEYWORD: 번거로이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91299
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3513,13 +3513,13 @@ imported:
     표제어: 번거로이
     품사: 부사
     항목ID: 91299
-processed:
+result:
   맞춤법 검사:
     표제어: 번거로이
     품사: 부사
 ---
 000_KEYWORD: 번거롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14499
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3571,7 +3571,7 @@ imported:
       형태: 번거로우니
     - 발음: 번거롭씀니다
       형태: 번거롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -3579,7 +3579,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 번뇌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59065
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3622,13 +3622,13 @@ imported:
     표제어: 번뇌
     품사: 명사
     항목ID: 59065
-processed:
+result:
   맞춤법 검사:
     표제어: 번뇌
     품사: 명사
 ---
 000_KEYWORD: 번뇌하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58359
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3659,13 +3659,13 @@ imported:
     표제어: 번뇌하다
     품사: 동사
     항목ID: 58359
-processed:
+result:
   맞춤법 검사:
     표제어: 번뇌하다
     품사: 동사
 ---
 000_KEYWORD: 번다스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58360
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3702,7 +3702,7 @@ imported:
       형태: 번다스러우니
     - 발음: 번다스럽씀니다
       형태: 번다스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -3710,7 +3710,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 번다하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58361
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3751,13 +3751,13 @@ imported:
       형태: 번다하니
     - 발음: 번다함니다
       형태: 번다합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번다하다
     품사: 형용사
 ---
 000_KEYWORD: 번데기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58924
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3802,13 +3802,13 @@ imported:
     표제어: 번데기
     품사: 명사
     항목ID: 58924
-processed:
+result:
   맞춤법 검사:
     표제어: 번데기
     품사: 명사
 ---
 000_KEYWORD: 번드레하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3817,13 +3817,13 @@ imported:
     표제어: 번드레하다
     품사: 형용사
     항목ID: 11247
-processed:
+result:
   맞춤법 검사:
     표제어: 번드레하다
     품사: 형용사
 ---
 000_KEYWORD: 번드르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58486
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3847,13 +3847,13 @@ imported:
     표제어: 번드르르
     품사: 부사
     항목ID: 58486
-processed:
+result:
   맞춤법 검사:
     표제어: 번드르르
     품사: 부사
 ---
 000_KEYWORD: 번드르르하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3862,13 +3862,13 @@ imported:
     표제어: 번드르르하다
     품사: 형용사
     항목ID: 11248
-processed:
+result:
   맞춤법 검사:
     표제어: 번드르르하다
     품사: 형용사
 ---
 000_KEYWORD: 번득거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58362
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3906,13 +3906,13 @@ imported:
     표제어: 번득거리다
     품사: 동사
     항목ID: 58362
-processed:
+result:
   맞춤법 검사:
     표제어: 번득거리다
     품사: 동사
 ---
 000_KEYWORD: 번득대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89357
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3947,13 +3947,13 @@ imported:
     표제어: 번득대다
     품사: 동사
     항목ID: 89357
-processed:
+result:
   맞춤법 검사:
     표제어: 번득대다
     품사: 동사
 ---
 000_KEYWORD: 번득번득__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89358
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3978,13 +3978,13 @@ imported:
     표제어: 번득번득
     품사: 부사
     항목ID: 89358
-processed:
+result:
   맞춤법 검사:
     표제어: 번득번득
     품사: 부사
 ---
 000_KEYWORD: 번득번득하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89359
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4019,13 +4019,13 @@ imported:
     표제어: 번득번득하다
     품사: 동사
     항목ID: 89359
-processed:
+result:
   맞춤법 검사:
     표제어: 번득번득하다
     품사: 동사
 ---
 000_KEYWORD: 번득이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58363
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4052,13 +4052,13 @@ imported:
     표제어: 번득이다
     품사: 동사
     항목ID: 58363
-processed:
+result:
   맞춤법 검사:
     표제어: 번득이다
     품사: 동사
 ---
 000_KEYWORD: 번득하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89360
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4086,13 +4086,13 @@ imported:
     표제어: 번득하다
     품사: 동사
     항목ID: 89360
-processed:
+result:
   맞춤법 검사:
     표제어: 번득하다
     품사: 동사
 ---
 000_KEYWORD: 번들거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59070
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4131,13 +4131,13 @@ imported:
     표제어: 번들거리다
     품사: 동사
     항목ID: 59070
-processed:
+result:
   맞춤법 검사:
     표제어: 번들거리다
     품사: 동사
 ---
 000_KEYWORD: 번들대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58618
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4176,13 +4176,13 @@ imported:
     표제어: 번들대다
     품사: 동사
     항목ID: 58618
-processed:
+result:
   맞춤법 검사:
     표제어: 번들대다
     품사: 동사
 ---
 000_KEYWORD: 번들번들__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58626
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4225,13 +4225,13 @@ imported:
     표제어: 번들번들
     품사: 부사
     항목ID: 58626
-processed:
+result:
   맞춤법 검사:
     표제어: 번들번들
     품사: 부사
 ---
 000_KEYWORD: 번들번들하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58650
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4274,13 +4274,13 @@ imported:
       형태: 번들번들하니
     - 발음: 번들번들함니다
       형태: 번들번들합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번들번들하다
     품사: 형용사
 ---
 000_KEYWORD: 번듯이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58656
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4330,13 +4330,13 @@ imported:
     표제어: 번듯이
     품사: 부사
     항목ID: 58656
-processed:
+result:
   맞춤법 검사:
     표제어: 번듯이
     품사: 부사
 ---
 000_KEYWORD: 번듯하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58662
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4409,13 +4409,13 @@ imported:
       형태: 번듯하니
     - 발음: 번드탐니다
       형태: 번듯합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번듯하다
     품사: 형용사
 ---
 000_KEYWORD: 번뜩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58743
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4445,13 +4445,13 @@ imported:
     표제어: 번뜩
     품사: 부사
     항목ID: 58743
-processed:
+result:
   맞춤법 검사:
     표제어: 번뜩
     품사: 부사
 ---
 000_KEYWORD: 번뜩거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58781
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4506,13 +4506,13 @@ imported:
     표제어: 번뜩거리다
     품사: 동사
     항목ID: 58781
-processed:
+result:
   맞춤법 검사:
     표제어: 번뜩거리다
     품사: 동사
 ---
 000_KEYWORD: 번뜩대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89361
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4547,13 +4547,13 @@ imported:
     표제어: 번뜩대다
     품사: 동사
     항목ID: 89361
-processed:
+result:
   맞춤법 검사:
     표제어: 번뜩대다
     품사: 동사
 ---
 000_KEYWORD: 번뜩번뜩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58793
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4590,13 +4590,13 @@ imported:
     표제어: 번뜩번뜩
     품사: 부사
     항목ID: 58793
-processed:
+result:
   맞춤법 검사:
     표제어: 번뜩번뜩
     품사: 부사
 ---
 000_KEYWORD: 번뜩번뜩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90181
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4643,13 +4643,13 @@ imported:
     표제어: 번뜩번뜩하다
     품사: 동사
     항목ID: 90181
-processed:
+result:
   맞춤법 검사:
     표제어: 번뜩번뜩하다
     품사: 동사
 ---
 000_KEYWORD: 번뜩이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58791
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4693,13 +4693,13 @@ imported:
     표제어: 번뜩이다
     품사: 동사
     항목ID: 58791
-processed:
+result:
   맞춤법 검사:
     표제어: 번뜩이다
     품사: 동사
 ---
 000_KEYWORD: 번뜩이다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4708,13 +4708,13 @@ imported:
     표제어: 번뜩이다
     품사: 형용사
     항목ID: 11252
-processed:
+result:
   맞춤법 검사:
     표제어: 번뜩이다
     품사: 형용사
 ---
 000_KEYWORD: 번뜩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90182
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4756,13 +4756,13 @@ imported:
     표제어: 번뜩하다
     품사: 동사
     항목ID: 90182
-processed:
+result:
   맞춤법 검사:
     표제어: 번뜩하다
     품사: 동사
 ---
 000_KEYWORD: 번민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58929
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4797,13 +4797,13 @@ imported:
     표제어: 번민
     품사: 명사
     항목ID: 58929
-processed:
+result:
   맞춤법 검사:
     표제어: 번민
     품사: 명사
 ---
 000_KEYWORD: 번민하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58933
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4834,13 +4834,13 @@ imported:
     표제어: 번민하다
     품사: 동사
     항목ID: 58933
-processed:
+result:
   맞춤법 검사:
     표제어: 번민하다
     품사: 동사
 ---
 000_KEYWORD: 번번이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58934
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4877,13 +4877,13 @@ imported:
     표제어: 번번이
     품사: 부사
     항목ID: 58934
-processed:
+result:
   맞춤법 검사:
     표제어: 번번이
     품사: 부사
 ---
 000_KEYWORD: 번번히__특수:금지어__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4893,13 +4893,13 @@ imported:
     표제어: 번번히
     품사: 특수:금지어
     항목ID: 11254
-processed:
+result:
   맞춤법 검사:
     표제어: 번번히
     품사: 특수:금지어
 ---
 000_KEYWORD: 번복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58980
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4936,13 +4936,13 @@ imported:
     - 발음: 번봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/58980_beonbongman.wav
       형태: 번복만
-processed:
+result:
   맞춤법 검사:
     표제어: 번복
     품사: 명사
 ---
 000_KEYWORD: 번복되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59066
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4971,13 +4971,13 @@ imported:
     표제어: 번복되다
     품사: 동사
     항목ID: 59066
-processed:
+result:
   맞춤법 검사:
     표제어: 번복되다
     품사: 동사
 ---
 000_KEYWORD: 번복하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59052
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5006,13 +5006,13 @@ imported:
     표제어: 번복하다
     품사: 동사
     항목ID: 59052
-processed:
+result:
   맞춤법 검사:
     표제어: 번복하다
     품사: 동사
 ---
 000_KEYWORD: 번성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59068
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5061,13 +5061,13 @@ imported:
     표제어: 번성
     품사: 명사
     항목ID: 59068
-processed:
+result:
   맞춤법 검사:
     표제어: 번성
     품사: 명사
 ---
 000_KEYWORD: 번성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59069
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5096,13 +5096,13 @@ imported:
     표제어: 번성하다
     품사: 동사
     항목ID: 59069
-processed:
+result:
   맞춤법 검사:
     표제어: 번성하다
     품사: 동사
 ---
 000_KEYWORD: 번성하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59151
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5140,13 +5140,13 @@ imported:
       형태: 번성하니
     - 발음: 번성함니다
       형태: 번성합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번성하다
     품사: 형용사
 ---
 000_KEYWORD: 번식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59122
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5186,13 +5186,13 @@ imported:
     - 발음: 번싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/59122_beonsingman.wav
       형태: 번식만
-processed:
+result:
   맞춤법 검사:
     표제어: 번식
     품사: 명사
 ---
 000_KEYWORD: 번식기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59124
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5226,13 +5226,13 @@ imported:
     표제어: 번식기
     품사: 명사
     항목ID: 59124
-processed:
+result:
   맞춤법 검사:
     표제어: 번식기
     품사: 명사
 ---
 000_KEYWORD: 번식력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59125
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5272,13 +5272,13 @@ imported:
     - 발음: 번싱녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/59125_beonsingnyeongman.wav
       형태: 번식력만
-processed:
+result:
   맞춤법 검사:
     표제어: 번식력
     품사: 명사
 ---
 000_KEYWORD: 번식지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59126
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5304,13 +5304,13 @@ imported:
     표제어: 번식지
     품사: 명사
     항목ID: 59126
-processed:
+result:
   맞춤법 검사:
     표제어: 번식지
     품사: 명사
 ---
 000_KEYWORD: 번식하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59123
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5341,13 +5341,13 @@ imported:
     표제어: 번식하다
     품사: 동사
     항목ID: 59123
-processed:
+result:
   맞춤법 검사:
     표제어: 번식하다
     품사: 동사
 ---
 000_KEYWORD: 번안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59127
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5376,13 +5376,13 @@ imported:
     표제어: 번안
     품사: 명사
     항목ID: 59127
-processed:
+result:
   맞춤법 검사:
     표제어: 번안
     품사: 명사
 ---
 000_KEYWORD: 번안극__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59128
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5420,13 +5420,13 @@ imported:
     - 발음: 버난긍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/59128_beonangeungman.wav
       형태: 번안극만
-processed:
+result:
   맞춤법 검사:
     표제어: 번안극
     품사: 명사
 ---
 000_KEYWORD: 번역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59131
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5476,13 +5476,13 @@ imported:
     - 발음: 버녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/59131_beonyeongman.wav
       형태: 번역만
-processed:
+result:
   맞춤법 검사:
     표제어: 번역
     품사: 명사
 ---
 000_KEYWORD: 번역가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59133
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5511,13 +5511,13 @@ imported:
     표제어: 번역가
     품사: 명사
     항목ID: 59133
-processed:
+result:
   맞춤법 검사:
     표제어: 번역가
     품사: 명사
 ---
 000_KEYWORD: 번역극__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59136
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5554,13 +5554,13 @@ imported:
     - 발음: 버녁끙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/59136_beonyeokkkeungman.wav
       형태: 번역극만
-processed:
+result:
   맞춤법 검사:
     표제어: 번역극
     품사: 명사
 ---
 000_KEYWORD: 번역기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59137
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5589,13 +5589,13 @@ imported:
     표제어: 번역기
     품사: 명사
     항목ID: 59137
-processed:
+result:
   맞춤법 검사:
     표제어: 번역기
     품사: 명사
 ---
 000_KEYWORD: 번역되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59147
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5627,13 +5627,13 @@ imported:
     표제어: 번역되다
     품사: 동사
     항목ID: 59147
-processed:
+result:
   맞춤법 검사:
     표제어: 번역되다
     품사: 동사
 ---
 000_KEYWORD: 번역료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59154
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5661,13 +5661,13 @@ imported:
     표제어: 번역료
     품사: 명사
     항목ID: 59154
-processed:
+result:
   맞춤법 검사:
     표제어: 번역료
     품사: 명사
 ---
 000_KEYWORD: 번역문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59156
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5696,13 +5696,13 @@ imported:
     표제어: 번역문
     품사: 명사
     항목ID: 59156
-processed:
+result:
   맞춤법 검사:
     표제어: 번역문
     품사: 명사
 ---
 000_KEYWORD: 번역물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59159
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5730,13 +5730,13 @@ imported:
     표제어: 번역물
     품사: 명사
     항목ID: 59159
-processed:
+result:
   맞춤법 검사:
     표제어: 번역물
     품사: 명사
 ---
 000_KEYWORD: 번역본__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59160
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5769,13 +5769,13 @@ imported:
     표제어: 번역본
     품사: 명사
     항목ID: 59160
-processed:
+result:
   맞춤법 검사:
     표제어: 번역본
     품사: 명사
 ---
 000_KEYWORD: 번역어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59161
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5804,13 +5804,13 @@ imported:
     표제어: 번역어
     품사: 명사
     항목ID: 59161
-processed:
+result:
   맞춤법 검사:
     표제어: 번역어
     품사: 명사
 ---
 000_KEYWORD: 번역자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59162
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5840,13 +5840,13 @@ imported:
     표제어: 번역자
     품사: 명사
     항목ID: 59162
-processed:
+result:
   맞춤법 검사:
     표제어: 번역자
     품사: 명사
 ---
 000_KEYWORD: 번역판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59163
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5875,13 +5875,13 @@ imported:
     표제어: 번역판
     품사: 명사
     항목ID: 59163
-processed:
+result:
   맞춤법 검사:
     표제어: 번역판
     품사: 명사
 ---
 000_KEYWORD: 번역하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14444
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5908,13 +5908,13 @@ imported:
     표제어: 번역하다
     품사: 동사
     항목ID: 14444
-processed:
+result:
   맞춤법 검사:
     표제어: 번역하다
     품사: 동사
 ---
 000_KEYWORD: 번연히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59178
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5940,13 +5940,13 @@ imported:
     표제어: 번연히
     품사: 부사
     항목ID: 59178
-processed:
+result:
   맞춤법 검사:
     표제어: 번연히
     품사: 부사
 ---
 000_KEYWORD: 번영__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59204
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5974,13 +5974,13 @@ imported:
     표제어: 번영
     품사: 명사
     항목ID: 59204
-processed:
+result:
   맞춤법 검사:
     표제어: 번영
     품사: 명사
 ---
 000_KEYWORD: 번영하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59206
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6011,13 +6011,13 @@ imported:
     표제어: 번영하다
     품사: 동사
     항목ID: 59206
-processed:
+result:
   맞춤법 검사:
     표제어: 번영하다
     품사: 동사
 ---
 000_KEYWORD: 번영하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59205
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6059,13 +6059,13 @@ imported:
       형태: 번영하니
     - 발음: 버녕함니다
       형태: 번영합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번영하다
     품사: 형용사
 ---
 000_KEYWORD: 번잡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59208
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6103,13 +6103,13 @@ imported:
     - 발음: 번잠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/59208_beonjamman.wav
       형태: 번잡만
-processed:
+result:
   맞춤법 검사:
     표제어: 번잡
     품사: 명사
 ---
 000_KEYWORD: 번잡스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59212
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6149,7 +6149,7 @@ imported:
       형태: 번잡스러우니
     - 발음: 번잡쓰럽씀니다
       형태: 번잡스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6157,7 +6157,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 번잡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59214
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6200,13 +6200,13 @@ imported:
       형태: 번잡하니
     - 발음: 번자팜니다
       형태: 번잡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번잡하다
     품사: 형용사
 ---
 000_KEYWORD: 번지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14446
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6234,13 +6234,13 @@ imported:
     표제어: 번지
     품사: 명사
     항목ID: 14446
-processed:
+result:
   맞춤법 검사:
     표제어: 번지
     품사: 명사
 ---
 000_KEYWORD: 번지__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6249,13 +6249,13 @@ imported:
     표제어: 번지
     품사: 명사:의존:단위성
     항목ID: 11274
-processed:
+result:
   맞춤법 검사:
     표제어: 번지
     품사: 명사
 ---
 000_KEYWORD: 번지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59225
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6345,13 +6345,13 @@ imported:
     - 발음: 번ː지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/59225_beon-jini.wav
       형태: 번지니
-processed:
+result:
   맞춤법 검사:
     표제어: 번지다
     품사: 동사
 ---
 000_KEYWORD: 번지레하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59218
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6389,13 +6389,13 @@ imported:
       형태: 번지레하니
     - 발음: 번지레함니다
       형태: 번지레합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번지레하다
     품사: 형용사
 ---
 000_KEYWORD: 번지르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59216
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6444,13 +6444,13 @@ imported:
     표제어: 번지르르
     품사: 부사
     항목ID: 59216
-processed:
+result:
   맞춤법 검사:
     표제어: 번지르르
     품사: 부사
 ---
 000_KEYWORD: 번지르르하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59215
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6511,13 +6511,13 @@ imported:
       형태: 번지르르하니
     - 발음: 번지르르함니다
       형태: 번지르르합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번지르르하다
     품사: 형용사
 ---
 000_KEYWORD: 번지수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58973
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6554,13 +6554,13 @@ imported:
     표제어: 번지수
     품사: 명사
     항목ID: 58973
-processed:
+result:
   맞춤법 검사:
     표제어: 번지수
     품사: 명사
 ---
 000_KEYWORD: 번질거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59100
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6618,13 +6618,13 @@ imported:
     표제어: 번질거리다
     품사: 동사
     항목ID: 59100
-processed:
+result:
   맞춤법 검사:
     표제어: 번질거리다
     품사: 동사
 ---
 000_KEYWORD: 번질나다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90183
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6668,13 +6668,13 @@ imported:
       형태: 번질나니
     - 발음: 번질람니다
       형태: 번질납니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번질나다
     품사: 형용사
 ---
 000_KEYWORD: 번질대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59101
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6722,13 +6722,13 @@ imported:
     표제어: 번질대다
     품사: 동사
     항목ID: 59101
-processed:
+result:
   맞춤법 검사:
     표제어: 번질대다
     품사: 동사
 ---
 000_KEYWORD: 번질번질__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59102
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6771,13 +6771,13 @@ imported:
     표제어: 번질번질
     품사: 부사
     항목ID: 59102
-processed:
+result:
   맞춤법 검사:
     표제어: 번질번질
     품사: 부사
 ---
 000_KEYWORD: 번질번질하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59103
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6827,13 +6827,13 @@ imported:
       형태: 번질번질하니
     - 발음: 번질번질함니다
       형태: 번질번질합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번질번질하다
     품사: 형용사
 ---
 000_KEYWORD: 번째__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59074
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6861,13 +6861,13 @@ imported:
     표제어: 번째
     품사: 의존 명사
     항목ID: 59074
-processed:
+result:
   맞춤법 검사:
     표제어: 번째
     품사: 의존 명사
 ---
 000_KEYWORD: 번쩍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59104
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6969,13 +6969,13 @@ imported:
     표제어: 번쩍
     품사: 부사
     항목ID: 59104
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍
     품사: 부사
 ---
 000_KEYWORD: 번쩍__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59105
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7046,13 +7046,13 @@ imported:
     표제어: 번쩍
     품사: 부사
     항목ID: 59105
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍
     품사: 부사
 ---
 000_KEYWORD: 번쩍거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59106
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7087,13 +7087,13 @@ imported:
     표제어: 번쩍거리다
     품사: 동사
     항목ID: 59106
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍거리다
     품사: 동사
 ---
 000_KEYWORD: 번쩍대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90184
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7128,13 +7128,13 @@ imported:
     표제어: 번쩍대다
     품사: 동사
     항목ID: 90184
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍대다
     품사: 동사
 ---
 000_KEYWORD: 번쩍번쩍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59107
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7210,13 +7210,13 @@ imported:
     표제어: 번쩍번쩍
     품사: 부사
     항목ID: 59107
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍번쩍
     품사: 부사
 ---
 000_KEYWORD: 번쩍번쩍하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59108
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7243,13 +7243,13 @@ imported:
     표제어: 번쩍번쩍하다
     품사: 동사
     항목ID: 59108
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍번쩍하다
     품사: 동사
 ---
 000_KEYWORD: 번쩍번쩍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90239
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7305,13 +7305,13 @@ imported:
       형태: 번쩍번쩍하니
     - 발음: 번쩍뻔쩌캄니다
       형태: 번쩍번쩍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍번쩍하다
     품사: 형용사
 ---
 000_KEYWORD: 번쩍이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59109
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7343,13 +7343,13 @@ imported:
     표제어: 번쩍이다
     품사: 동사
     항목ID: 59109
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍이다
     품사: 동사
 ---
 000_KEYWORD: 번쩍하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59110
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7460,13 +7460,13 @@ imported:
     표제어: 번쩍하다
     품사: 동사
     항목ID: 59110
-processed:
+result:
   맞춤법 검사:
     표제어: 번쩍하다
     품사: 동사
 ---
 000_KEYWORD: 번창__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59075
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7493,13 +7493,13 @@ imported:
     표제어: 번창
     품사: 명사
     항목ID: 59075
-processed:
+result:
   맞춤법 검사:
     표제어: 번창
     품사: 명사
 ---
 000_KEYWORD: 번창하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59076
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7528,13 +7528,13 @@ imported:
     표제어: 번창하다
     품사: 동사
     항목ID: 59076
-processed:
+result:
   맞춤법 검사:
     표제어: 번창하다
     품사: 동사
 ---
 000_KEYWORD: 번체__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7544,13 +7544,13 @@ imported:
     표제어: 번체
     품사: 명사:보통:서술성
     항목ID: 11282
-processed:
+result:
   맞춤법 검사:
     표제어: 번체
     품사: 명사
 ---
 000_KEYWORD: 번트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59077
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7576,13 +7576,13 @@ imported:
     표제어: 번트
     품사: 명사
     항목ID: 59077
-processed:
+result:
   맞춤법 검사:
     표제어: 번트
     품사: 명사
 ---
 000_KEYWORD: 번하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59111
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7694,13 +7694,13 @@ imported:
       형태: 번하니
     - 발음: 번ː함니다
       형태: 번합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번하다
     품사: 형용사
 ---
 000_KEYWORD: 번호__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31482
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7722,13 +7722,13 @@ imported:
     표제어: 번호
     품사: 감탄사
     항목ID: 31482
-processed:
+result:
   맞춤법 검사:
     표제어: 번호
     품사: 감탄사
 ---
 000_KEYWORD: 번호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31457
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7769,13 +7769,13 @@ imported:
     표제어: 번호
     품사: 명사
     항목ID: 31457
-processed:
+result:
   맞춤법 검사:
     표제어: 번호
     품사: 명사
 ---
 000_KEYWORD: 번호순__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59079
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7803,13 +7803,13 @@ imported:
     표제어: 번호순
     품사: 명사
     항목ID: 59079
-processed:
+result:
   맞춤법 검사:
     표제어: 번호순
     품사: 명사
 ---
 000_KEYWORD: 번호판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59080
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7854,13 +7854,13 @@ imported:
     표제어: 번호판
     품사: 명사
     항목ID: 59080
-processed:
+result:
   맞춤법 검사:
     표제어: 번호판
     품사: 명사
 ---
 000_KEYWORD: 번호패__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59081
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7886,13 +7886,13 @@ imported:
     표제어: 번호패
     품사: 명사
     항목ID: 59081
-processed:
+result:
   맞춤법 검사:
     표제어: 번호패
     품사: 명사
 ---
 000_KEYWORD: 번호표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59082
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7922,13 +7922,13 @@ imported:
     표제어: 번호표
     품사: 명사
     항목ID: 59082
-processed:
+result:
   맞춤법 검사:
     표제어: 번호표
     품사: 명사
 ---
 000_KEYWORD: 번화가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59083
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7960,13 +7960,13 @@ imported:
     표제어: 번화가
     품사: 명사
     항목ID: 59083
-processed:
+result:
   맞춤법 검사:
     표제어: 번화가
     품사: 명사
 ---
 000_KEYWORD: 번화롭다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7977,7 +7977,7 @@ imported:
     표제어: 번화롭다
     품사: 형용사
     항목ID: 11288
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -7985,7 +7985,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 번화하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59085
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8025,13 +8025,13 @@ imported:
       형태: 번화하니
     - 발음: 번화함니다
       형태: 번화합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 번화하다
     품사: 형용사
 ---
 000_KEYWORD: 벋다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59112
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8147,7 +8147,7 @@ imported:
     - 발음: 번는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58494_beonneun.wav
       형태: 벋는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -8155,7 +8155,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 벌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59086
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8179,13 +8179,13 @@ imported:
     표제어: 벌
     품사: 명사
     항목ID: 59086
-processed:
+result:
   맞춤법 검사:
     표제어: 벌
     품사: 명사
 ---
 000_KEYWORD: 벌__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14447
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8210,13 +8210,13 @@ imported:
     표제어: 벌
     품사: 명사
     항목ID: 14447
-processed:
+result:
   맞춤법 검사:
     표제어: 벌
     품사: 명사
 ---
 000_KEYWORD: 벌__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14450
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8250,13 +8250,13 @@ imported:
     표제어: 벌
     품사: 명사
     항목ID: 14450
-processed:
+result:
   맞춤법 검사:
     표제어: 벌
     품사: 명사
 ---
 000_KEYWORD: 벌__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59087
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8295,13 +8295,13 @@ imported:
     표제어: 벌
     품사: 의존 명사
     항목ID: 59087
-processed:
+result:
   맞춤법 검사:
     표제어: 벌
     품사: 의존 명사
 ---
 000_KEYWORD: 벌거벗기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59088
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8341,13 +8341,13 @@ imported:
       형태: 벌거벗겨
     - 발음: 벌거벗끼니
       형태: 벌거벗기니
-processed:
+result:
   맞춤법 검사:
     표제어: 벌거벗기다
     품사: 동사
 ---
 000_KEYWORD: 벌거벗다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59089
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8407,7 +8407,7 @@ imported:
     - 발음: 벌거번는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/59089_beolgeobeonneun.wav
       형태: 벌거벗는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -8415,7 +8415,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 벌거숭이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59090
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8475,13 +8475,13 @@ imported:
     표제어: 벌거숭이
     품사: 명사
     항목ID: 59090
-processed:
+result:
   맞춤법 검사:
     표제어: 벌거숭이
     품사: 명사
 ---
 000_KEYWORD: 벌겋다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59091
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8530,7 +8530,7 @@ imported:
     - 발음: 벌ː거씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/59091_beor-geosseumnida.wav
       형태: 벌겋습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -8538,7 +8538,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 벌게지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59092
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8591,7 +8591,7 @@ imported:
     - 발음: 벌ː게지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/59092_beor-gejini.wav
       형태: 벌게지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -8599,7 +8599,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 벌과금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59093
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8646,13 +8646,13 @@ imported:
     표제어: 벌과금
     품사: 명사
     항목ID: 59093
-processed:
+result:
   맞춤법 검사:
     표제어: 벌과금
     품사: 명사
 ---
 000_KEYWORD: 벌금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14451
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8704,13 +8704,13 @@ imported:
     표제어: 벌금
     품사: 명사
     항목ID: 14451
-processed:
+result:
   맞춤법 검사:
     표제어: 벌금
     품사: 명사
 ---
 000_KEYWORD: 벌금형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59094
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8736,13 +8736,13 @@ imported:
     표제어: 벌금형
     품사: 명사
     항목ID: 59094
-processed:
+result:
   맞춤법 검사:
     표제어: 벌금형
     품사: 명사
 ---
 000_KEYWORD: 벌꿀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59095
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8771,13 +8771,13 @@ imported:
     표제어: 벌꿀
     품사: 명사
     항목ID: 59095
-processed:
+result:
   맞춤법 검사:
     표제어: 벌꿀
     품사: 명사
 ---
 000_KEYWORD: 벌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59096
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8844,13 +8844,13 @@ imported:
     - 발음: 범ː니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/59096_beom-nida.wav
       형태: 법니다
-processed:
+result:
   맞춤법 검사:
     표제어: 벌다
     품사: 동사
 ---
 000_KEYWORD: 벌떡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14453
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8896,13 +8896,13 @@ imported:
     표제어: 벌떡
     품사: 부사
     항목ID: 14453
-processed:
+result:
   맞춤법 검사:
     표제어: 벌떡
     품사: 부사
 ---
 000_KEYWORD: 벌떡거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59113
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8963,13 +8963,13 @@ imported:
     표제어: 벌떡거리다
     품사: 동사
     항목ID: 59113
-processed:
+result:
   맞춤법 검사:
     표제어: 벌떡거리다
     품사: 동사
 ---
 000_KEYWORD: 벌떡대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90838
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9033,13 +9033,13 @@ imported:
     표제어: 벌떡대다
     품사: 동사
     항목ID: 90838
-processed:
+result:
   맞춤법 검사:
     표제어: 벌떡대다
     품사: 동사
 ---
 000_KEYWORD: 벌떡벌떡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59114
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9101,13 +9101,13 @@ imported:
     표제어: 벌떡벌떡
     품사: 부사
     항목ID: 59114
-processed:
+result:
   맞춤법 검사:
     표제어: 벌떡벌떡
     품사: 부사
 ---
 000_KEYWORD: 벌떡벌떡하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90839
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9175,13 +9175,13 @@ imported:
     표제어: 벌떡벌떡하다
     품사: 동사
     항목ID: 90839
-processed:
+result:
   맞춤법 검사:
     표제어: 벌떡벌떡하다
     품사: 동사
 ---
 000_KEYWORD: 벌떡이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90840
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9226,13 +9226,13 @@ imported:
     표제어: 벌떡이다
     품사: 동사
     항목ID: 90840
-processed:
+result:
   맞춤법 검사:
     표제어: 벌떡이다
     품사: 동사
 ---
 000_KEYWORD: 벌러덩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59115
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9265,13 +9265,13 @@ imported:
     표제어: 벌러덩
     품사: 부사
     항목ID: 59115
-processed:
+result:
   맞춤법 검사:
     표제어: 벌러덩
     품사: 부사
 ---
 000_KEYWORD: 벌렁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59116
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9308,13 +9308,13 @@ imported:
     표제어: 벌렁
     품사: 부사
     항목ID: 59116
-processed:
+result:
   맞춤법 검사:
     표제어: 벌렁
     품사: 부사
 ---
 000_KEYWORD: 벌렁거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59117
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9346,13 +9346,13 @@ imported:
     표제어: 벌렁거리다
     품사: 동사
     항목ID: 59117
-processed:
+result:
   맞춤법 검사:
     표제어: 벌렁거리다
     품사: 동사
 ---
 000_KEYWORD: 벌렁대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59118
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9381,13 +9381,13 @@ imported:
     표제어: 벌렁대다
     품사: 동사
     항목ID: 59118
-processed:
+result:
   맞춤법 검사:
     표제어: 벌렁대다
     품사: 동사
 ---
 000_KEYWORD: 벌렁벌렁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59119
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9410,13 +9410,13 @@ imported:
     표제어: 벌렁벌렁
     품사: 부사
     항목ID: 59119
-processed:
+result:
   맞춤법 검사:
     표제어: 벌렁벌렁
     품사: 부사
 ---
 000_KEYWORD: 벌렁벌렁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90841
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9447,13 +9447,13 @@ imported:
     표제어: 벌렁벌렁하다
     품사: 동사
     항목ID: 90841
-processed:
+result:
   맞춤법 검사:
     표제어: 벌렁벌렁하다
     품사: 동사
 ---
 000_KEYWORD: 벌렁코__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59097
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9475,13 +9475,13 @@ imported:
     표제어: 벌렁코
     품사: 명사
     항목ID: 59097
-processed:
+result:
   맞춤법 검사:
     표제어: 벌렁코
     품사: 명사
 ---
 000_KEYWORD: 벌레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59098
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9520,13 +9520,13 @@ imported:
     표제어: 벌레
     품사: 명사
     항목ID: 59098
-processed:
+result:
   맞춤법 검사:
     표제어: 벌레
     품사: 명사
 ---
 000_KEYWORD: 벌름거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59120
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9557,13 +9557,13 @@ imported:
     표제어: 벌름거리다
     품사: 동사
     항목ID: 59120
-processed:
+result:
   맞춤법 검사:
     표제어: 벌름거리다
     품사: 동사
 ---
 000_KEYWORD: 벌름대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59121
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9593,13 +9593,13 @@ imported:
     표제어: 벌름대다
     품사: 동사
     항목ID: 59121
-processed:
+result:
   맞춤법 검사:
     표제어: 벌름대다
     품사: 동사
 ---
 000_KEYWORD: 벌름벌름__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90185
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9622,13 +9622,13 @@ imported:
     표제어: 벌름벌름
     품사: 부사
     항목ID: 90185
-processed:
+result:
   맞춤법 검사:
     표제어: 벌름벌름
     품사: 부사
 ---
 000_KEYWORD: 벌름벌름하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90186
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9660,13 +9660,13 @@ imported:
     표제어: 벌름벌름하다
     품사: 동사
     항목ID: 90186
-processed:
+result:
   맞춤법 검사:
     표제어: 벌름벌름하다
     품사: 동사
 ---
 000_KEYWORD: 벌름이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90187
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9693,13 +9693,13 @@ imported:
     표제어: 벌름이다
     품사: 동사
     항목ID: 90187
-processed:
+result:
   맞춤법 검사:
     표제어: 벌름이다
     품사: 동사
 ---
 000_KEYWORD: 벌름하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90188
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9724,13 +9724,13 @@ imported:
     표제어: 벌름하다
     품사: 동사
     항목ID: 90188
-processed:
+result:
   맞춤법 검사:
     표제어: 벌름하다
     품사: 동사
 ---
 000_KEYWORD: 벌름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90189
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9766,13 +9766,13 @@ imported:
       형태: 벌름하니
     - 발음: 벌름함니다
       형태: 벌름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 벌름하다
     품사: 형용사
 ---
 000_KEYWORD: 벌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66271
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9832,13 +9832,13 @@ imported:
     - 발음: 벌ː리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66271_beor-rini.wav
       형태: 벌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 벌리다
     품사: 동사
 ---
 000_KEYWORD: 벌목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58938
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9878,13 +9878,13 @@ imported:
     - 발음: 벌몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/58938_beolmongman.wav
       형태: 벌목만
-processed:
+result:
   맞춤법 검사:
     표제어: 벌목
     품사: 명사
 ---
 000_KEYWORD: 벌목공__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58971
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9911,13 +9911,13 @@ imported:
     표제어: 벌목공
     품사: 명사
     항목ID: 58971
-processed:
+result:
   맞춤법 검사:
     표제어: 벌목공
     품사: 명사
 ---
 000_KEYWORD: 벌목꾼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58972
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9945,13 +9945,13 @@ imported:
     표제어: 벌목꾼
     품사: 명사
     항목ID: 58972
-processed:
+result:
   맞춤법 검사:
     표제어: 벌목꾼
     품사: 명사
 ---
 000_KEYWORD: 벌목되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9960,13 +9960,13 @@ imported:
     표제어: 벌목되다
     품사: 동사
     항목ID: 11305
-processed:
+result:
   맞춤법 검사:
     표제어: 벌목되다
     품사: 동사
 ---
 000_KEYWORD: 벌벌__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58974
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10010,13 +10010,13 @@ imported:
     표제어: 벌벌
     품사: 부사
     항목ID: 58974
-processed:
+result:
   맞춤법 검사:
     표제어: 벌벌
     품사: 부사
 ---
 000_KEYWORD: 벌벌__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58975
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10043,13 +10043,13 @@ imported:
     표제어: 벌벌
     품사: 부사
     항목ID: 58975
-processed:
+result:
   맞춤법 검사:
     표제어: 벌벌
     품사: 부사
 ---
 000_KEYWORD: 벌서다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58976
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10079,13 +10079,13 @@ imported:
     활용:
     - 형태: 벌서
     - 형태: 벌서니
-processed:
+result:
   맞춤법 검사:
     표제어: 벌서다
     품사: 동사
 ---
 000_KEYWORD: 벌세우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91300
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10119,13 +10119,13 @@ imported:
     활용:
     - 형태: 벌세우어
     - 형태: 벌세우니
-processed:
+result:
   맞춤법 검사:
     표제어: 벌세우다
     품사: 동사
 ---
 000_KEYWORD: 벌써__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58977
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10167,13 +10167,13 @@ imported:
     표제어: 벌써
     품사: 부사
     항목ID: 58977
-processed:
+result:
   맞춤법 검사:
     표제어: 벌써
     품사: 부사
 ---
 000_KEYWORD: 벌어들이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58978
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10214,13 +10214,13 @@ imported:
     - 발음: 버ː러드리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58978_beo-reodeurini.wav
       형태: 벌어들이니
-processed:
+result:
   맞춤법 검사:
     표제어: 벌어들이다
     품사: 동사
 ---
 000_KEYWORD: 벌어먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58982
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10258,13 +10258,13 @@ imported:
     - 발음: 버ː러멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/58982_beo-reomeongneun.wav
       형태: 벌어먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 벌어먹다
     품사: 동사
 ---
 000_KEYWORD: 벌어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14500
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10388,7 +10388,7 @@ imported:
     - 발음: 버ː러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/14500_beo-reojini.wav
       형태: 벌어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -10396,7 +10396,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 벌어지다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62090
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10463,17 +10463,17 @@ imported:
       형태: 벌어져
     - 발음: 버ː러지니
       형태: 벌어지니
-processed:
+result:
   맞춤법 검사:
     표제어: 벌어지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 벌이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58985
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10500,13 +10500,13 @@ imported:
     표제어: 벌이
     품사: 명사
     항목ID: 58985
-processed:
+result:
   맞춤법 검사:
     표제어: 벌이
     품사: 명사
 ---
 000_KEYWORD: 벌이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59072
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10604,13 +10604,13 @@ imported:
     - 발음: 버ː리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/59072_beo-rini.wav
       형태: 벌이니
-processed:
+result:
   맞춤법 검사:
     표제어: 벌이다
     품사: 동사
 ---
 000_KEYWORD: 벌이줄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58988
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10635,13 +10635,13 @@ imported:
     표제어: 벌이줄
     품사: 명사
     항목ID: 58988
-processed:
+result:
   맞춤법 검사:
     표제어: 벌이줄
     품사: 명사
 ---
 000_KEYWORD: 벌점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58992
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10680,13 +10680,13 @@ imported:
     표제어: 벌점
     품사: 명사
     항목ID: 58992
-processed:
+result:
   맞춤법 검사:
     표제어: 벌점
     품사: 명사
 ---
 000_KEYWORD: 벌주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58995
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10717,13 +10717,13 @@ imported:
     활용:
     - 형태: 벌주어
     - 형태: 벌주니
-processed:
+result:
   맞춤법 검사:
     표제어: 벌주다
     품사: 동사
 ---
 000_KEYWORD: 벌집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59084
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10784,13 +10784,13 @@ imported:
     - 발음: 벌ː찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/59084_beor-jjimman.wav
       형태: 벌집만
-processed:
+result:
   맞춤법 검사:
     표제어: 벌집
     품사: 명사
 ---
 000_KEYWORD: 벌쭉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58998
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10833,13 +10833,13 @@ imported:
     표제어: 벌쭉
     품사: 부사
     항목ID: 58998
-processed:
+result:
   맞춤법 검사:
     표제어: 벌쭉
     품사: 부사
 ---
 000_KEYWORD: 벌채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59001
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10866,13 +10866,13 @@ imported:
     표제어: 벌채
     품사: 명사
     항목ID: 59001
-processed:
+result:
   맞춤법 검사:
     표제어: 벌채
     품사: 명사
 ---
 000_KEYWORD: 벌채되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10881,13 +10881,13 @@ imported:
     표제어: 벌채되다
     품사: 동사
     항목ID: 11315
-processed:
+result:
   맞춤법 검사:
     표제어: 벌채되다
     품사: 동사
 ---
 000_KEYWORD: 벌채하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59004
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10915,13 +10915,13 @@ imported:
     표제어: 벌채하다
     품사: 동사
     항목ID: 59004
-processed:
+result:
   맞춤법 검사:
     표제어: 벌채하다
     품사: 동사
 ---
 000_KEYWORD: 벌초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59006
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10951,13 +10951,13 @@ imported:
     표제어: 벌초
     품사: 명사
     항목ID: 59006
-processed:
+result:
   맞춤법 검사:
     표제어: 벌초
     품사: 명사
 ---
 000_KEYWORD: 벌충__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59008
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10984,13 +10984,13 @@ imported:
     표제어: 벌충
     품사: 명사
     항목ID: 59008
-processed:
+result:
   맞춤법 검사:
     표제어: 벌충
     품사: 명사
 ---
 000_KEYWORD: 벌충하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59010
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11018,13 +11018,13 @@ imported:
     표제어: 벌충하다
     품사: 동사
     항목ID: 59010
-processed:
+result:
   맞춤법 검사:
     표제어: 벌충하다
     품사: 동사
 ---
 000_KEYWORD: 벌칙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59013
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11063,13 +11063,13 @@ imported:
     - 발음: 벌칭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/59013_beolchingman.wav
       형태: 벌칙만
-processed:
+result:
   맞춤법 검사:
     표제어: 벌칙
     품사: 명사
 ---
 000_KEYWORD: 벌침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59016
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11096,13 +11096,13 @@ imported:
     표제어: 벌침
     품사: 명사
     항목ID: 59016
-processed:
+result:
   맞춤법 검사:
     표제어: 벌침
     품사: 명사
 ---
 000_KEYWORD: 벌컥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59019
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11149,13 +11149,13 @@ imported:
     표제어: 벌컥
     품사: 부사
     항목ID: 59019
-processed:
+result:
   맞춤법 검사:
     표제어: 벌컥
     품사: 부사
 ---
 000_KEYWORD: 벌컥벌컥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59023
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11198,13 +11198,13 @@ imported:
     표제어: 벌컥벌컥
     품사: 부사
     항목ID: 59023
-processed:
+result:
   맞춤법 검사:
     표제어: 벌컥벌컥
     품사: 부사
 ---
 000_KEYWORD: 벌통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59025
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11244,13 +11244,13 @@ imported:
     표제어: 벌통
     품사: 명사
     항목ID: 59025
-processed:
+result:
   맞춤법 검사:
     표제어: 벌통
     품사: 명사
 ---
 000_KEYWORD: 벌판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58912
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11278,13 +11278,13 @@ imported:
     표제어: 벌판
     품사: 명사
     항목ID: 58912
-processed:
+result:
   맞춤법 검사:
     표제어: 벌판
     품사: 명사
 ---
 000_KEYWORD: 벌하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59027
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -11313,13 +11313,13 @@ imported:
     표제어: 벌하다
     품사: 동사
     항목ID: 59027
-processed:
+result:
   맞춤법 검사:
     표제어: 벌하다
     품사: 동사
 ---
 000_KEYWORD: 범-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74955
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11339,11 +11339,11 @@ imported:
     표제어: 범-
     품사: 접사
     항목ID: 74955
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 범__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59030
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11372,13 +11372,13 @@ imported:
     표제어: 범
     품사: 명사
     항목ID: 59030
-processed:
+result:
   맞춤법 검사:
     표제어: 범
     품사: 명사
 ---
 000_KEYWORD: 범__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59034
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11405,13 +11405,13 @@ imported:
     표제어: 범
     품사: 의존 명사
     항목ID: 59034
-processed:
+result:
   맞춤법 검사:
     표제어: 범
     품사: 의존 명사
 ---
 000_KEYWORD: 범국민__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11420,13 +11420,13 @@ imported:
     표제어: 범국민
     품사: 명사:보통:서술성
     항목ID: 11327
-processed:
+result:
   맞춤법 검사:
     표제어: 범국민
     품사: 명사
 ---
 000_KEYWORD: 범국민적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59037
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11454,13 +11454,13 @@ imported:
     표제어: 범국민적
     품사: 관형사
     항목ID: 59037
-processed:
+result:
   맞춤법 검사:
     표제어: 범국민적
     품사: 관형사
 ---
 000_KEYWORD: 범국민적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59038
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11488,13 +11488,13 @@ imported:
     표제어: 범국민적
     품사: 명사
     항목ID: 59038
-processed:
+result:
   맞춤법 검사:
     표제어: 범국민적
     품사: 명사
 ---
 000_KEYWORD: 범띠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68724
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11522,13 +11522,13 @@ imported:
     표제어: 범띠
     품사: 명사
     항목ID: 68724
-processed:
+result:
   맞춤법 검사:
     표제어: 범띠
     품사: 명사
 ---
 000_KEYWORD: 범람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59039
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11566,13 +11566,13 @@ imported:
     표제어: 범람
     품사: 명사
     항목ID: 59039
-processed:
+result:
   맞춤법 검사:
     표제어: 범람
     품사: 명사
 ---
 000_KEYWORD: 범람하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59042
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11612,13 +11612,13 @@ imported:
     표제어: 범람하다
     품사: 동사
     항목ID: 59042
-processed:
+result:
   맞춤법 검사:
     표제어: 범람하다
     품사: 동사
 ---
 000_KEYWORD: 범례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59044
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11647,13 +11647,13 @@ imported:
     표제어: 범례
     품사: 명사
     항목ID: 59044
-processed:
+result:
   맞춤법 검사:
     표제어: 범례
     품사: 명사
 ---
 000_KEYWORD: 범례__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59046
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11678,13 +11678,13 @@ imported:
     표제어: 범례
     품사: 명사
     항목ID: 59046
-processed:
+result:
   맞춤법 검사:
     표제어: 범례
     품사: 명사
 ---
 000_KEYWORD: 범벅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59099
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11745,13 +11745,13 @@ imported:
     - 발음: 범벙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/59099_beombeongman.wav
       형태: 범벅만
-processed:
+result:
   맞춤법 검사:
     표제어: 범벅
     품사: 명사
 ---
 000_KEYWORD: 범법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59047
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11789,13 +11789,13 @@ imported:
     - 발음: 범ː뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/59047_beom-ppeomman.wav
       형태: 범법만
-processed:
+result:
   맞춤법 검사:
     표제어: 범법
     품사: 명사
 ---
 000_KEYWORD: 범법자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59048
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11823,13 +11823,13 @@ imported:
     표제어: 범법자
     품사: 명사
     항목ID: 59048
-processed:
+result:
   맞춤법 검사:
     표제어: 범법자
     품사: 명사
 ---
 000_KEYWORD: 범부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59049
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11861,13 +11861,13 @@ imported:
     표제어: 범부
     품사: 명사
     항목ID: 59049
-processed:
+result:
   맞춤법 검사:
     표제어: 범부
     품사: 명사
 ---
 000_KEYWORD: 범사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59050
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11896,13 +11896,13 @@ imported:
     표제어: 범사
     품사: 명사
     항목ID: 59050
-processed:
+result:
   맞춤법 검사:
     표제어: 범사
     품사: 명사
 ---
 000_KEYWORD: 범상하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59051
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11942,13 +11942,13 @@ imported:
       형태: 범상하니
     - 발음: 범ː상함니다
       형태: 범상합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 범상하다
     품사: 형용사
 ---
 000_KEYWORD: 범선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59053
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11980,13 +11980,13 @@ imported:
     표제어: 범선
     품사: 명사
     항목ID: 59053
-processed:
+result:
   맞춤법 검사:
     표제어: 범선
     품사: 명사
 ---
 000_KEYWORD: 범세계적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59054
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12014,13 +12014,13 @@ imported:
     표제어: 범세계적
     품사: 관형사
     항목ID: 59054
-processed:
+result:
   맞춤법 검사:
     표제어: 범세계적
     품사: 관형사
 ---
 000_KEYWORD: 범세계적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59055
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12048,13 +12048,13 @@ imported:
     표제어: 범세계적
     품사: 명사
     항목ID: 59055
-processed:
+result:
   맞춤법 검사:
     표제어: 범세계적
     품사: 명사
 ---
 000_KEYWORD: 범속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59056
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12090,13 +12090,13 @@ imported:
     - 발음: 범ː송만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/59056_beom-songman.wav
       형태: 범속만
-processed:
+result:
   맞춤법 검사:
     표제어: 범속
     품사: 명사
 ---
 000_KEYWORD: 범속하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59057
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12134,13 +12134,13 @@ imported:
       형태: 범속하니
     - 발음: 범ː소캄니다
       형태: 범속합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 범속하다
     품사: 형용사
 ---
 000_KEYWORD: 범시민적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59058
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12166,13 +12166,13 @@ imported:
     표제어: 범시민적
     품사: 관형사
     항목ID: 59058
-processed:
+result:
   맞춤법 검사:
     표제어: 범시민적
     품사: 관형사
 ---
 000_KEYWORD: 범시민적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59059
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12198,13 +12198,13 @@ imported:
     표제어: 범시민적
     품사: 명사
     항목ID: 59059
-processed:
+result:
   맞춤법 검사:
     표제어: 범시민적
     품사: 명사
 ---
 000_KEYWORD: 범신론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59060
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12230,13 +12230,13 @@ imported:
     표제어: 범신론
     품사: 명사
     항목ID: 59060
-processed:
+result:
   맞춤법 검사:
     표제어: 범신론
     품사: 명사
 ---
 000_KEYWORD: 범실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59061
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12266,13 +12266,13 @@ imported:
     표제어: 범실
     품사: 명사
     항목ID: 59061
-processed:
+result:
   맞춤법 검사:
     표제어: 범실
     품사: 명사
 ---
 000_KEYWORD: 범연하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58187
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12312,13 +12312,13 @@ imported:
       형태: 범연하니
     - 발음: 버ː면함니다
       형태: 범연합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 범연하다
     품사: 형용사
 ---
 000_KEYWORD: 범용__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12327,13 +12327,13 @@ imported:
     표제어: 범용
     품사: 명사:보통:서술성
     항목ID: 11335
-processed:
+result:
   맞춤법 검사:
     표제어: 범용
     품사: 명사
 ---
 000_KEYWORD: 범용적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12342,13 +12342,13 @@ imported:
     표제어: 범용적
     품사: 명사:보통:서술성
     항목ID: 11336
-processed:
+result:
   맞춤법 검사:
     표제어: 범용적
     품사: 명사
 ---
 000_KEYWORD: 범용하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58188
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12388,13 +12388,13 @@ imported:
       형태: 범용하니
     - 발음: 버ː묭함니다
       형태: 범용합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 범용하다
     품사: 형용사
 ---
 000_KEYWORD: 범위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14454
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12426,13 +12426,13 @@ imported:
     표제어: 범위
     품사: 명사
     항목ID: 14454
-processed:
+result:
   맞춤법 검사:
     표제어: 범위
     품사: 명사
 ---
 000_KEYWORD: 범인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91301
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12468,13 +12468,13 @@ imported:
     표제어: 범인
     품사: 명사
     항목ID: 91301
-processed:
+result:
   맞춤법 검사:
     표제어: 범인
     품사: 명사
 ---
 000_KEYWORD: 범인__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14455
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12503,13 +12503,13 @@ imported:
     표제어: 범인
     품사: 명사
     항목ID: 14455
-processed:
+result:
   맞춤법 검사:
     표제어: 범인
     품사: 명사
 ---
 000_KEYWORD: 범절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58263
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12537,13 +12537,13 @@ imported:
     표제어: 범절
     품사: 명사
     항목ID: 58263
-processed:
+result:
   맞춤법 검사:
     표제어: 범절
     품사: 명사
 ---
 000_KEYWORD: 범접하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58264
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12571,13 +12571,13 @@ imported:
     표제어: 범접하다
     품사: 동사
     항목ID: 58264
-processed:
+result:
   맞춤법 검사:
     표제어: 범접하다
     품사: 동사
 ---
 000_KEYWORD: 범죄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14457
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12608,13 +12608,13 @@ imported:
     표제어: 범죄
     품사: 명사
     항목ID: 14457
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄
     품사: 명사
 ---
 000_KEYWORD: 범죄성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58266
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12642,13 +12642,13 @@ imported:
     표제어: 범죄성
     품사: 명사
     항목ID: 58266
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄성
     품사: 명사
 ---
 000_KEYWORD: 범죄율__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58319
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12679,13 +12679,13 @@ imported:
     표제어: 범죄율
     품사: 명사
     항목ID: 58319
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄율
     품사: 명사
 ---
 000_KEYWORD: 범죄인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12695,13 +12695,13 @@ imported:
     표제어: 범죄인
     품사: 명사:보통:비서술성
     항목ID: 11342
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄인
     품사: 명사
 ---
 000_KEYWORD: 범죄자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58267
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12735,13 +12735,13 @@ imported:
     표제어: 범죄자
     품사: 명사
     항목ID: 58267
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄자
     품사: 명사
 ---
 000_KEYWORD: 범죄적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58322
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12772,13 +12772,13 @@ imported:
     표제어: 범죄적
     품사: 관형사
     항목ID: 58322
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄적
     품사: 관형사
 ---
 000_KEYWORD: 범죄적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58321
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12808,13 +12808,13 @@ imported:
     표제어: 범죄적
     품사: 명사
     항목ID: 58321
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄적
     품사: 명사
 ---
 000_KEYWORD: 범죄학자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12824,13 +12824,13 @@ imported:
     표제어: 범죄학자
     품사: 명사:보통:비서술성
     항목ID: 11344
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄학자
     품사: 명사
 ---
 000_KEYWORD: 범죄행위__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12840,13 +12840,13 @@ imported:
     표제어: 범죄행위
     품사: 명사:보통:서술성
     항목ID: 11345
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄행위
     품사: 명사
 ---
 000_KEYWORD: 범죄형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58323
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12877,13 +12877,13 @@ imported:
     표제어: 범죄형
     품사: 명사
     항목ID: 58323
-processed:
+result:
   맞춤법 검사:
     표제어: 범죄형
     품사: 명사
 ---
 000_KEYWORD: 범주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58324
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12916,13 +12916,13 @@ imported:
     표제어: 범주
     품사: 명사
     항목ID: 58324
-processed:
+result:
   맞춤법 검사:
     표제어: 범주
     품사: 명사
 ---
 000_KEYWORD: 범칙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58327
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12957,13 +12957,13 @@ imported:
     - 발음: 범ː칭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/58327_beom-chingman.wav
       형태: 범칙만
-processed:
+result:
   맞춤법 검사:
     표제어: 범칙
     품사: 명사
 ---
 000_KEYWORD: 범칙금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58328
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12996,13 +12996,13 @@ imported:
     표제어: 범칙금
     품사: 명사
     항목ID: 58328
-processed:
+result:
   맞춤법 검사:
     표제어: 범칙금
     품사: 명사
 ---
 000_KEYWORD: 범퍼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58330
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13032,13 +13032,13 @@ imported:
     표제어: 범퍼
     품사: 명사
     항목ID: 58330
-processed:
+result:
   맞춤법 검사:
     표제어: 범퍼
     품사: 명사
 ---
 000_KEYWORD: 범하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58331
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13129,13 +13129,13 @@ imported:
     표제어: 범하다
     품사: 동사
     항목ID: 58331
-processed:
+result:
   맞춤법 검사:
     표제어: 범하다
     품사: 동사
 ---
 000_KEYWORD: 범행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58713
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13165,13 +13165,13 @@ imported:
     표제어: 범행
     품사: 명사
     항목ID: 58713
-processed:
+result:
   맞춤법 검사:
     표제어: 범행
     품사: 명사
 ---
 000_KEYWORD: 범행하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58718
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13200,13 +13200,13 @@ imported:
     표제어: 범행하다
     품사: 동사
     항목ID: 58718
-processed:
+result:
   맞춤법 검사:
     표제어: 범행하다
     품사: 동사
 ---
 000_KEYWORD: 법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62406
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13265,13 +13265,13 @@ imported:
     - 발음: 범만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/62406_beomman.wav
       형태: 법만
-processed:
+result:
   맞춤법 검사:
     표제어: 법
     품사: 명사
 ---
 000_KEYWORD: 법__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62407
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13354,13 +13354,13 @@ imported:
     - 발음: 범만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/62406_beomman.wav
       형태: 법만
-processed:
+result:
   맞춤법 검사:
     표제어: 법
     품사: 의존 명사
 ---
 000_KEYWORD: 법관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58728
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13387,13 +13387,13 @@ imported:
     표제어: 법관
     품사: 명사
     항목ID: 58728
-processed:
+result:
   맞춤법 검사:
     표제어: 법관
     품사: 명사
 ---
 000_KEYWORD: 법규__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58730
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13424,13 +13424,13 @@ imported:
     표제어: 법규
     품사: 명사
     항목ID: 58730
-processed:
+result:
   맞춤법 검사:
     표제어: 법규
     품사: 명사
 ---
 000_KEYWORD: 법당__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58731
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13459,13 +13459,13 @@ imported:
     표제어: 법당
     품사: 명사
     항목ID: 58731
-processed:
+result:
   맞춤법 검사:
     표제어: 법당
     품사: 명사
 ---
 000_KEYWORD: 법대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13474,13 +13474,13 @@ imported:
     표제어: 법대
     품사: 명사:보통:비서술성
     항목ID: 11354
-processed:
+result:
   맞춤법 검사:
     표제어: 법대
     품사: 명사
 ---
 000_KEYWORD: 법도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58737
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13525,13 +13525,13 @@ imported:
     표제어: 법도
     품사: 명사
     항목ID: 58737
-processed:
+result:
   맞춤법 검사:
     표제어: 법도
     품사: 명사
 ---
 000_KEYWORD: 법령__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58739
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13562,13 +13562,13 @@ imported:
     표제어: 법령
     품사: 명사
     항목ID: 58739
-processed:
+result:
   맞춤법 검사:
     표제어: 법령
     품사: 명사
 ---
 000_KEYWORD: 법률__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14458
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13599,13 +13599,13 @@ imported:
     표제어: 법률
     품사: 명사
     항목ID: 14458
-processed:
+result:
   맞춤법 검사:
     표제어: 법률
     품사: 명사
 ---
 000_KEYWORD: 법률가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58742
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13635,13 +13635,13 @@ imported:
     표제어: 법률가
     품사: 명사
     항목ID: 58742
-processed:
+result:
   맞춤법 검사:
     표제어: 법률가
     품사: 명사
 ---
 000_KEYWORD: 법률안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58745
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13675,13 +13675,13 @@ imported:
     표제어: 법률안
     품사: 명사
     항목ID: 58745
-processed:
+result:
   맞춤법 검사:
     표제어: 법률안
     품사: 명사
 ---
 000_KEYWORD: 법률적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58751
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13713,13 +13713,13 @@ imported:
     표제어: 법률적
     품사: 관형사
     항목ID: 58751
-processed:
+result:
   맞춤법 검사:
     표제어: 법률적
     품사: 관형사
 ---
 000_KEYWORD: 법률적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58748
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13747,13 +13747,13 @@ imported:
     표제어: 법률적
     품사: 명사
     항목ID: 58748
-processed:
+result:
   맞춤법 검사:
     표제어: 법률적
     품사: 명사
 ---
 000_KEYWORD: 법리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58847
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13780,13 +13780,13 @@ imported:
     표제어: 법리
     품사: 명사
     항목ID: 58847
-processed:
+result:
   맞춤법 검사:
     표제어: 법리
     품사: 명사
 ---
 000_KEYWORD: 법망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58854
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13814,13 +13814,13 @@ imported:
     표제어: 법망
     품사: 명사
     항목ID: 58854
-processed:
+result:
   맞춤법 검사:
     표제어: 법망
     품사: 명사
 ---
 000_KEYWORD: 법명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58874
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13847,13 +13847,13 @@ imported:
     표제어: 법명
     품사: 명사
     항목ID: 58874
-processed:
+result:
   맞춤법 검사:
     표제어: 법명
     품사: 명사
 ---
 000_KEYWORD: 법무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13862,13 +13862,13 @@ imported:
     표제어: 법무
     품사: 명사:보통:서술성
     항목ID: 11363
-processed:
+result:
   맞춤법 검사:
     표제어: 법무
     품사: 명사
 ---
 000_KEYWORD: 법무관__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13877,13 +13877,13 @@ imported:
     표제어: 법무관
     품사: 명사:보통:비서술성
     항목ID: 11364
-processed:
+result:
   맞춤법 검사:
     표제어: 법무관
     품사: 명사
 ---
 000_KEYWORD: 법무부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58886
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13911,13 +13911,13 @@ imported:
     표제어: 법무부
     품사: 명사
     항목ID: 58886
-processed:
+result:
   맞춤법 검사:
     표제어: 법무부
     품사: 명사
 ---
 000_KEYWORD: 법무사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13926,13 +13926,13 @@ imported:
     표제어: 법무사
     품사: 명사:보통:비서술성
     항목ID: 31792
-processed:
+result:
   맞춤법 검사:
     표제어: 법무사
     품사: 명사
 ---
 000_KEYWORD: 법무행정__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13942,13 +13942,13 @@ imported:
     표제어: 법무행정
     품사: 명사:보통:서술성
     항목ID: 11366
-processed:
+result:
   맞춤법 검사:
     표제어: 법무행정
     품사: 명사
 ---
 000_KEYWORD: 법문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58897
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13985,13 +13985,13 @@ imported:
     표제어: 법문
     품사: 명사
     항목ID: 58897
-processed:
+result:
   맞춤법 검사:
     표제어: 법문
     품사: 명사
 ---
 000_KEYWORD: 법석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58904
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14019,13 +14019,13 @@ imported:
     표제어: 법석
     품사: 명사
     항목ID: 58904
-processed:
+result:
   맞춤법 검사:
     표제어: 법석
     품사: 명사
 ---
 000_KEYWORD: 법석거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58909
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14060,13 +14060,13 @@ imported:
     표제어: 법석거리다
     품사: 동사
     항목ID: 58909
-processed:
+result:
   맞춤법 검사:
     표제어: 법석거리다
     품사: 동사
 ---
 000_KEYWORD: 법석대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58925
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14101,13 +14101,13 @@ imported:
     표제어: 법석대다
     품사: 동사
     항목ID: 58925
-processed:
+result:
   맞춤법 검사:
     표제어: 법석대다
     품사: 동사
 ---
 000_KEYWORD: 법석법석__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90190
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14133,13 +14133,13 @@ imported:
     표제어: 법석법석
     품사: 부사
     항목ID: 90190
-processed:
+result:
   맞춤법 검사:
     표제어: 법석법석
     품사: 부사
 ---
 000_KEYWORD: 법석법석하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90191
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14174,13 +14174,13 @@ imported:
     표제어: 법석법석하다
     품사: 동사
     항목ID: 90191
-processed:
+result:
   맞춤법 검사:
     표제어: 법석법석하다
     품사: 동사
 ---
 000_KEYWORD: 법석이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58931
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14208,13 +14208,13 @@ imported:
     표제어: 법석이다
     품사: 동사
     항목ID: 58931
-processed:
+result:
   맞춤법 검사:
     표제어: 법석이다
     품사: 동사
 ---
 000_KEYWORD: 법석하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90192
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14239,13 +14239,13 @@ imported:
     표제어: 법석하다
     품사: 동사
     항목ID: 90192
-processed:
+result:
   맞춤법 검사:
     표제어: 법석하다
     품사: 동사
 ---
 000_KEYWORD: 법안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58932
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14287,13 +14287,13 @@ imported:
     표제어: 법안
     품사: 명사
     항목ID: 58932
-processed:
+result:
   맞춤법 검사:
     표제어: 법안
     품사: 명사
 ---
 000_KEYWORD: 법원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14459
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14319,13 +14319,13 @@ imported:
     표제어: 법원
     품사: 명사
     항목ID: 14459
-processed:
+result:
   맞춤법 검사:
     표제어: 법원
     품사: 명사
 ---
 000_KEYWORD: 법의학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14334,13 +14334,13 @@ imported:
     표제어: 법의학
     품사: 명사:보통:서술성
     항목ID: 11371
-processed:
+result:
   맞춤법 검사:
     표제어: 법의학
     품사: 명사
 ---
 000_KEYWORD: 법의학적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14349,13 +14349,13 @@ imported:
     표제어: 법의학적
     품사: 명사:보통:서술성
     항목ID: 11372
-processed:
+result:
   맞춤법 검사:
     표제어: 법의학적
     품사: 명사
 ---
 000_KEYWORD: 법인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58935
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14386,13 +14386,13 @@ imported:
     표제어: 법인
     품사: 명사
     항목ID: 58935
-processed:
+result:
   맞춤법 검사:
     표제어: 법인
     품사: 명사
 ---
 000_KEYWORD: 법인세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58936
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14422,13 +14422,13 @@ imported:
     표제어: 법인세
     품사: 명사
     항목ID: 58936
-processed:
+result:
   맞춤법 검사:
     표제어: 법인세
     품사: 명사
 ---
 000_KEYWORD: 법적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14462
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14457,13 +14457,13 @@ imported:
     표제어: 법적
     품사: 관형사
     항목ID: 14462
-processed:
+result:
   맞춤법 검사:
     표제어: 법적
     품사: 관형사
 ---
 000_KEYWORD: 법적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14463
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14490,13 +14490,13 @@ imported:
     표제어: 법적
     품사: 명사
     항목ID: 14463
-processed:
+result:
   맞춤법 검사:
     표제어: 법적
     품사: 명사
 ---
 000_KEYWORD: 법전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58937
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14525,13 +14525,13 @@ imported:
     표제어: 법전
     품사: 명사
     항목ID: 58937
-processed:
+result:
   맞춤법 검사:
     표제어: 법전
     품사: 명사
 ---
 000_KEYWORD: 법정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58940
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14563,13 +14563,13 @@ imported:
     표제어: 법정
     품사: 명사
     항목ID: 58940
-processed:
+result:
   맞춤법 검사:
     표제어: 법정
     품사: 명사
 ---
 000_KEYWORD: 법정__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58946
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14598,13 +14598,13 @@ imported:
     표제어: 법정
     품사: 명사
     항목ID: 58946
-processed:
+result:
   맞춤법 검사:
     표제어: 법정
     품사: 명사
 ---
 000_KEYWORD: 법정형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58956
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14632,13 +14632,13 @@ imported:
     표제어: 법정형
     품사: 명사
     항목ID: 58956
-processed:
+result:
   맞춤법 검사:
     표제어: 법정형
     품사: 명사
 ---
 000_KEYWORD: 법제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58962
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14667,13 +14667,13 @@ imported:
     표제어: 법제
     품사: 명사
     항목ID: 58962
-processed:
+result:
   맞춤법 검사:
     표제어: 법제
     품사: 명사
 ---
 000_KEYWORD: 법제처__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14683,13 +14683,13 @@ imported:
     표제어: 법제처
     품사: 명사:고유
     항목ID: 11379
-processed:
+result:
   맞춤법 검사:
     표제어: 법제처
     품사: 명사
 ---
 000_KEYWORD: 법제화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58966
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14718,13 +14718,13 @@ imported:
     표제어: 법제화
     품사: 명사
     항목ID: 58966
-processed:
+result:
   맞춤법 검사:
     표제어: 법제화
     품사: 명사
 ---
 000_KEYWORD: 법제화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91302
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14754,13 +14754,13 @@ imported:
     표제어: 법제화되다
     품사: 동사
     항목ID: 91302
-processed:
+result:
   맞춤법 검사:
     표제어: 법제화되다
     품사: 동사
 ---
 000_KEYWORD: 법제화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58969
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14788,13 +14788,13 @@ imported:
     표제어: 법제화하다
     품사: 동사
     항목ID: 58969
-processed:
+result:
   맞춤법 검사:
     표제어: 법제화하다
     품사: 동사
 ---
 000_KEYWORD: 법조__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14803,13 +14803,13 @@ imported:
     표제어: 법조
     품사: 명사:보통:서술성
     항목ID: 11380
-processed:
+result:
   맞춤법 검사:
     표제어: 법조
     품사: 명사
 ---
 000_KEYWORD: 법조계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58470
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14840,13 +14840,13 @@ imported:
     표제어: 법조계
     품사: 명사
     항목ID: 58470
-processed:
+result:
   맞춤법 검사:
     표제어: 법조계
     품사: 명사
 ---
 000_KEYWORD: 법조문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58471
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14874,13 +14874,13 @@ imported:
     표제어: 법조문
     품사: 명사
     항목ID: 58471
-processed:
+result:
   맞춤법 검사:
     표제어: 법조문
     품사: 명사
 ---
 000_KEYWORD: 법조인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58472
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14908,13 +14908,13 @@ imported:
     표제어: 법조인
     품사: 명사
     항목ID: 58472
-processed:
+result:
   맞춤법 검사:
     표제어: 법조인
     품사: 명사
 ---
 000_KEYWORD: 법질서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58473
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14941,13 +14941,13 @@ imported:
     표제어: 법질서
     품사: 명사
     항목ID: 58473
-processed:
+result:
   맞춤법 검사:
     표제어: 법질서
     품사: 명사
 ---
 000_KEYWORD: 법체계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58477
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14977,13 +14977,13 @@ imported:
     표제어: 법체계
     품사: 명사
     항목ID: 58477
-processed:
+result:
   맞춤법 검사:
     표제어: 법체계
     품사: 명사
 ---
 000_KEYWORD: 법치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58478
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15009,13 +15009,13 @@ imported:
     표제어: 법치
     품사: 명사
     항목ID: 58478
-processed:
+result:
   맞춤법 검사:
     표제어: 법치
     품사: 명사
 ---
 000_KEYWORD: 법치국가__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15025,13 +15025,13 @@ imported:
     표제어: 법치국가
     품사: 명사:보통:서술성
     항목ID: 11384
-processed:
+result:
   맞춤법 검사:
     표제어: 법치국가
     품사: 명사
 ---
 000_KEYWORD: 법치주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58480
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15062,13 +15062,13 @@ imported:
     표제어: 법치주의
     품사: 명사
     항목ID: 58480
-processed:
+result:
   맞춤법 검사:
     표제어: 법치주의
     품사: 명사
 ---
 000_KEYWORD: 법칙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14502
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15116,13 +15116,13 @@ imported:
     - 발음: 법칭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/35000/14502_beopchingman.wav
       형태: 법칙만
-processed:
+result:
   맞춤법 검사:
     표제어: 법칙
     품사: 명사
 ---
 000_KEYWORD: 법칙성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58481
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15149,13 +15149,13 @@ imported:
     표제어: 법칙성
     품사: 명사
     항목ID: 58481
-processed:
+result:
   맞춤법 검사:
     표제어: 법칙성
     품사: 명사
 ---
 000_KEYWORD: 법통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58483
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15182,13 +15182,13 @@ imported:
     표제어: 법통
     품사: 명사
     항목ID: 58483
-processed:
+result:
   맞춤법 검사:
     표제어: 법통
     품사: 명사
 ---
 000_KEYWORD: 법하다__보조_형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58484
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15223,7 +15223,7 @@ imported:
       형태: 법하니
     - 발음: 버팜니다
       형태: 법합니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-을
@@ -15231,7 +15231,7 @@ processed:
     품사: 보조 형용사
 ---
 000_KEYWORD: 법학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58485
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15270,13 +15270,13 @@ imported:
     - 발음: 버팡만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/35000/58485_beopangman.wav
       형태: 법학만
-processed:
+result:
   맞춤법 검사:
     표제어: 법학
     품사: 명사
 ---
 000_KEYWORD: 법학자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58487
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15303,13 +15303,13 @@ imported:
     표제어: 법학자
     품사: 명사
     항목ID: 58487
-processed:
+result:
   맞춤법 검사:
     표제어: 법학자
     품사: 명사
 ---
 000_KEYWORD: 법회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58489
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15339,13 +15339,13 @@ imported:
     표제어: 법회
     품사: 명사
     항목ID: 58489
-processed:
+result:
   맞춤법 검사:
     표제어: 법회
     품사: 명사
 ---
 000_KEYWORD: 법흥왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15355,13 +15355,13 @@ imported:
     표제어: 법흥왕
     품사: 명사:보통:서술성
     항목ID: 11391
-processed:
+result:
   맞춤법 검사:
     표제어: 법흥왕
     품사: 명사
 ---
 000_KEYWORD: 벗__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58490
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15416,13 +15416,13 @@ imported:
     - 발음: 번ː만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58490_beon-man.wav
       형태: 벗만
-processed:
+result:
   맞춤법 검사:
     표제어: 벗
     품사: 명사
 ---
 000_KEYWORD: 벗겨지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58493
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15503,17 +15503,17 @@ imported:
     - 발음: 벋껴지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/58493_beotkkyeojini.wav
       형태: 벗겨지니
-processed:
+result:
   맞춤법 검사:
     표제어: 벗겨지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 벗기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65571
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15660,13 +15660,13 @@ imported:
     - 발음: 벋끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/65571_beotkkini.wav
       형태: 벗기니
-processed:
+result:
   맞춤법 검사:
     표제어: 벗기다
     품사: 동사
 ---
 000_KEYWORD: 벗다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58494
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15815,7 +15815,7 @@ imported:
     - 발음: 번는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/58494_beonneun.wav
       형태: 벗는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -15823,7 +15823,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 벗어나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58495
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15970,17 +15970,17 @@ imported:
     - 발음: 버서나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/58495_beoseonani.wav
       형태: 벗어나니
-processed:
+result:
   맞춤법 검사:
     표제어: 벗어나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 벗어던지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58496
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16021,17 +16021,17 @@ imported:
     - 발음: 버서던지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/58496_beoseodeonjini.wav
       형태: 벗어던지니
-processed:
+result:
   맞춤법 검사:
     표제어: 벗어던지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 벗어부치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58497
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16076,13 +16076,13 @@ imported:
     - 발음: 버서부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/58497_beoseobuchini.wav
       형태: 벗어부치니
-processed:
+result:
   맞춤법 검사:
     표제어: 벗어부치다
     품사: 동사
 ---
 000_KEYWORD: 벗어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58498
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16185,7 +16185,7 @@ imported:
     - 발음: 버서지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/58498_beoseojini.wav
       형태: 벗어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -16193,7 +16193,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 벗하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58499
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16237,13 +16237,13 @@ imported:
     표제어: 벗하다
     품사: 동사
     항목ID: 58499
-processed:
+result:
   맞춤법 검사:
     표제어: 벗하다
     품사: 동사
 ---
 000_KEYWORD: 벙거지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58500
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16273,13 +16273,13 @@ imported:
     표제어: 벙거지
     품사: 명사
     항목ID: 58500
-processed:
+result:
   맞춤법 검사:
     표제어: 벙거지
     품사: 명사
 ---
 000_KEYWORD: 벙글거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58501
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16314,13 +16314,13 @@ imported:
     표제어: 벙글거리다
     품사: 동사
     항목ID: 58501
-processed:
+result:
   맞춤법 검사:
     표제어: 벙글거리다
     품사: 동사
 ---
 000_KEYWORD: 벙글대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90193
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16353,13 +16353,13 @@ imported:
     표제어: 벙글대다
     품사: 동사
     항목ID: 90193
-processed:
+result:
   맞춤법 검사:
     표제어: 벙글대다
     품사: 동사
 ---
 000_KEYWORD: 벙글벙글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58502
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16386,13 +16386,13 @@ imported:
     표제어: 벙글벙글
     품사: 부사
     항목ID: 58502
-processed:
+result:
   맞춤법 검사:
     표제어: 벙글벙글
     품사: 부사
 ---
 000_KEYWORD: 벙글벙글하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90842
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16427,13 +16427,13 @@ imported:
     표제어: 벙글벙글하다
     품사: 동사
     항목ID: 90842
-processed:
+result:
   맞춤법 검사:
     표제어: 벙글벙글하다
     품사: 동사
 ---
 000_KEYWORD: 벙긋__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58503
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16457,13 +16457,13 @@ imported:
     표제어: 벙긋
     품사: 부사
     항목ID: 58503
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋
     품사: 부사
 ---
 000_KEYWORD: 벙긋__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58504
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16489,13 +16489,13 @@ imported:
     표제어: 벙긋
     품사: 부사
     항목ID: 58504
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋
     품사: 부사
 ---
 000_KEYWORD: 벙긋거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58505
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16544,13 +16544,13 @@ imported:
     표제어: 벙긋거리다
     품사: 동사
     항목ID: 58505
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋거리다
     품사: 동사
 ---
 000_KEYWORD: 벙긋거리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58506
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16581,13 +16581,13 @@ imported:
     표제어: 벙긋거리다
     품사: 동사
     항목ID: 58506
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋거리다
     품사: 동사
 ---
 000_KEYWORD: 벙긋대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90843
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16628,13 +16628,13 @@ imported:
     표제어: 벙긋대다
     품사: 동사
     항목ID: 90843
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋대다
     품사: 동사
 ---
 000_KEYWORD: 벙긋대다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90844
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16664,13 +16664,13 @@ imported:
     표제어: 벙긋대다
     품사: 동사
     항목ID: 90844
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋대다
     품사: 동사
 ---
 000_KEYWORD: 벙긋벙긋__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58507
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16697,13 +16697,13 @@ imported:
     표제어: 벙긋벙긋
     품사: 부사
     항목ID: 58507
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋벙긋
     품사: 부사
 ---
 000_KEYWORD: 벙긋벙긋__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90845
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16727,13 +16727,13 @@ imported:
     표제어: 벙긋벙긋
     품사: 부사
     항목ID: 90845
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋벙긋
     품사: 부사
 ---
 000_KEYWORD: 벙긋벙긋하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90846
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16776,13 +16776,13 @@ imported:
     표제어: 벙긋벙긋하다
     품사: 동사
     항목ID: 90846
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋벙긋하다
     품사: 동사
 ---
 000_KEYWORD: 벙긋벙긋하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90847
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16809,13 +16809,13 @@ imported:
     표제어: 벙긋벙긋하다
     품사: 동사
     항목ID: 90847
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋벙긋하다
     품사: 동사
 ---
 000_KEYWORD: 벙긋하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58508
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16840,13 +16840,13 @@ imported:
     표제어: 벙긋하다
     품사: 동사
     항목ID: 58508
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋하다
     품사: 동사
 ---
 000_KEYWORD: 벙긋하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58509
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16871,13 +16871,13 @@ imported:
     표제어: 벙긋하다
     품사: 동사
     항목ID: 58509
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋하다
     품사: 동사
 ---
 000_KEYWORD: 벙긋하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58510
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16909,13 +16909,13 @@ imported:
       형태: 벙긋하니
     - 발음: 벙그탐니다
       형태: 벙긋합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 벙긋하다
     품사: 형용사
 ---
 000_KEYWORD: 벙벙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58512
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16952,13 +16952,13 @@ imported:
       형태: 벙벙하니
     - 발음: 벙벙함니다
       형태: 벙벙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 벙벙하다
     품사: 형용사
 ---
 000_KEYWORD: 벙실벙실__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58529
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -16985,13 +16985,13 @@ imported:
     표제어: 벙실벙실
     품사: 부사
     항목ID: 58529
-processed:
+result:
   맞춤법 검사:
     표제어: 벙실벙실
     품사: 부사
 ---
 000_KEYWORD: 벙싯__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58513
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17022,13 +17022,13 @@ imported:
     표제어: 벙싯
     품사: 부사
     항목ID: 58513
-processed:
+result:
   맞춤법 검사:
     표제어: 벙싯
     품사: 부사
 ---
 000_KEYWORD: 벙싯거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58514
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17070,13 +17070,13 @@ imported:
     표제어: 벙싯거리다
     품사: 동사
     항목ID: 58514
-processed:
+result:
   맞춤법 검사:
     표제어: 벙싯거리다
     품사: 동사
 ---
 000_KEYWORD: 벙싯대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90848
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17119,13 +17119,13 @@ imported:
     표제어: 벙싯대다
     품사: 동사
     항목ID: 90848
-processed:
+result:
   맞춤법 검사:
     표제어: 벙싯대다
     품사: 동사
 ---
 000_KEYWORD: 벙싯벙싯__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90849
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17148,13 +17148,13 @@ imported:
     표제어: 벙싯벙싯
     품사: 부사
     항목ID: 90849
-processed:
+result:
   맞춤법 검사:
     표제어: 벙싯벙싯
     품사: 부사
 ---
 000_KEYWORD: 벙싯벙싯하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89053
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17199,13 +17199,13 @@ imported:
     표제어: 벙싯벙싯하다
     품사: 동사
     항목ID: 89053
-processed:
+result:
   맞춤법 검사:
     표제어: 벙싯벙싯하다
     품사: 동사
 ---
 000_KEYWORD: 벙싯하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89108
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17246,13 +17246,13 @@ imported:
     표제어: 벙싯하다
     품사: 동사
     항목ID: 89108
-processed:
+result:
   맞춤법 검사:
     표제어: 벙싯하다
     품사: 동사
 ---
 000_KEYWORD: 벙어리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58515
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17276,13 +17276,13 @@ imported:
     표제어: 벙어리
     품사: 명사
     항목ID: 58515
-processed:
+result:
   맞춤법 검사:
     표제어: 벙어리
     품사: 명사
 ---
 000_KEYWORD: 벙어리장갑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58516
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17323,13 +17323,13 @@ imported:
     - 발음: 벙어리장감만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/25000/58516_beongeorijanggamman.wav
       형태: 벙어리장갑만
-processed:
+result:
   맞춤법 검사:
     표제어: 벙어리장갑
     품사: 명사
 ---
 000_KEYWORD: 벙어리저금통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58517
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17360,13 +17360,13 @@ imported:
     표제어: 벙어리저금통
     품사: 명사
     항목ID: 58517
-processed:
+result:
   맞춤법 검사:
     표제어: 벙어리저금통
     품사: 명사
 ---
 000_KEYWORD: 벙커__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58518
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17407,13 +17407,13 @@ imported:
     표제어: 벙커
     품사: 명사
     항목ID: 58518
-processed:
+result:
   맞춤법 검사:
     표제어: 벙커
     품사: 명사
 ---
 000_KEYWORD: 벙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58519
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17454,13 +17454,13 @@ imported:
       형태: 벙하니
     - 발음: 벙ː함니다
       형태: 벙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 벙하다
     품사: 형용사
 ---
 000_KEYWORD: 벚꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58520
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17504,13 +17504,13 @@ imported:
     - 발음: 벋꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/58520_beotkkonman.wav
       형태: 벚꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 벚꽃
     품사: 명사
 ---
 000_KEYWORD: 벚나무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58521
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -17537,7 +17537,7 @@ imported:
     표제어: 벚나무
     품사: 명사
     항목ID: 58521
-processed:
+result:
   맞춤법 검사:
     표제어: 벚나무
     품사: 명사

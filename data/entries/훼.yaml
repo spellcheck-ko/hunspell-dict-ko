@@ -1,5 +1,5 @@
 000_KEYWORD: 훼방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87751
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -41,13 +41,13 @@ imported:
     표제어: 훼방
     품사: 명사
     항목ID: 87751
-processed:
+result:
   맞춤법 검사:
     표제어: 훼방
     품사: 명사
 ---
 000_KEYWORD: 훼방꾼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -56,13 +56,13 @@ imported:
     표제어: 훼방꾼
     품사: 명사:보통:비서술성
     항목ID: 31475
-processed:
+result:
   맞춤법 검사:
     표제어: 훼방꾼
     품사: 명사
 ---
 000_KEYWORD: 훼방하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87752
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -104,13 +104,13 @@ imported:
     표제어: 훼방하다
     품사: 동사
     항목ID: 87752
-processed:
+result:
   맞춤법 검사:
     표제어: 훼방하다
     품사: 동사
 ---
 000_KEYWORD: 훼손__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87753
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -153,13 +153,13 @@ imported:
     표제어: 훼손
     품사: 명사
     항목ID: 87753
-processed:
+result:
   맞춤법 검사:
     표제어: 훼손
     품사: 명사
 ---
 000_KEYWORD: 훼손되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87754
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -204,13 +204,13 @@ imported:
     표제어: 훼손되다
     품사: 동사
     항목ID: 87754
-processed:
+result:
   맞춤법 검사:
     표제어: 훼손되다
     품사: 동사
 ---
 000_KEYWORD: 훼손하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87755
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -253,13 +253,13 @@ imported:
     표제어: 훼손하다
     품사: 동사
     항목ID: 87755
-processed:
+result:
   맞춤법 검사:
     표제어: 훼손하다
     품사: 동사
 ---
 000_KEYWORD: 휑뎅그렁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87764
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -313,13 +313,13 @@ imported:
       형태: 휑뎅그렁하니
     - 발음: 휑뎅그렁함니다
       형태: 휑뎅그렁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휑뎅그렁하다
     품사: 형용사
 ---
 000_KEYWORD: 휑하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87765
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -407,7 +407,7 @@ imported:
       형태: 휑하니
     - 발음: 휑함니다
       형태: 휑합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휑하다
     품사: 형용사

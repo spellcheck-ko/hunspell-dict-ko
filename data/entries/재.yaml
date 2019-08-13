@@ -1,5 +1,5 @@
 000_KEYWORD: -재__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88963
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -22,11 +22,11 @@ imported:
     표제어: -재
     품사: 접사
     항목ID: 88963
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -쟁이__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88964
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -62,11 +62,11 @@ imported:
     표제어: -쟁이
     품사: 접사
     항목ID: 88964
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 재-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88961
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -124,11 +124,11 @@ imported:
     표제어: 재-
     품사: 접사
     항목ID: 88961
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 재-__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88962
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -147,11 +147,11 @@ imported:
     표제어: 재-
     품사: 접사
     항목ID: 88962
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81764
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -178,13 +178,13 @@ imported:
     표제어: 재
     품사: 명사
     항목ID: 81764
-processed:
+result:
   맞춤법 검사:
     표제어: 재
     품사: 명사
 ---
 000_KEYWORD: 재가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81765
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -217,13 +217,13 @@ imported:
     표제어: 재가
     품사: 명사
     항목ID: 81765
-processed:
+result:
   맞춤법 검사:
     표제어: 재가
     품사: 명사
 ---
 000_KEYWORD: 재가__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81768
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -255,13 +255,13 @@ imported:
     표제어: 재가
     품사: 명사
     항목ID: 81768
-processed:
+result:
   맞춤법 검사:
     표제어: 재가
     품사: 명사
 ---
 000_KEYWORD: 재가동하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -271,13 +271,13 @@ imported:
     표제어: 재가동하다
     품사: 동사
     항목ID: 22670
-processed:
+result:
   맞춤법 검사:
     표제어: 재가동하다
     품사: 동사
 ---
 000_KEYWORD: 재가하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76361
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -308,13 +308,13 @@ imported:
     표제어: 재가하다
     품사: 동사
     항목ID: 76361
-processed:
+result:
   맞춤법 검사:
     표제어: 재가하다
     품사: 동사
 ---
 000_KEYWORD: 재가하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76362
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -345,13 +345,13 @@ imported:
     표제어: 재가하다
     품사: 동사
     항목ID: 76362
-processed:
+result:
   맞춤법 검사:
     표제어: 재가하다
     품사: 동사
 ---
 000_KEYWORD: 재간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76363
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -394,13 +394,13 @@ imported:
     표제어: 재간
     품사: 명사
     항목ID: 76363
-processed:
+result:
   맞춤법 검사:
     표제어: 재간
     품사: 명사
 ---
 000_KEYWORD: 재간꾼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76364
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -426,13 +426,13 @@ imported:
     표제어: 재간꾼
     품사: 명사
     항목ID: 76364
-processed:
+result:
   맞춤법 검사:
     표제어: 재간꾼
     품사: 명사
 ---
 000_KEYWORD: 재갈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76365
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -473,13 +473,13 @@ imported:
     표제어: 재갈
     품사: 명사
     항목ID: 76365
-processed:
+result:
   맞춤법 검사:
     표제어: 재갈
     품사: 명사
 ---
 000_KEYWORD: 재개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76366
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -508,13 +508,13 @@ imported:
     표제어: 재개
     품사: 명사
     항목ID: 76366
-processed:
+result:
   맞춤법 검사:
     표제어: 재개
     품사: 명사
 ---
 000_KEYWORD: 재개되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76367
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -545,13 +545,13 @@ imported:
     표제어: 재개되다
     품사: 동사
     항목ID: 76367
-processed:
+result:
   맞춤법 검사:
     표제어: 재개되다
     품사: 동사
 ---
 000_KEYWORD: 재개발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76368
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -583,13 +583,13 @@ imported:
     표제어: 재개발
     품사: 명사
     항목ID: 76368
-processed:
+result:
   맞춤법 검사:
     표제어: 재개발
     품사: 명사
 ---
 000_KEYWORD: 재개하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76395
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -617,13 +617,13 @@ imported:
     표제어: 재개하다
     품사: 동사
     항목ID: 76395
-processed:
+result:
   맞춤법 검사:
     표제어: 재개하다
     품사: 동사
 ---
 000_KEYWORD: 재건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76404
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -663,13 +663,13 @@ imported:
     표제어: 재건
     품사: 명사
     항목ID: 76404
-processed:
+result:
   맞춤법 검사:
     표제어: 재건
     품사: 명사
 ---
 000_KEYWORD: 재건되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76422
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -712,13 +712,13 @@ imported:
     표제어: 재건되다
     품사: 동사
     항목ID: 76422
-processed:
+result:
   맞춤법 검사:
     표제어: 재건되다
     품사: 동사
 ---
 000_KEYWORD: 재건축__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76425
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -757,13 +757,13 @@ imported:
     - 발음: 재ː건충만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/76425_jae-geonchungman.wav
       형태: 재건축만
-processed:
+result:
   맞춤법 검사:
     표제어: 재건축
     품사: 명사
 ---
 000_KEYWORD: 재건하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76428
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -803,13 +803,13 @@ imported:
     표제어: 재건하다
     품사: 동사
     항목ID: 76428
-processed:
+result:
   맞춤법 검사:
     표제어: 재건하다
     품사: 동사
 ---
 000_KEYWORD: 재검사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76429
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -841,13 +841,13 @@ imported:
     표제어: 재검사
     품사: 명사
     항목ID: 76429
-processed:
+result:
   맞춤법 검사:
     표제어: 재검사
     품사: 명사
 ---
 000_KEYWORD: 재검토__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76430
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -875,13 +875,13 @@ imported:
     표제어: 재검토
     품사: 명사
     항목ID: 76430
-processed:
+result:
   맞춤법 검사:
     표제어: 재검토
     품사: 명사
 ---
 000_KEYWORD: 재검토되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76431
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -910,13 +910,13 @@ imported:
     표제어: 재검토되다
     품사: 동사
     항목ID: 76431
-processed:
+result:
   맞춤법 검사:
     표제어: 재검토되다
     품사: 동사
 ---
 000_KEYWORD: 재검토하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76432
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -945,13 +945,13 @@ imported:
     표제어: 재검토하다
     품사: 동사
     항목ID: 76432
-processed:
+result:
   맞춤법 검사:
     표제어: 재검토하다
     품사: 동사
 ---
 000_KEYWORD: 재결합__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76433
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -987,13 +987,13 @@ imported:
     - 발음: 재ː결함만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/76433_jae-gyeolhamman.wav
       형태: 재결합만
-processed:
+result:
   맞춤법 검사:
     표제어: 재결합
     품사: 명사
 ---
 000_KEYWORD: 재결합되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76434
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1025,13 +1025,13 @@ imported:
     표제어: 재결합되다
     품사: 동사
     항목ID: 76434
-processed:
+result:
   맞춤법 검사:
     표제어: 재결합되다
     품사: 동사
 ---
 000_KEYWORD: 재결합하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74110
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1063,13 +1063,13 @@ imported:
     표제어: 재결합하다
     품사: 동사
     항목ID: 74110
-processed:
+result:
   맞춤법 검사:
     표제어: 재결합하다
     품사: 동사
 ---
 000_KEYWORD: 재경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74111
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1097,13 +1097,13 @@ imported:
     표제어: 재경
     품사: 명사
     항목ID: 74111
-processed:
+result:
   맞춤법 검사:
     표제어: 재경
     품사: 명사
 ---
 000_KEYWORD: 재계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74112
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1138,13 +1138,13 @@ imported:
     표제어: 재계
     품사: 명사
     항목ID: 74112
-processed:
+result:
   맞춤법 검사:
     표제어: 재계
     품사: 명사
 ---
 000_KEYWORD: 재계약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74113
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1198,13 +1198,13 @@ imported:
     - 발음: 재ː게양만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74113_jae-geyangman.wav
       형태: 재계약만
-processed:
+result:
   맞춤법 검사:
     표제어: 재계약
     품사: 명사
 ---
 000_KEYWORD: 재계약하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1213,13 +1213,13 @@ imported:
     표제어: 재계약하다
     품사: 동사
     항목ID: 22687
-processed:
+result:
   맞춤법 검사:
     표제어: 재계약하다
     품사: 동사
 ---
 000_KEYWORD: 재고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74114
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1246,13 +1246,13 @@ imported:
     표제어: 재고
     품사: 명사
     항목ID: 74114
-processed:
+result:
   맞춤법 검사:
     표제어: 재고
     품사: 명사
 ---
 000_KEYWORD: 재고__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74115
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1297,13 +1297,13 @@ imported:
     표제어: 재고
     품사: 명사
     항목ID: 74115
-processed:
+result:
   맞춤법 검사:
     표제어: 재고
     품사: 명사
 ---
 000_KEYWORD: 재고량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74116
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1330,13 +1330,13 @@ imported:
     표제어: 재고량
     품사: 명사
     항목ID: 74116
-processed:
+result:
   맞춤법 검사:
     표제어: 재고량
     품사: 명사
 ---
 000_KEYWORD: 재고품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74117
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1370,13 +1370,13 @@ imported:
     표제어: 재고품
     품사: 명사
     항목ID: 74117
-processed:
+result:
   맞춤법 검사:
     표제어: 재고품
     품사: 명사
 ---
 000_KEYWORD: 재고하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74118
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1408,13 +1408,13 @@ imported:
     표제어: 재고하다
     품사: 동사
     항목ID: 74118
-processed:
+result:
   맞춤법 검사:
     표제어: 재고하다
     품사: 동사
 ---
 000_KEYWORD: 재교부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1425,13 +1425,13 @@ imported:
     표제어: 재교부
     품사: 명사:보통:서술성
     항목ID: 22691
-processed:
+result:
   맞춤법 검사:
     표제어: 재교부
     품사: 명사
 ---
 000_KEYWORD: 재교부하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1441,13 +1441,13 @@ imported:
     표제어: 재교부하다
     품사: 동사
     항목ID: 22692
-processed:
+result:
   맞춤법 검사:
     표제어: 재교부하다
     품사: 동사
 ---
 000_KEYWORD: 재교육__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74457
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1489,13 +1489,13 @@ imported:
     - 발음: 재ː교융만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74457_jae-gyoyungman.wav
       형태: 재교육만
-processed:
+result:
   맞춤법 검사:
     표제어: 재교육
     품사: 명사
 ---
 000_KEYWORD: 재구성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74458
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1532,13 +1532,13 @@ imported:
     표제어: 재구성
     품사: 명사
     항목ID: 74458
-processed:
+result:
   맞춤법 검사:
     표제어: 재구성
     품사: 명사
 ---
 000_KEYWORD: 재구성되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74459
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1575,13 +1575,13 @@ imported:
     표제어: 재구성되다
     품사: 동사
     항목ID: 74459
-processed:
+result:
   맞춤법 검사:
     표제어: 재구성되다
     품사: 동사
 ---
 000_KEYWORD: 재구성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74460
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1616,13 +1616,13 @@ imported:
     표제어: 재구성하다
     품사: 동사
     항목ID: 74460
-processed:
+result:
   맞춤법 검사:
     표제어: 재구성하다
     품사: 동사
 ---
 000_KEYWORD: 재귀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1631,13 +1631,13 @@ imported:
     표제어: 재귀
     품사: 명사:보통:서술성
     항목ID: 22697
-processed:
+result:
   맞춤법 검사:
     표제어: 재귀
     품사: 명사
 ---
 000_KEYWORD: 재기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74462
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1664,13 +1664,13 @@ imported:
     표제어: 재기
     품사: 명사
     항목ID: 74462
-processed:
+result:
   맞춤법 검사:
     표제어: 재기
     품사: 명사
 ---
 000_KEYWORD: 재기__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74463
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1706,13 +1706,13 @@ imported:
     표제어: 재기
     품사: 명사
     항목ID: 74463
-processed:
+result:
   맞춤법 검사:
     표제어: 재기
     품사: 명사
 ---
 000_KEYWORD: 재기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74464
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1743,13 +1743,13 @@ imported:
     표제어: 재기하다
     품사: 동사
     항목ID: 74464
-processed:
+result:
   맞춤법 검사:
     표제어: 재기하다
     품사: 동사
 ---
 000_KEYWORD: 재까닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74465
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1782,13 +1782,13 @@ imported:
     표제어: 재까닥
     품사: 부사
     항목ID: 74465
-processed:
+result:
   맞춤법 검사:
     표제어: 재까닥
     품사: 부사
 ---
 000_KEYWORD: 재까닥재까닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74467
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1819,13 +1819,13 @@ imported:
     표제어: 재까닥재까닥
     품사: 부사
     항목ID: 74467
-processed:
+result:
   맞춤법 검사:
     표제어: 재까닥재까닥
     품사: 부사
 ---
 000_KEYWORD: 재깍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74466
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1862,13 +1862,13 @@ imported:
     표제어: 재깍
     품사: 부사
     항목ID: 74466
-processed:
+result:
   맞춤법 검사:
     표제어: 재깍
     품사: 부사
 ---
 000_KEYWORD: 재깍재깍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74468
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1900,13 +1900,13 @@ imported:
     표제어: 재깍재깍
     품사: 부사
     항목ID: 74468
-processed:
+result:
   맞춤법 검사:
     표제어: 재깍재깍
     품사: 부사
 ---
 000_KEYWORD: 재끼다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89813
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1949,7 +1949,7 @@ imported:
       형태: 재끼니
     - 발음: 재낌니다
       형태: 재낍니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -1957,7 +1957,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 재난__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74469
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1994,13 +1994,13 @@ imported:
     표제어: 재난
     품사: 명사
     항목ID: 74469
-processed:
+result:
   맞춤법 검사:
     표제어: 재난
     품사: 명사
 ---
 000_KEYWORD: 재능__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24909
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2035,13 +2035,13 @@ imported:
     표제어: 재능
     품사: 명사
     항목ID: 24909
-processed:
+result:
   맞춤법 검사:
     표제어: 재능
     품사: 명사
 ---
 000_KEYWORD: 재다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74470
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2078,13 +2078,13 @@ imported:
     - 발음: 재ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jae-ni.wav
       형태: 재니
-processed:
+result:
   맞춤법 검사:
     표제어: 재다
     품사: 동사
 ---
 000_KEYWORD: 재다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24914
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2139,13 +2139,13 @@ imported:
     - 발음: 재ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/24914_jae-ni.wav
       형태: 재니
-processed:
+result:
   맞춤법 검사:
     표제어: 재다
     품사: 동사
 ---
 000_KEYWORD: 재다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74471
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2211,13 +2211,13 @@ imported:
     - 발음: 재ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jae-ni.wav
       형태: 재니
-processed:
+result:
   맞춤법 검사:
     표제어: 재다
     품사: 동사
 ---
 000_KEYWORD: 재다__동사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74472
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2256,13 +2256,13 @@ imported:
     - 발음: 재ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jae-ni.wav
       형태: 재니
-processed:
+result:
   맞춤법 검사:
     표제어: 재다
     품사: 동사
 ---
 000_KEYWORD: 재다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74473
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2328,13 +2328,13 @@ imported:
       형태: 재니
     - 발음: 잼ː니다
       형태: 잽니다
-processed:
+result:
   맞춤법 검사:
     표제어: 재다
     품사: 형용사
 ---
 000_KEYWORD: 재단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93492
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2378,13 +2378,13 @@ imported:
     표제어: 재단
     품사: 명사
     항목ID: 93492
-processed:
+result:
   맞춤법 검사:
     표제어: 재단
     품사: 명사
 ---
 000_KEYWORD: 재단__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74474
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2425,13 +2425,13 @@ imported:
     표제어: 재단
     품사: 명사
     항목ID: 74474
-processed:
+result:
   맞춤법 검사:
     표제어: 재단
     품사: 명사
 ---
 000_KEYWORD: 재단사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2440,13 +2440,13 @@ imported:
     표제어: 재단사
     품사: 명사:보통:비서술성
     항목ID: 22705
-processed:
+result:
   맞춤법 검사:
     표제어: 재단사
     품사: 명사
 ---
 000_KEYWORD: 재단하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74475
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2490,13 +2490,13 @@ imported:
     표제어: 재단하다
     품사: 동사
     항목ID: 74475
-processed:
+result:
   맞춤법 검사:
     표제어: 재단하다
     품사: 동사
 ---
 000_KEYWORD: 재담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74476
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2529,13 +2529,13 @@ imported:
     표제어: 재담
     품사: 명사
     항목ID: 74476
-processed:
+result:
   맞춤법 검사:
     표제어: 재담
     품사: 명사
 ---
 000_KEYWORD: 재대결__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2544,13 +2544,13 @@ imported:
     표제어: 재대결
     품사: 명사:보통:서술성
     항목ID: 22707
-processed:
+result:
   맞춤법 검사:
     표제어: 재대결
     품사: 명사
 ---
 000_KEYWORD: 재동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74477
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2577,13 +2577,13 @@ imported:
     표제어: 재동
     품사: 명사
     항목ID: 74477
-processed:
+result:
   맞춤법 검사:
     표제어: 재동
     품사: 명사
 ---
 000_KEYWORD: 재등록__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74478
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2621,13 +2621,13 @@ imported:
     - 발음: 재ː등농만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74478_jae-deungnongman.wav
       형태: 재등록만
-processed:
+result:
   맞춤법 검사:
     표제어: 재등록
     품사: 명사
 ---
 000_KEYWORD: 재떨이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74479
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2659,13 +2659,13 @@ imported:
     표제어: 재떨이
     품사: 명사
     항목ID: 74479
-processed:
+result:
   맞춤법 검사:
     표제어: 재떨이
     품사: 명사
 ---
 000_KEYWORD: 재래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74480
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2699,13 +2699,13 @@ imported:
     표제어: 재래
     품사: 명사
     항목ID: 74480
-processed:
+result:
   맞춤법 검사:
     표제어: 재래
     품사: 명사
 ---
 000_KEYWORD: 재래시장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74481
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2739,13 +2739,13 @@ imported:
     표제어: 재래시장
     품사: 명사
     항목ID: 74481
-processed:
+result:
   맞춤법 검사:
     표제어: 재래시장
     품사: 명사
 ---
 000_KEYWORD: 재래식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74482
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2785,13 +2785,13 @@ imported:
     - 발음: 재ː래싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74482_jae-raesingman.wav
       형태: 재래식만
-processed:
+result:
   맞춤법 검사:
     표제어: 재래식
     품사: 명사
 ---
 000_KEYWORD: 재래종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74483
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2828,13 +2828,13 @@ imported:
     표제어: 재래종
     품사: 명사
     항목ID: 74483
-processed:
+result:
   맞춤법 검사:
     표제어: 재래종
     품사: 명사
 ---
 000_KEYWORD: 재량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74484
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2865,13 +2865,13 @@ imported:
     표제어: 재량
     품사: 명사
     항목ID: 74484
-processed:
+result:
   맞춤법 검사:
     표제어: 재량
     품사: 명사
 ---
 000_KEYWORD: 재량권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74485
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2900,13 +2900,13 @@ imported:
     표제어: 재량권
     품사: 명사
     항목ID: 74485
-processed:
+result:
   맞춤법 검사:
     표제어: 재량권
     품사: 명사
 ---
 000_KEYWORD: 재력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74486
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2949,13 +2949,13 @@ imported:
     - 발음: 재령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74486_jaeryeongman.wav
       형태: 재력만
-processed:
+result:
   맞춤법 검사:
     표제어: 재력
     품사: 명사
 ---
 000_KEYWORD: 재력가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74487
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2989,13 +2989,13 @@ imported:
     표제어: 재력가
     품사: 명사
     항목ID: 74487
-processed:
+result:
   맞춤법 검사:
     표제어: 재력가
     품사: 명사
 ---
 000_KEYWORD: 재론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74488
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3024,13 +3024,13 @@ imported:
     표제어: 재론
     품사: 명사
     항목ID: 74488
-processed:
+result:
   맞춤법 검사:
     표제어: 재론
     품사: 명사
 ---
 000_KEYWORD: 재론되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74489
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3061,13 +3061,13 @@ imported:
     표제어: 재론되다
     품사: 동사
     항목ID: 74489
-processed:
+result:
   맞춤법 검사:
     표제어: 재론되다
     품사: 동사
 ---
 000_KEYWORD: 재론하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74490
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3097,13 +3097,13 @@ imported:
     표제어: 재론하다
     품사: 동사
     항목ID: 74490
-processed:
+result:
   맞춤법 검사:
     표제어: 재론하다
     품사: 동사
 ---
 000_KEYWORD: 재롱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74491
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3142,13 +3142,13 @@ imported:
     표제어: 재롱
     품사: 명사
     항목ID: 74491
-processed:
+result:
   맞춤법 검사:
     표제어: 재롱
     품사: 명사
 ---
 000_KEYWORD: 재료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71211
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3203,13 +3203,13 @@ imported:
     표제어: 재료
     품사: 명사
     항목ID: 71211
-processed:
+result:
   맞춤법 검사:
     표제어: 재료
     품사: 명사
 ---
 000_KEYWORD: 재림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74492
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3252,13 +3252,13 @@ imported:
     표제어: 재림
     품사: 명사
     항목ID: 74492
-processed:
+result:
   맞춤법 검사:
     표제어: 재림
     품사: 명사
 ---
 000_KEYWORD: 재림하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74493
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3299,13 +3299,13 @@ imported:
     표제어: 재림하다
     품사: 동사
     항목ID: 74493
-processed:
+result:
   맞춤법 검사:
     표제어: 재림하다
     품사: 동사
 ---
 000_KEYWORD: 재목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74494
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3358,13 +3358,13 @@ imported:
     - 발음: 재몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74494_jaemongman.wav
       형태: 재목만
-processed:
+result:
   맞춤법 검사:
     표제어: 재목
     품사: 명사
 ---
 000_KEYWORD: 재무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74495
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3396,13 +3396,13 @@ imported:
     표제어: 재무
     품사: 명사
     항목ID: 74495
-processed:
+result:
   맞춤법 검사:
     표제어: 재무
     품사: 명사
 ---
 000_KEYWORD: 재무장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3411,13 +3411,13 @@ imported:
     표제어: 재무장
     품사: 명사:보통:서술성
     항목ID: 22721
-processed:
+result:
   맞춤법 검사:
     표제어: 재무장
     품사: 명사
 ---
 000_KEYWORD: 재무제표__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3426,13 +3426,13 @@ imported:
     표제어: 재무제표
     품사: 명사:보통:서술성
     항목ID: 22722
-processed:
+result:
   맞춤법 검사:
     표제어: 재무제표
     품사: 명사
 ---
 000_KEYWORD: 재물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74496
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3471,13 +3471,13 @@ imported:
     표제어: 재물
     품사: 명사
     항목ID: 74496
-processed:
+result:
   맞춤법 검사:
     표제어: 재물
     품사: 명사
 ---
 000_KEYWORD: 재미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75754
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3532,13 +3532,13 @@ imported:
     표제어: 재미
     품사: 명사
     항목ID: 75754
-processed:
+result:
   맞춤법 검사:
     표제어: 재미
     품사: 명사
 ---
 000_KEYWORD: 재미__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74497
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3568,13 +3568,13 @@ imported:
     표제어: 재미
     품사: 명사
     항목ID: 74497
-processed:
+result:
   맞춤법 검사:
     표제어: 재미
     품사: 명사
 ---
 000_KEYWORD: 재미교포__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3583,13 +3583,13 @@ imported:
     표제어: 재미교포
     품사: 명사:보통:비서술성
     항목ID: 22725
-processed:
+result:
   맞춤법 검사:
     표제어: 재미교포
     품사: 명사
 ---
 000_KEYWORD: 재미나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74498
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3628,13 +3628,13 @@ imported:
     활용:
     - 형태: 재미나
     - 형태: 재미나니
-processed:
+result:
   맞춤법 검사:
     표제어: 재미나다
     품사: 동사
 ---
 000_KEYWORD: 재미없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57315
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3696,13 +3696,13 @@ imported:
     - 발음: 재미업찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/57315_jaemieopjji.wav
       형태: 재미없지
-processed:
+result:
   맞춤법 검사:
     표제어: 재미없다
     품사: 형용사
 ---
 000_KEYWORD: 재미있다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71212
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3761,13 +3761,13 @@ imported:
       형태: 재미있으니
     - 발음: 재미읻씀니다
       형태: 재미있습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 재미있다
     품사: 형용사
 ---
 000_KEYWORD: 재밌다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24916
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3813,13 +3813,13 @@ imported:
       형태: 재밌으니
     - 발음: 재믿씀니다
       형태: 재밌습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 재밌다
     품사: 형용사
 ---
 000_KEYWORD: 재발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74623
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3860,13 +3860,13 @@ imported:
     표제어: 재발
     품사: 명사
     항목ID: 74623
-processed:
+result:
   맞춤법 검사:
     표제어: 재발
     품사: 명사
 ---
 000_KEYWORD: 재발견__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74613
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3895,13 +3895,13 @@ imported:
     표제어: 재발견
     품사: 명사
     항목ID: 74613
-processed:
+result:
   맞춤법 검사:
     표제어: 재발견
     품사: 명사
 ---
 000_KEYWORD: 재발견되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74617
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3931,13 +3931,13 @@ imported:
     표제어: 재발견되다
     품사: 동사
     항목ID: 74617
-processed:
+result:
   맞춤법 검사:
     표제어: 재발견되다
     품사: 동사
 ---
 000_KEYWORD: 재발견하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74620
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3967,13 +3967,13 @@ imported:
     표제어: 재발견하다
     품사: 동사
     항목ID: 74620
-processed:
+result:
   맞춤법 검사:
     표제어: 재발견하다
     품사: 동사
 ---
 000_KEYWORD: 재발급__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3982,13 +3982,13 @@ imported:
     표제어: 재발급
     품사: 명사:보통:서술성
     항목ID: 22734
-processed:
+result:
   맞춤법 검사:
     표제어: 재발급
     품사: 명사
 ---
 000_KEYWORD: 재발되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74628
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4029,13 +4029,13 @@ imported:
     표제어: 재발되다
     품사: 동사
     항목ID: 74628
-processed:
+result:
   맞춤법 검사:
     표제어: 재발되다
     품사: 동사
 ---
 000_KEYWORD: 재발하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74631
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4074,13 +4074,13 @@ imported:
     표제어: 재발하다
     품사: 동사
     항목ID: 74631
-processed:
+result:
   맞춤법 검사:
     표제어: 재발하다
     품사: 동사
 ---
 000_KEYWORD: 재방송__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74636
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4109,13 +4109,13 @@ imported:
     표제어: 재방송
     품사: 명사
     항목ID: 74636
-processed:
+result:
   맞춤법 검사:
     표제어: 재방송
     품사: 명사
 ---
 000_KEYWORD: 재방송되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74639
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4146,13 +4146,13 @@ imported:
     표제어: 재방송되다
     품사: 동사
     항목ID: 74639
-processed:
+result:
   맞춤법 검사:
     표제어: 재방송되다
     품사: 동사
 ---
 000_KEYWORD: 재방송하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74642
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4182,13 +4182,13 @@ imported:
     표제어: 재방송하다
     품사: 동사
     항목ID: 74642
-processed:
+result:
   맞춤법 검사:
     표제어: 재방송하다
     품사: 동사
 ---
 000_KEYWORD: 재배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74647
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4220,13 +4220,13 @@ imported:
     표제어: 재배
     품사: 명사
     항목ID: 74647
-processed:
+result:
   맞춤법 검사:
     표제어: 재배
     품사: 명사
 ---
 000_KEYWORD: 재배__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74651
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4264,13 +4264,13 @@ imported:
     표제어: 재배
     품사: 명사
     항목ID: 74651
-processed:
+result:
   맞춤법 검사:
     표제어: 재배
     품사: 명사
 ---
 000_KEYWORD: 재배되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74653
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4300,13 +4300,13 @@ imported:
     표제어: 재배되다
     품사: 동사
     항목ID: 74653
-processed:
+result:
   맞춤법 검사:
     표제어: 재배되다
     품사: 동사
 ---
 000_KEYWORD: 재배지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74655
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4338,13 +4338,13 @@ imported:
     표제어: 재배지
     품사: 명사
     항목ID: 74655
-processed:
+result:
   맞춤법 검사:
     표제어: 재배지
     품사: 명사
 ---
 000_KEYWORD: 재배치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74656
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4380,13 +4380,13 @@ imported:
     표제어: 재배치
     품사: 명사
     항목ID: 74656
-processed:
+result:
   맞춤법 검사:
     표제어: 재배치
     품사: 명사
 ---
 000_KEYWORD: 재배포__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4395,13 +4395,13 @@ imported:
     표제어: 재배포
     품사: 명사:보통:서술성
     항목ID: 22739
-processed:
+result:
   맞춤법 검사:
     표제어: 재배포
     품사: 명사
 ---
 000_KEYWORD: 재배포하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4410,13 +4410,13 @@ imported:
     표제어: 재배포하다
     품사: 동사
     항목ID: 22740
-processed:
+result:
   맞춤법 검사:
     표제어: 재배포하다
     품사: 동사
 ---
 000_KEYWORD: 재배하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74654
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4444,13 +4444,13 @@ imported:
     표제어: 재배하다
     품사: 동사
     항목ID: 74654
-processed:
+result:
   맞춤법 검사:
     표제어: 재배하다
     품사: 동사
 ---
 000_KEYWORD: 재벌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74657
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4484,13 +4484,13 @@ imported:
     표제어: 재벌
     품사: 명사
     항목ID: 74657
-processed:
+result:
   맞춤법 검사:
     표제어: 재벌
     품사: 명사
 ---
 000_KEYWORD: 재벌가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74658
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4520,13 +4520,13 @@ imported:
     표제어: 재벌가
     품사: 명사
     항목ID: 74658
-processed:
+result:
   맞춤법 검사:
     표제어: 재벌가
     품사: 명사
 ---
 000_KEYWORD: 재범__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74659
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4557,13 +4557,13 @@ imported:
     표제어: 재범
     품사: 명사
     항목ID: 74659
-processed:
+result:
   맞춤법 검사:
     표제어: 재범
     품사: 명사
 ---
 000_KEYWORD: 재보선__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4572,13 +4572,13 @@ imported:
     표제어: 재보선
     품사: 명사:보통:서술성
     항목ID: 22744
-processed:
+result:
   맞춤법 검사:
     표제어: 재보선
     품사: 명사
 ---
 000_KEYWORD: 재복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74677
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4626,13 +4626,13 @@ imported:
     - 발음: 재봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74677_jaebongman.wav
       형태: 재복만
-processed:
+result:
   맞춤법 검사:
     표제어: 재복
     품사: 명사
 ---
 000_KEYWORD: 재봉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74662
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4665,13 +4665,13 @@ imported:
     표제어: 재봉
     품사: 명사
     항목ID: 74662
-processed:
+result:
   맞춤법 검사:
     표제어: 재봉
     품사: 명사
 ---
 000_KEYWORD: 재봉사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74667
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4699,13 +4699,13 @@ imported:
     표제어: 재봉사
     품사: 명사
     항목ID: 74667
-processed:
+result:
   맞춤법 검사:
     표제어: 재봉사
     품사: 명사
 ---
 000_KEYWORD: 재봉틀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74671
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4744,13 +4744,13 @@ imported:
     표제어: 재봉틀
     품사: 명사
     항목ID: 74671
-processed:
+result:
   맞춤법 검사:
     표제어: 재봉틀
     품사: 명사
 ---
 000_KEYWORD: 재봉하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4760,13 +4760,13 @@ imported:
     표제어: 재봉하다
     품사: 동사
     항목ID: 22747
-processed:
+result:
   맞춤법 검사:
     표제어: 재봉하다
     품사: 동사
 ---
 000_KEYWORD: 재분류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74674
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4794,13 +4794,13 @@ imported:
     표제어: 재분류
     품사: 명사
     항목ID: 74674
-processed:
+result:
   맞춤법 검사:
     표제어: 재분류
     품사: 명사
 ---
 000_KEYWORD: 재분류되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4809,13 +4809,13 @@ imported:
     표제어: 재분류되다
     품사: 동사
     항목ID: 22749
-processed:
+result:
   맞춤법 검사:
     표제어: 재분류되다
     품사: 동사
 ---
 000_KEYWORD: 재분류하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74237
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4842,13 +4842,13 @@ imported:
     표제어: 재분류하다
     품사: 동사
     항목ID: 74237
-processed:
+result:
   맞춤법 검사:
     표제어: 재분류하다
     품사: 동사
 ---
 000_KEYWORD: 재분배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74238
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4876,13 +4876,13 @@ imported:
     표제어: 재분배
     품사: 명사
     항목ID: 74238
-processed:
+result:
   맞춤법 검사:
     표제어: 재분배
     품사: 명사
 ---
 000_KEYWORD: 재분배되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4891,13 +4891,13 @@ imported:
     표제어: 재분배되다
     품사: 동사
     항목ID: 22752
-processed:
+result:
   맞춤법 검사:
     표제어: 재분배되다
     품사: 동사
 ---
 000_KEYWORD: 재분배하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74239
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4925,13 +4925,13 @@ imported:
     표제어: 재분배하다
     품사: 동사
     항목ID: 74239
-processed:
+result:
   맞춤법 검사:
     표제어: 재분배하다
     품사: 동사
 ---
 000_KEYWORD: 재빠르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74240
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4971,7 +4971,7 @@ imported:
       형태: 재빠르니
     - 발음: 재빠름니다
       형태: 재빠릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -4979,7 +4979,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 재빨리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24920
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5008,13 +5008,13 @@ imported:
     표제어: 재빨리
     품사: 부사
     항목ID: 24920
-processed:
+result:
   맞춤법 검사:
     표제어: 재빨리
     품사: 부사
 ---
 000_KEYWORD: 재산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62097
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5056,13 +5056,13 @@ imported:
     표제어: 재산
     품사: 명사
     항목ID: 62097
-processed:
+result:
   맞춤법 검사:
     표제어: 재산
     품사: 명사
 ---
 000_KEYWORD: 재산가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74241
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5100,13 +5100,13 @@ imported:
     표제어: 재산가
     품사: 명사
     항목ID: 74241
-processed:
+result:
   맞춤법 검사:
     표제어: 재산가
     품사: 명사
 ---
 000_KEYWORD: 재산권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74242
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5132,13 +5132,13 @@ imported:
     표제어: 재산권
     품사: 명사
     항목ID: 74242
-processed:
+result:
   맞춤법 검사:
     표제어: 재산권
     품사: 명사
 ---
 000_KEYWORD: 재산세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74243
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5164,13 +5164,13 @@ imported:
     표제어: 재산세
     품사: 명사
     항목ID: 74243
-processed:
+result:
   맞춤법 검사:
     표제어: 재산세
     품사: 명사
 ---
 000_KEYWORD: 재삼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74244
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5197,13 +5197,13 @@ imported:
     표제어: 재삼
     품사: 부사
     항목ID: 74244
-processed:
+result:
   맞춤법 검사:
     표제어: 재삼
     품사: 부사
 ---
 000_KEYWORD: 재색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74246
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5239,13 +5239,13 @@ imported:
     - 발음: 재생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74246_jaesaengman.wav
       형태: 재색만
-processed:
+result:
   맞춤법 검사:
     표제어: 재색
     품사: 명사
 ---
 000_KEYWORD: 재색__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74247
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5282,13 +5282,13 @@ imported:
     - 발음: 재생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74246_jaesaengman.wav
       형태: 재색만
-processed:
+result:
   맞춤법 검사:
     표제어: 재색
     품사: 명사
 ---
 000_KEYWORD: 재생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24927
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5364,13 +5364,13 @@ imported:
     표제어: 재생
     품사: 명사
     항목ID: 24927
-processed:
+result:
   맞춤법 검사:
     표제어: 재생
     품사: 명사
 ---
 000_KEYWORD: 재생되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74248
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5439,13 +5439,13 @@ imported:
     표제어: 재생되다
     품사: 동사
     항목ID: 74248
-processed:
+result:
   맞춤법 검사:
     표제어: 재생되다
     품사: 동사
 ---
 000_KEYWORD: 재생산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74249
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5472,13 +5472,13 @@ imported:
     표제어: 재생산
     품사: 명사
     항목ID: 74249
-processed:
+result:
   맞춤법 검사:
     표제어: 재생산
     품사: 명사
 ---
 000_KEYWORD: 재생하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74250
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5553,13 +5553,13 @@ imported:
     표제어: 재생하다
     품사: 동사
     항목ID: 74250
-processed:
+result:
   맞춤법 검사:
     표제어: 재생하다
     품사: 동사
 ---
 000_KEYWORD: 재석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74251
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5606,13 +5606,13 @@ imported:
     - 발음: 재ː성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74251_jae-seongman.wav
       형태: 재석만
-processed:
+result:
   맞춤법 검사:
     표제어: 재석
     품사: 명사
 ---
 000_KEYWORD: 재선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74252
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5654,13 +5654,13 @@ imported:
     표제어: 재선
     품사: 명사
     항목ID: 74252
-processed:
+result:
   맞춤법 검사:
     표제어: 재선
     품사: 명사
 ---
 000_KEYWORD: 재선거__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74256
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5690,13 +5690,13 @@ imported:
     표제어: 재선거
     품사: 명사
     항목ID: 74256
-processed:
+result:
   맞춤법 검사:
     표제어: 재선거
     품사: 명사
 ---
 000_KEYWORD: 재선되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74253
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5725,13 +5725,13 @@ imported:
     표제어: 재선되다
     품사: 동사
     항목ID: 74253
-processed:
+result:
   맞춤법 검사:
     표제어: 재선되다
     품사: 동사
 ---
 000_KEYWORD: 재선하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74254
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5770,13 +5770,13 @@ imported:
     표제어: 재선하다
     품사: 동사
     항목ID: 74254
-processed:
+result:
   맞춤법 검사:
     표제어: 재선하다
     품사: 동사
 ---
 000_KEYWORD: 재소자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74257
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5804,13 +5804,13 @@ imported:
     표제어: 재소자
     품사: 명사
     항목ID: 74257
-processed:
+result:
   맞춤법 검사:
     표제어: 재소자
     품사: 명사
 ---
 000_KEYWORD: 재수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74258
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5843,13 +5843,13 @@ imported:
     표제어: 재수
     품사: 명사
     항목ID: 74258
-processed:
+result:
   맞춤법 검사:
     표제어: 재수
     품사: 명사
 ---
 000_KEYWORD: 재수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24931
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5877,13 +5877,13 @@ imported:
     표제어: 재수
     품사: 명사
     항목ID: 24931
-processed:
+result:
   맞춤법 검사:
     표제어: 재수
     품사: 명사
 ---
 000_KEYWORD: 재수강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74259
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5911,13 +5911,13 @@ imported:
     표제어: 재수강
     품사: 명사
     항목ID: 74259
-processed:
+result:
   맞춤법 검사:
     표제어: 재수강
     품사: 명사
 ---
 000_KEYWORD: 재수사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74260
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5945,13 +5945,13 @@ imported:
     표제어: 재수사
     품사: 명사
     항목ID: 74260
-processed:
+result:
   맞춤법 검사:
     표제어: 재수사
     품사: 명사
 ---
 000_KEYWORD: 재수생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74261
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5977,13 +5977,13 @@ imported:
     표제어: 재수생
     품사: 명사
     항목ID: 74261
-processed:
+result:
   맞춤법 검사:
     표제어: 재수생
     품사: 명사
 ---
 000_KEYWORD: 재수술__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5992,13 +5992,13 @@ imported:
     표제어: 재수술
     품사: 명사:보통:비서술성
     항목ID: 22766
-processed:
+result:
   맞춤법 검사:
     표제어: 재수술
     품사: 명사
 ---
 000_KEYWORD: 재수하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74262
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6031,13 +6031,13 @@ imported:
     표제어: 재수하다
     품사: 동사
     항목ID: 74262
-processed:
+result:
   맞춤법 검사:
     표제어: 재수하다
     품사: 동사
 ---
 000_KEYWORD: 재스민__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6048,13 +6048,13 @@ imported:
     표제어: 재스민
     품사: 명사:보통:비서술성
     항목ID: 22768
-processed:
+result:
   맞춤법 검사:
     표제어: 재스민
     품사: 명사
 ---
 000_KEYWORD: 재시험__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74263
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6095,13 +6095,13 @@ imported:
     표제어: 재시험
     품사: 명사
     항목ID: 74263
-processed:
+result:
   맞춤법 검사:
     표제어: 재시험
     품사: 명사
 ---
 000_KEYWORD: 재신임__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6110,13 +6110,13 @@ imported:
     표제어: 재신임
     품사: 명사:보통:서술성
     항목ID: 22769
-processed:
+result:
   맞춤법 검사:
     표제어: 재신임
     품사: 명사
 ---
 000_KEYWORD: 재심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74264
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6161,13 +6161,13 @@ imported:
     표제어: 재심
     품사: 명사
     항목ID: 74264
-processed:
+result:
   맞춤법 검사:
     표제어: 재심
     품사: 명사
 ---
 000_KEYWORD: 재심사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74265
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6199,13 +6199,13 @@ imported:
     표제어: 재심사
     품사: 명사
     항목ID: 74265
-processed:
+result:
   맞춤법 검사:
     표제어: 재심사
     품사: 명사
 ---
 000_KEYWORD: 재심하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74266
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6248,13 +6248,13 @@ imported:
     표제어: 재심하다
     품사: 동사
     항목ID: 74266
-processed:
+result:
   맞춤법 검사:
     표제어: 재심하다
     품사: 동사
 ---
 000_KEYWORD: 재앙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74267
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6283,13 +6283,13 @@ imported:
     표제어: 재앙
     품사: 명사
     항목ID: 74267
-processed:
+result:
   맞춤법 검사:
     표제어: 재앙
     품사: 명사
 ---
 000_KEYWORD: 재야__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74268
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6326,13 +6326,13 @@ imported:
     표제어: 재야
     품사: 명사
     항목ID: 74268
-processed:
+result:
   맞춤법 검사:
     표제어: 재야
     품사: 명사
 ---
 000_KEYWORD: 재야인사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74269
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6370,13 +6370,13 @@ imported:
     표제어: 재야인사
     품사: 명사
     항목ID: 74269
-processed:
+result:
   맞춤법 검사:
     표제어: 재야인사
     품사: 명사
 ---
 000_KEYWORD: 재연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74270
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6413,13 +6413,13 @@ imported:
     표제어: 재연
     품사: 명사
     항목ID: 74270
-processed:
+result:
   맞춤법 검사:
     표제어: 재연
     품사: 명사
 ---
 000_KEYWORD: 재연되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74271
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6460,13 +6460,13 @@ imported:
     표제어: 재연되다
     품사: 동사
     항목ID: 74271
-processed:
+result:
   맞춤법 검사:
     표제어: 재연되다
     품사: 동사
 ---
 000_KEYWORD: 재연하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74272
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6505,13 +6505,13 @@ imported:
     표제어: 재연하다
     품사: 동사
     항목ID: 74272
-processed:
+result:
   맞춤법 검사:
     표제어: 재연하다
     품사: 동사
 ---
 000_KEYWORD: 재외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74273
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6541,13 +6541,13 @@ imported:
     표제어: 재외
     품사: 명사
     항목ID: 74273
-processed:
+result:
   맞춤법 검사:
     표제어: 재외
     품사: 명사
 ---
 000_KEYWORD: 재우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24937
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6616,13 +6616,13 @@ imported:
     활용:
     - 형태: 재우어
     - 형태: 재우니
-processed:
+result:
   맞춤법 검사:
     표제어: 재우다
     품사: 동사
 ---
 000_KEYWORD: 재우다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74274
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6653,13 +6653,13 @@ imported:
     활용:
     - 형태: 재우어
     - 형태: 재우니
-processed:
+result:
   맞춤법 검사:
     표제어: 재우다
     품사: 동사
 ---
 000_KEYWORD: 재원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74276
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6686,13 +6686,13 @@ imported:
     표제어: 재원
     품사: 명사
     항목ID: 74276
-processed:
+result:
   맞춤법 검사:
     표제어: 재원
     품사: 명사
 ---
 000_KEYWORD: 재원__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74275
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6722,13 +6722,13 @@ imported:
     표제어: 재원
     품사: 명사
     항목ID: 74275
-processed:
+result:
   맞춤법 검사:
     표제어: 재원
     품사: 명사
 ---
 000_KEYWORD: 재위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74277
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6753,13 +6753,13 @@ imported:
     표제어: 재위
     품사: 명사
     항목ID: 74277
-processed:
+result:
   맞춤법 검사:
     표제어: 재위
     품사: 명사
 ---
 000_KEYWORD: 재위하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74278
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6786,13 +6786,13 @@ imported:
     표제어: 재위하다
     품사: 동사
     항목ID: 74278
-processed:
+result:
   맞춤법 검사:
     표제어: 재위하다
     품사: 동사
 ---
 000_KEYWORD: 재의__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6801,13 +6801,13 @@ imported:
     표제어: 재의
     품사: 명사:보통:서술성
     항목ID: 32059
-processed:
+result:
   맞춤법 검사:
     표제어: 재의
     품사: 명사
 ---
 000_KEYWORD: 재인식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74279
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6845,13 +6845,13 @@ imported:
     - 발음: 재ː인싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74279_jae-insingman.wav
       형태: 재인식만
-processed:
+result:
   맞춤법 검사:
     표제어: 재인식
     품사: 명사
 ---
 000_KEYWORD: 재인식되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74280
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6881,13 +6881,13 @@ imported:
     표제어: 재인식되다
     품사: 동사
     항목ID: 74280
-processed:
+result:
   맞춤법 검사:
     표제어: 재인식되다
     품사: 동사
 ---
 000_KEYWORD: 재인식하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74281
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6916,13 +6916,13 @@ imported:
     표제어: 재인식하다
     품사: 동사
     항목ID: 74281
-processed:
+result:
   맞춤법 검사:
     표제어: 재인식하다
     품사: 동사
 ---
 000_KEYWORD: 재일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74282
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6951,13 +6951,13 @@ imported:
     표제어: 재일
     품사: 명사
     항목ID: 74282
-processed:
+result:
   맞춤법 검사:
     표제어: 재일
     품사: 명사
 ---
 000_KEYWORD: 재임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74283
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6984,13 +6984,13 @@ imported:
     표제어: 재임
     품사: 명사
     항목ID: 74283
-processed:
+result:
   맞춤법 검사:
     표제어: 재임
     품사: 명사
 ---
 000_KEYWORD: 재임용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74284
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7019,13 +7019,13 @@ imported:
     표제어: 재임용
     품사: 명사
     항목ID: 74284
-processed:
+result:
   맞춤법 검사:
     표제어: 재임용
     품사: 명사
 ---
 000_KEYWORD: 재임용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74285
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7056,13 +7056,13 @@ imported:
     표제어: 재임용되다
     품사: 동사
     항목ID: 74285
-processed:
+result:
   맞춤법 검사:
     표제어: 재임용되다
     품사: 동사
 ---
 000_KEYWORD: 재임용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74286
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7089,13 +7089,13 @@ imported:
     표제어: 재임용하다
     품사: 동사
     항목ID: 74286
-processed:
+result:
   맞춤법 검사:
     표제어: 재임용하다
     품사: 동사
 ---
 000_KEYWORD: 재임하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7104,13 +7104,13 @@ imported:
     표제어: 재임하다
     품사: 동사
     항목ID: 22780
-processed:
+result:
   맞춤법 검사:
     표제어: 재임하다
     품사: 동사
 ---
 000_KEYWORD: 재입국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74287
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7148,13 +7148,13 @@ imported:
     - 발음: 재ː입꿍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74287_jae-ipkkungman.wav
       형태: 재입국만
-processed:
+result:
   맞춤법 검사:
     표제어: 재입국
     품사: 명사
 ---
 000_KEYWORD: 재입학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74726
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7193,13 +7193,13 @@ imported:
     - 발음: 재ː이팡만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74726_jae-ipangman.wav
       형태: 재입학만
-processed:
+result:
   맞춤법 검사:
     표제어: 재입학
     품사: 명사
 ---
 000_KEYWORD: 재작년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24950
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7228,13 +7228,13 @@ imported:
     표제어: 재작년
     품사: 명사
     항목ID: 24950
-processed:
+result:
   맞춤법 검사:
     표제어: 재작년
     품사: 명사
 ---
 000_KEYWORD: 재잘거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74729
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7292,13 +7292,13 @@ imported:
     표제어: 재잘거리다
     품사: 동사
     항목ID: 74729
-processed:
+result:
   맞춤법 검사:
     표제어: 재잘거리다
     품사: 동사
 ---
 000_KEYWORD: 재잘대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89497
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7354,13 +7354,13 @@ imported:
     표제어: 재잘대다
     품사: 동사
     항목ID: 89497
-processed:
+result:
   맞춤법 검사:
     표제어: 재잘대다
     품사: 동사
 ---
 000_KEYWORD: 재잘재잘__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74730
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7404,13 +7404,13 @@ imported:
     표제어: 재잘재잘
     품사: 부사
     항목ID: 74730
-processed:
+result:
   맞춤법 검사:
     표제어: 재잘재잘
     품사: 부사
 ---
 000_KEYWORD: 재잘재잘하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89498
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7465,13 +7465,13 @@ imported:
     표제어: 재잘재잘하다
     품사: 동사
     항목ID: 89498
-processed:
+result:
   맞춤법 검사:
     표제어: 재잘재잘하다
     품사: 동사
 ---
 000_KEYWORD: 재적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74732
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7512,13 +7512,13 @@ imported:
     - 발음: 재ː정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74732_jae-jeongman.wav
       형태: 재적만
-processed:
+result:
   맞춤법 검사:
     표제어: 재적
     품사: 명사
 ---
 000_KEYWORD: 재적생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74733
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7548,13 +7548,13 @@ imported:
     표제어: 재적생
     품사: 명사
     항목ID: 74733
-processed:
+result:
   맞춤법 검사:
     표제어: 재적생
     품사: 명사
 ---
 000_KEYWORD: 재정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24955
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7590,13 +7590,13 @@ imported:
     표제어: 재정
     품사: 명사
     항목ID: 24955
-processed:
+result:
   맞춤법 검사:
     표제어: 재정
     품사: 명사
 ---
 000_KEYWORD: 재정난__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74734
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7631,13 +7631,13 @@ imported:
     표제어: 재정난
     품사: 명사
     항목ID: 74734
-processed:
+result:
   맞춤법 검사:
     표제어: 재정난
     품사: 명사
 ---
 000_KEYWORD: 재정리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74735
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7666,13 +7666,13 @@ imported:
     표제어: 재정리
     품사: 명사
     항목ID: 74735
-processed:
+result:
   맞춤법 검사:
     표제어: 재정리
     품사: 명사
 ---
 000_KEYWORD: 재정리되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74737
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7703,13 +7703,13 @@ imported:
     표제어: 재정리되다
     품사: 동사
     항목ID: 74737
-processed:
+result:
   맞춤법 검사:
     표제어: 재정리되다
     품사: 동사
 ---
 000_KEYWORD: 재정리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74739
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7741,13 +7741,13 @@ imported:
     표제어: 재정리하다
     품사: 동사
     항목ID: 74739
-processed:
+result:
   맞춤법 검사:
     표제어: 재정리하다
     품사: 동사
 ---
 000_KEYWORD: 재정립__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74742
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7786,13 +7786,13 @@ imported:
     - 발음: 재ː정님만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74742_jae-jeongnimman.wav
       형태: 재정립만
-processed:
+result:
   맞춤법 검사:
     표제어: 재정립
     품사: 명사
 ---
 000_KEYWORD: 재정립되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74744
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7826,13 +7826,13 @@ imported:
     표제어: 재정립되다
     품사: 동사
     항목ID: 74744
-processed:
+result:
   맞춤법 검사:
     표제어: 재정립되다
     품사: 동사
 ---
 000_KEYWORD: 재정립하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74745
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7866,13 +7866,13 @@ imported:
     표제어: 재정립하다
     품사: 동사
     항목ID: 74745
-processed:
+result:
   맞춤법 검사:
     표제어: 재정립하다
     품사: 동사
 ---
 000_KEYWORD: 재정비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74749
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7905,13 +7905,13 @@ imported:
     표제어: 재정비
     품사: 명사
     항목ID: 74749
-processed:
+result:
   맞춤법 검사:
     표제어: 재정비
     품사: 명사
 ---
 000_KEYWORD: 재정비되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74752
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7944,13 +7944,13 @@ imported:
     표제어: 재정비되다
     품사: 동사
     항목ID: 74752
-processed:
+result:
   맞춤법 검사:
     표제어: 재정비되다
     품사: 동사
 ---
 000_KEYWORD: 재정비하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74754
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7981,13 +7981,13 @@ imported:
     표제어: 재정비하다
     품사: 동사
     항목ID: 74754
-processed:
+result:
   맞춤법 검사:
     표제어: 재정비하다
     품사: 동사
 ---
 000_KEYWORD: 재정적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74756
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8019,13 +8019,13 @@ imported:
     표제어: 재정적
     품사: 관형사
     항목ID: 74756
-processed:
+result:
   맞춤법 검사:
     표제어: 재정적
     품사: 관형사
 ---
 000_KEYWORD: 재정적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74758
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8058,13 +8058,13 @@ imported:
     표제어: 재정적
     품사: 명사
     항목ID: 74758
-processed:
+result:
   맞춤법 검사:
     표제어: 재정적
     품사: 명사
 ---
 000_KEYWORD: 재조명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74761
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8096,13 +8096,13 @@ imported:
     표제어: 재조명
     품사: 명사
     항목ID: 74761
-processed:
+result:
   맞춤법 검사:
     표제어: 재조명
     품사: 명사
 ---
 000_KEYWORD: 재조명되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74763
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8133,13 +8133,13 @@ imported:
     표제어: 재조명되다
     품사: 동사
     항목ID: 74763
-processed:
+result:
   맞춤법 검사:
     표제어: 재조명되다
     품사: 동사
 ---
 000_KEYWORD: 재조명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74764
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8169,13 +8169,13 @@ imported:
     표제어: 재조명하다
     품사: 동사
     항목ID: 74764
-processed:
+result:
   맞춤법 검사:
     표제어: 재조명하다
     품사: 동사
 ---
 000_KEYWORD: 재조사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74766
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8210,13 +8210,13 @@ imported:
     표제어: 재조사
     품사: 명사
     항목ID: 74766
-processed:
+result:
   맞춤법 검사:
     표제어: 재조사
     품사: 명사
 ---
 000_KEYWORD: 재조사되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74770
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8248,13 +8248,13 @@ imported:
     표제어: 재조사되다
     품사: 동사
     항목ID: 74770
-processed:
+result:
   맞춤법 검사:
     표제어: 재조사되다
     품사: 동사
 ---
 000_KEYWORD: 재조사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74769
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8283,13 +8283,13 @@ imported:
     표제어: 재조사하다
     품사: 동사
     항목ID: 74769
-processed:
+result:
   맞춤법 검사:
     표제어: 재조사하다
     품사: 동사
 ---
 000_KEYWORD: 재조정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74772
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8323,13 +8323,13 @@ imported:
     표제어: 재조정
     품사: 명사
     항목ID: 74772
-processed:
+result:
   맞춤법 검사:
     표제어: 재조정
     품사: 명사
 ---
 000_KEYWORD: 재조정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74774
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8362,13 +8362,13 @@ imported:
     표제어: 재조정되다
     품사: 동사
     항목ID: 74774
-processed:
+result:
   맞춤법 검사:
     표제어: 재조정되다
     품사: 동사
 ---
 000_KEYWORD: 재조정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74775
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8402,13 +8402,13 @@ imported:
     표제어: 재조정하다
     품사: 동사
     항목ID: 74775
-processed:
+result:
   맞춤법 검사:
     표제어: 재조정하다
     품사: 동사
 ---
 000_KEYWORD: 재조직__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74776
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8455,13 +8455,13 @@ imported:
     - 발음: 재ː조징만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74776_jae-jojingman.wav
       형태: 재조직만
-processed:
+result:
   맞춤법 검사:
     표제어: 재조직
     품사: 명사
 ---
 000_KEYWORD: 재조직되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74777
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8502,13 +8502,13 @@ imported:
     표제어: 재조직되다
     품사: 동사
     항목ID: 74777
-processed:
+result:
   맞춤법 검사:
     표제어: 재조직되다
     품사: 동사
 ---
 000_KEYWORD: 재조직하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74778
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8545,13 +8545,13 @@ imported:
     표제어: 재조직하다
     품사: 동사
     항목ID: 74778
-processed:
+result:
   맞춤법 검사:
     표제어: 재조직하다
     품사: 동사
 ---
 000_KEYWORD: 재종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74780
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8583,13 +8583,13 @@ imported:
     표제어: 재종
     품사: 명사
     항목ID: 74780
-processed:
+result:
   맞춤법 검사:
     표제어: 재종
     품사: 명사
 ---
 000_KEYWORD: 재주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24957
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8629,13 +8629,13 @@ imported:
     표제어: 재주
     품사: 명사
     항목ID: 24957
-processed:
+result:
   맞춤법 검사:
     표제어: 재주
     품사: 명사
 ---
 000_KEYWORD: 재주껏__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74781
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8663,13 +8663,13 @@ imported:
     표제어: 재주껏
     품사: 부사
     항목ID: 74781
-processed:
+result:
   맞춤법 검사:
     표제어: 재주껏
     품사: 부사
 ---
 000_KEYWORD: 재주꾼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74782
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8696,13 +8696,13 @@ imported:
     표제어: 재주꾼
     품사: 명사
     항목ID: 74782
-processed:
+result:
   맞춤법 검사:
     표제어: 재주꾼
     품사: 명사
 ---
 000_KEYWORD: 재주넘기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74783
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8728,13 +8728,13 @@ imported:
     표제어: 재주넘기
     품사: 명사
     항목ID: 74783
-processed:
+result:
   맞춤법 검사:
     표제어: 재주넘기
     품사: 명사
 ---
 000_KEYWORD: 재주넘다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74784
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8771,13 +8771,13 @@ imported:
     - 발음: 재주너므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/74784_jaejuneomeuni.wav
       형태: 재주넘으니
-processed:
+result:
   맞춤법 검사:
     표제어: 재주넘다
     품사: 동사
 ---
 000_KEYWORD: 재즈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24962
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8801,13 +8801,13 @@ imported:
     표제어: 재즈
     품사: 명사
     항목ID: 24962
-processed:
+result:
   맞춤법 검사:
     표제어: 재즈
     품사: 명사
 ---
 000_KEYWORD: 재직__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74785
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8849,13 +8849,13 @@ imported:
     - 발음: 재ː징만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74785_jae-jingman.wav
       형태: 재직만
-processed:
+result:
   맞춤법 검사:
     표제어: 재직
     품사: 명사
 ---
 000_KEYWORD: 재직하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74786
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8887,13 +8887,13 @@ imported:
     표제어: 재직하다
     품사: 동사
     항목ID: 74786
-processed:
+result:
   맞춤법 검사:
     표제어: 재직하다
     품사: 동사
 ---
 000_KEYWORD: 재질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74787
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8940,13 +8940,13 @@ imported:
     표제어: 재질
     품사: 명사
     항목ID: 74787
-processed:
+result:
   맞춤법 검사:
     표제어: 재질
     품사: 명사
 ---
 000_KEYWORD: 재집권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74788
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8977,13 +8977,13 @@ imported:
     표제어: 재집권
     품사: 명사
     항목ID: 74788
-processed:
+result:
   맞춤법 검사:
     표제어: 재집권
     품사: 명사
 ---
 000_KEYWORD: 재차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74789
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9017,13 +9017,13 @@ imported:
     표제어: 재차
     품사: 명사
     항목ID: 74789
-processed:
+result:
   맞춤법 검사:
     표제어: 재차
     품사: 명사
 ---
 000_KEYWORD: 재차__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74358
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9055,13 +9055,13 @@ imported:
     표제어: 재차
     품사: 부사
     항목ID: 74358
-processed:
+result:
   맞춤법 검사:
     표제어: 재차
     품사: 부사
 ---
 000_KEYWORD: 재창조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74359
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9090,13 +9090,13 @@ imported:
     표제어: 재창조
     품사: 명사
     항목ID: 74359
-processed:
+result:
   맞춤법 검사:
     표제어: 재창조
     품사: 명사
 ---
 000_KEYWORD: 재창조하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74360
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9125,13 +9125,13 @@ imported:
     표제어: 재창조하다
     품사: 동사
     항목ID: 74360
-processed:
+result:
   맞춤법 검사:
     표제어: 재창조하다
     품사: 동사
 ---
 000_KEYWORD: 재채기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24966
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9159,13 +9159,13 @@ imported:
     표제어: 재채기
     품사: 명사
     항목ID: 24966
-processed:
+result:
   맞춤법 검사:
     표제어: 재채기
     품사: 명사
 ---
 000_KEYWORD: 재청__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74362
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9223,13 +9223,13 @@ imported:
     표제어: 재청
     품사: 명사
     항목ID: 74362
-processed:
+result:
   맞춤법 검사:
     표제어: 재청
     품사: 명사
 ---
 000_KEYWORD: 재청하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74363
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9284,13 +9284,13 @@ imported:
     표제어: 재청하다
     품사: 동사
     항목ID: 74363
-processed:
+result:
   맞춤법 검사:
     표제어: 재청하다
     품사: 동사
 ---
 000_KEYWORD: 재촉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74364
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9328,13 +9328,13 @@ imported:
     - 발음: 재총만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/74364_jaechongman.wav
       형태: 재촉만
-processed:
+result:
   맞춤법 검사:
     표제어: 재촉
     품사: 명사
 ---
 000_KEYWORD: 재촉하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74365
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9364,13 +9364,13 @@ imported:
     표제어: 재촉하다
     품사: 동사
     항목ID: 74365
-processed:
+result:
   맞춤법 검사:
     표제어: 재촉하다
     품사: 동사
 ---
 000_KEYWORD: 재출발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74366
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9398,13 +9398,13 @@ imported:
     표제어: 재출발
     품사: 명사
     항목ID: 74366
-processed:
+result:
   맞춤법 검사:
     표제어: 재출발
     품사: 명사
 ---
 000_KEYWORD: 재출발하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74367
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9432,13 +9432,13 @@ imported:
     표제어: 재출발하다
     품사: 동사
     항목ID: 74367
-processed:
+result:
   맞춤법 검사:
     표제어: 재출발하다
     품사: 동사
 ---
 000_KEYWORD: 재충전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74368
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9480,13 +9480,13 @@ imported:
     표제어: 재충전
     품사: 명사
     항목ID: 74368
-processed:
+result:
   맞춤법 검사:
     표제어: 재충전
     품사: 명사
 ---
 000_KEYWORD: 재충전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74369
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9527,13 +9527,13 @@ imported:
     표제어: 재충전하다
     품사: 동사
     항목ID: 74369
-processed:
+result:
   맞춤법 검사:
     표제어: 재충전하다
     품사: 동사
 ---
 000_KEYWORD: 재취__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74373
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9573,13 +9573,13 @@ imported:
     표제어: 재취
     품사: 명사
     항목ID: 74373
-processed:
+result:
   맞춤법 검사:
     표제어: 재취
     품사: 명사
 ---
 000_KEYWORD: 재취업__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9588,13 +9588,13 @@ imported:
     표제어: 재취업
     품사: 명사:보통:서술성
     항목ID: 22806
-processed:
+result:
   맞춤법 검사:
     표제어: 재취업
     품사: 명사
 ---
 000_KEYWORD: 재치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74374
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9624,13 +9624,13 @@ imported:
     표제어: 재치
     품사: 명사
     항목ID: 74374
-processed:
+result:
   맞춤법 검사:
     표제어: 재치
     품사: 명사
 ---
 000_KEYWORD: 재킷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74375
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9675,13 +9675,13 @@ imported:
     표제어: 재킷
     품사: 명사
     항목ID: 74375
-processed:
+result:
   맞춤법 검사:
     표제어: 재킷
     품사: 명사
 ---
 000_KEYWORD: 재탄생__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9690,13 +9690,13 @@ imported:
     표제어: 재탄생
     품사: 명사:보통:서술성
     항목ID: 22809
-processed:
+result:
   맞춤법 검사:
     표제어: 재탄생
     품사: 명사
 ---
 000_KEYWORD: 재탈환__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74376
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9724,13 +9724,13 @@ imported:
     표제어: 재탈환
     품사: 명사
     항목ID: 74376
-processed:
+result:
   맞춤법 검사:
     표제어: 재탈환
     품사: 명사
 ---
 000_KEYWORD: 재탕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74377
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9770,13 +9770,13 @@ imported:
     표제어: 재탕
     품사: 명사
     항목ID: 74377
-processed:
+result:
   맞춤법 검사:
     표제어: 재탕
     품사: 명사
 ---
 000_KEYWORD: 재탕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74378
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9815,13 +9815,13 @@ imported:
     표제어: 재탕하다
     품사: 동사
     항목ID: 74378
-processed:
+result:
   맞춤법 검사:
     표제어: 재탕하다
     품사: 동사
 ---
 000_KEYWORD: 재택근무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74379
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9850,13 +9850,13 @@ imported:
     표제어: 재택근무
     품사: 명사
     항목ID: 74379
-processed:
+result:
   맞춤법 검사:
     표제어: 재택근무
     품사: 명사
 ---
 000_KEYWORD: 재털이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92392
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9869,10 +9869,10 @@ imported:
     표제어: 재털이
     품사: 명사
     항목ID: 92392
-processed: {}
+result: {}
 ---
 000_KEYWORD: 재테크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74380
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9900,13 +9900,13 @@ imported:
     표제어: 재테크
     품사: 명사
     항목ID: 74380
-processed:
+result:
   맞춤법 검사:
     표제어: 재테크
     품사: 명사
 ---
 000_KEYWORD: 재투표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74381
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9935,13 +9935,13 @@ imported:
     표제어: 재투표
     품사: 명사
     항목ID: 74381
-processed:
+result:
   맞춤법 검사:
     표제어: 재투표
     품사: 명사
 ---
 000_KEYWORD: 재판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74383
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9990,13 +9990,13 @@ imported:
     표제어: 재판
     품사: 명사
     항목ID: 74383
-processed:
+result:
   맞춤법 검사:
     표제어: 재판
     품사: 명사
 ---
 000_KEYWORD: 재판__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24978
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10028,13 +10028,13 @@ imported:
     표제어: 재판
     품사: 명사
     항목ID: 24978
-processed:
+result:
   맞춤법 검사:
     표제어: 재판
     품사: 명사
 ---
 000_KEYWORD: 재판관__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10043,13 +10043,13 @@ imported:
     표제어: 재판관
     품사: 명사:보통:비서술성
     항목ID: 22815
-processed:
+result:
   맞춤법 검사:
     표제어: 재판관
     품사: 명사
 ---
 000_KEYWORD: 재판권__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10059,13 +10059,13 @@ imported:
     표제어: 재판권
     품사: 명사:보통:서술성
     항목ID: 22816
-processed:
+result:
   맞춤법 검사:
     표제어: 재판권
     품사: 명사
 ---
 000_KEYWORD: 재판부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10074,13 +10074,13 @@ imported:
     표제어: 재판부
     품사: 명사:보통:서술성
     항목ID: 22817
-processed:
+result:
   맞춤법 검사:
     표제어: 재판부
     품사: 명사
 ---
 000_KEYWORD: 재판소__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10089,13 +10089,13 @@ imported:
     표제어: 재판소
     품사: 명사:보통:비서술성
     항목ID: 22818
-processed:
+result:
   맞춤법 검사:
     표제어: 재판소
     품사: 명사
 ---
 000_KEYWORD: 재판정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74384
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10123,13 +10123,13 @@ imported:
     표제어: 재판정
     품사: 명사
     항목ID: 74384
-processed:
+result:
   맞춤법 검사:
     표제어: 재판정
     품사: 명사
 ---
 000_KEYWORD: 재판하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74385
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10158,13 +10158,13 @@ imported:
     표제어: 재판하다
     품사: 동사
     항목ID: 74385
-processed:
+result:
   맞춤법 검사:
     표제어: 재판하다
     품사: 동사
 ---
 000_KEYWORD: 재패__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10173,13 +10173,13 @@ imported:
     표제어: 재패
     품사: 명사:보통:서술성
     항목ID: 22821
-processed:
+result:
   맞춤법 검사:
     표제어: 재패
     품사: 명사
 ---
 000_KEYWORD: 재편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74387
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10211,13 +10211,13 @@ imported:
     표제어: 재편
     품사: 명사
     항목ID: 74387
-processed:
+result:
   맞춤법 검사:
     표제어: 재편
     품사: 명사
 ---
 000_KEYWORD: 재편되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74390
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10252,13 +10252,13 @@ imported:
     표제어: 재편되다
     품사: 동사
     항목ID: 74390
-processed:
+result:
   맞춤법 검사:
     표제어: 재편되다
     품사: 동사
 ---
 000_KEYWORD: 재편성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74392
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10296,13 +10296,13 @@ imported:
     표제어: 재편성
     품사: 명사
     항목ID: 74392
-processed:
+result:
   맞춤법 검사:
     표제어: 재편성
     품사: 명사
 ---
 000_KEYWORD: 재편성되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74393
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10343,13 +10343,13 @@ imported:
     표제어: 재편성되다
     품사: 동사
     항목ID: 74393
-processed:
+result:
   맞춤법 검사:
     표제어: 재편성되다
     품사: 동사
 ---
 000_KEYWORD: 재편성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74394
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10388,13 +10388,13 @@ imported:
     표제어: 재편성하다
     품사: 동사
     항목ID: 74394
-processed:
+result:
   맞춤법 검사:
     표제어: 재편성하다
     품사: 동사
 ---
 000_KEYWORD: 재편하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74391
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10427,13 +10427,13 @@ imported:
     표제어: 재편하다
     품사: 동사
     항목ID: 74391
-processed:
+result:
   맞춤법 검사:
     표제어: 재편하다
     품사: 동사
 ---
 000_KEYWORD: 재평가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74427
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10461,13 +10461,13 @@ imported:
     표제어: 재평가
     품사: 명사
     항목ID: 74427
-processed:
+result:
   맞춤법 검사:
     표제어: 재평가
     품사: 명사
 ---
 000_KEYWORD: 재평가되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74428
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10498,13 +10498,13 @@ imported:
     표제어: 재평가되다
     품사: 동사
     항목ID: 74428
-processed:
+result:
   맞춤법 검사:
     표제어: 재평가되다
     품사: 동사
 ---
 000_KEYWORD: 재평가하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74429
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10533,13 +10533,13 @@ imported:
     표제어: 재평가하다
     품사: 동사
     항목ID: 74429
-processed:
+result:
   맞춤법 검사:
     표제어: 재평가하다
     품사: 동사
 ---
 000_KEYWORD: 재학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24980
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10580,13 +10580,13 @@ imported:
     - 발음: 재ː항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/24980_jae-hangman.wav
       형태: 재학만
-processed:
+result:
   맞춤법 검사:
     표제어: 재학
     품사: 명사
 ---
 000_KEYWORD: 재학생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74430
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10617,13 +10617,13 @@ imported:
     표제어: 재학생
     품사: 명사
     항목ID: 74430
-processed:
+result:
   맞춤법 검사:
     표제어: 재학생
     품사: 명사
 ---
 000_KEYWORD: 재학하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74431
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10652,13 +10652,13 @@ imported:
     표제어: 재학하다
     품사: 동사
     항목ID: 74431
-processed:
+result:
   맞춤법 검사:
     표제어: 재학하다
     품사: 동사
 ---
 000_KEYWORD: 재합류__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10667,13 +10667,13 @@ imported:
     표제어: 재합류
     품사: 명사:보통:서술성
     항목ID: 22829
-processed:
+result:
   맞춤법 검사:
     표제어: 재합류
     품사: 명사
 ---
 000_KEYWORD: 재해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74432
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10705,13 +10705,13 @@ imported:
     표제어: 재해
     품사: 명사
     항목ID: 74432
-processed:
+result:
   맞춤법 검사:
     표제어: 재해
     품사: 명사
 ---
 000_KEYWORD: 재해석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74433
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10747,13 +10747,13 @@ imported:
     - 발음: 재ː해성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/74433_jae-haeseongman.wav
       형태: 재해석만
-processed:
+result:
   맞춤법 검사:
     표제어: 재해석
     품사: 명사
 ---
 000_KEYWORD: 재해석하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74434
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10782,13 +10782,13 @@ imported:
     표제어: 재해석하다
     품사: 동사
     항목ID: 74434
-processed:
+result:
   맞춤법 검사:
     표제어: 재해석하다
     품사: 동사
 ---
 000_KEYWORD: 재현__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74435
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10817,13 +10817,13 @@ imported:
     표제어: 재현
     품사: 명사
     항목ID: 74435
-processed:
+result:
   맞춤법 검사:
     표제어: 재현
     품사: 명사
 ---
 000_KEYWORD: 재현되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74436
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10854,13 +10854,13 @@ imported:
     표제어: 재현되다
     품사: 동사
     항목ID: 74436
-processed:
+result:
   맞춤법 검사:
     표제어: 재현되다
     품사: 동사
 ---
 000_KEYWORD: 재현하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74437
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10889,13 +10889,13 @@ imported:
     표제어: 재현하다
     품사: 동사
     항목ID: 74437
-processed:
+result:
   맞춤법 검사:
     표제어: 재현하다
     품사: 동사
 ---
 000_KEYWORD: 재협상__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10904,13 +10904,13 @@ imported:
     표제어: 재협상
     품사: 명사:보통:비서술성
     항목ID: 22833
-processed:
+result:
   맞춤법 검사:
     표제어: 재협상
     품사: 명사
 ---
 000_KEYWORD: 재혼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74438
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10941,13 +10941,13 @@ imported:
     표제어: 재혼
     품사: 명사
     항목ID: 74438
-processed:
+result:
   맞춤법 검사:
     표제어: 재혼
     품사: 명사
 ---
 000_KEYWORD: 재혼하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74439
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -10977,13 +10977,13 @@ imported:
     표제어: 재혼하다
     품사: 동사
     항목ID: 74439
-processed:
+result:
   맞춤법 검사:
     표제어: 재혼하다
     품사: 동사
 ---
 000_KEYWORD: 재화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74440
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11029,13 +11029,13 @@ imported:
     표제어: 재화
     품사: 명사
     항목ID: 74440
-processed:
+result:
   맞춤법 검사:
     표제어: 재화
     품사: 명사
 ---
 000_KEYWORD: 재확인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74441
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11063,13 +11063,13 @@ imported:
     표제어: 재확인
     품사: 명사
     항목ID: 74441
-processed:
+result:
   맞춤법 검사:
     표제어: 재확인
     품사: 명사
 ---
 000_KEYWORD: 재확인하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74442
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11110,13 +11110,13 @@ imported:
       형태: 재확인하니
     - 발음: 재ː화긴함니다
       형태: 재확인합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 재확인하다
     품사: 동사
 ---
 000_KEYWORD: 재활__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74443
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11159,13 +11159,13 @@ imported:
     표제어: 재활
     품사: 명사
     항목ID: 74443
-processed:
+result:
   맞춤법 검사:
     표제어: 재활
     품사: 명사
 ---
 000_KEYWORD: 재활용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24985
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11195,13 +11195,13 @@ imported:
     표제어: 재활용
     품사: 명사
     항목ID: 24985
-processed:
+result:
   맞춤법 검사:
     표제어: 재활용
     품사: 명사
 ---
 000_KEYWORD: 재활용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74445
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11232,13 +11232,13 @@ imported:
     표제어: 재활용되다
     품사: 동사
     항목ID: 74445
-processed:
+result:
   맞춤법 검사:
     표제어: 재활용되다
     품사: 동사
 ---
 000_KEYWORD: 재활용품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24994
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11280,13 +11280,13 @@ imported:
     표제어: 재활용품
     품사: 명사
     항목ID: 24994
-processed:
+result:
   맞춤법 검사:
     표제어: 재활용품
     품사: 명사
 ---
 000_KEYWORD: 재활용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74446
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11315,13 +11315,13 @@ imported:
     표제어: 재활용하다
     품사: 동사
     항목ID: 74446
-processed:
+result:
   맞춤법 검사:
     표제어: 재활용하다
     품사: 동사
 ---
 000_KEYWORD: 재활원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74447
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11350,13 +11350,13 @@ imported:
     표제어: 재활원
     품사: 명사
     항목ID: 74447
-processed:
+result:
   맞춤법 검사:
     표제어: 재활원
     품사: 명사
 ---
 000_KEYWORD: 재활하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73975
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11399,13 +11399,13 @@ imported:
     표제어: 재활하다
     품사: 동사
     항목ID: 73975
-processed:
+result:
   맞춤법 검사:
     표제어: 재활하다
     품사: 동사
 ---
 000_KEYWORD: 재회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73976
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11439,13 +11439,13 @@ imported:
     표제어: 재회
     품사: 명사
     항목ID: 73976
-processed:
+result:
   맞춤법 검사:
     표제어: 재회
     품사: 명사
 ---
 000_KEYWORD: 재회하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73977
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11478,13 +11478,13 @@ imported:
     표제어: 재회하다
     품사: 동사
     항목ID: 73977
-processed:
+result:
   맞춤법 검사:
     표제어: 재회하다
     품사: 동사
 ---
 000_KEYWORD: 잰걸음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73978
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11513,13 +11513,13 @@ imported:
     표제어: 잰걸음
     품사: 명사
     항목ID: 73978
-processed:
+result:
   맞춤법 검사:
     표제어: 잰걸음
     품사: 명사
 ---
 000_KEYWORD: 잼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73979
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11551,13 +11551,13 @@ imported:
     표제어: 잼
     품사: 명사
     항목ID: 73979
-processed:
+result:
   맞춤법 검사:
     표제어: 잼
     품사: 명사
 ---
 000_KEYWORD: 잼잼__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92390
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11570,10 +11570,10 @@ imported:
     표제어: 잼잼
     품사: 감탄사
     항목ID: 92390
-processed: {}
+result: {}
 ---
 000_KEYWORD: 잼잼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92391
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11586,10 +11586,10 @@ imported:
     표제어: 잼잼
     품사: 명사
     항목ID: 92391
-processed: {}
+result: {}
 ---
 000_KEYWORD: 잽싸다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73980
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11643,13 +11643,13 @@ imported:
       형태: 잽싸니
     - 발음: 잽쌈니다
       형태: 잽쌉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 잽싸다
     품사: 형용사
 ---
 000_KEYWORD: 잿더미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73981
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11693,13 +11693,13 @@ imported:
     표제어: 잿더미
     품사: 명사
     항목ID: 73981
-processed:
+result:
   맞춤법 검사:
     표제어: 잿더미
     품사: 명사
 ---
 000_KEYWORD: 잿물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73982
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11738,13 +11738,13 @@ imported:
     표제어: 잿물
     품사: 명사
     항목ID: 73982
-processed:
+result:
   맞춤법 검사:
     표제어: 잿물
     품사: 명사
 ---
 000_KEYWORD: 잿밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73983
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11793,13 +11793,13 @@ imported:
     - 발음: 잳빰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/73983_jaetppamman.wav
       형태: 재밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 잿밥
     품사: 명사
 ---
 000_KEYWORD: 잿빛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73984
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11856,13 +11856,13 @@ imported:
     - 발음: 잳삔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/73984_jaetppinman.wav
       형태: 잿빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 잿빛
     품사: 명사
 ---
 000_KEYWORD: 쟁기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73985
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11892,13 +11892,13 @@ imported:
     표제어: 쟁기
     품사: 명사
     항목ID: 73985
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁기
     품사: 명사
 ---
 000_KEYWORD: 쟁기질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73986
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11925,13 +11925,13 @@ imported:
     표제어: 쟁기질
     품사: 명사
     항목ID: 73986
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁기질
     품사: 명사
 ---
 000_KEYWORD: 쟁반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73987
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -11963,13 +11963,13 @@ imported:
     표제어: 쟁반
     품사: 명사
     항목ID: 73987
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁반
     품사: 명사
 ---
 000_KEYWORD: 쟁의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73988
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12000,13 +12000,13 @@ imported:
     표제어: 쟁의
     품사: 명사
     항목ID: 73988
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁의
     품사: 명사
 ---
 000_KEYWORD: 쟁이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73989
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12066,13 +12066,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/73989_jaengiyeo.wav
       형태: 쟁이어
     - 형태: 쟁이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁이다
     품사: 동사
 ---
 000_KEYWORD: 쟁쟁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73998
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12114,13 +12114,13 @@ imported:
     표제어: 쟁쟁
     품사: 부사
     항목ID: 73998
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁쟁
     품사: 부사
 ---
 000_KEYWORD: 쟁쟁거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74054
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12173,13 +12173,13 @@ imported:
     표제어: 쟁쟁거리다
     품사: 동사
     항목ID: 74054
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁쟁거리다
     품사: 동사
 ---
 000_KEYWORD: 쟁쟁대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89499
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12230,13 +12230,13 @@ imported:
     표제어: 쟁쟁대다
     품사: 동사
     항목ID: 89499
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁쟁대다
     품사: 동사
 ---
 000_KEYWORD: 쟁쟁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74055
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12294,13 +12294,13 @@ imported:
       형태: 쟁쟁하니
     - 발음: 쟁쟁함니다
       형태: 쟁쟁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁쟁하다
     품사: 형용사
 ---
 000_KEYWORD: 쟁쟁하다__형용사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74056
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12343,13 +12343,13 @@ imported:
       형태: 쟁쟁하니
     - 발음: 쟁쟁함니다
       형태: 쟁쟁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁쟁하다
     품사: 형용사
 ---
 000_KEYWORD: 쟁점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74057
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12401,13 +12401,13 @@ imported:
     표제어: 쟁점
     품사: 명사
     항목ID: 74057
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁점
     품사: 명사
 ---
 000_KEYWORD: 쟁취__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74058
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12437,13 +12437,13 @@ imported:
     표제어: 쟁취
     품사: 명사
     항목ID: 74058
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁취
     품사: 명사
 ---
 000_KEYWORD: 쟁취하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74059
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12474,13 +12474,13 @@ imported:
     표제어: 쟁취하다
     품사: 동사
     항목ID: 74059
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁취하다
     품사: 동사
 ---
 000_KEYWORD: 쟁탈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74060
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12509,13 +12509,13 @@ imported:
     표제어: 쟁탈
     품사: 명사
     항목ID: 74060
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁탈
     품사: 명사
 ---
 000_KEYWORD: 쟁탈전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74062
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12546,13 +12546,13 @@ imported:
     표제어: 쟁탈전
     품사: 명사
     항목ID: 74062
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁탈전
     품사: 명사
 ---
 000_KEYWORD: 쟁탈하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74061
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -12581,7 +12581,7 @@ imported:
     표제어: 쟁탈하다
     품사: 동사
     항목ID: 74061
-processed:
+result:
   맞춤법 검사:
     표제어: 쟁탈하다
     품사: 동사

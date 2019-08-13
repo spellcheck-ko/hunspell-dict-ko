@@ -1,5 +1,5 @@
 000_KEYWORD: 표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87552
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -44,13 +44,13 @@ imported:
     표제어: 표
     품사: 명사
     항목ID: 87552
-processed:
+result:
   맞춤법 검사:
     표제어: 표
     품사: 명사
 ---
 000_KEYWORD: 표__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71353
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -109,13 +109,13 @@ imported:
     표제어: 표
     품사: 명사
     항목ID: 71353
-processed:
+result:
   맞춤법 검사:
     표제어: 표
     품사: 명사
 ---
 000_KEYWORD: 표__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87554
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -172,13 +172,13 @@ imported:
     표제어: 표
     품사: 명사
     항목ID: 87554
-processed:
+result:
   맞춤법 검사:
     표제어: 표
     품사: 명사
 ---
 000_KEYWORD: 표__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -187,13 +187,13 @@ imported:
     표제어: 표
     품사: 명사:의존:단위성
     항목ID: 32169
-processed:
+result:
   맞춤법 검사:
     표제어: 표
     품사: 명사
 ---
 000_KEYWORD: 표결__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87555
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -225,13 +225,13 @@ imported:
     표제어: 표결
     품사: 명사
     항목ID: 87555
-processed:
+result:
   맞춤법 검사:
     표제어: 표결
     품사: 명사
 ---
 000_KEYWORD: 표결하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87556
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -258,13 +258,13 @@ imported:
     표제어: 표결하다
     품사: 동사
     항목ID: 87556
-processed:
+result:
   맞춤법 검사:
     표제어: 표결하다
     품사: 동사
 ---
 000_KEYWORD: 표고__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -275,13 +275,13 @@ imported:
     표제어: 표고
     품사: 명사:보통:비서술성
     항목ID: 29145
-processed:
+result:
   맞춤법 검사:
     표제어: 표고
     품사: 명사
 ---
 000_KEYWORD: 표고버섯__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -291,13 +291,13 @@ imported:
     표제어: 표고버섯
     품사: 명사:보통:비서술성
     항목ID: 29146
-processed:
+result:
   맞춤법 검사:
     표제어: 표고버섯
     품사: 명사
 ---
 000_KEYWORD: 표구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87557
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -325,13 +325,13 @@ imported:
     표제어: 표구
     품사: 명사
     항목ID: 87557
-processed:
+result:
   맞춤법 검사:
     표제어: 표구
     품사: 명사
 ---
 000_KEYWORD: 표기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87559
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -374,13 +374,13 @@ imported:
     표제어: 표기
     품사: 명사
     항목ID: 87559
-processed:
+result:
   맞춤법 검사:
     표제어: 표기
     품사: 명사
 ---
 000_KEYWORD: 표기되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87938
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -425,13 +425,13 @@ imported:
     표제어: 표기되다
     품사: 동사
     항목ID: 87938
-processed:
+result:
   맞춤법 검사:
     표제어: 표기되다
     품사: 동사
 ---
 000_KEYWORD: 표기법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87939
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -471,13 +471,13 @@ imported:
     - 발음: 표기뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/87939_pyogippeomman.wav
       형태: 표기법만
-processed:
+result:
   맞춤법 검사:
     표제어: 표기법
     품사: 명사
 ---
 000_KEYWORD: 표기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87940
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -524,13 +524,13 @@ imported:
     표제어: 표기하다
     품사: 동사
     항목ID: 87940
-processed:
+result:
   맞춤법 검사:
     표제어: 표기하다
     품사: 동사
 ---
 000_KEYWORD: 표독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87941
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -563,13 +563,13 @@ imported:
     - 발음: 표동만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/87941_pyodongman.wav
       형태: 표독만
-processed:
+result:
   맞춤법 검사:
     표제어: 표독
     품사: 명사
 ---
 000_KEYWORD: 표독스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87942
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -609,7 +609,7 @@ imported:
       형태: 표독스러우니
     - 발음: 표독쓰럽씀니다
       형태: 표독스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -617,7 +617,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 표독하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87943
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -657,13 +657,13 @@ imported:
       형태: 표독하니
     - 발음: 표도캄니다
       형태: 표독합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 표독하다
     품사: 형용사
 ---
 000_KEYWORD: 표류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88021
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -715,13 +715,13 @@ imported:
     표제어: 표류
     품사: 명사
     항목ID: 88021
-processed:
+result:
   맞춤법 검사:
     표제어: 표류
     품사: 명사
 ---
 000_KEYWORD: 표류하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88022
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -780,13 +780,13 @@ imported:
     표제어: 표류하다
     품사: 동사
     항목ID: 88022
-processed:
+result:
   맞춤법 검사:
     표제어: 표류하다
     품사: 동사
 ---
 000_KEYWORD: 표리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88023
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -821,13 +821,13 @@ imported:
     표제어: 표리
     품사: 명사
     항목ID: 88023
-processed:
+result:
   맞춤법 검사:
     표제어: 표리
     품사: 명사
 ---
 000_KEYWORD: 표리부동__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -837,13 +837,13 @@ imported:
     표제어: 표리부동
     품사: 명사:보통:서술성
     항목ID: 29152
-processed:
+result:
   맞춤법 검사:
     표제어: 표리부동
     품사: 명사
 ---
 000_KEYWORD: 표면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88024
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -895,13 +895,13 @@ imported:
     표제어: 표면
     품사: 명사
     항목ID: 88024
-processed:
+result:
   맞춤법 검사:
     표제어: 표면
     품사: 명사
 ---
 000_KEYWORD: 표면장력__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -911,13 +911,13 @@ imported:
     표제어: 표면장력
     품사: 명사:보통:서술성
     항목ID: 29154
-processed:
+result:
   맞춤법 검사:
     표제어: 표면장력
     품사: 명사
 ---
 000_KEYWORD: 표면적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88025
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -945,13 +945,13 @@ imported:
     표제어: 표면적
     품사: 관형사
     항목ID: 88025
-processed:
+result:
   맞춤법 검사:
     표제어: 표면적
     품사: 관형사
 ---
 000_KEYWORD: 표면적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88026
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -980,13 +980,13 @@ imported:
     표제어: 표면적
     품사: 명사
     항목ID: 88026
-processed:
+result:
   맞춤법 검사:
     표제어: 표면적
     품사: 명사
 ---
 000_KEYWORD: 표면화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88027
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1015,13 +1015,13 @@ imported:
     표제어: 표면화
     품사: 명사
     항목ID: 88027
-processed:
+result:
   맞춤법 검사:
     표제어: 표면화
     품사: 명사
 ---
 000_KEYWORD: 표면화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88028
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1054,13 +1054,13 @@ imported:
     표제어: 표면화되다
     품사: 동사
     항목ID: 88028
-processed:
+result:
   맞춤법 검사:
     표제어: 표면화되다
     품사: 동사
 ---
 000_KEYWORD: 표면화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88029
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1090,13 +1090,13 @@ imported:
     표제어: 표면화하다
     품사: 동사
     항목ID: 88029
-processed:
+result:
   맞춤법 검사:
     표제어: 표면화하다
     품사: 동사
 ---
 000_KEYWORD: 표명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91494
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1128,13 +1128,13 @@ imported:
     표제어: 표명
     품사: 명사
     항목ID: 91494
-processed:
+result:
   맞춤법 검사:
     표제어: 표명
     품사: 명사
 ---
 000_KEYWORD: 표명되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91495
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1165,13 +1165,13 @@ imported:
     표제어: 표명되다
     품사: 동사
     항목ID: 91495
-processed:
+result:
   맞춤법 검사:
     표제어: 표명되다
     품사: 동사
 ---
 000_KEYWORD: 표명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91496
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1200,13 +1200,13 @@ imported:
     표제어: 표명하다
     품사: 동사
     항목ID: 91496
-processed:
+result:
   맞춤법 검사:
     표제어: 표명하다
     품사: 동사
 ---
 000_KEYWORD: 표방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88412
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1234,13 +1234,13 @@ imported:
     표제어: 표방
     품사: 명사
     항목ID: 88412
-processed:
+result:
   맞춤법 검사:
     표제어: 표방
     품사: 명사
 ---
 000_KEYWORD: 표방하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88413
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1270,13 +1270,13 @@ imported:
     표제어: 표방하다
     품사: 동사
     항목ID: 88413
-processed:
+result:
   맞춤법 검사:
     표제어: 표방하다
     품사: 동사
 ---
 000_KEYWORD: 표밭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88414
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1330,13 +1330,13 @@ imported:
     - 발음: 표반만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/88414_pyobanman.wav
       형태: 표밭만
-processed:
+result:
   맞춤법 검사:
     표제어: 표밭
     품사: 명사
 ---
 000_KEYWORD: 표백__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88415
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1377,13 +1377,13 @@ imported:
     - 발음: 표뱅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/88415_pyobaengman.wav
       형태: 표백만
-processed:
+result:
   맞춤법 검사:
     표제어: 표백
     품사: 명사
 ---
 000_KEYWORD: 표백되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88416
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1415,13 +1415,13 @@ imported:
     표제어: 표백되다
     품사: 동사
     항목ID: 88416
-processed:
+result:
   맞춤법 검사:
     표제어: 표백되다
     품사: 동사
 ---
 000_KEYWORD: 표백분__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1431,13 +1431,13 @@ imported:
     표제어: 표백분
     품사: 명사:보통:서술성
     항목ID: 29161
-processed:
+result:
   맞춤법 검사:
     표제어: 표백분
     품사: 명사
 ---
 000_KEYWORD: 표백제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88626
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1465,13 +1465,13 @@ imported:
     표제어: 표백제
     품사: 명사
     항목ID: 88626
-processed:
+result:
   맞춤법 검사:
     표제어: 표백제
     품사: 명사
 ---
 000_KEYWORD: 표백하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88627
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1500,13 +1500,13 @@ imported:
     표제어: 표백하다
     품사: 동사
     항목ID: 88627
-processed:
+result:
   맞춤법 검사:
     표제어: 표백하다
     품사: 동사
 ---
 000_KEYWORD: 표범__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88628
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1540,13 +1540,13 @@ imported:
     표제어: 표범
     품사: 명사
     항목ID: 88628
-processed:
+result:
   맞춤법 검사:
     표제어: 표범
     품사: 명사
 ---
 000_KEYWORD: 표본__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88629
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1603,13 +1603,13 @@ imported:
     표제어: 표본
     품사: 명사
     항목ID: 88629
-processed:
+result:
   맞춤법 검사:
     표제어: 표본
     품사: 명사
 ---
 000_KEYWORD: 표상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88631
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1657,13 +1657,13 @@ imported:
     표제어: 표상
     품사: 명사
     항목ID: 88631
-processed:
+result:
   맞춤법 검사:
     표제어: 표상
     품사: 명사
 ---
 000_KEYWORD: 표상하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91493
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1692,13 +1692,13 @@ imported:
     표제어: 표상하다
     품사: 동사
     항목ID: 91493
-processed:
+result:
   맞춤법 검사:
     표제어: 표상하다
     품사: 동사
 ---
 000_KEYWORD: 표시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88632
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1728,13 +1728,13 @@ imported:
     표제어: 표시
     품사: 명사
     항목ID: 88632
-processed:
+result:
   맞춤법 검사:
     표제어: 표시
     품사: 명사
 ---
 000_KEYWORD: 표시__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88633
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1764,13 +1764,13 @@ imported:
     표제어: 표시
     품사: 명사
     항목ID: 88633
-processed:
+result:
   맞춤법 검사:
     표제어: 표시
     품사: 명사
 ---
 000_KEYWORD: 표시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88634
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1801,13 +1801,13 @@ imported:
     표제어: 표시되다
     품사: 동사
     항목ID: 88634
-processed:
+result:
   맞춤법 검사:
     표제어: 표시되다
     품사: 동사
 ---
 000_KEYWORD: 표시되다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88635
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1840,13 +1840,13 @@ imported:
     표제어: 표시되다
     품사: 동사
     항목ID: 88635
-processed:
+result:
   맞춤법 검사:
     표제어: 표시되다
     품사: 동사
 ---
 000_KEYWORD: 표시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72389
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1878,13 +1878,13 @@ imported:
     표제어: 표시하다
     품사: 동사
     항목ID: 72389
-processed:
+result:
   맞춤법 검사:
     표제어: 표시하다
     품사: 동사
 ---
 000_KEYWORD: 표시하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88636
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1916,13 +1916,13 @@ imported:
     표제어: 표시하다
     품사: 동사
     항목ID: 88636
-processed:
+result:
   맞춤법 검사:
     표제어: 표시하다
     품사: 동사
 ---
 000_KEYWORD: 표식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88637
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1961,13 +1961,13 @@ imported:
     - 발음: 표싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/88637_pyosingman.wav
       형태: 표식만
-processed:
+result:
   맞춤법 검사:
     표제어: 표식
     품사: 명사
 ---
 000_KEYWORD: 표어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88638
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1998,13 +1998,13 @@ imported:
     표제어: 표어
     품사: 명사
     항목ID: 88638
-processed:
+result:
   맞춤법 검사:
     표제어: 표어
     품사: 명사
 ---
 000_KEYWORD: 표적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88641
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2057,13 +2057,13 @@ imported:
     - 발음: 표정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/88641_pyojeongman.wav
       형태: 표적만
-processed:
+result:
   맞춤법 검사:
     표제어: 표적
     품사: 명사
 ---
 000_KEYWORD: 표적물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88642
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2093,13 +2093,13 @@ imported:
     표제어: 표적물
     품사: 명사
     항목ID: 88642
-processed:
+result:
   맞춤법 검사:
     표제어: 표적물
     품사: 명사
 ---
 000_KEYWORD: 표절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88643
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2131,13 +2131,13 @@ imported:
     표제어: 표절
     품사: 명사
     항목ID: 88643
-processed:
+result:
   맞춤법 검사:
     표제어: 표절
     품사: 명사
 ---
 000_KEYWORD: 표절하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84200
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2166,13 +2166,13 @@ imported:
     표제어: 표절하다
     품사: 동사
     항목ID: 84200
-processed:
+result:
   맞춤법 검사:
     표제어: 표절하다
     품사: 동사
 ---
 000_KEYWORD: 표정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72390
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2211,13 +2211,13 @@ imported:
     표제어: 표정
     품사: 명사
     항목ID: 72390
-processed:
+result:
   맞춤법 검사:
     표제어: 표정
     품사: 명사
 ---
 000_KEYWORD: 표제어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92090
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2260,13 +2260,13 @@ imported:
     표제어: 표제어
     품사: 명사
     항목ID: 92090
-processed:
+result:
   맞춤법 검사:
     표제어: 표제어
     품사: 명사
 ---
 000_KEYWORD: 표주박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84204
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2308,13 +2308,13 @@ imported:
     - 발음: 표주방만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84204_pyojubangman.wav
       형태: 표주박만
-processed:
+result:
   맞춤법 검사:
     표제어: 표주박
     품사: 명사
 ---
 000_KEYWORD: 표준__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84205
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2359,13 +2359,13 @@ imported:
     표제어: 표준
     품사: 명사
     항목ID: 84205
-processed:
+result:
   맞춤법 검사:
     표제어: 표준
     품사: 명사
 ---
 000_KEYWORD: 표준국어대사전__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2375,13 +2375,13 @@ imported:
     표제어: 표준국어대사전
     품사: 명사:고유
     항목ID: 32177
-processed:
+result:
   맞춤법 검사:
     표제어: 표준국어대사전
     품사: 명사
 ---
 000_KEYWORD: 표준말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84206
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2421,13 +2421,13 @@ imported:
     표제어: 표준말
     품사: 명사
     항목ID: 84206
-processed:
+result:
   맞춤법 검사:
     표제어: 표준말
     품사: 명사
 ---
 000_KEYWORD: 표준시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84223
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2455,13 +2455,13 @@ imported:
     표제어: 표준시
     품사: 명사
     항목ID: 84223
-processed:
+result:
   맞춤법 검사:
     표제어: 표준시
     품사: 명사
 ---
 000_KEYWORD: 표준어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84225
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2504,13 +2504,13 @@ imported:
     표제어: 표준어
     품사: 명사
     항목ID: 84225
-processed:
+result:
   맞춤법 검사:
     표제어: 표준어
     품사: 명사
 ---
 000_KEYWORD: 표준편차__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2520,13 +2520,13 @@ imported:
     표제어: 표준편차
     품사: 명사:보통:서술성
     항목ID: 29182
-processed:
+result:
   맞춤법 검사:
     표제어: 표준편차
     품사: 명사
 ---
 000_KEYWORD: 표준형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84226
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2554,13 +2554,13 @@ imported:
     표제어: 표준형
     품사: 명사
     항목ID: 84226
-processed:
+result:
   맞춤법 검사:
     표제어: 표준형
     품사: 명사
 ---
 000_KEYWORD: 표준화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84227
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2604,13 +2604,13 @@ imported:
     표제어: 표준화
     품사: 명사
     항목ID: 84227
-processed:
+result:
   맞춤법 검사:
     표제어: 표준화
     품사: 명사
 ---
 000_KEYWORD: 표준화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84229
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2656,13 +2656,13 @@ imported:
     표제어: 표준화되다
     품사: 동사
     항목ID: 84229
-processed:
+result:
   맞춤법 검사:
     표제어: 표준화되다
     품사: 동사
 ---
 000_KEYWORD: 표준화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84230
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2705,13 +2705,13 @@ imported:
     표제어: 표준화하다
     품사: 동사
     항목ID: 84230
-processed:
+result:
   맞춤법 검사:
     표제어: 표준화하다
     품사: 동사
 ---
 000_KEYWORD: 표지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84231
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2740,13 +2740,13 @@ imported:
     표제어: 표지
     품사: 명사
     항목ID: 84231
-processed:
+result:
   맞춤법 검사:
     표제어: 표지
     품사: 명사
 ---
 000_KEYWORD: 표지__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84232
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2776,13 +2776,13 @@ imported:
     표제어: 표지
     품사: 명사
     항목ID: 84232
-processed:
+result:
   맞춤법 검사:
     표제어: 표지
     품사: 명사
 ---
 000_KEYWORD: 표지판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84234
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2815,13 +2815,13 @@ imported:
     표제어: 표지판
     품사: 명사
     항목ID: 84234
-processed:
+result:
   맞춤법 검사:
     표제어: 표지판
     품사: 명사
 ---
 000_KEYWORD: 표징__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84236
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2850,13 +2850,13 @@ imported:
     표제어: 표징
     품사: 명사
     항목ID: 84236
-processed:
+result:
   맞춤법 검사:
     표제어: 표징
     품사: 명사
 ---
 000_KEYWORD: 표착하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2866,13 +2866,13 @@ imported:
     표제어: 표착하다
     품사: 동사
     항목ID: 29185
-processed:
+result:
   맞춤법 검사:
     표제어: 표착하다
     품사: 동사
 ---
 000_KEYWORD: 표찰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84238
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2913,13 +2913,13 @@ imported:
     표제어: 표찰
     품사: 명사
     항목ID: 84238
-processed:
+result:
   맞춤법 검사:
     표제어: 표찰
     품사: 명사
 ---
 000_KEYWORD: 표창__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84239
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2955,13 +2955,13 @@ imported:
     표제어: 표창
     품사: 명사
     항목ID: 84239
-processed:
+result:
   맞춤법 검사:
     표제어: 표창
     품사: 명사
 ---
 000_KEYWORD: 표창장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84240
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2989,13 +2989,13 @@ imported:
     표제어: 표창장
     품사: 명사
     항목ID: 84240
-processed:
+result:
   맞춤법 검사:
     표제어: 표창장
     품사: 명사
 ---
 000_KEYWORD: 표창하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84242
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3034,13 +3034,13 @@ imported:
     표제어: 표창하다
     품사: 동사
     항목ID: 84242
-processed:
+result:
   맞춤법 검사:
     표제어: 표창하다
     품사: 동사
 ---
 000_KEYWORD: 표출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84244
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3073,13 +3073,13 @@ imported:
     표제어: 표출
     품사: 명사
     항목ID: 84244
-processed:
+result:
   맞춤법 검사:
     표제어: 표출
     품사: 명사
 ---
 000_KEYWORD: 표출되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84245
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3113,13 +3113,13 @@ imported:
     표제어: 표출되다
     품사: 동사
     항목ID: 84245
-processed:
+result:
   맞춤법 검사:
     표제어: 표출되다
     품사: 동사
 ---
 000_KEYWORD: 표출시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85680
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3148,13 +3148,13 @@ imported:
     표제어: 표출시키다
     품사: 동사
     항목ID: 85680
-processed:
+result:
   맞춤법 검사:
     표제어: 표출시키다
     품사: 동사
 ---
 000_KEYWORD: 표출하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83556
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3183,13 +3183,13 @@ imported:
     표제어: 표출하다
     품사: 동사
     항목ID: 83556
-processed:
+result:
   맞춤법 검사:
     표제어: 표출하다
     품사: 동사
 ---
 000_KEYWORD: 표피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83557
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3237,13 +3237,13 @@ imported:
     표제어: 표피
     품사: 명사
     항목ID: 83557
-processed:
+result:
   맞춤법 검사:
     표제어: 표피
     품사: 명사
 ---
 000_KEYWORD: 표하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83558
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3272,13 +3272,13 @@ imported:
     표제어: 표하다
     품사: 동사
     항목ID: 83558
-processed:
+result:
   맞춤법 검사:
     표제어: 표하다
     품사: 동사
 ---
 000_KEYWORD: 표현__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62402
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3322,13 +3322,13 @@ imported:
     표제어: 표현
     품사: 명사
     항목ID: 62402
-processed:
+result:
   맞춤법 검사:
     표제어: 표현
     품사: 명사
 ---
 000_KEYWORD: 표현되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83559
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3361,13 +3361,13 @@ imported:
     표제어: 표현되다
     품사: 동사
     항목ID: 83559
-processed:
+result:
   맞춤법 검사:
     표제어: 표현되다
     품사: 동사
 ---
 000_KEYWORD: 표현력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83560
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3405,13 +3405,13 @@ imported:
     - 발음: 표현녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83560_pyohyeonnyeongman.wav
       형태: 표현력만
-processed:
+result:
   맞춤법 검사:
     표제어: 표현력
     품사: 명사
 ---
 000_KEYWORD: 표현법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83561
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3449,13 +3449,13 @@ imported:
     - 발음: 표현뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83561_pyohyeonppeomman.wav
       형태: 표현법만
-processed:
+result:
   맞춤법 검사:
     표제어: 표현법
     품사: 명사
 ---
 000_KEYWORD: 표현하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72391
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3489,13 +3489,13 @@ imported:
     표제어: 표현하다
     품사: 동사
     항목ID: 72391
-processed:
+result:
   맞춤법 검사:
     표제어: 표현하다
     품사: 동사
 ---
 000_KEYWORD: 푯말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83563
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3523,7 +3523,7 @@ imported:
     표제어: 푯말
     품사: 명사
     항목ID: 83563
-processed:
+result:
   맞춤법 검사:
     표제어: 푯말
     품사: 명사

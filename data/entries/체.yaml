@@ -1,5 +1,5 @@
 000_KEYWORD: -체__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88704
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -63,11 +63,11 @@ imported:
     표제어: -체
     품사: 접사
     항목ID: 88704
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79356
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -98,13 +98,13 @@ imported:
     표제어: 체
     품사: 명사
     항목ID: 79356
-processed:
+result:
   맞춤법 검사:
     표제어: 체
     품사: 명사
 ---
 000_KEYWORD: 체__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79357
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -147,13 +147,13 @@ imported:
     표제어: 체
     품사: 명사
     항목ID: 79357
-processed:
+result:
   맞춤법 검사:
     표제어: 체
     품사: 명사
 ---
 000_KEYWORD: 체__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63969
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -185,13 +185,13 @@ imported:
     표제어: 체
     품사: 의존 명사
     항목ID: 63969
-processed:
+result:
   맞춤법 검사:
     표제어: 체
     품사: 의존 명사
 ---
 000_KEYWORD: 체감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79358
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -223,13 +223,13 @@ imported:
     표제어: 체감
     품사: 명사
     항목ID: 79358
-processed:
+result:
   맞춤법 검사:
     표제어: 체감
     품사: 명사
 ---
 000_KEYWORD: 체감온도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -238,13 +238,13 @@ imported:
     표제어: 체감온도
     품사: 명사:보통:서술성
     항목ID: 26372
-processed:
+result:
   맞춤법 검사:
     표제어: 체감온도
     품사: 명사
 ---
 000_KEYWORD: 체감하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79360
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -273,13 +273,13 @@ imported:
     표제어: 체감하다
     품사: 동사
     항목ID: 79360
-processed:
+result:
   맞춤법 검사:
     표제어: 체감하다
     품사: 동사
 ---
 000_KEYWORD: 체개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79159
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -299,13 +299,13 @@ imported:
     표제어: 체개
     품사: 명사
     항목ID: 79159
-processed:
+result:
   맞춤법 검사:
     표제어: 체개
     품사: 명사
 ---
 000_KEYWORD: 체격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79362
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -351,13 +351,13 @@ imported:
     - 발음: 체경만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/79362_chegyeongman.wav
       형태: 체격만
-processed:
+result:
   맞춤법 검사:
     표제어: 체격
     품사: 명사
 ---
 000_KEYWORD: 체결__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81678
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -385,13 +385,13 @@ imported:
     표제어: 체결
     품사: 명사
     항목ID: 81678
-processed:
+result:
   맞춤법 검사:
     표제어: 체결
     품사: 명사
 ---
 000_KEYWORD: 체결되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81679
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -423,13 +423,13 @@ imported:
     표제어: 체결되다
     품사: 동사
     항목ID: 81679
-processed:
+result:
   맞춤법 검사:
     표제어: 체결되다
     품사: 동사
 ---
 000_KEYWORD: 체결하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81680
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -459,13 +459,13 @@ imported:
     표제어: 체결하다
     품사: 동사
     항목ID: 81680
-processed:
+result:
   맞춤법 검사:
     표제어: 체결하다
     품사: 동사
 ---
 000_KEYWORD: 체계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81681
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -507,13 +507,13 @@ imported:
     표제어: 체계
     품사: 명사
     항목ID: 81681
-processed:
+result:
   맞춤법 검사:
     표제어: 체계
     품사: 명사
 ---
 000_KEYWORD: 체계성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81682
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -544,13 +544,13 @@ imported:
     표제어: 체계성
     품사: 명사
     항목ID: 81682
-processed:
+result:
   맞춤법 검사:
     표제어: 체계성
     품사: 명사
 ---
 000_KEYWORD: 체계적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25353
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -580,13 +580,13 @@ imported:
     표제어: 체계적
     품사: 관형사
     항목ID: 25353
-processed:
+result:
   맞춤법 검사:
     표제어: 체계적
     품사: 관형사
 ---
 000_KEYWORD: 체계적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25356
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -616,13 +616,13 @@ imported:
     표제어: 체계적
     품사: 명사
     항목ID: 25356
-processed:
+result:
   맞춤법 검사:
     표제어: 체계적
     품사: 명사
 ---
 000_KEYWORD: 체계화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81684
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -652,13 +652,13 @@ imported:
     표제어: 체계화
     품사: 명사
     항목ID: 81684
-processed:
+result:
   맞춤법 검사:
     표제어: 체계화
     품사: 명사
 ---
 000_KEYWORD: 체계화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81685
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -690,13 +690,13 @@ imported:
     표제어: 체계화되다
     품사: 동사
     항목ID: 81685
-processed:
+result:
   맞춤법 검사:
     표제어: 체계화되다
     품사: 동사
 ---
 000_KEYWORD: 체계화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81686
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -727,13 +727,13 @@ imported:
     표제어: 체계화하다
     품사: 동사
     항목ID: 81686
-processed:
+result:
   맞춤법 검사:
     표제어: 체계화하다
     품사: 동사
 ---
 000_KEYWORD: 체구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81687
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -774,13 +774,13 @@ imported:
     표제어: 체구
     품사: 명사
     항목ID: 81687
-processed:
+result:
   맞춤법 검사:
     표제어: 체구
     품사: 명사
 ---
 000_KEYWORD: 체급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81688
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -819,13 +819,13 @@ imported:
     - 발음: 체금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/81688_chegeumman.wav
       형태: 체급만
-processed:
+result:
   맞춤법 검사:
     표제어: 체급
     품사: 명사
 ---
 000_KEYWORD: 체납__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81689
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -867,13 +867,13 @@ imported:
     - 발음: 체남만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/81689_chenamman.wav
       형태: 체납만
-processed:
+result:
   맞춤법 검사:
     표제어: 체납
     품사: 명사
 ---
 000_KEYWORD: 체납자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -882,13 +882,13 @@ imported:
     표제어: 체납자
     품사: 명사:보통:비서술성
     항목ID: 26384
-processed:
+result:
   맞춤법 검사:
     표제어: 체납자
     품사: 명사
 ---
 000_KEYWORD: 체납하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81690
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -921,13 +921,13 @@ imported:
     표제어: 체납하다
     품사: 동사
     항목ID: 81690
-processed:
+result:
   맞춤법 검사:
     표제어: 체납하다
     품사: 동사
 ---
 000_KEYWORD: 체내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81691
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -962,13 +962,13 @@ imported:
     표제어: 체내
     품사: 명사
     항목ID: 81691
-processed:
+result:
   맞춤법 검사:
     표제어: 체내
     품사: 명사
 ---
 000_KEYWORD: 체념__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81692
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1002,13 +1002,13 @@ imported:
     표제어: 체념
     품사: 명사
     항목ID: 81692
-processed:
+result:
   맞춤법 검사:
     표제어: 체념
     품사: 명사
 ---
 000_KEYWORD: 체념하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81693
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1038,13 +1038,13 @@ imported:
     표제어: 체념하다
     품사: 동사
     항목ID: 81693
-processed:
+result:
   맞춤법 검사:
     표제어: 체념하다
     품사: 동사
 ---
 000_KEYWORD: 체득__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81694
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1085,13 +1085,13 @@ imported:
     - 발음: 체등만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/81694_chedeungman.wav
       형태: 체득만
-processed:
+result:
   맞춤법 검사:
     표제어: 체득
     품사: 명사
 ---
 000_KEYWORD: 체득되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81695
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1122,13 +1122,13 @@ imported:
     표제어: 체득되다
     품사: 동사
     항목ID: 81695
-processed:
+result:
   맞춤법 검사:
     표제어: 체득되다
     품사: 동사
 ---
 000_KEYWORD: 체득하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81696
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1157,13 +1157,13 @@ imported:
     표제어: 체득하다
     품사: 동사
     항목ID: 81696
-processed:
+result:
   맞춤법 검사:
     표제어: 체득하다
     품사: 동사
 ---
 000_KEYWORD: 체력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25359
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1204,13 +1204,13 @@ imported:
     - 발음: 체령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/25359_cheryeongman.wav
       형태: 체력만
-processed:
+result:
   맞춤법 검사:
     표제어: 체력
     품사: 명사
 ---
 000_KEYWORD: 체력장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81697
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1238,13 +1238,13 @@ imported:
     표제어: 체력장
     품사: 명사
     항목ID: 81697
-processed:
+result:
   맞춤법 검사:
     표제어: 체력장
     품사: 명사
 ---
 000_KEYWORD: 체력적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1253,13 +1253,13 @@ imported:
     표제어: 체력적
     품사: 명사:보통:서술성
     항목ID: 26390
-processed:
+result:
   맞춤법 검사:
     표제어: 체력적
     품사: 명사
 ---
 000_KEYWORD: 체류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81698
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1289,13 +1289,13 @@ imported:
     표제어: 체류
     품사: 명사
     항목ID: 81698
-processed:
+result:
   맞춤법 검사:
     표제어: 체류
     품사: 명사
 ---
 000_KEYWORD: 체류자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81700
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1325,13 +1325,13 @@ imported:
     표제어: 체류자
     품사: 명사
     항목ID: 81700
-processed:
+result:
   맞춤법 검사:
     표제어: 체류자
     품사: 명사
 ---
 000_KEYWORD: 체류하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81699
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1364,13 +1364,13 @@ imported:
     표제어: 체류하다
     품사: 동사
     항목ID: 81699
-processed:
+result:
   맞춤법 검사:
     표제어: 체류하다
     품사: 동사
 ---
 000_KEYWORD: 체르노빌__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1380,13 +1380,13 @@ imported:
     표제어: 체르노빌
     품사: 명사:보통:서술성
     항목ID: 26394
-processed:
+result:
   맞춤법 검사:
     표제어: 체르노빌
     품사: 명사
 ---
 000_KEYWORD: 체리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1397,13 +1397,13 @@ imported:
     표제어: 체리
     품사: 명사:보통:서술성
     항목ID: 26395
-processed:
+result:
   맞춤법 검사:
     표제어: 체리
     품사: 명사
 ---
 000_KEYWORD: 체면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81701
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1443,13 +1443,13 @@ imported:
     표제어: 체면
     품사: 명사
     항목ID: 81701
-processed:
+result:
   맞춤법 검사:
     표제어: 체면
     품사: 명사
 ---
 000_KEYWORD: 체면치레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81702
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1475,13 +1475,13 @@ imported:
     표제어: 체면치레
     품사: 명사
     항목ID: 81702
-processed:
+result:
   맞춤법 검사:
     표제어: 체면치레
     품사: 명사
 ---
 000_KEYWORD: 체모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81703
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1512,13 +1512,13 @@ imported:
     표제어: 체모
     품사: 명사
     항목ID: 81703
-processed:
+result:
   맞춤법 검사:
     표제어: 체모
     품사: 명사
 ---
 000_KEYWORD: 체모__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90324
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1576,13 +1576,13 @@ imported:
     표제어: 체모
     품사: 명사
     항목ID: 90324
-processed:
+result:
   맞춤법 검사:
     표제어: 체모
     품사: 명사
 ---
 000_KEYWORD: 체벌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79139
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1612,13 +1612,13 @@ imported:
     표제어: 체벌
     품사: 명사
     항목ID: 79139
-processed:
+result:
   맞춤법 검사:
     표제어: 체벌
     품사: 명사
 ---
 000_KEYWORD: 체벌하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79140
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1647,13 +1647,13 @@ imported:
     표제어: 체벌하다
     품사: 동사
     항목ID: 79140
-processed:
+result:
   맞춤법 검사:
     표제어: 체벌하다
     품사: 동사
 ---
 000_KEYWORD: 체불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79141
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1686,13 +1686,13 @@ imported:
     표제어: 체불
     품사: 명사
     항목ID: 79141
-processed:
+result:
   맞춤법 검사:
     표제어: 체불
     품사: 명사
 ---
 000_KEYWORD: 체불되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79142
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1723,13 +1723,13 @@ imported:
     표제어: 체불되다
     품사: 동사
     항목ID: 79142
-processed:
+result:
   맞춤법 검사:
     표제어: 체불되다
     품사: 동사
 ---
 000_KEYWORD: 체불하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79143
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1762,13 +1762,13 @@ imported:
     표제어: 체불하다
     품사: 동사
     항목ID: 79143
-processed:
+result:
   맞춤법 검사:
     표제어: 체불하다
     품사: 동사
 ---
 000_KEYWORD: 체세포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79144
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1796,13 +1796,13 @@ imported:
     표제어: 체세포
     품사: 명사
     항목ID: 79144
-processed:
+result:
   맞춤법 검사:
     표제어: 체세포
     품사: 명사
 ---
 000_KEYWORD: 체스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79145
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1832,13 +1832,13 @@ imported:
     표제어: 체스
     품사: 명사
     항목ID: 79145
-processed:
+result:
   맞춤법 검사:
     표제어: 체스
     품사: 명사
 ---
 000_KEYWORD: 체액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79146
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1866,13 +1866,13 @@ imported:
     표제어: 체액
     품사: 명사
     항목ID: 79146
-processed:
+result:
   맞춤법 검사:
     표제어: 체액
     품사: 명사
 ---
 000_KEYWORD: 체언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79147
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1904,13 +1904,13 @@ imported:
     표제어: 체언
     품사: 명사
     항목ID: 79147
-processed:
+result:
   맞춤법 검사:
     표제어: 체언
     품사: 명사
 ---
 000_KEYWORD: 체열__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79148
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1940,13 +1940,13 @@ imported:
     표제어: 체열
     품사: 명사
     항목ID: 79148
-processed:
+result:
   맞춤법 검사:
     표제어: 체열
     품사: 명사
 ---
 000_KEYWORD: 체온__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25363
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1979,13 +1979,13 @@ imported:
     표제어: 체온
     품사: 명사
     항목ID: 25363
-processed:
+result:
   맞춤법 검사:
     표제어: 체온
     품사: 명사
 ---
 000_KEYWORD: 체온계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79149
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2020,13 +2020,13 @@ imported:
     표제어: 체온계
     품사: 명사
     항목ID: 79149
-processed:
+result:
   맞춤법 검사:
     표제어: 체온계
     품사: 명사
 ---
 000_KEYWORD: 체온기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79150
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2058,13 +2058,13 @@ imported:
     표제어: 체온기
     품사: 명사
     항목ID: 79150
-processed:
+result:
   맞춤법 검사:
     표제어: 체온기
     품사: 명사
 ---
 000_KEYWORD: 체외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79151
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2098,13 +2098,13 @@ imported:
     표제어: 체외
     품사: 명사
     항목ID: 79151
-processed:
+result:
   맞춤법 검사:
     표제어: 체외
     품사: 명사
 ---
 000_KEYWORD: 체위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79152
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2132,13 +2132,13 @@ imported:
     표제어: 체위
     품사: 명사
     항목ID: 79152
-processed:
+result:
   맞춤법 검사:
     표제어: 체위
     품사: 명사
 ---
 000_KEYWORD: 체육__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89773
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2194,13 +2194,13 @@ imported:
     - 발음: 체융만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/89773_cheyungman.wav
       형태: 체육만
-processed:
+result:
   맞춤법 검사:
     표제어: 체육
     품사: 명사
 ---
 000_KEYWORD: 체육계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79153
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2231,13 +2231,13 @@ imported:
     표제어: 체육계
     품사: 명사
     항목ID: 79153
-processed:
+result:
   맞춤법 검사:
     표제어: 체육계
     품사: 명사
 ---
 000_KEYWORD: 체육관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25365
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2267,13 +2267,13 @@ imported:
     표제어: 체육관
     품사: 명사
     항목ID: 25365
-processed:
+result:
   맞춤법 검사:
     표제어: 체육관
     품사: 명사
 ---
 000_KEYWORD: 체육대회__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2283,13 +2283,13 @@ imported:
     표제어: 체육대회
     품사: 명사:보통:비서술성
     항목ID: 26405
-processed:
+result:
   맞춤법 검사:
     표제어: 체육대회
     품사: 명사
 ---
 000_KEYWORD: 체육복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79155
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2331,13 +2331,13 @@ imported:
     - 발음: 체육뽕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/79155_cheyukppongman.wav
       형태: 체육복만
-processed:
+result:
   맞춤법 검사:
     표제어: 체육복
     품사: 명사
 ---
 000_KEYWORD: 체인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79156
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2418,13 +2418,13 @@ imported:
     표제어: 체인
     품사: 명사
     항목ID: 79156
-processed:
+result:
   맞춤법 검사:
     표제어: 체인
     품사: 명사
 ---
 000_KEYWORD: 체인점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79157
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2457,13 +2457,13 @@ imported:
     표제어: 체인점
     품사: 명사
     항목ID: 79157
-processed:
+result:
   맞춤법 검사:
     표제어: 체인점
     품사: 명사
 ---
 000_KEYWORD: 체재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79160
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2495,13 +2495,13 @@ imported:
     표제어: 체재
     품사: 명사
     항목ID: 79160
-processed:
+result:
   맞춤법 검사:
     표제어: 체재
     품사: 명사
 ---
 000_KEYWORD: 체재하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79161
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2535,13 +2535,13 @@ imported:
     표제어: 체재하다
     품사: 동사
     항목ID: 79161
-processed:
+result:
   맞춤법 검사:
     표제어: 체재하다
     품사: 동사
 ---
 000_KEYWORD: 체적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2551,13 +2551,13 @@ imported:
     표제어: 체적
     품사: 명사:보통:서술성
     항목ID: 26410
-processed:
+result:
   맞춤법 검사:
     표제어: 체적
     품사: 명사
 ---
 000_KEYWORD: 체제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79162
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2606,13 +2606,13 @@ imported:
     표제어: 체제
     품사: 명사
     항목ID: 79162
-processed:
+result:
   맞춤법 검사:
     표제어: 체제
     품사: 명사
 ---
 000_KEYWORD: 체조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25367
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2649,13 +2649,13 @@ imported:
     표제어: 체조
     품사: 명사
     항목ID: 25367
-processed:
+result:
   맞춤법 검사:
     표제어: 체조
     품사: 명사
 ---
 000_KEYWORD: 체조하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79163
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2684,13 +2684,13 @@ imported:
     표제어: 체조하다
     품사: 동사
     항목ID: 79163
-processed:
+result:
   맞춤법 검사:
     표제어: 체조하다
     품사: 동사
 ---
 000_KEYWORD: 체중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72121
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2725,13 +2725,13 @@ imported:
     표제어: 체중
     품사: 명사
     항목ID: 72121
-processed:
+result:
   맞춤법 검사:
     표제어: 체중
     품사: 명사
 ---
 000_KEYWORD: 체중계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79164
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2765,13 +2765,13 @@ imported:
     표제어: 체중계
     품사: 명사
     항목ID: 79164
-processed:
+result:
   맞춤법 검사:
     표제어: 체중계
     품사: 명사
 ---
 000_KEYWORD: 체증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90329
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2817,13 +2817,13 @@ imported:
     표제어: 체증
     품사: 명사
     항목ID: 90329
-processed:
+result:
   맞춤법 검사:
     표제어: 체증
     품사: 명사
 ---
 000_KEYWORD: 체질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79165
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2866,13 +2866,13 @@ imported:
     표제어: 체질
     품사: 명사
     항목ID: 79165
-processed:
+result:
   맞춤법 검사:
     표제어: 체질
     품사: 명사
 ---
 000_KEYWORD: 체첸__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2882,13 +2882,13 @@ imported:
     표제어: 체첸
     품사: 명사:보통:서술성
     항목ID: 26417
-processed:
+result:
   맞춤법 검사:
     표제어: 체첸
     품사: 명사
 ---
 000_KEYWORD: 체취__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79166
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2932,13 +2932,13 @@ imported:
     표제어: 체취
     품사: 명사
     항목ID: 79166
-processed:
+result:
   맞춤법 검사:
     표제어: 체취
     품사: 명사
 ---
 000_KEYWORD: 체코__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70036
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2955,13 +2955,13 @@ imported:
     표제어: 체코
     품사: 명사
     항목ID: 70036
-processed:
+result:
   맞춤법 검사:
     표제어: 체코
     품사: 명사
 ---
 000_KEYWORD: 체코어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93455
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2994,13 +2994,13 @@ imported:
     표제어: 체코어
     품사: 명사
     항목ID: 93455
-processed:
+result:
   맞춤법 검사:
     표제어: 체코어
     품사: 명사
 ---
 000_KEYWORD: 체크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79167
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3041,13 +3041,13 @@ imported:
     표제어: 체크
     품사: 명사
     항목ID: 79167
-processed:
+result:
   맞춤법 검사:
     표제어: 체크
     품사: 명사
 ---
 000_KEYWORD: 체크되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79168
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3074,13 +3074,13 @@ imported:
     표제어: 체크되다
     품사: 동사
     항목ID: 79168
-processed:
+result:
   맞춤법 검사:
     표제어: 체크되다
     품사: 동사
 ---
 000_KEYWORD: 체크무늬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79169
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3112,13 +3112,13 @@ imported:
     표제어: 체크무늬
     품사: 명사
     항목ID: 79169
-processed:
+result:
   맞춤법 검사:
     표제어: 체크무늬
     품사: 명사
 ---
 000_KEYWORD: 체크아웃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91810
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3145,13 +3145,13 @@ imported:
     표제어: 체크아웃
     품사: 명사
     항목ID: 91810
-processed:
+result:
   맞춤법 검사:
     표제어: 체크아웃
     품사: 명사
 ---
 000_KEYWORD: 체크인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79170
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3196,13 +3196,13 @@ imported:
     표제어: 체크인
     품사: 명사
     항목ID: 79170
-processed:
+result:
   맞춤법 검사:
     표제어: 체크인
     품사: 명사
 ---
 000_KEYWORD: 체크카드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3211,13 +3211,13 @@ imported:
     표제어: 체크카드
     품사: 명사:보통:비서술성
     항목ID: 31926
-processed:
+result:
   맞춤법 검사:
     표제어: 체크카드
     품사: 명사
 ---
 000_KEYWORD: 체크포인트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3227,13 +3227,13 @@ imported:
     표제어: 체크포인트
     품사: 명사:보통:비서술성
     항목ID: 26422
-processed:
+result:
   맞춤법 검사:
     표제어: 체크포인트
     품사: 명사
 ---
 000_KEYWORD: 체크하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79171
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3260,13 +3260,13 @@ imported:
     표제어: 체크하다
     품사: 동사
     항목ID: 79171
-processed:
+result:
   맞춤법 검사:
     표제어: 체크하다
     품사: 동사
 ---
 000_KEYWORD: 체통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79172
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3295,13 +3295,13 @@ imported:
     표제어: 체통
     품사: 명사
     항목ID: 79172
-processed:
+result:
   맞춤법 검사:
     표제어: 체통
     품사: 명사
 ---
 000_KEYWORD: 체포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79173
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3334,13 +3334,13 @@ imported:
     표제어: 체포
     품사: 명사
     항목ID: 79173
-processed:
+result:
   맞춤법 검사:
     표제어: 체포
     품사: 명사
 ---
 000_KEYWORD: 체포당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85405
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3369,13 +3369,13 @@ imported:
     표제어: 체포당하다
     품사: 동사
     항목ID: 85405
-processed:
+result:
   맞춤법 검사:
     표제어: 체포당하다
     품사: 동사
 ---
 000_KEYWORD: 체포되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79174
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3406,13 +3406,13 @@ imported:
     표제어: 체포되다
     품사: 동사
     항목ID: 79174
-processed:
+result:
   맞춤법 검사:
     표제어: 체포되다
     품사: 동사
 ---
 000_KEYWORD: 체포영장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3421,13 +3421,13 @@ imported:
     표제어: 체포영장
     품사: 명사:보통:비서술성
     항목ID: 31779
-processed:
+result:
   맞춤법 검사:
     표제어: 체포영장
     품사: 명사
 ---
 000_KEYWORD: 체포하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79175
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3455,13 +3455,13 @@ imported:
     표제어: 체포하다
     품사: 동사
     항목ID: 79175
-processed:
+result:
   맞춤법 검사:
     표제어: 체포하다
     품사: 동사
 ---
 000_KEYWORD: 체하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79176
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3495,13 +3495,13 @@ imported:
     표제어: 체하다
     품사: 동사
     항목ID: 79176
-processed:
+result:
   맞춤법 검사:
     표제어: 체하다
     품사: 동사
 ---
 000_KEYWORD: 체하다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72227
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3539,7 +3539,7 @@ imported:
       형태: 체하니
     - 발음: 체함니다
       형태: 체합니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-는
@@ -3548,7 +3548,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 체험__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25373
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3578,13 +3578,13 @@ imported:
     표제어: 체험
     품사: 명사
     항목ID: 25373
-processed:
+result:
   맞춤법 검사:
     표제어: 체험
     품사: 명사
 ---
 000_KEYWORD: 체험기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3593,13 +3593,13 @@ imported:
     표제어: 체험기
     품사: 명사:보통:비서술성
     항목ID: 26429
-processed:
+result:
   맞춤법 검사:
     표제어: 체험기
     품사: 명사
 ---
 000_KEYWORD: 체험담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79177
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3632,13 +3632,13 @@ imported:
     표제어: 체험담
     품사: 명사
     항목ID: 79177
-processed:
+result:
   맞춤법 검사:
     표제어: 체험담
     품사: 명사
 ---
 000_KEYWORD: 체험전__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3647,13 +3647,13 @@ imported:
     표제어: 체험전
     품사: 명사:보통:비서술성
     항목ID: 26431
-processed:
+result:
   맞춤법 검사:
     표제어: 체험전
     품사: 명사
 ---
 000_KEYWORD: 체험하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25375
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3682,13 +3682,13 @@ imported:
     표제어: 체험하다
     품사: 동사
     항목ID: 25375
-processed:
+result:
   맞춤법 검사:
     표제어: 체험하다
     품사: 동사
 ---
 000_KEYWORD: 체형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79178
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3717,13 +3717,13 @@ imported:
     표제어: 체형
     품사: 명사
     항목ID: 79178
-processed:
+result:
   맞춤법 검사:
     표제어: 체형
     품사: 명사
 ---
 000_KEYWORD: 첼로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79179
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3751,13 +3751,13 @@ imported:
     표제어: 첼로
     품사: 명사
     항목ID: 79179
-processed:
+result:
   맞춤법 검사:
     표제어: 첼로
     품사: 명사
 ---
 000_KEYWORD: 첼리스트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79180
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3784,13 +3784,13 @@ imported:
     표제어: 첼리스트
     품사: 명사
     항목ID: 79180
-processed:
+result:
   맞춤법 검사:
     표제어: 첼리스트
     품사: 명사
 ---
 000_KEYWORD: 쳇__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79181
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3816,13 +3816,13 @@ imported:
     표제어: 쳇
     품사: 감탄사
     항목ID: 79181
-processed:
+result:
   맞춤법 검사:
     표제어: 쳇
     품사: 감탄사
 ---
 000_KEYWORD: 쳇바퀴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79182
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3848,7 +3848,7 @@ imported:
     표제어: 쳇바퀴
     품사: 명사
     항목ID: 79182
-processed:
+result:
   맞춤법 검사:
     표제어: 쳇바퀴
     품사: 명사

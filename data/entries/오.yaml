@@ -1,5 +1,5 @@
 000_KEYWORD: -오-__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86107
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -24,11 +24,11 @@ imported:
     표제어: -오-
     품사: 어미
     항목ID: 86107
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -오__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86112
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -53,11 +53,11 @@ imported:
     표제어: -오
     품사: 어미
     항목ID: 86112
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -옥__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72330
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -76,11 +76,11 @@ imported:
     표제어: -옥
     품사: 접사
     항목ID: 72330
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -옵-__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86109
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -104,11 +104,11 @@ imported:
     표제어: -옵-
     품사: 어미
     항목ID: 86109
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -옹__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91778
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -126,11 +126,11 @@ imported:
     표제어: -옹
     품사: 접사
     항목ID: 91778
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 오__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26205
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -152,13 +152,13 @@ imported:
     표제어: 오
     품사: 감탄사
     항목ID: 26205
-processed:
+result:
   맞춤법 검사:
     표제어: 오
     품사: 감탄사
 ---
 000_KEYWORD: 오__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31645
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -231,13 +231,13 @@ imported:
     표제어: 오
     품사: 관형사
     항목ID: 31645
-processed:
+result:
   맞춤법 검사:
     표제어: 오
     품사: 관형사
 ---
 000_KEYWORD: 오__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68784
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -253,13 +253,13 @@ imported:
     표제어: 오
     품사: 명사
     항목ID: 68784
-processed:
+result:
   맞춤법 검사:
     표제어: 오
     품사: 명사
 ---
 000_KEYWORD: 오__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31635
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -296,17 +296,17 @@ imported:
     - 발음: 오:만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68168_o-man.wav
       형태: 오만
-processed:
+result:
   맞춤법 검사:
     표제어: 오
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 수:1
 ---
 000_KEYWORD: 오가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62357
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -405,17 +405,17 @@ imported:
     활용:
     - 형태: 오가
     - 형태: 오가니
-processed:
+result:
   맞춤법 검사:
     표제어: 오가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 오각형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68198
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -443,13 +443,13 @@ imported:
     표제어: 오각형
     품사: 명사
     항목ID: 68198
-processed:
+result:
   맞춤법 검사:
     표제어: 오각형
     품사: 명사
 ---
 000_KEYWORD: 오감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70147
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -476,13 +476,13 @@ imported:
     표제어: 오감
     품사: 명사
     항목ID: 70147
-processed:
+result:
   맞춤법 검사:
     표제어: 오감
     품사: 명사
 ---
 000_KEYWORD: 오거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70149
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -511,13 +511,13 @@ imported:
     표제어: 오거리
     품사: 명사
     항목ID: 70149
-processed:
+result:
   맞춤법 검사:
     표제어: 오거리
     품사: 명사
 ---
 000_KEYWORD: 오경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70150
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -555,13 +555,13 @@ imported:
     표제어: 오경
     품사: 명사
     항목ID: 70150
-processed:
+result:
   맞춤법 검사:
     표제어: 오경
     품사: 명사
 ---
 000_KEYWORD: 오곡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70151
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -614,13 +614,13 @@ imported:
     - 발음: 오ː공만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/70151_o-gongman.wav
       형태: 오곡만
-processed:
+result:
   맞춤법 검사:
     표제어: 오곡
     품사: 명사
 ---
 000_KEYWORD: 오곡밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68199
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -664,13 +664,13 @@ imported:
     - 발음: 오ː곡빰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68199_o-gokppamman.wav
       형태: 오곡밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 오곡밥
     품사: 명사
 ---
 000_KEYWORD: 오골계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70153
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -701,13 +701,13 @@ imported:
     표제어: 오골계
     품사: 명사
     항목ID: 70153
-processed:
+result:
   맞춤법 검사:
     표제어: 오골계
     품사: 명사
 ---
 000_KEYWORD: 오그라들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68200
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -786,17 +786,17 @@ imported:
     - 발음: 오그라듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68200_ogeuradeumnida.wav
       형태: 오그라듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오그라들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 오그라뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68201
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -867,13 +867,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68201_ogeuratteuriyeo.wav
       형태: 오그라뜨리어
     - 형태: 오그라뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 오그라뜨리다
     품사: 동사
 ---
 000_KEYWORD: 오그라지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68397
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -969,7 +969,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/68397_ogeurajeo.wav
       형태: 오그라져
     - 형태: 오그라지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -977,7 +977,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 오그리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68202
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1043,13 +1043,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68202_ogeuriyeo.wav
       형태: 오그리어
     - 형태: 오그리니
-processed:
+result:
   맞춤법 검사:
     표제어: 오그리다
     품사: 동사
 ---
 000_KEYWORD: 오금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91408
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1079,13 +1079,13 @@ imported:
     표제어: 오금
     품사: 명사
     항목ID: 91408
-processed:
+result:
   맞춤법 검사:
     표제어: 오금
     품사: 명사
 ---
 000_KEYWORD: 오기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70154
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1129,13 +1129,13 @@ imported:
     표제어: 오기
     품사: 명사
     항목ID: 70154
-processed:
+result:
   맞춤법 검사:
     표제어: 오기
     품사: 명사
 ---
 000_KEYWORD: 오기__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70155
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1165,13 +1165,13 @@ imported:
     표제어: 오기
     품사: 명사
     항목ID: 70155
-processed:
+result:
   맞춤법 검사:
     표제어: 오기
     품사: 명사
 ---
 000_KEYWORD: 오남용__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1182,13 +1182,13 @@ imported:
     표제어: 오남용
     품사: 명사:보통:서술성
     항목ID: 19209
-processed:
+result:
   맞춤법 검사:
     표제어: 오남용
     품사: 명사
 ---
 000_KEYWORD: 오냐__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68203
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1225,13 +1225,13 @@ imported:
     표제어: 오냐
     품사: 감탄사
     항목ID: 68203
-processed:
+result:
   맞춤법 검사:
     표제어: 오냐
     품사: 감탄사
 ---
 000_KEYWORD: 오냐오냐하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68204
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1259,13 +1259,13 @@ imported:
     표제어: 오냐오냐하다
     품사: 동사
     항목ID: 68204
-processed:
+result:
   맞춤법 검사:
     표제어: 오냐오냐하다
     품사: 동사
 ---
 000_KEYWORD: 오누이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68205
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1300,13 +1300,13 @@ imported:
     표제어: 오누이
     품사: 명사
     항목ID: 68205
-processed:
+result:
   맞춤법 검사:
     표제어: 오누이
     품사: 명사
 ---
 000_KEYWORD: 오뉴월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70156
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1347,13 +1347,13 @@ imported:
     표제어: 오뉴월
     품사: 명사
     항목ID: 70156
-processed:
+result:
   맞춤법 검사:
     표제어: 오뉴월
     품사: 명사
 ---
 000_KEYWORD: 오늘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68206
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1407,13 +1407,13 @@ imported:
     표제어: 오늘
     품사: 명사
     항목ID: 68206
-processed:
+result:
   맞춤법 검사:
     표제어: 오늘
     품사: 명사
 ---
 000_KEYWORD: 오늘__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68207
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1442,13 +1442,13 @@ imported:
     표제어: 오늘
     품사: 부사
     항목ID: 68207
-processed:
+result:
   맞춤법 검사:
     표제어: 오늘
     품사: 부사
 ---
 000_KEYWORD: 오늘날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=46557
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1484,13 +1484,13 @@ imported:
     표제어: 오늘날
     품사: 명사
     항목ID: 46557
-processed:
+result:
   맞춤법 검사:
     표제어: 오늘날
     품사: 명사
 ---
 000_KEYWORD: 오늘내일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68208
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1521,13 +1521,13 @@ imported:
     표제어: 오늘내일
     품사: 명사
     항목ID: 68208
-processed:
+result:
   맞춤법 검사:
     표제어: 오늘내일
     품사: 명사
 ---
 000_KEYWORD: 오늘내일하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68209
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1571,13 +1571,13 @@ imported:
     표제어: 오늘내일하다
     품사: 동사
     항목ID: 68209
-processed:
+result:
   맞춤법 검사:
     표제어: 오늘내일하다
     품사: 동사
 ---
 000_KEYWORD: 오늘부로__특수:파생형__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1588,13 +1588,13 @@ imported:
     표제어: 오늘부로
     품사: 특수:파생형
     항목ID: 19218
-processed:
+result:
   맞춤법 검사:
     표제어: 오늘부로
     품사: 특수:파생형
 ---
 000_KEYWORD: 오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69514
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1982,13 +1982,13 @@ imported:
     - 형태: 와
     - 형태: 오니
     - 형태: 오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 오다
     품사: 동사
 ---
 000_KEYWORD: 오다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69517
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2029,7 +2029,7 @@ imported:
     - 발음: 오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69514_oneora.wav
       형태: 오너라
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -2037,7 +2037,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 오다가다__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68210
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2065,13 +2065,13 @@ imported:
     표제어: 오다가다
     품사: 부사
     항목ID: 68210
-processed:
+result:
   맞춤법 검사:
     표제어: 오다가다
     품사: 부사
 ---
 000_KEYWORD: 오답__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70157
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2114,13 +2114,13 @@ imported:
     - 발음: 오ː담만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/70157_o-damman.wav
       형태: 오답만
-processed:
+result:
   맞춤법 검사:
     표제어: 오답
     품사: 명사
 ---
 000_KEYWORD: 오대양__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70158
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2150,13 +2150,13 @@ imported:
     표제어: 오대양
     품사: 명사
     항목ID: 70158
-processed:
+result:
   맞춤법 검사:
     표제어: 오대양
     품사: 명사
 ---
 000_KEYWORD: 오더__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68211
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2191,13 +2191,13 @@ imported:
     표제어: 오더
     품사: 명사
     항목ID: 68211
-processed:
+result:
   맞춤법 검사:
     표제어: 오더
     품사: 명사
 ---
 000_KEYWORD: 오뎅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70159
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2211,10 +2211,10 @@ imported:
     표제어: 오뎅
     품사: 명사
     항목ID: 70159
-processed: {}
+result: {}
 ---
 000_KEYWORD: 오도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68212
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2241,13 +2241,13 @@ imported:
     표제어: 오도
     품사: 명사
     항목ID: 68212
-processed:
+result:
   맞춤법 검사:
     표제어: 오도
     품사: 명사
 ---
 000_KEYWORD: 오도독__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68213
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2296,13 +2296,13 @@ imported:
     표제어: 오도독
     품사: 부사
     항목ID: 68213
-processed:
+result:
   맞춤법 검사:
     표제어: 오도독
     품사: 부사
 ---
 000_KEYWORD: 오도되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68214
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2338,13 +2338,13 @@ imported:
     표제어: 오도되다
     품사: 동사
     항목ID: 68214
-processed:
+result:
   맞춤법 검사:
     표제어: 오도되다
     품사: 동사
 ---
 000_KEYWORD: 오도카니__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68215
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2374,13 +2374,13 @@ imported:
     표제어: 오도카니
     품사: 부사
     항목ID: 68215
-processed:
+result:
   맞춤법 검사:
     표제어: 오도카니
     품사: 부사
 ---
 000_KEYWORD: 오도하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68297
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2412,13 +2412,13 @@ imported:
     표제어: 오도하다
     품사: 동사
     항목ID: 68297
-processed:
+result:
   맞춤법 검사:
     표제어: 오도하다
     품사: 동사
 ---
 000_KEYWORD: 오독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70160
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2456,13 +2456,13 @@ imported:
     - 발음: 오ː동만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/70160_o-dongman.wav
       형태: 오독만
-processed:
+result:
   맞춤법 검사:
     표제어: 오독
     품사: 명사
 ---
 000_KEYWORD: 오동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70161
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2497,13 +2497,13 @@ imported:
     표제어: 오동
     품사: 명사
     항목ID: 70161
-processed:
+result:
   맞춤법 검사:
     표제어: 오동
     품사: 명사
 ---
 000_KEYWORD: 오동나무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68301
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2541,13 +2541,13 @@ imported:
     표제어: 오동나무
     품사: 명사
     항목ID: 68301
-processed:
+result:
   맞춤법 검사:
     표제어: 오동나무
     품사: 명사
 ---
 000_KEYWORD: 오동작__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2556,13 +2556,13 @@ imported:
     표제어: 오동작
     품사: 명사:보통:비서술성
     항목ID: 19223
-processed:
+result:
   맞춤법 검사:
     표제어: 오동작
     품사: 명사
 ---
 000_KEYWORD: 오동작하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2571,13 +2571,13 @@ imported:
     표제어: 오동작하다
     품사: 동사
     항목ID: 31927
-processed:
+result:
   맞춤법 검사:
     표제어: 오동작하다
     품사: 동사
 ---
 000_KEYWORD: 오동통__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68302
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2604,13 +2604,13 @@ imported:
     표제어: 오동통
     품사: 부사
     항목ID: 68302
-processed:
+result:
   맞춤법 검사:
     표제어: 오동통
     품사: 부사
 ---
 000_KEYWORD: 오동통하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68303
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2649,13 +2649,13 @@ imported:
       형태: 오동통하니
     - 발음: 오동통함니다
       형태: 오동통합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오동통하다
     품사: 형용사
 ---
 000_KEYWORD: 오두막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68304
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2697,13 +2697,13 @@ imported:
     - 발음: 오두망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/68304_odumangman.wav
       형태: 오두막만
-processed:
+result:
   맞춤법 검사:
     표제어: 오두막
     품사: 명사
 ---
 000_KEYWORD: 오두막집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70162
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2742,13 +2742,13 @@ imported:
     - 발음: 오두막찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/70162_odumakjjimman.wav
       형태: 오두막집만
-processed:
+result:
   맞춤법 검사:
     표제어: 오두막집
     품사: 명사
 ---
 000_KEYWORD: 오두방정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70163
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2772,13 +2772,13 @@ imported:
     표제어: 오두방정
     품사: 명사
     항목ID: 70163
-processed:
+result:
   맞춤법 검사:
     표제어: 오두방정
     품사: 명사
 ---
 000_KEYWORD: 오들오들__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68305
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2804,13 +2804,13 @@ imported:
     표제어: 오들오들
     품사: 부사
     항목ID: 68305
-processed:
+result:
   맞춤법 검사:
     표제어: 오들오들
     품사: 부사
 ---
 000_KEYWORD: 오디__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68306
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2842,13 +2842,13 @@ imported:
     표제어: 오디
     품사: 명사
     항목ID: 68306
-processed:
+result:
   맞춤법 검사:
     표제어: 오디
     품사: 명사
 ---
 000_KEYWORD: 오디세이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2858,13 +2858,13 @@ imported:
     표제어: 오디세이
     품사: 명사:고유
     항목ID: 19228
-processed:
+result:
   맞춤법 검사:
     표제어: 오디세이
     품사: 명사
 ---
 000_KEYWORD: 오디션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70164
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2890,13 +2890,13 @@ imported:
     표제어: 오디션
     품사: 명사
     항목ID: 70164
-processed:
+result:
   맞춤법 검사:
     표제어: 오디션
     품사: 명사
 ---
 000_KEYWORD: 오디오__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68307
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2960,13 +2960,13 @@ imported:
     표제어: 오디오
     품사: 명사
     항목ID: 68307
-processed:
+result:
   맞춤법 검사:
     표제어: 오디오
     품사: 명사
 ---
 000_KEYWORD: 오똑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92301
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2979,10 +2979,10 @@ imported:
     표제어: 오똑
     품사: 부사
     항목ID: 92301
-processed: {}
+result: {}
 ---
 000_KEYWORD: 오똑이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92302
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2995,10 +2995,10 @@ imported:
     표제어: 오똑이
     품사: 명사
     항목ID: 92302
-processed: {}
+result: {}
 ---
 000_KEYWORD: 오뚜기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92304
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3011,10 +3011,10 @@ imported:
     표제어: 오뚜기
     품사: 명사
     항목ID: 92304
-processed: {}
+result: {}
 ---
 000_KEYWORD: 오뚝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68308
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3067,13 +3067,13 @@ imported:
     표제어: 오뚝
     품사: 부사
     항목ID: 68308
-processed:
+result:
   맞춤법 검사:
     표제어: 오뚝
     품사: 부사
 ---
 000_KEYWORD: 오뚝이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70165
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3104,13 +3104,13 @@ imported:
     표제어: 오뚝이
     품사: 명사
     항목ID: 70165
-processed:
+result:
   맞춤법 검사:
     표제어: 오뚝이
     품사: 명사
 ---
 000_KEYWORD: 오뚝하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68396
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3149,13 +3149,13 @@ imported:
       형태: 오뚝하니
     - 발음: 오뚜캄니다
       형태: 오뚝합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오뚝하다
     품사: 형용사
 ---
 000_KEYWORD: 오라__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3166,13 +3166,13 @@ imported:
     표제어: 오라
     품사: 명사:보통:서술성
     항목ID: 19232
-processed:
+result:
   맞춤법 검사:
     표제어: 오라
     품사: 명사
 ---
 000_KEYWORD: 오라버니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68395
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3201,13 +3201,13 @@ imported:
     표제어: 오라버니
     품사: 명사
     항목ID: 68395
-processed:
+result:
   맞춤법 검사:
     표제어: 오라버니
     품사: 명사
 ---
 000_KEYWORD: 오라비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70166
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3262,13 +3262,13 @@ imported:
     표제어: 오라비
     품사: 명사
     항목ID: 70166
-processed:
+result:
   맞춤법 검사:
     표제어: 오라비
     품사: 명사
 ---
 000_KEYWORD: 오라클__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3279,13 +3279,13 @@ imported:
     표제어: 오라클
     품사: 명사:보통:서술성
     항목ID: 19234
-processed:
+result:
   맞춤법 검사:
     표제어: 오라클
     품사: 명사
 ---
 000_KEYWORD: 오락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14142
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3342,13 +3342,13 @@ imported:
     - 발음: 오ː랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/14142_o-rangman.wav
       형태: 오락만
-processed:
+result:
   맞춤법 검사:
     표제어: 오락
     품사: 명사
 ---
 000_KEYWORD: 오락가락__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68393
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3403,13 +3403,13 @@ imported:
     표제어: 오락가락
     품사: 부사
     항목ID: 68393
-processed:
+result:
   맞춤법 검사:
     표제어: 오락가락
     품사: 부사
 ---
 000_KEYWORD: 오락가락하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68394
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3471,13 +3471,13 @@ imported:
     표제어: 오락가락하다
     품사: 동사
     항목ID: 68394
-processed:
+result:
   맞춤법 검사:
     표제어: 오락가락하다
     품사: 동사
 ---
 000_KEYWORD: 오락물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68392
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3524,13 +3524,13 @@ imported:
     표제어: 오락물
     품사: 명사
     항목ID: 68392
-processed:
+result:
   맞춤법 검사:
     표제어: 오락물
     품사: 명사
 ---
 000_KEYWORD: 오락성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70167
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3561,13 +3561,13 @@ imported:
     표제어: 오락성
     품사: 명사
     항목ID: 70167
-processed:
+result:
   맞춤법 검사:
     표제어: 오락성
     품사: 명사
 ---
 000_KEYWORD: 오락실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68391
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3604,13 +3604,13 @@ imported:
     표제어: 오락실
     품사: 명사
     항목ID: 68391
-processed:
+result:
   맞춤법 검사:
     표제어: 오락실
     품사: 명사
 ---
 000_KEYWORD: 오랑우탄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68390
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3639,13 +3639,13 @@ imported:
     표제어: 오랑우탄
     품사: 명사
     항목ID: 68390
-processed:
+result:
   맞춤법 검사:
     표제어: 오랑우탄
     품사: 명사
 ---
 000_KEYWORD: 오랑캐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68389
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3692,13 +3692,13 @@ imported:
     표제어: 오랑캐
     품사: 명사
     항목ID: 68389
-processed:
+result:
   맞춤법 검사:
     표제어: 오랑캐
     품사: 명사
 ---
 000_KEYWORD: 오래__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57308
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3727,13 +3727,13 @@ imported:
     표제어: 오래
     품사: 부사
     항목ID: 57308
-processed:
+result:
   맞춤법 검사:
     표제어: 오래
     품사: 부사
 ---
 000_KEYWORD: 오래가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68087
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3765,7 +3765,7 @@ imported:
     활용:
     - 형태: 오래가
     - 형태: 오래가니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3773,7 +3773,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 오래간만__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68088
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3807,13 +3807,13 @@ imported:
     표제어: 오래간만
     품사: 명사
     항목ID: 68088
-processed:
+result:
   맞춤법 검사:
     표제어: 오래간만
     품사: 명사
 ---
 000_KEYWORD: 오래다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90651
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3852,13 +3852,13 @@ imported:
       형태: 오래니
     - 발음: 오램니다
       형태: 오랩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오래다
     품사: 형용사
 ---
 000_KEYWORD: 오래달리기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70168
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3884,13 +3884,13 @@ imported:
     표제어: 오래달리기
     품사: 명사
     항목ID: 70168
-processed:
+result:
   맞춤법 검사:
     표제어: 오래달리기
     품사: 명사
 ---
 000_KEYWORD: 오래도록__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14140
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3918,13 +3918,13 @@ imported:
     표제어: 오래도록
     품사: 부사
     항목ID: 14140
-processed:
+result:
   맞춤법 검사:
     표제어: 오래도록
     품사: 부사
 ---
 000_KEYWORD: 오래되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3933,13 +3933,13 @@ imported:
     표제어: 오래되다
     품사: 동사
     항목ID: 19247
-processed:
+result:
   맞춤법 검사:
     표제어: 오래되다
     품사: 동사
 ---
 000_KEYWORD: 오래되다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89515
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3995,13 +3995,13 @@ imported:
       형태: 오래됩니다
     - 발음: 오래뒘니다
       형태: 오래됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오래되다
     품사: 형용사
 ---
 000_KEYWORD: 오래오래__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90652
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4034,13 +4034,13 @@ imported:
     표제어: 오래오래
     품사: 부사
     항목ID: 90652
-processed:
+result:
   맞춤법 검사:
     표제어: 오래오래
     품사: 부사
 ---
 000_KEYWORD: 오래전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68089
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4070,13 +4070,13 @@ imported:
     표제어: 오래전
     품사: 명사
     항목ID: 68089
-processed:
+result:
   맞춤법 검사:
     표제어: 오래전
     품사: 명사
 ---
 000_KEYWORD: 오랜__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89775
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4106,13 +4106,13 @@ imported:
     표제어: 오랜
     품사: 관형사
     항목ID: 89775
-processed:
+result:
   맞춤법 검사:
     표제어: 오랜
     품사: 관형사
 ---
 000_KEYWORD: 오랜만__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68090
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4146,13 +4146,13 @@ imported:
     표제어: 오랜만
     품사: 명사
     항목ID: 68090
-processed:
+result:
   맞춤법 검사:
     표제어: 오랜만
     품사: 명사
 ---
 000_KEYWORD: 오랫동안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83165
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4194,13 +4194,13 @@ imported:
     표제어: 오랫동안
     품사: 명사
     항목ID: 83165
-processed:
+result:
   맞춤법 검사:
     표제어: 오랫동안
     품사: 명사
 ---
 000_KEYWORD: 오렌지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68091
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4236,13 +4236,13 @@ imported:
     표제어: 오렌지
     품사: 명사
     항목ID: 68091
-processed:
+result:
   맞춤법 검사:
     표제어: 오렌지
     품사: 명사
 ---
 000_KEYWORD: 오렌지색__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4251,13 +4251,13 @@ imported:
     표제어: 오렌지색
     품사: 명사:보통:서술성
     항목ID: 19253
-processed:
+result:
   맞춤법 검사:
     표제어: 오렌지색
     품사: 명사
 ---
 000_KEYWORD: 오로라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68092
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4283,13 +4283,13 @@ imported:
     표제어: 오로라
     품사: 명사
     항목ID: 68092
-processed:
+result:
   맞춤법 검사:
     표제어: 오로라
     품사: 명사
 ---
 000_KEYWORD: 오로지__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14138
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4317,13 +4317,13 @@ imported:
     표제어: 오로지
     품사: 부사
     항목ID: 14138
-processed:
+result:
   맞춤법 검사:
     표제어: 오로지
     품사: 부사
 ---
 000_KEYWORD: 오류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68093
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4405,13 +4405,13 @@ imported:
     표제어: 오류
     품사: 명사
     항목ID: 68093
-processed:
+result:
   맞춤법 검사:
     표제어: 오류
     품사: 명사
 ---
 000_KEYWORD: 오르가슴__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4421,13 +4421,13 @@ imported:
     표제어: 오르가슴
     품사: 명사:보통:서술성
     항목ID: 19257
-processed:
+result:
   맞춤법 검사:
     표제어: 오르가슴
     품사: 명사
 ---
 000_KEYWORD: 오르간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70169
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4458,13 +4458,13 @@ imported:
     표제어: 오르간
     품사: 명사
     항목ID: 70169
-processed:
+result:
   맞춤법 검사:
     표제어: 오르간
     품사: 명사
 ---
 000_KEYWORD: 오르골__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4474,13 +4474,13 @@ imported:
     표제어: 오르골
     품사: 명사:보통:비서술성
     항목ID: 19259
-processed:
+result:
   맞춤법 검사:
     표제어: 오르골
     품사: 명사
 ---
 000_KEYWORD: 오르내리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21852
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4558,17 +4558,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/21852_oreunaeriyeo.wav
       형태: 오르내리어
     - 형태: 오르내리니
-processed:
+result:
   맞춤법 검사:
     표제어: 오르내리다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 오르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69518
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4856,7 +4856,7 @@ imported:
     활용:
     - 형태: 올라
     - 형태: 오르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -4864,7 +4864,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 오르락내리락__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68095
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4889,13 +4889,13 @@ imported:
     표제어: 오르락내리락
     품사: 부사
     항목ID: 68095
-processed:
+result:
   맞춤법 검사:
     표제어: 오르락내리락
     품사: 부사
 ---
 000_KEYWORD: 오르락내리락하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68096
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4939,13 +4939,13 @@ imported:
     표제어: 오르락내리락하다
     품사: 동사
     항목ID: 68096
-processed:
+result:
   맞춤법 검사:
     표제어: 오르락내리락하다
     품사: 동사
 ---
 000_KEYWORD: 오르막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68097
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5005,13 +5005,13 @@ imported:
     - 발음: 오르망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68097_oreumangman.wav
       형태: 오르막만
-processed:
+result:
   맞춤법 검사:
     표제어: 오르막
     품사: 명사
 ---
 000_KEYWORD: 오르막길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70170
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5067,13 +5067,13 @@ imported:
     표제어: 오르막길
     품사: 명사
     항목ID: 70170
-processed:
+result:
   맞춤법 검사:
     표제어: 오르막길
     품사: 명사
 ---
 000_KEYWORD: 오른__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68098
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5108,13 +5108,13 @@ imported:
     표제어: 오른
     품사: 관형사
     항목ID: 68098
-processed:
+result:
   맞춤법 검사:
     표제어: 오른
     품사: 관형사
 ---
 000_KEYWORD: 오른발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68099
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5149,13 +5149,13 @@ imported:
     표제어: 오른발
     품사: 명사
     항목ID: 68099
-processed:
+result:
   맞춤법 검사:
     표제어: 오른발
     품사: 명사
 ---
 000_KEYWORD: 오른손__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68100
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5193,13 +5193,13 @@ imported:
     표제어: 오른손
     품사: 명사
     항목ID: 68100
-processed:
+result:
   맞춤법 검사:
     표제어: 오른손
     품사: 명사
 ---
 000_KEYWORD: 오른손잡이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68101
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5220,13 +5220,13 @@ imported:
     표제어: 오른손잡이
     품사: 명사
     항목ID: 68101
-processed:
+result:
   맞춤법 검사:
     표제어: 오른손잡이
     품사: 명사
 ---
 000_KEYWORD: 오른쪽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17252
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5306,13 +5306,13 @@ imported:
     - 발음: 오른쫑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/17252_oreunjjongman.wav
       형태: 오른쪽만
-processed:
+result:
   맞춤법 검사:
     표제어: 오른쪽
     품사: 명사
 ---
 000_KEYWORD: 오른팔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68106
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5365,13 +5365,13 @@ imported:
     표제어: 오른팔
     품사: 명사
     항목ID: 68106
-processed:
+result:
   맞춤법 검사:
     표제어: 오른팔
     품사: 명사
 ---
 000_KEYWORD: 오른편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70171
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5425,13 +5425,13 @@ imported:
     표제어: 오른편
     품사: 명사
     항목ID: 70171
-processed:
+result:
   맞춤법 검사:
     표제어: 오른편
     품사: 명사
 ---
 000_KEYWORD: 오름세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68108
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5475,13 +5475,13 @@ imported:
     표제어: 오름세
     품사: 명사
     항목ID: 68108
-processed:
+result:
   맞춤법 검사:
     표제어: 오름세
     품사: 명사
 ---
 000_KEYWORD: 오름차순__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68110
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5512,13 +5512,13 @@ imported:
     표제어: 오름차순
     품사: 명사
     항목ID: 68110
-processed:
+result:
   맞춤법 검사:
     표제어: 오름차순
     품사: 명사
 ---
 000_KEYWORD: 오름폭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70172
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5560,13 +5560,13 @@ imported:
     - 발음: 오름퐁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/70172_oreumpongman.wav
       형태: 오름폭만
-processed:
+result:
   맞춤법 검사:
     표제어: 오름폭
     품사: 명사
 ---
 000_KEYWORD: 오리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68111
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5610,13 +5610,13 @@ imported:
     표제어: 오리
     품사: 명사
     항목ID: 68111
-processed:
+result:
   맞춤법 검사:
     표제어: 오리
     품사: 명사
 ---
 000_KEYWORD: 오리걸음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68112
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5659,13 +5659,13 @@ imported:
     표제어: 오리걸음
     품사: 명사
     항목ID: 68112
-processed:
+result:
   맞춤법 검사:
     표제어: 오리걸음
     품사: 명사
 ---
 000_KEYWORD: 오리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68113
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5702,13 +5702,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68113_oriyeo.wav
       형태: 오리어
     - 형태: 오리니
-processed:
+result:
   맞춤법 검사:
     표제어: 오리다
     품사: 동사
 ---
 000_KEYWORD: 오리무중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70212
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5736,13 +5736,13 @@ imported:
     표제어: 오리무중
     품사: 명사
     항목ID: 70212
-processed:
+result:
   맞춤법 검사:
     표제어: 오리무중
     품사: 명사
 ---
 000_KEYWORD: 오리발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70216
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5794,13 +5794,13 @@ imported:
     표제어: 오리발
     품사: 명사
     항목ID: 70216
-processed:
+result:
   맞춤법 검사:
     표제어: 오리발
     품사: 명사
 ---
 000_KEYWORD: 오리엔테이션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68115
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5828,13 +5828,13 @@ imported:
     표제어: 오리엔테이션
     품사: 명사
     항목ID: 68115
-processed:
+result:
   맞춤법 검사:
     표제어: 오리엔테이션
     품사: 명사
 ---
 000_KEYWORD: 오리온__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5844,13 +5844,13 @@ imported:
     표제어: 오리온
     품사: 명사:고유
     항목ID: 19277
-processed:
+result:
   맞춤법 검사:
     표제어: 오리온
     품사: 명사
 ---
 000_KEYWORD: 오리온자리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5860,13 +5860,13 @@ imported:
     표제어: 오리온자리
     품사: 명사:보통:서술성
     항목ID: 19278
-processed:
+result:
   맞춤법 검사:
     표제어: 오리온자리
     품사: 명사
 ---
 000_KEYWORD: 오리지널__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68166
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5894,13 +5894,13 @@ imported:
     표제어: 오리지널
     품사: 명사
     항목ID: 68166
-processed:
+result:
   맞춤법 검사:
     표제어: 오리지널
     품사: 명사
 ---
 000_KEYWORD: 오리털__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70218
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5927,13 +5927,13 @@ imported:
     표제어: 오리털
     품사: 명사
     항목ID: 70218
-processed:
+result:
   맞춤법 검사:
     표제어: 오리털
     품사: 명사
 ---
 000_KEYWORD: 오막살이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68167
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5975,13 +5975,13 @@ imported:
     표제어: 오막살이
     품사: 명사
     항목ID: 68167
-processed:
+result:
   맞춤법 검사:
     표제어: 오막살이
     품사: 명사
 ---
 000_KEYWORD: 오만__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68168
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6010,13 +6010,13 @@ imported:
     표제어: 오만
     품사: 관형사
     항목ID: 68168
-processed:
+result:
   맞춤법 검사:
     표제어: 오만
     품사: 관형사
 ---
 000_KEYWORD: 오만__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92489
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6048,13 +6048,13 @@ imported:
     표제어: 오만
     품사: 명사
     항목ID: 92489
-processed:
+result:
   맞춤법 검사:
     표제어: 오만
     품사: 명사
 ---
 000_KEYWORD: 오만불손__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68169
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6082,13 +6082,13 @@ imported:
     표제어: 오만불손
     품사: 명사
     항목ID: 68169
-processed:
+result:
   맞춤법 검사:
     표제어: 오만불손
     품사: 명사
 ---
 000_KEYWORD: 오만불손하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68170
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6129,13 +6129,13 @@ imported:
       형태: 오만불손하니
     - 발음: 오ː만불쏜함니다
       형태: 오만불손합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오만불손하다
     품사: 형용사
 ---
 000_KEYWORD: 오만상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70220
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6163,13 +6163,13 @@ imported:
     표제어: 오만상
     품사: 명사
     항목ID: 70220
-processed:
+result:
   맞춤법 검사:
     표제어: 오만상
     품사: 명사
 ---
 000_KEYWORD: 오만스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68171
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6210,7 +6210,7 @@ imported:
       형태: 오만스러우니
     - 발음: 오ː만스럽씀니다
       형태: 오만스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6218,7 +6218,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 오만하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68172
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6266,13 +6266,13 @@ imported:
       형태: 오만하니
     - 발음: 오ː만함니다
       형태: 오만합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오만하다
     품사: 형용사
 ---
 000_KEYWORD: 오매불망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68173
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6298,13 +6298,13 @@ imported:
     표제어: 오매불망
     품사: 명사
     항목ID: 68173
-processed:
+result:
   맞춤법 검사:
     표제어: 오매불망
     품사: 명사
 ---
 000_KEYWORD: 오매불망__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68174
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6332,13 +6332,13 @@ imported:
     표제어: 오매불망
     품사: 부사
     항목ID: 68174
-processed:
+result:
   맞춤법 검사:
     표제어: 오매불망
     품사: 부사
 ---
 000_KEYWORD: 오매불망하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68175
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6367,13 +6367,13 @@ imported:
     표제어: 오매불망하다
     품사: 동사
     항목ID: 68175
-processed:
+result:
   맞춤법 검사:
     표제어: 오매불망하다
     품사: 동사
 ---
 000_KEYWORD: 오메가__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6384,13 +6384,13 @@ imported:
     표제어: 오메가
     품사: 명사:보통:서술성
     항목ID: 19284
-processed:
+result:
   맞춤법 검사:
     표제어: 오메가
     품사: 명사
 ---
 000_KEYWORD: 오명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70224
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6419,13 +6419,13 @@ imported:
     표제어: 오명
     품사: 명사
     항목ID: 70224
-processed:
+result:
   맞춤법 검사:
     표제어: 오명
     품사: 명사
 ---
 000_KEYWORD: 오목__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68176
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6457,13 +6457,13 @@ imported:
     표제어: 오목
     품사: 부사
     항목ID: 68176
-processed:
+result:
   맞춤법 검사:
     표제어: 오목
     품사: 부사
 ---
 000_KEYWORD: 오목렌즈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6473,13 +6473,13 @@ imported:
     표제어: 오목렌즈
     품사: 명사:보통:비서술성
     항목ID: 19287
-processed:
+result:
   맞춤법 검사:
     표제어: 오목렌즈
     품사: 명사
 ---
 000_KEYWORD: 오목하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68177
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6523,13 +6523,13 @@ imported:
       형태: 오목하니
     - 발음: 오모캄니다
       형태: 오목합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오목하다
     품사: 형용사
 ---
 000_KEYWORD: 오묘하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68178
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6569,13 +6569,13 @@ imported:
       형태: 오묘하니
     - 발음: 오ː묘함니다
       형태: 오묘합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오묘하다
     품사: 형용사
 ---
 000_KEYWORD: 오무리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92305
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6588,10 +6588,10 @@ imported:
     표제어: 오무리다
     품사: 동사
     항목ID: 92305
-processed: {}
+result: {}
 ---
 000_KEYWORD: 오물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91962
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6623,13 +6623,13 @@ imported:
     표제어: 오물
     품사: 명사
     항목ID: 91962
-processed:
+result:
   맞춤법 검사:
     표제어: 오물
     품사: 명사
 ---
 000_KEYWORD: 오물거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68179
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6738,13 +6738,13 @@ imported:
     표제어: 오물거리다
     품사: 동사
     항목ID: 68179
-processed:
+result:
   맞춤법 검사:
     표제어: 오물거리다
     품사: 동사
 ---
 000_KEYWORD: 오물대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91409
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6861,13 +6861,13 @@ imported:
     표제어: 오물대다
     품사: 동사
     항목ID: 91409
-processed:
+result:
   맞춤법 검사:
     표제어: 오물대다
     품사: 동사
 ---
 000_KEYWORD: 오물오물__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68180
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6941,13 +6941,13 @@ imported:
     표제어: 오물오물
     품사: 부사
     항목ID: 68180
-processed:
+result:
   맞춤법 검사:
     표제어: 오물오물
     품사: 부사
 ---
 000_KEYWORD: 오물오물하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91410
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7072,13 +7072,13 @@ imported:
       형태: 오물오물하니
     - 발음: 오무로물함니다
       형태: 오물오물합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오물오물하다
     품사: 동사
 ---
 000_KEYWORD: 오므라들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68181
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7126,17 +7126,17 @@ imported:
     - 발음: 오므라듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/68181_omeuradeumnida.wav
       형태: 오므라듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오므라들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 오므라이스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68182
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7164,13 +7164,13 @@ imported:
     표제어: 오므라이스
     품사: 명사
     항목ID: 68182
-processed:
+result:
   맞춤법 검사:
     표제어: 오므라이스
     품사: 명사
 ---
 000_KEYWORD: 오므리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68183
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7220,13 +7220,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68183_omeuriyeo.wav
       형태: 오므리어
     - 형태: 오므리니
-processed:
+result:
   맞춤법 검사:
     표제어: 오므리다
     품사: 동사
 ---
 000_KEYWORD: 오믈렛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68184
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7255,13 +7255,13 @@ imported:
     표제어: 오믈렛
     품사: 명사
     항목ID: 68184
-processed:
+result:
   맞춤법 검사:
     표제어: 오믈렛
     품사: 명사
 ---
 000_KEYWORD: 오미자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68192
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7293,13 +7293,13 @@ imported:
     표제어: 오미자
     품사: 명사
     항목ID: 68192
-processed:
+result:
   맞춤법 검사:
     표제어: 오미자
     품사: 명사
 ---
 000_KEYWORD: 오밀조밀__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68185
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7352,13 +7352,13 @@ imported:
     표제어: 오밀조밀
     품사: 부사
     항목ID: 68185
-processed:
+result:
   맞춤법 검사:
     표제어: 오밀조밀
     품사: 부사
 ---
 000_KEYWORD: 오밀조밀하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68186
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7427,13 +7427,13 @@ imported:
       형태: 오밀조밀하니
     - 발음: 오밀조밀함니다
       형태: 오밀조밀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오밀조밀하다
     품사: 형용사
 ---
 000_KEYWORD: 오발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68187
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7475,13 +7475,13 @@ imported:
     표제어: 오발
     품사: 명사
     항목ID: 68187
-processed:
+result:
   맞춤법 검사:
     표제어: 오발
     품사: 명사
 ---
 000_KEYWORD: 오밤중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68188
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7516,13 +7516,13 @@ imported:
     표제어: 오밤중
     품사: 명사
     항목ID: 68188
-processed:
+result:
   맞춤법 검사:
     표제어: 오밤중
     품사: 명사
 ---
 000_KEYWORD: 오방색__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7532,13 +7532,13 @@ imported:
     표제어: 오방색
     품사: 명사:보통:서술성
     항목ID: 19295
-processed:
+result:
   맞춤법 검사:
     표제어: 오방색
     품사: 명사
 ---
 000_KEYWORD: 오방진__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7548,13 +7548,13 @@ imported:
     표제어: 오방진
     품사: 명사:보통:서술성
     항목ID: 19296
-processed:
+result:
   맞춤법 검사:
     표제어: 오방진
     품사: 명사
 ---
 000_KEYWORD: 오버래핑__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7564,13 +7564,13 @@ imported:
     표제어: 오버래핑
     품사: 명사:보통:서술성
     항목ID: 19297
-processed:
+result:
   맞춤법 검사:
     표제어: 오버래핑
     품사: 명사
 ---
 000_KEYWORD: 오버런__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7580,13 +7580,13 @@ imported:
     표제어: 오버런
     품사: 명사:보통:서술성
     항목ID: 19298
-processed:
+result:
   맞춤법 검사:
     표제어: 오버런
     품사: 명사
 ---
 000_KEYWORD: 오버히트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7596,13 +7596,13 @@ imported:
     표제어: 오버히트
     품사: 명사:보통:서술성
     항목ID: 19299
-processed:
+result:
   맞춤법 검사:
     표제어: 오버히트
     품사: 명사
 ---
 000_KEYWORD: 오보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68189
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7635,13 +7635,13 @@ imported:
     표제어: 오보
     품사: 명사
     항목ID: 68189
-processed:
+result:
   맞춤법 검사:
     표제어: 오보
     품사: 명사
 ---
 000_KEYWORD: 오보에__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68190
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7671,13 +7671,13 @@ imported:
     표제어: 오보에
     품사: 명사
     항목ID: 68190
-processed:
+result:
   맞춤법 검사:
     표제어: 오보에
     품사: 명사
 ---
 000_KEYWORD: 오복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68191
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7715,13 +7715,13 @@ imported:
     - 발음: 오ː봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/68191_o-bongman.wav
       형태: 오복만
-processed:
+result:
   맞춤법 검사:
     표제어: 오복
     품사: 명사
 ---
 000_KEYWORD: 오붓이__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7730,13 +7730,13 @@ imported:
     표제어: 오붓이
     품사: 부사
     항목ID: 19302
-processed:
+result:
   맞춤법 검사:
     표제어: 오붓이
     품사: 부사
 ---
 000_KEYWORD: 오붓하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68004
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7790,13 +7790,13 @@ imported:
       형태: 오붓하니
     - 발음: 오부탐니다
       형태: 오붓합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오붓하다
     품사: 형용사
 ---
 000_KEYWORD: 오붓히__특수:금지어__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7805,13 +7805,13 @@ imported:
     표제어: 오붓히
     품사: 특수:금지어
     항목ID: 19304
-processed:
+result:
   맞춤법 검사:
     표제어: 오붓히
     품사: 특수:금지어
 ---
 000_KEYWORD: 오븐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68005
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7837,13 +7837,13 @@ imported:
     표제어: 오븐
     품사: 명사
     항목ID: 68005
-processed:
+result:
   맞춤법 검사:
     표제어: 오븐
     품사: 명사
 ---
 000_KEYWORD: 오빠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68006
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7919,13 +7919,13 @@ imported:
     표제어: 오빠
     품사: 명사
     항목ID: 68006
-processed:
+result:
   맞춤법 검사:
     표제어: 오빠
     품사: 명사
 ---
 000_KEYWORD: 오사카__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7936,13 +7936,13 @@ imported:
     표제어: 오사카
     품사: 명사:고유
     항목ID: 19309
-processed:
+result:
   맞춤법 검사:
     표제어: 오사카
     품사: 명사
 ---
 000_KEYWORD: 오산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68007
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7988,13 +7988,13 @@ imported:
     표제어: 오산
     품사: 명사
     항목ID: 68007
-processed:
+result:
   맞춤법 검사:
     표제어: 오산
     품사: 명사
 ---
 000_KEYWORD: 오상고절__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8004,13 +8004,13 @@ imported:
     표제어: 오상고절
     품사: 명사:보통:서술성
     항목ID: 19311
-processed:
+result:
   맞춤법 검사:
     표제어: 오상고절
     품사: 명사
 ---
 000_KEYWORD: 오색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68008
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8062,13 +8062,13 @@ imported:
     - 발음: 오ː생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/68008_o-saengman.wav
       형태: 오색만
-processed:
+result:
   맞춤법 검사:
     표제어: 오색
     품사: 명사
 ---
 000_KEYWORD: 오색찬란하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68009
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8108,13 +8108,13 @@ imported:
       형태: 오색찬란하니
     - 발음: 오ː색찰란함니다
       형태: 오색찬란합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오색찬란하다
     품사: 형용사
 ---
 000_KEYWORD: 오선보__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8124,13 +8124,13 @@ imported:
     표제어: 오선보
     품사: 명사:보통:서술성
     항목ID: 19315
-processed:
+result:
   맞춤법 검사:
     표제어: 오선보
     품사: 명사
 ---
 000_KEYWORD: 오선지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68010
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8159,13 +8159,13 @@ imported:
     표제어: 오선지
     품사: 명사
     항목ID: 68010
-processed:
+result:
   맞춤법 검사:
     표제어: 오선지
     품사: 명사
 ---
 000_KEYWORD: 오세아니아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68274
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8180,13 +8180,13 @@ imported:
     표제어: 오세아니아
     품사: 명사
     항목ID: 68274
-processed:
+result:
   맞춤법 검사:
     표제어: 오세아니아
     품사: 명사
 ---
 000_KEYWORD: 오셀로__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8196,13 +8196,13 @@ imported:
     표제어: 오셀로
     품사: 명사:고유
     항목ID: 19319
-processed:
+result:
   맞춤법 검사:
     표제어: 오셀로
     품사: 명사
 ---
 000_KEYWORD: 오소리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8212,13 +8212,13 @@ imported:
     표제어: 오소리
     품사: 명사:보통:비서술성
     항목ID: 19320
-processed:
+result:
   맞춤법 검사:
     표제어: 오소리
     품사: 명사
 ---
 000_KEYWORD: 오손도손__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8227,13 +8227,13 @@ imported:
     표제어: 오손도손
     품사: 부사
     항목ID: 19321
-processed:
+result:
   맞춤법 검사:
     표제어: 오손도손
     품사: 부사
 ---
 000_KEYWORD: 오솔길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68011
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8260,13 +8260,13 @@ imported:
     표제어: 오솔길
     품사: 명사
     항목ID: 68011
-processed:
+result:
   맞춤법 검사:
     표제어: 오솔길
     품사: 명사
 ---
 000_KEYWORD: 오수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68012
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8299,13 +8299,13 @@ imported:
     표제어: 오수
     품사: 명사
     항목ID: 68012
-processed:
+result:
   맞춤법 검사:
     표제어: 오수
     품사: 명사
 ---
 000_KEYWORD: 오수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68013
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8337,13 +8337,13 @@ imported:
     표제어: 오수
     품사: 명사
     항목ID: 68013
-processed:
+result:
   맞춤법 검사:
     표제어: 오수
     품사: 명사
 ---
 000_KEYWORD: 오순도순__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68015
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8370,13 +8370,13 @@ imported:
     표제어: 오순도순
     품사: 부사
     항목ID: 68015
-processed:
+result:
   맞춤법 검사:
     표제어: 오순도순
     품사: 부사
 ---
 000_KEYWORD: 오순도순하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92155
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8415,13 +8415,13 @@ imported:
       형태: 오순도순하니
     - 발음: 오순도순함니다
       형태: 오순도순합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오순도순하다
     품사: 형용사
 ---
 000_KEYWORD: 오스스__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68016
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8451,13 +8451,13 @@ imported:
     표제어: 오스스
     품사: 부사
     항목ID: 68016
-processed:
+result:
   맞춤법 검사:
     표제어: 오스스
     품사: 부사
 ---
 000_KEYWORD: 오스트랄로피테쿠스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8468,13 +8468,13 @@ imported:
     표제어: 오스트랄로피테쿠스
     품사: 명사:보통:비서술성
     항목ID: 19324
-processed:
+result:
   맞춤법 검사:
     표제어: 오스트랄로피테쿠스
     품사: 명사
 ---
 000_KEYWORD: 오스트레일리아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69903
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8491,13 +8491,13 @@ imported:
     표제어: 오스트레일리아
     품사: 명사
     항목ID: 69903
-processed:
+result:
   맞춤법 검사:
     표제어: 오스트레일리아
     품사: 명사
 ---
 000_KEYWORD: 오스트리아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69905
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8514,13 +8514,13 @@ imported:
     표제어: 오스트리아
     품사: 명사
     항목ID: 69905
-processed:
+result:
   맞춤법 검사:
     표제어: 오스트리아
     품사: 명사
 ---
 000_KEYWORD: 오슬오슬__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68017
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8545,13 +8545,13 @@ imported:
     표제어: 오슬오슬
     품사: 부사
     항목ID: 68017
-processed:
+result:
   맞춤법 검사:
     표제어: 오슬오슬
     품사: 부사
 ---
 000_KEYWORD: 오실로스코프__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8561,13 +8561,13 @@ imported:
     표제어: 오실로스코프
     품사: 명사:보통:비서술성
     항목ID: 19327
-processed:
+result:
   맞춤법 검사:
     표제어: 오실로스코프
     품사: 명사
 ---
 000_KEYWORD: 오심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92089
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8599,13 +8599,13 @@ imported:
     표제어: 오심
     품사: 명사
     항목ID: 92089
-processed:
+result:
   맞춤법 검사:
     표제어: 오심
     품사: 명사
 ---
 000_KEYWORD: 오십__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89596
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8665,13 +8665,13 @@ imported:
     표제어: 오십
     품사: 관형사
     항목ID: 89596
-processed:
+result:
   맞춤법 검사:
     표제어: 오십
     품사: 관형사
 ---
 000_KEYWORD: 오십__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26889
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8707,17 +8707,17 @@ imported:
     - 발음: 오ː심만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/o-simman.wav
       형태: 오십만
-processed:
+result:
   맞춤법 검사:
     표제어: 오십
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 수:10
 ---
 000_KEYWORD: 오십견__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68018
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8745,13 +8745,13 @@ imported:
     표제어: 오십견
     품사: 명사
     항목ID: 68018
-processed:
+result:
   맞춤법 검사:
     표제어: 오십견
     품사: 명사
 ---
 000_KEYWORD: 오십보백보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68019
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8774,13 +8774,13 @@ imported:
     표제어: 오십보백보
     품사: 명사
     항목ID: 68019
-processed:
+result:
   맞춤법 검사:
     표제어: 오십보백보
     품사: 명사
 ---
 000_KEYWORD: 오싹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68021
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8805,13 +8805,13 @@ imported:
     표제어: 오싹
     품사: 부사
     항목ID: 68021
-processed:
+result:
   맞춤법 검사:
     표제어: 오싹
     품사: 부사
 ---
 000_KEYWORD: 오싹거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68024
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8845,13 +8845,13 @@ imported:
     표제어: 오싹거리다
     품사: 동사
     항목ID: 68024
-processed:
+result:
   맞춤법 검사:
     표제어: 오싹거리다
     품사: 동사
 ---
 000_KEYWORD: 오싹오싹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68026
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8875,13 +8875,13 @@ imported:
     표제어: 오싹오싹
     품사: 부사
     항목ID: 68026
-processed:
+result:
   맞춤법 검사:
     표제어: 오싹오싹
     품사: 부사
 ---
 000_KEYWORD: 오싹오싹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68030
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8913,13 +8913,13 @@ imported:
     표제어: 오싹오싹하다
     품사: 동사
     항목ID: 68030
-processed:
+result:
   맞춤법 검사:
     표제어: 오싹오싹하다
     품사: 동사
 ---
 000_KEYWORD: 오싹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68033
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8947,13 +8947,13 @@ imported:
     표제어: 오싹하다
     품사: 동사
     항목ID: 68033
-processed:
+result:
   맞춤법 검사:
     표제어: 오싹하다
     품사: 동사
 ---
 000_KEYWORD: 오아시스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68038
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8992,13 +8992,13 @@ imported:
     표제어: 오아시스
     품사: 명사
     항목ID: 68038
-processed:
+result:
   맞춤법 검사:
     표제어: 오아시스
     품사: 명사
 ---
 000_KEYWORD: 오역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68040
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9038,13 +9038,13 @@ imported:
     - 발음: 오ː영만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68040_o-yeongman.wav
       형태: 오역만
-processed:
+result:
   맞춤법 검사:
     표제어: 오역
     품사: 명사
 ---
 000_KEYWORD: 오역되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68044
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9076,13 +9076,13 @@ imported:
     표제어: 오역되다
     품사: 동사
     항목ID: 68044
-processed:
+result:
   맞춤법 검사:
     표제어: 오역되다
     품사: 동사
 ---
 000_KEYWORD: 오역하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68045
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9111,13 +9111,13 @@ imported:
     표제어: 오역하다
     품사: 동사
     항목ID: 68045
-processed:
+result:
   맞춤법 검사:
     표제어: 오역하다
     품사: 동사
 ---
 000_KEYWORD: 오열__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68048
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9147,13 +9147,13 @@ imported:
     표제어: 오열
     품사: 명사
     항목ID: 68048
-processed:
+result:
   맞춤법 검사:
     표제어: 오열
     품사: 명사
 ---
 000_KEYWORD: 오열하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68049
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9182,13 +9182,13 @@ imported:
     표제어: 오열하다
     품사: 동사
     항목ID: 68049
-processed:
+result:
   맞춤법 검사:
     표제어: 오열하다
     품사: 동사
 ---
 000_KEYWORD: 오염__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21874
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9231,13 +9231,13 @@ imported:
     표제어: 오염
     품사: 명사
     항목ID: 21874
-processed:
+result:
   맞춤법 검사:
     표제어: 오염
     품사: 명사
 ---
 000_KEYWORD: 오염되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22008
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9282,13 +9282,13 @@ imported:
     표제어: 오염되다
     품사: 동사
     항목ID: 22008
-processed:
+result:
   맞춤법 검사:
     표제어: 오염되다
     품사: 동사
 ---
 000_KEYWORD: 오염물질__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9298,13 +9298,13 @@ imported:
     표제어: 오염물질
     품사: 명사:보통:서술성
     항목ID: 19338
-processed:
+result:
   맞춤법 검사:
     표제어: 오염물질
     품사: 명사
 ---
 000_KEYWORD: 오염시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84724
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9342,13 +9342,13 @@ imported:
     표제어: 오염시키다
     품사: 동사
     항목ID: 84724
-processed:
+result:
   맞춤법 검사:
     표제어: 오염시키다
     품사: 동사
 ---
 000_KEYWORD: 오염하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9357,13 +9357,13 @@ imported:
     표제어: 오염하다
     품사: 동사
     항목ID: 19339
-processed:
+result:
   맞춤법 검사:
     표제어: 오염하다
     품사: 동사
 ---
 000_KEYWORD: 오욕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68050
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9405,13 +9405,13 @@ imported:
     - 발음: 오ː용만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68050_o-yongman.wav
       형태: 오욕만
-processed:
+result:
   맞춤법 검사:
     표제어: 오욕
     품사: 명사
 ---
 000_KEYWORD: 오용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68051
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9445,13 +9445,13 @@ imported:
     표제어: 오용
     품사: 명사
     항목ID: 68051
-processed:
+result:
   맞춤법 검사:
     표제어: 오용
     품사: 명사
 ---
 000_KEYWORD: 오용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68053
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9486,13 +9486,13 @@ imported:
     표제어: 오용되다
     품사: 동사
     항목ID: 68053
-processed:
+result:
   맞춤법 검사:
     표제어: 오용되다
     품사: 동사
 ---
 000_KEYWORD: 오용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68057
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9523,13 +9523,13 @@ imported:
     표제어: 오용하다
     품사: 동사
     항목ID: 68057
-processed:
+result:
   맞춤법 검사:
     표제어: 오용하다
     품사: 동사
 ---
 000_KEYWORD: 오월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62516
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9561,13 +9561,13 @@ imported:
     표제어: 오월
     품사: 명사
     항목ID: 62516
-processed:
+result:
   맞춤법 검사:
     표제어: 오월
     품사: 명사
 ---
 000_KEYWORD: 오이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68059
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9605,13 +9605,13 @@ imported:
     표제어: 오이
     품사: 명사
     항목ID: 68059
-processed:
+result:
   맞춤법 검사:
     표제어: 오이
     품사: 명사
 ---
 000_KEYWORD: 오이김치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68061
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9642,13 +9642,13 @@ imported:
     표제어: 오이김치
     품사: 명사
     항목ID: 68061
-processed:
+result:
   맞춤법 검사:
     표제어: 오이김치
     품사: 명사
 ---
 000_KEYWORD: 오이냉국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68064
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9692,13 +9692,13 @@ imported:
     - 발음: 오이냉꿍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/68064_oinaengkkungman.wav
       형태: 오이냉국만
-processed:
+result:
   맞춤법 검사:
     표제어: 오이냉국
     품사: 명사
 ---
 000_KEYWORD: 오이소박이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68066
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9728,13 +9728,13 @@ imported:
     표제어: 오이소박이
     품사: 명사
     항목ID: 68066
-processed:
+result:
   맞춤법 검사:
     표제어: 오이소박이
     품사: 명사
 ---
 000_KEYWORD: 오이지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68067
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9765,13 +9765,13 @@ imported:
     표제어: 오이지
     품사: 명사
     항목ID: 68067
-processed:
+result:
   맞춤법 검사:
     표제어: 오이지
     품사: 명사
 ---
 000_KEYWORD: 오인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68072
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9799,13 +9799,13 @@ imported:
     표제어: 오인
     품사: 명사
     항목ID: 68072
-processed:
+result:
   맞춤법 검사:
     표제어: 오인
     품사: 명사
 ---
 000_KEYWORD: 오인되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68073
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9836,13 +9836,13 @@ imported:
     표제어: 오인되다
     품사: 동사
     항목ID: 68073
-processed:
+result:
   맞춤법 검사:
     표제어: 오인되다
     품사: 동사
 ---
 000_KEYWORD: 오인하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68074
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9871,13 +9871,13 @@ imported:
     표제어: 오인하다
     품사: 동사
     항목ID: 68074
-processed:
+result:
   맞춤법 검사:
     표제어: 오인하다
     품사: 동사
 ---
 000_KEYWORD: 오일__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9887,13 +9887,13 @@ imported:
     표제어: 오일
     품사: 명사:보통:서술성
     항목ID: 19349
-processed:
+result:
   맞춤법 검사:
     표제어: 오일
     품사: 명사
 ---
 000_KEYWORD: 오입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68075
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9932,13 +9932,13 @@ imported:
     - 발음: 오ː임만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68075_o-imman.wav
       형태: 오입만
-processed:
+result:
   맞춤법 검사:
     표제어: 오입
     품사: 명사
 ---
 000_KEYWORD: 오입쟁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68076
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9966,13 +9966,13 @@ imported:
     표제어: 오입쟁이
     품사: 명사
     항목ID: 68076
-processed:
+result:
   맞춤법 검사:
     표제어: 오입쟁이
     품사: 명사
 ---
 000_KEYWORD: 오자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68077
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10014,13 +10014,13 @@ imported:
     표제어: 오자
     품사: 명사
     항목ID: 68077
-processed:
+result:
   맞춤법 검사:
     표제어: 오자
     품사: 명사
 ---
 000_KEYWORD: 오자미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68078
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10047,13 +10047,13 @@ imported:
     표제어: 오자미
     품사: 명사
     항목ID: 68078
-processed:
+result:
   맞춤법 검사:
     표제어: 오자미
     품사: 명사
 ---
 000_KEYWORD: 오작교__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10063,13 +10063,13 @@ imported:
     표제어: 오작교
     품사: 명사:보통:서술성
     항목ID: 19351
-processed:
+result:
   맞춤법 검사:
     표제어: 오작교
     품사: 명사
 ---
 000_KEYWORD: 오작동__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10079,13 +10079,13 @@ imported:
     표제어: 오작동
     품사: 명사:보통:서술성
     항목ID: 19352
-processed:
+result:
   맞춤법 검사:
     표제어: 오작동
     품사: 명사
 ---
 000_KEYWORD: 오장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68079
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10113,13 +10113,13 @@ imported:
     표제어: 오장
     품사: 명사
     항목ID: 68079
-processed:
+result:
   맞춤법 검사:
     표제어: 오장
     품사: 명사
 ---
 000_KEYWORD: 오장육부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68080
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10147,13 +10147,13 @@ imported:
     표제어: 오장육부
     품사: 명사
     항목ID: 68080
-processed:
+result:
   맞춤법 검사:
     표제어: 오장육부
     품사: 명사
 ---
 000_KEYWORD: 오전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20246
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10209,13 +10209,13 @@ imported:
     표제어: 오전
     품사: 명사
     항목ID: 20246
-processed:
+result:
   맞춤법 검사:
     표제어: 오전
     품사: 명사
 ---
 000_KEYWORD: 오전반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68081
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10248,13 +10248,13 @@ imported:
     표제어: 오전반
     품사: 명사
     항목ID: 68081
-processed:
+result:
   맞춤법 검사:
     표제어: 오전반
     품사: 명사
 ---
 000_KEYWORD: 오점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68082
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10300,13 +10300,13 @@ imported:
     표제어: 오점
     품사: 명사
     항목ID: 68082
-processed:
+result:
   맞춤법 검사:
     표제어: 오점
     품사: 명사
 ---
 000_KEYWORD: 오존__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68083
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10331,13 +10331,13 @@ imported:
     표제어: 오존
     품사: 명사
     항목ID: 68083
-processed:
+result:
   맞춤법 검사:
     표제어: 오존
     품사: 명사
 ---
 000_KEYWORD: 오존층__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68084
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10367,13 +10367,13 @@ imported:
     표제어: 오존층
     품사: 명사
     항목ID: 68084
-processed:
+result:
   맞춤법 검사:
     표제어: 오존층
     품사: 명사
 ---
 000_KEYWORD: 오존홀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10383,13 +10383,13 @@ imported:
     표제어: 오존홀
     품사: 명사:보통:서술성
     항목ID: 19357
-processed:
+result:
   맞춤법 검사:
     표제어: 오존홀
     품사: 명사
 ---
 000_KEYWORD: 오종종하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68085
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10442,13 +10442,13 @@ imported:
       형태: 오종종하니
     - 발음: 오종종함니다
       형태: 오종종합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오종종하다
     품사: 형용사
 ---
 000_KEYWORD: 오죽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68086
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10483,13 +10483,13 @@ imported:
     표제어: 오죽
     품사: 부사
     항목ID: 68086
-processed:
+result:
   맞춤법 검사:
     표제어: 오죽
     품사: 부사
 ---
 000_KEYWORD: 오죽이나__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68216
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10517,13 +10517,13 @@ imported:
     표제어: 오죽이나
     품사: 부사
     항목ID: 68216
-processed:
+result:
   맞춤법 검사:
     표제어: 오죽이나
     품사: 부사
 ---
 000_KEYWORD: 오죽잖다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68217
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10566,13 +10566,13 @@ imported:
       형태: 오죽잖고
     - 발음: 오죽짠치
       형태: 오죽잖지
-processed:
+result:
   맞춤법 검사:
     표제어: 오죽잖다
     품사: 형용사
 ---
 000_KEYWORD: 오죽하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68218
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10607,13 +10607,13 @@ imported:
       형태: 오죽하니
     - 발음: 오주캄니다
       형태: 오죽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오죽하다
     품사: 형용사
 ---
 000_KEYWORD: 오죽하랴__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10623,13 +10623,13 @@ imported:
     표제어: 오죽하랴
     품사: 부사
     항목ID: 19358
-processed:
+result:
   맞춤법 검사:
     표제어: 오죽하랴
     품사: 부사
 ---
 000_KEYWORD: 오죽하면__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10639,13 +10639,13 @@ imported:
     표제어: 오죽하면
     품사: 부사
     항목ID: 19359
-processed:
+result:
   맞춤법 검사:
     표제어: 오죽하면
     품사: 부사
 ---
 000_KEYWORD: 오죽하여__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10655,13 +10655,13 @@ imported:
     표제어: 오죽하여
     품사: 부사
     항목ID: 19360
-processed:
+result:
   맞춤법 검사:
     표제어: 오죽하여
     품사: 부사
 ---
 000_KEYWORD: 오줌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68219
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10692,13 +10692,13 @@ imported:
     표제어: 오줌
     품사: 명사
     항목ID: 68219
-processed:
+result:
   맞춤법 검사:
     표제어: 오줌
     품사: 명사
 ---
 000_KEYWORD: 오줌소태__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68220
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10726,13 +10726,13 @@ imported:
     표제어: 오줌소태
     품사: 명사
     항목ID: 68220
-processed:
+result:
   맞춤법 검사:
     표제어: 오줌소태
     품사: 명사
 ---
 000_KEYWORD: 오줌싸개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68221
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10760,13 +10760,13 @@ imported:
     표제어: 오줌싸개
     품사: 명사
     항목ID: 68221
-processed:
+result:
   맞춤법 검사:
     표제어: 오줌싸개
     품사: 명사
 ---
 000_KEYWORD: 오지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68222
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10798,13 +10798,13 @@ imported:
     표제어: 오지
     품사: 명사
     항목ID: 68222
-processed:
+result:
   맞춤법 검사:
     표제어: 오지
     품사: 명사
 ---
 000_KEYWORD: 오지랖__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68224
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10841,13 +10841,13 @@ imported:
     - 발음: 오지람만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68224_ojiramman.wav
       형태: 오지랖만
-processed:
+result:
   맞춤법 검사:
     표제어: 오지랖
     품사: 명사
 ---
 000_KEYWORD: 오직__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67455
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10875,13 +10875,13 @@ imported:
     표제어: 오직
     품사: 부사
     항목ID: 67455
-processed:
+result:
   맞춤법 검사:
     표제어: 오직
     품사: 부사
 ---
 000_KEYWORD: 오진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68225
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10908,13 +10908,13 @@ imported:
     표제어: 오진
     품사: 명사
     항목ID: 68225
-processed:
+result:
   맞춤법 검사:
     표제어: 오진
     품사: 명사
 ---
 000_KEYWORD: 오진율__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10924,13 +10924,13 @@ imported:
     표제어: 오진율
     품사: 명사:보통:서술성
     항목ID: 19367
-processed:
+result:
   맞춤법 검사:
     표제어: 오진율
     품사: 명사
 ---
 000_KEYWORD: 오진하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68226
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10959,13 +10959,13 @@ imported:
     표제어: 오진하다
     품사: 동사
     항목ID: 68226
-processed:
+result:
   맞춤법 검사:
     표제어: 오진하다
     품사: 동사
 ---
 000_KEYWORD: 오징어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67456
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11006,13 +11006,13 @@ imported:
     표제어: 오징어
     품사: 명사
     항목ID: 67456
-processed:
+result:
   맞춤법 검사:
     표제어: 오징어
     품사: 명사
 ---
 000_KEYWORD: 오차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68227
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11054,13 +11054,13 @@ imported:
     표제어: 오차
     품사: 명사
     항목ID: 68227
-processed:
+result:
   맞춤법 검사:
     표제어: 오차
     품사: 명사
 ---
 000_KEYWORD: 오차율__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11070,13 +11070,13 @@ imported:
     표제어: 오차율
     품사: 명사:보통:서술성
     항목ID: 19371
-processed:
+result:
   맞춤법 검사:
     표제어: 오차율
     품사: 명사
 ---
 000_KEYWORD: 오찬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68228
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11113,13 +11113,13 @@ imported:
     표제어: 오찬
     품사: 명사
     항목ID: 68228
-processed:
+result:
   맞춤법 검사:
     표제어: 오찬
     품사: 명사
 ---
 000_KEYWORD: 오촌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68230
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11149,13 +11149,13 @@ imported:
     표제어: 오촌
     품사: 명사
     항목ID: 68230
-processed:
+result:
   맞춤법 검사:
     표제어: 오촌
     품사: 명사
 ---
 000_KEYWORD: 오케스트라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68231
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11186,13 +11186,13 @@ imported:
     표제어: 오케스트라
     품사: 명사
     항목ID: 68231
-processed:
+result:
   맞춤법 검사:
     표제어: 오케스트라
     품사: 명사
 ---
 000_KEYWORD: 오케이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11203,13 +11203,13 @@ imported:
     표제어: 오케이
     품사: 명사:보통:서술성
     항목ID: 19373
-processed:
+result:
   맞춤법 검사:
     표제어: 오케이
     품사: 명사
 ---
 000_KEYWORD: 오크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68232
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11236,13 +11236,13 @@ imported:
     표제어: 오크
     품사: 명사
     항목ID: 68232
-processed:
+result:
   맞춤법 검사:
     표제어: 오크
     품사: 명사
 ---
 000_KEYWORD: 오키나와__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11252,13 +11252,13 @@ imported:
     표제어: 오키나와
     품사: 명사:고유
     항목ID: 19374
-processed:
+result:
   맞춤법 검사:
     표제어: 오키나와
     품사: 명사
 ---
 000_KEYWORD: 오타__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68233
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11286,13 +11286,13 @@ imported:
     표제어: 오타
     품사: 명사
     항목ID: 68233
-processed:
+result:
   맞춤법 검사:
     표제어: 오타
     품사: 명사
 ---
 000_KEYWORD: 오토마타__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11302,13 +11302,13 @@ imported:
     표제어: 오토마타
     품사: 명사:보통:서술성
     항목ID: 19376
-processed:
+result:
   맞춤법 검사:
     표제어: 오토마타
     품사: 명사
 ---
 000_KEYWORD: 오토바이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68235
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11339,13 +11339,13 @@ imported:
     표제어: 오토바이
     품사: 명사
     항목ID: 68235
-processed:
+result:
   맞춤법 검사:
     표제어: 오토바이
     품사: 명사
 ---
 000_KEYWORD: 오톨도톨__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68236
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11374,13 +11374,13 @@ imported:
     표제어: 오톨도톨
     품사: 부사
     항목ID: 68236
-processed:
+result:
   맞춤법 검사:
     표제어: 오톨도톨
     품사: 부사
 ---
 000_KEYWORD: 오톨도톨하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68237
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11420,13 +11420,13 @@ imported:
       형태: 오톨도톨하니
     - 발음: 오톨도톨함니다
       형태: 오톨도톨합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 오톨도톨하다
     품사: 형용사
 ---
 000_KEYWORD: 오판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68238
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11459,13 +11459,13 @@ imported:
     표제어: 오판
     품사: 명사
     항목ID: 68238
-processed:
+result:
   맞춤법 검사:
     표제어: 오판
     품사: 명사
 ---
 000_KEYWORD: 오판하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68239
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11496,13 +11496,13 @@ imported:
     표제어: 오판하다
     품사: 동사
     항목ID: 68239
-processed:
+result:
   맞춤법 검사:
     표제어: 오판하다
     품사: 동사
 ---
 000_KEYWORD: 오퍼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68240
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11531,13 +11531,13 @@ imported:
     표제어: 오퍼
     품사: 명사
     항목ID: 68240
-processed:
+result:
   맞춤법 검사:
     표제어: 오퍼
     품사: 명사
 ---
 000_KEYWORD: 오퍼레이션__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11548,13 +11548,13 @@ imported:
     표제어: 오퍼레이션
     품사: 명사:보통:서술성
     항목ID: 19378
-processed:
+result:
   맞춤법 검사:
     표제어: 오퍼레이션
     품사: 명사
 ---
 000_KEYWORD: 오퍼상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68241
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11594,13 +11594,13 @@ imported:
     표제어: 오퍼상
     품사: 명사
     항목ID: 68241
-processed:
+result:
   맞춤법 검사:
     표제어: 오퍼상
     품사: 명사
 ---
 000_KEYWORD: 오페라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22019
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11631,13 +11631,13 @@ imported:
     표제어: 오페라
     품사: 명사
     항목ID: 22019
-processed:
+result:
   맞춤법 검사:
     표제어: 오페라
     품사: 명사
 ---
 000_KEYWORD: 오프닝__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11649,13 +11649,13 @@ imported:
     표제어: 오프닝
     품사: 명사:보통:서술성
     항목ID: 19380
-processed:
+result:
   맞춤법 검사:
     표제어: 오프닝
     품사: 명사
 ---
 000_KEYWORD: 오프라인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91710
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11681,13 +11681,13 @@ imported:
     표제어: 오프라인
     품사: 명사
     항목ID: 91710
-processed:
+result:
   맞춤법 검사:
     표제어: 오프라인
     품사: 명사
 ---
 000_KEYWORD: 오픈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11698,13 +11698,13 @@ imported:
     표제어: 오픈
     품사: 명사:보통:서술성
     항목ID: 19382
-processed:
+result:
   맞춤법 검사:
     표제어: 오픈
     품사: 명사
 ---
 000_KEYWORD: 오픈소스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11714,13 +11714,13 @@ imported:
     표제어: 오픈소스
     품사: 명사:보통:서술성
     항목ID: 19383
-processed:
+result:
   맞춤법 검사:
     표제어: 오픈소스
     품사: 명사
 ---
 000_KEYWORD: 오픈스트리트맵__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11731,13 +11731,13 @@ imported:
     표제어: 오픈스트리트맵
     품사: 명사:보통:서술성
     항목ID: 31840
-processed:
+result:
   맞춤법 검사:
     표제어: 오픈스트리트맵
     품사: 명사
 ---
 000_KEYWORD: 오픈오피스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11747,13 +11747,13 @@ imported:
     표제어: 오픈오피스
     품사: 명사:보통:서술성
     항목ID: 19384
-processed:
+result:
   맞춤법 검사:
     표제어: 오픈오피스
     품사: 명사
 ---
 000_KEYWORD: 오픈카__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11764,13 +11764,13 @@ imported:
     표제어: 오픈카
     품사: 명사:보통:비서술성
     항목ID: 19385
-processed:
+result:
   맞춤법 검사:
     표제어: 오픈카
     품사: 명사
 ---
 000_KEYWORD: 오피스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11781,13 +11781,13 @@ imported:
     표제어: 오피스
     품사: 명사:보통:비서술성
     항목ID: 19386
-processed:
+result:
   맞춤법 검사:
     표제어: 오피스
     품사: 명사
 ---
 000_KEYWORD: 오피스텔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22026
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11813,13 +11813,13 @@ imported:
     표제어: 오피스텔
     품사: 명사
     항목ID: 22026
-processed:
+result:
   맞춤법 검사:
     표제어: 오피스텔
     품사: 명사
 ---
 000_KEYWORD: 오한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68242
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11850,13 +11850,13 @@ imported:
     표제어: 오한
     품사: 명사
     항목ID: 68242
-processed:
+result:
   맞춤법 검사:
     표제어: 오한
     품사: 명사
 ---
 000_KEYWORD: 오합지졸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68243
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11882,13 +11882,13 @@ imported:
     표제어: 오합지졸
     품사: 명사
     항목ID: 68243
-processed:
+result:
   맞춤법 검사:
     표제어: 오합지졸
     품사: 명사
 ---
 000_KEYWORD: 오해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22033
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11924,13 +11924,13 @@ imported:
     표제어: 오해
     품사: 명사
     항목ID: 22033
-processed:
+result:
   맞춤법 검사:
     표제어: 오해
     품사: 명사
 ---
 000_KEYWORD: 오해되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68244
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11966,13 +11966,13 @@ imported:
     표제어: 오해되다
     품사: 동사
     항목ID: 68244
-processed:
+result:
   맞춤법 검사:
     표제어: 오해되다
     품사: 동사
 ---
 000_KEYWORD: 오해하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68245
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12006,13 +12006,13 @@ imported:
     표제어: 오해하다
     품사: 동사
     항목ID: 68245
-processed:
+result:
   맞춤법 검사:
     표제어: 오해하다
     품사: 동사
 ---
 000_KEYWORD: 오행설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68246
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12037,13 +12037,13 @@ imported:
     표제어: 오행설
     품사: 명사
     항목ID: 68246
-processed:
+result:
   맞춤법 검사:
     표제어: 오행설
     품사: 명사
 ---
 000_KEYWORD: 오후__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67457
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12105,13 +12105,13 @@ imported:
     표제어: 오후
     품사: 명사
     항목ID: 67457
-processed:
+result:
   맞춤법 검사:
     표제어: 오후
     품사: 명사
 ---
 000_KEYWORD: 오후반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68248
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12140,13 +12140,13 @@ imported:
     표제어: 오후반
     품사: 명사
     항목ID: 68248
-processed:
+result:
   맞춤법 검사:
     표제어: 오후반
     품사: 명사
 ---
 000_KEYWORD: 오히려__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22037
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12189,13 +12189,13 @@ imported:
     표제어: 오히려
     품사: 부사
     항목ID: 22037
-processed:
+result:
   맞춤법 검사:
     표제어: 오히려
     품사: 부사
 ---
 000_KEYWORD: 옥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68249
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12244,13 +12244,13 @@ imported:
     - 발음: 옹만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68249_ongman.wav
       형태: 옥만
-processed:
+result:
   맞춤법 검사:
     표제어: 옥
     품사: 명사
 ---
 000_KEYWORD: 옥__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92532
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12297,13 +12297,13 @@ imported:
     - 발음: 옹만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68249_ongman.wav
       형태: 옥만
-processed:
+result:
   맞춤법 검사:
     표제어: 옥
     품사: 명사
 ---
 000_KEYWORD: 옥고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68251
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12331,13 +12331,13 @@ imported:
     표제어: 옥고
     품사: 명사
     항목ID: 68251
-processed:
+result:
   맞춤법 검사:
     표제어: 옥고
     품사: 명사
 ---
 000_KEYWORD: 옥고__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68252
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12363,13 +12363,13 @@ imported:
     표제어: 옥고
     품사: 명사
     항목ID: 68252
-processed:
+result:
   맞춤법 검사:
     표제어: 옥고
     품사: 명사
 ---
 000_KEYWORD: 옥내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68253
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12401,13 +12401,13 @@ imported:
     표제어: 옥내
     품사: 명사
     항목ID: 68253
-processed:
+result:
   맞춤법 검사:
     표제어: 옥내
     품사: 명사
 ---
 000_KEYWORD: 옥니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68254
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12438,13 +12438,13 @@ imported:
     표제어: 옥니
     품사: 명사
     항목ID: 68254
-processed:
+result:
   맞춤법 검사:
     표제어: 옥니
     품사: 명사
 ---
 000_KEYWORD: 옥돌__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12454,13 +12454,13 @@ imported:
     표제어: 옥돌
     품사: 명사:보통:비서술성
     항목ID: 19398
-processed:
+result:
   맞춤법 검사:
     표제어: 옥돌
     품사: 명사
 ---
 000_KEYWORD: 옥돔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68255
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12492,13 +12492,13 @@ imported:
     표제어: 옥돔
     품사: 명사
     항목ID: 68255
-processed:
+result:
   맞춤법 검사:
     표제어: 옥돔
     품사: 명사
 ---
 000_KEYWORD: 옥동자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68256
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12526,13 +12526,13 @@ imported:
     표제어: 옥동자
     품사: 명사
     항목ID: 68256
-processed:
+result:
   맞춤법 검사:
     표제어: 옥동자
     품사: 명사
 ---
 000_KEYWORD: 옥바라지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68257
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12557,13 +12557,13 @@ imported:
     표제어: 옥바라지
     품사: 명사
     항목ID: 68257
-processed:
+result:
   맞춤법 검사:
     표제어: 옥바라지
     품사: 명사
 ---
 000_KEYWORD: 옥사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68258
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12588,13 +12588,13 @@ imported:
     표제어: 옥사
     품사: 명사
     항목ID: 68258
-processed:
+result:
   맞춤법 검사:
     표제어: 옥사
     품사: 명사
 ---
 000_KEYWORD: 옥사__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68259
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12620,13 +12620,13 @@ imported:
     표제어: 옥사
     품사: 명사
     항목ID: 68259
-processed:
+result:
   맞춤법 검사:
     표제어: 옥사
     품사: 명사
 ---
 000_KEYWORD: 옥사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68260
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12653,13 +12653,13 @@ imported:
     표제어: 옥사하다
     품사: 동사
     항목ID: 68260
-processed:
+result:
   맞춤법 검사:
     표제어: 옥사하다
     품사: 동사
 ---
 000_KEYWORD: 옥살이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68261
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12707,13 +12707,13 @@ imported:
     표제어: 옥살이
     품사: 명사
     항목ID: 68261
-processed:
+result:
   맞춤법 검사:
     표제어: 옥살이
     품사: 명사
 ---
 000_KEYWORD: 옥살이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68262
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12751,13 +12751,13 @@ imported:
     표제어: 옥살이하다
     품사: 동사
     항목ID: 68262
-processed:
+result:
   맞춤법 검사:
     표제어: 옥살이하다
     품사: 동사
 ---
 000_KEYWORD: 옥상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22046
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12791,13 +12791,13 @@ imported:
     표제어: 옥상
     품사: 명사
     항목ID: 22046
-processed:
+result:
   맞춤법 검사:
     표제어: 옥상
     품사: 명사
 ---
 000_KEYWORD: 옥새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68263
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12833,13 +12833,13 @@ imported:
     표제어: 옥새
     품사: 명사
     항목ID: 68263
-processed:
+result:
   맞춤법 검사:
     표제어: 옥새
     품사: 명사
 ---
 000_KEYWORD: 옥색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68264
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12874,13 +12874,13 @@ imported:
     - 발음: 옥쌩만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68264_okssaengman.wav
       형태: 옥색만
-processed:
+result:
   맞춤법 검사:
     표제어: 옥색
     품사: 명사
 ---
 000_KEYWORD: 옥석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68265
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12926,13 +12926,13 @@ imported:
     - 발음: 옥썽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68265_oksseongman.wav
       형태: 옥석만
-processed:
+result:
   맞춤법 검사:
     표제어: 옥석
     품사: 명사
 ---
 000_KEYWORD: 옥수수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67589
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12981,13 +12981,13 @@ imported:
     표제어: 옥수수
     품사: 명사
     항목ID: 67589
-processed:
+result:
   맞춤법 검사:
     표제어: 옥수수
     품사: 명사
 ---
 000_KEYWORD: 옥신각신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68587
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13014,13 +13014,13 @@ imported:
     표제어: 옥신각신
     품사: 명사
     항목ID: 68587
-processed:
+result:
   맞춤법 검사:
     표제어: 옥신각신
     품사: 명사
 ---
 000_KEYWORD: 옥신각신__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68590
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13049,13 +13049,13 @@ imported:
     표제어: 옥신각신
     품사: 부사
     항목ID: 68590
-processed:
+result:
   맞춤법 검사:
     표제어: 옥신각신
     품사: 부사
 ---
 000_KEYWORD: 옥신각신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68592
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13085,13 +13085,13 @@ imported:
     표제어: 옥신각신하다
     품사: 동사
     항목ID: 68592
-processed:
+result:
   맞춤법 검사:
     표제어: 옥신각신하다
     품사: 동사
 ---
 000_KEYWORD: 옥외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68596
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13127,13 +13127,13 @@ imported:
     표제어: 옥외
     품사: 명사
     항목ID: 68596
-processed:
+result:
   맞춤법 검사:
     표제어: 옥외
     품사: 명사
 ---
 000_KEYWORD: 옥좌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68597
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13170,13 +13170,13 @@ imported:
     표제어: 옥좌
     품사: 명사
     항목ID: 68597
-processed:
+result:
   맞춤법 검사:
     표제어: 옥좌
     품사: 명사
 ---
 000_KEYWORD: 옥죄다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68598
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13229,13 +13229,13 @@ imported:
       형태: 옥죄니
     - 발음: 옥줴니
       형태: 옥죄니
-processed:
+result:
   맞춤법 검사:
     표제어: 옥죄다
     품사: 동사
 ---
 000_KEYWORD: 옥죄이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68599
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13295,13 +13295,13 @@ imported:
     - 발음: 옥쮀이니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/68599_okjjweini.wav
       형태: 옥죄이니
-processed:
+result:
   맞춤법 검사:
     표제어: 옥죄이다
     품사: 동사
 ---
 000_KEYWORD: 옥중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68600
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13330,13 +13330,13 @@ imported:
     표제어: 옥중
     품사: 명사
     항목ID: 68600
-processed:
+result:
   맞춤법 검사:
     표제어: 옥중
     품사: 명사
 ---
 000_KEYWORD: 옥타브__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68601
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13363,13 +13363,13 @@ imported:
     표제어: 옥타브
     품사: 의존 명사
     항목ID: 68601
-processed:
+result:
   맞춤법 검사:
     표제어: 옥타브
     품사: 의존 명사
 ---
 000_KEYWORD: 옥탑__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13378,13 +13378,13 @@ imported:
     표제어: 옥탑
     품사: 명사:보통:서술성
     항목ID: 19410
-processed:
+result:
   맞춤법 검사:
     표제어: 옥탑
     품사: 명사
 ---
 000_KEYWORD: 옥토__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68603
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13416,13 +13416,13 @@ imported:
     표제어: 옥토
     품사: 명사
     항목ID: 68603
-processed:
+result:
   맞춤법 검사:
     표제어: 옥토
     품사: 명사
 ---
 000_KEYWORD: 옥토끼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68604
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13467,13 +13467,13 @@ imported:
     표제어: 옥토끼
     품사: 명사
     항목ID: 68604
-processed:
+result:
   맞춤법 검사:
     표제어: 옥토끼
     품사: 명사
 ---
 000_KEYWORD: 옥편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68605
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13502,13 +13502,13 @@ imported:
     표제어: 옥편
     품사: 명사
     항목ID: 68605
-processed:
+result:
   맞춤법 검사:
     표제어: 옥편
     품사: 명사
 ---
 000_KEYWORD: 옥황상제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68606
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13535,13 +13535,13 @@ imported:
     표제어: 옥황상제
     품사: 명사
     항목ID: 68606
-processed:
+result:
   맞춤법 검사:
     표제어: 옥황상제
     품사: 명사
 ---
 000_KEYWORD: 온__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67836
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13573,13 +13573,13 @@ imported:
     표제어: 온
     품사: 관형사
     항목ID: 67836
-processed:
+result:
   맞춤법 검사:
     표제어: 온
     품사: 관형사
 ---
 000_KEYWORD: 온갖__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67837
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13610,13 +13610,13 @@ imported:
     표제어: 온갖
     품사: 관형사
     항목ID: 67837
-processed:
+result:
   맞춤법 검사:
     표제어: 온갖
     품사: 관형사
 ---
 000_KEYWORD: 온건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68607
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13644,13 +13644,13 @@ imported:
     표제어: 온건
     품사: 명사
     항목ID: 68607
-processed:
+result:
   맞춤법 검사:
     표제어: 온건
     품사: 명사
 ---
 000_KEYWORD: 온건파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68608
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13681,13 +13681,13 @@ imported:
     표제어: 온건파
     품사: 명사
     항목ID: 68608
-processed:
+result:
   맞춤법 검사:
     표제어: 온건파
     품사: 명사
 ---
 000_KEYWORD: 온건하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68609
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13733,13 +13733,13 @@ imported:
       형태: 온건하니
     - 발음: 온ː건함니다
       형태: 온건합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 온건하다
     품사: 형용사
 ---
 000_KEYWORD: 온고지신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68610
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13767,13 +13767,13 @@ imported:
     표제어: 온고지신
     품사: 명사
     항목ID: 68610
-processed:
+result:
   맞춤법 검사:
     표제어: 온고지신
     품사: 명사
 ---
 000_KEYWORD: 온기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68611
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13823,13 +13823,13 @@ imported:
     표제어: 온기
     품사: 명사
     항목ID: 68611
-processed:
+result:
   맞춤법 검사:
     표제어: 온기
     품사: 명사
 ---
 000_KEYWORD: 온난__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68612
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13857,13 +13857,13 @@ imported:
     표제어: 온난
     품사: 명사
     항목ID: 68612
-processed:
+result:
   맞춤법 검사:
     표제어: 온난
     품사: 명사
 ---
 000_KEYWORD: 온난하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68614
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13904,13 +13904,13 @@ imported:
       형태: 온난하니
     - 발음: 온난함니다
       형태: 온난합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 온난하다
     품사: 형용사
 ---
 000_KEYWORD: 온난화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68615
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13949,13 +13949,13 @@ imported:
     표제어: 온난화
     품사: 명사
     항목ID: 68615
-processed:
+result:
   맞춤법 검사:
     표제어: 온난화
     품사: 명사
 ---
 000_KEYWORD: 온누리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68616
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13982,13 +13982,13 @@ imported:
     표제어: 온누리
     품사: 명사
     항목ID: 68616
-processed:
+result:
   맞춤법 검사:
     표제어: 온누리
     품사: 명사
 ---
 000_KEYWORD: 온당하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68617
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14031,13 +14031,13 @@ imported:
       형태: 온당하니
     - 발음: 온ː당함니다
       형태: 온당합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 온당하다
     품사: 형용사
 ---
 000_KEYWORD: 온대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68618
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14066,13 +14066,13 @@ imported:
     표제어: 온대
     품사: 명사
     항목ID: 68618
-processed:
+result:
   맞춤법 검사:
     표제어: 온대
     품사: 명사
 ---
 000_KEYWORD: 온대림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68619
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14097,13 +14097,13 @@ imported:
     표제어: 온대림
     품사: 명사
     항목ID: 68619
-processed:
+result:
   맞춤법 검사:
     표제어: 온대림
     품사: 명사
 ---
 000_KEYWORD: 온데간데없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68620
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14150,13 +14150,13 @@ imported:
     - 발음: 온데간데업찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68620_ondegandeeopjji.wav
       형태: 온데간데없지
-processed:
+result:
   맞춤법 검사:
     표제어: 온데간데없다
     품사: 형용사
 ---
 000_KEYWORD: 온데간데없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68621
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14183,13 +14183,13 @@ imported:
     표제어: 온데간데없이
     품사: 부사
     항목ID: 68621
-processed:
+result:
   맞춤법 검사:
     표제어: 온데간데없이
     품사: 부사
 ---
 000_KEYWORD: 온도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67838
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14231,13 +14231,13 @@ imported:
     표제어: 온도
     품사: 명사
     항목ID: 67838
-processed:
+result:
   맞춤법 검사:
     표제어: 온도
     품사: 명사
 ---
 000_KEYWORD: 온도계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68622
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14270,13 +14270,13 @@ imported:
     표제어: 온도계
     품사: 명사
     항목ID: 68622
-processed:
+result:
   맞춤법 검사:
     표제어: 온도계
     품사: 명사
 ---
 000_KEYWORD: 온돌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22048
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14329,13 +14329,13 @@ imported:
     표제어: 온돌
     품사: 명사
     항목ID: 22048
-processed:
+result:
   맞춤법 검사:
     표제어: 온돌
     품사: 명사
 ---
 000_KEYWORD: 온돌방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68623
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14370,13 +14370,13 @@ imported:
     표제어: 온돌방
     품사: 명사
     항목ID: 68623
-processed:
+result:
   맞춤법 검사:
     표제어: 온돌방
     품사: 명사
 ---
 000_KEYWORD: 온라인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22053
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14407,13 +14407,13 @@ imported:
     표제어: 온라인
     품사: 명사
     항목ID: 22053
-processed:
+result:
   맞춤법 검사:
     표제어: 온라인
     품사: 명사
 ---
 000_KEYWORD: 온몸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67839
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14458,13 +14458,13 @@ imported:
     표제어: 온몸
     품사: 명사
     항목ID: 67839
-processed:
+result:
   맞춤법 검사:
     표제어: 온몸
     품사: 명사
 ---
 000_KEYWORD: 온상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68624
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14507,13 +14507,13 @@ imported:
     표제어: 온상
     품사: 명사
     항목ID: 68624
-processed:
+result:
   맞춤법 검사:
     표제어: 온상
     품사: 명사
 ---
 000_KEYWORD: 온새미__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14523,13 +14523,13 @@ imported:
     표제어: 온새미
     품사: 명사:보통:서술성
     항목ID: 19428
-processed:
+result:
   맞춤법 검사:
     표제어: 온새미
     품사: 명사
 ---
 000_KEYWORD: 온수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68625
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14569,13 +14569,13 @@ imported:
     표제어: 온수
     품사: 명사
     항목ID: 68625
-processed:
+result:
   맞춤법 검사:
     표제어: 온수
     품사: 명사
 ---
 000_KEYWORD: 온수기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14585,13 +14585,13 @@ imported:
     표제어: 온수기
     품사: 명사:보통:비서술성
     항목ID: 19430
-processed:
+result:
   맞춤법 검사:
     표제어: 온수기
     품사: 명사
 ---
 000_KEYWORD: 온순하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68626
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14635,13 +14635,13 @@ imported:
       형태: 온순하니
     - 발음: 온순함니다
       형태: 온순합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 온순하다
     품사: 형용사
 ---
 000_KEYWORD: 온스__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68627
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14680,13 +14680,13 @@ imported:
     표제어: 온스
     품사: 의존 명사
     항목ID: 68627
-processed:
+result:
   맞춤법 검사:
     표제어: 온스
     품사: 의존 명사
 ---
 000_KEYWORD: 온실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68628
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14733,13 +14733,13 @@ imported:
     표제어: 온실
     품사: 명사
     항목ID: 68628
-processed:
+result:
   맞춤법 검사:
     표제어: 온실
     품사: 명사
 ---
 000_KEYWORD: 온실가스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93471
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14766,13 +14766,13 @@ imported:
     표제어: 온실가스
     품사: 명사
     항목ID: 93471
-processed:
+result:
   맞춤법 검사:
     표제어: 온실가스
     품사: 명사
 ---
 000_KEYWORD: 온유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68630
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14798,13 +14798,13 @@ imported:
     표제어: 온유
     품사: 명사
     항목ID: 68630
-processed:
+result:
   맞춤법 검사:
     표제어: 온유
     품사: 명사
 ---
 000_KEYWORD: 온유하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68631
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14844,13 +14844,13 @@ imported:
       형태: 온유하니
     - 발음: 오뉴함니다
       형태: 온유합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 온유하다
     품사: 형용사
 ---
 000_KEYWORD: 온장고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68632
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14886,13 +14886,13 @@ imported:
     표제어: 온장고
     품사: 명사
     항목ID: 68632
-processed:
+result:
   맞춤법 검사:
     표제어: 온장고
     품사: 명사
 ---
 000_KEYWORD: 온전하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68633
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14948,13 +14948,13 @@ imported:
       형태: 온전하니
     - 발음: 온ː전함니다
       형태: 온전합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 온전하다
     품사: 형용사
 ---
 000_KEYWORD: 온전히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68634
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14995,13 +14995,13 @@ imported:
     표제어: 온전히
     품사: 부사
     항목ID: 68634
-processed:
+result:
   맞춤법 검사:
     표제어: 온전히
     품사: 부사
 ---
 000_KEYWORD: 온점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68635
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15036,13 +15036,13 @@ imported:
     표제어: 온점
     품사: 명사
     항목ID: 68635
-processed:
+result:
   맞춤법 검사:
     표제어: 온점
     품사: 명사
 ---
 000_KEYWORD: 온정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68636
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15070,13 +15070,13 @@ imported:
     표제어: 온정
     품사: 명사
     항목ID: 68636
-processed:
+result:
   맞춤법 검사:
     표제어: 온정
     품사: 명사
 ---
 000_KEYWORD: 온조왕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67885
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15093,13 +15093,13 @@ imported:
     표제어: 온조왕
     품사: 명사
     항목ID: 67885
-processed:
+result:
   맞춤법 검사:
     표제어: 온조왕
     품사: 명사
 ---
 000_KEYWORD: 온종일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22064
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15132,13 +15132,13 @@ imported:
     표제어: 온종일
     품사: 명사
     항목ID: 22064
-processed:
+result:
   맞춤법 검사:
     표제어: 온종일
     품사: 명사
 ---
 000_KEYWORD: 온종일__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91711
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15174,13 +15174,13 @@ imported:
     표제어: 온종일
     품사: 부사
     항목ID: 91711
-processed:
+result:
   맞춤법 검사:
     표제어: 온종일
     품사: 부사
 ---
 000_KEYWORD: 온천__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68637
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15224,13 +15224,13 @@ imported:
     표제어: 온천
     품사: 명사
     항목ID: 68637
-processed:
+result:
   맞춤법 검사:
     표제어: 온천
     품사: 명사
 ---
 000_KEYWORD: 온천욕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68638
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15269,13 +15269,13 @@ imported:
     - 발음: 온천뇽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68638_oncheonnyongman.wav
       형태: 온천욕만
-processed:
+result:
   맞춤법 검사:
     표제어: 온천욕
     품사: 명사
 ---
 000_KEYWORD: 온탕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68639
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15307,13 +15307,13 @@ imported:
     표제어: 온탕
     품사: 명사
     항목ID: 68639
-processed:
+result:
   맞춤법 검사:
     표제어: 온탕
     품사: 명사
 ---
 000_KEYWORD: 온통__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67840
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15336,13 +15336,13 @@ imported:
     표제어: 온통
     품사: 부사
     항목ID: 67840
-processed:
+result:
   맞춤법 검사:
     표제어: 온통
     품사: 부사
 ---
 000_KEYWORD: 온풍기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68640
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15373,13 +15373,13 @@ imported:
     표제어: 온풍기
     품사: 명사
     항목ID: 68640
-processed:
+result:
   맞춤법 검사:
     표제어: 온풍기
     품사: 명사
 ---
 000_KEYWORD: 온화하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68641
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15435,13 +15435,13 @@ imported:
       형태: 온화하니
     - 발음: 온화함니다
       형태: 온화합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 온화하다
     품사: 형용사
 ---
 000_KEYWORD: 온후하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67988
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15484,13 +15484,13 @@ imported:
       형태: 온후하니
     - 발음: 온후함니다
       형태: 온후합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 온후하다
     품사: 형용사
 ---
 000_KEYWORD: 올-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72519
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15523,11 +15523,11 @@ imported:
     표제어: 올-
     품사: 접사
     항목ID: 72519
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 올__관형사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15536,13 +15536,13 @@ imported:
     표제어: 올
     품사: 관형사
     항목ID: 19443
-processed:
+result:
   맞춤법 검사:
     표제어: 올
     품사: 관형사
 ---
 000_KEYWORD: 올__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22072
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15573,13 +15573,13 @@ imported:
     표제어: 올
     품사: 명사
     항목ID: 22072
-processed:
+result:
   맞춤법 검사:
     표제어: 올
     품사: 명사
 ---
 000_KEYWORD: 올가미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67992
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15620,13 +15620,13 @@ imported:
     표제어: 올가미
     품사: 명사
     항목ID: 67992
-processed:
+result:
   맞춤법 검사:
     표제어: 올가미
     품사: 명사
 ---
 000_KEYWORD: 올가을__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22079
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15648,13 +15648,13 @@ imported:
     표제어: 올가을
     품사: 명사
     항목ID: 22079
-processed:
+result:
   맞춤법 검사:
     표제어: 올가을
     품사: 명사
 ---
 000_KEYWORD: 올겨울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67993
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15678,13 +15678,13 @@ imported:
     표제어: 올겨울
     품사: 명사
     항목ID: 67993
-processed:
+result:
   맞춤법 검사:
     표제어: 올겨울
     품사: 명사
 ---
 000_KEYWORD: 올곧다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67994
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15739,7 +15739,7 @@ imported:
       형태: 올곧으니
     - 발음: 올곧씀니다
       형태: 올곧습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -15747,7 +15747,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 올드미스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90489
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15775,13 +15775,13 @@ imported:
     표제어: 올드미스
     품사: 명사
     항목ID: 90489
-processed:
+result:
   맞춤법 검사:
     표제어: 올드미스
     품사: 명사
 ---
 000_KEYWORD: 올라가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89867
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16041,17 +16041,17 @@ imported:
     - 형태: 올라가
     - 형태: 올라가니
     - 형태: 올라가거라
-processed:
+result:
   맞춤법 검사:
     표제어: 올라가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 올라붙다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67995
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16105,13 +16105,13 @@ imported:
     - 발음: 올라분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/67995_ollabunneun.wav
       형태: 올라붙는
-processed:
+result:
   맞춤법 검사:
     표제어: 올라붙다
     품사: 동사
 ---
 000_KEYWORD: 올라서다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22085
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16166,17 +16166,17 @@ imported:
     활용:
     - 형태: 올라서
     - 형태: 올라서니
-processed:
+result:
   맞춤법 검사:
     표제어: 올라서다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 올라앉다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68014
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16251,17 +16251,17 @@ imported:
     - 발음: 올라안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68014_ollaanjji.wav
       형태: 올라앉지
-processed:
+result:
   맞춤법 검사:
     표제어: 올라앉다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 올라오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67841
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16450,17 +16450,17 @@ imported:
     - 형태: 올라와
     - 형태: 올라오니
     - 형태: 올라오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 올라오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 올라타다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22096
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16505,17 +16505,17 @@ imported:
     활용:
     - 형태: 올라타
     - 형태: 올라타니
-processed:
+result:
   맞춤법 검사:
     표제어: 올라타다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 올려놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62353
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16640,19 +16640,19 @@ imported:
     - 발음: 올려노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/62353_ollyeonosseumnida.wav
       형태: 올려놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
     표제어: 올려놓다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 올려다보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22101
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16703,17 +16703,17 @@ imported:
     활용:
     - 형태: 올려다보아
     - 형태: 올려다보니
-processed:
+result:
   맞춤법 검사:
     표제어: 올려다보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 올려붙이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68020
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16776,13 +16776,13 @@ imported:
     - 발음: 올려부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68020_ollyeobuchini.wav
       형태: 올려붙이니
-processed:
+result:
   맞춤법 검사:
     표제어: 올려붙이다
     품사: 동사
 ---
 000_KEYWORD: 올록볼록__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68029
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16810,13 +16810,13 @@ imported:
     표제어: 올록볼록
     품사: 부사
     항목ID: 68029
-processed:
+result:
   맞춤법 검사:
     표제어: 올록볼록
     품사: 부사
 ---
 000_KEYWORD: 올리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22109
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17070,13 +17070,13 @@ imported:
     - 발음: 올림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/olrida.wav
       형태: 올립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 올리다
     품사: 동사
 ---
 000_KEYWORD: 올리브__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68102
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17121,13 +17121,13 @@ imported:
     표제어: 올리브
     품사: 명사
     항목ID: 68102
-processed:
+result:
   맞춤법 검사:
     표제어: 올리브
     품사: 명사
 ---
 000_KEYWORD: 올리브유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68193
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17154,13 +17154,13 @@ imported:
     표제어: 올리브유
     품사: 명사
     항목ID: 68193
-processed:
+result:
   맞춤법 검사:
     표제어: 올리브유
     품사: 명사
 ---
 000_KEYWORD: 올림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68194
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17185,13 +17185,13 @@ imported:
     표제어: 올림
     품사: 명사
     항목ID: 68194
-processed:
+result:
   맞춤법 검사:
     표제어: 올림
     품사: 명사
 ---
 000_KEYWORD: 올림__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68195
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17214,13 +17214,13 @@ imported:
     표제어: 올림
     품사: 명사
     항목ID: 68195
-processed:
+result:
   맞춤법 검사:
     표제어: 올림
     품사: 명사
 ---
 000_KEYWORD: 올림말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68196
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17250,13 +17250,13 @@ imported:
     표제어: 올림말
     품사: 명사
     항목ID: 68196
-processed:
+result:
   맞춤법 검사:
     표제어: 올림말
     품사: 명사
 ---
 000_KEYWORD: 올림픽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66577
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17289,13 +17289,13 @@ imported:
     표제어: 올림픽
     품사: 명사
     항목ID: 66577
-processed:
+result:
   맞춤법 검사:
     표제어: 올림픽
     품사: 명사
 ---
 000_KEYWORD: 올망졸망__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68197
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17334,13 +17334,13 @@ imported:
     표제어: 올망졸망
     품사: 부사
     항목ID: 68197
-processed:
+result:
   맞춤법 검사:
     표제어: 올망졸망
     품사: 부사
 ---
 000_KEYWORD: 올망졸망하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68266
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17392,13 +17392,13 @@ imported:
       형태: 올망졸망하니
     - 발음: 올망졸망함니다
       형태: 올망졸망합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 올망졸망하다
     품사: 형용사
 ---
 000_KEYWORD: 올무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68267
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17456,13 +17456,13 @@ imported:
     표제어: 올무
     품사: 명사
     항목ID: 68267
-processed:
+result:
   맞춤법 검사:
     표제어: 올무
     품사: 명사
 ---
 000_KEYWORD: 올바로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68268
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17490,13 +17490,13 @@ imported:
     표제어: 올바로
     품사: 부사
     항목ID: 68268
-processed:
+result:
   맞춤법 검사:
     표제어: 올바로
     품사: 부사
 ---
 000_KEYWORD: 올바르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22142
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17541,7 +17541,7 @@ imported:
       형태: 올바르니
     - 발음: 올바름니다
       형태: 올바릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -17549,7 +17549,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 올벼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68269
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17576,13 +17576,13 @@ imported:
     표제어: 올벼
     품사: 명사
     항목ID: 68269
-processed:
+result:
   맞춤법 검사:
     표제어: 올벼
     품사: 명사
 ---
 000_KEYWORD: 올봄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68270
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17608,13 +17608,13 @@ imported:
     표제어: 올봄
     품사: 명사
     항목ID: 68270
-processed:
+result:
   맞춤법 검사:
     표제어: 올봄
     품사: 명사
 ---
 000_KEYWORD: 올빼미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68271
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17655,13 +17655,13 @@ imported:
     표제어: 올빼미
     품사: 명사
     항목ID: 68271
-processed:
+result:
   맞춤법 검사:
     표제어: 올빼미
     품사: 명사
 ---
 000_KEYWORD: 올스타__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -17670,13 +17670,13 @@ imported:
     표제어: 올스타
     품사: 명사:보통:서술성
     항목ID: 19464
-processed:
+result:
   맞춤법 검사:
     표제어: 올스타
     품사: 명사
 ---
 000_KEYWORD: 올여름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22143
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17704,13 +17704,13 @@ imported:
     표제어: 올여름
     품사: 명사
     항목ID: 22143
-processed:
+result:
   맞춤법 검사:
     표제어: 올여름
     품사: 명사
 ---
 000_KEYWORD: 올올이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68273
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17738,13 +17738,13 @@ imported:
     표제어: 올올이
     품사: 부사
     항목ID: 68273
-processed:
+result:
   맞춤법 검사:
     표제어: 올올이
     품사: 부사
 ---
 000_KEYWORD: 올차다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68277
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17798,13 +17798,13 @@ imported:
       형태: 올차니
     - 발음: 올ː참니다
       형태: 올찹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 올차다
     품사: 형용사
 ---
 000_KEYWORD: 올챙이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68376
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17859,13 +17859,13 @@ imported:
     표제어: 올챙이
     품사: 명사
     항목ID: 68376
-processed:
+result:
   맞춤법 검사:
     표제어: 올챙이
     품사: 명사
 ---
 000_KEYWORD: 올케__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68379
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17909,13 +17909,13 @@ imported:
     표제어: 올케
     품사: 명사
     항목ID: 68379
-processed:
+result:
   맞춤법 검사:
     표제어: 올케
     품사: 명사
 ---
 000_KEYWORD: 올해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67842
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17959,13 +17959,13 @@ imported:
     표제어: 올해
     품사: 명사
     항목ID: 67842
-processed:
+result:
   맞춤법 검사:
     표제어: 올해
     품사: 명사
 ---
 000_KEYWORD: 옭다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68384
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18061,13 +18061,13 @@ imported:
     - 발음: 옥찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68384_okjji.wav
       형태: 옭지
-processed:
+result:
   맞춤법 검사:
     표제어: 옭다
     품사: 동사
 ---
 000_KEYWORD: 옭매다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68385
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18140,13 +18140,13 @@ imported:
     - 발음: 옹매니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68385_ongmaeni.wav
       형태: 옭매니
-processed:
+result:
   맞춤법 검사:
     표제어: 옭매다
     품사: 동사
 ---
 000_KEYWORD: 옭아매다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68386
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18205,17 +18205,17 @@ imported:
     - 발음: 올가매니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68386_olgamaeni.wav
       형태: 옭아매니
-processed:
+result:
   맞춤법 검사:
     표제어: 옭아매다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 옮기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67843
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18384,13 +18384,13 @@ imported:
     - 발음: 옴기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/67843_omgini.wav
       형태: 옮기니
-processed:
+result:
   맞춤법 검사:
     표제어: 옮기다
     품사: 동사
 ---
 000_KEYWORD: 옮긴이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -18401,13 +18401,13 @@ imported:
     표제어: 옮긴이
     품사: 명사:보통:서술성
     항목ID: 19471
-processed:
+result:
   맞춤법 검사:
     표제어: 옮긴이
     품사: 명사
 ---
 000_KEYWORD: 옮다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68387
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18490,13 +18490,13 @@ imported:
     - 발음: 옴ː찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68387_om-jji.wav
       형태: 옮지
-processed:
+result:
   맞춤법 검사:
     표제어: 옮다
     품사: 동사
 ---
 000_KEYWORD: 옮아가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68388
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18563,7 +18563,7 @@ imported:
     - 발음: 올마가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68388_olmagani.wav
       형태: 옮아가니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -18571,7 +18571,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 옮아오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68468
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18627,7 +18627,7 @@ imported:
     - 발음: 올마오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68468_olmaoni.wav
       형태: 옮아오니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -18635,7 +18635,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 옳다__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68469
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18657,13 +18657,13 @@ imported:
     표제어: 옳다
     품사: 감탄사
     항목ID: 68469
-processed:
+result:
   맞춤법 검사:
     표제어: 옳다
     품사: 감탄사
 ---
 000_KEYWORD: 옳다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67844
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18778,13 +18778,13 @@ imported:
     - 발음: 올치
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/olchi.wav
       형태: 옳지
-processed:
+result:
   맞춤법 검사:
     표제어: 옳다
     품사: 형용사
 ---
 000_KEYWORD: 옳소__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68470
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18805,13 +18805,13 @@ imported:
     표제어: 옳소
     품사: 감탄사
     항목ID: 68470
-processed:
+result:
   맞춤법 검사:
     표제어: 옳소
     품사: 감탄사
 ---
 000_KEYWORD: 옳아__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68471
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18832,13 +18832,13 @@ imported:
     표제어: 옳아
     품사: 감탄사
     항목ID: 68471
-processed:
+result:
   맞춤법 검사:
     표제어: 옳아
     품사: 감탄사
 ---
 000_KEYWORD: 옴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68473
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18865,13 +18865,13 @@ imported:
     표제어: 옴
     품사: 명사
     항목ID: 68473
-processed:
+result:
   맞춤법 검사:
     표제어: 옴
     품사: 명사
 ---
 000_KEYWORD: 옴싹달싹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92351
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18884,10 +18884,10 @@ imported:
     표제어: 옴싹달싹
     품사: 부사
     항목ID: 92351
-processed: {}
+result: {}
 ---
 000_KEYWORD: 옴짝달싹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68474
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18913,13 +18913,13 @@ imported:
     표제어: 옴짝달싹
     품사: 부사
     항목ID: 68474
-processed:
+result:
   맞춤법 검사:
     표제어: 옴짝달싹
     품사: 부사
 ---
 000_KEYWORD: 옴짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68475
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18946,13 +18946,13 @@ imported:
     표제어: 옴짝하다
     품사: 동사
     항목ID: 68475
-processed:
+result:
   맞춤법 검사:
     표제어: 옴짝하다
     품사: 동사
 ---
 000_KEYWORD: 옴쭉달싹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92352
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18967,13 +18967,13 @@ imported:
     표제어: 옴쭉달싹
     품사: 부사
     항목ID: 92352
-processed:
+result:
   맞춤법 검사:
     표제어: 옴쭉달싹
     품사: 부사
 ---
 000_KEYWORD: 옴츠리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68476
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19030,13 +19030,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/68476_omcheuryeo.wav
       형태: 옴츠려
     - 형태: 옴츠리니
-processed:
+result:
   맞춤법 검사:
     표제어: 옴츠리다
     품사: 동사
 ---
 000_KEYWORD: 옴큼__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68477
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19067,13 +19067,13 @@ imported:
     표제어: 옴큼
     품사: 의존 명사
     항목ID: 68477
-processed:
+result:
   맞춤법 검사:
     표제어: 옴큼
     품사: 의존 명사
 ---
 000_KEYWORD: 옴팍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68478
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19113,13 +19113,13 @@ imported:
       형태: 옴팍하니
     - 발음: 옴파캄니다
       형태: 옴팍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 옴팍하다
     품사: 형용사
 ---
 000_KEYWORD: 옴팡지다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -19130,13 +19130,13 @@ imported:
     표제어: 옴팡지다
     품사: 형용사
     항목ID: 19476
-processed:
+result:
   맞춤법 검사:
     표제어: 옴팡지다
     품사: 형용사
 ---
 000_KEYWORD: 옴폭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68479
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19165,13 +19165,13 @@ imported:
     표제어: 옴폭
     품사: 부사
     항목ID: 68479
-processed:
+result:
   맞춤법 검사:
     표제어: 옴폭
     품사: 부사
 ---
 000_KEYWORD: 옵션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68481
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19208,13 +19208,13 @@ imported:
     표제어: 옵션
     품사: 명사
     항목ID: 68481
-processed:
+result:
   맞춤법 검사:
     표제어: 옵션
     품사: 명사
 ---
 000_KEYWORD: 옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30159
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19293,13 +19293,13 @@ imported:
     - 발음: 온만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68532_onman.wav
       형태: 옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 옷
     품사: 명사
 ---
 000_KEYWORD: 옷가지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68482
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19326,13 +19326,13 @@ imported:
     표제어: 옷가지
     품사: 명사
     항목ID: 68482
-processed:
+result:
   맞춤법 검사:
     표제어: 옷가지
     품사: 명사
 ---
 000_KEYWORD: 옷감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68483
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19362,13 +19362,13 @@ imported:
     표제어: 옷감
     품사: 명사
     항목ID: 68483
-processed:
+result:
   맞춤법 검사:
     표제어: 옷감
     품사: 명사
 ---
 000_KEYWORD: 옷걸이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68485
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19396,13 +19396,13 @@ imported:
     표제어: 옷걸이
     품사: 명사
     항목ID: 68485
-processed:
+result:
   맞춤법 검사:
     표제어: 옷걸이
     품사: 명사
 ---
 000_KEYWORD: 옷고름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68486
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19436,13 +19436,13 @@ imported:
     표제어: 옷고름
     품사: 명사
     항목ID: 68486
-processed:
+result:
   맞춤법 검사:
     표제어: 옷고름
     품사: 명사
 ---
 000_KEYWORD: 옷깃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68487
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19507,13 +19507,13 @@ imported:
     - 발음: 옫낀만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68487_otkkinman.wav
       형태: 옷깃만
-processed:
+result:
   맞춤법 검사:
     표제어: 옷깃
     품사: 명사
 ---
 000_KEYWORD: 옷매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68488
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19539,13 +19539,13 @@ imported:
     표제어: 옷매
     품사: 명사
     항목ID: 68488
-processed:
+result:
   맞춤법 검사:
     표제어: 옷매
     품사: 명사
 ---
 000_KEYWORD: 옷매무새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68489
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19572,13 +19572,13 @@ imported:
     표제어: 옷매무새
     품사: 명사
     항목ID: 68489
-processed:
+result:
   맞춤법 검사:
     표제어: 옷매무새
     품사: 명사
 ---
 000_KEYWORD: 옷맵시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68492
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19618,13 +19618,13 @@ imported:
     표제어: 옷맵시
     품사: 명사
     항목ID: 68492
-processed:
+result:
   맞춤법 검사:
     표제어: 옷맵시
     품사: 명사
 ---
 000_KEYWORD: 옷소매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68493
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19668,13 +19668,13 @@ imported:
     표제어: 옷소매
     품사: 명사
     항목ID: 68493
-processed:
+result:
   맞춤법 검사:
     표제어: 옷소매
     품사: 명사
 ---
 000_KEYWORD: 옷자락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68494
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19716,13 +19716,13 @@ imported:
     - 발음: 옫짜랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68494_otjjarangman.wav
       형태: 옷자락만
-processed:
+result:
   맞춤법 검사:
     표제어: 옷자락
     품사: 명사
 ---
 000_KEYWORD: 옷장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68496
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19755,13 +19755,13 @@ imported:
     표제어: 옷장
     품사: 명사
     항목ID: 68496
-processed:
+result:
   맞춤법 검사:
     표제어: 옷장
     품사: 명사
 ---
 000_KEYWORD: 옷차림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22144
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19795,13 +19795,13 @@ imported:
     표제어: 옷차림
     품사: 명사
     항목ID: 22144
-processed:
+result:
   맞춤법 검사:
     표제어: 옷차림
     품사: 명사
 ---
 000_KEYWORD: 옷차림새__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -19811,13 +19811,13 @@ imported:
     표제어: 옷차림새
     품사: 명사:보통:서술성
     항목ID: 19486
-processed:
+result:
   맞춤법 검사:
     표제어: 옷차림새
     품사: 명사
 ---
 000_KEYWORD: 옷핀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68497
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19844,13 +19844,13 @@ imported:
     표제어: 옷핀
     품사: 명사
     항목ID: 68497
-processed:
+result:
   맞춤법 검사:
     표제어: 옷핀
     품사: 명사
 ---
 000_KEYWORD: 옹__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68500
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19871,13 +19871,13 @@ imported:
     표제어: 옹
     품사: 대명사
     항목ID: 68500
-processed:
+result:
   맞춤법 검사:
     표제어: 옹
     품사: 대명사
 ---
 000_KEYWORD: 옹__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68499
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19902,13 +19902,13 @@ imported:
     표제어: 옹
     품사: 의존 명사
     항목ID: 68499
-processed:
+result:
   맞춤법 검사:
     표제어: 옹
     품사: 의존 명사
 ---
 000_KEYWORD: 옹고집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68501
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19957,13 +19957,13 @@ imported:
     - 발음: 옹ː고짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68501_ong-gojimman.wav
       형태: 옹고집만
-processed:
+result:
   맞춤법 검사:
     표제어: 옹고집
     품사: 명사
 ---
 000_KEYWORD: 옹골지다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68502
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20007,13 +20007,13 @@ imported:
       형태: 옹골지니
     - 발음: 옹골짐니다
       형태: 옹골집니다
-processed:
+result:
   맞춤법 검사:
     표제어: 옹골지다
     품사: 형용사
 ---
 000_KEYWORD: 옹골차다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68503
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20056,13 +20056,13 @@ imported:
       형태: 옹골차니
     - 발음: 옹골참니다
       형태: 옹골찹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 옹골차다
     품사: 형용사
 ---
 000_KEYWORD: 옹글다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68505
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20133,13 +20133,13 @@ imported:
     - 발음: 옹금니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68505_onggeumnida.wav
       형태: 옹급니다
-processed:
+result:
   맞춤법 검사:
     표제어: 옹글다
     품사: 형용사
 ---
 000_KEYWORD: 옹기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68506
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20174,13 +20174,13 @@ imported:
     표제어: 옹기
     품사: 명사
     항목ID: 68506
-processed:
+result:
   맞춤법 검사:
     표제어: 옹기
     품사: 명사
 ---
 000_KEYWORD: 옹기장이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68507
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20212,13 +20212,13 @@ imported:
     표제어: 옹기장이
     품사: 명사
     항목ID: 68507
-processed:
+result:
   맞춤법 검사:
     표제어: 옹기장이
     품사: 명사
 ---
 000_KEYWORD: 옹기종기__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68508
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20246,13 +20246,13 @@ imported:
     표제어: 옹기종기
     품사: 부사
     항목ID: 68508
-processed:
+result:
   맞춤법 검사:
     표제어: 옹기종기
     품사: 부사
 ---
 000_KEYWORD: 옹달샘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68509
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20278,13 +20278,13 @@ imported:
     표제어: 옹달샘
     품사: 명사
     항목ID: 68509
-processed:
+result:
   맞춤법 검사:
     표제어: 옹달샘
     품사: 명사
 ---
 000_KEYWORD: 옹립__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68510
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20321,13 +20321,13 @@ imported:
     - 발음: 옹ː님만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68510_ong-nimman.wav
       형태: 옹립만
-processed:
+result:
   맞춤법 검사:
     표제어: 옹립
     품사: 명사
 ---
 000_KEYWORD: 옹립하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68512
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20353,13 +20353,13 @@ imported:
     표제어: 옹립하다
     품사: 동사
     항목ID: 68512
-processed:
+result:
   맞춤법 검사:
     표제어: 옹립하다
     품사: 동사
 ---
 000_KEYWORD: 옹벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68513
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20400,13 +20400,13 @@ imported:
     - 발음: 옹ː병만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68513_ong-byeongman.wav
       형태: 옹벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 옹벽
     품사: 명사
 ---
 000_KEYWORD: 옹색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68515
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20440,13 +20440,13 @@ imported:
     - 발음: 옹ː생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68515_ong-saengman.wav
       형태: 옹색만
-processed:
+result:
   맞춤법 검사:
     표제어: 옹색
     품사: 명사
 ---
 000_KEYWORD: 옹색하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68516
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20522,13 +20522,13 @@ imported:
       형태: 옹색하니
     - 발음: 옹ː새캄니다
       형태: 옹색합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 옹색하다
     품사: 형용사
 ---
 000_KEYWORD: 옹스트롬__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -20538,13 +20538,13 @@ imported:
     표제어: 옹스트롬
     품사: 명사:의존:단위성
     항목ID: 19495
-processed:
+result:
   맞춤법 검사:
     표제어: 옹스트롬
     품사: 명사
 ---
 000_KEYWORD: 옹알거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68517
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20598,13 +20598,13 @@ imported:
     표제어: 옹알거리다
     품사: 동사
     항목ID: 68517
-processed:
+result:
   맞춤법 검사:
     표제어: 옹알거리다
     품사: 동사
 ---
 000_KEYWORD: 옹알대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68519
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20659,13 +20659,13 @@ imported:
     표제어: 옹알대다
     품사: 동사
     항목ID: 68519
-processed:
+result:
   맞춤법 검사:
     표제어: 옹알대다
     품사: 동사
 ---
 000_KEYWORD: 옹알옹알__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68520
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20703,13 +20703,13 @@ imported:
     표제어: 옹알옹알
     품사: 부사
     항목ID: 68520
-processed:
+result:
   맞춤법 검사:
     표제어: 옹알옹알
     품사: 부사
 ---
 000_KEYWORD: 옹알옹알하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91411
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20774,13 +20774,13 @@ imported:
       형태: 옹알옹알하니
     - 발음: 옹아롱알함니다
       형태: 옹알옹알합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 옹알옹알하다
     품사: 동사
 ---
 000_KEYWORD: 옹알이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68522
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20804,13 +20804,13 @@ imported:
     표제어: 옹알이
     품사: 명사
     항목ID: 68522
-processed:
+result:
   맞춤법 검사:
     표제어: 옹알이
     품사: 명사
 ---
 000_KEYWORD: 옹알이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68523
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20835,13 +20835,13 @@ imported:
     표제어: 옹알이하다
     품사: 동사
     항목ID: 68523
-processed:
+result:
   맞춤법 검사:
     표제어: 옹알이하다
     품사: 동사
 ---
 000_KEYWORD: 옹이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -20852,13 +20852,13 @@ imported:
     표제어: 옹이
     품사: 명사:보통:비서술성
     항목ID: 19496
-processed:
+result:
   맞춤법 검사:
     표제어: 옹이
     품사: 명사
 ---
 000_KEYWORD: 옹졸하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68524
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20913,13 +20913,13 @@ imported:
       형태: 옹졸하니
     - 발음: 옹ː졸함니다
       형태: 옹졸합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 옹졸하다
     품사: 형용사
 ---
 000_KEYWORD: 옹크리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68525
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20956,13 +20956,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68525_ongkeuriyeo.wav
       형태: 옹크리어
     - 형태: 옹크리니
-processed:
+result:
   맞춤법 검사:
     표제어: 옹크리다
     품사: 동사
 ---
 000_KEYWORD: 옹호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68527
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20991,13 +20991,13 @@ imported:
     표제어: 옹호
     품사: 명사
     항목ID: 68527
-processed:
+result:
   맞춤법 검사:
     표제어: 옹호
     품사: 명사
 ---
 000_KEYWORD: 옹호되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68528
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21029,13 +21029,13 @@ imported:
     표제어: 옹호되다
     품사: 동사
     항목ID: 68528
-processed:
+result:
   맞춤법 검사:
     표제어: 옹호되다
     품사: 동사
 ---
 000_KEYWORD: 옹호하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68531
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21067,13 +21067,13 @@ imported:
     표제어: 옹호하다
     품사: 동사
     항목ID: 68531
-processed:
+result:
   맞춤법 검사:
     표제어: 옹호하다
     품사: 동사
 ---
 000_KEYWORD: 옻__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68532
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21127,13 +21127,13 @@ imported:
     - 발음: 온만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68532_onman.wav
       형태: 옻만
-processed:
+result:
   맞춤법 검사:
     표제어: 옻
     품사: 명사
 ---
 000_KEYWORD: 옻오르다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -21145,14 +21145,14 @@ imported:
     표제어: 옻오르다
     품사: 동사
     항목ID: 19502
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 옻오르다
     품사: 동사
 ---
 000_KEYWORD: 옻칠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68642
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21197,7 +21197,7 @@ imported:
     표제어: 옻칠
     품사: 명사
     항목ID: 68642
-processed:
+result:
   맞춤법 검사:
     표제어: 옻칠
     품사: 명사

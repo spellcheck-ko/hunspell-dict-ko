@@ -1,5 +1,5 @@
 000_KEYWORD: 훠이__감탄사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 훠이
     품사: 감탄사
     항목ID: 31467
-processed:
+result:
   맞춤법 검사:
     표제어: 훠이
     품사: 감탄사
 ---
 000_KEYWORD: 훤출하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92307
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -28,10 +28,10 @@ imported:
     표제어: 훤출하다
     품사: 형용사
     항목ID: 92307
-processed: {}
+result: {}
 ---
 000_KEYWORD: 훤칠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87749
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -85,13 +85,13 @@ imported:
       형태: 훤칠하니
     - 발음: 훤칠함니다
       형태: 훤칠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 훤칠하다
     품사: 형용사
 ---
 000_KEYWORD: 훤칠히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87750
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -131,13 +131,13 @@ imported:
     표제어: 훤칠히
     품사: 부사
     항목ID: 87750
-processed:
+result:
   맞춤법 검사:
     표제어: 훤칠히
     품사: 부사
 ---
 000_KEYWORD: 훤하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87760
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -256,13 +256,13 @@ imported:
       형태: 훤하니
     - 발음: 훤ː함니다
       형태: 훤합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 훤하다
     품사: 형용사
 ---
 000_KEYWORD: 훤히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87758
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -338,13 +338,13 @@ imported:
     표제어: 훤히
     품사: 부사
     항목ID: 87758
-processed:
+result:
   맞춤법 검사:
     표제어: 훤히
     품사: 부사
 ---
 000_KEYWORD: 훨씬__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73250
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -373,13 +373,13 @@ imported:
     표제어: 훨씬
     품사: 부사
     항목ID: 73250
-processed:
+result:
   맞춤법 검사:
     표제어: 훨씬
     품사: 부사
 ---
 000_KEYWORD: 훨훨__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87762
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -476,7 +476,7 @@ imported:
     표제어: 훨훨
     품사: 부사
     항목ID: 87762
-processed:
+result:
   맞춤법 검사:
     표제어: 훨훨
     품사: 부사

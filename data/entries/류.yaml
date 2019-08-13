@@ -1,5 +1,5 @@
 000_KEYWORD: -류__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74917
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -17,11 +17,11 @@ imported:
     표제어: -류
     품사: 접사
     항목ID: 74917
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -류__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74918
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -54,11 +54,11 @@ imported:
     표제어: -류
     품사: 접사
     항목ID: 74918
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -률__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74919
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -80,11 +80,11 @@ imported:
     표제어: -률
     품사: 접사
     항목ID: 74919
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -률__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74920
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -128,11 +128,11 @@ imported:
     표제어: -률
     품사: 접사
     항목ID: 74920
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 류마티스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -142,13 +142,13 @@ imported:
     표제어: 류마티스
     품사: 명사:보통:서술성
     항목ID: 8177
-processed:
+result:
   맞춤법 검사:
     표제어: 류마티스
     품사: 명사
 ---
 000_KEYWORD: 류머티즘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52492
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -172,7 +172,7 @@ imported:
     표제어: 류머티즘
     품사: 명사
     항목ID: 52492
-processed:
+result:
   맞춤법 검사:
     표제어: 류머티즘
     품사: 명사

@@ -1,5 +1,5 @@
 000_KEYWORD: ㅌ__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69102
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -25,7 +25,7 @@ imported:
     - 발음: 티은만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69103_tieunman.wav
       형태: ㅌ만
-processed:
+result:
   맞춤법 검사:
     표제어: ㅌ
     품사: 명사

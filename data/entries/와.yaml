@@ -1,5 +1,5 @@
 000_KEYWORD: -왕__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72693
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -24,11 +24,11 @@ imported:
     표제어: -왕
     품사: 접사
     항목ID: 72693
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 와__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17872
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -81,13 +81,13 @@ imported:
     표제어: 와
     품사: 감탄사
     항목ID: 17872
-processed:
+result:
   맞춤법 검사:
     표제어: 와
     품사: 감탄사
 ---
 000_KEYWORD: 와__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68786
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -103,13 +103,13 @@ imported:
     표제어: 와
     품사: 명사
     항목ID: 68786
-processed:
+result:
   맞춤법 검사:
     표제어: 와
     품사: 명사
 ---
 000_KEYWORD: 와__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17875
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -145,13 +145,13 @@ imported:
     표제어: 와
     품사: 부사
     항목ID: 17875
-processed:
+result:
   맞춤법 검사:
     표제어: 와
     품사: 부사
 ---
 000_KEYWORD: 와__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78628
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -239,11 +239,11 @@ imported:
     표제어: 와
     품사: 조사
     항목ID: 78628
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 와그르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91412
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -379,13 +379,13 @@ imported:
     표제어: 와그르르
     품사: 부사
     항목ID: 91412
-processed:
+result:
   맞춤법 검사:
     표제어: 와그르르
     품사: 부사
 ---
 000_KEYWORD: 와글거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68643
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -457,13 +457,13 @@ imported:
     표제어: 와글거리다
     품사: 동사
     항목ID: 68643
-processed:
+result:
   맞춤법 검사:
     표제어: 와글거리다
     품사: 동사
 ---
 000_KEYWORD: 와글대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91413
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -524,13 +524,13 @@ imported:
     표제어: 와글대다
     품사: 동사
     항목ID: 91413
-processed:
+result:
   맞춤법 검사:
     표제어: 와글대다
     품사: 동사
 ---
 000_KEYWORD: 와글와글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68644
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -563,13 +563,13 @@ imported:
     표제어: 와글와글
     품사: 부사
     항목ID: 68644
-processed:
+result:
   맞춤법 검사:
     표제어: 와글와글
     품사: 부사
 ---
 000_KEYWORD: 와글와글하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91414
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -638,13 +638,13 @@ imported:
       형태: 와글와글하니
     - 발음: 와그롸글함니다
       형태: 와글와글합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 와글와글하다
     품사: 동사
 ---
 000_KEYWORD: 와당탕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68645
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -669,13 +669,13 @@ imported:
     표제어: 와당탕
     품사: 부사
     항목ID: 68645
-processed:
+result:
   맞춤법 검사:
     표제어: 와당탕
     품사: 부사
 ---
 000_KEYWORD: 와닿다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93642
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -708,7 +708,7 @@ imported:
       형태: 와닿으니
     - 발음: 와다씀니다
       형태: 와닿습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -716,7 +716,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 와드득__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68646
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -744,13 +744,13 @@ imported:
     표제어: 와드득
     품사: 부사
     항목ID: 68646
-processed:
+result:
   맞춤법 검사:
     표제어: 와드득
     품사: 부사
 ---
 000_KEYWORD: 와들와들__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68647
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -772,13 +772,13 @@ imported:
     표제어: 와들와들
     품사: 부사
     항목ID: 68647
-processed:
+result:
   맞춤법 검사:
     표제어: 와들와들
     품사: 부사
 ---
 000_KEYWORD: 와락__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68648
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -818,13 +818,13 @@ imported:
     표제어: 와락
     품사: 부사
     항목ID: 68648
-processed:
+result:
   맞춤법 검사:
     표제어: 와락
     품사: 부사
 ---
 000_KEYWORD: 와류__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -835,13 +835,13 @@ imported:
     표제어: 와류
     품사: 명사:보통:서술성
     항목ID: 19507
-processed:
+result:
   맞춤법 검사:
     표제어: 와류
     품사: 명사
 ---
 000_KEYWORD: 와르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68754
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -948,13 +948,13 @@ imported:
     표제어: 와르르
     품사: 부사
     항목ID: 68754
-processed:
+result:
   맞춤법 검사:
     표제어: 와르르
     품사: 부사
 ---
 000_KEYWORD: 와르릉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68649
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -994,13 +994,13 @@ imported:
     표제어: 와르릉
     품사: 부사
     항목ID: 68649
-processed:
+result:
   맞춤법 검사:
     표제어: 와르릉
     품사: 부사
 ---
 000_KEYWORD: 와병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68650
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1028,13 +1028,13 @@ imported:
     표제어: 와병
     품사: 명사
     항목ID: 68650
-processed:
+result:
   맞춤법 검사:
     표제어: 와병
     품사: 명사
 ---
 000_KEYWORD: 와병하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1043,13 +1043,13 @@ imported:
     표제어: 와병하다
     품사: 동사
     항목ID: 31972
-processed:
+result:
   맞춤법 검사:
     표제어: 와병하다
     품사: 동사
 ---
 000_KEYWORD: 와사비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92353
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1063,10 +1063,10 @@ imported:
     표제어: 와사비
     품사: 명사
     항목ID: 92353
-processed: {}
+result: {}
 ---
 000_KEYWORD: 와삭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68651
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1092,13 +1092,13 @@ imported:
     표제어: 와삭
     품사: 부사
     항목ID: 68651
-processed:
+result:
   맞춤법 검사:
     표제어: 와삭
     품사: 부사
 ---
 000_KEYWORD: 와신상담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68652
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1120,13 +1120,13 @@ imported:
     표제어: 와신상담
     품사: 명사
     항목ID: 68652
-processed:
+result:
   맞춤법 검사:
     표제어: 와신상담
     품사: 명사
 ---
 000_KEYWORD: 와이브로__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1136,13 +1136,13 @@ imported:
     표제어: 와이브로
     품사: 명사:보통:서술성
     항목ID: 19511
-processed:
+result:
   맞춤법 검사:
     표제어: 와이브로
     품사: 명사
 ---
 000_KEYWORD: 와이셔츠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22146
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1174,13 +1174,13 @@ imported:
     표제어: 와이셔츠
     품사: 명사
     항목ID: 22146
-processed:
+result:
   맞춤법 검사:
     표제어: 와이셔츠
     품사: 명사
 ---
 000_KEYWORD: 와이어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68653
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1209,13 +1209,13 @@ imported:
     표제어: 와이어
     품사: 명사
     항목ID: 68653
-processed:
+result:
   맞춤법 검사:
     표제어: 와이어
     품사: 명사
 ---
 000_KEYWORD: 와이퍼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68654
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1244,13 +1244,13 @@ imported:
     표제어: 와이퍼
     품사: 명사
     항목ID: 68654
-processed:
+result:
   맞춤법 검사:
     표제어: 와이퍼
     품사: 명사
 ---
 000_KEYWORD: 와인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67845
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1291,13 +1291,13 @@ imported:
     표제어: 와인
     품사: 명사
     항목ID: 67845
-processed:
+result:
   맞춤법 검사:
     표제어: 와인
     품사: 명사
 ---
 000_KEYWORD: 와장창__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68655
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1325,13 +1325,13 @@ imported:
     표제어: 와장창
     품사: 부사
     항목ID: 68655
-processed:
+result:
   맞춤법 검사:
     표제어: 와장창
     품사: 부사
 ---
 000_KEYWORD: 와전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68656
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1360,13 +1360,13 @@ imported:
     표제어: 와전
     품사: 명사
     항목ID: 68656
-processed:
+result:
   맞춤법 검사:
     표제어: 와전
     품사: 명사
 ---
 000_KEYWORD: 와전되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68657
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1398,13 +1398,13 @@ imported:
     표제어: 와전되다
     품사: 동사
     항목ID: 68657
-processed:
+result:
   맞춤법 검사:
     표제어: 와전되다
     품사: 동사
 ---
 000_KEYWORD: 와전류__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1415,13 +1415,13 @@ imported:
     표제어: 와전류
     품사: 명사:보통:서술성
     항목ID: 19517
-processed:
+result:
   맞춤법 검사:
     표제어: 와전류
     품사: 명사
 ---
 000_KEYWORD: 와전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68658
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1450,13 +1450,13 @@ imported:
     표제어: 와전하다
     품사: 동사
     항목ID: 68658
-processed:
+result:
   맞춤법 검사:
     표제어: 와전하다
     품사: 동사
 ---
 000_KEYWORD: 와중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68659
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1485,13 +1485,13 @@ imported:
     표제어: 와중
     품사: 명사
     항목ID: 68659
-processed:
+result:
   맞춤법 검사:
     표제어: 와중
     품사: 명사
 ---
 000_KEYWORD: 와트__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68660
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1510,13 +1510,13 @@ imported:
     표제어: 와트
     품사: 의존 명사
     항목ID: 68660
-processed:
+result:
   맞춤법 검사:
     표제어: 와트
     품사: 의존 명사
 ---
 000_KEYWORD: 와플__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1526,13 +1526,13 @@ imported:
     표제어: 와플
     품사: 명사:보통:서술성
     항목ID: 19520
-processed:
+result:
   맞춤법 검사:
     표제어: 와플
     품사: 명사
 ---
 000_KEYWORD: 와해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68661
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1562,13 +1562,13 @@ imported:
     표제어: 와해
     품사: 명사
     항목ID: 68661
-processed:
+result:
   맞춤법 검사:
     표제어: 와해
     품사: 명사
 ---
 000_KEYWORD: 와해되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68662
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1598,13 +1598,13 @@ imported:
     표제어: 와해되다
     품사: 동사
     항목ID: 68662
-processed:
+result:
   맞춤법 검사:
     표제어: 와해되다
     품사: 동사
 ---
 000_KEYWORD: 와해하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68663
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1632,13 +1632,13 @@ imported:
     표제어: 와해하다
     품사: 동사
     항목ID: 68663
-processed:
+result:
   맞춤법 검사:
     표제어: 와해하다
     품사: 동사
 ---
 000_KEYWORD: 왁스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68664
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1678,13 +1678,13 @@ imported:
     표제어: 왁스
     품사: 명사
     항목ID: 68664
-processed:
+result:
   맞춤법 검사:
     표제어: 왁스
     품사: 명사
 ---
 000_KEYWORD: 왁자지껄__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68665
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1713,13 +1713,13 @@ imported:
     표제어: 왁자지껄
     품사: 부사
     항목ID: 68665
-processed:
+result:
   맞춤법 검사:
     표제어: 왁자지껄
     품사: 부사
 ---
 000_KEYWORD: 왁자지껄하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68666
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1746,13 +1746,13 @@ imported:
     표제어: 왁자지껄하다
     품사: 동사
     항목ID: 68666
-processed:
+result:
   맞춤법 검사:
     표제어: 왁자지껄하다
     품사: 동사
 ---
 000_KEYWORD: 왁자지껄하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68667
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1785,13 +1785,13 @@ imported:
       형태: 왁자지껄하니
     - 발음: 왁짜지껄함니다
       형태: 왁자지껄합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 왁자지껄하다
     품사: 형용사
 ---
 000_KEYWORD: 완간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68668
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1819,13 +1819,13 @@ imported:
     표제어: 완간
     품사: 명사
     항목ID: 68668
-processed:
+result:
   맞춤법 검사:
     표제어: 완간
     품사: 명사
 ---
 000_KEYWORD: 완간하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68669
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1853,13 +1853,13 @@ imported:
     표제어: 완간하다
     품사: 동사
     항목ID: 68669
-processed:
+result:
   맞춤법 검사:
     표제어: 완간하다
     품사: 동사
 ---
 000_KEYWORD: 완강하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68670
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1913,13 +1913,13 @@ imported:
       형태: 완강하니
     - 발음: 완강함니다
       형태: 완강합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완강하다
     품사: 형용사
 ---
 000_KEYWORD: 완강히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68671
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1947,13 +1947,13 @@ imported:
     표제어: 완강히
     품사: 부사
     항목ID: 68671
-processed:
+result:
   맞춤법 검사:
     표제어: 완강히
     품사: 부사
 ---
 000_KEYWORD: 완결__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68672
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1981,13 +1981,13 @@ imported:
     표제어: 완결
     품사: 명사
     항목ID: 68672
-processed:
+result:
   맞춤법 검사:
     표제어: 완결
     품사: 명사
 ---
 000_KEYWORD: 완결되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68673
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2020,13 +2020,13 @@ imported:
     표제어: 완결되다
     품사: 동사
     항목ID: 68673
-processed:
+result:
   맞춤법 검사:
     표제어: 완결되다
     품사: 동사
 ---
 000_KEYWORD: 완결성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68674
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2056,13 +2056,13 @@ imported:
     표제어: 완결성
     품사: 명사
     항목ID: 68674
-processed:
+result:
   맞춤법 검사:
     표제어: 완결성
     품사: 명사
 ---
 000_KEYWORD: 완결하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68675
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2090,13 +2090,13 @@ imported:
     표제어: 완결하다
     품사: 동사
     항목ID: 68675
-processed:
+result:
   맞춤법 검사:
     표제어: 완결하다
     품사: 동사
 ---
 000_KEYWORD: 완고하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68676
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2140,13 +2140,13 @@ imported:
       형태: 완고하니
     - 발음: 완고함니다
       형태: 완고합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완고하다
     품사: 형용사
 ---
 000_KEYWORD: 완곡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68677
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2187,13 +2187,13 @@ imported:
       형태: 완곡하니
     - 발음: 완ː고캄니다
       형태: 완곡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완곡하다
     품사: 형용사
 ---
 000_KEYWORD: 완곡히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68678
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2221,13 +2221,13 @@ imported:
     표제어: 완곡히
     품사: 부사
     항목ID: 68678
-processed:
+result:
   맞춤법 검사:
     표제어: 완곡히
     품사: 부사
 ---
 000_KEYWORD: 완공__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68679
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2261,13 +2261,13 @@ imported:
     표제어: 완공
     품사: 명사
     항목ID: 68679
-processed:
+result:
   맞춤법 검사:
     표제어: 완공
     품사: 명사
 ---
 000_KEYWORD: 완공되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68680
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2298,13 +2298,13 @@ imported:
     표제어: 완공되다
     품사: 동사
     항목ID: 68680
-processed:
+result:
   맞춤법 검사:
     표제어: 완공되다
     품사: 동사
 ---
 000_KEYWORD: 완공하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68681
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2333,13 +2333,13 @@ imported:
     표제어: 완공하다
     품사: 동사
     항목ID: 68681
-processed:
+result:
   맞춤법 검사:
     표제어: 완공하다
     품사: 동사
 ---
 000_KEYWORD: 완구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68682
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2381,13 +2381,13 @@ imported:
     표제어: 완구
     품사: 명사
     항목ID: 68682
-processed:
+result:
   맞춤법 검사:
     표제어: 완구
     품사: 명사
 ---
 000_KEYWORD: 완구점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68683
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2423,13 +2423,13 @@ imported:
     표제어: 완구점
     품사: 명사
     항목ID: 68683
-processed:
+result:
   맞춤법 검사:
     표제어: 완구점
     품사: 명사
 ---
 000_KEYWORD: 완급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68684
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2476,13 +2476,13 @@ imported:
     - 발음: 완ː금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68684_wan-geumman.wav
       형태: 완급만
-processed:
+result:
   맞춤법 검사:
     표제어: 완급
     품사: 명사
 ---
 000_KEYWORD: 완납__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68685
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2525,13 +2525,13 @@ imported:
     - 발음: 완남만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68685_wannamman.wav
       형태: 완납만
-processed:
+result:
   맞춤법 검사:
     표제어: 완납
     품사: 명사
 ---
 000_KEYWORD: 완두콩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68686
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2560,13 +2560,13 @@ imported:
     표제어: 완두콩
     품사: 명사
     항목ID: 68686
-processed:
+result:
   맞춤법 검사:
     표제어: 완두콩
     품사: 명사
 ---
 000_KEYWORD: 완력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68687
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2620,13 +2620,13 @@ imported:
     - 발음: 왈ː령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68687_war-ryeongman.wav
       형태: 완력만
-processed:
+result:
   맞춤법 검사:
     표제어: 완력
     품사: 명사
 ---
 000_KEYWORD: 완료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68688
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2654,13 +2654,13 @@ imported:
     표제어: 완료
     품사: 명사
     항목ID: 68688
-processed:
+result:
   맞춤법 검사:
     표제어: 완료
     품사: 명사
 ---
 000_KEYWORD: 완료되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68689
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2691,13 +2691,13 @@ imported:
     표제어: 완료되다
     품사: 동사
     항목ID: 68689
-processed:
+result:
   맞춤법 검사:
     표제어: 완료되다
     품사: 동사
 ---
 000_KEYWORD: 완료하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68690
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2726,13 +2726,13 @@ imported:
     표제어: 완료하다
     품사: 동사
     항목ID: 68690
-processed:
+result:
   맞춤법 검사:
     표제어: 완료하다
     품사: 동사
 ---
 000_KEYWORD: 완만하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68467
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2772,13 +2772,13 @@ imported:
       형태: 완만하니
     - 발음: 완ː만함니다
       형태: 완만합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완만하다
     품사: 형용사
 ---
 000_KEYWORD: 완만하다__형용사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68472
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2832,13 +2832,13 @@ imported:
       형태: 완만하니
     - 발음: 완ː만함니다
       형태: 완만합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완만하다
     품사: 형용사
 ---
 000_KEYWORD: 완벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68480
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2876,13 +2876,13 @@ imported:
     - 발음: 완병만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68480_wanbyeongman.wav
       형태: 완벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 완벽
     품사: 명사
 ---
 000_KEYWORD: 완벽하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67846
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2927,13 +2927,13 @@ imported:
       형태: 완벽하니
     - 발음: 완벼캄니다
       형태: 완벽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완벽하다
     품사: 형용사
 ---
 000_KEYWORD: 완봉승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68484
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2961,13 +2961,13 @@ imported:
     표제어: 완봉승
     품사: 명사
     항목ID: 68484
-processed:
+result:
   맞춤법 검사:
     표제어: 완봉승
     품사: 명사
 ---
 000_KEYWORD: 완불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68490
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2999,13 +2999,13 @@ imported:
     표제어: 완불
     품사: 명사
     항목ID: 68490
-processed:
+result:
   맞춤법 검사:
     표제어: 완불
     품사: 명사
 ---
 000_KEYWORD: 완불하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68495
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3036,13 +3036,13 @@ imported:
     표제어: 완불하다
     품사: 동사
     항목ID: 68495
-processed:
+result:
   맞춤법 검사:
     표제어: 완불하다
     품사: 동사
 ---
 000_KEYWORD: 완비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68498
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3072,13 +3072,13 @@ imported:
     표제어: 완비
     품사: 명사
     항목ID: 68498
-processed:
+result:
   맞춤법 검사:
     표제어: 완비
     품사: 명사
 ---
 000_KEYWORD: 완비되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68504
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3110,13 +3110,13 @@ imported:
     표제어: 완비되다
     품사: 동사
     항목ID: 68504
-processed:
+result:
   맞춤법 검사:
     표제어: 완비되다
     품사: 동사
 ---
 000_KEYWORD: 완비하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68511
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3148,13 +3148,13 @@ imported:
     표제어: 완비하다
     품사: 동사
     항목ID: 68511
-processed:
+result:
   맞춤법 검사:
     표제어: 완비하다
     품사: 동사
 ---
 000_KEYWORD: 완성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22147
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3186,13 +3186,13 @@ imported:
     표제어: 완성
     품사: 명사
     항목ID: 22147
-processed:
+result:
   맞춤법 검사:
     표제어: 완성
     품사: 명사
 ---
 000_KEYWORD: 완성도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68514
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3221,13 +3221,13 @@ imported:
     표제어: 완성도
     품사: 명사
     항목ID: 68514
-processed:
+result:
   맞춤법 검사:
     표제어: 완성도
     품사: 명사
 ---
 000_KEYWORD: 완성되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22149
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3258,13 +3258,13 @@ imported:
     표제어: 완성되다
     품사: 동사
     항목ID: 22149
-processed:
+result:
   맞춤법 검사:
     표제어: 완성되다
     품사: 동사
 ---
 000_KEYWORD: 완성품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68518
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3292,13 +3292,13 @@ imported:
     표제어: 완성품
     품사: 명사
     항목ID: 68518
-processed:
+result:
   맞춤법 검사:
     표제어: 완성품
     품사: 명사
 ---
 000_KEYWORD: 완성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22150
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3328,13 +3328,13 @@ imported:
     표제어: 완성하다
     품사: 동사
     항목ID: 22150
-processed:
+result:
   맞춤법 검사:
     표제어: 완성하다
     품사: 동사
 ---
 000_KEYWORD: 완수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68521
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3365,13 +3365,13 @@ imported:
     표제어: 완수
     품사: 명사
     항목ID: 68521
-processed:
+result:
   맞춤법 검사:
     표제어: 완수
     품사: 명사
 ---
 000_KEYWORD: 완수되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68526
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3403,13 +3403,13 @@ imported:
     표제어: 완수되다
     품사: 동사
     항목ID: 68526
-processed:
+result:
   맞춤법 검사:
     표제어: 완수되다
     품사: 동사
 ---
 000_KEYWORD: 완수하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68530
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3439,13 +3439,13 @@ imported:
     표제어: 완수하다
     품사: 동사
     항목ID: 68530
-processed:
+result:
   맞춤법 검사:
     표제어: 완수하다
     품사: 동사
 ---
 000_KEYWORD: 완숙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69288
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3524,13 +3524,13 @@ imported:
     - 발음: 완숭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69288_wansungman.wav
       형태: 완숙만
-processed:
+result:
   맞춤법 검사:
     표제어: 완숙
     품사: 명사
 ---
 000_KEYWORD: 완숙기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68533
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3560,13 +3560,13 @@ imported:
     표제어: 완숙기
     품사: 명사
     항목ID: 68533
-processed:
+result:
   맞춤법 검사:
     표제어: 완숙기
     품사: 명사
 ---
 000_KEYWORD: 완숙하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69289
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3608,13 +3608,13 @@ imported:
     표제어: 완숙하다
     품사: 동사
     항목ID: 69289
-processed:
+result:
   맞춤법 검사:
     표제어: 완숙하다
     품사: 동사
 ---
 000_KEYWORD: 완숙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69290
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3667,13 +3667,13 @@ imported:
       형태: 완숙하니
     - 발음: 완수캄니다
       형태: 완숙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완숙하다
     품사: 형용사
 ---
 000_KEYWORD: 완승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68534
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3704,13 +3704,13 @@ imported:
     표제어: 완승
     품사: 명사
     항목ID: 68534
-processed:
+result:
   맞춤법 검사:
     표제어: 완승
     품사: 명사
 ---
 000_KEYWORD: 완승하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68536
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3742,13 +3742,13 @@ imported:
     표제어: 완승하다
     품사: 동사
     항목ID: 68536
-processed:
+result:
   맞춤법 검사:
     표제어: 완승하다
     품사: 동사
 ---
 000_KEYWORD: 완연하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68538
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3789,13 +3789,13 @@ imported:
       형태: 완연하니
     - 발음: 와ː년함니다
       형태: 완연합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완연하다
     품사: 형용사
 ---
 000_KEYWORD: 완연히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68539
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3823,13 +3823,13 @@ imported:
     표제어: 완연히
     품사: 부사
     항목ID: 68539
-processed:
+result:
   맞춤법 검사:
     표제어: 완연히
     품사: 부사
 ---
 000_KEYWORD: 완자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68540
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3863,13 +3863,13 @@ imported:
     표제어: 완자
     품사: 명사
     항목ID: 68540
-processed:
+result:
   맞춤법 검사:
     표제어: 완자
     품사: 명사
 ---
 000_KEYWORD: 완장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68542
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3902,13 +3902,13 @@ imported:
     표제어: 완장
     품사: 명사
     항목ID: 68542
-processed:
+result:
   맞춤법 검사:
     표제어: 완장
     품사: 명사
 ---
 000_KEYWORD: 완전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22152
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3935,13 +3935,13 @@ imported:
     표제어: 완전
     품사: 명사
     항목ID: 22152
-processed:
+result:
   맞춤법 검사:
     표제어: 완전
     품사: 명사
 ---
 000_KEYWORD: 완전군장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3951,13 +3951,13 @@ imported:
     표제어: 완전군장
     품사: 명사:보통:서술성
     항목ID: 19555
-processed:
+result:
   맞춤법 검사:
     표제어: 완전군장
     품사: 명사
 ---
 000_KEYWORD: 완전무결__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68543
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3984,13 +3984,13 @@ imported:
     표제어: 완전무결
     품사: 명사
     항목ID: 68543
-processed:
+result:
   맞춤법 검사:
     표제어: 완전무결
     품사: 명사
 ---
 000_KEYWORD: 완전무결하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68545
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4032,13 +4032,13 @@ imported:
       형태: 완전무결하니
     - 발음: 완전무결함니다
       형태: 완전무결합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완전무결하다
     품사: 형용사
 ---
 000_KEYWORD: 완전연소__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4048,13 +4048,13 @@ imported:
     표제어: 완전연소
     품사: 명사:보통:서술성
     항목ID: 19558
-processed:
+result:
   맞춤법 검사:
     표제어: 완전연소
     품사: 명사
 ---
 000_KEYWORD: 완전하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22153
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4093,13 +4093,13 @@ imported:
       형태: 완전하니
     - 발음: 완전함니다
       형태: 완전합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 완전하다
     품사: 형용사
 ---
 000_KEYWORD: 완전히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67847
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4129,13 +4129,13 @@ imported:
     표제어: 완전히
     품사: 부사
     항목ID: 67847
-processed:
+result:
   맞춤법 검사:
     표제어: 완전히
     품사: 부사
 ---
 000_KEYWORD: 완제품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68550
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4166,13 +4166,13 @@ imported:
     표제어: 완제품
     품사: 명사
     항목ID: 68550
-processed:
+result:
   맞춤법 검사:
     표제어: 완제품
     품사: 명사
 ---
 000_KEYWORD: 완주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68551
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4201,13 +4201,13 @@ imported:
     표제어: 완주
     품사: 명사
     항목ID: 68551
-processed:
+result:
   맞춤법 검사:
     표제어: 완주
     품사: 명사
 ---
 000_KEYWORD: 완주하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68553
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4236,13 +4236,13 @@ imported:
     표제어: 완주하다
     품사: 동사
     항목ID: 68553
-processed:
+result:
   맞춤법 검사:
     표제어: 완주하다
     품사: 동사
 ---
 000_KEYWORD: 완충__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68555
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4269,13 +4269,13 @@ imported:
     표제어: 완충
     품사: 명사
     항목ID: 68555
-processed:
+result:
   맞춤법 검사:
     표제어: 완충
     품사: 명사
 ---
 000_KEYWORD: 완충지대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4284,13 +4284,13 @@ imported:
     표제어: 완충지대
     품사: 명사:보통:비서술성
     항목ID: 19565
-processed:
+result:
   맞춤법 검사:
     표제어: 완충지대
     품사: 명사
 ---
 000_KEYWORD: 완치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68557
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4327,13 +4327,13 @@ imported:
     표제어: 완치
     품사: 명사
     항목ID: 68557
-processed:
+result:
   맞춤법 검사:
     표제어: 완치
     품사: 명사
 ---
 000_KEYWORD: 완치되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68559
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4365,13 +4365,13 @@ imported:
     표제어: 완치되다
     품사: 동사
     항목ID: 68559
-processed:
+result:
   맞춤법 검사:
     표제어: 완치되다
     품사: 동사
 ---
 000_KEYWORD: 완치하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68560
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4400,13 +4400,13 @@ imported:
     표제어: 완치하다
     품사: 동사
     항목ID: 68560
-processed:
+result:
   맞춤법 검사:
     표제어: 완치하다
     품사: 동사
 ---
 000_KEYWORD: 완쾌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68562
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4437,13 +4437,13 @@ imported:
     표제어: 완쾌
     품사: 명사
     항목ID: 68562
-processed:
+result:
   맞춤법 검사:
     표제어: 완쾌
     품사: 명사
 ---
 000_KEYWORD: 완쾌되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68563
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4473,13 +4473,13 @@ imported:
     표제어: 완쾌되다
     품사: 동사
     항목ID: 68563
-processed:
+result:
   맞춤법 검사:
     표제어: 완쾌되다
     품사: 동사
 ---
 000_KEYWORD: 완쾌하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68565
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4507,13 +4507,13 @@ imported:
     표제어: 완쾌하다
     품사: 동사
     항목ID: 68565
-processed:
+result:
   맞춤법 검사:
     표제어: 완쾌하다
     품사: 동사
 ---
 000_KEYWORD: 완투__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68576
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4541,13 +4541,13 @@ imported:
     표제어: 완투
     품사: 명사
     항목ID: 68576
-processed:
+result:
   맞춤법 검사:
     표제어: 완투
     품사: 명사
 ---
 000_KEYWORD: 완투하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68578
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4573,13 +4573,13 @@ imported:
     표제어: 완투하다
     품사: 동사
     항목ID: 68578
-processed:
+result:
   맞춤법 검사:
     표제어: 완투하다
     품사: 동사
 ---
 000_KEYWORD: 완파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68579
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4616,13 +4616,13 @@ imported:
     표제어: 완파
     품사: 명사
     항목ID: 68579
-processed:
+result:
   맞춤법 검사:
     표제어: 완파
     품사: 명사
 ---
 000_KEYWORD: 완파하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68580
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4661,13 +4661,13 @@ imported:
     표제어: 완파하다
     품사: 동사
     항목ID: 68580
-processed:
+result:
   맞춤법 검사:
     표제어: 완파하다
     품사: 동사
 ---
 000_KEYWORD: 완패__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68581
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4700,13 +4700,13 @@ imported:
     표제어: 완패
     품사: 명사
     항목ID: 68581
-processed:
+result:
   맞춤법 검사:
     표제어: 완패
     품사: 명사
 ---
 000_KEYWORD: 완패하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68584
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4740,13 +4740,13 @@ imported:
     표제어: 완패하다
     품사: 동사
     항목ID: 68584
-processed:
+result:
   맞춤법 검사:
     표제어: 완패하다
     품사: 동사
 ---
 000_KEYWORD: 완행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69291
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4828,13 +4828,13 @@ imported:
     표제어: 완행
     품사: 명사
     항목ID: 69291
-processed:
+result:
   맞춤법 검사:
     표제어: 완행
     품사: 명사
 ---
 000_KEYWORD: 완행버스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68586
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4867,13 +4867,13 @@ imported:
     표제어: 완행버스
     품사: 명사
     항목ID: 68586
-processed:
+result:
   맞춤법 검사:
     표제어: 완행버스
     품사: 명사
 ---
 000_KEYWORD: 완행열차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68588
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4909,13 +4909,13 @@ imported:
     표제어: 완행열차
     품사: 명사
     항목ID: 68588
-processed:
+result:
   맞춤법 검사:
     표제어: 완행열차
     품사: 명사
 ---
 000_KEYWORD: 완화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68591
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4951,13 +4951,13 @@ imported:
     표제어: 완화
     품사: 명사
     항목ID: 68591
-processed:
+result:
   맞춤법 검사:
     표제어: 완화
     품사: 명사
 ---
 000_KEYWORD: 완화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68593
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5002,13 +5002,13 @@ imported:
     표제어: 완화되다
     품사: 동사
     항목ID: 68593
-processed:
+result:
   맞춤법 검사:
     표제어: 완화되다
     품사: 동사
 ---
 000_KEYWORD: 완화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68595
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5053,13 +5053,13 @@ imported:
     표제어: 완화하다
     품사: 동사
     항목ID: 68595
-processed:
+result:
   맞춤법 검사:
     표제어: 완화하다
     품사: 동사
 ---
 000_KEYWORD: 왈__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69292
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5084,13 +5084,13 @@ imported:
     표제어: 왈
     품사: 부사
     항목ID: 69292
-processed:
+result:
   맞춤법 검사:
     표제어: 왈
     품사: 부사
 ---
 000_KEYWORD: 왈가닥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67901
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5129,13 +5129,13 @@ imported:
     - 발음: 왈가당만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/67901_walgadangman.wav
       형태: 왈가닥만
-processed:
+result:
   맞춤법 검사:
     표제어: 왈가닥
     품사: 명사
 ---
 000_KEYWORD: 왈가왈부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67902
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5169,13 +5169,13 @@ imported:
     표제어: 왈가왈부
     품사: 명사
     항목ID: 67902
-processed:
+result:
   맞춤법 검사:
     표제어: 왈가왈부
     품사: 명사
 ---
 000_KEYWORD: 왈가왈부하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67903
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5206,13 +5206,13 @@ imported:
     표제어: 왈가왈부하다
     품사: 동사
     항목ID: 67903
-processed:
+result:
   맞춤법 검사:
     표제어: 왈가왈부하다
     품사: 동사
 ---
 000_KEYWORD: 왈츠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67904
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5252,13 +5252,13 @@ imported:
     표제어: 왈츠
     품사: 명사
     항목ID: 67904
-processed:
+result:
   맞춤법 검사:
     표제어: 왈츠
     품사: 명사
 ---
 000_KEYWORD: 왈카닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79423
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5398,13 +5398,13 @@ imported:
     표제어: 왈카닥
     품사: 부사
     항목ID: 79423
-processed:
+result:
   맞춤법 검사:
     표제어: 왈카닥
     품사: 부사
 ---
 000_KEYWORD: 왈칵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79424
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5542,13 +5542,13 @@ imported:
     표제어: 왈칵
     품사: 부사
     항목ID: 79424
-processed:
+result:
   맞춤법 검사:
     표제어: 왈칵
     품사: 부사
 ---
 000_KEYWORD: 왈칵왈칵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79425
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5664,13 +5664,13 @@ imported:
     표제어: 왈칵왈칵
     품사: 부사
     항목ID: 79425
-processed:
+result:
   맞춤법 검사:
     표제어: 왈칵왈칵
     품사: 부사
 ---
 000_KEYWORD: 왕-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72520
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5701,11 +5701,11 @@ imported:
     표제어: 왕-
     품사: 접사
     항목ID: 72520
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 왕-__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72521
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5723,11 +5723,11 @@ imported:
     표제어: 왕-
     품사: 접사
     항목ID: 72521
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 왕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66307
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5793,13 +5793,13 @@ imported:
     표제어: 왕
     품사: 명사
     항목ID: 66307
-processed:
+result:
   맞춤법 검사:
     표제어: 왕
     품사: 명사
 ---
 000_KEYWORD: 왕가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67905
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5833,13 +5833,13 @@ imported:
     표제어: 왕가
     품사: 명사
     항목ID: 67905
-processed:
+result:
   맞춤법 검사:
     표제어: 왕가
     품사: 명사
 ---
 000_KEYWORD: 왕개미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79426
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5871,13 +5871,13 @@ imported:
     표제어: 왕개미
     품사: 명사
     항목ID: 79426
-processed:
+result:
   맞춤법 검사:
     표제어: 왕개미
     품사: 명사
 ---
 000_KEYWORD: 왕건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67891
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5894,13 +5894,13 @@ imported:
     표제어: 왕건
     품사: 명사
     항목ID: 67891
-processed:
+result:
   맞춤법 검사:
     표제어: 왕건
     품사: 명사
 ---
 000_KEYWORD: 왕게__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79427
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5931,13 +5931,13 @@ imported:
     표제어: 왕게
     품사: 명사
     항목ID: 79427
-processed:
+result:
   맞춤법 검사:
     표제어: 왕게
     품사: 명사
 ---
 000_KEYWORD: 왕겨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67906
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5966,13 +5966,13 @@ imported:
     표제어: 왕겨
     품사: 명사
     항목ID: 67906
-processed:
+result:
   맞춤법 검사:
     표제어: 왕겨
     품사: 명사
 ---
 000_KEYWORD: 왕고모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67907
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6000,13 +6000,13 @@ imported:
     표제어: 왕고모
     품사: 명사
     항목ID: 67907
-processed:
+result:
   맞춤법 검사:
     표제어: 왕고모
     품사: 명사
 ---
 000_KEYWORD: 왕고모부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67908
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6033,13 +6033,13 @@ imported:
     표제어: 왕고모부
     품사: 명사
     항목ID: 67908
-processed:
+result:
   맞춤법 검사:
     표제어: 왕고모부
     품사: 명사
 ---
 000_KEYWORD: 왕고집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67909
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6080,13 +6080,13 @@ imported:
     - 발음: 왕고짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/67909_wanggojimman.wav
       형태: 왕고집만
-processed:
+result:
   맞춤법 검사:
     표제어: 왕고집
     품사: 명사
 ---
 000_KEYWORD: 왕골__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79430
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6117,13 +6117,13 @@ imported:
     표제어: 왕골
     품사: 명사
     항목ID: 79430
-processed:
+result:
   맞춤법 검사:
     표제어: 왕골
     품사: 명사
 ---
 000_KEYWORD: 왕관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67910
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6179,13 +6179,13 @@ imported:
     표제어: 왕관
     품사: 명사
     항목ID: 67910
-processed:
+result:
   맞춤법 검사:
     표제어: 왕관
     품사: 명사
 ---
 000_KEYWORD: 왕국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67911
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6244,13 +6244,13 @@ imported:
     - 발음: 왕궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/67911_wanggungman.wav
       형태: 왕국만
-processed:
+result:
   맞춤법 검사:
     표제어: 왕국
     품사: 명사
 ---
 000_KEYWORD: 왕궁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67912
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6280,13 +6280,13 @@ imported:
     표제어: 왕궁
     품사: 명사
     항목ID: 67912
-processed:
+result:
   맞춤법 검사:
     표제어: 왕궁
     품사: 명사
 ---
 000_KEYWORD: 왕권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67913
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6321,13 +6321,13 @@ imported:
     표제어: 왕권
     품사: 명사
     항목ID: 67913
-processed:
+result:
   맞춤법 검사:
     표제어: 왕권
     품사: 명사
 ---
 000_KEYWORD: 왕년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67914
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6358,13 +6358,13 @@ imported:
     표제어: 왕년
     품사: 명사
     항목ID: 67914
-processed:
+result:
   맞춤법 검사:
     표제어: 왕년
     품사: 명사
 ---
 000_KEYWORD: 왕눈이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67915
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6392,13 +6392,13 @@ imported:
     표제어: 왕눈이
     품사: 명사
     항목ID: 67915
-processed:
+result:
   맞춤법 검사:
     표제어: 왕눈이
     품사: 명사
 ---
 000_KEYWORD: 왕대비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67916
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6431,13 +6431,13 @@ imported:
     표제어: 왕대비
     품사: 명사
     항목ID: 67916
-processed:
+result:
   맞춤법 검사:
     표제어: 왕대비
     품사: 명사
 ---
 000_KEYWORD: 왕도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67917
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6496,13 +6496,13 @@ imported:
     표제어: 왕도
     품사: 명사
     항목ID: 67917
-processed:
+result:
   맞춤법 검사:
     표제어: 왕도
     품사: 명사
 ---
 000_KEYWORD: 왕따__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93472
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6530,13 +6530,13 @@ imported:
     표제어: 왕따
     품사: 명사
     항목ID: 93472
-processed:
+result:
   맞춤법 검사:
     표제어: 왕따
     품사: 명사
 ---
 000_KEYWORD: 왕래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79431
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6590,13 +6590,13 @@ imported:
     표제어: 왕래
     품사: 명사
     항목ID: 79431
-processed:
+result:
   맞춤법 검사:
     표제어: 왕래
     품사: 명사
 ---
 000_KEYWORD: 왕래하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79432
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6655,13 +6655,13 @@ imported:
     표제어: 왕래하다
     품사: 동사
     항목ID: 79432
-processed:
+result:
   맞춤법 검사:
     표제어: 왕래하다
     품사: 동사
 ---
 000_KEYWORD: 왕릉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67996
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6693,13 +6693,13 @@ imported:
     표제어: 왕릉
     품사: 명사
     항목ID: 67996
-processed:
+result:
   맞춤법 검사:
     표제어: 왕릉
     품사: 명사
 ---
 000_KEYWORD: 왕림하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67997
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6728,13 +6728,13 @@ imported:
     표제어: 왕림하다
     품사: 동사
     항목ID: 67997
-processed:
+result:
   맞춤법 검사:
     표제어: 왕림하다
     품사: 동사
 ---
 000_KEYWORD: 왕립__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6743,13 +6743,13 @@ imported:
     표제어: 왕립
     품사: 명사:보통:서술성
     항목ID: 19594
-processed:
+result:
   맞춤법 검사:
     표제어: 왕립
     품사: 명사
 ---
 000_KEYWORD: 왕명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67998
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6784,13 +6784,13 @@ imported:
     표제어: 왕명
     품사: 명사
     항목ID: 67998
-processed:
+result:
   맞춤법 검사:
     표제어: 왕명
     품사: 명사
 ---
 000_KEYWORD: 왕모래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67999
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6818,13 +6818,13 @@ imported:
     표제어: 왕모래
     품사: 명사
     항목ID: 67999
-processed:
+result:
   맞춤법 검사:
     표제어: 왕모래
     품사: 명사
 ---
 000_KEYWORD: 왕방울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68000
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6852,13 +6852,13 @@ imported:
     표제어: 왕방울
     품사: 명사
     항목ID: 68000
-processed:
+result:
   맞춤법 검사:
     표제어: 왕방울
     품사: 명사
 ---
 000_KEYWORD: 왕복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68281
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6902,13 +6902,13 @@ imported:
     - 발음: 왕ː봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68281_wang-bongman.wav
       형태: 왕복만
-processed:
+result:
   맞춤법 검사:
     표제어: 왕복
     품사: 명사
 ---
 000_KEYWORD: 왕복선__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6917,13 +6917,13 @@ imported:
     표제어: 왕복선
     품사: 명사:보통:비서술성
     항목ID: 19598
-processed:
+result:
   맞춤법 검사:
     표제어: 왕복선
     품사: 명사
 ---
 000_KEYWORD: 왕복하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68282
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6953,13 +6953,13 @@ imported:
     표제어: 왕복하다
     품사: 동사
     항목ID: 68282
-processed:
+result:
   맞춤법 검사:
     표제어: 왕복하다
     품사: 동사
 ---
 000_KEYWORD: 왕비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21882
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6999,13 +6999,13 @@ imported:
     표제어: 왕비
     품사: 명사
     항목ID: 21882
-processed:
+result:
   맞춤법 검사:
     표제어: 왕비
     품사: 명사
 ---
 000_KEYWORD: 왕생하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79434
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7033,13 +7033,13 @@ imported:
     표제어: 왕생하다
     품사: 동사
     항목ID: 79434
-processed:
+result:
   맞춤법 검사:
     표제어: 왕생하다
     품사: 동사
 ---
 000_KEYWORD: 왕성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68283
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7067,13 +7067,13 @@ imported:
     표제어: 왕성
     품사: 명사
     항목ID: 68283
-processed:
+result:
   맞춤법 검사:
     표제어: 왕성
     품사: 명사
 ---
 000_KEYWORD: 왕성하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68284
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7118,13 +7118,13 @@ imported:
       형태: 왕성하니
     - 발음: 왕ː성함니다
       형태: 왕성합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 왕성하다
     품사: 형용사
 ---
 000_KEYWORD: 왕세자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68285
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7161,13 +7161,13 @@ imported:
     표제어: 왕세자
     품사: 명사
     항목ID: 68285
-processed:
+result:
   맞춤법 검사:
     표제어: 왕세자
     품사: 명사
 ---
 000_KEYWORD: 왕세자빈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68286
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7199,13 +7199,13 @@ imported:
     표제어: 왕세자빈
     품사: 명사
     항목ID: 68286
-processed:
+result:
   맞춤법 검사:
     표제어: 왕세자빈
     품사: 명사
 ---
 000_KEYWORD: 왕소금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68287
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7240,13 +7240,13 @@ imported:
     표제어: 왕소금
     품사: 명사
     항목ID: 68287
-processed:
+result:
   맞춤법 검사:
     표제어: 왕소금
     품사: 명사
 ---
 000_KEYWORD: 왕손__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68288
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7274,13 +7274,13 @@ imported:
     표제어: 왕손
     품사: 명사
     항목ID: 68288
-processed:
+result:
   맞춤법 검사:
     표제어: 왕손
     품사: 명사
 ---
 000_KEYWORD: 왕실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68289
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7317,13 +7317,13 @@ imported:
     표제어: 왕실
     품사: 명사
     항목ID: 68289
-processed:
+result:
   맞춤법 검사:
     표제어: 왕실
     품사: 명사
 ---
 000_KEYWORD: 왕왕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68290
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7350,13 +7350,13 @@ imported:
     표제어: 왕왕
     품사: 부사
     항목ID: 68290
-processed:
+result:
   맞춤법 검사:
     표제어: 왕왕
     품사: 부사
 ---
 000_KEYWORD: 왕왕__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90969
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7388,13 +7388,13 @@ imported:
     표제어: 왕왕
     품사: 부사
     항목ID: 90969
-processed:
+result:
   맞춤법 검사:
     표제어: 왕왕
     품사: 부사
 ---
 000_KEYWORD: 왕왕거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68291
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7446,13 +7446,13 @@ imported:
     표제어: 왕왕거리다
     품사: 동사
     항목ID: 68291
-processed:
+result:
   맞춤법 검사:
     표제어: 왕왕거리다
     품사: 동사
 ---
 000_KEYWORD: 왕왕대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68292
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7504,13 +7504,13 @@ imported:
     표제어: 왕왕대다
     품사: 동사
     항목ID: 68292
-processed:
+result:
   맞춤법 검사:
     표제어: 왕왕대다
     품사: 동사
 ---
 000_KEYWORD: 왕위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68293
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7550,13 +7550,13 @@ imported:
     표제어: 왕위
     품사: 명사
     항목ID: 68293
-processed:
+result:
   맞춤법 검사:
     표제어: 왕위
     품사: 명사
 ---
 000_KEYWORD: 왕자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21891
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7608,13 +7608,13 @@ imported:
     표제어: 왕자
     품사: 명사
     항목ID: 21891
-processed:
+result:
   맞춤법 검사:
     표제어: 왕자
     품사: 명사
 ---
 000_KEYWORD: 왕자__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68294
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7674,13 +7674,13 @@ imported:
     표제어: 왕자
     품사: 명사
     항목ID: 68294
-processed:
+result:
   맞춤법 검사:
     표제어: 왕자
     품사: 명사
 ---
 000_KEYWORD: 왕정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68295
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7716,13 +7716,13 @@ imported:
     표제어: 왕정
     품사: 명사
     항목ID: 68295
-processed:
+result:
   맞춤법 검사:
     표제어: 왕정
     품사: 명사
 ---
 000_KEYWORD: 왕조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68296
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7753,13 +7753,13 @@ imported:
     표제어: 왕조
     품사: 명사
     항목ID: 68296
-processed:
+result:
   맞춤법 검사:
     표제어: 왕조
     품사: 명사
 ---
 000_KEYWORD: 왕족__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68298
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7805,13 +7805,13 @@ imported:
     - 발음: 왕종만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68298_wangjongman.wav
       형태: 왕족만
-processed:
+result:
   맞춤법 검사:
     표제어: 왕족
     품사: 명사
 ---
 000_KEYWORD: 왕좌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68299
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7861,13 +7861,13 @@ imported:
     표제어: 왕좌
     품사: 명사
     항목ID: 68299
-processed:
+result:
   맞춤법 검사:
     표제어: 왕좌
     품사: 명사
 ---
 000_KEYWORD: 왕진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68300
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7896,13 +7896,13 @@ imported:
     표제어: 왕진
     품사: 명사
     항목ID: 68300
-processed:
+result:
   맞춤법 검사:
     표제어: 왕진
     품사: 명사
 ---
 000_KEYWORD: 왕진하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7912,13 +7912,13 @@ imported:
     표제어: 왕진하다
     품사: 동사
     항목ID: 19611
-processed:
+result:
   맞춤법 검사:
     표제어: 왕진하다
     품사: 동사
 ---
 000_KEYWORD: 왕창__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68022
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7949,13 +7949,13 @@ imported:
     표제어: 왕창
     품사: 부사
     항목ID: 68022
-processed:
+result:
   맞춤법 검사:
     표제어: 왕창
     품사: 부사
 ---
 000_KEYWORD: 왕초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68023
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7987,13 +7987,13 @@ imported:
     표제어: 왕초
     품사: 명사
     항목ID: 68023
-processed:
+result:
   맞춤법 검사:
     표제어: 왕초
     품사: 명사
 ---
 000_KEYWORD: 왕후__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68025
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8023,7 +8023,7 @@ imported:
     표제어: 왕후
     품사: 명사
     항목ID: 68025
-processed:
+result:
   맞춤법 검사:
     표제어: 왕후
     품사: 명사

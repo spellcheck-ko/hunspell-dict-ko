@@ -1,5 +1,5 @@
 000_KEYWORD: 쪼가리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77963
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -41,13 +41,13 @@ imported:
     표제어: 쪼가리
     품사: 명사
     항목ID: 77963
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼가리
     품사: 명사
 ---
 000_KEYWORD: 쪼개다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77983
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -110,13 +110,13 @@ imported:
     활용:
     - 형태: 쪼개어
     - 형태: 쪼개니
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼개다
     품사: 동사
 ---
 000_KEYWORD: 쪼개어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77984
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -161,7 +161,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/77984_jjogaeeojeo.wav
       형태: 쪼개어져
     - 형태: 쪼개어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -169,7 +169,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 쪼개지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77985
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -212,7 +212,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/77985_jjogaejeo.wav
       형태: 쪼개져
     - 형태: 쪼개지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -220,7 +220,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 쪼그라들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77986
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -284,13 +284,13 @@ imported:
     - 발음: 쪼그라듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77986_jjogeuradeumnida.wav
       형태: 쪼그라듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼그라들다
     품사: 동사
 ---
 000_KEYWORD: 쪼그라지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77987
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -352,7 +352,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/77987_jjogeurajeo.wav
       형태: 쪼그라져
     - 형태: 쪼그라지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -360,7 +360,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 쪼그리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77988
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -418,13 +418,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77988_jjogeuriyeo.wav
       형태: 쪼그리어
     - 형태: 쪼그리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼그리다
     품사: 동사
 ---
 000_KEYWORD: 쪼그맣다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77989
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -467,7 +467,7 @@ imported:
     - 발음: 쪼그마씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77989_jjogeumasseumnida.wav
       형태: 쪼그맣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -475,7 +475,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 쪼글쪼글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77999
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -506,13 +506,13 @@ imported:
     표제어: 쪼글쪼글
     품사: 부사
     항목ID: 77999
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼글쪼글
     품사: 부사
 ---
 000_KEYWORD: 쪼글쪼글하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78002
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -551,13 +551,13 @@ imported:
       형태: 쪼글쪼글하니
     - 발음: 쪼글쪼글함니다
       형태: 쪼글쪼글합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼글쪼글하다
     품사: 형용사
 ---
 000_KEYWORD: 쪼금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78005
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -607,13 +607,13 @@ imported:
     표제어: 쪼금
     품사: 명사
     항목ID: 78005
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼금
     품사: 명사
 ---
 000_KEYWORD: 쪼금__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78006
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -661,13 +661,13 @@ imported:
     표제어: 쪼금
     품사: 부사
     항목ID: 78006
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼금
     품사: 부사
 ---
 000_KEYWORD: 쪼끄맣다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78007
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -707,7 +707,7 @@ imported:
     - 발음: 쪼끄마씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78007_jjokkeumasseumnida.wav
       형태: 쪼끄맣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -715,7 +715,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 쪼끔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78872
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -764,13 +764,13 @@ imported:
     표제어: 쪼끔
     품사: 명사
     항목ID: 78872
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼끔
     품사: 명사
 ---
 000_KEYWORD: 쪼끔__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78883
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -821,13 +821,13 @@ imported:
     표제어: 쪼끔
     품사: 부사
     항목ID: 78883
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼끔
     품사: 부사
 ---
 000_KEYWORD: 쪼다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78009
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -866,13 +866,13 @@ imported:
     - 발음: 쪼ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78009_jjo-ni.wav
       형태: 쪼니
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼다
     품사: 동사
 ---
 000_KEYWORD: 쪼다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78008
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -899,13 +899,13 @@ imported:
     표제어: 쪼다
     품사: 명사
     항목ID: 78008
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼다
     품사: 명사
 ---
 000_KEYWORD: 쪼들리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78010
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -945,13 +945,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78010_jjodeulliyeo.wav
       형태: 쪼들리어
     - 형태: 쪼들리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼들리다
     품사: 동사
 ---
 000_KEYWORD: 쪼르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78011
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1036,13 +1036,13 @@ imported:
     표제어: 쪼르르
     품사: 부사
     항목ID: 78011
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼르르
     품사: 부사
 ---
 000_KEYWORD: 쪼르륵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78815
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1100,13 +1100,13 @@ imported:
     표제어: 쪼르륵
     품사: 부사
     항목ID: 78815
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼르륵
     품사: 부사
 ---
 000_KEYWORD: 쪼르륵거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78805
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1162,13 +1162,13 @@ imported:
     표제어: 쪼르륵거리다
     품사: 동사
     항목ID: 78805
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼르륵거리다
     품사: 동사
 ---
 000_KEYWORD: 쪼르륵대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90126
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1224,13 +1224,13 @@ imported:
     표제어: 쪼르륵대다
     품사: 동사
     항목ID: 90126
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼르륵대다
     품사: 동사
 ---
 000_KEYWORD: 쪼르륵쪼르륵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90128
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1280,13 +1280,13 @@ imported:
     표제어: 쪼르륵쪼르륵
     품사: 부사
     항목ID: 90128
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼르륵쪼르륵
     품사: 부사
 ---
 000_KEYWORD: 쪼르륵쪼르륵하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90129
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1339,13 +1339,13 @@ imported:
     표제어: 쪼르륵쪼르륵하다
     품사: 동사
     항목ID: 90129
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼르륵쪼르륵하다
     품사: 동사
 ---
 000_KEYWORD: 쪼르륵하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90127
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1384,13 +1384,13 @@ imported:
     표제어: 쪼르륵하다
     품사: 동사
     항목ID: 90127
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼르륵하다
     품사: 동사
 ---
 000_KEYWORD: 쪼이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78012
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1448,13 +1448,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78013_jjoiyeo.wav
       형태: 쪼이어
     - 형태: 쪼이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼이다
     품사: 동사
 ---
 000_KEYWORD: 쪼이다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78013
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1548,13 +1548,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78013_jjoiyeo.wav
       형태: 쪼이어
     - 형태: 쪼이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼이다
     품사: 동사
 ---
 000_KEYWORD: 쪼잔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78034
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1593,13 +1593,13 @@ imported:
       형태: 쪼잔하니
     - 발음: 쪼잔함니다
       형태: 쪼잔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쪼잔하다
     품사: 형용사
 ---
 000_KEYWORD: 쪽-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88690
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1633,11 +1633,11 @@ imported:
     표제어: 쪽-
     품사: 접사
     항목ID: 88690
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 쪽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78035
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1677,13 +1677,13 @@ imported:
     - 발음: 쫑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽
     품사: 명사
 ---
 000_KEYWORD: 쪽__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71582
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1741,13 +1741,13 @@ imported:
     - 발음: 쫑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽
     품사: 명사
 ---
 000_KEYWORD: 쪽__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71718
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1787,13 +1787,13 @@ imported:
     - 발음: 쫑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽
     품사: 명사
 ---
 000_KEYWORD: 쪽__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71734
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1831,13 +1831,13 @@ imported:
     - 발음: 쫑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽
     품사: 의존 명사
 ---
 000_KEYWORD: 쪽__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58147
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1898,13 +1898,13 @@ imported:
     - 발음: 쫑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽
     품사: 의존 명사
 ---
 000_KEYWORD: 쪽마루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78036
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1940,13 +1940,13 @@ imported:
     표제어: 쪽마루
     품사: 명사
     항목ID: 78036
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽마루
     품사: 명사
 ---
 000_KEYWORD: 쪽문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78037
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1978,13 +1978,13 @@ imported:
     표제어: 쪽문
     품사: 명사
     항목ID: 78037
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽문
     품사: 명사
 ---
 000_KEYWORD: 쪽박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78038
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2021,13 +2021,13 @@ imported:
     - 발음: 쪽빵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78038_jjokppangman.wav
       형태: 쪽박만
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽박
     품사: 명사
 ---
 000_KEYWORD: 쪽방__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2036,13 +2036,13 @@ imported:
     표제어: 쪽방
     품사: 명사:보통:비서술성
     항목ID: 25626
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽방
     품사: 명사
 ---
 000_KEYWORD: 쪽배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78039
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2070,13 +2070,13 @@ imported:
     표제어: 쪽배
     품사: 명사
     항목ID: 78039
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽배
     품사: 명사
 ---
 000_KEYWORD: 쪽빛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78041
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2119,13 +2119,13 @@ imported:
     - 발음: 쪽삔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78041_jjokppinman.wav
       형태: 쪽빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽빛
     품사: 명사
 ---
 000_KEYWORD: 쪽지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78042
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2168,13 +2168,13 @@ imported:
     표제어: 쪽지
     품사: 명사
     항목ID: 78042
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽지
     품사: 명사
 ---
 000_KEYWORD: 쪽쪽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90170
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2284,13 +2284,13 @@ imported:
     표제어: 쪽쪽
     품사: 부사
     항목ID: 90170
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽쪽
     품사: 부사
 ---
 000_KEYWORD: 쪽파__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2300,13 +2300,13 @@ imported:
     표제어: 쪽파
     품사: 명사:보통:비서술성
     항목ID: 25630
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽파
     품사: 명사
 ---
 000_KEYWORD: 쪽팔리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78044
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2342,13 +2342,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78044_jjokpalliyeo.wav
       형태: 쪽팔리어
     - 형태: 쪽팔리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쪽팔리다
     품사: 동사
 ---
 000_KEYWORD: 쫀득쫀득__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78048
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2375,13 +2375,13 @@ imported:
     표제어: 쫀득쫀득
     품사: 부사
     항목ID: 78048
-processed:
+result:
   맞춤법 검사:
     표제어: 쫀득쫀득
     품사: 부사
 ---
 000_KEYWORD: 쫀득하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2391,13 +2391,13 @@ imported:
     표제어: 쫀득하다
     품사: 형용사
     항목ID: 25632
-processed:
+result:
   맞춤법 검사:
     표제어: 쫀득하다
     품사: 형용사
 ---
 000_KEYWORD: 쫀쫀하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78894
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2467,13 +2467,13 @@ imported:
       형태: 쫀쫀하니
     - 발음: 쫀쫀함니다
       형태: 쫀쫀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쫀쫀하다
     품사: 형용사
 ---
 000_KEYWORD: 쫄깃쫄깃__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78050
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2500,13 +2500,13 @@ imported:
     표제어: 쫄깃쫄깃
     품사: 부사
     항목ID: 78050
-processed:
+result:
   맞춤법 검사:
     표제어: 쫄깃쫄깃
     품사: 부사
 ---
 000_KEYWORD: 쫄깃쫄깃하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78051
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2545,13 +2545,13 @@ imported:
       형태: 쫄깃쫄깃하니
     - 발음: 쫄긷쫄기탐니다
       형태: 쫄깃쫄깃합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쫄깃쫄깃하다
     품사: 형용사
 ---
 000_KEYWORD: 쫄깃하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78052
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2590,13 +2590,13 @@ imported:
       형태: 쫄깃하니
     - 발음: 쫄기탐니다
       형태: 쫄깃합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쫄깃하다
     품사: 형용사
 ---
 000_KEYWORD: 쫄딱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78053
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2623,13 +2623,13 @@ imported:
     표제어: 쫄딱
     품사: 부사
     항목ID: 78053
-processed:
+result:
   맞춤법 검사:
     표제어: 쫄딱
     품사: 부사
 ---
 000_KEYWORD: 쫄랑쫄랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78190
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2676,13 +2676,13 @@ imported:
     표제어: 쫄랑쫄랑
     품사: 부사
     항목ID: 78190
-processed:
+result:
   맞춤법 검사:
     표제어: 쫄랑쫄랑
     품사: 부사
 ---
 000_KEYWORD: 쫄면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78055
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2716,13 +2716,13 @@ imported:
     표제어: 쫄면
     품사: 명사
     항목ID: 78055
-processed:
+result:
   맞춤법 검사:
     표제어: 쫄면
     품사: 명사
 ---
 000_KEYWORD: 쫄바지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78049
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2749,13 +2749,13 @@ imported:
     표제어: 쫄바지
     품사: 명사
     항목ID: 78049
-processed:
+result:
   맞춤법 검사:
     표제어: 쫄바지
     품사: 명사
 ---
 000_KEYWORD: 쫄쫄__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78056
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2781,13 +2781,13 @@ imported:
     표제어: 쫄쫄
     품사: 부사
     항목ID: 78056
-processed:
+result:
   맞춤법 검사:
     표제어: 쫄쫄
     품사: 부사
 ---
 000_KEYWORD: 쫑그리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78191
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2834,13 +2834,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78191_jjonggeuriyeo.wav
       형태: 쫑그리어
     - 형태: 쫑그리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑그리다
     품사: 동사
 ---
 000_KEYWORD: 쫑긋__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78192
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2867,13 +2867,13 @@ imported:
     표제어: 쫑긋
     품사: 부사
     항목ID: 78192
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑긋
     품사: 부사
 ---
 000_KEYWORD: 쫑긋거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78193
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2908,13 +2908,13 @@ imported:
     표제어: 쫑긋거리다
     품사: 동사
     항목ID: 78193
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑긋거리다
     품사: 동사
 ---
 000_KEYWORD: 쫑긋대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90138
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2949,13 +2949,13 @@ imported:
     표제어: 쫑긋대다
     품사: 동사
     항목ID: 90138
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑긋대다
     품사: 동사
 ---
 000_KEYWORD: 쫑긋쫑긋__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78194
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2982,13 +2982,13 @@ imported:
     표제어: 쫑긋쫑긋
     품사: 부사
     항목ID: 78194
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑긋쫑긋
     품사: 부사
 ---
 000_KEYWORD: 쫑긋쫑긋하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78195
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3023,13 +3023,13 @@ imported:
     표제어: 쫑긋쫑긋하다
     품사: 동사
     항목ID: 78195
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑긋쫑긋하다
     품사: 동사
 ---
 000_KEYWORD: 쫑긋쫑긋하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78196
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3068,13 +3068,13 @@ imported:
       형태: 쫑긋쫑긋하니
     - 발음: 쫑귿쫑그탐니다
       형태: 쫑긋쫑긋합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑긋쫑긋하다
     품사: 형용사
 ---
 000_KEYWORD: 쫑긋하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78821
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3101,13 +3101,13 @@ imported:
     표제어: 쫑긋하다
     품사: 동사
     항목ID: 78821
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑긋하다
     품사: 동사
 ---
 000_KEYWORD: 쫑긋하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78833
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3146,13 +3146,13 @@ imported:
       형태: 쫑긋하니
     - 발음: 쫑그탐니다
       형태: 쫑긋합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑긋하다
     품사: 형용사
 ---
 000_KEYWORD: 쫑알거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78057
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3191,13 +3191,13 @@ imported:
     표제어: 쫑알거리다
     품사: 동사
     항목ID: 78057
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑알거리다
     품사: 동사
 ---
 000_KEYWORD: 쫑알대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90139
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3236,13 +3236,13 @@ imported:
     표제어: 쫑알대다
     품사: 동사
     항목ID: 90139
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑알대다
     품사: 동사
 ---
 000_KEYWORD: 쫑알쫑알__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78058
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3274,13 +3274,13 @@ imported:
     표제어: 쫑알쫑알
     품사: 부사
     항목ID: 78058
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑알쫑알
     품사: 부사
 ---
 000_KEYWORD: 쫑알쫑알하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90140
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3319,13 +3319,13 @@ imported:
     표제어: 쫑알쫑알하다
     품사: 동사
     항목ID: 90140
-processed:
+result:
   맞춤법 검사:
     표제어: 쫑알쫑알하다
     품사: 동사
 ---
 000_KEYWORD: 쫓겨나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37178
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3360,17 +3360,17 @@ imported:
     - 발음: 쫃껴나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37178_jjotkkyeonani.wav
       형태: 쫓겨나니
-processed:
+result:
   맞춤법 검사:
     표제어: 쫓겨나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 쫓기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37185
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3442,13 +3442,13 @@ imported:
     - 발음: 쫃끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37185_jjotkkini.wav
       형태: 쫓기니
-processed:
+result:
   맞춤법 검사:
     표제어: 쫓기다
     품사: 동사
 ---
 000_KEYWORD: 쫓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37198
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3514,13 +3514,13 @@ imported:
     - 발음: 쫀는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37198_jjonneun.wav
       형태: 쫓는
-processed:
+result:
   맞춤법 검사:
     표제어: 쫓다
     품사: 동사
 ---
 000_KEYWORD: 쫓아가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78197
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3575,7 +3575,7 @@ imported:
     - 발음: 쪼차가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78197_jjochagageora.wav
       형태: 쫓아가거라
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3583,7 +3583,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 쫓아내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78895
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3653,7 +3653,7 @@ imported:
     - 발음: 쪼차내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78895_jjochanaeni.wav
       형태: 쫓아내니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3661,7 +3661,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 쫓아다니다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78198
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3717,13 +3717,13 @@ imported:
     - 발음: 쪼차다니니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78198_jjochadanini.wav
       형태: 쫓아다니니
-processed:
+result:
   맞춤법 검사:
     표제어: 쫓아다니다
     품사: 동사
 ---
 000_KEYWORD: 쫓아오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78199
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3776,7 +3776,7 @@ imported:
     - 발음: 쪼차오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78199_jjochaoneora.wav
       형태: 쫓아오너라
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성

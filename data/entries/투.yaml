@@ -1,5 +1,5 @@
 000_KEYWORD: -투성이__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83203
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -23,11 +23,11 @@ imported:
     표제어: -투성이
     품사: 접사
     항목ID: 83203
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -퉁이__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83204
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -52,11 +52,11 @@ imported:
     표제어: -퉁이
     품사: 접사
     항목ID: 83204
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 투__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -67,13 +67,13 @@ imported:
     표제어: 투
     품사: 명사:보통:서술성
     항목ID: 28273
-processed:
+result:
   맞춤법 검사:
     표제어: 투
     품사: 명사
 ---
 000_KEYWORD: 투__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82914
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -103,13 +103,13 @@ imported:
     표제어: 투
     품사: 의존 명사
     항목ID: 82914
-processed:
+result:
   맞춤법 검사:
     표제어: 투
     품사: 의존 명사
 ---
 000_KEYWORD: 투계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82915
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -159,13 +159,13 @@ imported:
     표제어: 투계
     품사: 명사
     항목ID: 82915
-processed:
+result:
   맞춤법 검사:
     표제어: 투계
     품사: 명사
 ---
 000_KEYWORD: 투고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82916
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -202,13 +202,13 @@ imported:
     표제어: 투고
     품사: 명사
     항목ID: 82916
-processed:
+result:
   맞춤법 검사:
     표제어: 투고
     품사: 명사
 ---
 000_KEYWORD: 투고되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82917
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -240,13 +240,13 @@ imported:
     표제어: 투고되다
     품사: 동사
     항목ID: 82917
-processed:
+result:
   맞춤법 검사:
     표제어: 투고되다
     품사: 동사
 ---
 000_KEYWORD: 투고란__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82918
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -272,13 +272,13 @@ imported:
     표제어: 투고란
     품사: 명사
     항목ID: 82918
-processed:
+result:
   맞춤법 검사:
     표제어: 투고란
     품사: 명사
 ---
 000_KEYWORD: 투고하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82919
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -311,13 +311,13 @@ imported:
     표제어: 투고하다
     품사: 동사
     항목ID: 82919
-processed:
+result:
   맞춤법 검사:
     표제어: 투고하다
     품사: 동사
 ---
 000_KEYWORD: 투과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82920
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -347,13 +347,13 @@ imported:
     표제어: 투과
     품사: 명사
     항목ID: 82920
-processed:
+result:
   맞춤법 검사:
     표제어: 투과
     품사: 명사
 ---
 000_KEYWORD: 투과되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82921
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -385,13 +385,13 @@ imported:
     표제어: 투과되다
     품사: 동사
     항목ID: 82921
-processed:
+result:
   맞춤법 검사:
     표제어: 투과되다
     품사: 동사
 ---
 000_KEYWORD: 투과하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82922
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -422,13 +422,13 @@ imported:
     표제어: 투과하다
     품사: 동사
     항목ID: 82922
-processed:
+result:
   맞춤법 검사:
     표제어: 투과하다
     품사: 동사
 ---
 000_KEYWORD: 투구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82923
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -455,13 +455,13 @@ imported:
     표제어: 투구
     품사: 명사
     항목ID: 82923
-processed:
+result:
   맞춤법 검사:
     표제어: 투구
     품사: 명사
 ---
 000_KEYWORD: 투구__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82924
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -487,13 +487,13 @@ imported:
     표제어: 투구
     품사: 명사
     항목ID: 82924
-processed:
+result:
   맞춤법 검사:
     표제어: 투구
     품사: 명사
 ---
 000_KEYWORD: 투구벌레__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -503,13 +503,13 @@ imported:
     표제어: 투구벌레
     품사: 명사:보통:비서술성
     항목ID: 28277
-processed:
+result:
   맞춤법 검사:
     표제어: 투구벌레
     품사: 명사
 ---
 000_KEYWORD: 투구하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -519,13 +519,13 @@ imported:
     표제어: 투구하다
     품사: 동사
     항목ID: 28278
-processed:
+result:
   맞춤법 검사:
     표제어: 투구하다
     품사: 동사
 ---
 000_KEYWORD: 투기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82925
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -557,13 +557,13 @@ imported:
     표제어: 투기
     품사: 명사
     항목ID: 82925
-processed:
+result:
   맞춤법 검사:
     표제어: 투기
     품사: 명사
 ---
 000_KEYWORD: 투기__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91813
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -594,13 +594,13 @@ imported:
     표제어: 투기
     품사: 명사
     항목ID: 91813
-processed:
+result:
   맞춤법 검사:
     표제어: 투기
     품사: 명사
 ---
 000_KEYWORD: 투기꾼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82926
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -628,13 +628,13 @@ imported:
     표제어: 투기꾼
     품사: 명사
     항목ID: 82926
-processed:
+result:
   맞춤법 검사:
     표제어: 투기꾼
     품사: 명사
 ---
 000_KEYWORD: 투기성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82927
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -663,13 +663,13 @@ imported:
     표제어: 투기성
     품사: 명사
     항목ID: 82927
-processed:
+result:
   맞춤법 검사:
     표제어: 투기성
     품사: 명사
 ---
 000_KEYWORD: 투기적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -678,13 +678,13 @@ imported:
     표제어: 투기적
     품사: 명사:보통:서술성
     항목ID: 28281
-processed:
+result:
   맞춤법 검사:
     표제어: 투기적
     품사: 명사
 ---
 000_KEYWORD: 투기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82928
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -710,13 +710,13 @@ imported:
     표제어: 투기하다
     품사: 동사
     항목ID: 82928
-processed:
+result:
   맞춤법 검사:
     표제어: 투기하다
     품사: 동사
 ---
 000_KEYWORD: 투덜거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82929
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -746,13 +746,13 @@ imported:
     표제어: 투덜거리다
     품사: 동사
     항목ID: 82929
-processed:
+result:
   맞춤법 검사:
     표제어: 투덜거리다
     품사: 동사
 ---
 000_KEYWORD: 투덜투덜__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82930
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -776,13 +776,13 @@ imported:
     표제어: 투덜투덜
     품사: 부사
     항목ID: 82930
-processed:
+result:
   맞춤법 검사:
     표제어: 투덜투덜
     품사: 부사
 ---
 000_KEYWORD: 투덜투덜하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82931
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -811,13 +811,13 @@ imported:
     표제어: 투덜투덜하다
     품사: 동사
     항목ID: 82931
-processed:
+result:
   맞춤법 검사:
     표제어: 투덜투덜하다
     품사: 동사
 ---
 000_KEYWORD: 투두둑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82932
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -842,13 +842,13 @@ imported:
     표제어: 투두둑
     품사: 부사
     항목ID: 82932
-processed:
+result:
   맞춤법 검사:
     표제어: 투두둑
     품사: 부사
 ---
 000_KEYWORD: 투르크메니스탄__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -857,13 +857,13 @@ imported:
     표제어: 투르크메니스탄
     품사: 명사:고유
     항목ID: 28285
-processed:
+result:
   맞춤법 검사:
     표제어: 투르크메니스탄
     품사: 명사
 ---
 000_KEYWORD: 투망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82933
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -903,13 +903,13 @@ imported:
     표제어: 투망
     품사: 명사
     항목ID: 82933
-processed:
+result:
   맞춤법 검사:
     표제어: 투망
     품사: 명사
 ---
 000_KEYWORD: 투매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82934
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -937,13 +937,13 @@ imported:
     표제어: 투매
     품사: 명사
     항목ID: 82934
-processed:
+result:
   맞춤법 검사:
     표제어: 투매
     품사: 명사
 ---
 000_KEYWORD: 투매하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82935
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -972,13 +972,13 @@ imported:
     표제어: 투매하다
     품사: 동사
     항목ID: 82935
-processed:
+result:
   맞춤법 검사:
     표제어: 투매하다
     품사: 동사
 ---
 000_KEYWORD: 투명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82936
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1047,13 +1047,13 @@ imported:
     표제어: 투명
     품사: 명사
     항목ID: 82936
-processed:
+result:
   맞춤법 검사:
     표제어: 투명
     품사: 명사
 ---
 000_KEYWORD: 투명도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1062,13 +1062,13 @@ imported:
     표제어: 투명도
     품사: 명사:보통:서술성
     항목ID: 28288
-processed:
+result:
   맞춤법 검사:
     표제어: 투명도
     품사: 명사
 ---
 000_KEYWORD: 투명성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1077,13 +1077,13 @@ imported:
     표제어: 투명성
     품사: 명사:보통:서술성
     항목ID: 28289
-processed:
+result:
   맞춤법 검사:
     표제어: 투명성
     품사: 명사
 ---
 000_KEYWORD: 투명하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82937
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1163,13 +1163,13 @@ imported:
       형태: 투명하니
     - 발음: 투명함니다
       형태: 투명합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 투명하다
     품사: 형용사
 ---
 000_KEYWORD: 투박스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82938
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1223,7 +1223,7 @@ imported:
       형태: 투박스러우니
     - 발음: 투박쓰럽씀니다
       형태: 투박스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1231,7 +1231,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 투박하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82939
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1285,13 +1285,13 @@ imported:
       형태: 투박하니
     - 발음: 투바캄니다
       형태: 투박합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 투박하다
     품사: 형용사
 ---
 000_KEYWORD: 투병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82940
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1320,13 +1320,13 @@ imported:
     표제어: 투병
     품사: 명사
     항목ID: 82940
-processed:
+result:
   맞춤법 검사:
     표제어: 투병
     품사: 명사
 ---
 000_KEYWORD: 투병하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82941
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1355,13 +1355,13 @@ imported:
     표제어: 투병하다
     품사: 동사
     항목ID: 82941
-processed:
+result:
   맞춤법 검사:
     표제어: 투병하다
     품사: 동사
 ---
 000_KEYWORD: 투사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82942
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1416,13 +1416,13 @@ imported:
     표제어: 투사
     품사: 명사
     항목ID: 82942
-processed:
+result:
   맞춤법 검사:
     표제어: 투사
     품사: 명사
 ---
 000_KEYWORD: 투사__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82943
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1451,13 +1451,13 @@ imported:
     표제어: 투사
     품사: 명사
     항목ID: 82943
-processed:
+result:
   맞춤법 검사:
     표제어: 투사
     품사: 명사
 ---
 000_KEYWORD: 투사__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82944
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1496,13 +1496,13 @@ imported:
     표제어: 투사
     품사: 명사
     항목ID: 82944
-processed:
+result:
   맞춤법 검사:
     표제어: 투사
     품사: 명사
 ---
 000_KEYWORD: 투사기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82945
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1525,13 +1525,13 @@ imported:
     표제어: 투사기
     품사: 명사
     항목ID: 82945
-processed:
+result:
   맞춤법 검사:
     표제어: 투사기
     품사: 명사
 ---
 000_KEYWORD: 투사되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82946
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1591,13 +1591,13 @@ imported:
     표제어: 투사되다
     품사: 동사
     항목ID: 82946
-processed:
+result:
   맞춤법 검사:
     표제어: 투사되다
     품사: 동사
 ---
 000_KEYWORD: 투사지__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1607,13 +1607,13 @@ imported:
     표제어: 투사지
     품사: 명사:보통:비서술성
     항목ID: 28294
-processed:
+result:
   맞춤법 검사:
     표제어: 투사지
     품사: 명사
 ---
 000_KEYWORD: 투사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82947
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1668,13 +1668,13 @@ imported:
     표제어: 투사하다
     품사: 동사
     항목ID: 82947
-processed:
+result:
   맞춤법 검사:
     표제어: 투사하다
     품사: 동사
 ---
 000_KEYWORD: 투사하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82948
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1702,13 +1702,13 @@ imported:
     표제어: 투사하다
     품사: 동사
     항목ID: 82948
-processed:
+result:
   맞춤법 검사:
     표제어: 투사하다
     품사: 동사
 ---
 000_KEYWORD: 투서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82949
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1739,13 +1739,13 @@ imported:
     표제어: 투서
     품사: 명사
     항목ID: 82949
-processed:
+result:
   맞춤법 검사:
     표제어: 투서
     품사: 명사
 ---
 000_KEYWORD: 투서하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82950
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1770,13 +1770,13 @@ imported:
     표제어: 투서하다
     품사: 동사
     항목ID: 82950
-processed:
+result:
   맞춤법 검사:
     표제어: 투서하다
     품사: 동사
 ---
 000_KEYWORD: 투석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82951
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1812,13 +1812,13 @@ imported:
     - 발음: 투성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82951_tuseongman.wav
       형태: 투석만
-processed:
+result:
   맞춤법 검사:
     표제어: 투석
     품사: 명사
 ---
 000_KEYWORD: 투석기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1827,13 +1827,13 @@ imported:
     표제어: 투석기
     품사: 명사:보통:비서술성
     항목ID: 28296
-processed:
+result:
   맞춤법 검사:
     표제어: 투석기
     품사: 명사
 ---
 000_KEYWORD: 투석전__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1842,13 +1842,13 @@ imported:
     표제어: 투석전
     품사: 명사:보통:비서술성
     항목ID: 28297
-processed:
+result:
   맞춤법 검사:
     표제어: 투석전
     품사: 명사
 ---
 000_KEYWORD: 투수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82952
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1875,13 +1875,13 @@ imported:
     표제어: 투수
     품사: 명사
     항목ID: 82952
-processed:
+result:
   맞춤법 검사:
     표제어: 투수
     품사: 명사
 ---
 000_KEYWORD: 투숙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82953
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1922,13 +1922,13 @@ imported:
     - 발음: 투숭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82953_tusungman.wav
       형태: 투숙만
-processed:
+result:
   맞춤법 검사:
     표제어: 투숙
     품사: 명사
 ---
 000_KEYWORD: 투숙객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82954
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1966,13 +1966,13 @@ imported:
     - 발음: 투숙깽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82954_tusukkkaengman.wav
       형태: 투숙객만
-processed:
+result:
   맞춤법 검사:
     표제어: 투숙객
     품사: 명사
 ---
 000_KEYWORD: 투숙하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82955
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2001,13 +2001,13 @@ imported:
     표제어: 투숙하다
     품사: 동사
     항목ID: 82955
-processed:
+result:
   맞춤법 검사:
     표제어: 투숙하다
     품사: 동사
 ---
 000_KEYWORD: 투시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82956
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2047,13 +2047,13 @@ imported:
     표제어: 투시
     품사: 명사
     항목ID: 82956
-processed:
+result:
   맞춤법 검사:
     표제어: 투시
     품사: 명사
 ---
 000_KEYWORD: 투시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82957
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2096,13 +2096,13 @@ imported:
     표제어: 투시되다
     품사: 동사
     항목ID: 82957
-processed:
+result:
   맞춤법 검사:
     표제어: 투시되다
     품사: 동사
 ---
 000_KEYWORD: 투시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82958
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2146,13 +2146,13 @@ imported:
     표제어: 투시하다
     품사: 동사
     항목ID: 82958
-processed:
+result:
   맞춤법 검사:
     표제어: 투시하다
     품사: 동사
 ---
 000_KEYWORD: 투신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82959
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2187,13 +2187,13 @@ imported:
     표제어: 투신
     품사: 명사
     항목ID: 82959
-processed:
+result:
   맞춤법 검사:
     표제어: 투신
     품사: 명사
 ---
 000_KEYWORD: 투신자살__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2202,13 +2202,13 @@ imported:
     표제어: 투신자살
     품사: 명사:보통:서술성
     항목ID: 28303
-processed:
+result:
   맞춤법 검사:
     표제어: 투신자살
     품사: 명사
 ---
 000_KEYWORD: 투신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82960
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2255,13 +2255,13 @@ imported:
     표제어: 투신하다
     품사: 동사
     항목ID: 82960
-processed:
+result:
   맞춤법 검사:
     표제어: 투신하다
     품사: 동사
 ---
 000_KEYWORD: 투약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82961
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2301,13 +2301,13 @@ imported:
     - 발음: 투양만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82961_tuyangman.wav
       형태: 투약만
-processed:
+result:
   맞춤법 검사:
     표제어: 투약
     품사: 명사
 ---
 000_KEYWORD: 투약구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82963
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2329,13 +2329,13 @@ imported:
     표제어: 투약구
     품사: 명사
     항목ID: 82963
-processed:
+result:
   맞춤법 검사:
     표제어: 투약구
     품사: 명사
 ---
 000_KEYWORD: 투약되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82962
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2367,13 +2367,13 @@ imported:
     표제어: 투약되다
     품사: 동사
     항목ID: 82962
-processed:
+result:
   맞춤법 검사:
     표제어: 투약되다
     품사: 동사
 ---
 000_KEYWORD: 투약하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82964
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2402,13 +2402,13 @@ imported:
     표제어: 투약하다
     품사: 동사
     항목ID: 82964
-processed:
+result:
   맞춤법 검사:
     표제어: 투약하다
     품사: 동사
 ---
 000_KEYWORD: 투여__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82965
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2444,13 +2444,13 @@ imported:
     표제어: 투여
     품사: 명사
     항목ID: 82965
-processed:
+result:
   맞춤법 검사:
     표제어: 투여
     품사: 명사
 ---
 000_KEYWORD: 투여하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82966
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2480,13 +2480,13 @@ imported:
     표제어: 투여하다
     품사: 동사
     항목ID: 82966
-processed:
+result:
   맞춤법 검사:
     표제어: 투여하다
     품사: 동사
 ---
 000_KEYWORD: 투영__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82967
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2530,13 +2530,13 @@ imported:
     표제어: 투영
     품사: 명사
     항목ID: 82967
-processed:
+result:
   맞춤법 검사:
     표제어: 투영
     품사: 명사
 ---
 000_KEYWORD: 투영되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2545,13 +2545,13 @@ imported:
     표제어: 투영되다
     품사: 동사
     항목ID: 28307
-processed:
+result:
   맞춤법 검사:
     표제어: 투영되다
     품사: 동사
 ---
 000_KEYWORD: 투영하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82968
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2594,13 +2594,13 @@ imported:
     표제어: 투영하다
     품사: 동사
     항목ID: 82968
-processed:
+result:
   맞춤법 검사:
     표제어: 투영하다
     품사: 동사
 ---
 000_KEYWORD: 투옥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81606
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2638,13 +2638,13 @@ imported:
     - 발음: 투옹만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81606_tuongman.wav
       형태: 투옥만
-processed:
+result:
   맞춤법 검사:
     표제어: 투옥
     품사: 명사
 ---
 000_KEYWORD: 투옥되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81607
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2675,13 +2675,13 @@ imported:
     표제어: 투옥되다
     품사: 동사
     항목ID: 81607
-processed:
+result:
   맞춤법 검사:
     표제어: 투옥되다
     품사: 동사
 ---
 000_KEYWORD: 투옥하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81608
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2710,13 +2710,13 @@ imported:
     표제어: 투옥하다
     품사: 동사
     항목ID: 81608
-processed:
+result:
   맞춤법 검사:
     표제어: 투옥하다
     품사: 동사
 ---
 000_KEYWORD: 투우__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81609
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2756,13 +2756,13 @@ imported:
     표제어: 투우
     품사: 명사
     항목ID: 81609
-processed:
+result:
   맞춤법 검사:
     표제어: 투우
     품사: 명사
 ---
 000_KEYWORD: 투우사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81610
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2790,13 +2790,13 @@ imported:
     표제어: 투우사
     품사: 명사
     항목ID: 81610
-processed:
+result:
   맞춤법 검사:
     표제어: 투우사
     품사: 명사
 ---
 000_KEYWORD: 투입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81611
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2850,13 +2850,13 @@ imported:
     - 발음: 투임만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81611_tuimman.wav
       형태: 투입만
-processed:
+result:
   맞춤법 검사:
     표제어: 투입
     품사: 명사
 ---
 000_KEYWORD: 투입구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81612
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2887,13 +2887,13 @@ imported:
     표제어: 투입구
     품사: 명사
     항목ID: 81612
-processed:
+result:
   맞춤법 검사:
     표제어: 투입구
     품사: 명사
 ---
 000_KEYWORD: 투입되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81613
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2944,13 +2944,13 @@ imported:
     표제어: 투입되다
     품사: 동사
     항목ID: 81613
-processed:
+result:
   맞춤법 검사:
     표제어: 투입되다
     품사: 동사
 ---
 000_KEYWORD: 투입하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81614
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2995,13 +2995,13 @@ imported:
     표제어: 투입하다
     품사: 동사
     항목ID: 81614
-processed:
+result:
   맞춤법 검사:
     표제어: 투입하다
     품사: 동사
 ---
 000_KEYWORD: 투자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81615
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3035,13 +3035,13 @@ imported:
     표제어: 투자
     품사: 명사
     항목ID: 81615
-processed:
+result:
   맞춤법 검사:
     표제어: 투자
     품사: 명사
 ---
 000_KEYWORD: 투자가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81618
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3074,13 +3074,13 @@ imported:
     표제어: 투자가
     품사: 명사
     항목ID: 81618
-processed:
+result:
   맞춤법 검사:
     표제어: 투자가
     품사: 명사
 ---
 000_KEYWORD: 투자되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81616
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3114,13 +3114,13 @@ imported:
     표제어: 투자되다
     품사: 동사
     항목ID: 81616
-processed:
+result:
   맞춤법 검사:
     표제어: 투자되다
     품사: 동사
 ---
 000_KEYWORD: 투자비__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3129,13 +3129,13 @@ imported:
     표제어: 투자비
     품사: 명사:보통:서술성
     항목ID: 28318
-processed:
+result:
   맞춤법 검사:
     표제어: 투자비
     품사: 명사
 ---
 000_KEYWORD: 투자액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81619
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3174,13 +3174,13 @@ imported:
     - 발음: 투자앵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81619_tujaaengman.wav
       형태: 투자액만
-processed:
+result:
   맞춤법 검사:
     표제어: 투자액
     품사: 명사
 ---
 000_KEYWORD: 투자유치__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3189,13 +3189,13 @@ imported:
     표제어: 투자유치
     품사: 명사:보통:서술성
     항목ID: 28320
-processed:
+result:
   맞춤법 검사:
     표제어: 투자유치
     품사: 명사
 ---
 000_KEYWORD: 투자자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81620
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3228,13 +3228,13 @@ imported:
     표제어: 투자자
     품사: 명사
     항목ID: 81620
-processed:
+result:
   맞춤법 검사:
     표제어: 투자자
     품사: 명사
 ---
 000_KEYWORD: 투자하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81617
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3269,13 +3269,13 @@ imported:
     표제어: 투자하다
     품사: 동사
     항목ID: 81617
-processed:
+result:
   맞춤법 검사:
     표제어: 투자하다
     품사: 동사
 ---
 000_KEYWORD: 투쟁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81621
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3322,13 +3322,13 @@ imported:
     표제어: 투쟁
     품사: 명사
     항목ID: 81621
-processed:
+result:
   맞춤법 검사:
     표제어: 투쟁
     품사: 명사
 ---
 000_KEYWORD: 투쟁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81622
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3374,13 +3374,13 @@ imported:
     표제어: 투쟁하다
     품사: 동사
     항목ID: 81622
-processed:
+result:
   맞춤법 검사:
     표제어: 투쟁하다
     품사: 동사
 ---
 000_KEYWORD: 투정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81623
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3414,13 +3414,13 @@ imported:
     표제어: 투정
     품사: 명사
     항목ID: 81623
-processed:
+result:
   맞춤법 검사:
     표제어: 투정
     품사: 명사
 ---
 000_KEYWORD: 투정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81624
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3450,13 +3450,13 @@ imported:
     표제어: 투정하다
     품사: 동사
     항목ID: 81624
-processed:
+result:
   맞춤법 검사:
     표제어: 투정하다
     품사: 동사
 ---
 000_KEYWORD: 투지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81625
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3492,13 +3492,13 @@ imported:
     표제어: 투지
     품사: 명사
     항목ID: 81625
-processed:
+result:
   맞춤법 검사:
     표제어: 투지
     품사: 명사
 ---
 000_KEYWORD: 투지력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81626
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3540,13 +3540,13 @@ imported:
     - 발음: 투지령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81626_tujiryeongman.wav
       형태: 투지력만
-processed:
+result:
   맞춤법 검사:
     표제어: 투지력
     품사: 명사
 ---
 000_KEYWORD: 투척__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81627
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3584,13 +3584,13 @@ imported:
     - 발음: 투청만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/81627_tucheongman.wav
       형태: 투척만
-processed:
+result:
   맞춤법 검사:
     표제어: 투척
     품사: 명사
 ---
 000_KEYWORD: 투척하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81628
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3619,13 +3619,13 @@ imported:
     표제어: 투척하다
     품사: 동사
     항목ID: 81628
-processed:
+result:
   맞춤법 검사:
     표제어: 투척하다
     품사: 동사
 ---
 000_KEYWORD: 투철하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81629
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3690,13 +3690,13 @@ imported:
       형태: 투철하니
     - 발음: 투철함니다
       형태: 투철합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 투철하다
     품사: 형용사
 ---
 000_KEYWORD: 투표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81630
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3728,13 +3728,13 @@ imported:
     표제어: 투표
     품사: 명사
     항목ID: 81630
-processed:
+result:
   맞춤법 검사:
     표제어: 투표
     품사: 명사
 ---
 000_KEYWORD: 투표권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81631
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3765,13 +3765,13 @@ imported:
     표제어: 투표권
     품사: 명사
     항목ID: 81631
-processed:
+result:
   맞춤법 검사:
     표제어: 투표권
     품사: 명사
 ---
 000_KEYWORD: 투표소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81632
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3808,13 +3808,13 @@ imported:
     표제어: 투표소
     품사: 명사
     항목ID: 81632
-processed:
+result:
   맞춤법 검사:
     표제어: 투표소
     품사: 명사
 ---
 000_KEYWORD: 투표용지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81633
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3850,13 +3850,13 @@ imported:
     표제어: 투표용지
     품사: 명사
     항목ID: 81633
-processed:
+result:
   맞춤법 검사:
     표제어: 투표용지
     품사: 명사
 ---
 000_KEYWORD: 투표율__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81634
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3884,13 +3884,13 @@ imported:
     표제어: 투표율
     품사: 명사
     항목ID: 81634
-processed:
+result:
   맞춤법 검사:
     표제어: 투표율
     품사: 명사
 ---
 000_KEYWORD: 투표일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81635
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3920,13 +3920,13 @@ imported:
     표제어: 투표일
     품사: 명사
     항목ID: 81635
-processed:
+result:
   맞춤법 검사:
     표제어: 투표일
     품사: 명사
 ---
 000_KEYWORD: 투표자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81636
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3955,13 +3955,13 @@ imported:
     표제어: 투표자
     품사: 명사
     항목ID: 81636
-processed:
+result:
   맞춤법 검사:
     표제어: 투표자
     품사: 명사
 ---
 000_KEYWORD: 투표장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81637
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3993,13 +3993,13 @@ imported:
     표제어: 투표장
     품사: 명사
     항목ID: 81637
-processed:
+result:
   맞춤법 검사:
     표제어: 투표장
     품사: 명사
 ---
 000_KEYWORD: 투표지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81638
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4035,13 +4035,13 @@ imported:
     표제어: 투표지
     품사: 명사
     항목ID: 81638
-processed:
+result:
   맞춤법 검사:
     표제어: 투표지
     품사: 명사
 ---
 000_KEYWORD: 투표하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81639
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4070,13 +4070,13 @@ imported:
     표제어: 투표하다
     품사: 동사
     항목ID: 81639
-processed:
+result:
   맞춤법 검사:
     표제어: 투표하다
     품사: 동사
 ---
 000_KEYWORD: 투표함__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81640
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4105,13 +4105,13 @@ imported:
     표제어: 투표함
     품사: 명사
     항목ID: 81640
-processed:
+result:
   맞춤법 검사:
     표제어: 투표함
     품사: 명사
 ---
 000_KEYWORD: 투피스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82165
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4146,13 +4146,13 @@ imported:
     표제어: 투피스
     품사: 명사
     항목ID: 82165
-processed:
+result:
   맞춤법 검사:
     표제어: 투피스
     품사: 명사
 ---
 000_KEYWORD: 투하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82170
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4193,13 +4193,13 @@ imported:
     표제어: 투하
     품사: 명사
     항목ID: 82170
-processed:
+result:
   맞춤법 검사:
     표제어: 투하
     품사: 명사
 ---
 000_KEYWORD: 투하되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82175
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4245,13 +4245,13 @@ imported:
     표제어: 투하되다
     품사: 동사
     항목ID: 82175
-processed:
+result:
   맞춤법 검사:
     표제어: 투하되다
     품사: 동사
 ---
 000_KEYWORD: 투하하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82177
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4295,13 +4295,13 @@ imported:
     표제어: 투하하다
     품사: 동사
     항목ID: 82177
-processed:
+result:
   맞춤법 검사:
     표제어: 투하하다
     품사: 동사
 ---
 000_KEYWORD: 투항__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82187
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4330,13 +4330,13 @@ imported:
     표제어: 투항
     품사: 명사
     항목ID: 82187
-processed:
+result:
   맞춤법 검사:
     표제어: 투항
     품사: 명사
 ---
 000_KEYWORD: 투항하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82193
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4365,13 +4365,13 @@ imported:
     표제어: 투항하다
     품사: 동사
     항목ID: 82193
-processed:
+result:
   맞춤법 검사:
     표제어: 투항하다
     품사: 동사
 ---
 000_KEYWORD: 투혼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82204
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4403,13 +4403,13 @@ imported:
     표제어: 투혼
     품사: 명사
     항목ID: 82204
-processed:
+result:
   맞춤법 검사:
     표제어: 투혼
     품사: 명사
 ---
 000_KEYWORD: 툭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82239
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4572,13 +4572,13 @@ imported:
     표제어: 툭
     품사: 부사
     항목ID: 82239
-processed:
+result:
   맞춤법 검사:
     표제어: 툭
     품사: 부사
 ---
 000_KEYWORD: 툭툭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82273
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4725,13 +4725,13 @@ imported:
     표제어: 툭툭
     품사: 부사
     항목ID: 82273
-processed:
+result:
   맞춤법 검사:
     표제어: 툭툭
     품사: 부사
 ---
 000_KEYWORD: 툭툭하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82298
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4827,13 +4827,13 @@ imported:
       형태: 툭툭하니
     - 발음: 툭투캄니다
       형태: 툭툭합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 툭툭하다
     품사: 형용사
 ---
 000_KEYWORD: 툭하면__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82316
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4866,13 +4866,13 @@ imported:
     표제어: 툭하면
     품사: 부사
     항목ID: 82316
-processed:
+result:
   맞춤법 검사:
     표제어: 툭하면
     품사: 부사
 ---
 000_KEYWORD: 툰드라__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4883,13 +4883,13 @@ imported:
     표제어: 툰드라
     품사: 명사:보통:서술성
     항목ID: 28342
-processed:
+result:
   맞춤법 검사:
     표제어: 툰드라
     품사: 명사
 ---
 000_KEYWORD: 툴툴__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82324
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4942,13 +4942,13 @@ imported:
     표제어: 툴툴
     품사: 부사
     항목ID: 82324
-processed:
+result:
   맞춤법 검사:
     표제어: 툴툴
     품사: 부사
 ---
 000_KEYWORD: 툴툴거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82332
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4980,13 +4980,13 @@ imported:
     표제어: 툴툴거리다
     품사: 동사
     항목ID: 82332
-processed:
+result:
   맞춤법 검사:
     표제어: 툴툴거리다
     품사: 동사
 ---
 000_KEYWORD: 툴툴대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91336
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5019,13 +5019,13 @@ imported:
     표제어: 툴툴대다
     품사: 동사
     항목ID: 91336
-processed:
+result:
   맞춤법 검사:
     표제어: 툴툴대다
     품사: 동사
 ---
 000_KEYWORD: 툴툴하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91337
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5054,13 +5054,13 @@ imported:
     표제어: 툴툴하다
     품사: 동사
     항목ID: 91337
-processed:
+result:
   맞춤법 검사:
     표제어: 툴툴하다
     품사: 동사
 ---
 000_KEYWORD: 퉁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82335
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5126,13 +5126,13 @@ imported:
     표제어: 퉁
     품사: 부사
     항목ID: 82335
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁
     품사: 부사
 ---
 000_KEYWORD: 퉁겨지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90172
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5215,13 +5215,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/90172_tunggyeojeo.wav
       형태: 퉁겨져
     - 형태: 퉁겨지니
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁겨지다
     품사: 동사
 ---
 000_KEYWORD: 퉁기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82339
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5276,13 +5276,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82339_tunggiyeo.wav
       형태: 퉁기어
     - 형태: 퉁기니
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁기다
     품사: 동사
 ---
 000_KEYWORD: 퉁명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82341
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5307,13 +5307,13 @@ imported:
     표제어: 퉁명
     품사: 명사
     항목ID: 82341
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁명
     품사: 명사
 ---
 000_KEYWORD: 퉁명스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82344
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5354,7 +5354,7 @@ imported:
       형태: 퉁명스러우니
     - 발음: 퉁명스럽씀니다
       형태: 퉁명스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -5362,7 +5362,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 퉁명하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83037
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5402,13 +5402,13 @@ imported:
       형태: 퉁명하니
     - 발음: 퉁명함니다
       형태: 퉁명합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁명하다
     품사: 형용사
 ---
 000_KEYWORD: 퉁소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82351
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5438,13 +5438,13 @@ imported:
     표제어: 퉁소
     품사: 명사
     항목ID: 82351
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁소
     품사: 명사
 ---
 000_KEYWORD: 퉁퉁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82354
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5485,13 +5485,13 @@ imported:
     표제어: 퉁퉁
     품사: 부사
     항목ID: 82354
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁퉁
     품사: 부사
 ---
 000_KEYWORD: 퉁퉁__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82357
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5591,13 +5591,13 @@ imported:
     표제어: 퉁퉁
     품사: 부사
     항목ID: 82357
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁퉁
     품사: 부사
 ---
 000_KEYWORD: 퉁퉁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82360
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5658,7 +5658,7 @@ imported:
       형태: 퉁퉁하니
     - 발음: 퉁퉁함니다
       형태: 퉁퉁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 퉁퉁하다
     품사: 형용사

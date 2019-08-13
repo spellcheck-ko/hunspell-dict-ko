@@ -1,5 +1,5 @@
 000_KEYWORD: -때기__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74911
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -20,11 +20,11 @@ imported:
     표제어: -때기
     품사: 접사
     항목ID: 74911
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 때__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74123
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -129,13 +129,13 @@ imported:
     표제어: 때
     품사: 명사
     항목ID: 74123
-processed:
+result:
   맞춤법 검사:
     표제어: 때
     품사: 명사
 ---
 000_KEYWORD: 때__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14423
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -177,13 +177,13 @@ imported:
     표제어: 때
     품사: 명사
     항목ID: 14423
-processed:
+result:
   맞춤법 검사:
     표제어: 때
     품사: 명사
 ---
 000_KEYWORD: 때깔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50364
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -211,13 +211,13 @@ imported:
     표제어: 때깔
     품사: 명사
     항목ID: 50364
-processed:
+result:
   맞춤법 검사:
     표제어: 때깔
     품사: 명사
 ---
 000_KEYWORD: 때늦다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50367
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -285,13 +285,13 @@ imported:
       형태: 때늦으니
     - 발음: 때늗씀니다
       형태: 때늦습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 때늦다
     품사: 형용사
 ---
 000_KEYWORD: 때다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50371
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -327,13 +327,13 @@ imported:
     - 발음: 때ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/50371_ttae-ni.wav
       형태: 때니
-processed:
+result:
   맞춤법 검사:
     표제어: 때다
     품사: 동사
 ---
 000_KEYWORD: 때때로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15134
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -372,13 +372,13 @@ imported:
     표제어: 때때로
     품사: 부사
     항목ID: 15134
-processed:
+result:
   맞춤법 검사:
     표제어: 때때로
     품사: 부사
 ---
 000_KEYWORD: 때때옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50374
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -412,13 +412,13 @@ imported:
     - 발음: 때때온만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/50374_ttaettaeonman.wav
       형태: 때때옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 때때옷
     품사: 명사
 ---
 000_KEYWORD: 때려누이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90929
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -470,13 +470,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/90929_ttaeryeonuiyeo.wav
       형태: 때려누이어
     - 형태: 때려누이니
-processed:
+result:
   맞춤법 검사:
     표제어: 때려누이다
     품사: 동사
 ---
 000_KEYWORD: 때려눕히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50375
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -536,17 +536,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/50375_ttaeryeonupini.wav
       형태: 때려눕히니
     - 형태: ''
-processed:
+result:
   맞춤법 검사:
     표제어: 때려눕히다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 때려잡다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50379
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -613,19 +613,19 @@ imported:
     - 발음: 때려잠는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/50379_ttaeryeojamneun.wav
       형태: 때려잡는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
     표제어: 때려잡다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 때려죽이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50382
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -664,13 +664,13 @@ imported:
     - 발음: 때려주기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/50382_ttaeryeojugini.wav
       형태: 때려죽이니
-processed:
+result:
   맞춤법 검사:
     표제어: 때려죽이다
     품사: 동사
 ---
 000_KEYWORD: 때려치우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50385
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -702,17 +702,17 @@ imported:
     - 형태: 때려치우어
     - 형태: 때려치우니
     - 형태: ''
-processed:
+result:
   맞춤법 검사:
     표제어: 때려치우다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 때로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15142
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -753,13 +753,13 @@ imported:
     표제어: 때로
     품사: 부사
     항목ID: 15142
-processed:
+result:
   맞춤법 검사:
     표제어: 때로
     품사: 부사
 ---
 000_KEYWORD: 때리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14433
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -854,13 +854,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14433_ttaeriyeo.wav
       형태: 때리어
     - 형태: 때리니
-processed:
+result:
   맞춤법 검사:
     표제어: 때리다
     품사: 동사
 ---
 000_KEYWORD: 때마침__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50388
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -888,13 +888,13 @@ imported:
     표제어: 때마침
     품사: 부사
     항목ID: 50388
-processed:
+result:
   맞춤법 검사:
     표제어: 때마침
     품사: 부사
 ---
 000_KEYWORD: 때맞추다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50390
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -933,13 +933,13 @@ imported:
     - 발음: 때맏추니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/50390_ttaematchuni.wav
       형태: 때맞추니
-processed:
+result:
   맞춤법 검사:
     표제어: 때맞추다
     품사: 동사
 ---
 000_KEYWORD: 때문__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -948,13 +948,13 @@ imported:
     표제어: 때문
     품사: 명사:보통:서술성
     항목ID: 7859
-processed:
+result:
   맞춤법 검사:
     표제어: 때문
     품사: 명사
 ---
 000_KEYWORD: 때문__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64555
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -982,13 +982,13 @@ imported:
     표제어: 때문
     품사: 의존 명사
     항목ID: 64555
-processed:
+result:
   맞춤법 검사:
     표제어: 때문
     품사: 의존 명사
 ---
 000_KEYWORD: 때밀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50391
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1029,13 +1029,13 @@ imported:
     표제어: 때밀이
     품사: 명사
     항목ID: 50391
-processed:
+result:
   맞춤법 검사:
     표제어: 때밀이
     품사: 명사
 ---
 000_KEYWORD: 때수건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50392
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1061,13 +1061,13 @@ imported:
     표제어: 때수건
     품사: 명사
     항목ID: 50392
-processed:
+result:
   맞춤법 검사:
     표제어: 때수건
     품사: 명사
 ---
 000_KEYWORD: 때우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50393
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1148,13 +1148,13 @@ imported:
     활용:
     - 형태: 때우어
     - 형태: 때우니
-processed:
+result:
   맞춤법 검사:
     표제어: 때우다
     품사: 동사
 ---
 000_KEYWORD: 때움질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50394
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1213,13 +1213,13 @@ imported:
     표제어: 때움질
     품사: 명사
     항목ID: 50394
-processed:
+result:
   맞춤법 검사:
     표제어: 때움질
     품사: 명사
 ---
 000_KEYWORD: 때움질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90930
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1278,13 +1278,13 @@ imported:
     표제어: 때움질하다
     품사: 동사
     항목ID: 90930
-processed:
+result:
   맞춤법 검사:
     표제어: 때움질하다
     품사: 동사
 ---
 000_KEYWORD: 땔감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53723
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1311,13 +1311,13 @@ imported:
     표제어: 땔감
     품사: 명사
     항목ID: 53723
-processed:
+result:
   맞춤법 검사:
     표제어: 땔감
     품사: 명사
 ---
 000_KEYWORD: 땔나무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53703
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1348,13 +1348,13 @@ imported:
     표제어: 땔나무
     품사: 명사
     항목ID: 53703
-processed:
+result:
   맞춤법 검사:
     표제어: 땔나무
     품사: 명사
 ---
 000_KEYWORD: 땜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90931
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1408,13 +1408,13 @@ imported:
     표제어: 땜
     품사: 명사
     항목ID: 90931
-processed:
+result:
   맞춤법 검사:
     표제어: 땜
     품사: 명사
 ---
 000_KEYWORD: 땜__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53699
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1439,13 +1439,13 @@ imported:
     표제어: 땜
     품사: 의존 명사
     항목ID: 53699
-processed:
+result:
   맞춤법 검사:
     표제어: 땜
     품사: 의존 명사
 ---
 000_KEYWORD: 땜납__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1454,13 +1454,13 @@ imported:
     표제어: 땜납
     품사: 명사:보통:서술성
     항목ID: 7865
-processed:
+result:
   맞춤법 검사:
     표제어: 땜납
     품사: 명사
 ---
 000_KEYWORD: 땜장이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53698
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1485,13 +1485,13 @@ imported:
     표제어: 땜장이
     품사: 명사
     항목ID: 53698
-processed:
+result:
   맞춤법 검사:
     표제어: 땜장이
     품사: 명사
 ---
 000_KEYWORD: 땜질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53705
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1558,13 +1558,13 @@ imported:
     표제어: 땜질
     품사: 명사
     항목ID: 53705
-processed:
+result:
   맞춤법 검사:
     표제어: 땜질
     품사: 명사
 ---
 000_KEYWORD: 땜질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90932
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1626,13 +1626,13 @@ imported:
     표제어: 땜질하다
     품사: 동사
     항목ID: 90932
-processed:
+result:
   맞춤법 검사:
     표제어: 땜질하다
     품사: 동사
 ---
 000_KEYWORD: 땟국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53702
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1678,13 +1678,13 @@ imported:
     - 발음: 땓꿍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53702_ttaetkkungman.wav
       형태: 땟국만
-processed:
+result:
   맞춤법 검사:
     표제어: 땟국
     품사: 명사
 ---
 000_KEYWORD: 땟국물__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1694,13 +1694,13 @@ imported:
     표제어: 땟국물
     품사: 명사:보통:서술성
     항목ID: 7868
-processed:
+result:
   맞춤법 검사:
     표제어: 땟국물
     품사: 명사
 ---
 000_KEYWORD: 땟물__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1710,13 +1710,13 @@ imported:
     표제어: 땟물
     품사: 명사:보통:서술성
     항목ID: 7869
-processed:
+result:
   맞춤법 검사:
     표제어: 땟물
     품사: 명사
 ---
 000_KEYWORD: 땡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53722
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1748,13 +1748,13 @@ imported:
     표제어: 땡
     품사: 명사
     항목ID: 53722
-processed:
+result:
   맞춤법 검사:
     표제어: 땡
     품사: 명사
 ---
 000_KEYWORD: 땡__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1764,13 +1764,13 @@ imported:
     표제어: 땡
     품사: 부사
     항목ID: 7870
-processed:
+result:
   맞춤법 검사:
     표제어: 땡
     품사: 부사
 ---
 000_KEYWORD: 땡감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53721
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1795,13 +1795,13 @@ imported:
     표제어: 땡감
     품사: 명사
     항목ID: 53721
-processed:
+result:
   맞춤법 검사:
     표제어: 땡감
     품사: 명사
 ---
 000_KEYWORD: 땡땡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90933
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1827,13 +1827,13 @@ imported:
     표제어: 땡땡
     품사: 부사
     항목ID: 90933
-processed:
+result:
   맞춤법 검사:
     표제어: 땡땡
     품사: 부사
 ---
 000_KEYWORD: 땡땡이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53742
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1861,13 +1861,13 @@ imported:
     표제어: 땡땡이
     품사: 명사
     항목ID: 53742
-processed:
+result:
   맞춤법 검사:
     표제어: 땡땡이
     품사: 명사
 ---
 000_KEYWORD: 땡땡이중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53725
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1887,13 +1887,13 @@ imported:
     표제어: 땡땡이중
     품사: 명사
     항목ID: 53725
-processed:
+result:
   맞춤법 검사:
     표제어: 땡땡이중
     품사: 명사
 ---
 000_KEYWORD: 땡땡이치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53728
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1932,13 +1932,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/53728_ttaengttaengicheo.wav
       형태: 땡땡이쳐
     - 형태: 땡땡이치니
-processed:
+result:
   맞춤법 검사:
     표제어: 땡땡이치다
     품사: 동사
 ---
 000_KEYWORD: 땡땡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53731
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1987,13 +1987,13 @@ imported:
       형태: 땡땡하니
     - 발음: 땡땡함니다
       형태: 땡땡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 땡땡하다
     품사: 형용사
 ---
 000_KEYWORD: 땡볕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53734
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2037,13 +2037,13 @@ imported:
     - 발음: 땡벼틀
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53734_ttaengbyeoteul.wav
       형태: 땡볕을
-processed:
+result:
   맞춤법 검사:
     표제어: 땡볕
     품사: 명사
 ---
 000_KEYWORD: 땡전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53733
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2069,13 +2069,13 @@ imported:
     표제어: 땡전
     품사: 명사
     항목ID: 53733
-processed:
+result:
   맞춤법 검사:
     표제어: 땡전
     품사: 명사
 ---
 000_KEYWORD: 땡초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92216
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2088,4 +2088,4 @@ imported:
     표제어: 땡초
     품사: 명사
     항목ID: 92216
-processed: {}
+result: {}

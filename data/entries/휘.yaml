@@ -1,5 +1,5 @@
 000_KEYWORD: 휘-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88503
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -32,11 +32,11 @@ imported:
     표제어: 휘-
     품사: 접사
     항목ID: 88503
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 휘__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87766
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -93,13 +93,13 @@ imported:
     표제어: 휘
     품사: 부사
     항목ID: 87766
-processed:
+result:
   맞춤법 검사:
     표제어: 휘
     품사: 부사
 ---
 000_KEYWORD: 휘갈기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87767
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -192,13 +192,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87767_hwigalgiyeo.wav
       형태: 휘갈기어
     - 형태: 휘갈기니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘갈기다
     품사: 동사
 ---
 000_KEYWORD: 휘감기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87768
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -281,13 +281,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87768_hwigamgiyeo.wav
       형태: 휘감기어
     - 형태: 휘감기니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘감기다
     품사: 동사
 ---
 000_KEYWORD: 휘감다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87770
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -385,13 +385,13 @@ imported:
     - 발음: 휘가므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87770_hwigameuni.wav
       형태: 휘감으니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘감다
     품사: 동사
 ---
 000_KEYWORD: 휘날리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87771
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -454,13 +454,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87771_hwinalliyeo.wav
       형태: 휘날리어
     - 형태: 휘날리니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘날리다
     품사: 동사
 ---
 000_KEYWORD: 휘늘어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87772
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -524,7 +524,7 @@ imported:
     - 발음: 휘느러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87772_hwineureojini.wav
       형태: 휘늘어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -532,7 +532,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 휘다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87773
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -583,13 +583,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87773_hwiyeo.wav
       형태: 휘어
     - 형태: 휘니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘다
     품사: 동사
 ---
 000_KEYWORD: 휘덮다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87774
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -629,13 +629,13 @@ imported:
     - 발음: 휘덤는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87774_hwideomneun.wav
       형태: 휘덮는
-processed:
+result:
   맞춤법 검사:
     표제어: 휘덮다
     품사: 동사
 ---
 000_KEYWORD: 휘덮이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87775
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -677,13 +677,13 @@ imported:
     - 발음: 휘더피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87775_hwideopini.wav
       형태: 휘덮이니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘덮이다
     품사: 동사
 ---
 000_KEYWORD: 휘도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -693,13 +693,13 @@ imported:
     표제어: 휘도
     품사: 명사:보통:서술성
     항목ID: 31483
-processed:
+result:
   맞춤법 검사:
     표제어: 휘도
     품사: 명사
 ---
 000_KEYWORD: 휘돌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87776
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -797,13 +797,13 @@ imported:
     - 발음: 휘돔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87776_hwidomnida.wav
       형태: 휘돕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휘돌다
     품사: 동사
 ---
 000_KEYWORD: 휘돌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87777
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -837,13 +837,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87777_hwidolliyeo.wav
       형태: 휘돌리어
     - 형태: 휘돌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘돌리다
     품사: 동사
 ---
 000_KEYWORD: 휘두르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87778
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -904,7 +904,7 @@ imported:
     활용:
     - 형태: 휘둘러
     - 형태: 휘두르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -912,7 +912,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 휘둘러보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87779
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -943,13 +943,13 @@ imported:
     활용:
     - 형태: 휘둘러보아
     - 형태: 휘둘러보니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘둘러보다
     품사: 동사
 ---
 000_KEYWORD: 휘둘리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87780
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1036,13 +1036,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87780_hwidulliyeo.wav
       형태: 휘둘리어
     - 형태: 휘둘리니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘둘리다
     품사: 동사
 ---
 000_KEYWORD: 휘둥그래지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92306
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1055,10 +1055,10 @@ imported:
     표제어: 휘둥그래지다
     품사: 동사
     항목ID: 92306
-processed: {}
+result: {}
 ---
 000_KEYWORD: 휘둥그렇다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87781
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1096,7 +1096,7 @@ imported:
     - 발음: 휘둥그러씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87781_hwidunggeureosseumnida.wav
       형태: 휘둥그렇습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -1104,7 +1104,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 휘둥그레지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87782
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1144,17 +1144,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/87782_hwidunggeurejeo.wav
       형태: 휘둥그레져
     - 형태: 휘둥그레지니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘둥그레지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 휘둥글다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87784
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1192,13 +1192,13 @@ imported:
     - 발음: 휘둥금니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87784_hwidunggeumnida.wav
       형태: 휘둥급니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휘둥글다
     품사: 형용사
 ---
 000_KEYWORD: 휘딱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87785
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1225,13 +1225,13 @@ imported:
     표제어: 휘딱
     품사: 부사
     항목ID: 87785
-processed:
+result:
   맞춤법 검사:
     표제어: 휘딱
     품사: 부사
 ---
 000_KEYWORD: 휘말다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87786
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1266,13 +1266,13 @@ imported:
     - 발음: 휘맘니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87786_hwimamnida.wav
       형태: 휘맙니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휘말다
     품사: 동사
 ---
 000_KEYWORD: 휘말리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87787
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1350,13 +1350,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87787_hwimalliyeo.wav
       형태: 휘말리어
     - 형태: 휘말리니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘말리다
     품사: 동사
 ---
 000_KEYWORD: 휘몰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87788
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1404,13 +1404,13 @@ imported:
     - 발음: 휘몸니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87788_hwimomnida.wav
       형태: 휘몹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휘몰다
     품사: 동사
 ---
 000_KEYWORD: 휘몰리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87789
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1458,13 +1458,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87789_hwimolliyeo.wav
       형태: 휘몰리어
     - 형태: 휘몰리니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘몰리다
     품사: 동사
 ---
 000_KEYWORD: 휘몰아치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87790
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1506,17 +1506,17 @@ imported:
     - 발음: 휘모라치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87790_hwimorachini.wav
       형태: 휘몰아치니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘몰아치다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 휘발성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87756
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1545,13 +1545,13 @@ imported:
     표제어: 휘발성
     품사: 명사
     항목ID: 87756
-processed:
+result:
   맞춤법 검사:
     표제어: 휘발성
     품사: 명사
 ---
 000_KEYWORD: 휘발유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87757
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1587,13 +1587,13 @@ imported:
     표제어: 휘발유
     품사: 명사
     항목ID: 87757
-processed:
+result:
   맞춤법 검사:
     표제어: 휘발유
     품사: 명사
 ---
 000_KEYWORD: 휘어들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87791
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1669,13 +1669,13 @@ imported:
     - 발음: 휘여듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87791_hwiyeodeumnida.wav
       형태: 휘어듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휘어들다
     품사: 동사
 ---
 000_KEYWORD: 휘어잡다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87792
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1742,7 +1742,7 @@ imported:
     - 발음: 휘여잠는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87792_hwiyeojamneun.wav
       형태: 휘어잡는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1750,7 +1750,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 휘어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87793
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1797,17 +1797,17 @@ imported:
     - 발음: 휘여지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87793_hwiyeojini.wav
       형태: 휘어지니
-processed:
+result:
   맞춤법 검사:
     표제어: 휘어지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 휘영청__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88286
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1844,13 +1844,13 @@ imported:
     표제어: 휘영청
     품사: 부사
     항목ID: 88286
-processed:
+result:
   맞춤법 검사:
     표제어: 휘영청
     품사: 부사
 ---
 000_KEYWORD: 휘장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88287
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1881,13 +1881,13 @@ imported:
     표제어: 휘장
     품사: 명사
     항목ID: 88287
-processed:
+result:
   맞춤법 검사:
     표제어: 휘장
     품사: 명사
 ---
 000_KEYWORD: 휘적거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92025
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1921,13 +1921,13 @@ imported:
     표제어: 휘적거리다
     품사: 동사
     항목ID: 92025
-processed:
+result:
   맞춤법 검사:
     표제어: 휘적거리다
     품사: 동사
 ---
 000_KEYWORD: 휘적대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92026
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1958,13 +1958,13 @@ imported:
     표제어: 휘적대다
     품사: 동사
     항목ID: 92026
-processed:
+result:
   맞춤법 검사:
     표제어: 휘적대다
     품사: 동사
 ---
 000_KEYWORD: 휘적이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92027
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1991,13 +1991,13 @@ imported:
     표제어: 휘적이다
     품사: 동사
     항목ID: 92027
-processed:
+result:
   맞춤법 검사:
     표제어: 휘적이다
     품사: 동사
 ---
 000_KEYWORD: 휘적휘적__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88537
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2024,13 +2024,13 @@ imported:
     표제어: 휘적휘적
     품사: 부사
     항목ID: 88537
-processed:
+result:
   맞춤법 검사:
     표제어: 휘적휘적
     품사: 부사
 ---
 000_KEYWORD: 휘적휘적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88538
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2062,13 +2062,13 @@ imported:
     표제어: 휘적휘적하다
     품사: 동사
     항목ID: 88538
-processed:
+result:
   맞춤법 검사:
     표제어: 휘적휘적하다
     품사: 동사
 ---
 000_KEYWORD: 휘젓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88288
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2134,7 +2134,7 @@ imported:
     - 발음: 휘전는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/88288_hwijeonneun.wav
       형태: 휘젓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -2142,7 +2142,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 휘청__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2151,13 +2151,13 @@ imported:
     표제어: 휘청
     품사: 명사:보통:서술성
     항목ID: 31496
-processed:
+result:
   맞춤법 검사:
     표제어: 휘청
     품사: 명사
 ---
 000_KEYWORD: 휘청__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88539
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2206,13 +2206,13 @@ imported:
     표제어: 휘청
     품사: 부사
     항목ID: 88539
-processed:
+result:
   맞춤법 검사:
     표제어: 휘청
     품사: 부사
 ---
 000_KEYWORD: 휘청거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88540
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2288,13 +2288,13 @@ imported:
     표제어: 휘청거리다
     품사: 동사
     항목ID: 88540
-processed:
+result:
   맞춤법 검사:
     표제어: 휘청거리다
     품사: 동사
 ---
 000_KEYWORD: 휘청대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88541
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2372,13 +2372,13 @@ imported:
     표제어: 휘청대다
     품사: 동사
     항목ID: 88541
-processed:
+result:
   맞춤법 검사:
     표제어: 휘청대다
     품사: 동사
 ---
 000_KEYWORD: 휘청이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88542
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2435,13 +2435,13 @@ imported:
     표제어: 휘청이다
     품사: 동사
     항목ID: 88542
-processed:
+result:
   맞춤법 검사:
     표제어: 휘청이다
     품사: 동사
 ---
 000_KEYWORD: 휘청하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88543
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2497,13 +2497,13 @@ imported:
     표제어: 휘청하다
     품사: 동사
     항목ID: 88543
-processed:
+result:
   맞춤법 검사:
     표제어: 휘청하다
     품사: 동사
 ---
 000_KEYWORD: 휘청휘청__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88544
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2549,13 +2549,13 @@ imported:
     표제어: 휘청휘청
     품사: 부사
     항목ID: 88544
-processed:
+result:
   맞춤법 검사:
     표제어: 휘청휘청
     품사: 부사
 ---
 000_KEYWORD: 휘청휘청하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88545
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2632,13 +2632,13 @@ imported:
     표제어: 휘청휘청하다
     품사: 동사
     항목ID: 88545
-processed:
+result:
   맞춤법 검사:
     표제어: 휘청휘청하다
     품사: 동사
 ---
 000_KEYWORD: 휘파람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88289
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2665,13 +2665,13 @@ imported:
     표제어: 휘파람
     품사: 명사
     항목ID: 88289
-processed:
+result:
   맞춤법 검사:
     표제어: 휘파람
     품사: 명사
 ---
 000_KEYWORD: 휘하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88290
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2704,13 +2704,13 @@ imported:
     표제어: 휘하
     품사: 명사
     항목ID: 88290
-processed:
+result:
   맞춤법 검사:
     표제어: 휘하
     품사: 명사
 ---
 000_KEYWORD: 휘황찬란하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88389
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2780,13 +2780,13 @@ imported:
       형태: 휘황찬란하니
     - 발음: 휘황찰란함니다
       형태: 휘황찬란합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휘황찬란하다
     품사: 형용사
 ---
 000_KEYWORD: 휘황하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88391
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2850,13 +2850,13 @@ imported:
       형태: 휘황하니
     - 발음: 휘황함니다
       형태: 휘황합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휘황하다
     품사: 형용사
 ---
 000_KEYWORD: 휘황히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88393
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2895,13 +2895,13 @@ imported:
     표제어: 휘황히
     품사: 부사
     항목ID: 88393
-processed:
+result:
   맞춤법 검사:
     표제어: 휘황히
     품사: 부사
 ---
 000_KEYWORD: 휘휘__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88395
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2940,13 +2940,13 @@ imported:
     표제어: 휘휘
     품사: 부사
     항목ID: 88395
-processed:
+result:
   맞춤법 검사:
     표제어: 휘휘
     품사: 부사
 ---
 000_KEYWORD: 휘휘__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88397
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2997,13 +2997,13 @@ imported:
     표제어: 휘휘
     품사: 부사
     항목ID: 88397
-processed:
+result:
   맞춤법 검사:
     표제어: 휘휘
     품사: 부사
 ---
 000_KEYWORD: 휘휘하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88399
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3043,13 +3043,13 @@ imported:
       형태: 휘휘하니
     - 발음: 휘휘함니다
       형태: 휘휘합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휘휘하다
     품사: 형용사
 ---
 000_KEYWORD: 휙__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88459
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3161,13 +3161,13 @@ imported:
     표제어: 휙
     품사: 부사
     항목ID: 88459
-processed:
+result:
   맞춤법 검사:
     표제어: 휙
     품사: 부사
 ---
 000_KEYWORD: 휙휙__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88461
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3236,13 +3236,13 @@ imported:
     표제어: 휙휙
     품사: 부사
     항목ID: 88461
-processed:
+result:
   맞춤법 검사:
     표제어: 휙휙
     품사: 부사
 ---
 000_KEYWORD: 휠체어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88402
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3272,13 +3272,13 @@ imported:
     표제어: 휠체어
     품사: 명사
     항목ID: 88402
-processed:
+result:
   맞춤법 검사:
     표제어: 휠체어
     품사: 명사
 ---
 000_KEYWORD: 휩싸다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88444
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3354,13 +3354,13 @@ imported:
     활용:
     - 형태: 휩싸
     - 형태: 휩싸니
-processed:
+result:
   맞춤법 검사:
     표제어: 휩싸다
     품사: 동사
 ---
 000_KEYWORD: 휩싸이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88446
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3444,13 +3444,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/88446_hwipssaiyeo.wav
       형태: 휩싸이어
     - 형태: 휩싸이니
-processed:
+result:
   맞춤법 검사:
     표제어: 휩싸이다
     품사: 동사
 ---
 000_KEYWORD: 휩쓸다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88448
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3534,13 +3534,13 @@ imported:
     - 발음: 휩씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/88448_hwipsseumnida.wav
       형태: 휩씁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 휩쓸다
     품사: 동사
 ---
 000_KEYWORD: 휩쓸리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88452
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3622,13 +3622,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/88452_hwipsseulliyeo.wav
       형태: 휩쓸리어
     - 형태: 휩쓸리니
-processed:
+result:
   맞춤법 검사:
     표제어: 휩쓸리다
     품사: 동사
 ---
 000_KEYWORD: 휭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88454
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3691,13 +3691,13 @@ imported:
     표제어: 휭
     품사: 부사
     항목ID: 88454
-processed:
+result:
   맞춤법 검사:
     표제어: 휭
     품사: 부사
 ---
 000_KEYWORD: 휭하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92179
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3710,4 +3710,4 @@ imported:
     표제어: 휭하다
     품사: 형용사
     항목ID: 92179
-processed: {}
+result: {}

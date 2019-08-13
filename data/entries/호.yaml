@@ -1,5 +1,5 @@
 000_KEYWORD: -호__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88494
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -20,11 +20,11 @@ imported:
     표제어: -호
     품사: 접사
     항목ID: 88494
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 호-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88491
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -45,11 +45,11 @@ imported:
     표제어: 호-
     품사: 접사
     항목ID: 88491
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 호-__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88493
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -67,11 +67,11 @@ imported:
     표제어: 호-
     품사: 접사
     항목ID: 88493
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86399
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -103,13 +103,13 @@ imported:
     표제어: 호
     품사: 명사
     항목ID: 86399
-processed:
+result:
   맞춤법 검사:
     표제어: 호
     품사: 명사
 ---
 000_KEYWORD: 호__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86400
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -153,13 +153,13 @@ imported:
     표제어: 호
     품사: 명사
     항목ID: 86400
-processed:
+result:
   맞춤법 검사:
     표제어: 호
     품사: 명사
 ---
 000_KEYWORD: 호__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86398
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -186,13 +186,13 @@ imported:
     표제어: 호
     품사: 의존 명사
     항목ID: 86398
-processed:
+result:
   맞춤법 검사:
     표제어: 호
     품사: 의존 명사
 ---
 000_KEYWORD: 호__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26911
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -251,13 +251,13 @@ imported:
     표제어: 호
     품사: 의존 명사
     항목ID: 26911
-processed:
+result:
   맞춤법 검사:
     표제어: 호
     품사: 의존 명사
 ---
 000_KEYWORD: 호가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86401
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -297,13 +297,13 @@ imported:
     표제어: 호가
     품사: 명사
     항목ID: 86401
-processed:
+result:
   맞춤법 검사:
     표제어: 호가
     품사: 명사
 ---
 000_KEYWORD: 호가하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86402
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -330,13 +330,13 @@ imported:
     표제어: 호가하다
     품사: 동사
     항목ID: 86402
-processed:
+result:
   맞춤법 검사:
     표제어: 호가하다
     품사: 동사
 ---
 000_KEYWORD: 호가호위하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -346,13 +346,13 @@ imported:
     표제어: 호가호위하다
     품사: 동사
     항목ID: 30725
-processed:
+result:
   맞춤법 검사:
     표제어: 호가호위하다
     품사: 동사
 ---
 000_KEYWORD: 호각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86403
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -396,13 +396,13 @@ imported:
     - 발음: 호ː강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/86403_ho-gangman.wav
       형태: 호각만
-processed:
+result:
   맞춤법 검사:
     표제어: 호각
     품사: 명사
 ---
 000_KEYWORD: 호감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86404
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -433,13 +433,13 @@ imported:
     표제어: 호감
     품사: 명사
     항목ID: 86404
-processed:
+result:
   맞춤법 검사:
     표제어: 호감
     품사: 명사
 ---
 000_KEYWORD: 호강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86405
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -468,13 +468,13 @@ imported:
     표제어: 호강
     품사: 명사
     항목ID: 86405
-processed:
+result:
   맞춤법 검사:
     표제어: 호강
     품사: 명사
 ---
 000_KEYWORD: 호강하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86406
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -502,13 +502,13 @@ imported:
     표제어: 호강하다
     품사: 동사
     항목ID: 86406
-processed:
+result:
   맞춤법 검사:
     표제어: 호강하다
     품사: 동사
 ---
 000_KEYWORD: 호객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86407
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -545,13 +545,13 @@ imported:
     - 발음: 호갱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/86407_hogaengman.wav
       형태: 호객만
-processed:
+result:
   맞춤법 검사:
     표제어: 호객
     품사: 명사
 ---
 000_KEYWORD: 호객꾼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -560,13 +560,13 @@ imported:
     표제어: 호객꾼
     품사: 명사:보통:비서술성
     항목ID: 30730
-processed:
+result:
   맞춤법 검사:
     표제어: 호객꾼
     품사: 명사
 ---
 000_KEYWORD: 호객하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86408
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -591,13 +591,13 @@ imported:
     표제어: 호객하다
     품사: 동사
     항목ID: 86408
-processed:
+result:
   맞춤법 검사:
     표제어: 호객하다
     품사: 동사
 ---
 000_KEYWORD: 호걸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86409
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -626,13 +626,13 @@ imported:
     표제어: 호걸
     품사: 명사
     항목ID: 86409
-processed:
+result:
   맞춤법 검사:
     표제어: 호걸
     품사: 명사
 ---
 000_KEYWORD: 호격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86411
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -665,13 +665,13 @@ imported:
     - 발음: 호꼉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/86411_hokkyeongman.wav
       형태: 호격만
-processed:
+result:
   맞춤법 검사:
     표제어: 호격
     품사: 명사
 ---
 000_KEYWORD: 호경기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86412
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -708,13 +708,13 @@ imported:
     표제어: 호경기
     품사: 명사
     항목ID: 86412
-processed:
+result:
   맞춤법 검사:
     표제어: 호경기
     품사: 명사
 ---
 000_KEYWORD: 호구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86413
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -741,13 +741,13 @@ imported:
     표제어: 호구
     품사: 명사
     항목ID: 86413
-processed:
+result:
   맞춤법 검사:
     표제어: 호구
     품사: 명사
 ---
 000_KEYWORD: 호구__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86414
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -790,13 +790,13 @@ imported:
     표제어: 호구
     품사: 명사
     항목ID: 86414
-processed:
+result:
   맞춤법 검사:
     표제어: 호구
     품사: 명사
 ---
 000_KEYWORD: 호구__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86415
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -824,13 +824,13 @@ imported:
     표제어: 호구
     품사: 명사
     항목ID: 86415
-processed:
+result:
   맞춤법 검사:
     표제어: 호구
     품사: 명사
 ---
 000_KEYWORD: 호구지책__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86416
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -869,13 +869,13 @@ imported:
     - 발음: 호구지챙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/86416_hogujichaengman.wav
       형태: 호구지책만
-processed:
+result:
   맞춤법 검사:
     표제어: 호구지책
     품사: 명사
 ---
 000_KEYWORD: 호국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86417
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -910,13 +910,13 @@ imported:
     - 발음: 호ː궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/86417_ho-gungman.wav
       형태: 호국만
-processed:
+result:
   맞춤법 검사:
     표제어: 호국
     품사: 명사
 ---
 000_KEYWORD: 호기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86418
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -945,13 +945,13 @@ imported:
     표제어: 호기
     품사: 명사
     항목ID: 86418
-processed:
+result:
   맞춤법 검사:
     표제어: 호기
     품사: 명사
 ---
 000_KEYWORD: 호기__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86419
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -990,13 +990,13 @@ imported:
     표제어: 호기
     품사: 명사
     항목ID: 86419
-processed:
+result:
   맞춤법 검사:
     표제어: 호기
     품사: 명사
 ---
 000_KEYWORD: 호기롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86420
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1042,7 +1042,7 @@ imported:
       형태: 호기로우니
     - 발음: 호기롭씀니다
       형태: 호기롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1050,7 +1050,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 호기심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86421
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1084,13 +1084,13 @@ imported:
     표제어: 호기심
     품사: 명사
     항목ID: 86421
-processed:
+result:
   맞춤법 검사:
     표제어: 호기심
     품사: 명사
 ---
 000_KEYWORD: 호남__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86422
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1121,13 +1121,13 @@ imported:
     표제어: 호남
     품사: 명사
     항목ID: 86422
-processed:
+result:
   맞춤법 검사:
     표제어: 호남
     품사: 명사
 ---
 000_KEYWORD: 호남__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85865
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1158,13 +1158,13 @@ imported:
     표제어: 호남
     품사: 명사
     항목ID: 85865
-processed:
+result:
   맞춤법 검사:
     표제어: 호남
     품사: 명사
 ---
 000_KEYWORD: 호남대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1175,13 +1175,13 @@ imported:
     표제어: 호남대
     품사: 명사:보통:서술성
     항목ID: 30736
-processed:
+result:
   맞춤법 검사:
     표제어: 호남대
     품사: 명사
 ---
 000_KEYWORD: 호남대학교__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1192,13 +1192,13 @@ imported:
     표제어: 호남대학교
     품사: 명사:보통:서술성
     항목ID: 30737
-processed:
+result:
   맞춤법 검사:
     표제어: 호남대학교
     품사: 명사
 ---
 000_KEYWORD: 호남아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85866
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1231,13 +1231,13 @@ imported:
     표제어: 호남아
     품사: 명사
     항목ID: 85866
-processed:
+result:
   맞춤법 검사:
     표제어: 호남아
     품사: 명사
 ---
 000_KEYWORD: 호도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85869
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1264,13 +1264,13 @@ imported:
     표제어: 호도
     품사: 명사
     항목ID: 85869
-processed:
+result:
   맞춤법 검사:
     표제어: 호도
     품사: 명사
 ---
 000_KEYWORD: 호도하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85870
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1299,13 +1299,13 @@ imported:
     표제어: 호도하다
     품사: 동사
     항목ID: 85870
-processed:
+result:
   맞춤법 검사:
     표제어: 호도하다
     품사: 동사
 ---
 000_KEYWORD: 호되다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85872
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1364,13 +1364,13 @@ imported:
       형태: 호됩니다
     - 발음: 호뒘니다
       형태: 호됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호되다
     품사: 형용사
 ---
 000_KEYWORD: 호두__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85881
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1404,13 +1404,13 @@ imported:
     표제어: 호두
     품사: 명사
     항목ID: 85881
-processed:
+result:
   맞춤법 검사:
     표제어: 호두
     품사: 명사
 ---
 000_KEYWORD: 호두과자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1420,13 +1420,13 @@ imported:
     표제어: 호두과자
     품사: 명사:보통:서술성
     항목ID: 30741
-processed:
+result:
   맞춤법 검사:
     표제어: 호두과자
     품사: 명사
 ---
 000_KEYWORD: 호두까기인형__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1435,13 +1435,13 @@ imported:
     표제어: 호두까기인형
     품사: 명사:보통:비서술성
     항목ID: 30742
-processed:
+result:
   맞춤법 검사:
     표제어: 호두까기인형
     품사: 명사
 ---
 000_KEYWORD: 호들갑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85883
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1478,13 +1478,13 @@ imported:
     - 발음: 호들감만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/85883_hodeulgamman.wav
       형태: 호들갑만
-processed:
+result:
   맞춤법 검사:
     표제어: 호들갑
     품사: 명사
 ---
 000_KEYWORD: 호들갑스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85884
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1532,7 +1532,7 @@ imported:
       형태: 호들갑스러우니
     - 발음: 호들갑쓰럽씀니다
       형태: 호들갑스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1540,7 +1540,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 호떡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85885
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1585,13 +1585,13 @@ imported:
     - 발음: 호떵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85885_hotteongman.wav
       형태: 호떡만
-processed:
+result:
   맞춤법 검사:
     표제어: 호떡
     품사: 명사
 ---
 000_KEYWORD: 호락호락__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85886
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1622,13 +1622,13 @@ imported:
     표제어: 호락호락
     품사: 부사
     항목ID: 85886
-processed:
+result:
   맞춤법 검사:
     표제어: 호락호락
     품사: 부사
 ---
 000_KEYWORD: 호락호락하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85887
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1669,13 +1669,13 @@ imported:
       형태: 호락호락하니
     - 발음: 호라코라캄니다
       형태: 호락호락합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호락호락하다
     품사: 형용사
 ---
 000_KEYWORD: 호랑나비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85912
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1706,13 +1706,13 @@ imported:
     표제어: 호랑나비
     품사: 명사
     항목ID: 85912
-processed:
+result:
   맞춤법 검사:
     표제어: 호랑나비
     품사: 명사
 ---
 000_KEYWORD: 호랑이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74128
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1761,13 +1761,13 @@ imported:
     표제어: 호랑이
     품사: 명사
     항목ID: 74128
-processed:
+result:
   맞춤법 검사:
     표제어: 호랑이
     품사: 명사
 ---
 000_KEYWORD: 호랑이띠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68736
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1796,13 +1796,13 @@ imported:
     표제어: 호랑이띠
     품사: 명사
     항목ID: 68736
-processed:
+result:
   맞춤법 검사:
     표제어: 호랑이띠
     품사: 명사
 ---
 000_KEYWORD: 호래자식__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1812,13 +1812,13 @@ imported:
     표제어: 호래자식
     품사: 명사:보통:서술성
     항목ID: 30750
-processed:
+result:
   맞춤법 검사:
     표제어: 호래자식
     품사: 명사
 ---
 000_KEYWORD: 호령__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85913
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1877,13 +1877,13 @@ imported:
     표제어: 호령
     품사: 명사
     항목ID: 85913
-processed:
+result:
   맞춤법 검사:
     표제어: 호령
     품사: 명사
 ---
 000_KEYWORD: 호령하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85914
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1944,13 +1944,13 @@ imported:
     표제어: 호령하다
     품사: 동사
     항목ID: 85914
-processed:
+result:
   맞춤법 검사:
     표제어: 호령하다
     품사: 동사
 ---
 000_KEYWORD: 호롱불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86124
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1981,13 +1981,13 @@ imported:
     표제어: 호롱불
     품사: 명사
     항목ID: 86124
-processed:
+result:
   맞춤법 검사:
     표제어: 호롱불
     품사: 명사
 ---
 000_KEYWORD: 호루라기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86138
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2019,13 +2019,13 @@ imported:
     표제어: 호루라기
     품사: 명사
     항목ID: 86138
-processed:
+result:
   맞춤법 검사:
     표제어: 호루라기
     품사: 명사
 ---
 000_KEYWORD: 호루루기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92314
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2038,10 +2038,10 @@ imported:
     표제어: 호루루기
     품사: 명사
     항목ID: 92314
-processed: {}
+result: {}
 ---
 000_KEYWORD: 호르몬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86145
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2072,13 +2072,13 @@ imported:
     표제어: 호르몬
     품사: 명사
     항목ID: 86145
-processed:
+result:
   맞춤법 검사:
     표제어: 호르몬
     품사: 명사
 ---
 000_KEYWORD: 호르몬제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2088,13 +2088,13 @@ imported:
     표제어: 호르몬제
     품사: 명사:보통:비서술성
     항목ID: 30753
-processed:
+result:
   맞춤법 검사:
     표제어: 호르몬제
     품사: 명사
 ---
 000_KEYWORD: 호른__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86146
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2121,13 +2121,13 @@ imported:
     표제어: 호른
     품사: 명사
     항목ID: 86146
-processed:
+result:
   맞춤법 검사:
     표제어: 호른
     품사: 명사
 ---
 000_KEYWORD: 호리병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86348
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2160,13 +2160,13 @@ imported:
     표제어: 호리병
     품사: 명사
     항목ID: 86348
-processed:
+result:
   맞춤법 검사:
     표제어: 호리병
     품사: 명사
 ---
 000_KEYWORD: 호리호리하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86352
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2209,13 +2209,13 @@ imported:
       형태: 호리호리하니
     - 발음: 호리호리함니다
       형태: 호리호리합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호리호리하다
     품사: 형용사
 ---
 000_KEYWORD: 호명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86358
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2242,13 +2242,13 @@ imported:
     표제어: 호명
     품사: 명사
     항목ID: 86358
-processed:
+result:
   맞춤법 검사:
     표제어: 호명
     품사: 명사
 ---
 000_KEYWORD: 호명되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86362
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2281,13 +2281,13 @@ imported:
     표제어: 호명되다
     품사: 동사
     항목ID: 86362
-processed:
+result:
   맞춤법 검사:
     표제어: 호명되다
     품사: 동사
 ---
 000_KEYWORD: 호명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86368
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2321,13 +2321,13 @@ imported:
     표제어: 호명하다
     품사: 동사
     항목ID: 86368
-processed:
+result:
   맞춤법 검사:
     표제어: 호명하다
     품사: 동사
 ---
 000_KEYWORD: 호모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86461
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2357,13 +2357,13 @@ imported:
     표제어: 호모
     품사: 명사
     항목ID: 86461
-processed:
+result:
   맞춤법 검사:
     표제어: 호모
     품사: 명사
 ---
 000_KEYWORD: 호미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86481
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2394,13 +2394,13 @@ imported:
     표제어: 호미
     품사: 명사
     항목ID: 86481
-processed:
+result:
   맞춤법 검사:
     표제어: 호미
     품사: 명사
 ---
 000_KEYWORD: 호박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86627
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2469,13 +2469,13 @@ imported:
     - 발음: 호ː방만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/86627_ho-bangman.wav
       형태: 호박만
-processed:
+result:
   맞춤법 검사:
     표제어: 호박
     품사: 명사
 ---
 000_KEYWORD: 호박꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86662
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2530,13 +2530,13 @@ imported:
     - 발음: 호ː박꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/86662_ho-bakkkonman.wav
       형태: 호박꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 호박꽃
     품사: 명사
 ---
 000_KEYWORD: 호박벌__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2546,13 +2546,13 @@ imported:
     표제어: 호박벌
     품사: 명사:보통:비서술성
     항목ID: 30761
-processed:
+result:
   맞춤법 검사:
     표제어: 호박벌
     품사: 명사
 ---
 000_KEYWORD: 호박씨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86732
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2580,13 +2580,13 @@ imported:
     표제어: 호박씨
     품사: 명사
     항목ID: 86732
-processed:
+result:
   맞춤법 검사:
     표제어: 호박씨
     품사: 명사
 ---
 000_KEYWORD: 호박엿__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86770
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2629,13 +2629,13 @@ imported:
     - 발음: 호ː방년만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/86770_ho-bangnyeonman.wav
       형태: 호박엿만
-processed:
+result:
   맞춤법 검사:
     표제어: 호박엿
     품사: 명사
 ---
 000_KEYWORD: 호박죽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86778
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2677,13 +2677,13 @@ imported:
     - 발음: 호ː박쭝만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/86778_ho-bakjjungman.wav
       형태: 호박죽만
-processed:
+result:
   맞춤법 검사:
     표제어: 호박죽
     품사: 명사
 ---
 000_KEYWORD: 호반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86779
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2713,13 +2713,13 @@ imported:
     표제어: 호반
     품사: 명사
     항목ID: 86779
-processed:
+result:
   맞춤법 검사:
     표제어: 호반
     품사: 명사
 ---
 000_KEYWORD: 호방하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86780
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2760,13 +2760,13 @@ imported:
       형태: 호방하니
     - 발음: 호방함니다
       형태: 호방합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호방하다
     품사: 형용사
 ---
 000_KEYWORD: 호봉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86781
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2815,13 +2815,13 @@ imported:
     표제어: 호봉
     품사: 명사
     항목ID: 86781
-processed:
+result:
   맞춤법 검사:
     표제어: 호봉
     품사: 명사
 ---
 000_KEYWORD: 호불호__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2830,13 +2830,13 @@ imported:
     표제어: 호불호
     품사: 명사:보통:서술성
     항목ID: 30765
-processed:
+result:
   맞춤법 검사:
     표제어: 호불호
     품사: 명사
 ---
 000_KEYWORD: 호빵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86782
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2869,13 +2869,13 @@ imported:
     표제어: 호빵
     품사: 명사
     항목ID: 86782
-processed:
+result:
   맞춤법 검사:
     표제어: 호빵
     품사: 명사
 ---
 000_KEYWORD: 호사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86783
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2903,13 +2903,13 @@ imported:
     표제어: 호사
     품사: 명사
     항목ID: 86783
-processed:
+result:
   맞춤법 검사:
     표제어: 호사
     품사: 명사
 ---
 000_KEYWORD: 호사가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86786
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2945,13 +2945,13 @@ imported:
     표제어: 호사가
     품사: 명사
     항목ID: 86786
-processed:
+result:
   맞춤법 검사:
     표제어: 호사가
     품사: 명사
 ---
 000_KEYWORD: 호사다마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86787
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2979,13 +2979,13 @@ imported:
     표제어: 호사다마
     품사: 명사
     항목ID: 86787
-processed:
+result:
   맞춤법 검사:
     표제어: 호사다마
     품사: 명사
 ---
 000_KEYWORD: 호사스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86789
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3026,7 +3026,7 @@ imported:
       형태: 호사스러우니
     - 발음: 호사스럽씀니다
       형태: 호사스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -3034,7 +3034,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 호사스레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86790
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3061,13 +3061,13 @@ imported:
     표제어: 호사스레
     품사: 부사
     항목ID: 86790
-processed:
+result:
   맞춤법 검사:
     표제어: 호사스레
     품사: 부사
 ---
 000_KEYWORD: 호사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86784
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3096,13 +3096,13 @@ imported:
     표제어: 호사하다
     품사: 동사
     항목ID: 86784
-processed:
+result:
   맞춤법 검사:
     표제어: 호사하다
     품사: 동사
 ---
 000_KEYWORD: 호상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87419
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3127,13 +3127,13 @@ imported:
     표제어: 호상
     품사: 명사
     항목ID: 87419
-processed:
+result:
   맞춤법 검사:
     표제어: 호상
     품사: 명사
 ---
 000_KEYWORD: 호색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87455
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3172,13 +3172,13 @@ imported:
     - 발음: 호ː생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87455_ho-saengman.wav
       형태: 호색만
-processed:
+result:
   맞춤법 검사:
     표제어: 호색
     품사: 명사
 ---
 000_KEYWORD: 호서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87456
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3209,13 +3209,13 @@ imported:
     표제어: 호서
     품사: 명사
     항목ID: 87456
-processed:
+result:
   맞춤법 검사:
     표제어: 호서
     품사: 명사
 ---
 000_KEYWORD: 호선__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73224
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3242,13 +3242,13 @@ imported:
     표제어: 호선
     품사: 의존 명사
     항목ID: 73224
-processed:
+result:
   맞춤법 검사:
     표제어: 호선
     품사: 의존 명사
 ---
 000_KEYWORD: 호선하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3257,13 +3257,13 @@ imported:
     표제어: 호선하다
     품사: 동사
     항목ID: 32094
-processed:
+result:
   맞춤법 검사:
     표제어: 호선하다
     품사: 동사
 ---
 000_KEYWORD: 호소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87457
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3297,13 +3297,13 @@ imported:
     표제어: 호소
     품사: 명사
     항목ID: 87457
-processed:
+result:
   맞춤법 검사:
     표제어: 호소
     품사: 명사
 ---
 000_KEYWORD: 호소력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87458
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3345,13 +3345,13 @@ imported:
     - 발음: 호소령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87458_hosoryeongman.wav
       형태: 호소력만
-processed:
+result:
   맞춤법 검사:
     표제어: 호소력
     품사: 명사
 ---
 000_KEYWORD: 호소문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87459
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3382,13 +3382,13 @@ imported:
     표제어: 호소문
     품사: 명사
     항목ID: 87459
-processed:
+result:
   맞춤법 검사:
     표제어: 호소문
     품사: 명사
 ---
 000_KEYWORD: 호소하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87460
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3420,13 +3420,13 @@ imported:
     표제어: 호소하다
     품사: 동사
     항목ID: 87460
-processed:
+result:
   맞춤법 검사:
     표제어: 호소하다
     품사: 동사
 ---
 000_KEYWORD: 호송__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87461
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3467,13 +3467,13 @@ imported:
     표제어: 호송
     품사: 명사
     항목ID: 87461
-processed:
+result:
   맞춤법 검사:
     표제어: 호송
     품사: 명사
 ---
 000_KEYWORD: 호송되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87462
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3515,13 +3515,13 @@ imported:
     표제어: 호송되다
     품사: 동사
     항목ID: 87462
-processed:
+result:
   맞춤법 검사:
     표제어: 호송되다
     품사: 동사
 ---
 000_KEYWORD: 호송하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87542
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3560,13 +3560,13 @@ imported:
     표제어: 호송하다
     품사: 동사
     항목ID: 87542
-processed:
+result:
   맞춤법 검사:
     표제어: 호송하다
     품사: 동사
 ---
 000_KEYWORD: 호수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86622
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3594,13 +3594,13 @@ imported:
     표제어: 호수
     품사: 명사
     항목ID: 86622
-processed:
+result:
   맞춤법 검사:
     표제어: 호수
     품사: 명사
 ---
 000_KEYWORD: 호수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73225
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3630,13 +3630,13 @@ imported:
     표제어: 호수
     품사: 명사
     항목ID: 73225
-processed:
+result:
   맞춤법 검사:
     표제어: 호수
     품사: 명사
 ---
 000_KEYWORD: 호수__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86623
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3674,13 +3674,13 @@ imported:
     표제어: 호수
     품사: 명사
     항목ID: 86623
-processed:
+result:
   맞춤법 검사:
     표제어: 호수
     품사: 명사
 ---
 000_KEYWORD: 호숫가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86624
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3714,13 +3714,13 @@ imported:
     표제어: 호숫가
     품사: 명사
     항목ID: 86624
-processed:
+result:
   맞춤법 검사:
     표제어: 호숫가
     품사: 명사
 ---
 000_KEYWORD: 호스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86625
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3758,13 +3758,13 @@ imported:
     표제어: 호스
     품사: 명사
     항목ID: 86625
-processed:
+result:
   맞춤법 검사:
     표제어: 호스
     품사: 명사
 ---
 000_KEYWORD: 호스트바__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3775,13 +3775,13 @@ imported:
     표제어: 호스트바
     품사: 명사:보통:비서술성
     항목ID: 30775
-processed:
+result:
   맞춤법 검사:
     표제어: 호스트바
     품사: 명사
 ---
 000_KEYWORD: 호스티스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86626
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3806,13 +3806,13 @@ imported:
     표제어: 호스티스
     품사: 명사
     항목ID: 86626
-processed:
+result:
   맞춤법 검사:
     표제어: 호스티스
     품사: 명사
 ---
 000_KEYWORD: 호스팅__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3823,13 +3823,13 @@ imported:
     표제어: 호스팅
     품사: 명사:보통:서술성
     항목ID: 30776
-processed:
+result:
   맞춤법 검사:
     표제어: 호스팅
     품사: 명사
 ---
 000_KEYWORD: 호스피스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86629
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3877,13 +3877,13 @@ imported:
     표제어: 호스피스
     품사: 명사
     항목ID: 86629
-processed:
+result:
   맞춤법 검사:
     표제어: 호스피스
     품사: 명사
 ---
 000_KEYWORD: 호시절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86632
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3911,13 +3911,13 @@ imported:
     표제어: 호시절
     품사: 명사
     항목ID: 86632
-processed:
+result:
   맞춤법 검사:
     표제어: 호시절
     품사: 명사
 ---
 000_KEYWORD: 호시탐탐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86634
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3943,13 +3943,13 @@ imported:
     표제어: 호시탐탐
     품사: 명사
     항목ID: 86634
-processed:
+result:
   맞춤법 검사:
     표제어: 호시탐탐
     품사: 명사
 ---
 000_KEYWORD: 호시탐탐하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86637
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3978,13 +3978,13 @@ imported:
     표제어: 호시탐탐하다
     품사: 동사
     항목ID: 86637
-processed:
+result:
   맞춤법 검사:
     표제어: 호시탐탐하다
     품사: 동사
 ---
 000_KEYWORD: 호신술__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86639
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4012,13 +4012,13 @@ imported:
     표제어: 호신술
     품사: 명사
     항목ID: 86639
-processed:
+result:
   맞춤법 검사:
     표제어: 호신술
     품사: 명사
 ---
 000_KEYWORD: 호신용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86642
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4047,13 +4047,13 @@ imported:
     표제어: 호신용
     품사: 명사
     항목ID: 86642
-processed:
+result:
   맞춤법 검사:
     표제어: 호신용
     품사: 명사
 ---
 000_KEYWORD: 호실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86645
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4081,13 +4081,13 @@ imported:
     표제어: 호실
     품사: 명사
     항목ID: 86645
-processed:
+result:
   맞춤법 검사:
     표제어: 호실
     품사: 명사
 ---
 000_KEYWORD: 호언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86648
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4115,13 +4115,13 @@ imported:
     표제어: 호언
     품사: 명사
     항목ID: 86648
-processed:
+result:
   맞춤법 검사:
     표제어: 호언
     품사: 명사
 ---
 000_KEYWORD: 호언장담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86650
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4148,13 +4148,13 @@ imported:
     표제어: 호언장담
     품사: 명사
     항목ID: 86650
-processed:
+result:
   맞춤법 검사:
     표제어: 호언장담
     품사: 명사
 ---
 000_KEYWORD: 호언장담하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86653
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4180,13 +4180,13 @@ imported:
     표제어: 호언장담하다
     품사: 동사
     항목ID: 86653
-processed:
+result:
   맞춤법 검사:
     표제어: 호언장담하다
     품사: 동사
 ---
 000_KEYWORD: 호연지기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86654
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4214,13 +4214,13 @@ imported:
     표제어: 호연지기
     품사: 명사
     항목ID: 86654
-processed:
+result:
   맞춤법 검사:
     표제어: 호연지기
     품사: 명사
 ---
 000_KEYWORD: 호연하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86657
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4260,13 +4260,13 @@ imported:
       형태: 호연한
     - 발음: 호ː연함니다
       형태: 호연합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호연하다
     품사: 형용사
 ---
 000_KEYWORD: 호외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86660
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4297,13 +4297,13 @@ imported:
     표제어: 호외
     품사: 명사
     항목ID: 86660
-processed:
+result:
   맞춤법 검사:
     표제어: 호외
     품사: 명사
 ---
 000_KEYWORD: 호우__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86663
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4338,13 +4338,13 @@ imported:
     표제어: 호우
     품사: 명사
     항목ID: 86663
-processed:
+result:
   맞춤법 검사:
     표제어: 호우
     품사: 명사
 ---
 000_KEYWORD: 호위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86682
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4374,13 +4374,13 @@ imported:
     표제어: 호위
     품사: 명사
     항목ID: 86682
-processed:
+result:
   맞춤법 검사:
     표제어: 호위
     품사: 명사
 ---
 000_KEYWORD: 호위되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86685
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4411,13 +4411,13 @@ imported:
     표제어: 호위되다
     품사: 동사
     항목ID: 86685
-processed:
+result:
   맞춤법 검사:
     표제어: 호위되다
     품사: 동사
 ---
 000_KEYWORD: 호위하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86690
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4446,13 +4446,13 @@ imported:
     표제어: 호위하다
     품사: 동사
     항목ID: 86690
-processed:
+result:
   맞춤법 검사:
     표제어: 호위하다
     품사: 동사
 ---
 000_KEYWORD: 호응__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86694
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4499,13 +4499,13 @@ imported:
     표제어: 호응
     품사: 명사
     항목ID: 86694
-processed:
+result:
   맞춤법 검사:
     표제어: 호응
     품사: 명사
 ---
 000_KEYWORD: 호응하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86698
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4535,13 +4535,13 @@ imported:
     표제어: 호응하다
     품사: 동사
     항목ID: 86698
-processed:
+result:
   맞춤법 검사:
     표제어: 호응하다
     품사: 동사
 ---
 000_KEYWORD: 호의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86703
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4583,13 +4583,13 @@ imported:
     표제어: 호의
     품사: 명사
     항목ID: 86703
-processed:
+result:
   맞춤법 검사:
     표제어: 호의
     품사: 명사
 ---
 000_KEYWORD: 호의적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86707
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4620,13 +4620,13 @@ imported:
     표제어: 호의적
     품사: 관형사
     항목ID: 86707
-processed:
+result:
   맞춤법 검사:
     표제어: 호의적
     품사: 관형사
 ---
 000_KEYWORD: 호의적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86711
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4657,13 +4657,13 @@ imported:
     표제어: 호의적
     품사: 명사
     항목ID: 86711
-processed:
+result:
   맞춤법 검사:
     표제어: 호의적
     품사: 명사
 ---
 000_KEYWORD: 호의호식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86716
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4710,13 +4710,13 @@ imported:
     - 발음: 호ː이호ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/86716_ho-iho-singman.wav
       형태: 호의호식만
-processed:
+result:
   맞춤법 검사:
     표제어: 호의호식
     품사: 명사
 ---
 000_KEYWORD: 호의호식하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86723
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4746,13 +4746,13 @@ imported:
     표제어: 호의호식하다
     품사: 동사
     항목ID: 86723
-processed:
+result:
   맞춤법 검사:
     표제어: 호의호식하다
     품사: 동사
 ---
 000_KEYWORD: 호인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86731
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4779,13 +4779,13 @@ imported:
     표제어: 호인
     품사: 명사
     항목ID: 86731
-processed:
+result:
   맞춤법 검사:
     표제어: 호인
     품사: 명사
 ---
 000_KEYWORD: 호재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86736
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4813,13 +4813,13 @@ imported:
     표제어: 호재
     품사: 명사
     항목ID: 86736
-processed:
+result:
   맞춤법 검사:
     표제어: 호재
     품사: 명사
 ---
 000_KEYWORD: 호적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86743
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4858,13 +4858,13 @@ imported:
     - 발음: 호ː정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/86743_ho-jeongman.wav
       형태: 호적만
-processed:
+result:
   맞춤법 검사:
     표제어: 호적
     품사: 명사
 ---
 000_KEYWORD: 호전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86750
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4917,13 +4917,13 @@ imported:
     표제어: 호전
     품사: 명사
     항목ID: 86750
-processed:
+result:
   맞춤법 검사:
     표제어: 호전
     품사: 명사
 ---
 000_KEYWORD: 호전되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86759
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4976,13 +4976,13 @@ imported:
     표제어: 호전되다
     품사: 동사
     항목ID: 86759
-processed:
+result:
   맞춤법 검사:
     표제어: 호전되다
     품사: 동사
 ---
 000_KEYWORD: 호전시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85685
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5020,13 +5020,13 @@ imported:
     표제어: 호전시키다
     품사: 동사
     항목ID: 85685
-processed:
+result:
   맞춤법 검사:
     표제어: 호전시키다
     품사: 동사
 ---
 000_KEYWORD: 호전적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86763
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5054,13 +5054,13 @@ imported:
     표제어: 호전적
     품사: 관형사
     항목ID: 86763
-processed:
+result:
   맞춤법 검사:
     표제어: 호전적
     품사: 관형사
 ---
 000_KEYWORD: 호전적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86764
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5088,13 +5088,13 @@ imported:
     표제어: 호전적
     품사: 명사
     항목ID: 86764
-processed:
+result:
   맞춤법 검사:
     표제어: 호전적
     품사: 명사
 ---
 000_KEYWORD: 호전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86765
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5145,13 +5145,13 @@ imported:
     표제어: 호전하다
     품사: 동사
     항목ID: 86765
-processed:
+result:
   맞춤법 검사:
     표제어: 호전하다
     품사: 동사
 ---
 000_KEYWORD: 호젓이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86766
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5190,13 +5190,13 @@ imported:
     표제어: 호젓이
     품사: 부사
     항목ID: 86766
-processed:
+result:
   맞춤법 검사:
     표제어: 호젓이
     품사: 부사
 ---
 000_KEYWORD: 호젓하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86767
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5251,13 +5251,13 @@ imported:
       형태: 호젓하니
     - 발음: 호저탐니다
       형태: 호젓합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호젓하다
     품사: 형용사
 ---
 000_KEYWORD: 호조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92503
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5290,13 +5290,13 @@ imported:
     표제어: 호조
     품사: 명사
     항목ID: 92503
-processed:
+result:
   맞춤법 검사:
     표제어: 호조
     품사: 명사
 ---
 000_KEYWORD: 호조건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86768
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5328,13 +5328,13 @@ imported:
     표제어: 호조건
     품사: 명사
     항목ID: 86768
-processed:
+result:
   맞춤법 검사:
     표제어: 호조건
     품사: 명사
 ---
 000_KEYWORD: 호족__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5344,13 +5344,13 @@ imported:
     표제어: 호족
     품사: 명사:보통:비서술성
     항목ID: 30796
-processed:
+result:
   맞춤법 검사:
     표제어: 호족
     품사: 명사
 ---
 000_KEYWORD: 호주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86769
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5382,13 +5382,13 @@ imported:
     표제어: 호주
     품사: 명사
     항목ID: 86769
-processed:
+result:
   맞춤법 검사:
     표제어: 호주
     품사: 명사
 ---
 000_KEYWORD: 호주__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70052
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5405,13 +5405,13 @@ imported:
     표제어: 호주
     품사: 명사
     항목ID: 70052
-processed:
+result:
   맞춤법 검사:
     표제어: 호주
     품사: 명사
 ---
 000_KEYWORD: 호주머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86771
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5447,13 +5447,13 @@ imported:
     표제어: 호주머니
     품사: 명사
     항목ID: 86771
-processed:
+result:
   맞춤법 검사:
     표제어: 호주머니
     품사: 명사
 ---
 000_KEYWORD: 호주산__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5462,13 +5462,13 @@ imported:
     표제어: 호주산
     품사: 명사:보통:비서술성
     항목ID: 30799
-processed:
+result:
   맞춤법 검사:
     표제어: 호주산
     품사: 명사
 ---
 000_KEYWORD: 호청__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92313
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5481,10 +5481,10 @@ imported:
     표제어: 호청
     품사: 명사
     항목ID: 92313
-processed: {}
+result: {}
 ---
 000_KEYWORD: 호출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86772
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5519,13 +5519,13 @@ imported:
     표제어: 호출
     품사: 명사
     항목ID: 86772
-processed:
+result:
   맞춤법 검사:
     표제어: 호출
     품사: 명사
 ---
 000_KEYWORD: 호출되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86773
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5556,13 +5556,13 @@ imported:
     표제어: 호출되다
     품사: 동사
     항목ID: 86773
-processed:
+result:
   맞춤법 검사:
     표제어: 호출되다
     품사: 동사
 ---
 000_KEYWORD: 호출자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5571,13 +5571,13 @@ imported:
     표제어: 호출자
     품사: 명사:보통:비서술성
     항목ID: 30802
-processed:
+result:
   맞춤법 검사:
     표제어: 호출자
     품사: 명사
 ---
 000_KEYWORD: 호출하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86774
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5606,13 +5606,13 @@ imported:
     표제어: 호출하다
     품사: 동사
     항목ID: 86774
-processed:
+result:
   맞춤법 검사:
     표제어: 호출하다
     품사: 동사
 ---
 000_KEYWORD: 호치키스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5623,13 +5623,13 @@ imported:
     표제어: 호치키스
     품사: 명사:보통:비서술성
     항목ID: 30804
-processed:
+result:
   맞춤법 검사:
     표제어: 호치키스
     품사: 명사
 ---
 000_KEYWORD: 호칭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86775
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5660,13 +5660,13 @@ imported:
     표제어: 호칭
     품사: 명사
     항목ID: 86775
-processed:
+result:
   맞춤법 검사:
     표제어: 호칭
     품사: 명사
 ---
 000_KEYWORD: 호칭되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86776
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5697,13 +5697,13 @@ imported:
     표제어: 호칭되다
     품사: 동사
     항목ID: 86776
-processed:
+result:
   맞춤법 검사:
     표제어: 호칭되다
     품사: 동사
 ---
 000_KEYWORD: 호칭어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93424
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5732,13 +5732,13 @@ imported:
     표제어: 호칭어
     품사: 명사
     항목ID: 93424
-processed:
+result:
   맞춤법 검사:
     표제어: 호칭어
     품사: 명사
 ---
 000_KEYWORD: 호칭하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86777
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5767,13 +5767,13 @@ imported:
     표제어: 호칭하다
     품사: 동사
     항목ID: 86777
-processed:
+result:
   맞춤법 검사:
     표제어: 호칭하다
     품사: 동사
 ---
 000_KEYWORD: 호쾌하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88256
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5812,13 +5812,13 @@ imported:
       형태: 호쾌하니
     - 발음: 호쾌함니다
       형태: 호쾌합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호쾌하다
     품사: 형용사
 ---
 000_KEYWORD: 호쾌히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88257
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5848,13 +5848,13 @@ imported:
     표제어: 호쾌히
     품사: 부사
     항목ID: 88257
-processed:
+result:
   맞춤법 검사:
     표제어: 호쾌히
     품사: 부사
 ---
 000_KEYWORD: 호탕하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88258
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5893,13 +5893,13 @@ imported:
       형태: 호탕하니
     - 발음: 호탕함니다
       형태: 호탕합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호탕하다
     품사: 형용사
 ---
 000_KEYWORD: 호태왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5910,13 +5910,13 @@ imported:
     표제어: 호태왕
     품사: 명사:보통:서술성
     항목ID: 30809
-processed:
+result:
   맞춤법 검사:
     표제어: 호태왕
     품사: 명사
 ---
 000_KEYWORD: 호텔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30215
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5963,13 +5963,13 @@ imported:
     표제어: 호텔
     품사: 명사
     항목ID: 30215
-processed:
+result:
   맞춤법 검사:
     표제어: 호텔
     품사: 명사
 ---
 000_KEYWORD: 호통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88259
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5998,13 +5998,13 @@ imported:
     표제어: 호통
     품사: 명사
     항목ID: 88259
-processed:
+result:
   맞춤법 검사:
     표제어: 호통
     품사: 명사
 ---
 000_KEYWORD: 호통치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88260
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6041,13 +6041,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/88260_hotongcheo.wav
       형태: 호통쳐
     - 형태: 호통치니
-processed:
+result:
   맞춤법 검사:
     표제어: 호통치다
     품사: 동사
 ---
 000_KEYWORD: 호통하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88261
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6078,13 +6078,13 @@ imported:
     표제어: 호통하다
     품사: 동사
     항목ID: 88261
-processed:
+result:
   맞춤법 검사:
     표제어: 호통하다
     품사: 동사
 ---
 000_KEYWORD: 호투__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88262
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6112,13 +6112,13 @@ imported:
     표제어: 호투
     품사: 명사
     항목ID: 88262
-processed:
+result:
   맞춤법 검사:
     표제어: 호투
     품사: 명사
 ---
 000_KEYWORD: 호투하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88263
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6147,13 +6147,13 @@ imported:
     표제어: 호투하다
     품사: 동사
     항목ID: 88263
-processed:
+result:
   맞춤법 검사:
     표제어: 호투하다
     품사: 동사
 ---
 000_KEYWORD: 호패__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6164,13 +6164,13 @@ imported:
     표제어: 호패
     품사: 명사:보통:비서술성
     항목ID: 30814
-processed:
+result:
   맞춤법 검사:
     표제어: 호패
     품사: 명사
 ---
 000_KEYWORD: 호평__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88264
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6208,13 +6208,13 @@ imported:
     표제어: 호평
     품사: 명사
     항목ID: 88264
-processed:
+result:
   맞춤법 검사:
     표제어: 호평
     품사: 명사
 ---
 000_KEYWORD: 호평하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88265
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6247,13 +6247,13 @@ imported:
     표제어: 호평하다
     품사: 동사
     항목ID: 88265
-processed:
+result:
   맞춤법 검사:
     표제어: 호평하다
     품사: 동사
 ---
 000_KEYWORD: 호프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88266
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6283,13 +6283,13 @@ imported:
     표제어: 호프
     품사: 명사
     항목ID: 88266
-processed:
+result:
   맞춤법 검사:
     표제어: 호프
     품사: 명사
 ---
 000_KEYWORD: 호프집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88267
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6315,13 +6315,13 @@ imported:
     표제어: 호프집
     품사: 명사
     항목ID: 88267
-processed:
+result:
   맞춤법 검사:
     표제어: 호프집
     품사: 명사
 ---
 000_KEYWORD: 호피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88268
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6347,13 +6347,13 @@ imported:
     표제어: 호피
     품사: 명사
     항목ID: 88268
-processed:
+result:
   맞춤법 검사:
     표제어: 호피
     품사: 명사
 ---
 000_KEYWORD: 호형호제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88269
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6380,13 +6380,13 @@ imported:
     표제어: 호형호제
     품사: 명사
     항목ID: 88269
-processed:
+result:
   맞춤법 검사:
     표제어: 호형호제
     품사: 명사
 ---
 000_KEYWORD: 호형호제하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88270
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6416,13 +6416,13 @@ imported:
     표제어: 호형호제하다
     품사: 동사
     항목ID: 88270
-processed:
+result:
   맞춤법 검사:
     표제어: 호형호제하다
     품사: 동사
 ---
 000_KEYWORD: 호혜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88271
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6449,13 +6449,13 @@ imported:
     표제어: 호혜
     품사: 명사
     항목ID: 88271
-processed:
+result:
   맞춤법 검사:
     표제어: 호혜
     품사: 명사
 ---
 000_KEYWORD: 호혜적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88273
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6483,13 +6483,13 @@ imported:
     표제어: 호혜적
     품사: 관형사
     항목ID: 88273
-processed:
+result:
   맞춤법 검사:
     표제어: 호혜적
     품사: 관형사
 ---
 000_KEYWORD: 호혜적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88272
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6518,13 +6518,13 @@ imported:
     표제어: 호혜적
     품사: 명사
     항목ID: 88272
-processed:
+result:
   맞춤법 검사:
     표제어: 호혜적
     품사: 명사
 ---
 000_KEYWORD: 호호__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88274
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6551,13 +6551,13 @@ imported:
     표제어: 호호
     품사: 부사
     항목ID: 88274
-processed:
+result:
   맞춤법 검사:
     표제어: 호호
     품사: 부사
 ---
 000_KEYWORD: 호호__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88278
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6581,13 +6581,13 @@ imported:
     표제어: 호호
     품사: 부사
     항목ID: 88278
-processed:
+result:
   맞춤법 검사:
     표제어: 호호
     품사: 부사
 ---
 000_KEYWORD: 호호거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88275
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6615,13 +6615,13 @@ imported:
     표제어: 호호거리다
     품사: 동사
     항목ID: 88275
-processed:
+result:
   맞춤법 검사:
     표제어: 호호거리다
     품사: 동사
 ---
 000_KEYWORD: 호호거리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88279
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6646,13 +6646,13 @@ imported:
     표제어: 호호거리다
     품사: 동사
     항목ID: 88279
-processed:
+result:
   맞춤법 검사:
     표제어: 호호거리다
     품사: 동사
 ---
 000_KEYWORD: 호호대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88276
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6688,13 +6688,13 @@ imported:
     표제어: 호호대다
     품사: 동사
     항목ID: 88276
-processed:
+result:
   맞춤법 검사:
     표제어: 호호대다
     품사: 동사
 ---
 000_KEYWORD: 호호대다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88280
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6719,13 +6719,13 @@ imported:
     표제어: 호호대다
     품사: 동사
     항목ID: 88280
-processed:
+result:
   맞춤법 검사:
     표제어: 호호대다
     품사: 동사
 ---
 000_KEYWORD: 호호백발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88282
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6750,13 +6750,13 @@ imported:
     표제어: 호호백발
     품사: 명사
     항목ID: 88282
-processed:
+result:
   맞춤법 검사:
     표제어: 호호백발
     품사: 명사
 ---
 000_KEYWORD: 호호하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88277
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6791,13 +6791,13 @@ imported:
     표제어: 호호하다
     품사: 동사
     항목ID: 88277
-processed:
+result:
   맞춤법 검사:
     표제어: 호호하다
     품사: 동사
 ---
 000_KEYWORD: 호호하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88281
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6827,13 +6827,13 @@ imported:
     표제어: 호호하다
     품사: 동사
     항목ID: 88281
-processed:
+result:
   맞춤법 검사:
     표제어: 호호하다
     품사: 동사
 ---
 000_KEYWORD: 호화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88283
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6867,13 +6867,13 @@ imported:
     표제어: 호화
     품사: 명사
     항목ID: 88283
-processed:
+result:
   맞춤법 검사:
     표제어: 호화
     품사: 명사
 ---
 000_KEYWORD: 호화롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88284
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6910,7 +6910,7 @@ imported:
       형태: 호화로우니
     - 발음: 호화롭씀니다
       형태: 호화롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6918,7 +6918,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 호화스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88285
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6956,7 +6956,7 @@ imported:
       형태: 호화스러우니
     - 발음: 호화스럽씀니다
       형태: 호화스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6964,7 +6964,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 호화찬란하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88325
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7007,13 +7007,13 @@ imported:
       형태: 호화찬란하니
     - 발음: 호화찰란함니다
       형태: 호화찬란합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 호화찬란하다
     품사: 형용사
 ---
 000_KEYWORD: 호화판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88326
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7038,13 +7038,13 @@ imported:
     표제어: 호화판
     품사: 명사
     항목ID: 88326
-processed:
+result:
   맞춤법 검사:
     표제어: 호화판
     품사: 명사
 ---
 000_KEYWORD: 호화하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7054,13 +7054,13 @@ imported:
     표제어: 호화하다
     품사: 형용사
     항목ID: 30824
-processed:
+result:
   맞춤법 검사:
     표제어: 호화하다
     품사: 형용사
 ---
 000_KEYWORD: 호환__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88327
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7091,13 +7091,13 @@ imported:
     표제어: 호환
     품사: 명사
     항목ID: 88327
-processed:
+result:
   맞춤법 검사:
     표제어: 호환
     품사: 명사
 ---
 000_KEYWORD: 호환되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88328
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7130,13 +7130,13 @@ imported:
     표제어: 호환되다
     품사: 동사
     항목ID: 88328
-processed:
+result:
   맞춤법 검사:
     표제어: 호환되다
     품사: 동사
 ---
 000_KEYWORD: 호환성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88330
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7177,13 +7177,13 @@ imported:
     표제어: 호환성
     품사: 명사
     항목ID: 88330
-processed:
+result:
   맞춤법 검사:
     표제어: 호환성
     품사: 명사
 ---
 000_KEYWORD: 호환하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88329
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7215,13 +7215,13 @@ imported:
     표제어: 호환하다
     품사: 동사
     항목ID: 88329
-processed:
+result:
   맞춤법 검사:
     표제어: 호환하다
     품사: 동사
 ---
 000_KEYWORD: 호황__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88331
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7270,13 +7270,13 @@ imported:
     표제어: 호황
     품사: 명사
     항목ID: 88331
-processed:
+result:
   맞춤법 검사:
     표제어: 호황
     품사: 명사
 ---
 000_KEYWORD: 호흡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88332
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7350,13 +7350,13 @@ imported:
     - 발음: 호흠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/88332_hoheumman.wav
       형태: 호흡만
-processed:
+result:
   맞춤법 검사:
     표제어: 호흡
     품사: 명사
 ---
 000_KEYWORD: 호흡기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88333
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7395,13 +7395,13 @@ imported:
     표제어: 호흡기
     품사: 명사
     항목ID: 88333
-processed:
+result:
   맞춤법 검사:
     표제어: 호흡기
     품사: 명사
 ---
 000_KEYWORD: 호흡하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88334
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7463,13 +7463,13 @@ imported:
     표제어: 호흡하다
     품사: 동사
     항목ID: 88334
-processed:
+result:
   맞춤법 검사:
     표제어: 호흡하다
     품사: 동사
 ---
 000_KEYWORD: 혹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88335
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7563,13 +7563,13 @@ imported:
     - 발음: 홍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/88338_hongman.wav
       형태: 혹만
-processed:
+result:
   맞춤법 검사:
     표제어: 혹
     품사: 명사
 ---
 000_KEYWORD: 혹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88338
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7637,13 +7637,13 @@ imported:
     표제어: 혹
     품사: 부사
     항목ID: 88338
-processed:
+result:
   맞춤법 검사:
     표제어: 혹
     품사: 부사
 ---
 000_KEYWORD: 혹독하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88339
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7694,13 +7694,13 @@ imported:
       형태: 혹독하니
     - 발음: 혹또캄니다
       형태: 혹독합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 혹독하다
     품사: 형용사
 ---
 000_KEYWORD: 혹독히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88340
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7742,13 +7742,13 @@ imported:
     표제어: 혹독히
     품사: 부사
     항목ID: 88340
-processed:
+result:
   맞춤법 검사:
     표제어: 혹독히
     품사: 부사
 ---
 000_KEYWORD: 혹부리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88341
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7777,13 +7777,13 @@ imported:
     표제어: 혹부리
     품사: 명사
     항목ID: 88341
-processed:
+result:
   맞춤법 검사:
     표제어: 혹부리
     품사: 명사
 ---
 000_KEYWORD: 혹사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88343
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7811,13 +7811,13 @@ imported:
     표제어: 혹사
     품사: 명사
     항목ID: 88343
-processed:
+result:
   맞춤법 검사:
     표제어: 혹사
     품사: 명사
 ---
 000_KEYWORD: 혹사당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85412
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7844,13 +7844,13 @@ imported:
     표제어: 혹사당하다
     품사: 동사
     항목ID: 85412
-processed:
+result:
   맞춤법 검사:
     표제어: 혹사당하다
     품사: 동사
 ---
 000_KEYWORD: 혹사되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88344
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7874,13 +7874,13 @@ imported:
     표제어: 혹사되다
     품사: 동사
     항목ID: 88344
-processed:
+result:
   맞춤법 검사:
     표제어: 혹사되다
     품사: 동사
 ---
 000_KEYWORD: 혹사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88345
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7902,13 +7902,13 @@ imported:
     표제어: 혹사하다
     품사: 동사
     항목ID: 88345
-processed:
+result:
   맞춤법 검사:
     표제어: 혹사하다
     품사: 동사
 ---
 000_KEYWORD: 혹서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88346
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7940,13 +7940,13 @@ imported:
     표제어: 혹서
     품사: 명사
     항목ID: 88346
-processed:
+result:
   맞춤법 검사:
     표제어: 혹서
     품사: 명사
 ---
 000_KEYWORD: 혹성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87951
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7973,13 +7973,13 @@ imported:
     표제어: 혹성
     품사: 명사
     항목ID: 87951
-processed:
+result:
   맞춤법 검사:
     표제어: 혹성
     품사: 명사
 ---
 000_KEYWORD: 혹세무민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87952
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8006,13 +8006,13 @@ imported:
     표제어: 혹세무민
     품사: 명사
     항목ID: 87952
-processed:
+result:
   맞춤법 검사:
     표제어: 혹세무민
     품사: 명사
 ---
 000_KEYWORD: 혹세무민하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87953
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8038,13 +8038,13 @@ imported:
     표제어: 혹세무민하다
     품사: 동사
     항목ID: 87953
-processed:
+result:
   맞춤법 검사:
     표제어: 혹세무민하다
     품사: 동사
 ---
 000_KEYWORD: 혹시__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87955
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8121,13 +8121,13 @@ imported:
     표제어: 혹시
     품사: 부사
     항목ID: 87955
-processed:
+result:
   맞춤법 검사:
     표제어: 혹시
     품사: 부사
 ---
 000_KEYWORD: 혹시나__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87956
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8154,13 +8154,13 @@ imported:
     표제어: 혹시나
     품사: 부사
     항목ID: 87956
-processed:
+result:
   맞춤법 검사:
     표제어: 혹시나
     품사: 부사
 ---
 000_KEYWORD: 혹심하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87957
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8198,13 +8198,13 @@ imported:
       형태: 혹심하니
     - 발음: 혹씸함니다
       형태: 혹심합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 혹심하다
     품사: 형용사
 ---
 000_KEYWORD: 혹여__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87958
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8265,13 +8265,13 @@ imported:
     표제어: 혹여
     품사: 부사
     항목ID: 87958
-processed:
+result:
   맞춤법 검사:
     표제어: 혹여
     품사: 부사
 ---
 000_KEYWORD: 혹여나__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8280,13 +8280,13 @@ imported:
     표제어: 혹여나
     품사: 부사
     항목ID: 30842
-processed:
+result:
   맞춤법 검사:
     표제어: 혹여나
     품사: 부사
 ---
 000_KEYWORD: 혹은__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73226
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8322,13 +8322,13 @@ imported:
     표제어: 혹은
     품사: 부사
     항목ID: 73226
-processed:
+result:
   맞춤법 검사:
     표제어: 혹은
     품사: 부사
 ---
 000_KEYWORD: 혹자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87959
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8350,13 +8350,13 @@ imported:
     표제어: 혹자
     품사: 명사
     항목ID: 87959
-processed:
+result:
   맞춤법 검사:
     표제어: 혹자
     품사: 명사
 ---
 000_KEYWORD: 혹평__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87960
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8390,13 +8390,13 @@ imported:
     표제어: 혹평
     품사: 명사
     항목ID: 87960
-processed:
+result:
   맞춤법 검사:
     표제어: 혹평
     품사: 명사
 ---
 000_KEYWORD: 혹평하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87961
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8426,13 +8426,13 @@ imported:
     표제어: 혹평하다
     품사: 동사
     항목ID: 87961
-processed:
+result:
   맞춤법 검사:
     표제어: 혹평하다
     품사: 동사
 ---
 000_KEYWORD: 혹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87962
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8461,13 +8461,13 @@ imported:
     표제어: 혹하다
     품사: 동사
     항목ID: 87962
-processed:
+result:
   맞춤법 검사:
     표제어: 혹하다
     품사: 동사
 ---
 000_KEYWORD: 혹한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87963
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8503,13 +8503,13 @@ imported:
     표제어: 혹한
     품사: 명사
     항목ID: 87963
-processed:
+result:
   맞춤법 검사:
     표제어: 혹한
     품사: 명사
 ---
 000_KEYWORD: 혹한기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8519,13 +8519,13 @@ imported:
     표제어: 혹한기
     품사: 명사:보통:서술성
     항목ID: 30849
-processed:
+result:
   맞춤법 검사:
     표제어: 혹한기
     품사: 명사
 ---
 000_KEYWORD: 혼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87964
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8569,13 +8569,13 @@ imported:
     표제어: 혼
     품사: 명사
     항목ID: 87964
-processed:
+result:
   맞춤법 검사:
     표제어: 혼
     품사: 명사
 ---
 000_KEYWORD: 혼기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87965
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8602,13 +8602,13 @@ imported:
     표제어: 혼기
     품사: 명사
     항목ID: 87965
-processed:
+result:
   맞춤법 검사:
     표제어: 혼기
     품사: 명사
 ---
 000_KEYWORD: 혼나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87966
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8658,13 +8658,13 @@ imported:
     활용:
     - 형태: 혼나
     - 형태: 혼나니
-processed:
+result:
   맞춤법 검사:
     표제어: 혼나다
     품사: 동사
 ---
 000_KEYWORD: 혼내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87967
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8697,13 +8697,13 @@ imported:
     활용:
     - 형태: 혼내어
     - 형태: 혼내니
-processed:
+result:
   맞춤법 검사:
     표제어: 혼내다
     품사: 동사
 ---
 000_KEYWORD: 혼담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87968
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8732,13 +8732,13 @@ imported:
     표제어: 혼담
     품사: 명사
     항목ID: 87968
-processed:
+result:
   맞춤법 검사:
     표제어: 혼담
     품사: 명사
 ---
 000_KEYWORD: 혼돈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87969
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8777,13 +8777,13 @@ imported:
     표제어: 혼돈
     품사: 명사
     항목ID: 87969
-processed:
+result:
   맞춤법 검사:
     표제어: 혼돈
     품사: 명사
 ---
 000_KEYWORD: 혼돈되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87970
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8814,13 +8814,13 @@ imported:
     표제어: 혼돈되다
     품사: 동사
     항목ID: 87970
-processed:
+result:
   맞춤법 검사:
     표제어: 혼돈되다
     품사: 동사
 ---
 000_KEYWORD: 혼돈하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87976
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8859,13 +8859,13 @@ imported:
       형태: 혼돈하니
     - 발음: 혼ː돈함니다
       형태: 혼돈합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 혼돈하다
     품사: 형용사
 ---
 000_KEYWORD: 혼동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87998
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8906,13 +8906,13 @@ imported:
     표제어: 혼동
     품사: 명사
     항목ID: 87998
-processed:
+result:
   맞춤법 검사:
     표제어: 혼동
     품사: 명사
 ---
 000_KEYWORD: 혼동되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87999
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8954,13 +8954,13 @@ imported:
     표제어: 혼동되다
     품사: 동사
     항목ID: 87999
-processed:
+result:
   맞춤법 검사:
     표제어: 혼동되다
     품사: 동사
 ---
 000_KEYWORD: 혼동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88992
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -8988,13 +8988,13 @@ imported:
     표제어: 혼동하다
     품사: 동사
     항목ID: 88992
-processed:
+result:
   맞춤법 검사:
     표제어: 혼동하다
     품사: 동사
 ---
 000_KEYWORD: 혼란__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88993
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9027,13 +9027,13 @@ imported:
     표제어: 혼란
     품사: 명사
     항목ID: 88993
-processed:
+result:
   맞춤법 검사:
     표제어: 혼란
     품사: 명사
 ---
 000_KEYWORD: 혼란기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88994
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9061,13 +9061,13 @@ imported:
     표제어: 혼란기
     품사: 명사
     항목ID: 88994
-processed:
+result:
   맞춤법 검사:
     표제어: 혼란기
     품사: 명사
 ---
 000_KEYWORD: 혼란되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88995
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9096,13 +9096,13 @@ imported:
     표제어: 혼란되다
     품사: 동사
     항목ID: 88995
-processed:
+result:
   맞춤법 검사:
     표제어: 혼란되다
     품사: 동사
 ---
 000_KEYWORD: 혼란상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88996
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9131,13 +9131,13 @@ imported:
     표제어: 혼란상
     품사: 명사
     항목ID: 88996
-processed:
+result:
   맞춤법 검사:
     표제어: 혼란상
     품사: 명사
 ---
 000_KEYWORD: 혼란스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88997
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9176,7 +9176,7 @@ imported:
       형태: 혼란스러우니
     - 발음: 홀ː란스럽씀니다
       형태: 혼란스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -9184,7 +9184,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 혼란시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85686
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9210,13 +9210,13 @@ imported:
     표제어: 혼란시키다
     품사: 동사
     항목ID: 85686
-processed:
+result:
   맞춤법 검사:
     표제어: 혼란시키다
     품사: 동사
 ---
 000_KEYWORD: 혼란시키다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85687
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9244,13 +9244,13 @@ imported:
     표제어: 혼란시키다
     품사: 동사
     항목ID: 85687
-processed:
+result:
   맞춤법 검사:
     표제어: 혼란시키다
     품사: 동사
 ---
 000_KEYWORD: 혼란하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89010
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9293,13 +9293,13 @@ imported:
       형태: 혼란하니
     - 발음: 홀ː란함니다
       형태: 혼란합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 혼란하다
     품사: 형용사
 ---
 000_KEYWORD: 혼령__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89011
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9329,13 +9329,13 @@ imported:
     표제어: 혼령
     품사: 명사
     항목ID: 89011
-processed:
+result:
   맞춤법 검사:
     표제어: 혼령
     품사: 명사
 ---
 000_KEYWORD: 혼례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89012
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9391,13 +9391,13 @@ imported:
     표제어: 혼례
     품사: 명사
     항목ID: 89012
-processed:
+result:
   맞춤법 검사:
     표제어: 혼례
     품사: 명사
 ---
 000_KEYWORD: 혼례복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89013
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9432,13 +9432,13 @@ imported:
     - 발음: 홀례봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/89013_hollyebongman.wav
       형태: 혼례복만
-processed:
+result:
   맞춤법 검사:
     표제어: 혼례복
     품사: 명사
 ---
 000_KEYWORD: 혼례식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89014
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9488,13 +9488,13 @@ imported:
     - 발음: 홀례싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/89014_hollyesingman.wav
       형태: 혼례식만
-processed:
+result:
   맞춤법 검사:
     표제어: 혼례식
     품사: 명사
 ---
 000_KEYWORD: 혼미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89017
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9542,13 +9542,13 @@ imported:
     표제어: 혼미
     품사: 명사
     항목ID: 89017
-processed:
+result:
   맞춤법 검사:
     표제어: 혼미
     품사: 명사
 ---
 000_KEYWORD: 혼미하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89018
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9611,13 +9611,13 @@ imported:
       형태: 혼미하니
     - 발음: 혼미함니다
       형태: 혼미합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 혼미하다
     품사: 형용사
 ---
 000_KEYWORD: 혼방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89019
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9648,13 +9648,13 @@ imported:
     표제어: 혼방
     품사: 명사
     항목ID: 89019
-processed:
+result:
   맞춤법 검사:
     표제어: 혼방
     품사: 명사
 ---
 000_KEYWORD: 혼방되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89020
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9683,13 +9683,13 @@ imported:
     표제어: 혼방되다
     품사: 동사
     항목ID: 89020
-processed:
+result:
   맞춤법 검사:
     표제어: 혼방되다
     품사: 동사
 ---
 000_KEYWORD: 혼방하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89021
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9717,13 +9717,13 @@ imported:
     표제어: 혼방하다
     품사: 동사
     항목ID: 89021
-processed:
+result:
   맞춤법 검사:
     표제어: 혼방하다
     품사: 동사
 ---
 000_KEYWORD: 혼백__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89022
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9767,13 +9767,13 @@ imported:
     - 발음: 혼뱅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/89022_honbaengman.wav
       형태: 혼백만
-processed:
+result:
   맞춤법 검사:
     표제어: 혼백
     품사: 명사
 ---
 000_KEYWORD: 혼비백산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89023
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9798,13 +9798,13 @@ imported:
     표제어: 혼비백산
     품사: 명사
     항목ID: 89023
-processed:
+result:
   맞춤법 검사:
     표제어: 혼비백산
     품사: 명사
 ---
 000_KEYWORD: 혼비백산하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89024
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9830,13 +9830,13 @@ imported:
     표제어: 혼비백산하다
     품사: 동사
     항목ID: 89024
-processed:
+result:
   맞춤법 검사:
     표제어: 혼비백산하다
     품사: 동사
 ---
 000_KEYWORD: 혼사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89025
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9867,13 +9867,13 @@ imported:
     표제어: 혼사
     품사: 명사
     항목ID: 89025
-processed:
+result:
   맞춤법 검사:
     표제어: 혼사
     품사: 명사
 ---
 000_KEYWORD: 혼삿날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89026
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9899,13 +9899,13 @@ imported:
     표제어: 혼삿날
     품사: 명사
     항목ID: 89026
-processed:
+result:
   맞춤법 검사:
     표제어: 혼삿날
     품사: 명사
 ---
 000_KEYWORD: 혼선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89027
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -9953,13 +9953,13 @@ imported:
     표제어: 혼선
     품사: 명사
     항목ID: 89027
-processed:
+result:
   맞춤법 검사:
     표제어: 혼선
     품사: 명사
 ---
 000_KEYWORD: 혼선되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89028
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10009,13 +10009,13 @@ imported:
     표제어: 혼선되다
     품사: 동사
     항목ID: 89028
-processed:
+result:
   맞춤법 검사:
     표제어: 혼선되다
     품사: 동사
 ---
 000_KEYWORD: 혼수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89029
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10056,13 +10056,13 @@ imported:
     표제어: 혼수
     품사: 명사
     항목ID: 89029
-processed:
+result:
   맞춤법 검사:
     표제어: 혼수
     품사: 명사
 ---
 000_KEYWORD: 혼수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89030
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10110,13 +10110,13 @@ imported:
     표제어: 혼수
     품사: 명사
     항목ID: 89030
-processed:
+result:
   맞춤법 검사:
     표제어: 혼수
     품사: 명사
 ---
 000_KEYWORD: 혼수상태__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87336
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10147,13 +10147,13 @@ imported:
     표제어: 혼수상태
     품사: 명사
     항목ID: 87336
-processed:
+result:
   맞춤법 검사:
     표제어: 혼수상태
     품사: 명사
 ---
 000_KEYWORD: 혼수품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87232
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10184,13 +10184,13 @@ imported:
     표제어: 혼수품
     품사: 명사
     항목ID: 87232
-processed:
+result:
   맞춤법 검사:
     표제어: 혼수품
     품사: 명사
 ---
 000_KEYWORD: 혼숫감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87233
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10218,13 +10218,13 @@ imported:
     표제어: 혼숫감
     품사: 명사
     항목ID: 87233
-processed:
+result:
   맞춤법 검사:
     표제어: 혼숫감
     품사: 명사
 ---
 000_KEYWORD: 혼슈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10234,13 +10234,13 @@ imported:
     표제어: 혼슈
     품사: 명사:고유
     항목ID: 30869
-processed:
+result:
   맞춤법 검사:
     표제어: 혼슈
     품사: 명사
 ---
 000_KEYWORD: 혼신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87234
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10281,13 +10281,13 @@ imported:
     표제어: 혼신
     품사: 명사
     항목ID: 87234
-processed:
+result:
   맞춤법 검사:
     표제어: 혼신
     품사: 명사
 ---
 000_KEYWORD: 혼약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87235
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10333,13 +10333,13 @@ imported:
     - 발음: 호냥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87235_honyangman.wav
       형태: 혼약만
-processed:
+result:
   맞춤법 검사:
     표제어: 혼약
     품사: 명사
 ---
 000_KEYWORD: 혼연일체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87236
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10365,13 +10365,13 @@ imported:
     표제어: 혼연일체
     품사: 명사
     항목ID: 87236
-processed:
+result:
   맞춤법 검사:
     표제어: 혼연일체
     품사: 명사
 ---
 000_KEYWORD: 혼외정사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10381,13 +10381,13 @@ imported:
     표제어: 혼외정사
     품사: 명사:보통:서술성
     항목ID: 30872
-processed:
+result:
   맞춤법 검사:
     표제어: 혼외정사
     품사: 명사
 ---
 000_KEYWORD: 혼욕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10397,13 +10397,13 @@ imported:
     표제어: 혼욕
     품사: 명사:보통:서술성
     항목ID: 30873
-processed:
+result:
   맞춤법 검사:
     표제어: 혼욕
     품사: 명사
 ---
 000_KEYWORD: 혼용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87237
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10442,13 +10442,13 @@ imported:
     표제어: 혼용
     품사: 명사
     항목ID: 87237
-processed:
+result:
   맞춤법 검사:
     표제어: 혼용
     품사: 명사
 ---
 000_KEYWORD: 혼용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87240
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10489,13 +10489,13 @@ imported:
     표제어: 혼용되다
     품사: 동사
     항목ID: 87240
-processed:
+result:
   맞춤법 검사:
     표제어: 혼용되다
     품사: 동사
 ---
 000_KEYWORD: 혼용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87243
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10536,13 +10536,13 @@ imported:
     표제어: 혼용하다
     품사: 동사
     항목ID: 87243
-processed:
+result:
   맞춤법 검사:
     표제어: 혼용하다
     품사: 동사
 ---
 000_KEYWORD: 혼인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87190
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10577,13 +10577,13 @@ imported:
     표제어: 혼인
     품사: 명사
     항목ID: 87190
-processed:
+result:
   맞춤법 검사:
     표제어: 혼인
     품사: 명사
 ---
 000_KEYWORD: 혼인식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87191
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10636,13 +10636,13 @@ imported:
     - 발음: 호닌싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87191_honinsingman.wav
       형태: 혼인식만
-processed:
+result:
   맞춤법 검사:
     표제어: 혼인식
     품사: 명사
 ---
 000_KEYWORD: 혼인신고__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10651,13 +10651,13 @@ imported:
     표제어: 혼인신고
     품사: 명사:보통:비서술성
     항목ID: 30877
-processed:
+result:
   맞춤법 검사:
     표제어: 혼인신고
     품사: 명사
 ---
 000_KEYWORD: 혼인하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87194
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10688,13 +10688,13 @@ imported:
     표제어: 혼인하다
     품사: 동사
     항목ID: 87194
-processed:
+result:
   맞춤법 검사:
     표제어: 혼인하다
     품사: 동사
 ---
 000_KEYWORD: 혼자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30207
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10727,13 +10727,13 @@ imported:
     표제어: 혼자
     품사: 명사
     항목ID: 30207
-processed:
+result:
   맞춤법 검사:
     표제어: 혼자
     품사: 명사
 ---
 000_KEYWORD: 혼자__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30208
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10778,13 +10778,13 @@ imported:
     표제어: 혼자
     품사: 부사
     항목ID: 30208
-processed:
+result:
   맞춤법 검사:
     표제어: 혼자
     품사: 부사
 ---
 000_KEYWORD: 혼자되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87195
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10828,13 +10828,13 @@ imported:
     - 발음: 혼자뒈니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/87195_honjadweni.wav
       형태: 혼자되니
-processed:
+result:
   맞춤법 검사:
     표제어: 혼자되다
     품사: 동사
 ---
 000_KEYWORD: 혼잡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87196
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10877,13 +10877,13 @@ imported:
     - 발음: 혼ː잠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87196_hon-jamman.wav
       형태: 혼잡만
-processed:
+result:
   맞춤법 검사:
     표제어: 혼잡
     품사: 명사
 ---
 000_KEYWORD: 혼잡시간__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10893,13 +10893,13 @@ imported:
     표제어: 혼잡시간
     품사: 명사:보통:서술성
     항목ID: 30881
-processed:
+result:
   맞춤법 검사:
     표제어: 혼잡시간
     품사: 명사
 ---
 000_KEYWORD: 혼잡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87197
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10945,13 +10945,13 @@ imported:
       형태: 혼잡하니
     - 발음: 혼ː자팜니다
       형태: 혼잡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 혼잡하다
     품사: 형용사
 ---
 000_KEYWORD: 혼잣말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87198
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -10985,13 +10985,13 @@ imported:
     표제어: 혼잣말
     품사: 명사
     항목ID: 87198
-processed:
+result:
   맞춤법 검사:
     표제어: 혼잣말
     품사: 명사
 ---
 000_KEYWORD: 혼잣말하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87199
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11017,13 +11017,13 @@ imported:
     표제어: 혼잣말하다
     품사: 동사
     항목ID: 87199
-processed:
+result:
   맞춤법 검사:
     표제어: 혼잣말하다
     품사: 동사
 ---
 000_KEYWORD: 혼재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87200
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11054,13 +11054,13 @@ imported:
     표제어: 혼재
     품사: 명사
     항목ID: 87200
-processed:
+result:
   맞춤법 검사:
     표제어: 혼재
     품사: 명사
 ---
 000_KEYWORD: 혼재되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87201
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11091,13 +11091,13 @@ imported:
     표제어: 혼재되다
     품사: 동사
     항목ID: 87201
-processed:
+result:
   맞춤법 검사:
     표제어: 혼재되다
     품사: 동사
 ---
 000_KEYWORD: 혼재하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87202
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11126,13 +11126,13 @@ imported:
     표제어: 혼재하다
     품사: 동사
     항목ID: 87202
-processed:
+result:
   맞춤법 검사:
     표제어: 혼재하다
     품사: 동사
 ---
 000_KEYWORD: 혼전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87203
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11159,13 +11159,13 @@ imported:
     표제어: 혼전
     품사: 명사
     항목ID: 87203
-processed:
+result:
   맞춤법 검사:
     표제어: 혼전
     품사: 명사
 ---
 000_KEYWORD: 혼전__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87204
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11200,13 +11200,13 @@ imported:
     표제어: 혼전
     품사: 명사
     항목ID: 87204
-processed:
+result:
   맞춤법 검사:
     표제어: 혼전
     품사: 명사
 ---
 000_KEYWORD: 혼절하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87205
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11238,13 +11238,13 @@ imported:
     표제어: 혼절하다
     품사: 동사
     항목ID: 87205
-processed:
+result:
   맞춤법 검사:
     표제어: 혼절하다
     품사: 동사
 ---
 000_KEYWORD: 혼쭐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87250
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11270,13 +11270,13 @@ imported:
     표제어: 혼쭐
     품사: 명사
     항목ID: 87250
-processed:
+result:
   맞춤법 검사:
     표제어: 혼쭐
     품사: 명사
 ---
 000_KEYWORD: 혼처__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87253
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11304,13 +11304,13 @@ imported:
     표제어: 혼처
     품사: 명사
     항목ID: 87253
-processed:
+result:
   맞춤법 검사:
     표제어: 혼처
     품사: 명사
 ---
 000_KEYWORD: 혼탁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87256
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11359,13 +11359,13 @@ imported:
     - 발음: 혼ː탕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87256_hon-tangman.wav
       형태: 혼탁만
-processed:
+result:
   맞춤법 검사:
     표제어: 혼탁
     품사: 명사
 ---
 000_KEYWORD: 혼탁하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11374,13 +11374,13 @@ imported:
     표제어: 혼탁하다
     품사: 동사
     항목ID: 30887
-processed:
+result:
   맞춤법 검사:
     표제어: 혼탁하다
     품사: 동사
 ---
 000_KEYWORD: 혼탁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87260
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11429,13 +11429,13 @@ imported:
       형태: 혼탁하니
     - 발음: 혼ː타캄니다
       형태: 혼탁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 혼탁하다
     품사: 형용사
 ---
 000_KEYWORD: 혼합__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87262
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11472,13 +11472,13 @@ imported:
     - 발음: 혼ː함만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87262_hon-hamman.wav
       형태: 혼합만
-processed:
+result:
   맞춤법 검사:
     표제어: 혼합
     품사: 명사
 ---
 000_KEYWORD: 혼합되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87265
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11510,13 +11510,13 @@ imported:
     표제어: 혼합되다
     품사: 동사
     항목ID: 87265
-processed:
+result:
   맞춤법 검사:
     표제어: 혼합되다
     품사: 동사
 ---
 000_KEYWORD: 혼합물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87268
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11546,13 +11546,13 @@ imported:
     표제어: 혼합물
     품사: 명사
     항목ID: 87268
-processed:
+result:
   맞춤법 검사:
     표제어: 혼합물
     품사: 명사
 ---
 000_KEYWORD: 혼합하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87267
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11582,13 +11582,13 @@ imported:
     표제어: 혼합하다
     품사: 동사
     항목ID: 87267
-processed:
+result:
   맞춤법 검사:
     표제어: 혼합하다
     품사: 동사
 ---
 000_KEYWORD: 혼혈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87275
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11630,13 +11630,13 @@ imported:
     표제어: 혼혈
     품사: 명사
     항목ID: 87275
-processed:
+result:
   맞춤법 검사:
     표제어: 혼혈
     품사: 명사
 ---
 000_KEYWORD: 혼혈아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87278
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11662,13 +11662,13 @@ imported:
     표제어: 혼혈아
     품사: 명사
     항목ID: 87278
-processed:
+result:
   맞춤법 검사:
     표제어: 혼혈아
     품사: 명사
 ---
 000_KEYWORD: 혼혈인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11678,13 +11678,13 @@ imported:
     표제어: 혼혈인
     품사: 명사:보통:비서술성
     항목ID: 30894
-processed:
+result:
   맞춤법 검사:
     표제어: 혼혈인
     품사: 명사
 ---
 000_KEYWORD: 홀-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88496
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11706,11 +11706,11 @@ imported:
     표제어: 홀-
     품사: 접사
     항목ID: 88496
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 홀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87282
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11737,13 +11737,13 @@ imported:
     표제어: 홀
     품사: 명사
     항목ID: 87282
-processed:
+result:
   맞춤법 검사:
     표제어: 홀
     품사: 명사
 ---
 000_KEYWORD: 홀가분하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87285
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11785,13 +11785,13 @@ imported:
       형태: 홀가분하니
     - 발음: 홀가분함니다
       형태: 홀가분합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 홀가분하다
     품사: 형용사
 ---
 000_KEYWORD: 홀가분히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87287
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11817,13 +11817,13 @@ imported:
     표제어: 홀가분히
     품사: 부사
     항목ID: 87287
-processed:
+result:
   맞춤법 검사:
     표제어: 홀가분히
     품사: 부사
 ---
 000_KEYWORD: 홀대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87289
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11854,13 +11854,13 @@ imported:
     표제어: 홀대
     품사: 명사
     항목ID: 87289
-processed:
+result:
   맞춤법 검사:
     표제어: 홀대
     품사: 명사
 ---
 000_KEYWORD: 홀대하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87291
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -11888,13 +11888,13 @@ imported:
     표제어: 홀대하다
     품사: 동사
     항목ID: 87291
-processed:
+result:
   맞춤법 검사:
     표제어: 홀대하다
     품사: 동사
 ---
 000_KEYWORD: 홀딱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87358
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12005,13 +12005,13 @@ imported:
     표제어: 홀딱
     품사: 부사
     항목ID: 87358
-processed:
+result:
   맞춤법 검사:
     표제어: 홀딱
     품사: 부사
 ---
 000_KEYWORD: 홀딱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87361
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12048,13 +12048,13 @@ imported:
     표제어: 홀딱하다
     품사: 동사
     항목ID: 87361
-processed:
+result:
   맞춤법 검사:
     표제어: 홀딱하다
     품사: 동사
 ---
 000_KEYWORD: 홀라당__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87319
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12107,13 +12107,13 @@ imported:
     표제어: 홀라당
     품사: 부사
     항목ID: 87319
-processed:
+result:
   맞춤법 검사:
     표제어: 홀라당
     품사: 부사
 ---
 000_KEYWORD: 홀랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87299
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12168,13 +12168,13 @@ imported:
     표제어: 홀랑
     품사: 부사
     항목ID: 87299
-processed:
+result:
   맞춤법 검사:
     표제어: 홀랑
     품사: 부사
 ---
 000_KEYWORD: 홀랑홀랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87310
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12209,13 +12209,13 @@ imported:
     표제어: 홀랑홀랑
     품사: 부사
     항목ID: 87310
-processed:
+result:
   맞춤법 검사:
     표제어: 홀랑홀랑
     품사: 부사
 ---
 000_KEYWORD: 홀로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87293
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12245,13 +12245,13 @@ imported:
     표제어: 홀로
     품사: 부사
     항목ID: 87293
-processed:
+result:
   맞춤법 검사:
     표제어: 홀로
     품사: 부사
 ---
 000_KEYWORD: 홀로그램__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12262,13 +12262,13 @@ imported:
     표제어: 홀로그램
     품사: 명사:보통:서술성
     항목ID: 30902
-processed:
+result:
   맞춤법 검사:
     표제어: 홀로그램
     품사: 명사
 ---
 000_KEYWORD: 홀로코스트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12278,13 +12278,13 @@ imported:
     표제어: 홀로코스트
     품사: 명사:보통:서술성
     항목ID: 31816
-processed:
+result:
   맞춤법 검사:
     표제어: 홀로코스트
     품사: 명사
 ---
 000_KEYWORD: 홀리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87295
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12333,13 +12333,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87295_holliyeo.wav
       형태: 홀리어
     - 형태: 홀리니
-processed:
+result:
   맞춤법 검사:
     표제어: 홀리다
     품사: 동사
 ---
 000_KEYWORD: 홀몸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87617
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12369,13 +12369,13 @@ imported:
     표제어: 홀몸
     품사: 명사
     항목ID: 87617
-processed:
+result:
   맞춤법 검사:
     표제어: 홀몸
     품사: 명사
 ---
 000_KEYWORD: 홀소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87619
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12410,13 +12410,13 @@ imported:
     표제어: 홀소리
     품사: 명사
     항목ID: 87619
-processed:
+result:
   맞춤법 검사:
     표제어: 홀소리
     품사: 명사
 ---
 000_KEYWORD: 홀수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87620
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12448,13 +12448,13 @@ imported:
     표제어: 홀수
     품사: 명사
     항목ID: 87620
-processed:
+result:
   맞춤법 검사:
     표제어: 홀수
     품사: 명사
 ---
 000_KEYWORD: 홀시아버지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87584
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12482,13 +12482,13 @@ imported:
     표제어: 홀시아버지
     품사: 명사
     항목ID: 87584
-processed:
+result:
   맞춤법 검사:
     표제어: 홀시아버지
     품사: 명사
 ---
 000_KEYWORD: 홀시어머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87585
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12517,13 +12517,13 @@ imported:
     표제어: 홀시어머니
     품사: 명사
     항목ID: 87585
-processed:
+result:
   맞춤법 검사:
     표제어: 홀시어머니
     품사: 명사
 ---
 000_KEYWORD: 홀씨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87587
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12551,13 +12551,13 @@ imported:
     표제어: 홀씨
     품사: 명사
     항목ID: 87587
-processed:
+result:
   맞춤법 검사:
     표제어: 홀씨
     품사: 명사
 ---
 000_KEYWORD: 홀아버지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87588
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12587,13 +12587,13 @@ imported:
     표제어: 홀아버지
     품사: 명사
     항목ID: 87588
-processed:
+result:
   맞춤법 검사:
     표제어: 홀아버지
     품사: 명사
 ---
 000_KEYWORD: 홀아비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87610
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12627,13 +12627,13 @@ imported:
     표제어: 홀아비
     품사: 명사
     항목ID: 87610
-processed:
+result:
   맞춤법 검사:
     표제어: 홀아비
     품사: 명사
 ---
 000_KEYWORD: 홀어머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87611
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12663,13 +12663,13 @@ imported:
     표제어: 홀어머니
     품사: 명사
     항목ID: 87611
-processed:
+result:
   맞춤법 검사:
     표제어: 홀어머니
     품사: 명사
 ---
 000_KEYWORD: 홀어미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87612
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12703,13 +12703,13 @@ imported:
     표제어: 홀어미
     품사: 명사
     항목ID: 87612
-processed:
+result:
   맞춤법 검사:
     표제어: 홀어미
     품사: 명사
 ---
 000_KEYWORD: 홀연__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87613
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12753,13 +12753,13 @@ imported:
     표제어: 홀연
     품사: 부사
     항목ID: 87613
-processed:
+result:
   맞춤법 검사:
     표제어: 홀연
     품사: 부사
 ---
 000_KEYWORD: 홀연히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87614
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12803,13 +12803,13 @@ imported:
     표제어: 홀연히
     품사: 부사
     항목ID: 87614
-processed:
+result:
   맞춤법 검사:
     표제어: 홀연히
     품사: 부사
 ---
 000_KEYWORD: 홀짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87642
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12863,13 +12863,13 @@ imported:
     표제어: 홀짝
     품사: 부사
     항목ID: 87642
-processed:
+result:
   맞춤법 검사:
     표제어: 홀짝
     품사: 부사
 ---
 000_KEYWORD: 홀짝거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87643
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -12937,13 +12937,13 @@ imported:
     표제어: 홀짝거리다
     품사: 동사
     항목ID: 87643
-processed:
+result:
   맞춤법 검사:
     표제어: 홀짝거리다
     품사: 동사
 ---
 000_KEYWORD: 홀짝대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91998
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13020,13 +13020,13 @@ imported:
     표제어: 홀짝대다
     품사: 동사
     항목ID: 91998
-processed:
+result:
   맞춤법 검사:
     표제어: 홀짝대다
     품사: 동사
 ---
 000_KEYWORD: 홀짝이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87644
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13085,13 +13085,13 @@ imported:
     표제어: 홀짝이다
     품사: 동사
     항목ID: 87644
-processed:
+result:
   맞춤법 검사:
     표제어: 홀짝이다
     품사: 동사
 ---
 000_KEYWORD: 홀짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91999
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13129,13 +13129,13 @@ imported:
     표제어: 홀짝하다
     품사: 동사
     항목ID: 91999
-processed:
+result:
   맞춤법 검사:
     표제어: 홀짝하다
     품사: 동사
 ---
 000_KEYWORD: 홀짝홀짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92001
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13206,13 +13206,13 @@ imported:
     표제어: 홀짝홀짝
     품사: 부사
     항목ID: 92001
-processed:
+result:
   맞춤법 검사:
     표제어: 홀짝홀짝
     품사: 부사
 ---
 000_KEYWORD: 홀짝홀짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92000
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13288,13 +13288,13 @@ imported:
     표제어: 홀짝홀짝하다
     품사: 동사
     항목ID: 92000
-processed:
+result:
   맞춤법 검사:
     표제어: 홀짝홀짝하다
     품사: 동사
 ---
 000_KEYWORD: 홀쪽하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92312
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13307,10 +13307,10 @@ imported:
     표제어: 홀쪽하다
     품사: 형용사
     항목ID: 92312
-processed: {}
+result: {}
 ---
 000_KEYWORD: 홀쭉이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87615
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13347,13 +13347,13 @@ imported:
     표제어: 홀쭉이
     품사: 명사
     항목ID: 87615
-processed:
+result:
   맞춤법 검사:
     표제어: 홀쭉이
     품사: 명사
 ---
 000_KEYWORD: 홀쭉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87645
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13420,13 +13420,13 @@ imported:
       형태: 홀쭉하니
     - 발음: 홀쭈캄니다
       형태: 홀쭉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 홀쭉하다
     품사: 형용사
 ---
 000_KEYWORD: 홀쭉히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87646
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13481,13 +13481,13 @@ imported:
     표제어: 홀쭉히
     품사: 부사
     항목ID: 87646
-processed:
+result:
   맞춤법 검사:
     표제어: 홀쭉히
     품사: 부사
 ---
 000_KEYWORD: 홀홀__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87685
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13622,13 +13622,13 @@ imported:
     표제어: 홀홀
     품사: 부사
     항목ID: 87685
-processed:
+result:
   맞춤법 검사:
     표제어: 홀홀
     품사: 부사
 ---
 000_KEYWORD: 홈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87647
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13656,13 +13656,13 @@ imported:
     표제어: 홈
     품사: 명사
     항목ID: 87647
-processed:
+result:
   맞춤법 검사:
     표제어: 홈
     품사: 명사
 ---
 000_KEYWORD: 홈__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87648
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13687,13 +13687,13 @@ imported:
     표제어: 홈
     품사: 명사
     항목ID: 87648
-processed:
+result:
   맞춤법 검사:
     표제어: 홈
     품사: 명사
 ---
 000_KEYWORD: 홈그라운드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13704,13 +13704,13 @@ imported:
     표제어: 홈그라운드
     품사: 명사:보통:서술성
     항목ID: 30913
-processed:
+result:
   맞춤법 검사:
     표제어: 홈그라운드
     품사: 명사
 ---
 000_KEYWORD: 홈드레스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87580
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13737,13 +13737,13 @@ imported:
     표제어: 홈드레스
     품사: 명사
     항목ID: 87580
-processed:
+result:
   맞춤법 검사:
     표제어: 홈드레스
     품사: 명사
 ---
 000_KEYWORD: 홈런__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87650
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13770,13 +13770,13 @@ imported:
     표제어: 홈런
     품사: 명사
     항목ID: 87650
-processed:
+result:
   맞춤법 검사:
     표제어: 홈런
     품사: 명사
 ---
 000_KEYWORD: 홈런왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13785,13 +13785,13 @@ imported:
     표제어: 홈런왕
     품사: 명사:보통:비서술성
     항목ID: 30915
-processed:
+result:
   맞춤법 검사:
     표제어: 홈런왕
     품사: 명사
 ---
 000_KEYWORD: 홈뱅킹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87566
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13816,13 +13816,13 @@ imported:
     표제어: 홈뱅킹
     품사: 명사
     항목ID: 87566
-processed:
+result:
   맞춤법 검사:
     표제어: 홈뱅킹
     품사: 명사
 ---
 000_KEYWORD: 홈쇼핑__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13832,13 +13832,13 @@ imported:
     표제어: 홈쇼핑
     품사: 명사:보통:서술성
     항목ID: 30916
-processed:
+result:
   맞춤법 검사:
     표제어: 홈쇼핑
     품사: 명사
 ---
 000_KEYWORD: 홈질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87622
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13868,13 +13868,13 @@ imported:
     표제어: 홈질
     품사: 명사
     항목ID: 87622
-processed:
+result:
   맞춤법 검사:
     표제어: 홈질
     품사: 명사
 ---
 000_KEYWORD: 홈통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87674
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13918,13 +13918,13 @@ imported:
     표제어: 홈통
     품사: 명사
     항목ID: 87674
-processed:
+result:
   맞춤법 검사:
     표제어: 홈통
     품사: 명사
 ---
 000_KEYWORD: 홈페이지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73227
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13955,13 +13955,13 @@ imported:
     표제어: 홈페이지
     품사: 명사
     항목ID: 73227
-processed:
+result:
   맞춤법 검사:
     표제어: 홈페이지
     품사: 명사
 ---
 000_KEYWORD: 홉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87677
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -13986,13 +13986,13 @@ imported:
     표제어: 홉
     품사: 명사
     항목ID: 87677
-processed:
+result:
   맞춤법 검사:
     표제어: 홉
     품사: 명사
 ---
 000_KEYWORD: 홉__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87676
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14054,13 +14054,13 @@ imported:
     - 발음: 홈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87677_homman.wav
       형태: 홉만
-processed:
+result:
   맞춤법 검사:
     표제어: 홉
     품사: 의존 명사
 ---
 000_KEYWORD: 홉스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14071,13 +14071,13 @@ imported:
     표제어: 홉스
     품사: 명사:보통:서술성
     항목ID: 30918
-processed:
+result:
   맞춤법 검사:
     표제어: 홉스
     품사: 명사
 ---
 000_KEYWORD: 홋카이도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14087,13 +14087,13 @@ imported:
     표제어: 홋카이도
     품사: 명사:고유
     항목ID: 30919
-processed:
+result:
   맞춤법 검사:
     표제어: 홋카이도
     품사: 명사
 ---
 000_KEYWORD: 홍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87678
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14133,13 +14133,13 @@ imported:
     표제어: 홍
     품사: 명사
     항목ID: 87678
-processed:
+result:
   맞춤법 검사:
     표제어: 홍
     품사: 명사
 ---
 000_KEYWORD: 홍길동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67984
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14160,13 +14160,13 @@ imported:
     표제어: 홍길동
     품사: 명사
     항목ID: 67984
-processed:
+result:
   맞춤법 검사:
     표제어: 홍길동
     품사: 명사
 ---
 000_KEYWORD: 홍길동전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67965
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14188,13 +14188,13 @@ imported:
     표제어: 홍길동전
     품사: 명사
     항목ID: 67965
-processed:
+result:
   맞춤법 검사:
     표제어: 홍길동전
     품사: 명사
 ---
 000_KEYWORD: 홍당무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87679
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14251,13 +14251,13 @@ imported:
     표제어: 홍당무
     품사: 명사
     항목ID: 87679
-processed:
+result:
   맞춤법 검사:
     표제어: 홍당무
     품사: 명사
 ---
 000_KEYWORD: 홍두깨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87675
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14300,13 +14300,13 @@ imported:
     표제어: 홍두깨
     품사: 명사
     항목ID: 87675
-processed:
+result:
   맞춤법 검사:
     표제어: 홍두깨
     품사: 명사
 ---
 000_KEYWORD: 홍등가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87680
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14334,13 +14334,13 @@ imported:
     표제어: 홍등가
     품사: 명사
     항목ID: 87680
-processed:
+result:
   맞춤법 검사:
     표제어: 홍등가
     품사: 명사
 ---
 000_KEYWORD: 홍련__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14351,13 +14351,13 @@ imported:
     표제어: 홍련
     품사: 명사:보통:비서술성
     항목ID: 30923
-processed:
+result:
   맞춤법 검사:
     표제어: 홍련
     품사: 명사
 ---
 000_KEYWORD: 홍보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87628
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14396,13 +14396,13 @@ imported:
     표제어: 홍보
     품사: 명사
     항목ID: 87628
-processed:
+result:
   맞춤법 검사:
     표제어: 홍보
     품사: 명사
 ---
 000_KEYWORD: 홍보물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87624
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14431,13 +14431,13 @@ imported:
     표제어: 홍보물
     품사: 명사
     항목ID: 87624
-processed:
+result:
   맞춤법 검사:
     표제어: 홍보물
     품사: 명사
 ---
 000_KEYWORD: 홍보전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87626
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14465,13 +14465,13 @@ imported:
     표제어: 홍보전
     품사: 명사
     항목ID: 87626
-processed:
+result:
   맞춤법 검사:
     표제어: 홍보전
     품사: 명사
 ---
 000_KEYWORD: 홍보하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87627
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14502,13 +14502,13 @@ imported:
     표제어: 홍보하다
     품사: 동사
     항목ID: 87627
-processed:
+result:
   맞춤법 검사:
     표제어: 홍보하다
     품사: 동사
 ---
 000_KEYWORD: 홍삼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87618
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14541,13 +14541,13 @@ imported:
     표제어: 홍삼
     품사: 명사
     항목ID: 87618
-processed:
+result:
   맞춤법 검사:
     표제어: 홍삼
     품사: 명사
 ---
 000_KEYWORD: 홍색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87667
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14610,13 +14610,13 @@ imported:
     - 발음: 홍생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87667_hongsaengman.wav
       형태: 홍색만
-processed:
+result:
   맞춤법 검사:
     표제어: 홍색
     품사: 명사
 ---
 000_KEYWORD: 홍수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87568
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14664,13 +14664,13 @@ imported:
     표제어: 홍수
     품사: 명사
     항목ID: 87568
-processed:
+result:
   맞춤법 검사:
     표제어: 홍수
     품사: 명사
 ---
 000_KEYWORD: 홍시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87569
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14702,13 +14702,13 @@ imported:
     표제어: 홍시
     품사: 명사
     항목ID: 87569
-processed:
+result:
   맞춤법 검사:
     표제어: 홍시
     품사: 명사
 ---
 000_KEYWORD: 홍안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87673
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14740,13 +14740,13 @@ imported:
     표제어: 홍안
     품사: 명사
     항목ID: 87673
-processed:
+result:
   맞춤법 검사:
     표제어: 홍안
     품사: 명사
 ---
 000_KEYWORD: 홍어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87570
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14777,13 +14777,13 @@ imported:
     표제어: 홍어
     품사: 명사
     항목ID: 87570
-processed:
+result:
   맞춤법 검사:
     표제어: 홍어
     품사: 명사
 ---
 000_KEYWORD: 홍역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87655
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14822,13 +14822,13 @@ imported:
     - 발음: 홍영만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87655_hongyeongman.wav
       형태: 홍역만
-processed:
+result:
   맞춤법 검사:
     표제어: 홍역
     품사: 명사
 ---
 000_KEYWORD: 홍염__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14838,13 +14838,13 @@ imported:
     표제어: 홍염
     품사: 명사:보통:서술성
     항목ID: 30932
-processed:
+result:
   맞춤법 검사:
     표제어: 홍염
     품사: 명사
 ---
 000_KEYWORD: 홍익__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87656
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14882,13 +14882,13 @@ imported:
     - 발음: 홍잉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87656_hongingman.wav
       형태: 홍익만
-processed:
+result:
   맞춤법 검사:
     표제어: 홍익
     품사: 명사
 ---
 000_KEYWORD: 홍익대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14898,13 +14898,13 @@ imported:
     표제어: 홍익대
     품사: 명사:보통:서술성
     항목ID: 30933
-processed:
+result:
   맞춤법 검사:
     표제어: 홍익대
     품사: 명사
 ---
 000_KEYWORD: 홍익대학교__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14914,13 +14914,13 @@ imported:
     표제어: 홍익대학교
     품사: 명사:보통:서술성
     항목ID: 30934
-processed:
+result:
   맞춤법 검사:
     표제어: 홍익대학교
     품사: 명사
 ---
 000_KEYWORD: 홍익인간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87657
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -14949,13 +14949,13 @@ imported:
     표제어: 홍익인간
     품사: 명사
     항목ID: 87657
-processed:
+result:
   맞춤법 검사:
     표제어: 홍익인간
     품사: 명사
 ---
 000_KEYWORD: 홍일점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87681
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15000,13 +15000,13 @@ imported:
     표제어: 홍일점
     품사: 명사
     항목ID: 87681
-processed:
+result:
   맞춤법 검사:
     표제어: 홍일점
     품사: 명사
 ---
 000_KEYWORD: 홍조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87663
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15047,13 +15047,13 @@ imported:
     표제어: 홍조
     품사: 명사
     항목ID: 87663
-processed:
+result:
   맞춤법 검사:
     표제어: 홍조
     품사: 명사
 ---
 000_KEYWORD: 홍준표__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15063,13 +15063,13 @@ imported:
     표제어: 홍준표
     품사: 명사:보통:서술성
     항목ID: 31968
-processed:
+result:
   맞춤법 검사:
     표제어: 홍준표
     품사: 명사
 ---
 000_KEYWORD: 홍차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87573
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15099,13 +15099,13 @@ imported:
     표제어: 홍차
     품사: 명사
     항목ID: 87573
-processed:
+result:
   맞춤법 검사:
     표제어: 홍차
     품사: 명사
 ---
 000_KEYWORD: 홍채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87636
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15136,13 +15136,13 @@ imported:
     표제어: 홍채
     품사: 명사
     항목ID: 87636
-processed:
+result:
   맞춤법 검사:
     표제어: 홍채
     품사: 명사
 ---
 000_KEYWORD: 홍콩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92057
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15157,13 +15157,13 @@ imported:
     표제어: 홍콩
     품사: 명사
     항목ID: 92057
-processed:
+result:
   맞춤법 검사:
     표제어: 홍콩
     품사: 명사
 ---
 000_KEYWORD: 홍학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87654
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15201,13 +15201,13 @@ imported:
     - 발음: 홍항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87654_honghangman.wav
       형태: 홍학만
-processed:
+result:
   맞춤법 검사:
     표제어: 홍학
     품사: 명사
 ---
 000_KEYWORD: 홍합__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87571
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15248,13 +15248,13 @@ imported:
     - 발음: 홍함만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/87571_honghamman.wav
       형태: 홍합만
-processed:
+result:
   맞춤법 검사:
     표제어: 홍합
     품사: 명사
 ---
 000_KEYWORD: 홑-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88497
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15275,11 +15275,11 @@ imported:
     표제어: 홑-
     품사: 접사
     항목ID: 88497
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 홑몸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87651
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15315,13 +15315,13 @@ imported:
     표제어: 홑몸
     품사: 명사
     항목ID: 87651
-processed:
+result:
   맞춤법 검사:
     표제어: 홑몸
     품사: 명사
 ---
 000_KEYWORD: 홑바지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87574
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15348,13 +15348,13 @@ imported:
     표제어: 홑바지
     품사: 명사
     항목ID: 87574
-processed:
+result:
   맞춤법 검사:
     표제어: 홑바지
     품사: 명사
 ---
 000_KEYWORD: 홑받침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93638
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15376,13 +15376,13 @@ imported:
     표제어: 홑받침
     품사: 명사
     항목ID: 93638
-processed:
+result:
   맞춤법 검사:
     표제어: 홑받침
     품사: 명사
 ---
 000_KEYWORD: 홑옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87575
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15421,13 +15421,13 @@ imported:
     - 발음: 호돈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87575_hodonman.wav
       형태: 홑옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 홑옷
     품사: 명사
 ---
 000_KEYWORD: 홑이불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87576
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15471,13 +15471,13 @@ imported:
     표제어: 홑이불
     품사: 명사
     항목ID: 87576
-processed:
+result:
   맞춤법 검사:
     표제어: 홑이불
     품사: 명사
 ---
 000_KEYWORD: 홑청__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87653
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -15508,7 +15508,7 @@ imported:
     표제어: 홑청
     품사: 명사
     항목ID: 87653
-processed:
+result:
   맞춤법 검사:
     표제어: 홑청
     품사: 명사

@@ -1,5 +1,5 @@
 000_KEYWORD: -껏__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73339
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -43,11 +43,11 @@ imported:
     표제어: -껏
     품사: 접사
     항목ID: 73339
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 꺼꾸러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41544
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -128,7 +128,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/41544_kkeokkureojeo.wav
       형태: 꺼꾸러져
     - 형태: 꺼꾸러지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -136,7 +136,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 꺼내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62265
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -189,13 +189,13 @@ imported:
     - 발음: 꺼ː내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/62265_kkeo-naeni.wav
       형태: 꺼내니
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼내다
     품사: 동사
 ---
 000_KEYWORD: 꺼뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38544
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -243,13 +243,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38544_kkeotteuriyeo.wav
       형태: 꺼뜨리어
     - 형태: 꺼뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼뜨리다
     품사: 동사
 ---
 000_KEYWORD: 꺼려지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41557
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -291,13 +291,13 @@ imported:
     - 발음: 꺼ː려지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41557_kkeo-ryeojini.wav
       형태: 꺼려지니
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼려지다
     품사: 동사
 ---
 000_KEYWORD: 꺼리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41561
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -356,13 +356,13 @@ imported:
     - 발음: 꺼ː리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41561_kkeo-rini.wav
       형태: 꺼리니
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼리다
     품사: 동사
 ---
 000_KEYWORD: 꺼림칙이__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -371,13 +371,13 @@ imported:
     표제어: 꺼림칙이
     품사: 부사
     항목ID: 4446
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼림칙이
     품사: 부사
 ---
 000_KEYWORD: 꺼림칙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41565
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -423,13 +423,13 @@ imported:
       형태: 꺼림칙하니
     - 발음: 꺼림치캄니다
       형태: 꺼림칙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼림칙하다
     품사: 형용사
 ---
 000_KEYWORD: 꺼림하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38548
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -472,13 +472,13 @@ imported:
       형태: 꺼림하니
     - 발음: 꺼림함니다
       형태: 꺼림합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼림하다
     품사: 형용사
 ---
 000_KEYWORD: 꺼멓다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41571
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -532,7 +532,7 @@ imported:
     - 발음: 꺼ː머씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41571_kkeo-meosseumnida.wav
       형태: 꺼멓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -540,7 +540,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 꺼무접접하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38541
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -583,13 +583,13 @@ imported:
       형태: 꺼무접접하니
     - 발음: 꺼무접쩌팜니다
       형태: 꺼무접접합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼무접접하다
     품사: 형용사
 ---
 000_KEYWORD: 꺼무칙칙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41579
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -633,13 +633,13 @@ imported:
       형태: 꺼무칙칙하니
     - 발음: 꺼무칙치캄니다
       형태: 꺼무칙칙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼무칙칙하다
     품사: 형용사
 ---
 000_KEYWORD: 꺼무튀튀하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41587
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -686,13 +686,13 @@ imported:
       형태: 꺼무튀튀하니
     - 발음: 꺼무튀튀함니다
       형태: 꺼무튀튀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼무튀튀하다
     품사: 형용사
 ---
 000_KEYWORD: 꺼벙이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26528
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -717,13 +717,13 @@ imported:
     표제어: 꺼벙이
     품사: 명사
     항목ID: 26528
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼벙이
     품사: 명사
 ---
 000_KEYWORD: 꺼벙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39537
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -775,13 +775,13 @@ imported:
       형태: 꺼벙하니
     - 발음: 꺼ː벙함니다
       형태: 꺼벙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼벙하다
     품사: 형용사
 ---
 000_KEYWORD: 꺼이꺼이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41589
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -807,13 +807,13 @@ imported:
     표제어: 꺼이꺼이
     품사: 부사
     항목ID: 41589
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼이꺼이
     품사: 부사
 ---
 000_KEYWORD: 꺼지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59483
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -912,17 +912,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/41592_kkeojeo.wav
       형태: 꺼져
     - 형태: 꺼지니
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 꺼지다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41592
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -978,17 +978,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/41592_kkeojeo.wav
       형태: 꺼져
     - 형태: 꺼지니
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 꺼칠꺼칠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41596
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1028,13 +1028,13 @@ imported:
       형태: 꺼칠꺼칠하니
     - 발음: 꺼칠꺼칠함니다
       형태: 꺼칠꺼칠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼칠꺼칠하다
     품사: 형용사
 ---
 000_KEYWORD: 꺼칠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41605
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1074,13 +1074,13 @@ imported:
       형태: 꺼칠하니
     - 발음: 꺼칠함니다
       형태: 꺼칠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼칠하다
     품사: 형용사
 ---
 000_KEYWORD: 꺼풀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26529
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1127,13 +1127,13 @@ imported:
     표제어: 꺼풀
     품사: 명사
     항목ID: 26529
-processed:
+result:
   맞춤법 검사:
     표제어: 꺼풀
     품사: 명사
 ---
 000_KEYWORD: 꺽꺽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39541
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1170,13 +1170,13 @@ imported:
     표제어: 꺽꺽
     품사: 부사
     항목ID: 39541
-processed:
+result:
   맞춤법 검사:
     표제어: 꺽꺽
     품사: 부사
 ---
 000_KEYWORD: 꺽다리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39543
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1207,13 +1207,13 @@ imported:
     표제어: 꺽다리
     품사: 명사
     항목ID: 39543
-processed:
+result:
   맞춤법 검사:
     표제어: 꺽다리
     품사: 명사
 ---
 000_KEYWORD: 꺾꽂이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41608
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1246,13 +1246,13 @@ imported:
     표제어: 꺾꽂이
     품사: 명사
     항목ID: 41608
-processed:
+result:
   맞춤법 검사:
     표제어: 꺾꽂이
     품사: 명사
 ---
 000_KEYWORD: 꺾다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32575
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1381,13 +1381,13 @@ imported:
     - 발음: 껑는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/32575_kkeongneun.wav
       형태: 꺾는
-processed:
+result:
   맞춤법 검사:
     표제어: 꺾다
     품사: 동사
 ---
 000_KEYWORD: 꺾쇠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26530
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1417,13 +1417,13 @@ imported:
     표제어: 꺾쇠
     품사: 명사
     항목ID: 26530
-processed:
+result:
   맞춤법 검사:
     표제어: 꺾쇠
     품사: 명사
 ---
 000_KEYWORD: 꺾쇠표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39542
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1451,13 +1451,13 @@ imported:
     표제어: 꺾쇠표
     품사: 명사
     항목ID: 39542
-processed:
+result:
   맞춤법 검사:
     표제어: 꺾쇠표
     품사: 명사
 ---
 000_KEYWORD: 꺾이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64498
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1606,13 +1606,13 @@ imported:
     - 발음: 꺼끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/64498_kkeokkini.wav
       형태: 꺾이니
-processed:
+result:
   맞춤법 검사:
     표제어: 꺾이다
     품사: 동사
 ---
 000_KEYWORD: 껄껄__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38552
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1639,13 +1639,13 @@ imported:
     표제어: 껄껄
     품사: 부사
     항목ID: 38552
-processed:
+result:
   맞춤법 검사:
     표제어: 껄껄
     품사: 부사
 ---
 000_KEYWORD: 껄껄거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38553
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1677,13 +1677,13 @@ imported:
     표제어: 껄껄거리다
     품사: 동사
     항목ID: 38553
-processed:
+result:
   맞춤법 검사:
     표제어: 껄껄거리다
     품사: 동사
 ---
 000_KEYWORD: 껄껄대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41628
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1715,13 +1715,13 @@ imported:
     표제어: 껄껄대다
     품사: 동사
     항목ID: 41628
-processed:
+result:
   맞춤법 검사:
     표제어: 껄껄대다
     품사: 동사
 ---
 000_KEYWORD: 껄껄하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41630
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1748,13 +1748,13 @@ imported:
     표제어: 껄껄하다
     품사: 동사
     항목ID: 41630
-processed:
+result:
   맞춤법 검사:
     표제어: 껄껄하다
     품사: 동사
 ---
 000_KEYWORD: 껄껄하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41633
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1811,13 +1811,13 @@ imported:
       형태: 껄껄하니
     - 발음: 껄껄함니다
       형태: 껄껄합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 껄껄하다
     품사: 형용사
 ---
 000_KEYWORD: 껄끄럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39536
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1887,7 +1887,7 @@ imported:
       형태: 껄끄러우니
     - 발음: 껄끄럽씀니다
       형태: 껄끄럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1895,7 +1895,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 껄떡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39513
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1940,13 +1940,13 @@ imported:
     표제어: 껄떡
     품사: 부사
     항목ID: 39513
-processed:
+result:
   맞춤법 검사:
     표제어: 껄떡
     품사: 부사
 ---
 000_KEYWORD: 껄떡거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39512
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2026,13 +2026,13 @@ imported:
     표제어: 껄떡거리다
     품사: 동사
     항목ID: 39512
-processed:
+result:
   맞춤법 검사:
     표제어: 껄떡거리다
     품사: 동사
 ---
 000_KEYWORD: 껄떡껄떡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88725
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2062,13 +2062,13 @@ imported:
     표제어: 껄떡껄떡
     품사: 부사
     항목ID: 88725
-processed:
+result:
   맞춤법 검사:
     표제어: 껄떡껄떡
     품사: 부사
 ---
 000_KEYWORD: 껄떡껄떡하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88726
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2122,13 +2122,13 @@ imported:
     표제어: 껄떡껄떡하다
     품사: 동사
     항목ID: 88726
-processed:
+result:
   맞춤법 검사:
     표제어: 껄떡껄떡하다
     품사: 동사
 ---
 000_KEYWORD: 껄떡대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88727
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2189,13 +2189,13 @@ imported:
     표제어: 껄떡대다
     품사: 동사
     항목ID: 88727
-processed:
+result:
   맞춤법 검사:
     표제어: 껄떡대다
     품사: 동사
 ---
 000_KEYWORD: 껄떡이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88728
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2245,13 +2245,13 @@ imported:
     표제어: 껄떡이다
     품사: 동사
     항목ID: 88728
-processed:
+result:
   맞춤법 검사:
     표제어: 껄떡이다
     품사: 동사
 ---
 000_KEYWORD: 껄떡하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88729
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2286,13 +2286,13 @@ imported:
     표제어: 껄떡하다
     품사: 동사
     항목ID: 88729
-processed:
+result:
   맞춤법 검사:
     표제어: 껄떡하다
     품사: 동사
 ---
 000_KEYWORD: 껄렁껄렁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65393
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2331,13 +2331,13 @@ imported:
       형태: 껄렁껄렁하니
     - 발음: 껄렁껄렁함니다
       형태: 껄렁껄렁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 껄렁껄렁하다
     품사: 형용사
 ---
 000_KEYWORD: 껄렁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64503
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2379,13 +2379,13 @@ imported:
       형태: 껄렁하니
     - 발음: 껄렁함니다
       형태: 껄렁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 껄렁하다
     품사: 형용사
 ---
 000_KEYWORD: 껌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41635
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2419,13 +2419,13 @@ imported:
     표제어: 껌
     품사: 명사
     항목ID: 41635
-processed:
+result:
   맞춤법 검사:
     표제어: 껌
     품사: 명사
 ---
 000_KEYWORD: 껌껌하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39553
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2466,13 +2466,13 @@ imported:
       형태: 껌껌하니
     - 발음: 껌껌함니다
       형태: 껌껌합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 껌껌하다
     품사: 형용사
 ---
 000_KEYWORD: 껌둥이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89898
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2530,13 +2530,13 @@ imported:
     표제어: 껌둥이
     품사: 명사
     항목ID: 89898
-processed:
+result:
   맞춤법 검사:
     표제어: 껌둥이
     품사: 명사
 ---
 000_KEYWORD: 껌벅__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88825
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2581,13 +2581,13 @@ imported:
     표제어: 껌벅
     품사: 부사
     항목ID: 88825
-processed:
+result:
   맞춤법 검사:
     표제어: 껌벅
     품사: 부사
 ---
 000_KEYWORD: 껌벅거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41637
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2649,13 +2649,13 @@ imported:
     표제어: 껌벅거리다
     품사: 동사
     항목ID: 41637
-processed:
+result:
   맞춤법 검사:
     표제어: 껌벅거리다
     품사: 동사
 ---
 000_KEYWORD: 껌벅껌벅__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41640
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2699,13 +2699,13 @@ imported:
     표제어: 껌벅껌벅
     품사: 부사
     항목ID: 41640
-processed:
+result:
   맞춤법 검사:
     표제어: 껌벅껌벅
     품사: 부사
 ---
 000_KEYWORD: 껌벅껌벅하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41643
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2766,13 +2766,13 @@ imported:
     표제어: 껌벅껌벅하다
     품사: 동사
     항목ID: 41643
-processed:
+result:
   맞춤법 검사:
     표제어: 껌벅껌벅하다
     품사: 동사
 ---
 000_KEYWORD: 껌벅대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88730
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2827,13 +2827,13 @@ imported:
     표제어: 껌벅대다
     품사: 동사
     항목ID: 88730
-processed:
+result:
   맞춤법 검사:
     표제어: 껌벅대다
     품사: 동사
 ---
 000_KEYWORD: 껌벅이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41645
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2875,13 +2875,13 @@ imported:
     표제어: 껌벅이다
     품사: 동사
     항목ID: 41645
-processed:
+result:
   맞춤법 검사:
     표제어: 껌벅이다
     품사: 동사
 ---
 000_KEYWORD: 껌벅하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88731
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2921,13 +2921,13 @@ imported:
     표제어: 껌벅하다
     품사: 동사
     항목ID: 88731
-processed:
+result:
   맞춤법 검사:
     표제어: 껌벅하다
     품사: 동사
 ---
 000_KEYWORD: 껌정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89899
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2964,13 +2964,13 @@ imported:
     표제어: 껌정
     품사: 명사
     항목ID: 89899
-processed:
+result:
   맞춤법 검사:
     표제어: 껌정
     품사: 명사
 ---
 000_KEYWORD: 껍데기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64328
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3025,13 +3025,13 @@ imported:
     표제어: 껍데기
     품사: 명사
     항목ID: 64328
-processed:
+result:
   맞춤법 검사:
     표제어: 껍데기
     품사: 명사
 ---
 000_KEYWORD: 껍질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39556
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3088,13 +3088,13 @@ imported:
     표제어: 껍질
     품사: 명사
     항목ID: 39556
-processed:
+result:
   맞춤법 검사:
     표제어: 껍질
     품사: 명사
 ---
 000_KEYWORD: 껑충__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41649
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3134,13 +3134,13 @@ imported:
     표제어: 껑충
     품사: 부사
     항목ID: 41649
-processed:
+result:
   맞춤법 검사:
     표제어: 껑충
     품사: 부사
 ---
 000_KEYWORD: 껑충거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39440
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3176,13 +3176,13 @@ imported:
     표제어: 껑충거리다
     품사: 동사
     항목ID: 39440
-processed:
+result:
   맞춤법 검사:
     표제어: 껑충거리다
     품사: 동사
 ---
 000_KEYWORD: 껑충껑충__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38487
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3222,13 +3222,13 @@ imported:
     표제어: 껑충껑충
     품사: 부사
     항목ID: 38487
-processed:
+result:
   맞춤법 검사:
     표제어: 껑충껑충
     품사: 부사
 ---
 000_KEYWORD: 껑충껑충하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88732
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3259,13 +3259,13 @@ imported:
     표제어: 껑충껑충하다
     품사: 동사
     항목ID: 88732
-processed:
+result:
   맞춤법 검사:
     표제어: 껑충껑충하다
     품사: 동사
 ---
 000_KEYWORD: 껑충대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88733
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3293,13 +3293,13 @@ imported:
     표제어: 껑충대다
     품사: 동사
     항목ID: 88733
-processed:
+result:
   맞춤법 검사:
     표제어: 껑충대다
     품사: 동사
 ---
 000_KEYWORD: 껑충하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64508
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3353,7 +3353,7 @@ imported:
       형태: 껑충하니
     - 발음: 껑충함니다
       형태: 껑충합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 껑충하다
     품사: 형용사

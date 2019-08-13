@@ -1,5 +1,5 @@
 000_KEYWORD: 튀각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82365
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -39,13 +39,13 @@ imported:
     - 발음: 튀강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82365_twigangman.wav
       형태: 튀각만
-processed:
+result:
   맞춤법 검사:
     표제어: 튀각
     품사: 명사
 ---
 000_KEYWORD: 튀기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82368
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -87,13 +87,13 @@ imported:
     표제어: 튀기
     품사: 명사
     항목ID: 82368
-processed:
+result:
   맞춤법 검사:
     표제어: 튀기
     품사: 명사
 ---
 000_KEYWORD: 튀기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82375
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -176,13 +176,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82380_twigiyeo.wav
       형태: 튀기어
     - 형태: 튀기니
-processed:
+result:
   맞춤법 검사:
     표제어: 튀기다
     품사: 동사
 ---
 000_KEYWORD: 튀기다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82380
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -236,13 +236,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82380_twigiyeo.wav
       형태: 튀기어
     - 형태: 튀기니
-processed:
+result:
   맞춤법 검사:
     표제어: 튀기다
     품사: 동사
 ---
 000_KEYWORD: 튀김__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82383
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -290,13 +290,13 @@ imported:
     표제어: 튀김
     품사: 명사
     항목ID: 82383
-processed:
+result:
   맞춤법 검사:
     표제어: 튀김
     품사: 명사
 ---
 000_KEYWORD: 튀김옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82386
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -333,13 +333,13 @@ imported:
     - 발음: 튀기몬만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82386_twigimonman.wav
       형태: 튀김옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 튀김옷
     품사: 명사
 ---
 000_KEYWORD: 튀니지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69767
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -357,13 +357,13 @@ imported:
     표제어: 튀니지
     품사: 명사
     항목ID: 69767
-processed:
+result:
   맞춤법 검사:
     표제어: 튀니지
     품사: 명사
 ---
 000_KEYWORD: 튀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82391
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -462,13 +462,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82391_twiyeo.wav
       형태: 튀어
     - 형태: 튀니
-processed:
+result:
   맞춤법 검사:
     표제어: 튀다
     품사: 동사
 ---
 000_KEYWORD: 튀밥__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -478,13 +478,13 @@ imported:
     표제어: 튀밥
     품사: 명사:보통:비서술성
     항목ID: 28356
-processed:
+result:
   맞춤법 검사:
     표제어: 튀밥
     품사: 명사
 ---
 000_KEYWORD: 튀어나오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82397
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -566,17 +566,17 @@ imported:
     - 발음: 튀여나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82397_twiyeonaoni.wav
       형태: 튀어나오니
-processed:
+result:
   맞춤법 검사:
     표제어: 튀어나오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 튕기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82409
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -722,7 +722,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82409_twinggiyeo.wav
       형태: 튕기어
     - 형태: 튕기니
-processed:
+result:
   맞춤법 검사:
     표제어: 튕기다
     품사: 동사

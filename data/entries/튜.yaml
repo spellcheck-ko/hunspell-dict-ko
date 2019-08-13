@@ -1,5 +1,5 @@
 000_KEYWORD: 튜닝__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 튜닝
     품사: 명사:보통:서술성
     항목ID: 28359
-processed:
+result:
   맞춤법 검사:
     표제어: 튜닝
     품사: 명사
 ---
 000_KEYWORD: 튜바__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82412
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -43,13 +43,13 @@ imported:
     표제어: 튜바
     품사: 명사
     항목ID: 82412
-processed:
+result:
   맞춤법 검사:
     표제어: 튜바
     품사: 명사
 ---
 000_KEYWORD: 튜브__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82414
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -114,13 +114,13 @@ imported:
     표제어: 튜브
     품사: 명사
     항목ID: 82414
-processed:
+result:
   맞춤법 검사:
     표제어: 튜브
     품사: 명사
 ---
 000_KEYWORD: 튤립__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82417
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -152,7 +152,7 @@ imported:
     표제어: 튤립
     품사: 명사
     항목ID: 82417
-processed:
+result:
   맞춤법 검사:
     표제어: 튤립
     품사: 명사

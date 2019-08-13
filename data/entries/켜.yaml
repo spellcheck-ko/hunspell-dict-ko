@@ -1,5 +1,5 @@
 000_KEYWORD: 켜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83238
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -33,13 +33,13 @@ imported:
     표제어: 켜
     품사: 명사
     항목ID: 83238
-processed:
+result:
   맞춤법 검사:
     표제어: 켜
     품사: 명사
 ---
 000_KEYWORD: 켜다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72168
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -95,13 +95,13 @@ imported:
     활용:
     - 형태: 켜
     - 형태: 켜니
-processed:
+result:
   맞춤법 검사:
     표제어: 켜다
     품사: 동사
 ---
 000_KEYWORD: 켜다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83239
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -155,13 +155,13 @@ imported:
     활용:
     - 형태: 켜
     - 형태: 켜니
-processed:
+result:
   맞춤법 검사:
     표제어: 켜다
     품사: 동사
 ---
 000_KEYWORD: 켜다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83240
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -199,13 +199,13 @@ imported:
     활용:
     - 형태: 켜
     - 형태: 켜니
-processed:
+result:
   맞춤법 검사:
     표제어: 켜다
     품사: 동사
 ---
 000_KEYWORD: 켜다__동사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83241
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -234,13 +234,13 @@ imported:
     활용:
     - 형태: 켜
     - 형태: 켜니
-processed:
+result:
   맞춤법 검사:
     표제어: 켜다
     품사: 동사
 ---
 000_KEYWORD: 켜켜로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83249
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -267,13 +267,13 @@ imported:
     표제어: 켜켜로
     품사: 부사
     항목ID: 83249
-processed:
+result:
   맞춤법 검사:
     표제어: 켜켜로
     품사: 부사
 ---
 000_KEYWORD: 켜켜이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83251
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -300,13 +300,13 @@ imported:
     표제어: 켜켜이
     품사: 부사
     항목ID: 83251
-processed:
+result:
   맞춤법 검사:
     표제어: 켜켜이
     품사: 부사
 ---
 000_KEYWORD: 켠__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92340
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -319,10 +319,10 @@ imported:
     표제어: 켠
     품사: 의존 명사
     항목ID: 92340
-processed: {}
+result: {}
 ---
 000_KEYWORD: 켤레__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83253
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -350,7 +350,7 @@ imported:
     표제어: 켤레
     품사: 의존 명사
     항목ID: 83253
-processed:
+result:
   맞춤법 검사:
     표제어: 켤레
     품사: 의존 명사

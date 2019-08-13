@@ -1,5 +1,5 @@
 000_KEYWORD: -디__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86265
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -22,11 +22,11 @@ imported:
     표제어: -디
     품사: 어미
     항목ID: 86265
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -디__어미__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77063
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -48,11 +48,11 @@ imported:
     표제어: -디
     품사: 어미
     항목ID: 77063
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 디귿__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69076
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -78,13 +78,13 @@ imported:
     - 발음: 디근만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/69076_digeunman.wav
       형태: 디귿만
-processed:
+result:
   맞춤법 검사:
     표제어: 디귿
     품사: 명사
 ---
 000_KEYWORD: 디도스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -94,13 +94,13 @@ imported:
     표제어: 디도스
     품사: 명사:보통:서술성
     항목ID: 31875
-processed:
+result:
   맞춤법 검사:
     표제어: 디도스
     품사: 명사
 ---
 000_KEYWORD: 디디다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53919
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -177,13 +177,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53919_didiyeo.wav
       형태: 디디어
     - 형태: 디디니
-processed:
+result:
   맞춤법 검사:
     표제어: 디디다
     품사: 동사
 ---
 000_KEYWORD: 디딜방아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53929
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -215,13 +215,13 @@ imported:
     표제어: 디딜방아
     품사: 명사
     항목ID: 53929
-processed:
+result:
   맞춤법 검사:
     표제어: 디딜방아
     품사: 명사
 ---
 000_KEYWORD: 디딤돌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53931
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -275,13 +275,13 @@ imported:
     표제어: 디딤돌
     품사: 명사
     항목ID: 53931
-processed:
+result:
   맞춤법 검사:
     표제어: 디딤돌
     품사: 명사
 ---
 000_KEYWORD: 디렉터리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -291,13 +291,13 @@ imported:
     표제어: 디렉터리
     품사: 명사:보통:비서술성
     항목ID: 7749
-processed:
+result:
   맞춤법 검사:
     표제어: 디렉터리
     품사: 명사
 ---
 000_KEYWORD: 디밀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54466
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -392,13 +392,13 @@ imported:
     - 발음: 디ː밈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54466_di-mimnida.wav
       형태: 디밉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 디밀다
     품사: 동사
 ---
 000_KEYWORD: 디버깅__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -409,13 +409,13 @@ imported:
     표제어: 디버깅
     품사: 명사:보통:서술성
     항목ID: 7750
-processed:
+result:
   맞춤법 검사:
     표제어: 디버깅
     품사: 명사
 ---
 000_KEYWORD: 디브이디__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53935
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -445,13 +445,13 @@ imported:
     표제어: 디브이디
     품사: 명사
     항목ID: 53935
-processed:
+result:
   맞춤법 검사:
     표제어: 디브이디
     품사: 명사
 ---
 000_KEYWORD: 디스켓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53938
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -477,13 +477,13 @@ imported:
     표제어: 디스켓
     품사: 명사
     항목ID: 53938
-processed:
+result:
   맞춤법 검사:
     표제어: 디스켓
     품사: 명사
 ---
 000_KEYWORD: 디스코__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53941
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -507,13 +507,13 @@ imported:
     표제어: 디스코
     품사: 명사
     항목ID: 53941
-processed:
+result:
   맞춤법 검사:
     표제어: 디스코
     품사: 명사
 ---
 000_KEYWORD: 디스크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28102
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -588,13 +588,13 @@ imported:
     표제어: 디스크
     품사: 명사
     항목ID: 28102
-processed:
+result:
   맞춤법 검사:
     표제어: 디스크
     품사: 명사
 ---
 000_KEYWORD: 디스플레이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53946
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -628,13 +628,13 @@ imported:
     표제어: 디스플레이
     품사: 명사
     항목ID: 53946
-processed:
+result:
   맞춤법 검사:
     표제어: 디스플레이
     품사: 명사
 ---
 000_KEYWORD: 디엔에이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53957
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -660,13 +660,13 @@ imported:
     표제어: 디엔에이
     품사: 명사
     항목ID: 53957
-processed:
+result:
   맞춤법 검사:
     표제어: 디엔에이
     품사: 명사
 ---
 000_KEYWORD: 디오니소스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -676,13 +676,13 @@ imported:
     표제어: 디오니소스
     품사: 명사:고유
     항목ID: 7753
-processed:
+result:
   맞춤법 검사:
     표제어: 디오니소스
     품사: 명사
 ---
 000_KEYWORD: 디자이너__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15059
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -709,13 +709,13 @@ imported:
     표제어: 디자이너
     품사: 명사
     항목ID: 15059
-processed:
+result:
   맞춤법 검사:
     표제어: 디자이너
     품사: 명사
 ---
 000_KEYWORD: 디자인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54448
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -742,13 +742,13 @@ imported:
     표제어: 디자인
     품사: 명사
     항목ID: 54448
-processed:
+result:
   맞춤법 검사:
     표제어: 디자인
     품사: 명사
 ---
 000_KEYWORD: 디자인하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54449
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -774,13 +774,13 @@ imported:
     표제어: 디자인하다
     품사: 동사
     항목ID: 54449
-processed:
+result:
   맞춤법 검사:
     표제어: 디자인하다
     품사: 동사
 ---
 000_KEYWORD: 디저트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54450
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -809,13 +809,13 @@ imported:
     표제어: 디저트
     품사: 명사
     항목ID: 54450
-processed:
+result:
   맞춤법 검사:
     표제어: 디저트
     품사: 명사
 ---
 000_KEYWORD: 디젤__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -825,13 +825,13 @@ imported:
     표제어: 디젤
     품사: 명사:보통:서술성
     항목ID: 7758
-processed:
+result:
   맞춤법 검사:
     표제어: 디젤
     품사: 명사
 ---
 000_KEYWORD: 디지타이저__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -841,13 +841,13 @@ imported:
     표제어: 디지타이저
     품사: 명사:보통:비서술성
     항목ID: 7759
-processed:
+result:
   맞춤법 검사:
     표제어: 디지타이저
     품사: 명사
 ---
 000_KEYWORD: 디지탈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92213
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -860,10 +860,10 @@ imported:
     표제어: 디지탈
     품사: 명사
     항목ID: 92213
-processed: {}
+result: {}
 ---
 000_KEYWORD: 디지털__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54451
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -894,13 +894,13 @@ imported:
     표제어: 디지털
     품사: 명사
     항목ID: 54451
-processed:
+result:
   맞춤법 검사:
     표제어: 디지털
     품사: 명사
 ---
 000_KEYWORD: 디지털카메라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54452
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -932,13 +932,13 @@ imported:
     표제어: 디지털카메라
     품사: 명사
     항목ID: 54452
-processed:
+result:
   맞춤법 검사:
     표제어: 디지털카메라
     품사: 명사
 ---
 000_KEYWORD: 디카__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -948,13 +948,13 @@ imported:
     표제어: 디카
     품사: 명사:보통:서술성
     항목ID: 7761
-processed:
+result:
   맞춤법 검사:
     표제어: 디카
     품사: 명사
 ---
 000_KEYWORD: 디코더__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -964,13 +964,13 @@ imported:
     표제어: 디코더
     품사: 명사:보통:비서술성
     항목ID: 7762
-processed:
+result:
   맞춤법 검사:
     표제어: 디코더
     품사: 명사
 ---
 000_KEYWORD: 디트로이트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -979,13 +979,13 @@ imported:
     표제어: 디트로이트
     품사: 명사:보통:서술성
     항목ID: 7763
-processed:
+result:
   맞춤법 검사:
     표제어: 디트로이트
     품사: 명사
 ---
 000_KEYWORD: 디플레이션__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -994,13 +994,13 @@ imported:
     표제어: 디플레이션
     품사: 명사:보통:서술성
     항목ID: 7764
-processed:
+result:
   맞춤법 검사:
     표제어: 디플레이션
     품사: 명사
 ---
 000_KEYWORD: 딛다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54454
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1073,20 +1073,20 @@ imported:
     - 발음: 딘는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54454_dinneun.wav
       형태: 딛는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙 미확정
     표제어: 딛다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 규칙
     - 준말용언
 ---
 000_KEYWORD: 딜러__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54455
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1124,13 +1124,13 @@ imported:
     표제어: 딜러
     품사: 명사
     항목ID: 54455
-processed:
+result:
   맞춤법 검사:
     표제어: 딜러
     품사: 명사
 ---
 000_KEYWORD: 딜레마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54456
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1151,13 +1151,13 @@ imported:
     표제어: 딜레마
     품사: 명사
     항목ID: 54456
-processed:
+result:
   맞춤법 검사:
     표제어: 딜레마
     품사: 명사
 ---
 000_KEYWORD: 딥다__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54457
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1188,13 +1188,13 @@ imported:
     표제어: 딥다
     품사: 부사
     항목ID: 54457
-processed:
+result:
   맞춤법 검사:
     표제어: 딥다
     품사: 부사
 ---
 000_KEYWORD: 딩굴다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92214
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1207,10 +1207,10 @@ imported:
     표제어: 딩굴다
     품사: 동사
     항목ID: 92214
-processed: {}
+result: {}
 ---
 000_KEYWORD: 딩동__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54461
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1237,13 +1237,13 @@ imported:
     표제어: 딩동
     품사: 부사
     항목ID: 54461
-processed:
+result:
   맞춤법 검사:
     표제어: 딩동
     품사: 부사
 ---
 000_KEYWORD: 딩동댕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54459
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1281,13 +1281,13 @@ imported:
     표제어: 딩동댕
     품사: 부사
     항목ID: 54459
-processed:
+result:
   맞춤법 검사:
     표제어: 딩동댕
     품사: 부사
 ---
 000_KEYWORD: 딩동딩동__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54460
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1314,7 +1314,7 @@ imported:
     표제어: 딩동딩동
     품사: 부사
     항목ID: 54460
-processed:
+result:
   맞춤법 검사:
     표제어: 딩동딩동
     품사: 부사

@@ -1,5 +1,5 @@
 000_KEYWORD: -녀__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88847
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -25,11 +25,11 @@ imported:
     표제어: -녀
     품사: 접사
     항목ID: 88847
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -년__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88848
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -51,11 +51,11 @@ imported:
     표제어: -년
     품사: 접사
     항목ID: 88848
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 녀석__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -64,13 +64,13 @@ imported:
     표제어: 녀석
     품사: 명사:보통:비서술성
     항목ID: 5356
-processed:
+result:
   맞춤법 검사:
     표제어: 녀석
     품사: 명사
 ---
 000_KEYWORD: 녀석__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41586
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -121,13 +121,13 @@ imported:
     - 발음: 녀성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41586_nyeoseongman.wav
       형태: 녀석만
-processed:
+result:
   맞춤법 검사:
     표제어: 녀석
     품사: 의존 명사
 ---
 000_KEYWORD: 녁__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92186
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -140,10 +140,10 @@ imported:
     표제어: 녁
     품사: 의존 명사
     항목ID: 92186
-processed: {}
+result: {}
 ---
 000_KEYWORD: 년__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -153,13 +153,13 @@ imported:
     표제어: 년
     품사: 명사:보통:비서술성
     항목ID: 5357
-processed:
+result:
   맞춤법 검사:
     표제어: 년
     품사: 명사
 ---
 000_KEYWORD: 년__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41848
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -190,13 +190,13 @@ imported:
     표제어: 년
     품사: 의존 명사
     항목ID: 41848
-processed:
+result:
   맞춤법 검사:
     표제어: 년
     품사: 의존 명사
 ---
 000_KEYWORD: 년__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26823
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -233,13 +233,13 @@ imported:
     표제어: 년
     품사: 의존 명사
     항목ID: 26823
-processed:
+result:
   맞춤법 검사:
     표제어: 년
     품사: 의존 명사
 ---
 000_KEYWORD: 년대__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41850
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -268,13 +268,13 @@ imported:
     표제어: 년대
     품사: 의존 명사
     항목ID: 41850
-processed:
+result:
   맞춤법 검사:
     표제어: 년대
     품사: 의존 명사
 ---
 000_KEYWORD: 년도__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41852
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -303,13 +303,13 @@ imported:
     표제어: 년도
     품사: 의존 명사
     항목ID: 41852
-processed:
+result:
   맞춤법 검사:
     표제어: 년도
     품사: 의존 명사
 ---
 000_KEYWORD: 년생__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41853
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -336,13 +336,13 @@ imported:
     표제어: 년생
     품사: 의존 명사
     항목ID: 41853
-processed:
+result:
   맞춤법 검사:
     표제어: 년생
     품사: 의존 명사
 ---
 000_KEYWORD: 녘__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41856
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -379,7 +379,7 @@ imported:
     - 발음: 녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41856_nyeongman.wav
       형태: 녘만
-processed:
+result:
   맞춤법 검사:
     표제어: 녘
     품사: 의존 명사

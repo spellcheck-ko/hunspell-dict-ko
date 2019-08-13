@@ -1,5 +1,5 @@
 000_KEYWORD: -유__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73119
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -26,11 +26,11 @@ imported:
     표제어: -유
     품사: 접사
     항목ID: 73119
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -율__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88922
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -48,11 +48,11 @@ imported:
     표제어: -율
     품사: 접사
     항목ID: 88922
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -율__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88923
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -87,11 +87,11 @@ imported:
     표제어: -율
     품사: 접사
     항목ID: 88923
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 유-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73118
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -118,11 +118,11 @@ imported:
     표제어: 유-
     품사: 접사
     항목ID: 73118
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68794
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -138,13 +138,13 @@ imported:
     표제어: 유
     품사: 명사
     항목ID: 68794
-processed:
+result:
   맞춤법 검사:
     표제어: 유
     품사: 명사
 ---
 000_KEYWORD: 유__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69686
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -182,13 +182,13 @@ imported:
     표제어: 유
     품사: 명사
     항목ID: 69686
-processed:
+result:
   맞춤법 검사:
     표제어: 유
     품사: 명사
 ---
 000_KEYWORD: 유가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69688
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -219,13 +219,13 @@ imported:
     표제어: 유가
     품사: 명사
     항목ID: 69688
-processed:
+result:
   맞춤법 검사:
     표제어: 유가
     품사: 명사
 ---
 000_KEYWORD: 유가__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69689
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -252,13 +252,13 @@ imported:
     표제어: 유가
     품사: 명사
     항목ID: 69689
-processed:
+result:
   맞춤법 검사:
     표제어: 유가
     품사: 명사
 ---
 000_KEYWORD: 유가족__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69690
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -300,13 +300,13 @@ imported:
     - 발음: 유가종만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69690_yugajongman.wav
       형태: 유가족만
-processed:
+result:
   맞춤법 검사:
     표제어: 유가족
     품사: 명사
 ---
 000_KEYWORD: 유감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69692
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -337,13 +337,13 @@ imported:
     표제어: 유감
     품사: 명사
     항목ID: 69692
-processed:
+result:
   맞춤법 검사:
     표제어: 유감
     품사: 명사
 ---
 000_KEYWORD: 유감되다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69693
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -392,13 +392,13 @@ imported:
       형태: 유감됩니다
     - 발음: 유감뒘니다
       형태: 유감됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유감되다
     품사: 형용사
 ---
 000_KEYWORD: 유감스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69694
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -438,7 +438,7 @@ imported:
       형태: 유감스러우니
     - 발음: 유감스럽씀니다
       형태: 유감스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -446,7 +446,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 유개념__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69695
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -474,13 +474,13 @@ imported:
     표제어: 유개념
     품사: 명사
     항목ID: 69695
-processed:
+result:
   맞춤법 검사:
     표제어: 유개념
     품사: 명사
 ---
 000_KEYWORD: 유격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69696
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -518,13 +518,13 @@ imported:
     - 발음: 유경만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69696_yugyeongman.wav
       형태: 유격만
-processed:
+result:
   맞춤법 검사:
     표제어: 유격
     품사: 명사
 ---
 000_KEYWORD: 유격대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69697
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -556,13 +556,13 @@ imported:
     표제어: 유격대
     품사: 명사
     항목ID: 69697
-processed:
+result:
   맞춤법 검사:
     표제어: 유격대
     품사: 명사
 ---
 000_KEYWORD: 유격대원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69699
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -590,13 +590,13 @@ imported:
     표제어: 유격대원
     품사: 명사
     항목ID: 69699
-processed:
+result:
   맞춤법 검사:
     표제어: 유격대원
     품사: 명사
 ---
 000_KEYWORD: 유격수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69700
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -624,13 +624,13 @@ imported:
     표제어: 유격수
     품사: 명사
     항목ID: 69700
-processed:
+result:
   맞춤법 검사:
     표제어: 유격수
     품사: 명사
 ---
 000_KEYWORD: 유고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69735
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -658,13 +658,13 @@ imported:
     표제어: 유고
     품사: 명사
     항목ID: 69735
-processed:
+result:
   맞춤법 검사:
     표제어: 유고
     품사: 명사
 ---
 000_KEYWORD: 유고슬라비아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -673,13 +673,13 @@ imported:
     표제어: 유고슬라비아
     품사: 명사:보통:서술성
     항목ID: 20450
-processed:
+result:
   맞춤법 검사:
     표제어: 유고슬라비아
     품사: 명사
 ---
 000_KEYWORD: 유곡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69737
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -717,13 +717,13 @@ imported:
     - 발음: 유공만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69737_yugongman.wav
       형태: 유곡만
-processed:
+result:
   맞춤법 검사:
     표제어: 유곡
     품사: 명사
 ---
 000_KEYWORD: 유골__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69741
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -752,13 +752,13 @@ imported:
     표제어: 유골
     품사: 명사
     항목ID: 69741
-processed:
+result:
   맞춤법 검사:
     표제어: 유골
     품사: 명사
 ---
 000_KEYWORD: 유골함__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -767,13 +767,13 @@ imported:
     표제어: 유골함
     품사: 명사:보통:비서술성
     항목ID: 20452
-processed:
+result:
   맞춤법 검사:
     표제어: 유골함
     품사: 명사
 ---
 000_KEYWORD: 유공자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69745
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -807,13 +807,13 @@ imported:
     표제어: 유공자
     품사: 명사
     항목ID: 69745
-processed:
+result:
   맞춤법 검사:
     표제어: 유공자
     품사: 명사
 ---
 000_KEYWORD: 유과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69747
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -841,13 +841,13 @@ imported:
     표제어: 유과
     품사: 명사
     항목ID: 69747
-processed:
+result:
   맞춤법 검사:
     표제어: 유과
     품사: 명사
 ---
 000_KEYWORD: 유곽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69750
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -886,13 +886,13 @@ imported:
     - 발음: 유광만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69750_yugwangman.wav
       형태: 유곽만
-processed:
+result:
   맞춤법 검사:
     표제어: 유곽
     품사: 명사
 ---
 000_KEYWORD: 유관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69753
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -921,13 +921,13 @@ imported:
     표제어: 유관
     품사: 명사
     항목ID: 69753
-processed:
+result:
   맞춤법 검사:
     표제어: 유관
     품사: 명사
 ---
 000_KEYWORD: 유관하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69759
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -968,13 +968,13 @@ imported:
       형태: 유관하니
     - 발음: 유ː관함니다
       형태: 유관합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유관하다
     품사: 형용사
 ---
 000_KEYWORD: 유괴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69880
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1005,13 +1005,13 @@ imported:
     표제어: 유괴
     품사: 명사
     항목ID: 69880
-processed:
+result:
   맞춤법 검사:
     표제어: 유괴
     품사: 명사
 ---
 000_KEYWORD: 유괴되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69882
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1042,13 +1042,13 @@ imported:
     표제어: 유괴되다
     품사: 동사
     항목ID: 69882
-processed:
+result:
   맞춤법 검사:
     표제어: 유괴되다
     품사: 동사
 ---
 000_KEYWORD: 유괴범__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69886
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1078,13 +1078,13 @@ imported:
     표제어: 유괴범
     품사: 명사
     항목ID: 69886
-processed:
+result:
   맞춤법 검사:
     표제어: 유괴범
     품사: 명사
 ---
 000_KEYWORD: 유괴하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69888
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1115,13 +1115,13 @@ imported:
     표제어: 유괴하다
     품사: 동사
     항목ID: 69888
-processed:
+result:
   맞춤법 검사:
     표제어: 유괴하다
     품사: 동사
 ---
 000_KEYWORD: 유교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72396
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1151,13 +1151,13 @@ imported:
     표제어: 유교
     품사: 명사
     항목ID: 72396
-processed:
+result:
   맞춤법 검사:
     표제어: 유교
     품사: 명사
 ---
 000_KEYWORD: 유구무언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72397
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1180,13 +1180,13 @@ imported:
     표제어: 유구무언
     품사: 명사
     항목ID: 72397
-processed:
+result:
   맞춤법 검사:
     표제어: 유구무언
     품사: 명사
 ---
 000_KEYWORD: 유구하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72398
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1225,13 +1225,13 @@ imported:
       형태: 유구하니
     - 발음: 유구함니다
       형태: 유구합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유구하다
     품사: 형용사
 ---
 000_KEYWORD: 유권자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72400
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1276,13 +1276,13 @@ imported:
     표제어: 유권자
     품사: 명사
     항목ID: 72400
-processed:
+result:
   맞춤법 검사:
     표제어: 유권자
     품사: 명사
 ---
 000_KEYWORD: 유급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72402
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1322,13 +1322,13 @@ imported:
     - 발음: 유ː금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/yu-geumman.wav
       형태: 유급만
-processed:
+result:
   맞춤법 검사:
     표제어: 유급
     품사: 명사
 ---
 000_KEYWORD: 유급__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72404
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1371,13 +1371,13 @@ imported:
     - 발음: 유금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/72404_yugeumman.wav
       형태: 유급만
-processed:
+result:
   맞춤법 검사:
     표제어: 유급
     품사: 명사
 ---
 000_KEYWORD: 유급하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1387,13 +1387,13 @@ imported:
     표제어: 유급하다
     품사: 동사
     항목ID: 20461
-processed:
+result:
   맞춤법 검사:
     표제어: 유급하다
     품사: 동사
 ---
 000_KEYWORD: 유기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72408
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1423,13 +1423,13 @@ imported:
     표제어: 유기
     품사: 명사
     항목ID: 72408
-processed:
+result:
   맞춤법 검사:
     표제어: 유기
     품사: 명사
 ---
 000_KEYWORD: 유기농__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72409
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1462,13 +1462,13 @@ imported:
     표제어: 유기농
     품사: 명사
     항목ID: 72409
-processed:
+result:
   맞춤법 검사:
     표제어: 유기농
     품사: 명사
 ---
 000_KEYWORD: 유기물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92499
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1502,13 +1502,13 @@ imported:
     표제어: 유기물
     품사: 명사
     항목ID: 92499
-processed:
+result:
   맞춤법 검사:
     표제어: 유기물
     품사: 명사
 ---
 000_KEYWORD: 유기적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72411
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1536,13 +1536,13 @@ imported:
     표제어: 유기적
     품사: 관형사
     항목ID: 72411
-processed:
+result:
   맞춤법 검사:
     표제어: 유기적
     품사: 관형사
 ---
 000_KEYWORD: 유기적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72413
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1571,13 +1571,13 @@ imported:
     표제어: 유기적
     품사: 명사
     항목ID: 72413
-processed:
+result:
   맞춤법 검사:
     표제어: 유기적
     품사: 명사
 ---
 000_KEYWORD: 유기체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72414
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1617,13 +1617,13 @@ imported:
     표제어: 유기체
     품사: 명사
     항목ID: 72414
-processed:
+result:
   맞춤법 검사:
     표제어: 유기체
     품사: 명사
 ---
 000_KEYWORD: 유기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72415
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1652,13 +1652,13 @@ imported:
     표제어: 유기하다
     품사: 동사
     항목ID: 72415
-processed:
+result:
   맞춤법 검사:
     표제어: 유기하다
     품사: 동사
 ---
 000_KEYWORD: 유난__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72416
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1682,13 +1682,13 @@ imported:
     표제어: 유난
     품사: 명사
     항목ID: 72416
-processed:
+result:
   맞춤법 검사:
     표제어: 유난
     품사: 명사
 ---
 000_KEYWORD: 유난스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72417
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1728,7 +1728,7 @@ imported:
       형태: 유난스러우니
     - 발음: 유ː난스럽씀니다
       형태: 유난스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1736,7 +1736,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 유난스레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72418
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1763,13 +1763,13 @@ imported:
     표제어: 유난스레
     품사: 부사
     항목ID: 72418
-processed:
+result:
   맞춤법 검사:
     표제어: 유난스레
     품사: 부사
 ---
 000_KEYWORD: 유난하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72419
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1808,13 +1808,13 @@ imported:
       형태: 유난하니
     - 발음: 유ː난함니다
       형태: 유난합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유난하다
     품사: 형용사
 ---
 000_KEYWORD: 유난히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72421
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1842,13 +1842,13 @@ imported:
     표제어: 유난히
     품사: 부사
     항목ID: 72421
-processed:
+result:
   맞춤법 검사:
     표제어: 유난히
     품사: 부사
 ---
 000_KEYWORD: 유네스코__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1858,13 +1858,13 @@ imported:
     표제어: 유네스코
     품사: 명사:보통:서술성
     항목ID: 20470
-processed:
+result:
   맞춤법 검사:
     표제어: 유네스코
     품사: 명사
 ---
 000_KEYWORD: 유년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72422
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1892,13 +1892,13 @@ imported:
     표제어: 유년
     품사: 명사
     항목ID: 72422
-processed:
+result:
   맞춤법 검사:
     표제어: 유년
     품사: 명사
 ---
 000_KEYWORD: 유년기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72424
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1939,13 +1939,13 @@ imported:
     표제어: 유년기
     품사: 명사
     항목ID: 72424
-processed:
+result:
   맞춤법 검사:
     표제어: 유년기
     품사: 명사
 ---
 000_KEYWORD: 유념하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72426
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1975,13 +1975,13 @@ imported:
     표제어: 유념하다
     품사: 동사
     항목ID: 72426
-processed:
+result:
   맞춤법 검사:
     표제어: 유념하다
     품사: 동사
 ---
 000_KEYWORD: 유능하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27117
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2026,13 +2026,13 @@ imported:
       형태: 유능하니
     - 발음: 유ː능함니다
       형태: 유능합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유능하다
     품사: 형용사
 ---
 000_KEYWORD: 유니버시아드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69064
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2049,13 +2049,13 @@ imported:
     표제어: 유니버시아드
     품사: 명사
     항목ID: 69064
-processed:
+result:
   맞춤법 검사:
     표제어: 유니버시아드
     품사: 명사
 ---
 000_KEYWORD: 유니세프__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2065,13 +2065,13 @@ imported:
     표제어: 유니세프
     품사: 명사:보통:서술성
     항목ID: 31873
-processed:
+result:
   맞춤법 검사:
     표제어: 유니세프
     품사: 명사
 ---
 000_KEYWORD: 유니코드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2081,13 +2081,13 @@ imported:
     표제어: 유니코드
     품사: 명사:고유
     항목ID: 20474
-processed:
+result:
   맞춤법 검사:
     표제어: 유니코드
     품사: 명사
 ---
 000_KEYWORD: 유니콘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72428
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2115,13 +2115,13 @@ imported:
     표제어: 유니콘
     품사: 명사
     항목ID: 72428
-processed:
+result:
   맞춤법 검사:
     표제어: 유니콘
     품사: 명사
 ---
 000_KEYWORD: 유니폼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72430
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2172,13 +2172,13 @@ imported:
     표제어: 유니폼
     품사: 명사
     항목ID: 72430
-processed:
+result:
   맞춤법 검사:
     표제어: 유니폼
     품사: 명사
 ---
 000_KEYWORD: 유닉스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2189,13 +2189,13 @@ imported:
     표제어: 유닉스
     품사: 명사:고유
     항목ID: 20476
-processed:
+result:
   맞춤법 검사:
     표제어: 유닉스
     품사: 명사
 ---
 000_KEYWORD: 유단자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72434
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2223,13 +2223,13 @@ imported:
     표제어: 유단자
     품사: 명사
     항목ID: 72434
-processed:
+result:
   맞춤법 검사:
     표제어: 유단자
     품사: 명사
 ---
 000_KEYWORD: 유달리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72436
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2261,13 +2261,13 @@ imported:
     표제어: 유달리
     품사: 부사
     항목ID: 72436
-processed:
+result:
   맞춤법 검사:
     표제어: 유달리
     품사: 부사
 ---
 000_KEYWORD: 유대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72438
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2299,13 +2299,13 @@ imported:
     표제어: 유대
     품사: 명사
     항목ID: 72438
-processed:
+result:
   맞춤법 검사:
     표제어: 유대
     품사: 명사
 ---
 000_KEYWORD: 유대감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72439
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2336,13 +2336,13 @@ imported:
     표제어: 유대감
     품사: 명사
     항목ID: 72439
-processed:
+result:
   맞춤법 검사:
     표제어: 유대감
     품사: 명사
 ---
 000_KEYWORD: 유대교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72440
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2369,13 +2369,13 @@ imported:
     표제어: 유대교
     품사: 명사
     항목ID: 72440
-processed:
+result:
   맞춤법 검사:
     표제어: 유대교
     품사: 명사
 ---
 000_KEYWORD: 유대인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72437
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2402,13 +2402,13 @@ imported:
     표제어: 유대인
     품사: 명사
     항목ID: 72437
-processed:
+result:
   맞춤법 검사:
     표제어: 유대인
     품사: 명사
 ---
 000_KEYWORD: 유도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72442
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2442,13 +2442,13 @@ imported:
     표제어: 유도
     품사: 명사
     항목ID: 72442
-processed:
+result:
   맞춤법 검사:
     표제어: 유도
     품사: 명사
 ---
 000_KEYWORD: 유도__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72443
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2495,13 +2495,13 @@ imported:
     표제어: 유도
     품사: 명사
     항목ID: 72443
-processed:
+result:
   맞춤법 검사:
     표제어: 유도
     품사: 명사
 ---
 000_KEYWORD: 유도가열__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2511,13 +2511,13 @@ imported:
     표제어: 유도가열
     품사: 명사:보통:서술성
     항목ID: 20484
-processed:
+result:
   맞춤법 검사:
     표제어: 유도가열
     품사: 명사
 ---
 000_KEYWORD: 유도되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72444
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2562,13 +2562,13 @@ imported:
     표제어: 유도되다
     품사: 동사
     항목ID: 72444
-processed:
+result:
   맞춤법 검사:
     표제어: 유도되다
     품사: 동사
 ---
 000_KEYWORD: 유도하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72445
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2610,13 +2610,13 @@ imported:
     표제어: 유도하다
     품사: 동사
     항목ID: 72445
-processed:
+result:
   맞춤법 검사:
     표제어: 유도하다
     품사: 동사
 ---
 000_KEYWORD: 유독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72447
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2645,13 +2645,13 @@ imported:
     표제어: 유독
     품사: 명사
     항목ID: 72447
-processed:
+result:
   맞춤법 검사:
     표제어: 유독
     품사: 명사
 ---
 000_KEYWORD: 유독__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72448
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2680,13 +2680,13 @@ imported:
     표제어: 유독
     품사: 부사
     항목ID: 72448
-processed:
+result:
   맞춤법 검사:
     표제어: 유독
     품사: 부사
 ---
 000_KEYWORD: 유독성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72449
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2715,13 +2715,13 @@ imported:
     표제어: 유독성
     품사: 명사
     항목ID: 72449
-processed:
+result:
   맞춤법 검사:
     표제어: 유독성
     품사: 명사
 ---
 000_KEYWORD: 유독하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72450
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2761,13 +2761,13 @@ imported:
       형태: 유독하니
     - 발음: 유ː도캄니다
       형태: 유독합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유독하다
     품사: 형용사
 ---
 000_KEYWORD: 유동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72451
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2814,13 +2814,13 @@ imported:
     표제어: 유동
     품사: 명사
     항목ID: 72451
-processed:
+result:
   맞춤법 검사:
     표제어: 유동
     품사: 명사
 ---
 000_KEYWORD: 유동성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72452
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2874,13 +2874,13 @@ imported:
     표제어: 유동성
     품사: 명사
     항목ID: 72452
-processed:
+result:
   맞춤법 검사:
     표제어: 유동성
     품사: 명사
 ---
 000_KEYWORD: 유동식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72453
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2918,13 +2918,13 @@ imported:
     - 발음: 유동싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/72453_yudongsingman.wav
       형태: 유동식만
-processed:
+result:
   맞춤법 검사:
     표제어: 유동식
     품사: 명사
 ---
 000_KEYWORD: 유동적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72454
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2958,13 +2958,13 @@ imported:
     표제어: 유동적
     품사: 관형사
     항목ID: 72454
-processed:
+result:
   맞춤법 검사:
     표제어: 유동적
     품사: 관형사
 ---
 000_KEYWORD: 유동적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72455
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2998,13 +2998,13 @@ imported:
     표제어: 유동적
     품사: 명사
     항목ID: 72455
-processed:
+result:
   맞춤법 검사:
     표제어: 유동적
     품사: 명사
 ---
 000_KEYWORD: 유동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72456
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3045,13 +3045,13 @@ imported:
     표제어: 유동하다
     품사: 동사
     항목ID: 72456
-processed:
+result:
   맞춤법 검사:
     표제어: 유동하다
     품사: 동사
 ---
 000_KEYWORD: 유두__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72457
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3082,13 +3082,13 @@ imported:
     표제어: 유두
     품사: 명사
     항목ID: 72457
-processed:
+result:
   맞춤법 검사:
     표제어: 유두
     품사: 명사
 ---
 000_KEYWORD: 유들유들__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72458
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3125,13 +3125,13 @@ imported:
     표제어: 유들유들
     품사: 부사
     항목ID: 72458
-processed:
+result:
   맞춤법 검사:
     표제어: 유들유들
     품사: 부사
 ---
 000_KEYWORD: 유들유들하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72459
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3194,13 +3194,13 @@ imported:
       형태: 유들유들합니다
     - 발음: 유드류들함니다
       형태: 유들유들합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유들유들하다
     품사: 형용사
 ---
 000_KEYWORD: 유라시아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3211,13 +3211,13 @@ imported:
     표제어: 유라시아
     품사: 명사:보통:서술성
     항목ID: 20493
-processed:
+result:
   맞춤법 검사:
     표제어: 유라시아
     품사: 명사
 ---
 000_KEYWORD: 유람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70432
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3247,13 +3247,13 @@ imported:
     표제어: 유람
     품사: 명사
     항목ID: 70432
-processed:
+result:
   맞춤법 검사:
     표제어: 유람
     품사: 명사
 ---
 000_KEYWORD: 유람객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70433
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3298,13 +3298,13 @@ imported:
     - 발음: 유람갱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/70433_yuramgaengman.wav
       형태: 유람객만
-processed:
+result:
   맞춤법 검사:
     표제어: 유람객
     품사: 명사
 ---
 000_KEYWORD: 유람선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70434
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3340,13 +3340,13 @@ imported:
     표제어: 유람선
     품사: 명사
     항목ID: 70434
-processed:
+result:
   맞춤법 검사:
     표제어: 유람선
     품사: 명사
 ---
 000_KEYWORD: 유람하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70435
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3375,13 +3375,13 @@ imported:
     표제어: 유람하다
     품사: 동사
     항목ID: 70435
-processed:
+result:
   맞춤법 검사:
     표제어: 유람하다
     품사: 동사
 ---
 000_KEYWORD: 유랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70436
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3414,13 +3414,13 @@ imported:
     표제어: 유랑
     품사: 명사
     항목ID: 70436
-processed:
+result:
   맞춤법 검사:
     표제어: 유랑
     품사: 명사
 ---
 000_KEYWORD: 유랑민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70437
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3460,13 +3460,13 @@ imported:
     표제어: 유랑민
     품사: 명사
     항목ID: 70437
-processed:
+result:
   맞춤법 검사:
     표제어: 유랑민
     품사: 명사
 ---
 000_KEYWORD: 유랑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70438
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3500,13 +3500,13 @@ imported:
     표제어: 유랑하다
     품사: 동사
     항목ID: 70438
-processed:
+result:
   맞춤법 검사:
     표제어: 유랑하다
     품사: 동사
 ---
 000_KEYWORD: 유래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70439
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3545,13 +3545,13 @@ imported:
     표제어: 유래
     품사: 명사
     항목ID: 70439
-processed:
+result:
   맞춤법 검사:
     표제어: 유래
     품사: 명사
 ---
 000_KEYWORD: 유래담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70440
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3580,13 +3580,13 @@ imported:
     표제어: 유래담
     품사: 명사
     항목ID: 70440
-processed:
+result:
   맞춤법 검사:
     표제어: 유래담
     품사: 명사
 ---
 000_KEYWORD: 유래되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70441
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3617,13 +3617,13 @@ imported:
     표제어: 유래되다
     품사: 동사
     항목ID: 70441
-processed:
+result:
   맞춤법 검사:
     표제어: 유래되다
     품사: 동사
 ---
 000_KEYWORD: 유래하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70442
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3655,13 +3655,13 @@ imported:
     표제어: 유래하다
     품사: 동사
     항목ID: 70442
-processed:
+result:
   맞춤법 검사:
     표제어: 유래하다
     품사: 동사
 ---
 000_KEYWORD: 유럽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68438
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3678,13 +3678,13 @@ imported:
     표제어: 유럽
     품사: 명사
     항목ID: 68438
-processed:
+result:
   맞춤법 검사:
     표제어: 유럽
     품사: 명사
 ---
 000_KEYWORD: 유럽연합__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3694,13 +3694,13 @@ imported:
     표제어: 유럽연합
     품사: 명사:고유
     항목ID: 20503
-processed:
+result:
   맞춤법 검사:
     표제어: 유럽연합
     품사: 명사
 ---
 000_KEYWORD: 유럽인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3709,13 +3709,13 @@ imported:
     표제어: 유럽인
     품사: 명사:보통:비서술성
     항목ID: 20504
-processed:
+result:
   맞춤법 검사:
     표제어: 유럽인
     품사: 명사
 ---
 000_KEYWORD: 유려하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70443
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3755,13 +3755,13 @@ imported:
       형태: 유려하니
     - 발음: 유려함니다
       형태: 유려합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유려하다
     품사: 형용사
 ---
 000_KEYWORD: 유력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70444
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3790,13 +3790,13 @@ imported:
     표제어: 유력
     품사: 명사
     항목ID: 70444
-processed:
+result:
   맞춤법 검사:
     표제어: 유력
     품사: 명사
 ---
 000_KEYWORD: 유력시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70445
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3827,13 +3827,13 @@ imported:
     표제어: 유력시되다
     품사: 동사
     항목ID: 70445
-processed:
+result:
   맞춤법 검사:
     표제어: 유력시되다
     품사: 동사
 ---
 000_KEYWORD: 유력시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70446
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3863,13 +3863,13 @@ imported:
     표제어: 유력시하다
     품사: 동사
     항목ID: 70446
-processed:
+result:
   맞춤법 검사:
     표제어: 유력시하다
     품사: 동사
 ---
 000_KEYWORD: 유력자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70447
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3898,13 +3898,13 @@ imported:
     표제어: 유력자
     품사: 명사
     항목ID: 70447
-processed:
+result:
   맞춤법 검사:
     표제어: 유력자
     품사: 명사
 ---
 000_KEYWORD: 유력하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70448
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3961,13 +3961,13 @@ imported:
       형태: 유력하니
     - 발음: 유ː려캄니다
       형태: 유력합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유력하다
     품사: 형용사
 ---
 000_KEYWORD: 유령__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70449
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4022,13 +4022,13 @@ imported:
     표제어: 유령
     품사: 명사
     항목ID: 70449
-processed:
+result:
   맞춤법 검사:
     표제어: 유령
     품사: 명사
 ---
 000_KEYWORD: 유례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70450
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4074,13 +4074,13 @@ imported:
     표제어: 유례
     품사: 명사
     항목ID: 70450
-processed:
+result:
   맞춤법 검사:
     표제어: 유례
     품사: 명사
 ---
 000_KEYWORD: 유례없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70451
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4141,13 +4141,13 @@ imported:
     - 발음: 유ː례업찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/70451_yu-ryeeopjji.wav
       형태: 유례없지
-processed:
+result:
   맞춤법 검사:
     표제어: 유례없다
     품사: 형용사
 ---
 000_KEYWORD: 유례없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70452
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4188,13 +4188,13 @@ imported:
     표제어: 유례없이
     품사: 부사
     항목ID: 70452
-processed:
+result:
   맞춤법 검사:
     표제어: 유례없이
     품사: 부사
 ---
 000_KEYWORD: 유로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70453
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4220,13 +4220,13 @@ imported:
     표제어: 유로
     품사: 명사
     항목ID: 70453
-processed:
+result:
   맞춤법 검사:
     표제어: 유로
     품사: 명사
 ---
 000_KEYWORD: 유로__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70454
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4245,13 +4245,13 @@ imported:
     표제어: 유로
     품사: 의존 명사
     항목ID: 70454
-processed:
+result:
   맞춤법 검사:
     표제어: 유로
     품사: 의존 명사
 ---
 000_KEYWORD: 유로화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4261,13 +4261,13 @@ imported:
     표제어: 유로화
     품사: 명사:보통:서술성
     항목ID: 20511
-processed:
+result:
   맞춤법 검사:
     표제어: 유로화
     품사: 명사
 ---
 000_KEYWORD: 유료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70455
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4303,13 +4303,13 @@ imported:
     표제어: 유료
     품사: 명사
     항목ID: 70455
-processed:
+result:
   맞춤법 검사:
     표제어: 유료
     품사: 명사
 ---
 000_KEYWORD: 유료화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4318,13 +4318,13 @@ imported:
     표제어: 유료화
     품사: 명사:보통:서술성
     항목ID: 20513
-processed:
+result:
   맞춤법 검사:
     표제어: 유료화
     품사: 명사
 ---
 000_KEYWORD: 유류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70456
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4352,13 +4352,13 @@ imported:
     표제어: 유류
     품사: 명사
     항목ID: 70456
-processed:
+result:
   맞춤법 검사:
     표제어: 유류
     품사: 명사
 ---
 000_KEYWORD: 유류세__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4367,13 +4367,13 @@ imported:
     표제어: 유류세
     품사: 명사:보통:서술성
     항목ID: 20515
-processed:
+result:
   맞춤법 검사:
     표제어: 유류세
     품사: 명사
 ---
 000_KEYWORD: 유류품__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4383,13 +4383,13 @@ imported:
     표제어: 유류품
     품사: 명사:보통:비서술성
     항목ID: 20516
-processed:
+result:
   맞춤법 검사:
     표제어: 유류품
     품사: 명사
 ---
 000_KEYWORD: 유리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70458
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4417,13 +4417,13 @@ imported:
     표제어: 유리
     품사: 명사
     항목ID: 70458
-processed:
+result:
   맞춤법 검사:
     표제어: 유리
     품사: 명사
 ---
 000_KEYWORD: 유리__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70459
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4458,13 +4458,13 @@ imported:
     표제어: 유리
     품사: 명사
     항목ID: 70459
-processed:
+result:
   맞춤법 검사:
     표제어: 유리
     품사: 명사
 ---
 000_KEYWORD: 유리__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70460
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4487,13 +4487,13 @@ imported:
     표제어: 유리
     품사: 명사
     항목ID: 70460
-processed:
+result:
   맞춤법 검사:
     표제어: 유리
     품사: 명사
 ---
 000_KEYWORD: 유리그릇__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70461
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4534,13 +4534,13 @@ imported:
     - 발음: 유리그른만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70461_yurigeureunman.wav
       형태: 유리그릇만
-processed:
+result:
   맞춤법 검사:
     표제어: 유리그릇
     품사: 명사
 ---
 000_KEYWORD: 유리되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70462
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4573,13 +4573,13 @@ imported:
     표제어: 유리되다
     품사: 동사
     항목ID: 70462
-processed:
+result:
   맞춤법 검사:
     표제어: 유리되다
     품사: 동사
 ---
 000_KEYWORD: 유리문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70463
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4617,13 +4617,13 @@ imported:
     표제어: 유리문
     품사: 명사
     항목ID: 70463
-processed:
+result:
   맞춤법 검사:
     표제어: 유리문
     품사: 명사
 ---
 000_KEYWORD: 유리병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70464
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4654,13 +4654,13 @@ imported:
     표제어: 유리병
     품사: 명사
     항목ID: 70464
-processed:
+result:
   맞춤법 검사:
     표제어: 유리병
     품사: 명사
 ---
 000_KEYWORD: 유리수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70465
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4688,13 +4688,13 @@ imported:
     표제어: 유리수
     품사: 명사
     항목ID: 70465
-processed:
+result:
   맞춤법 검사:
     표제어: 유리수
     품사: 명사
 ---
 000_KEYWORD: 유리잔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70466
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4729,13 +4729,13 @@ imported:
     표제어: 유리잔
     품사: 명사
     항목ID: 70466
-processed:
+result:
   맞춤법 검사:
     표제어: 유리잔
     품사: 명사
 ---
 000_KEYWORD: 유리창__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70467
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4768,13 +4768,13 @@ imported:
     표제어: 유리창
     품사: 명사
     항목ID: 70467
-processed:
+result:
   맞춤법 검사:
     표제어: 유리창
     품사: 명사
 ---
 000_KEYWORD: 유리컵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70457
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4803,13 +4803,13 @@ imported:
     표제어: 유리컵
     품사: 명사
     항목ID: 70457
-processed:
+result:
   맞춤법 검사:
     표제어: 유리컵
     품사: 명사
 ---
 000_KEYWORD: 유리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70468
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4837,13 +4837,13 @@ imported:
     표제어: 유리하다
     품사: 동사
     항목ID: 70468
-processed:
+result:
   맞춤법 검사:
     표제어: 유리하다
     품사: 동사
 ---
 000_KEYWORD: 유리하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27102
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4895,13 +4895,13 @@ imported:
       형태: 유리하니
     - 발음: 유ː리함니다
       형태: 유리합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유리하다
     품사: 형용사
 ---
 000_KEYWORD: 유린__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70469
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4931,13 +4931,13 @@ imported:
     표제어: 유린
     품사: 명사
     항목ID: 70469
-processed:
+result:
   맞춤법 검사:
     표제어: 유린
     품사: 명사
 ---
 000_KEYWORD: 유린당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85392
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4966,13 +4966,13 @@ imported:
     표제어: 유린당하다
     품사: 동사
     항목ID: 85392
-processed:
+result:
   맞춤법 검사:
     표제어: 유린당하다
     품사: 동사
 ---
 000_KEYWORD: 유린되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70471
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5004,13 +5004,13 @@ imported:
     표제어: 유린되다
     품사: 동사
     항목ID: 70471
-processed:
+result:
   맞춤법 검사:
     표제어: 유린되다
     품사: 동사
 ---
 000_KEYWORD: 유린하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70472
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5039,13 +5039,13 @@ imported:
     표제어: 유린하다
     품사: 동사
     항목ID: 70472
-processed:
+result:
   맞춤법 검사:
     표제어: 유린하다
     품사: 동사
 ---
 000_KEYWORD: 유림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70473
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5066,13 +5066,13 @@ imported:
     표제어: 유림
     품사: 명사
     항목ID: 70473
-processed:
+result:
   맞춤법 검사:
     표제어: 유림
     품사: 명사
 ---
 000_KEYWORD: 유망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70475
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5104,13 +5104,13 @@ imported:
     표제어: 유망
     품사: 명사
     항목ID: 70475
-processed:
+result:
   맞춤법 검사:
     표제어: 유망
     품사: 명사
 ---
 000_KEYWORD: 유망주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70476
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5160,13 +5160,13 @@ imported:
     표제어: 유망주
     품사: 명사
     항목ID: 70476
-processed:
+result:
   맞춤법 검사:
     표제어: 유망주
     품사: 명사
 ---
 000_KEYWORD: 유망하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70477
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5208,13 +5208,13 @@ imported:
       형태: 유망하니
     - 발음: 유ː망함니다
       형태: 유망합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유망하다
     품사: 형용사
 ---
 000_KEYWORD: 유머__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27100
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5253,13 +5253,13 @@ imported:
     표제어: 유머
     품사: 명사
     항목ID: 27100
-processed:
+result:
   맞춤법 검사:
     표제어: 유머
     품사: 명사
 ---
 000_KEYWORD: 유머러스하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70381
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5292,13 +5292,13 @@ imported:
     - 형태: 유머러스하여
     - 형태: 유머러스하니
     - 형태: 유머러스합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유머러스하다
     품사: 형용사
 ---
 000_KEYWORD: 유명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70383
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5335,13 +5335,13 @@ imported:
     표제어: 유명
     품사: 명사
     항목ID: 70383
-processed:
+result:
   맞춤법 검사:
     표제어: 유명
     품사: 명사
 ---
 000_KEYWORD: 유명무실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70386
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5369,13 +5369,13 @@ imported:
     표제어: 유명무실
     품사: 명사
     항목ID: 70386
-processed:
+result:
   맞춤법 검사:
     표제어: 유명무실
     품사: 명사
 ---
 000_KEYWORD: 유명무실하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70388
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5415,13 +5415,13 @@ imported:
       형태: 유명무실하니
     - 발음: 유ː명무실함니다
       형태: 유명무실합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유명무실하다
     품사: 형용사
 ---
 000_KEYWORD: 유명세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70404
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5446,13 +5446,13 @@ imported:
     표제어: 유명세
     품사: 명사
     항목ID: 70404
-processed:
+result:
   맞춤법 검사:
     표제어: 유명세
     품사: 명사
 ---
 000_KEYWORD: 유명하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29716
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5499,13 +5499,13 @@ imported:
       형태: 유명하니
     - 발음: 유ː명함니다
       형태: 유명합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유명하다
     품사: 형용사
 ---
 000_KEYWORD: 유모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70405
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5533,13 +5533,13 @@ imported:
     표제어: 유모
     품사: 명사
     항목ID: 70405
-processed:
+result:
   맞춤법 검사:
     표제어: 유모
     품사: 명사
 ---
 000_KEYWORD: 유모차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70357
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5570,13 +5570,13 @@ imported:
     표제어: 유모차
     품사: 명사
     항목ID: 70357
-processed:
+result:
   맞춤법 검사:
     표제어: 유모차
     품사: 명사
 ---
 000_KEYWORD: 유목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70406
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5614,13 +5614,13 @@ imported:
     - 발음: 유몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70406_yumongman.wav
       형태: 유목만
-processed:
+result:
   맞춤법 검사:
     표제어: 유목
     품사: 명사
 ---
 000_KEYWORD: 유목민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70361
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5648,13 +5648,13 @@ imported:
     표제어: 유목민
     품사: 명사
     항목ID: 70361
-processed:
+result:
   맞춤법 검사:
     표제어: 유목민
     품사: 명사
 ---
 000_KEYWORD: 유무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70407
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5684,13 +5684,13 @@ imported:
     표제어: 유무
     품사: 명사
     항목ID: 70407
-processed:
+result:
   맞춤법 검사:
     표제어: 유무
     품사: 명사
 ---
 000_KEYWORD: 유무죄__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5700,13 +5700,13 @@ imported:
     표제어: 유무죄
     품사: 명사:보통:서술성
     항목ID: 20539
-processed:
+result:
   맞춤법 검사:
     표제어: 유무죄
     품사: 명사
 ---
 000_KEYWORD: 유물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27116
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5765,13 +5765,13 @@ imported:
     표제어: 유물
     품사: 명사
     항목ID: 27116
-processed:
+result:
   맞춤법 검사:
     표제어: 유물
     품사: 명사
 ---
 000_KEYWORD: 유발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70649
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5802,13 +5802,13 @@ imported:
     표제어: 유발
     품사: 명사
     항목ID: 70649
-processed:
+result:
   맞춤법 검사:
     표제어: 유발
     품사: 명사
 ---
 000_KEYWORD: 유발되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70652
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5840,13 +5840,13 @@ imported:
     표제어: 유발되다
     품사: 동사
     항목ID: 70652
-processed:
+result:
   맞춤법 검사:
     표제어: 유발되다
     품사: 동사
 ---
 000_KEYWORD: 유발하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27099
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5875,13 +5875,13 @@ imported:
     표제어: 유발하다
     품사: 동사
     항목ID: 27099
-processed:
+result:
   맞춤법 검사:
     표제어: 유발하다
     품사: 동사
 ---
 000_KEYWORD: 유방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70408
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5913,13 +5913,13 @@ imported:
     표제어: 유방
     품사: 명사
     항목ID: 70408
-processed:
+result:
   맞춤법 검사:
     표제어: 유방
     품사: 명사
 ---
 000_KEYWORD: 유방암__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70358
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5949,13 +5949,13 @@ imported:
     표제어: 유방암
     품사: 명사
     항목ID: 70358
-processed:
+result:
   맞춤법 검사:
     표제어: 유방암
     품사: 명사
 ---
 000_KEYWORD: 유배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70416
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5989,13 +5989,13 @@ imported:
     표제어: 유배
     품사: 명사
     항목ID: 70416
-processed:
+result:
   맞춤법 검사:
     표제어: 유배
     품사: 명사
 ---
 000_KEYWORD: 유배당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85393
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6024,13 +6024,13 @@ imported:
     표제어: 유배당하다
     품사: 동사
     항목ID: 85393
-processed:
+result:
   맞춤법 검사:
     표제어: 유배당하다
     품사: 동사
 ---
 000_KEYWORD: 유배되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70418
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6061,13 +6061,13 @@ imported:
     표제어: 유배되다
     품사: 동사
     항목ID: 70418
-processed:
+result:
   맞춤법 검사:
     표제어: 유배되다
     품사: 동사
 ---
 000_KEYWORD: 유배지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70419
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6100,13 +6100,13 @@ imported:
     표제어: 유배지
     품사: 명사
     항목ID: 70419
-processed:
+result:
   맞춤법 검사:
     표제어: 유배지
     품사: 명사
 ---
 000_KEYWORD: 유별__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70653
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6142,13 +6142,13 @@ imported:
     표제어: 유별
     품사: 명사
     항목ID: 70653
-processed:
+result:
   맞춤법 검사:
     표제어: 유별
     품사: 명사
 ---
 000_KEYWORD: 유별나다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70737
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6195,13 +6195,13 @@ imported:
       형태: 유별나니
     - 발음: 유ː별람니다
       형태: 유별납니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유별나다
     품사: 형용사
 ---
 000_KEYWORD: 유별하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70741
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6260,13 +6260,13 @@ imported:
       형태: 유별하니
     - 발음: 유ː별함니다
       형태: 유별합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유별하다
     품사: 형용사
 ---
 000_KEYWORD: 유보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70654
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6302,13 +6302,13 @@ imported:
     표제어: 유보
     품사: 명사
     항목ID: 70654
-processed:
+result:
   맞춤법 검사:
     표제어: 유보
     품사: 명사
 ---
 000_KEYWORD: 유보되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70740
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6345,13 +6345,13 @@ imported:
     표제어: 유보되다
     품사: 동사
     항목ID: 70740
-processed:
+result:
   맞춤법 검사:
     표제어: 유보되다
     품사: 동사
 ---
 000_KEYWORD: 유보적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6360,13 +6360,13 @@ imported:
     표제어: 유보적
     품사: 명사:보통:서술성
     항목ID: 20548
-processed:
+result:
   맞춤법 검사:
     표제어: 유보적
     품사: 명사
 ---
 000_KEYWORD: 유보하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70739
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6399,13 +6399,13 @@ imported:
     표제어: 유보하다
     품사: 동사
     항목ID: 70739
-processed:
+result:
   맞춤법 검사:
     표제어: 유보하다
     품사: 동사
 ---
 000_KEYWORD: 유복자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70356
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6431,13 +6431,13 @@ imported:
     표제어: 유복자
     품사: 명사
     항목ID: 70356
-processed:
+result:
   맞춤법 검사:
     표제어: 유복자
     품사: 명사
 ---
 000_KEYWORD: 유복하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70655
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6477,13 +6477,13 @@ imported:
       형태: 유복하니
     - 발음: 유보캄니다
       형태: 유복합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유복하다
     품사: 형용사
 ---
 000_KEYWORD: 유부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70657
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6517,13 +6517,13 @@ imported:
     표제어: 유부
     품사: 명사
     항목ID: 70657
-processed:
+result:
   맞춤법 검사:
     표제어: 유부
     품사: 명사
 ---
 000_KEYWORD: 유부남__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70354
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6555,13 +6555,13 @@ imported:
     표제어: 유부남
     품사: 명사
     항목ID: 70354
-processed:
+result:
   맞춤법 검사:
     표제어: 유부남
     품사: 명사
 ---
 000_KEYWORD: 유부녀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70355
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6593,13 +6593,13 @@ imported:
     표제어: 유부녀
     품사: 명사
     항목ID: 70355
-processed:
+result:
   맞춤법 검사:
     표제어: 유부녀
     품사: 명사
 ---
 000_KEYWORD: 유분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70698
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6637,13 +6637,13 @@ imported:
     표제어: 유분
     품사: 명사
     항목ID: 70698
-processed:
+result:
   맞춤법 검사:
     표제어: 유분
     품사: 명사
 ---
 000_KEYWORD: 유분수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70701
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6667,13 +6667,13 @@ imported:
     표제어: 유분수
     품사: 명사
     항목ID: 70701
-processed:
+result:
   맞춤법 검사:
     표제어: 유분수
     품사: 명사
 ---
 000_KEYWORD: 유비무환__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70705
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6701,13 +6701,13 @@ imported:
     표제어: 유비무환
     품사: 명사
     항목ID: 70705
-processed:
+result:
   맞춤법 검사:
     표제어: 유비무환
     품사: 명사
 ---
 000_KEYWORD: 유사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70706
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6733,13 +6733,13 @@ imported:
     표제어: 유사
     품사: 명사
     항목ID: 70706
-processed:
+result:
   맞춤법 검사:
     표제어: 유사
     품사: 명사
 ---
 000_KEYWORD: 유사__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70708
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6773,13 +6773,13 @@ imported:
     표제어: 유사
     품사: 명사
     항목ID: 70708
-processed:
+result:
   맞춤법 검사:
     표제어: 유사
     품사: 명사
 ---
 000_KEYWORD: 유사성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70710
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6810,13 +6810,13 @@ imported:
     표제어: 유사성
     품사: 명사
     항목ID: 70710
-processed:
+result:
   맞춤법 검사:
     표제어: 유사성
     품사: 명사
 ---
 000_KEYWORD: 유사시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70427
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6848,13 +6848,13 @@ imported:
     표제어: 유사시
     품사: 명사
     항목ID: 70427
-processed:
+result:
   맞춤법 검사:
     표제어: 유사시
     품사: 명사
 ---
 000_KEYWORD: 유사점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70738
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6882,13 +6882,13 @@ imported:
     표제어: 유사점
     품사: 명사
     항목ID: 70738
-processed:
+result:
   맞춤법 검사:
     표제어: 유사점
     품사: 명사
 ---
 000_KEYWORD: 유사품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70426
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6917,13 +6917,13 @@ imported:
     표제어: 유사품
     품사: 명사
     항목ID: 70426
-processed:
+result:
   맞춤법 검사:
     표제어: 유사품
     품사: 명사
 ---
 000_KEYWORD: 유사하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27115
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6966,13 +6966,13 @@ imported:
       형태: 유사하니
     - 발음: 유ː사함니다
       형태: 유사합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유사하다
     품사: 형용사
 ---
 000_KEYWORD: 유산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70711
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7014,13 +7014,13 @@ imported:
     표제어: 유산
     품사: 명사
     항목ID: 70711
-processed:
+result:
   맞춤법 검사:
     표제어: 유산
     품사: 명사
 ---
 000_KEYWORD: 유산__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27114
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7063,13 +7063,13 @@ imported:
     표제어: 유산
     품사: 명사
     항목ID: 27114
-processed:
+result:
   맞춤법 검사:
     표제어: 유산
     품사: 명사
 ---
 000_KEYWORD: 유산균__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70422
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7097,13 +7097,13 @@ imported:
     표제어: 유산균
     품사: 명사
     항목ID: 70422
-processed:
+result:
   맞춤법 검사:
     표제어: 유산균
     품사: 명사
 ---
 000_KEYWORD: 유산되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91981
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7148,13 +7148,13 @@ imported:
     표제어: 유산되다
     품사: 동사
     항목ID: 91981
-processed:
+result:
   맞춤법 검사:
     표제어: 유산되다
     품사: 동사
 ---
 000_KEYWORD: 유산소운동__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7164,13 +7164,13 @@ imported:
     표제어: 유산소운동
     품사: 명사:보통:서술성
     항목ID: 20564
-processed:
+result:
   맞춤법 검사:
     표제어: 유산소운동
     품사: 명사
 ---
 000_KEYWORD: 유산하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91982
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7218,13 +7218,13 @@ imported:
     표제어: 유산하다
     품사: 동사
     항목ID: 91982
-processed:
+result:
   맞춤법 검사:
     표제어: 유산하다
     품사: 동사
 ---
 000_KEYWORD: 유상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70428
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7257,13 +7257,13 @@ imported:
     표제어: 유상
     품사: 명사
     항목ID: 70428
-processed:
+result:
   맞춤법 검사:
     표제어: 유상
     품사: 명사
 ---
 000_KEYWORD: 유상증자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7273,13 +7273,13 @@ imported:
     표제어: 유상증자
     품사: 명사:보통:서술성
     항목ID: 20566
-processed:
+result:
   맞춤법 검사:
     표제어: 유상증자
     품사: 명사
 ---
 000_KEYWORD: 유색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70735
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7322,13 +7322,13 @@ imported:
     - 발음: 유ː생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70735_yu-saengman.wav
       형태: 유색만
-processed:
+result:
   맞춤법 검사:
     표제어: 유색
     품사: 명사
 ---
 000_KEYWORD: 유생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70424
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7359,13 +7359,13 @@ imported:
     표제어: 유생
     품사: 명사
     항목ID: 70424
-processed:
+result:
   맞춤법 검사:
     표제어: 유생
     품사: 명사
 ---
 000_KEYWORD: 유서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70425
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7394,13 +7394,13 @@ imported:
     표제어: 유서
     품사: 명사
     항목ID: 70425
-processed:
+result:
   맞춤법 검사:
     표제어: 유서
     품사: 명사
 ---
 000_KEYWORD: 유서__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70105
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7430,13 +7430,13 @@ imported:
     표제어: 유서
     품사: 명사
     항목ID: 70105
-processed:
+result:
   맞춤법 검사:
     표제어: 유서
     품사: 명사
 ---
 000_KEYWORD: 유선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70736
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7467,13 +7467,13 @@ imported:
     표제어: 유선
     품사: 명사
     항목ID: 70736
-processed:
+result:
   맞춤법 검사:
     표제어: 유선
     품사: 명사
 ---
 000_KEYWORD: 유선인터넷__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7483,13 +7483,13 @@ imported:
     표제어: 유선인터넷
     품사: 명사:보통:서술성
     항목ID: 20569
-processed:
+result:
   맞춤법 검사:
     표제어: 유선인터넷
     품사: 명사
 ---
 000_KEYWORD: 유선형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70530
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7533,13 +7533,13 @@ imported:
     표제어: 유선형
     품사: 명사
     항목ID: 70530
-processed:
+result:
   맞춤법 검사:
     표제어: 유선형
     품사: 명사
 ---
 000_KEYWORD: 유성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70531
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7571,13 +7571,13 @@ imported:
     표제어: 유성
     품사: 명사
     항목ID: 70531
-processed:
+result:
   맞춤법 검사:
     표제어: 유성
     품사: 명사
 ---
 000_KEYWORD: 유성__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70532
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7615,13 +7615,13 @@ imported:
     표제어: 유성
     품사: 명사
     항목ID: 70532
-processed:
+result:
   맞춤법 검사:
     표제어: 유성
     품사: 명사
 ---
 000_KEYWORD: 유성군__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7631,13 +7631,13 @@ imported:
     표제어: 유성군
     품사: 명사:보통:서술성
     항목ID: 20572
-processed:
+result:
   맞춤법 검사:
     표제어: 유성군
     품사: 명사
 ---
 000_KEYWORD: 유성룡__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7648,13 +7648,13 @@ imported:
     표제어: 유성룡
     품사: 명사:보통:서술성
     항목ID: 20573
-processed:
+result:
   맞춤법 검사:
     표제어: 유성룡
     품사: 명사
 ---
 000_KEYWORD: 유성생식__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7664,13 +7664,13 @@ imported:
     표제어: 유성생식
     품사: 명사:보통:서술성
     항목ID: 20574
-processed:
+result:
   맞춤법 검사:
     표제어: 유성생식
     품사: 명사
 ---
 000_KEYWORD: 유성우__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7679,13 +7679,13 @@ imported:
     표제어: 유성우
     품사: 명사:보통:서술성
     항목ID: 20575
-processed:
+result:
   맞춤법 검사:
     표제어: 유성우
     품사: 명사
 ---
 000_KEYWORD: 유성음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70533
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7713,13 +7713,13 @@ imported:
     표제어: 유성음
     품사: 명사
     항목ID: 70533
-processed:
+result:
   맞춤법 검사:
     표제어: 유성음
     품사: 명사
 ---
 000_KEYWORD: 유세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70534
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7759,13 +7759,13 @@ imported:
     표제어: 유세
     품사: 명사
     항목ID: 70534
-processed:
+result:
   맞춤법 검사:
     표제어: 유세
     품사: 명사
 ---
 000_KEYWORD: 유세장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70535
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7793,13 +7793,13 @@ imported:
     표제어: 유세장
     품사: 명사
     항목ID: 70535
-processed:
+result:
   맞춤법 검사:
     표제어: 유세장
     품사: 명사
 ---
 000_KEYWORD: 유세하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70536
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7828,13 +7828,13 @@ imported:
     표제어: 유세하다
     품사: 동사
     항목ID: 70536
-processed:
+result:
   맞춤법 검사:
     표제어: 유세하다
     품사: 동사
 ---
 000_KEYWORD: 유소년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70537
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7862,13 +7862,13 @@ imported:
     표제어: 유소년
     품사: 명사
     항목ID: 70537
-processed:
+result:
   맞춤법 검사:
     표제어: 유소년
     품사: 명사
 ---
 000_KEYWORD: 유속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70538
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7906,13 +7906,13 @@ imported:
     - 발음: 유송만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70538_yusongman.wav
       형태: 유속만
-processed:
+result:
   맞춤법 검사:
     표제어: 유속
     품사: 명사
 ---
 000_KEYWORD: 유수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70539
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7942,13 +7942,13 @@ imported:
     표제어: 유수
     품사: 명사
     항목ID: 70539
-processed:
+result:
   맞춤법 검사:
     표제어: 유수
     품사: 명사
 ---
 000_KEYWORD: 유수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70540
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7976,13 +7976,13 @@ imported:
     표제어: 유수
     품사: 명사
     항목ID: 70540
-processed:
+result:
   맞춤법 검사:
     표제어: 유수
     품사: 명사
 ---
 000_KEYWORD: 유수하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70541
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8024,13 +8024,13 @@ imported:
       형태: 유수하니
     - 발음: 유ː수함니다
       형태: 유수합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유수하다
     품사: 형용사
 ---
 000_KEYWORD: 유숙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70542
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8068,13 +8068,13 @@ imported:
     - 발음: 유숭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70542_yusungman.wav
       형태: 유숙만
-processed:
+result:
   맞춤법 검사:
     표제어: 유숙
     품사: 명사
 ---
 000_KEYWORD: 유숙하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70543
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8103,13 +8103,13 @@ imported:
     표제어: 유숙하다
     품사: 동사
     항목ID: 70543
-processed:
+result:
   맞춤법 검사:
     표제어: 유숙하다
     품사: 동사
 ---
 000_KEYWORD: 유순하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70544
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8154,13 +8154,13 @@ imported:
       형태: 유순하니
     - 발음: 유순함니다
       형태: 유순합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유순하다
     품사: 형용사
 ---
 000_KEYWORD: 유식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70546
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8202,13 +8202,13 @@ imported:
     - 발음: 유ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70546_yu-singman.wav
       형태: 유식만
-processed:
+result:
   맞춤법 검사:
     표제어: 유식
     품사: 명사
 ---
 000_KEYWORD: 유식하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70547
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8253,13 +8253,13 @@ imported:
       형태: 유식하니
     - 발음: 유ː시캄니다
       형태: 유식합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유식하다
     품사: 형용사
 ---
 000_KEYWORD: 유신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70548
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8292,13 +8292,13 @@ imported:
     표제어: 유신
     품사: 명사
     항목ID: 70548
-processed:
+result:
   맞춤법 검사:
     표제어: 유신
     품사: 명사
 ---
 000_KEYWORD: 유신론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70549
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8330,13 +8330,13 @@ imported:
     표제어: 유신론
     품사: 명사
     항목ID: 70549
-processed:
+result:
   맞춤법 검사:
     표제어: 유신론
     품사: 명사
 ---
 000_KEYWORD: 유실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70551
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8366,13 +8366,13 @@ imported:
     표제어: 유실
     품사: 명사
     항목ID: 70551
-processed:
+result:
   맞춤법 검사:
     표제어: 유실
     품사: 명사
 ---
 000_KEYWORD: 유실되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70552
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8407,13 +8407,13 @@ imported:
     표제어: 유실되다
     품사: 동사
     항목ID: 70552
-processed:
+result:
   맞춤법 검사:
     표제어: 유실되다
     품사: 동사
 ---
 000_KEYWORD: 유실되다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70553
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8448,13 +8448,13 @@ imported:
     표제어: 유실되다
     품사: 동사
     항목ID: 70553
-processed:
+result:
   맞춤법 검사:
     표제어: 유실되다
     품사: 동사
 ---
 000_KEYWORD: 유실물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70554
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8486,13 +8486,13 @@ imported:
     표제어: 유실물
     품사: 명사
     항목ID: 70554
-processed:
+result:
   맞춤법 검사:
     표제어: 유실물
     품사: 명사
 ---
 000_KEYWORD: 유실하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70557
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8519,13 +8519,13 @@ imported:
     표제어: 유실하다
     품사: 동사
     항목ID: 70557
-processed:
+result:
   맞춤법 검사:
     표제어: 유실하다
     품사: 동사
 ---
 000_KEYWORD: 유실하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70558
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8558,13 +8558,13 @@ imported:
     표제어: 유실하다
     품사: 동사
     항목ID: 70558
-processed:
+result:
   맞춤법 검사:
     표제어: 유실하다
     품사: 동사
 ---
 000_KEYWORD: 유심하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70561
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8616,13 +8616,13 @@ imported:
       형태: 유심하니
     - 발음: 유ː심함니다
       형태: 유심합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유심하다
     품사: 형용사
 ---
 000_KEYWORD: 유심히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70563
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8660,13 +8660,13 @@ imported:
     표제어: 유심히
     품사: 부사
     항목ID: 70563
-processed:
+result:
   맞춤법 검사:
     표제어: 유심히
     품사: 부사
 ---
 000_KEYWORD: 유아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70571
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8702,13 +8702,13 @@ imported:
     표제어: 유아
     품사: 명사
     항목ID: 70571
-processed:
+result:
   맞춤법 검사:
     표제어: 유아
     품사: 명사
 ---
 000_KEYWORD: 유아__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70572
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8746,13 +8746,13 @@ imported:
     표제어: 유아
     품사: 명사
     항목ID: 70572
-processed:
+result:
   맞춤법 검사:
     표제어: 유아
     품사: 명사
 ---
 000_KEYWORD: 유아기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70576
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8797,13 +8797,13 @@ imported:
     표제어: 유아기
     품사: 명사
     항목ID: 70576
-processed:
+result:
   맞춤법 검사:
     표제어: 유아기
     품사: 명사
 ---
 000_KEYWORD: 유아독존__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8813,13 +8813,13 @@ imported:
     표제어: 유아독존
     품사: 명사:보통:서술성
     항목ID: 20587
-processed:
+result:
   맞춤법 검사:
     표제어: 유아독존
     품사: 명사
 ---
 000_KEYWORD: 유아복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70577
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8858,13 +8858,13 @@ imported:
     - 발음: 유아봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70577_yuabongman.wav
       형태: 유아복만
-processed:
+result:
   맞춤법 검사:
     표제어: 유아복
     품사: 명사
 ---
 000_KEYWORD: 유아용__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8875,13 +8875,13 @@ imported:
     표제어: 유아용
     품사: 명사:보통:서술성
     항목ID: 20588
-processed:
+result:
   맞춤법 검사:
     표제어: 유아용
     품사: 명사
 ---
 000_KEYWORD: 유아원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70579
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8909,13 +8909,13 @@ imported:
     표제어: 유아원
     품사: 명사
     항목ID: 70579
-processed:
+result:
   맞춤법 검사:
     표제어: 유아원
     품사: 명사
 ---
 000_KEYWORD: 유압__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8926,13 +8926,13 @@ imported:
     표제어: 유압
     품사: 명사:보통:서술성
     항목ID: 20590
-processed:
+result:
   맞춤법 검사:
     표제어: 유압
     품사: 명사
 ---
 000_KEYWORD: 유야무야__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70581
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8960,13 +8960,13 @@ imported:
     표제어: 유야무야
     품사: 명사
     항목ID: 70581
-processed:
+result:
   맞춤법 검사:
     표제어: 유야무야
     품사: 명사
 ---
 000_KEYWORD: 유야무야되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70583
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8997,13 +8997,13 @@ imported:
     표제어: 유야무야되다
     품사: 동사
     항목ID: 70583
-processed:
+result:
   맞춤법 검사:
     표제어: 유야무야되다
     품사: 동사
 ---
 000_KEYWORD: 유야무야하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70584
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9032,13 +9032,13 @@ imported:
     표제어: 유야무야하다
     품사: 동사
     항목ID: 70584
-processed:
+result:
   맞춤법 검사:
     표제어: 유야무야하다
     품사: 동사
 ---
 000_KEYWORD: 유야무야하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70587
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9077,13 +9077,13 @@ imported:
       형태: 유야무야하니
     - 발음: 유ː야무야함니다
       형태: 유야무야합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유야무야하다
     품사: 형용사
 ---
 000_KEYWORD: 유약하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70589
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9128,13 +9128,13 @@ imported:
       형태: 유약하니
     - 발음: 유야캄니다
       형태: 유약합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유약하다
     품사: 형용사
 ---
 000_KEYWORD: 유언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70590
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9179,13 +9179,13 @@ imported:
     표제어: 유언
     품사: 명사
     항목ID: 70590
-processed:
+result:
   맞춤법 검사:
     표제어: 유언
     품사: 명사
 ---
 000_KEYWORD: 유언비어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70592
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9224,13 +9224,13 @@ imported:
     표제어: 유언비어
     품사: 명사
     항목ID: 70592
-processed:
+result:
   맞춤법 검사:
     표제어: 유언비어
     품사: 명사
 ---
 000_KEYWORD: 유언장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70594
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9259,13 +9259,13 @@ imported:
     표제어: 유언장
     품사: 명사
     항목ID: 70594
-processed:
+result:
   맞춤법 검사:
     표제어: 유언장
     품사: 명사
 ---
 000_KEYWORD: 유언하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70600
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9292,13 +9292,13 @@ imported:
     표제어: 유언하다
     품사: 동사
     항목ID: 70600
-processed:
+result:
   맞춤법 검사:
     표제어: 유언하다
     품사: 동사
 ---
 000_KEYWORD: 유업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70602
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9336,13 +9336,13 @@ imported:
     - 발음: 유엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70602_yueomman.wav
       형태: 유업만
-processed:
+result:
   맞춤법 검사:
     표제어: 유업
     품사: 명사
 ---
 000_KEYWORD: 유에프오__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70604
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9369,13 +9369,13 @@ imported:
     표제어: 유에프오
     품사: 명사
     항목ID: 70604
-processed:
+result:
   맞춤법 검사:
     표제어: 유에프오
     품사: 명사
 ---
 000_KEYWORD: 유엔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70609
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9412,13 +9412,13 @@ imported:
     표제어: 유엔
     품사: 명사
     항목ID: 70609
-processed:
+result:
   맞춤법 검사:
     표제어: 유엔
     품사: 명사
 ---
 000_KEYWORD: 유엔군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70611
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9445,13 +9445,13 @@ imported:
     표제어: 유엔군
     품사: 명사
     항목ID: 70611
-processed:
+result:
   맞춤법 검사:
     표제어: 유엔군
     품사: 명사
 ---
 000_KEYWORD: 유역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70586
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9490,13 +9490,13 @@ imported:
     - 발음: 유영만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/70586_yuyeongman.wav
       형태: 유역만
-processed:
+result:
   맞춤법 검사:
     표제어: 유역
     품사: 명사
 ---
 000_KEYWORD: 유연성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70596
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9531,13 +9531,13 @@ imported:
     표제어: 유연성
     품사: 명사
     항목ID: 70596
-processed:
+result:
   맞춤법 검사:
     표제어: 유연성
     품사: 명사
 ---
 000_KEYWORD: 유연탄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70598
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9569,13 +9569,13 @@ imported:
     표제어: 유연탄
     품사: 명사
     항목ID: 70598
-processed:
+result:
   맞춤법 검사:
     표제어: 유연탄
     품사: 명사
 ---
 000_KEYWORD: 유연하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91792
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9617,13 +9617,13 @@ imported:
       형태: 유연하니
     - 발음: 유연함니다
       형태: 유연합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유연하다
     품사: 형용사
 ---
 000_KEYWORD: 유연하다__형용사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70605
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9661,13 +9661,13 @@ imported:
       형태: 유연하니
     - 발음: 유연함니다
       형태: 유연합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유연하다
     품사: 형용사
 ---
 000_KEYWORD: 유연히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70608
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9692,13 +9692,13 @@ imported:
     표제어: 유연히
     품사: 부사
     항목ID: 70608
-processed:
+result:
   맞춤법 검사:
     표제어: 유연히
     품사: 부사
 ---
 000_KEYWORD: 유연히__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70610
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9723,13 +9723,13 @@ imported:
     표제어: 유연히
     품사: 부사
     항목ID: 70610
-processed:
+result:
   맞춤법 검사:
     표제어: 유연히
     품사: 부사
 ---
 000_KEYWORD: 유영__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9740,13 +9740,13 @@ imported:
     표제어: 유영
     품사: 명사:보통:서술성
     항목ID: 20601
-processed:
+result:
   맞춤법 검사:
     표제어: 유영
     품사: 명사
 ---
 000_KEYWORD: 유영하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9756,13 +9756,13 @@ imported:
     표제어: 유영하다
     품사: 동사
     항목ID: 20602
-processed:
+result:
   맞춤법 검사:
     표제어: 유영하다
     품사: 동사
 ---
 000_KEYWORD: 유예__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70614
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9809,13 +9809,13 @@ imported:
     표제어: 유예
     품사: 명사
     항목ID: 70614
-processed:
+result:
   맞춤법 검사:
     표제어: 유예
     품사: 명사
 ---
 000_KEYWORD: 유예하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70616
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9866,13 +9866,13 @@ imported:
     표제어: 유예하다
     품사: 동사
     항목ID: 70616
-processed:
+result:
   맞춤법 검사:
     표제어: 유예하다
     품사: 동사
 ---
 000_KEYWORD: 유용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70618
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9903,13 +9903,13 @@ imported:
     표제어: 유용
     품사: 명사
     항목ID: 70618
-processed:
+result:
   맞춤법 검사:
     표제어: 유용
     품사: 명사
 ---
 000_KEYWORD: 유용__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70623
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9941,13 +9941,13 @@ imported:
     표제어: 유용
     품사: 명사
     항목ID: 70623
-processed:
+result:
   맞춤법 검사:
     표제어: 유용
     품사: 명사
 ---
 000_KEYWORD: 유용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70627
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9978,13 +9978,13 @@ imported:
     표제어: 유용되다
     품사: 동사
     항목ID: 70627
-processed:
+result:
   맞춤법 검사:
     표제어: 유용되다
     품사: 동사
 ---
 000_KEYWORD: 유용성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70629
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10022,13 +10022,13 @@ imported:
     표제어: 유용성
     품사: 명사
     항목ID: 70629
-processed:
+result:
   맞춤법 검사:
     표제어: 유용성
     품사: 명사
 ---
 000_KEYWORD: 유용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70631
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10058,13 +10058,13 @@ imported:
     표제어: 유용하다
     품사: 동사
     항목ID: 70631
-processed:
+result:
   맞춤법 검사:
     표제어: 유용하다
     품사: 동사
 ---
 000_KEYWORD: 유용하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70630
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10116,13 +10116,13 @@ imported:
       형태: 유용하니
     - 발음: 유ː용함니다
       형태: 유용합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유용하다
     품사: 형용사
 ---
 000_KEYWORD: 유원지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70632
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10158,13 +10158,13 @@ imported:
     표제어: 유원지
     품사: 명사
     항목ID: 70632
-processed:
+result:
   맞춤법 검사:
     표제어: 유원지
     품사: 명사
 ---
 000_KEYWORD: 유월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70633
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10201,13 +10201,13 @@ imported:
     표제어: 유월
     품사: 명사
     항목ID: 70633
-processed:
+result:
   맞춤법 검사:
     표제어: 유월
     품사: 명사
 ---
 000_KEYWORD: 유유상종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70634
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10237,13 +10237,13 @@ imported:
     표제어: 유유상종
     품사: 명사
     항목ID: 70634
-processed:
+result:
   맞춤법 검사:
     표제어: 유유상종
     품사: 명사
 ---
 000_KEYWORD: 유유상종하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70635
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10272,13 +10272,13 @@ imported:
     표제어: 유유상종하다
     품사: 동사
     항목ID: 70635
-processed:
+result:
   맞춤법 검사:
     표제어: 유유상종하다
     품사: 동사
 ---
 000_KEYWORD: 유유자적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70636
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10314,13 +10314,13 @@ imported:
     - 발음: 유유자정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70636_yuyujajeongman.wav
       형태: 유유자적만
-processed:
+result:
   맞춤법 검사:
     표제어: 유유자적
     품사: 명사
 ---
 000_KEYWORD: 유유자적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70637
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10349,13 +10349,13 @@ imported:
     표제어: 유유자적하다
     품사: 동사
     항목ID: 70637
-processed:
+result:
   맞춤법 검사:
     표제어: 유유자적하다
     품사: 동사
 ---
 000_KEYWORD: 유유하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70638
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10403,13 +10403,13 @@ imported:
       형태: 유유하니
     - 발음: 유유함니다
       형태: 유유합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유유하다
     품사: 형용사
 ---
 000_KEYWORD: 유유히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70639
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10448,13 +10448,13 @@ imported:
     표제어: 유유히
     품사: 부사
     항목ID: 70639
-processed:
+result:
   맞춤법 검사:
     표제어: 유유히
     품사: 부사
 ---
 000_KEYWORD: 유의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70640
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10484,13 +10484,13 @@ imported:
     표제어: 유의
     품사: 명사
     항목ID: 70640
-processed:
+result:
   맞춤법 검사:
     표제어: 유의
     품사: 명사
 ---
 000_KEYWORD: 유의미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70641
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10514,13 +10514,13 @@ imported:
     표제어: 유의미
     품사: 명사
     항목ID: 70641
-processed:
+result:
   맞춤법 검사:
     표제어: 유의미
     품사: 명사
 ---
 000_KEYWORD: 유의미하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10529,13 +10529,13 @@ imported:
     표제어: 유의미하다
     품사: 형용사
     항목ID: 20613
-processed:
+result:
   맞춤법 검사:
     표제어: 유의미하다
     품사: 형용사
 ---
 000_KEYWORD: 유의어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70642
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10565,13 +10565,13 @@ imported:
     표제어: 유의어
     품사: 명사
     항목ID: 70642
-processed:
+result:
   맞춤법 검사:
     표제어: 유의어
     품사: 명사
 ---
 000_KEYWORD: 유의하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27113
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10604,13 +10604,13 @@ imported:
     표제어: 유의하다
     품사: 동사
     항목ID: 27113
-processed:
+result:
   맞춤법 검사:
     표제어: 유의하다
     품사: 동사
 ---
 000_KEYWORD: 유익__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70643
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10649,13 +10649,13 @@ imported:
     - 발음: 유ː잉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70643_yu-ingman.wav
       형태: 유익만
-processed:
+result:
   맞춤법 검사:
     표제어: 유익
     품사: 명사
 ---
 000_KEYWORD: 유익하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70644
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10703,13 +10703,13 @@ imported:
       형태: 유익하니
     - 발음: 유ː이캄니다
       형태: 유익합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유익하다
     품사: 형용사
 ---
 000_KEYWORD: 유인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70645
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10737,13 +10737,13 @@ imported:
     표제어: 유인
     품사: 명사
     항목ID: 70645
-processed:
+result:
   맞춤법 검사:
     표제어: 유인
     품사: 명사
 ---
 000_KEYWORD: 유인__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70646
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10773,13 +10773,13 @@ imported:
     표제어: 유인
     품사: 명사
     항목ID: 70646
-processed:
+result:
   맞춤법 검사:
     표제어: 유인
     품사: 명사
 ---
 000_KEYWORD: 유인되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70079
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10810,13 +10810,13 @@ imported:
     표제어: 유인되다
     품사: 동사
     항목ID: 70079
-processed:
+result:
   맞춤법 검사:
     표제어: 유인되다
     품사: 동사
 ---
 000_KEYWORD: 유인물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70080
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10845,13 +10845,13 @@ imported:
     표제어: 유인물
     품사: 명사
     항목ID: 70080
-processed:
+result:
   맞춤법 검사:
     표제어: 유인물
     품사: 명사
 ---
 000_KEYWORD: 유인원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70081
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10878,13 +10878,13 @@ imported:
     표제어: 유인원
     품사: 명사
     항목ID: 70081
-processed:
+result:
   맞춤법 검사:
     표제어: 유인원
     품사: 명사
 ---
 000_KEYWORD: 유인하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70082
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10914,13 +10914,13 @@ imported:
     표제어: 유인하다
     품사: 동사
     항목ID: 70082
-processed:
+result:
   맞춤법 검사:
     표제어: 유인하다
     품사: 동사
 ---
 000_KEYWORD: 유일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70083
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10950,13 +10950,13 @@ imported:
     표제어: 유일
     품사: 명사
     항목ID: 70083
-processed:
+result:
   맞춤법 검사:
     표제어: 유일
     품사: 명사
 ---
 000_KEYWORD: 유일무이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70085
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10984,13 +10984,13 @@ imported:
     표제어: 유일무이
     품사: 명사
     항목ID: 70085
-processed:
+result:
   맞춤법 검사:
     표제어: 유일무이
     품사: 명사
 ---
 000_KEYWORD: 유일무이하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70086
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11031,13 +11031,13 @@ imported:
       형태: 유일무이하니
     - 발음: 유일무이함니다
       형태: 유일무이합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유일무이하다
     품사: 형용사
 ---
 000_KEYWORD: 유일신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70088
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11066,13 +11066,13 @@ imported:
     표제어: 유일신
     품사: 명사
     항목ID: 70088
-processed:
+result:
   맞춤법 검사:
     표제어: 유일신
     품사: 명사
 ---
 000_KEYWORD: 유일신교__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11082,13 +11082,13 @@ imported:
     표제어: 유일신교
     품사: 명사:보통:서술성
     항목ID: 20623
-processed:
+result:
   맞춤법 검사:
     표제어: 유일신교
     품사: 명사
 ---
 000_KEYWORD: 유일하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70084
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11129,13 +11129,13 @@ imported:
       형태: 유일하니
     - 발음: 유일함니다
       형태: 유일합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유일하다
     품사: 형용사
 ---
 000_KEYWORD: 유임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70135
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11164,13 +11164,13 @@ imported:
     표제어: 유임
     품사: 명사
     항목ID: 70135
-processed:
+result:
   맞춤법 검사:
     표제어: 유임
     품사: 명사
 ---
 000_KEYWORD: 유임되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70136
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11202,13 +11202,13 @@ imported:
     표제어: 유임되다
     품사: 동사
     항목ID: 70136
-processed:
+result:
   맞춤법 검사:
     표제어: 유임되다
     품사: 동사
 ---
 000_KEYWORD: 유임하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70137
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11238,13 +11238,13 @@ imported:
     표제어: 유임하다
     품사: 동사
     항목ID: 70137
-processed:
+result:
   맞춤법 검사:
     표제어: 유임하다
     품사: 동사
 ---
 000_KEYWORD: 유입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70401
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11336,13 +11336,13 @@ imported:
     - 발음: 유임만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70401_yuimman.wav
       형태: 유입만
-processed:
+result:
   맞춤법 검사:
     표제어: 유입
     품사: 명사
 ---
 000_KEYWORD: 유입되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70400
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11428,13 +11428,13 @@ imported:
     표제어: 유입되다
     품사: 동사
     항목ID: 70400
-processed:
+result:
   맞춤법 검사:
     표제어: 유입되다
     품사: 동사
 ---
 000_KEYWORD: 유입하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70402
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11516,13 +11516,13 @@ imported:
     표제어: 유입하다
     품사: 동사
     항목ID: 70402
-processed:
+result:
   맞춤법 검사:
     표제어: 유입하다
     품사: 동사
 ---
 000_KEYWORD: 유자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70138
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11554,13 +11554,13 @@ imported:
     표제어: 유자
     품사: 명사
     항목ID: 70138
-processed:
+result:
   맞춤법 검사:
     표제어: 유자
     품사: 명사
 ---
 000_KEYWORD: 유자차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70139
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11590,13 +11590,13 @@ imported:
     표제어: 유자차
     품사: 명사
     항목ID: 70139
-processed:
+result:
   맞춤법 검사:
     표제어: 유자차
     품사: 명사
 ---
 000_KEYWORD: 유작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70140
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11635,13 +11635,13 @@ imported:
     - 발음: 유장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70140_yujangman.wav
       형태: 유작만
-processed:
+result:
   맞춤법 검사:
     표제어: 유작
     품사: 명사
 ---
 000_KEYWORD: 유장하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70144
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11691,13 +11691,13 @@ imported:
       형태: 유장하니
     - 발음: 유장함니다
       형태: 유장합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유장하다
     품사: 형용사
 ---
 000_KEYWORD: 유적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27111
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11749,13 +11749,13 @@ imported:
     - 발음: 유정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/27111_yujeongman.wav
       형태: 유적만
-processed:
+result:
   맞춤법 검사:
     표제어: 유적
     품사: 명사
 ---
 000_KEYWORD: 유적지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27098
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11787,13 +11787,13 @@ imported:
     표제어: 유적지
     품사: 명사
     항목ID: 27098
-processed:
+result:
   맞춤법 검사:
     표제어: 유적지
     품사: 명사
 ---
 000_KEYWORD: 유전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70152
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11820,13 +11820,13 @@ imported:
     표제어: 유전
     품사: 명사
     항목ID: 70152
-processed:
+result:
   맞춤법 검사:
     표제어: 유전
     품사: 명사
 ---
 000_KEYWORD: 유전__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70201
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11868,13 +11868,13 @@ imported:
     표제어: 유전
     품사: 명사
     항목ID: 70201
-processed:
+result:
   맞춤법 검사:
     표제어: 유전
     품사: 명사
 ---
 000_KEYWORD: 유전되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70202
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11916,13 +11916,13 @@ imported:
     표제어: 유전되다
     품사: 동사
     항목ID: 70202
-processed:
+result:
   맞춤법 검사:
     표제어: 유전되다
     품사: 동사
 ---
 000_KEYWORD: 유전병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70203
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11953,13 +11953,13 @@ imported:
     표제어: 유전병
     품사: 명사
     항목ID: 70203
-processed:
+result:
   맞춤법 검사:
     표제어: 유전병
     품사: 명사
 ---
 000_KEYWORD: 유전자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70204
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11994,13 +11994,13 @@ imported:
     표제어: 유전자
     품사: 명사
     항목ID: 70204
-processed:
+result:
   맞춤법 검사:
     표제어: 유전자
     품사: 명사
 ---
 000_KEYWORD: 유전적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70343
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12028,13 +12028,13 @@ imported:
     표제어: 유전적
     품사: 관형사
     항목ID: 70343
-processed:
+result:
   맞춤법 검사:
     표제어: 유전적
     품사: 관형사
 ---
 000_KEYWORD: 유전적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70342
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12062,13 +12062,13 @@ imported:
     표제어: 유전적
     품사: 명사
     항목ID: 70342
-processed:
+result:
   맞춤법 검사:
     표제어: 유전적
     품사: 명사
 ---
 000_KEYWORD: 유전체__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12077,13 +12077,13 @@ imported:
     표제어: 유전체
     품사: 명사:보통:비서술성
     항목ID: 20637
-processed:
+result:
   맞춤법 검사:
     표제어: 유전체
     품사: 명사
 ---
 000_KEYWORD: 유전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70206
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12121,13 +12121,13 @@ imported:
     표제어: 유전하다
     품사: 동사
     항목ID: 70206
-processed:
+result:
   맞춤법 검사:
     표제어: 유전하다
     품사: 동사
 ---
 000_KEYWORD: 유전학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70346
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12164,13 +12164,13 @@ imported:
     - 발음: 유전항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70346_yujeonhangman.wav
       형태: 유전학만
-processed:
+result:
   맞춤법 검사:
     표제어: 유전학
     품사: 명사
 ---
 000_KEYWORD: 유제품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70348
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12198,13 +12198,13 @@ imported:
     표제어: 유제품
     품사: 명사
     항목ID: 70348
-processed:
+result:
   맞춤법 검사:
     표제어: 유제품
     품사: 명사
 ---
 000_KEYWORD: 유조선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70349
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12235,13 +12235,13 @@ imported:
     표제어: 유조선
     품사: 명사
     항목ID: 70349
-processed:
+result:
   맞춤법 검사:
     표제어: 유조선
     품사: 명사
 ---
 000_KEYWORD: 유조차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70350
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12273,13 +12273,13 @@ imported:
     표제어: 유조차
     품사: 명사
     항목ID: 70350
-processed:
+result:
   맞춤법 검사:
     표제어: 유조차
     품사: 명사
 ---
 000_KEYWORD: 유족__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70351
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12322,13 +12322,13 @@ imported:
     - 발음: 유종만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70351_yujongman.wav
       형태: 유족만
-processed:
+result:
   맞춤법 검사:
     표제어: 유족
     품사: 명사
 ---
 000_KEYWORD: 유종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70362
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12345,13 +12345,13 @@ imported:
     표제어: 유종
     품사: 명사
     항목ID: 70362
-processed:
+result:
   맞춤법 검사:
     표제어: 유종
     품사: 명사
 ---
 000_KEYWORD: 유죄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70360
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12400,13 +12400,13 @@ imported:
     표제어: 유죄
     품사: 명사
     항목ID: 70360
-processed:
+result:
   맞춤법 검사:
     표제어: 유죄
     품사: 명사
 ---
 000_KEYWORD: 유증하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12416,13 +12416,13 @@ imported:
     표제어: 유증하다
     품사: 동사
     항목ID: 20644
-processed:
+result:
   맞춤법 검사:
     표제어: 유증하다
     품사: 동사
 ---
 000_KEYWORD: 유지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70363
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12453,13 +12453,13 @@ imported:
     표제어: 유지
     품사: 명사
     항목ID: 70363
-processed:
+result:
   맞춤법 검사:
     표제어: 유지
     품사: 명사
 ---
 000_KEYWORD: 유지__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70375
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12488,13 +12488,13 @@ imported:
     표제어: 유지
     품사: 명사
     항목ID: 70375
-processed:
+result:
   맞춤법 검사:
     표제어: 유지
     품사: 명사
 ---
 000_KEYWORD: 유지되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27110
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12528,13 +12528,13 @@ imported:
     표제어: 유지되다
     품사: 동사
     항목ID: 27110
-processed:
+result:
   맞춤법 검사:
     표제어: 유지되다
     품사: 동사
 ---
 000_KEYWORD: 유지류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70387
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12561,13 +12561,13 @@ imported:
     표제어: 유지류
     품사: 명사
     항목ID: 70387
-processed:
+result:
   맞춤법 검사:
     표제어: 유지류
     품사: 명사
 ---
 000_KEYWORD: 유지방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70389
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12595,13 +12595,13 @@ imported:
     표제어: 유지방
     품사: 명사
     항목ID: 70389
-processed:
+result:
   맞춤법 검사:
     표제어: 유지방
     품사: 명사
 ---
 000_KEYWORD: 유지비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70390
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12629,13 +12629,13 @@ imported:
     표제어: 유지비
     품사: 명사
     항목ID: 70390
-processed:
+result:
   맞춤법 검사:
     표제어: 유지비
     품사: 명사
 ---
 000_KEYWORD: 유지하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27108
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12666,13 +12666,13 @@ imported:
     표제어: 유지하다
     품사: 동사
     항목ID: 27108
-processed:
+result:
   맞춤법 검사:
     표제어: 유지하다
     품사: 동사
 ---
 000_KEYWORD: 유착__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70391
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12725,13 +12725,13 @@ imported:
     - 발음: 유창만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70391_yuchangman.wav
       형태: 유착만
-processed:
+result:
   맞춤법 검사:
     표제어: 유착
     품사: 명사
 ---
 000_KEYWORD: 유착되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70393
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12778,13 +12778,13 @@ imported:
     표제어: 유착되다
     품사: 동사
     항목ID: 70393
-processed:
+result:
   맞춤법 검사:
     표제어: 유착되다
     품사: 동사
 ---
 000_KEYWORD: 유착하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70395
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12829,13 +12829,13 @@ imported:
     표제어: 유착하다
     품사: 동사
     항목ID: 70395
-processed:
+result:
   맞춤법 검사:
     표제어: 유착하다
     품사: 동사
 ---
 000_KEYWORD: 유찰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91075
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12869,13 +12869,13 @@ imported:
     표제어: 유찰
     품사: 명사
     항목ID: 91075
-processed:
+result:
   맞춤법 검사:
     표제어: 유찰
     품사: 명사
 ---
 000_KEYWORD: 유찰되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91076
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12900,13 +12900,13 @@ imported:
     표제어: 유찰되다
     품사: 동사
     항목ID: 91076
-processed:
+result:
   맞춤법 검사:
     표제어: 유찰되다
     품사: 동사
 ---
 000_KEYWORD: 유찰하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91077
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12929,13 +12929,13 @@ imported:
     표제어: 유찰하다
     품사: 동사
     항목ID: 91077
-processed:
+result:
   맞춤법 검사:
     표제어: 유찰하다
     품사: 동사
 ---
 000_KEYWORD: 유창성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70409
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12965,13 +12965,13 @@ imported:
     표제어: 유창성
     품사: 명사
     항목ID: 70409
-processed:
+result:
   맞춤법 검사:
     표제어: 유창성
     품사: 명사
 ---
 000_KEYWORD: 유창하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70410
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13013,13 +13013,13 @@ imported:
       형태: 유창하니
     - 발음: 유창함니다
       형태: 유창합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유창하다
     품사: 형용사
 ---
 000_KEYWORD: 유채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70417
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13066,13 +13066,13 @@ imported:
     표제어: 유채
     품사: 명사
     항목ID: 70417
-processed:
+result:
   맞춤법 검사:
     표제어: 유채
     품사: 명사
 ---
 000_KEYWORD: 유채__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70412
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13101,13 +13101,13 @@ imported:
     표제어: 유채
     품사: 명사
     항목ID: 70412
-processed:
+result:
   맞춤법 검사:
     표제어: 유채
     품사: 명사
 ---
 000_KEYWORD: 유채색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70207
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13150,13 +13150,13 @@ imported:
     - 발음: 유ː채생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70207_yu-chaesaengman.wav
       형태: 유채색만
-processed:
+result:
   맞춤법 검사:
     표제어: 유채색
     품사: 명사
 ---
 000_KEYWORD: 유채화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13166,13 +13166,13 @@ imported:
     표제어: 유채화
     품사: 명사:보통:비서술성
     항목ID: 20653
-processed:
+result:
   맞춤법 검사:
     표제어: 유채화
     품사: 명사
 ---
 000_KEYWORD: 유체__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13182,13 +13182,13 @@ imported:
     표제어: 유체
     품사: 명사:보통:서술성
     항목ID: 20654
-processed:
+result:
   맞춤법 검사:
     표제어: 유체
     품사: 명사
 ---
 000_KEYWORD: 유추__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70208
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13216,13 +13216,13 @@ imported:
     표제어: 유추
     품사: 명사
     항목ID: 70208
-processed:
+result:
   맞춤법 검사:
     표제어: 유추
     품사: 명사
 ---
 000_KEYWORD: 유추되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70209
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13253,13 +13253,13 @@ imported:
     표제어: 유추되다
     품사: 동사
     항목ID: 70209
-processed:
+result:
   맞춤법 검사:
     표제어: 유추되다
     품사: 동사
 ---
 000_KEYWORD: 유추하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70210
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13288,13 +13288,13 @@ imported:
     표제어: 유추하다
     품사: 동사
     항목ID: 70210
-processed:
+result:
   맞춤법 검사:
     표제어: 유추하다
     품사: 동사
 ---
 000_KEYWORD: 유출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70211
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13344,13 +13344,13 @@ imported:
     표제어: 유출
     품사: 명사
     항목ID: 70211
-processed:
+result:
   맞춤법 검사:
     표제어: 유출
     품사: 명사
 ---
 000_KEYWORD: 유출되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70213
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13399,13 +13399,13 @@ imported:
     표제어: 유출되다
     품사: 동사
     항목ID: 70213
-processed:
+result:
   맞춤법 검사:
     표제어: 유출되다
     품사: 동사
 ---
 000_KEYWORD: 유출하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70214
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13446,13 +13446,13 @@ imported:
     표제어: 유출하다
     품사: 동사
     항목ID: 70214
-processed:
+result:
   맞춤법 검사:
     표제어: 유출하다
     품사: 동사
 ---
 000_KEYWORD: 유충__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70215
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13492,13 +13492,13 @@ imported:
     표제어: 유충
     품사: 명사
     항목ID: 70215
-processed:
+result:
   맞춤법 검사:
     표제어: 유충
     품사: 명사
 ---
 000_KEYWORD: 유취만년__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13508,13 +13508,13 @@ imported:
     표제어: 유취만년
     품사: 명사:보통:서술성
     항목ID: 20661
-processed:
+result:
   맞춤법 검사:
     표제어: 유취만년
     품사: 명사
 ---
 000_KEYWORD: 유치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70217
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13546,13 +13546,13 @@ imported:
     표제어: 유치
     품사: 명사
     항목ID: 70217
-processed:
+result:
   맞춤법 검사:
     표제어: 유치
     품사: 명사
 ---
 000_KEYWORD: 유치__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70219
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13588,13 +13588,13 @@ imported:
     표제어: 유치
     품사: 명사
     항목ID: 70219
-processed:
+result:
   맞춤법 검사:
     표제어: 유치
     품사: 명사
 ---
 000_KEYWORD: 유치되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70221
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13627,13 +13627,13 @@ imported:
     표제어: 유치되다
     품사: 동사
     항목ID: 70221
-processed:
+result:
   맞춤법 검사:
     표제어: 유치되다
     품사: 동사
 ---
 000_KEYWORD: 유치원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70222
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13668,13 +13668,13 @@ imported:
     표제어: 유치원
     품사: 명사
     항목ID: 70222
-processed:
+result:
   맞춤법 검사:
     표제어: 유치원
     품사: 명사
 ---
 000_KEYWORD: 유치원생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70223
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13702,13 +13702,13 @@ imported:
     표제어: 유치원생
     품사: 명사
     항목ID: 70223
-processed:
+result:
   맞춤법 검사:
     표제어: 유치원생
     품사: 명사
 ---
 000_KEYWORD: 유치장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70225
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13736,13 +13736,13 @@ imported:
     표제어: 유치장
     품사: 명사
     항목ID: 70225
-processed:
+result:
   맞춤법 검사:
     표제어: 유치장
     품사: 명사
 ---
 000_KEYWORD: 유치하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70226
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13784,13 +13784,13 @@ imported:
       형태: 유치하니
     - 발음: 유치함니다
       형태: 유치합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유치하다
     품사: 동사
 ---
 000_KEYWORD: 유치하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93478
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13844,13 +13844,13 @@ imported:
       형태: 유치하니
     - 발음: 유치함니다
       형태: 유치합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유치하다
     품사: 형용사
 ---
 000_KEYWORD: 유카탄반도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13860,13 +13860,13 @@ imported:
     표제어: 유카탄반도
     품사: 명사:보통:서술성
     항목ID: 20668
-processed:
+result:
   맞춤법 검사:
     표제어: 유카탄반도
     품사: 명사
 ---
 000_KEYWORD: 유쾌하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70227
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13913,13 +13913,13 @@ imported:
       형태: 유쾌하니
     - 발음: 유쾌함니다
       형태: 유쾌합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유쾌하다
     품사: 형용사
 ---
 000_KEYWORD: 유쾌히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70228
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13947,13 +13947,13 @@ imported:
     표제어: 유쾌히
     품사: 부사
     항목ID: 70228
-processed:
+result:
   맞춤법 검사:
     표제어: 유쾌히
     품사: 부사
 ---
 000_KEYWORD: 유탄__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13962,13 +13962,13 @@ imported:
     표제어: 유탄
     품사: 명사:보통:비서술성
     항목ID: 20670
-processed:
+result:
   맞춤법 검사:
     표제어: 유탄
     품사: 명사
 ---
 000_KEYWORD: 유태인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13978,13 +13978,13 @@ imported:
     표제어: 유태인
     품사: 명사:보통:비서술성
     항목ID: 20671
-processed:
+result:
   맞춤법 검사:
     표제어: 유태인
     품사: 명사
 ---
 000_KEYWORD: 유턴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70229
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14010,13 +14010,13 @@ imported:
     표제어: 유턴
     품사: 명사
     항목ID: 70229
-processed:
+result:
   맞춤법 검사:
     표제어: 유턴
     품사: 명사
 ---
 000_KEYWORD: 유턴하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70230
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14043,13 +14043,13 @@ imported:
     표제어: 유턴하다
     품사: 동사
     항목ID: 70230
-processed:
+result:
   맞춤법 검사:
     표제어: 유턴하다
     품사: 동사
 ---
 000_KEYWORD: 유토피아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70231
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14080,13 +14080,13 @@ imported:
     표제어: 유토피아
     품사: 명사
     항목ID: 70231
-processed:
+result:
   맞춤법 검사:
     표제어: 유토피아
     품사: 명사
 ---
 000_KEYWORD: 유통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70233
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14143,13 +14143,13 @@ imported:
     표제어: 유통
     품사: 명사
     항목ID: 70233
-processed:
+result:
   맞춤법 검사:
     표제어: 유통
     품사: 명사
 ---
 000_KEYWORD: 유통기한__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14159,13 +14159,13 @@ imported:
     표제어: 유통기한
     품사: 명사:보통:서술성
     항목ID: 20676
-processed:
+result:
   맞춤법 검사:
     표제어: 유통기한
     품사: 명사
 ---
 000_KEYWORD: 유통되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70235
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14222,13 +14222,13 @@ imported:
     표제어: 유통되다
     품사: 동사
     항목ID: 70235
-processed:
+result:
   맞춤법 검사:
     표제어: 유통되다
     품사: 동사
 ---
 000_KEYWORD: 유통망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70236
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14256,13 +14256,13 @@ imported:
     표제어: 유통망
     품사: 명사
     항목ID: 70236
-processed:
+result:
   맞춤법 검사:
     표제어: 유통망
     품사: 명사
 ---
 000_KEYWORD: 유통사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14271,13 +14271,13 @@ imported:
     표제어: 유통사
     품사: 명사:보통:비서술성
     항목ID: 20679
-processed:
+result:
   맞춤법 검사:
     표제어: 유통사
     품사: 명사
 ---
 000_KEYWORD: 유통업__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14286,13 +14286,13 @@ imported:
     표제어: 유통업
     품사: 명사:보통:서술성
     항목ID: 20680
-processed:
+result:
   맞춤법 검사:
     표제어: 유통업
     품사: 명사
 ---
 000_KEYWORD: 유통업자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14301,13 +14301,13 @@ imported:
     표제어: 유통업자
     품사: 명사:보통:비서술성
     항목ID: 20681
-processed:
+result:
   맞춤법 검사:
     표제어: 유통업자
     품사: 명사
 ---
 000_KEYWORD: 유통업체__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14316,13 +14316,13 @@ imported:
     표제어: 유통업체
     품사: 명사:보통:비서술성
     항목ID: 20682
-processed:
+result:
   맞춤법 검사:
     표제어: 유통업체
     품사: 명사
 ---
 000_KEYWORD: 유통하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70237
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14377,13 +14377,13 @@ imported:
     표제어: 유통하다
     품사: 동사
     항목ID: 70237
-processed:
+result:
   맞춤법 검사:
     표제어: 유통하다
     품사: 동사
 ---
 000_KEYWORD: 유파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70238
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14411,13 +14411,13 @@ imported:
     표제어: 유파
     품사: 명사
     항목ID: 70238
-processed:
+result:
   맞춤법 검사:
     표제어: 유파
     품사: 명사
 ---
 000_KEYWORD: 유폐__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14428,13 +14428,13 @@ imported:
     표제어: 유폐
     품사: 명사:보통:서술성
     항목ID: 20684
-processed:
+result:
   맞춤법 검사:
     표제어: 유폐
     품사: 명사
 ---
 000_KEYWORD: 유폐되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14444,13 +14444,13 @@ imported:
     표제어: 유폐되다
     품사: 동사
     항목ID: 20685
-processed:
+result:
   맞춤법 검사:
     표제어: 유폐되다
     품사: 동사
 ---
 000_KEYWORD: 유포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70239
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14482,13 +14482,13 @@ imported:
     표제어: 유포
     품사: 명사
     항목ID: 70239
-processed:
+result:
   맞춤법 검사:
     표제어: 유포
     품사: 명사
 ---
 000_KEYWORD: 유포되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70240
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14520,13 +14520,13 @@ imported:
     표제어: 유포되다
     품사: 동사
     항목ID: 70240
-processed:
+result:
   맞춤법 검사:
     표제어: 유포되다
     품사: 동사
 ---
 000_KEYWORD: 유포자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14535,13 +14535,13 @@ imported:
     표제어: 유포자
     품사: 명사:보통:비서술성
     항목ID: 20688
-processed:
+result:
   맞춤법 검사:
     표제어: 유포자
     품사: 명사
 ---
 000_KEYWORD: 유포하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70241
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14571,13 +14571,13 @@ imported:
     표제어: 유포하다
     품사: 동사
     항목ID: 70241
-processed:
+result:
   맞춤법 검사:
     표제어: 유포하다
     품사: 동사
 ---
 000_KEYWORD: 유폭__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14588,13 +14588,13 @@ imported:
     표제어: 유폭
     품사: 명사:보통:서술성
     항목ID: 20690
-processed:
+result:
   맞춤법 검사:
     표제어: 유폭
     품사: 명사
 ---
 000_KEYWORD: 유품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70242
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14626,13 +14626,13 @@ imported:
     표제어: 유품
     품사: 명사
     항목ID: 70242
-processed:
+result:
   맞춤법 검사:
     표제어: 유품
     품사: 명사
 ---
 000_KEYWORD: 유하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70243
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14678,13 +14678,13 @@ imported:
       형태: 유하니
     - 발음: 유함니다
       형태: 유합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유하다
     품사: 형용사
 ---
 000_KEYWORD: 유학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70244
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14725,13 +14725,13 @@ imported:
     - 발음: 유항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70244_yuhangman.wav
       형태: 유학만
-processed:
+result:
   맞춤법 검사:
     표제어: 유학
     품사: 명사
 ---
 000_KEYWORD: 유학__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70245
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14769,13 +14769,13 @@ imported:
     - 발음: 유항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70244_yuhangman.wav
       형태: 유학만
-processed:
+result:
   맞춤법 검사:
     표제어: 유학
     품사: 명사
 ---
 000_KEYWORD: 유학__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70246
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14815,13 +14815,13 @@ imported:
     - 발음: 유항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70244_yuhangman.wav
       형태: 유학만
-processed:
+result:
   맞춤법 검사:
     표제어: 유학
     품사: 명사
 ---
 000_KEYWORD: 유학생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70247
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14854,13 +14854,13 @@ imported:
     표제어: 유학생
     품사: 명사
     항목ID: 70247
-processed:
+result:
   맞춤법 검사:
     표제어: 유학생
     품사: 명사
 ---
 000_KEYWORD: 유학파__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14869,13 +14869,13 @@ imported:
     표제어: 유학파
     품사: 명사:보통:비서술성
     항목ID: 20694
-processed:
+result:
   맞춤법 검사:
     표제어: 유학파
     품사: 명사
 ---
 000_KEYWORD: 유학하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70248
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14904,13 +14904,13 @@ imported:
     표제어: 유학하다
     품사: 동사
     항목ID: 70248
-processed:
+result:
   맞춤법 검사:
     표제어: 유학하다
     품사: 동사
 ---
 000_KEYWORD: 유한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70249
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14942,13 +14942,13 @@ imported:
     표제어: 유한
     품사: 명사
     항목ID: 70249
-processed:
+result:
   맞춤법 검사:
     표제어: 유한
     품사: 명사
 ---
 000_KEYWORD: 유한하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70250
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14992,13 +14992,13 @@ imported:
       형태: 유한하니
     - 발음: 유ː한함니다
       형태: 유한합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유한하다
     품사: 형용사
 ---
 000_KEYWORD: 유해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70335
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15030,13 +15030,13 @@ imported:
     표제어: 유해
     품사: 명사
     항목ID: 70335
-processed:
+result:
   맞춤법 검사:
     표제어: 유해
     품사: 명사
 ---
 000_KEYWORD: 유해물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70344
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15077,13 +15077,13 @@ imported:
     표제어: 유해물
     품사: 명사
     항목ID: 70344
-processed:
+result:
   맞춤법 검사:
     표제어: 유해물
     품사: 명사
 ---
 000_KEYWORD: 유해성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15092,13 +15092,13 @@ imported:
     표제어: 유해성
     품사: 명사:보통:서술성
     항목ID: 20698
-processed:
+result:
   맞춤법 검사:
     표제어: 유해성
     품사: 명사
 ---
 000_KEYWORD: 유해하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70952
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15143,13 +15143,13 @@ imported:
       형태: 유해하니
     - 발음: 유ː해함니다
       형태: 유해합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유해하다
     품사: 형용사
 ---
 000_KEYWORD: 유행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70900
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15201,13 +15201,13 @@ imported:
     표제어: 유행
     품사: 명사
     항목ID: 70900
-processed:
+result:
   맞춤법 검사:
     표제어: 유행
     품사: 명사
 ---
 000_KEYWORD: 유행가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70899
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15238,13 +15238,13 @@ imported:
     표제어: 유행가
     품사: 명사
     항목ID: 70899
-processed:
+result:
   맞춤법 검사:
     표제어: 유행가
     품사: 명사
 ---
 000_KEYWORD: 유행되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71018
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15289,13 +15289,13 @@ imported:
     표제어: 유행되다
     품사: 동사
     항목ID: 71018
-processed:
+result:
   맞춤법 검사:
     표제어: 유행되다
     품사: 동사
 ---
 000_KEYWORD: 유행병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71019
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15344,13 +15344,13 @@ imported:
     표제어: 유행병
     품사: 명사
     항목ID: 71019
-processed:
+result:
   맞춤법 검사:
     표제어: 유행병
     품사: 명사
 ---
 000_KEYWORD: 유행성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71021
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15379,13 +15379,13 @@ imported:
     표제어: 유행성
     품사: 명사
     항목ID: 71021
-processed:
+result:
   맞춤법 검사:
     표제어: 유행성
     품사: 명사
 ---
 000_KEYWORD: 유행어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71022
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15420,13 +15420,13 @@ imported:
     표제어: 유행어
     품사: 명사
     항목ID: 71022
-processed:
+result:
   맞춤법 검사:
     표제어: 유행어
     품사: 명사
 ---
 000_KEYWORD: 유행하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62366
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15483,13 +15483,13 @@ imported:
     표제어: 유행하다
     품사: 동사
     항목ID: 62366
-processed:
+result:
   맞춤법 검사:
     표제어: 유행하다
     품사: 동사
 ---
 000_KEYWORD: 유혈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70818
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15522,13 +15522,13 @@ imported:
     표제어: 유혈
     품사: 명사
     항목ID: 70818
-processed:
+result:
   맞춤법 검사:
     표제어: 유혈
     품사: 명사
 ---
 000_KEYWORD: 유형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71023
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15560,13 +15560,13 @@ imported:
     표제어: 유형
     품사: 명사
     항목ID: 71023
-processed:
+result:
   맞춤법 검사:
     표제어: 유형
     품사: 명사
 ---
 000_KEYWORD: 유형__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27107
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15601,13 +15601,13 @@ imported:
     표제어: 유형
     품사: 명사
     항목ID: 27107
-processed:
+result:
   맞춤법 검사:
     표제어: 유형
     품사: 명사
 ---
 000_KEYWORD: 유형무형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70943
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15635,13 +15635,13 @@ imported:
     표제어: 유형무형
     품사: 명사
     항목ID: 70943
-processed:
+result:
   맞춤법 검사:
     표제어: 유형무형
     품사: 명사
 ---
 000_KEYWORD: 유형성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70822
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15670,13 +15670,13 @@ imported:
     표제어: 유형성
     품사: 명사
     항목ID: 70822
-processed:
+result:
   맞춤법 검사:
     표제어: 유형성
     품사: 명사
 ---
 000_KEYWORD: 유형적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71026
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15704,13 +15704,13 @@ imported:
     표제어: 유형적
     품사: 관형사
     항목ID: 71026
-processed:
+result:
   맞춤법 검사:
     표제어: 유형적
     품사: 관형사
 ---
 000_KEYWORD: 유형적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71027
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15738,13 +15738,13 @@ imported:
     표제어: 유형적
     품사: 명사
     항목ID: 71027
-processed:
+result:
   맞춤법 검사:
     표제어: 유형적
     품사: 명사
 ---
 000_KEYWORD: 유형화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71029
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15772,13 +15772,13 @@ imported:
     표제어: 유형화
     품사: 명사
     항목ID: 71029
-processed:
+result:
   맞춤법 검사:
     표제어: 유형화
     품사: 명사
 ---
 000_KEYWORD: 유형화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71036
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15809,13 +15809,13 @@ imported:
     표제어: 유형화되다
     품사: 동사
     항목ID: 71036
-processed:
+result:
   맞춤법 검사:
     표제어: 유형화되다
     품사: 동사
 ---
 000_KEYWORD: 유형화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71037
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15844,13 +15844,13 @@ imported:
     표제어: 유형화하다
     품사: 동사
     항목ID: 71037
-processed:
+result:
   맞춤법 검사:
     표제어: 유형화하다
     품사: 동사
 ---
 000_KEYWORD: 유혹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71080
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15908,13 +15908,13 @@ imported:
     - 발음: 유홍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71080_yuhongman.wav
       형태: 유혹만
-processed:
+result:
   맞춤법 검사:
     표제어: 유혹
     품사: 명사
 ---
 000_KEYWORD: 유혹당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85394
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15957,13 +15957,13 @@ imported:
     표제어: 유혹당하다
     품사: 동사
     항목ID: 85394
-processed:
+result:
   맞춤법 검사:
     표제어: 유혹당하다
     품사: 동사
 ---
 000_KEYWORD: 유혹되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71084
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16008,13 +16008,13 @@ imported:
     표제어: 유혹되다
     품사: 동사
     항목ID: 71084
-processed:
+result:
   맞춤법 검사:
     표제어: 유혹되다
     품사: 동사
 ---
 000_KEYWORD: 유혹적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71090
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16054,13 +16054,13 @@ imported:
     표제어: 유혹적
     품사: 관형사
     항목ID: 71090
-processed:
+result:
   맞춤법 검사:
     표제어: 유혹적
     품사: 관형사
 ---
 000_KEYWORD: 유혹적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71091
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16103,13 +16103,13 @@ imported:
     표제어: 유혹적
     품사: 명사
     항목ID: 71091
-processed:
+result:
   맞춤법 검사:
     표제어: 유혹적
     품사: 명사
 ---
 000_KEYWORD: 유혹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71085
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16152,13 +16152,13 @@ imported:
     표제어: 유혹하다
     품사: 동사
     항목ID: 71085
-processed:
+result:
   맞춤법 검사:
     표제어: 유혹하다
     품사: 동사
 ---
 000_KEYWORD: 유화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70884
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16199,13 +16199,13 @@ imported:
     표제어: 유화
     품사: 명사
     항목ID: 70884
-processed:
+result:
   맞춤법 검사:
     표제어: 유화
     품사: 명사
 ---
 000_KEYWORD: 유화__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70885
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16233,13 +16233,13 @@ imported:
     표제어: 유화
     품사: 명사
     항목ID: 70885
-processed:
+result:
   맞춤법 검사:
     표제어: 유화
     품사: 명사
 ---
 000_KEYWORD: 유화구__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16250,13 +16250,13 @@ imported:
     표제어: 유화구
     품사: 명사:보통:비서술성
     항목ID: 20709
-processed:
+result:
   맞춤법 검사:
     표제어: 유화구
     품사: 명사
 ---
 000_KEYWORD: 유화적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16265,13 +16265,13 @@ imported:
     표제어: 유화적
     품사: 명사:보통:서술성
     항목ID: 20710
-processed:
+result:
   맞춤법 검사:
     표제어: 유화적
     품사: 명사
 ---
 000_KEYWORD: 유황__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16280,13 +16280,13 @@ imported:
     표제어: 유황
     품사: 명사:보통:서술성
     항목ID: 20712
-processed:
+result:
   맞춤법 검사:
     표제어: 유황
     품사: 명사
 ---
 000_KEYWORD: 유효__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71030
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16320,13 +16320,13 @@ imported:
     표제어: 유효
     품사: 명사
     항목ID: 71030
-processed:
+result:
   맞춤법 검사:
     표제어: 유효
     품사: 명사
 ---
 000_KEYWORD: 유효사거리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16336,13 +16336,13 @@ imported:
     표제어: 유효사거리
     품사: 명사:보통:서술성
     항목ID: 20714
-processed:
+result:
   맞춤법 검사:
     표제어: 유효사거리
     품사: 명사
 ---
 000_KEYWORD: 유효숫자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16352,13 +16352,13 @@ imported:
     표제어: 유효숫자
     품사: 명사:보통:서술성
     항목ID: 20716
-processed:
+result:
   맞춤법 검사:
     표제어: 유효숫자
     품사: 명사
 ---
 000_KEYWORD: 유효적절하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70942
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16399,13 +16399,13 @@ imported:
       형태: 유효적절하니
     - 발음: 유ː효적쩔함니다
       형태: 유효적절합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유효적절하다
     품사: 형용사
 ---
 000_KEYWORD: 유효전력__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16415,13 +16415,13 @@ imported:
     표제어: 유효전력
     품사: 명사:보통:서술성
     항목ID: 20717
-processed:
+result:
   맞춤법 검사:
     표제어: 유효전력
     품사: 명사
 ---
 000_KEYWORD: 유효하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71031
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16465,13 +16465,13 @@ imported:
       형태: 유효하니
     - 발음: 유ː효함니다
       형태: 유효합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 유효하다
     품사: 형용사
 ---
 000_KEYWORD: 유휴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70819
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16502,13 +16502,13 @@ imported:
     표제어: 유휴
     품사: 명사
     항목ID: 70819
-processed:
+result:
   맞춤법 검사:
     표제어: 유휴
     품사: 명사
 ---
 000_KEYWORD: 유휴지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71044
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16536,13 +16536,13 @@ imported:
     표제어: 유휴지
     품사: 명사
     항목ID: 71044
-processed:
+result:
   맞춤법 검사:
     표제어: 유휴지
     품사: 명사
 ---
 000_KEYWORD: 유흥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71035
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16570,13 +16570,13 @@ imported:
     표제어: 유흥
     품사: 명사
     항목ID: 71035
-processed:
+result:
   맞춤법 검사:
     표제어: 유흥
     품사: 명사
 ---
 000_KEYWORD: 유흥가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71040
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16605,13 +16605,13 @@ imported:
     표제어: 유흥가
     품사: 명사
     항목ID: 71040
-processed:
+result:
   맞춤법 검사:
     표제어: 유흥가
     품사: 명사
 ---
 000_KEYWORD: 유흥비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71038
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16641,13 +16641,13 @@ imported:
     표제어: 유흥비
     품사: 명사
     항목ID: 71038
-processed:
+result:
   맞춤법 검사:
     표제어: 유흥비
     품사: 명사
 ---
 000_KEYWORD: 유흥업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71042
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16685,13 +16685,13 @@ imported:
     - 발음: 유흥엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71042_yuheungeomman.wav
       형태: 유흥업만
-processed:
+result:
   맞춤법 검사:
     표제어: 유흥업
     품사: 명사
 ---
 000_KEYWORD: 유흥업소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71046
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16719,13 +16719,13 @@ imported:
     표제어: 유흥업소
     품사: 명사
     항목ID: 71046
-processed:
+result:
   맞춤법 검사:
     표제어: 유흥업소
     품사: 명사
 ---
 000_KEYWORD: 유희__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71032
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16759,13 +16759,13 @@ imported:
     표제어: 유희
     품사: 명사
     항목ID: 71032
-processed:
+result:
   맞춤법 검사:
     표제어: 유희
     품사: 명사
 ---
 000_KEYWORD: 유희적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71033
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16806,13 +16806,13 @@ imported:
     표제어: 유희적
     품사: 관형사
     항목ID: 71033
-processed:
+result:
   맞춤법 검사:
     표제어: 유희적
     품사: 관형사
 ---
 000_KEYWORD: 유희적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71034
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16853,13 +16853,13 @@ imported:
     표제어: 유희적
     품사: 명사
     항목ID: 71034
-processed:
+result:
   맞춤법 검사:
     표제어: 유희적
     품사: 명사
 ---
 000_KEYWORD: 육__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70821
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16908,13 +16908,13 @@ imported:
     표제어: 육
     품사: 관형사
     항목ID: 70821
-processed:
+result:
   맞춤법 검사:
     표제어: 육
     품사: 관형사
 ---
 000_KEYWORD: 육__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70820
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16953,17 +16953,17 @@ imported:
     - 발음: 융만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/70820_yungman.wav
       형태: 육만
-processed:
+result:
   맞춤법 검사:
     표제어: 육
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 수:1
 ---
 000_KEYWORD: 육각형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70883
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16991,13 +16991,13 @@ imported:
     표제어: 육각형
     품사: 명사
     항목ID: 70883
-processed:
+result:
   맞춤법 검사:
     표제어: 육각형
     품사: 명사
 ---
 000_KEYWORD: 육감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70862
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17027,13 +17027,13 @@ imported:
     표제어: 육감
     품사: 명사
     항목ID: 70862
-processed:
+result:
   맞춤법 검사:
     표제어: 육감
     품사: 명사
 ---
 000_KEYWORD: 육감적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71086
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17061,13 +17061,13 @@ imported:
     표제어: 육감적
     품사: 관형사
     항목ID: 71086
-processed:
+result:
   맞춤법 검사:
     표제어: 육감적
     품사: 관형사
 ---
 000_KEYWORD: 육감적__관형사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71088
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17096,13 +17096,13 @@ imported:
     표제어: 육감적
     품사: 관형사
     항목ID: 71088
-processed:
+result:
   맞춤법 검사:
     표제어: 육감적
     품사: 관형사
 ---
 000_KEYWORD: 육감적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71087
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17130,13 +17130,13 @@ imported:
     표제어: 육감적
     품사: 명사
     항목ID: 71087
-processed:
+result:
   맞춤법 검사:
     표제어: 육감적
     품사: 명사
 ---
 000_KEYWORD: 육감적__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71089
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17166,13 +17166,13 @@ imported:
     표제어: 육감적
     품사: 명사
     항목ID: 71089
-processed:
+result:
   맞춤법 검사:
     표제어: 육감적
     품사: 명사
 ---
 000_KEYWORD: 육갑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70881
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17209,13 +17209,13 @@ imported:
     - 발음: 육깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70881_yukkkamman.wav
       형태: 육갑만
-processed:
+result:
   맞춤법 검사:
     표제어: 육갑
     품사: 명사
 ---
 000_KEYWORD: 육갑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70882
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17238,13 +17238,13 @@ imported:
     표제어: 육갑하다
     품사: 동사
     항목ID: 70882
-processed:
+result:
   맞춤법 검사:
     표제어: 육갑하다
     품사: 동사
 ---
 000_KEYWORD: 육개장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70867
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17276,13 +17276,13 @@ imported:
     표제어: 육개장
     품사: 명사
     항목ID: 70867
-processed:
+result:
   맞춤법 검사:
     표제어: 육개장
     품사: 명사
 ---
 000_KEYWORD: 육교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70865
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17319,13 +17319,13 @@ imported:
     표제어: 육교
     품사: 명사
     항목ID: 70865
-processed:
+result:
   맞춤법 검사:
     표제어: 육교
     품사: 명사
 ---
 000_KEYWORD: 육군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27106
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17363,13 +17363,13 @@ imported:
     표제어: 육군
     품사: 명사
     항목ID: 27106
-processed:
+result:
   맞춤법 검사:
     표제어: 육군
     품사: 명사
 ---
 000_KEYWORD: 육군사관학교__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -17379,13 +17379,13 @@ imported:
     표제어: 육군사관학교
     품사: 명사:고유
     항목ID: 20731
-processed:
+result:
   맞춤법 검사:
     표제어: 육군사관학교
     품사: 명사
 ---
 000_KEYWORD: 육두문자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70863
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17415,13 +17415,13 @@ imported:
     표제어: 육두문자
     품사: 명사
     항목ID: 70863
-processed:
+result:
   맞춤법 검사:
     표제어: 육두문자
     품사: 명사
 ---
 000_KEYWORD: 육로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70341
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17452,13 +17452,13 @@ imported:
     표제어: 육로
     품사: 명사
     항목ID: 70341
-processed:
+result:
   맞춤법 검사:
     표제어: 육로
     품사: 명사
 ---
 000_KEYWORD: 육류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70338
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17491,13 +17491,13 @@ imported:
     표제어: 육류
     품사: 명사
     항목ID: 70338
-processed:
+result:
   맞춤법 검사:
     표제어: 육류
     품사: 명사
 ---
 000_KEYWORD: 육면체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70336
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17534,13 +17534,13 @@ imported:
     표제어: 육면체
     품사: 명사
     항목ID: 70336
-processed:
+result:
   맞춤법 검사:
     표제어: 육면체
     품사: 명사
 ---
 000_KEYWORD: 육박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70814
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17578,13 +17578,13 @@ imported:
     - 발음: 육빵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70814_yukppangman.wav
       형태: 육박만
-processed:
+result:
   맞춤법 검사:
     표제어: 육박
     품사: 명사
 ---
 000_KEYWORD: 육박전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70815
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17613,13 +17613,13 @@ imported:
     표제어: 육박전
     품사: 명사
     항목ID: 70815
-processed:
+result:
   맞춤법 검사:
     표제어: 육박전
     품사: 명사
 ---
 000_KEYWORD: 육박하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70816
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17650,13 +17650,13 @@ imported:
     표제어: 육박하다
     품사: 동사
     항목ID: 70816
-processed:
+result:
   맞춤법 검사:
     표제어: 육박하다
     품사: 동사
 ---
 000_KEYWORD: 육부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70948
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17685,13 +17685,13 @@ imported:
     표제어: 육부
     품사: 명사
     항목ID: 70948
-processed:
+result:
   맞춤법 검사:
     표제어: 육부
     품사: 명사
 ---
 000_KEYWORD: 육분의__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -17701,13 +17701,13 @@ imported:
     표제어: 육분의
     품사: 명사:보통:비서술성
     항목ID: 20738
-processed:
+result:
   맞춤법 검사:
     표제어: 육분의
     품사: 명사
 ---
 000_KEYWORD: 육사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -17716,13 +17716,13 @@ imported:
     표제어: 육사
     품사: 명사:고유
     항목ID: 20739
-processed:
+result:
   맞춤법 검사:
     표제어: 육사
     품사: 명사
 ---
 000_KEYWORD: 육상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27104
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17769,13 +17769,13 @@ imported:
     표제어: 육상
     품사: 명사
     항목ID: 27104
-processed:
+result:
   맞춤법 검사:
     표제어: 육상
     품사: 명사
 ---
 000_KEYWORD: 육상부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -17785,13 +17785,13 @@ imported:
     표제어: 육상부
     품사: 명사:보통:비서술성
     항목ID: 20741
-processed:
+result:
   맞춤법 검사:
     표제어: 육상부
     품사: 명사
 ---
 000_KEYWORD: 육성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70950
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17819,13 +17819,13 @@ imported:
     표제어: 육성
     품사: 명사
     항목ID: 70950
-processed:
+result:
   맞춤법 검사:
     표제어: 육성
     품사: 명사
 ---
 000_KEYWORD: 육성__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70951
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17862,13 +17862,13 @@ imported:
     표제어: 육성
     품사: 명사
     항목ID: 70951
-processed:
+result:
   맞춤법 검사:
     표제어: 육성
     품사: 명사
 ---
 000_KEYWORD: 육성되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70953
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17903,13 +17903,13 @@ imported:
     표제어: 육성되다
     품사: 동사
     항목ID: 70953
-processed:
+result:
   맞춤법 검사:
     표제어: 육성되다
     품사: 동사
 ---
 000_KEYWORD: 육성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70959
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17945,13 +17945,13 @@ imported:
     표제어: 육성하다
     품사: 동사
     항목ID: 70959
-processed:
+result:
   맞춤법 검사:
     표제어: 육성하다
     품사: 동사
 ---
 000_KEYWORD: 육송__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -17961,13 +17961,13 @@ imported:
     표제어: 육송
     품사: 명사:보통:비서술성
     항목ID: 20745
-processed:
+result:
   맞춤법 검사:
     표제어: 육송
     품사: 명사
 ---
 000_KEYWORD: 육수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70970
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18004,13 +18004,13 @@ imported:
     표제어: 육수
     품사: 명사
     항목ID: 70970
-processed:
+result:
   맞춤법 검사:
     표제어: 육수
     품사: 명사
 ---
 000_KEYWORD: 육순__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70972
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18038,13 +18038,13 @@ imported:
     표제어: 육순
     품사: 명사
     항목ID: 70972
-processed:
+result:
   맞춤법 검사:
     표제어: 육순
     품사: 명사
 ---
 000_KEYWORD: 육시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71004
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18070,13 +18070,13 @@ imported:
     표제어: 육시
     품사: 명사
     항목ID: 71004
-processed:
+result:
   맞춤법 검사:
     표제어: 육시
     품사: 명사
 ---
 000_KEYWORD: 육식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71005
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18138,13 +18138,13 @@ imported:
     - 발음: 육씽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71005_yukssingman.wav
       형태: 육식만
-processed:
+result:
   맞춤법 검사:
     표제어: 육식
     품사: 명사
 ---
 000_KEYWORD: 육식동물__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -18154,13 +18154,13 @@ imported:
     표제어: 육식동물
     품사: 명사:보통:비서술성
     항목ID: 20748
-processed:
+result:
   맞춤법 검사:
     표제어: 육식동물
     품사: 명사
 ---
 000_KEYWORD: 육신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71007
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18198,13 +18198,13 @@ imported:
     표제어: 육신
     품사: 명사
     항목ID: 71007
-processed:
+result:
   맞춤법 검사:
     표제어: 육신
     품사: 명사
 ---
 000_KEYWORD: 육십__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71105
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18256,13 +18256,13 @@ imported:
     표제어: 육십
     품사: 관형사
     항목ID: 71105
-processed:
+result:
   맞춤법 검사:
     표제어: 육십
     품사: 관형사
 ---
 000_KEYWORD: 육십__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71104
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18300,17 +18300,17 @@ imported:
     - 발음: 육씸만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71105_yukssimman.wav
       형태: 육십만
-processed:
+result:
   맞춤법 검사:
     표제어: 육십
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 수:10
 ---
 000_KEYWORD: 육십갑자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71008
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18336,13 +18336,13 @@ imported:
     표제어: 육십갑자
     품사: 명사
     항목ID: 71008
-processed:
+result:
   맞춤법 검사:
     표제어: 육십갑자
     품사: 명사
 ---
 000_KEYWORD: 육아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71009
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18373,13 +18373,13 @@ imported:
     표제어: 육아
     품사: 명사
     항목ID: 71009
-processed:
+result:
   맞춤법 검사:
     표제어: 육아
     품사: 명사
 ---
 000_KEYWORD: 육아법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71010
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18417,13 +18417,13 @@ imported:
     - 발음: 유가뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71010_yugappeomman.wav
       형태: 육아법만
-processed:
+result:
   맞춤법 검사:
     표제어: 육아법
     품사: 명사
 ---
 000_KEYWORD: 육안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71012
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18455,13 +18455,13 @@ imported:
     표제어: 육안
     품사: 명사
     항목ID: 71012
-processed:
+result:
   맞춤법 검사:
     표제어: 육안
     품사: 명사
 ---
 000_KEYWORD: 육욕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71013
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18499,13 +18499,13 @@ imported:
     - 발음: 유굥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71013_yugyongman.wav
       형태: 육욕만
-processed:
+result:
   맞춤법 검사:
     표제어: 육욕
     품사: 명사
 ---
 000_KEYWORD: 육우__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -18514,13 +18514,13 @@ imported:
     표제어: 육우
     품사: 명사:보통:비서술성
     항목ID: 20753
-processed:
+result:
   맞춤법 검사:
     표제어: 육우
     품사: 명사
 ---
 000_KEYWORD: 육자배기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71015
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18548,13 +18548,13 @@ imported:
     표제어: 육자배기
     품사: 명사
     항목ID: 71015
-processed:
+result:
   맞춤법 검사:
     표제어: 육자배기
     품사: 명사
 ---
 000_KEYWORD: 육젓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71016
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18590,13 +18590,13 @@ imported:
     - 발음: 육쩐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71016_yukjjeonman.wav
       형태: 육젓만
-processed:
+result:
   맞춤법 검사:
     표제어: 육젓
     품사: 명사
 ---
 000_KEYWORD: 육중하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71017
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18636,13 +18636,13 @@ imported:
       형태: 육중하니
     - 발음: 육쭝함니다
       형태: 육중합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 육중하다
     품사: 형용사
 ---
 000_KEYWORD: 육즙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71051
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18680,13 +18680,13 @@ imported:
     - 발음: 육쯤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71051_yukjjeumman.wav
       형태: 육즙만
-processed:
+result:
   맞춤법 검사:
     표제어: 육즙
     품사: 명사
 ---
 000_KEYWORD: 육지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71052
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18734,13 +18734,13 @@ imported:
     표제어: 육지
     품사: 명사
     항목ID: 71052
-processed:
+result:
   맞춤법 검사:
     표제어: 육지
     품사: 명사
 ---
 000_KEYWORD: 육질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71053
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18781,13 +18781,13 @@ imported:
     표제어: 육질
     품사: 명사
     항목ID: 71053
-processed:
+result:
   맞춤법 검사:
     표제어: 육질
     품사: 명사
 ---
 000_KEYWORD: 육체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27103
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18826,13 +18826,13 @@ imported:
     표제어: 육체
     품사: 명사
     항목ID: 27103
-processed:
+result:
   맞춤법 검사:
     표제어: 육체
     품사: 명사
 ---
 000_KEYWORD: 육체노동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71054
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18864,13 +18864,13 @@ imported:
     표제어: 육체노동
     품사: 명사
     항목ID: 71054
-processed:
+result:
   맞춤법 검사:
     표제어: 육체노동
     품사: 명사
 ---
 000_KEYWORD: 육체미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71055
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18898,13 +18898,13 @@ imported:
     표제어: 육체미
     품사: 명사
     항목ID: 71055
-processed:
+result:
   맞춤법 검사:
     표제어: 육체미
     품사: 명사
 ---
 000_KEYWORD: 육체적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24035
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18937,13 +18937,13 @@ imported:
     표제어: 육체적
     품사: 관형사
     항목ID: 24035
-processed:
+result:
   맞춤법 검사:
     표제어: 육체적
     품사: 관형사
 ---
 000_KEYWORD: 육체적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24036
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18976,13 +18976,13 @@ imported:
     표제어: 육체적
     품사: 명사
     항목ID: 24036
-processed:
+result:
   맞춤법 검사:
     표제어: 육체적
     품사: 명사
 ---
 000_KEYWORD: 육체파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71056
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19010,13 +19010,13 @@ imported:
     표제어: 육체파
     품사: 명사
     항목ID: 71056
-processed:
+result:
   맞춤법 검사:
     표제어: 육체파
     품사: 명사
 ---
 000_KEYWORD: 육촌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71057
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19050,13 +19050,13 @@ imported:
     표제어: 육촌
     품사: 명사
     항목ID: 71057
-processed:
+result:
   맞춤법 검사:
     표제어: 육촌
     품사: 명사
 ---
 000_KEYWORD: 육친__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71060
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19084,13 +19084,13 @@ imported:
     표제어: 육친
     품사: 명사
     항목ID: 71060
-processed:
+result:
   맞춤법 검사:
     표제어: 육친
     품사: 명사
 ---
 000_KEYWORD: 육탄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71062
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19118,13 +19118,13 @@ imported:
     표제어: 육탄
     품사: 명사
     항목ID: 71062
-processed:
+result:
   맞춤법 검사:
     표제어: 육탄
     품사: 명사
 ---
 000_KEYWORD: 육탄전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71063
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19152,13 +19152,13 @@ imported:
     표제어: 육탄전
     품사: 명사
     항목ID: 71063
-processed:
+result:
   맞춤법 검사:
     표제어: 육탄전
     품사: 명사
 ---
 000_KEYWORD: 육포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71064
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19189,13 +19189,13 @@ imported:
     표제어: 육포
     품사: 명사
     항목ID: 71064
-processed:
+result:
   맞춤법 검사:
     표제어: 육포
     품사: 명사
 ---
 000_KEYWORD: 육필__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71065
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19230,13 +19230,13 @@ imported:
     표제어: 육필
     품사: 명사
     항목ID: 71065
-processed:
+result:
   맞춤법 검사:
     표제어: 육필
     품사: 명사
 ---
 000_KEYWORD: 육하원칙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71067
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19274,13 +19274,13 @@ imported:
     - 발음: 유카원칭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71067_yukawonchingman.wav
       형태: 육하원칙만
-processed:
+result:
   맞춤법 검사:
     표제어: 육하원칙
     품사: 명사
 ---
 000_KEYWORD: 육해공군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71068
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19308,13 +19308,13 @@ imported:
     표제어: 육해공군
     품사: 명사
     항목ID: 71068
-processed:
+result:
   맞춤법 검사:
     표제어: 육해공군
     품사: 명사
 ---
 000_KEYWORD: 육회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71071
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19347,13 +19347,13 @@ imported:
     표제어: 육회
     품사: 명사
     항목ID: 71071
-processed:
+result:
   맞춤법 검사:
     표제어: 육회
     품사: 명사
 ---
 000_KEYWORD: 윤__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71072
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19387,13 +19387,13 @@ imported:
     표제어: 윤
     품사: 명사
     항목ID: 71072
-processed:
+result:
   맞춤법 검사:
     표제어: 윤
     품사: 명사
 ---
 000_KEYWORD: 윤간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71073
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19421,13 +19421,13 @@ imported:
     표제어: 윤간
     품사: 명사
     항목ID: 71073
-processed:
+result:
   맞춤법 검사:
     표제어: 윤간
     품사: 명사
 ---
 000_KEYWORD: 윤간하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71074
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19454,13 +19454,13 @@ imported:
     표제어: 윤간하다
     품사: 동사
     항목ID: 71074
-processed:
+result:
   맞춤법 검사:
     표제어: 윤간하다
     품사: 동사
 ---
 000_KEYWORD: 윤곽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71075
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19525,13 +19525,13 @@ imported:
     - 발음: 윤광만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71075_yungwangman.wav
       형태: 윤곽만
-processed:
+result:
   맞춤법 검사:
     표제어: 윤곽
     품사: 명사
 ---
 000_KEYWORD: 윤곽선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71076
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19559,13 +19559,13 @@ imported:
     표제어: 윤곽선
     품사: 명사
     항목ID: 71076
-processed:
+result:
   맞춤법 검사:
     표제어: 윤곽선
     품사: 명사
 ---
 000_KEYWORD: 윤기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71077
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19599,13 +19599,13 @@ imported:
     표제어: 윤기
     품사: 명사
     항목ID: 71077
-processed:
+result:
   맞춤법 검사:
     표제어: 윤기
     품사: 명사
 ---
 000_KEYWORD: 윤년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71078
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19633,13 +19633,13 @@ imported:
     표제어: 윤년
     품사: 명사
     항목ID: 71078
-processed:
+result:
   맞춤법 검사:
     표제어: 윤년
     품사: 명사
 ---
 000_KEYWORD: 윤달__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71079
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19669,13 +19669,13 @@ imported:
     표제어: 윤달
     품사: 명사
     항목ID: 71079
-processed:
+result:
   맞춤법 검사:
     표제어: 윤달
     품사: 명사
 ---
 000_KEYWORD: 윤락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71081
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19713,13 +19713,13 @@ imported:
     - 발음: 율랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71081_yullangman.wav
       형태: 윤락만
-processed:
+result:
   맞춤법 검사:
     표제어: 윤락
     품사: 명사
 ---
 000_KEYWORD: 윤리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71082
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19752,13 +19752,13 @@ imported:
     표제어: 윤리
     품사: 명사
     항목ID: 71082
-processed:
+result:
   맞춤법 검사:
     표제어: 윤리
     품사: 명사
 ---
 000_KEYWORD: 윤리관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71083
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19786,13 +19786,13 @@ imported:
     표제어: 윤리관
     품사: 명사
     항목ID: 71083
-processed:
+result:
   맞춤법 검사:
     표제어: 윤리관
     품사: 명사
 ---
 000_KEYWORD: 윤리적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93480
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19822,13 +19822,13 @@ imported:
     표제어: 윤리적
     품사: 관형사
     항목ID: 93480
-processed:
+result:
   맞춤법 검사:
     표제어: 윤리적
     품사: 관형사
 ---
 000_KEYWORD: 윤리적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93479
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19858,13 +19858,13 @@ imported:
     표제어: 윤리적
     품사: 명사
     항목ID: 93479
-processed:
+result:
   맞춤법 검사:
     표제어: 윤리적
     품사: 명사
 ---
 000_KEYWORD: 윤리학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70806
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19905,13 +19905,13 @@ imported:
     - 발음: 율리항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70806_yullihangman.wav
       형태: 윤리학만
-processed:
+result:
   맞춤법 검사:
     표제어: 윤리학
     품사: 명사
 ---
 000_KEYWORD: 윤보선__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -19920,13 +19920,13 @@ imported:
     표제어: 윤보선
     품사: 명사:보통:서술성
     항목ID: 31867
-processed:
+result:
   맞춤법 검사:
     표제어: 윤보선
     품사: 명사
 ---
 000_KEYWORD: 윤색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70809
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19968,13 +19968,13 @@ imported:
     - 발음: 윤ː생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70809_yun-saengman.wav
       형태: 윤색만
-processed:
+result:
   맞춤법 검사:
     표제어: 윤색
     품사: 명사
 ---
 000_KEYWORD: 윤색되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70859
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20006,13 +20006,13 @@ imported:
     표제어: 윤색되다
     품사: 동사
     항목ID: 70859
-processed:
+result:
   맞춤법 검사:
     표제어: 윤색되다
     품사: 동사
 ---
 000_KEYWORD: 윤색하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70937
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20041,13 +20041,13 @@ imported:
     표제어: 윤색하다
     품사: 동사
     항목ID: 70937
-processed:
+result:
   맞춤법 검사:
     표제어: 윤색하다
     품사: 동사
 ---
 000_KEYWORD: 윤작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70936
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20085,13 +20085,13 @@ imported:
     - 발음: 윤장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70936_yunjangman.wav
       형태: 윤작만
-processed:
+result:
   맞춤법 검사:
     표제어: 윤작
     품사: 명사
 ---
 000_KEYWORD: 윤전기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70935
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20124,13 +20124,13 @@ imported:
     표제어: 윤전기
     품사: 명사
     항목ID: 70935
-processed:
+result:
   맞춤법 검사:
     표제어: 윤전기
     품사: 명사
 ---
 000_KEYWORD: 윤택__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70933
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20183,13 +20183,13 @@ imported:
     - 발음: 윤ː탱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70933_yun-taengman.wav
       형태: 윤택만
-processed:
+result:
   맞춤법 검사:
     표제어: 윤택
     품사: 명사
 ---
 000_KEYWORD: 윤택하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70934
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20244,13 +20244,13 @@ imported:
       형태: 윤택하니
     - 발음: 윤ː태캄니다
       형태: 윤택합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 윤택하다
     품사: 형용사
 ---
 000_KEYWORD: 윤활유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70932
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20279,13 +20279,13 @@ imported:
     표제어: 윤활유
     품사: 명사
     항목ID: 70932
-processed:
+result:
   맞춤법 검사:
     표제어: 윤활유
     품사: 명사
 ---
 000_KEYWORD: 윤활제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -20294,13 +20294,13 @@ imported:
     표제어: 윤활제
     품사: 명사:보통:비서술성
     항목ID: 20778
-processed:
+result:
   맞춤법 검사:
     표제어: 윤활제
     품사: 명사
 ---
 000_KEYWORD: 윤회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70931
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20330,13 +20330,13 @@ imported:
     표제어: 윤회
     품사: 명사
     항목ID: 70931
-processed:
+result:
   맞춤법 검사:
     표제어: 윤회
     품사: 명사
 ---
 000_KEYWORD: 윤회설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70930
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20366,13 +20366,13 @@ imported:
     표제어: 윤회설
     품사: 명사
     항목ID: 70930
-processed:
+result:
   맞춤법 검사:
     표제어: 윤회설
     품사: 명사
 ---
 000_KEYWORD: 율격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70929
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20414,13 +20414,13 @@ imported:
     - 발음: 율꼉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70929_yulkkyeongman.wav
       형태: 율격만
-processed:
+result:
   맞춤법 검사:
     표제어: 율격
     품사: 명사
 ---
 000_KEYWORD: 율동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70925
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20465,13 +20465,13 @@ imported:
     표제어: 율동
     품사: 명사
     항목ID: 70925
-processed:
+result:
   맞춤법 검사:
     표제어: 율동
     품사: 명사
 ---
 000_KEYWORD: 율동적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70926
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20499,13 +20499,13 @@ imported:
     표제어: 율동적
     품사: 관형사
     항목ID: 70926
-processed:
+result:
   맞춤법 검사:
     표제어: 율동적
     품사: 관형사
 ---
 000_KEYWORD: 율동적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70927
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20533,13 +20533,13 @@ imported:
     표제어: 율동적
     품사: 명사
     항목ID: 70927
-processed:
+result:
   맞춤법 검사:
     표제어: 율동적
     품사: 명사
 ---
 000_KEYWORD: 율동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70928
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20568,13 +20568,13 @@ imported:
     표제어: 율동하다
     품사: 동사
     항목ID: 70928
-processed:
+result:
   맞춤법 검사:
     표제어: 율동하다
     품사: 동사
 ---
 000_KEYWORD: 율령__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -20584,13 +20584,13 @@ imported:
     표제어: 율령
     품사: 명사:보통:서술성
     항목ID: 20780
-processed:
+result:
   맞춤법 검사:
     표제어: 율령
     품사: 명사
 ---
 000_KEYWORD: 율무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70923
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20625,13 +20625,13 @@ imported:
     표제어: 율무
     품사: 명사
     항목ID: 70923
-processed:
+result:
   맞춤법 검사:
     표제어: 율무
     품사: 명사
 ---
 000_KEYWORD: 율무차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70924
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20667,13 +20667,13 @@ imported:
     표제어: 율무차
     품사: 명사
     항목ID: 70924
-processed:
+result:
   맞춤법 검사:
     표제어: 율무차
     품사: 명사
 ---
 000_KEYWORD: 율법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70915
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20711,13 +20711,13 @@ imported:
     - 발음: 율뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70915_yulppeomman.wav
       형태: 율법만
-processed:
+result:
   맞춤법 검사:
     표제어: 율법
     품사: 명사
 ---
 000_KEYWORD: 융기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70916
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20750,13 +20750,13 @@ imported:
     표제어: 융기
     품사: 명사
     항목ID: 70916
-processed:
+result:
   맞춤법 검사:
     표제어: 융기
     품사: 명사
 ---
 000_KEYWORD: 융기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70917
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20796,13 +20796,13 @@ imported:
     표제어: 융기하다
     품사: 동사
     항목ID: 70917
-processed:
+result:
   맞춤법 검사:
     표제어: 융기하다
     품사: 동사
 ---
 000_KEYWORD: 융단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70918
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20843,13 +20843,13 @@ imported:
     표제어: 융단
     품사: 명사
     항목ID: 70918
-processed:
+result:
   맞춤법 검사:
     표제어: 융단
     품사: 명사
 ---
 000_KEYWORD: 융단폭격__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -20858,13 +20858,13 @@ imported:
     표제어: 융단폭격
     품사: 명사:보통:서술성
     항목ID: 20783
-processed:
+result:
   맞춤법 검사:
     표제어: 융단폭격
     품사: 명사
 ---
 000_KEYWORD: 융성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70919
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20897,13 +20897,13 @@ imported:
     표제어: 융성
     품사: 명사
     항목ID: 70919
-processed:
+result:
   맞춤법 검사:
     표제어: 융성
     품사: 명사
 ---
 000_KEYWORD: 융성기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70938
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20931,13 +20931,13 @@ imported:
     표제어: 융성기
     품사: 명사
     항목ID: 70938
-processed:
+result:
   맞춤법 검사:
     표제어: 융성기
     품사: 명사
 ---
 000_KEYWORD: 융성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70920
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20970,13 +20970,13 @@ imported:
     표제어: 융성하다
     품사: 동사
     항목ID: 70920
-processed:
+result:
   맞춤법 검사:
     표제어: 융성하다
     품사: 동사
 ---
 000_KEYWORD: 융숭하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70921
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21017,13 +21017,13 @@ imported:
       형태: 융숭하니
     - 발음: 융숭함니다
       형태: 융숭합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 융숭하다
     품사: 형용사
 ---
 000_KEYWORD: 융자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70903
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21062,13 +21062,13 @@ imported:
     표제어: 융자
     품사: 명사
     항목ID: 70903
-processed:
+result:
   맞춤법 검사:
     표제어: 융자
     품사: 명사
 ---
 000_KEYWORD: 융자금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70902
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21104,13 +21104,13 @@ imported:
     표제어: 융자금
     품사: 명사
     항목ID: 70902
-processed:
+result:
   맞춤법 검사:
     표제어: 융자금
     품사: 명사
 ---
 000_KEYWORD: 융자하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70904
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21144,13 +21144,13 @@ imported:
     표제어: 융자하다
     품사: 동사
     항목ID: 70904
-processed:
+result:
   맞춤법 검사:
     표제어: 융자하다
     품사: 동사
 ---
 000_KEYWORD: 융통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70905
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21179,13 +21179,13 @@ imported:
     표제어: 융통
     품사: 명사
     항목ID: 70905
-processed:
+result:
   맞춤법 검사:
     표제어: 융통
     품사: 명사
 ---
 000_KEYWORD: 융통되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70907
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21216,13 +21216,13 @@ imported:
     표제어: 융통되다
     품사: 동사
     항목ID: 70907
-processed:
+result:
   맞춤법 검사:
     표제어: 융통되다
     품사: 동사
 ---
 000_KEYWORD: 융통성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70908
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21270,13 +21270,13 @@ imported:
     표제어: 융통성
     품사: 명사
     항목ID: 70908
-processed:
+result:
   맞춤법 검사:
     표제어: 융통성
     품사: 명사
 ---
 000_KEYWORD: 융통하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70906
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21305,13 +21305,13 @@ imported:
     표제어: 융통하다
     품사: 동사
     항목ID: 70906
-processed:
+result:
   맞춤법 검사:
     표제어: 융통하다
     품사: 동사
 ---
 000_KEYWORD: 융합__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70909
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21353,13 +21353,13 @@ imported:
     - 발음: 융함만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/70909_yunghamman.wav
       형태: 융합만
-processed:
+result:
   맞춤법 검사:
     표제어: 융합
     품사: 명사
 ---
 000_KEYWORD: 융합되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70910
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21392,13 +21392,13 @@ imported:
     표제어: 융합되다
     품사: 동사
     항목ID: 70910
-processed:
+result:
   맞춤법 검사:
     표제어: 융합되다
     품사: 동사
 ---
 000_KEYWORD: 융합하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70911
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21429,13 +21429,13 @@ imported:
     표제어: 융합하다
     품사: 동사
     항목ID: 70911
-processed:
+result:
   맞춤법 검사:
     표제어: 융합하다
     품사: 동사
 ---
 000_KEYWORD: 융화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70912
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21465,13 +21465,13 @@ imported:
     표제어: 융화
     품사: 명사
     항목ID: 70912
-processed:
+result:
   맞춤법 검사:
     표제어: 융화
     품사: 명사
 ---
 000_KEYWORD: 융화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70913
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21503,13 +21503,13 @@ imported:
     표제어: 융화되다
     품사: 동사
     항목ID: 70913
-processed:
+result:
   맞춤법 검사:
     표제어: 융화되다
     품사: 동사
 ---
 000_KEYWORD: 융화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70914
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21541,13 +21541,13 @@ imported:
     표제어: 융화하다
     품사: 동사
     항목ID: 70914
-processed:
+result:
   맞춤법 검사:
     표제어: 융화하다
     품사: 동사
 ---
 000_KEYWORD: 윷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70858
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21614,13 +21614,13 @@ imported:
     - 발음: 윤ː만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/70858_yun-man.wav
       형태: 윷만
-processed:
+result:
   맞춤법 검사:
     표제어: 윷
     품사: 명사
 ---
 000_KEYWORD: 윷가락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70857
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21655,13 +21655,13 @@ imported:
     - 발음: 윧ː까랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/70857_yud-kkarangman.wav
       형태: 윷가락만
-processed:
+result:
   맞춤법 검사:
     표제어: 윷가락
     품사: 명사
 ---
 000_KEYWORD: 윷놀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70922
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21691,13 +21691,13 @@ imported:
     표제어: 윷놀이
     품사: 명사
     항목ID: 70922
-processed:
+result:
   맞춤법 검사:
     표제어: 윷놀이
     품사: 명사
 ---
 000_KEYWORD: 윷판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70856
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -21747,7 +21747,7 @@ imported:
     표제어: 윷판
     품사: 명사
     항목ID: 70856
-processed:
+result:
   맞춤법 검사:
     표제어: 윷판
     품사: 명사

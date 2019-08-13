@@ -1,5 +1,5 @@
 000_KEYWORD: -냐__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76230
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -34,11 +34,11 @@ imported:
     표제어: -냐
     품사: 어미
     항목ID: 76230
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -냐고__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76243
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -82,11 +82,11 @@ imported:
     표제어: -냐고
     품사: 어미
     항목ID: 76243
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -냐느니__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88983
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -114,11 +114,11 @@ imported:
     표제어: -냐느니
     품사: 어미
     항목ID: 88983
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 냠냠__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40246
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -141,13 +141,13 @@ imported:
     표제어: 냠냠
     품사: 부사
     항목ID: 40246
-processed:
+result:
   맞춤법 검사:
     표제어: 냠냠
     품사: 부사
 ---
 000_KEYWORD: 냥__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40247
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -188,7 +188,7 @@ imported:
     표제어: 냥
     품사: 의존 명사
     항목ID: 40247
-processed:
+result:
   맞춤법 검사:
     표제어: 냥
     품사: 의존 명사

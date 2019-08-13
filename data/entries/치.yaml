@@ -1,5 +1,5 @@
 000_KEYWORD: -치-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83187
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -22,11 +22,11 @@ imported:
     표제어: -치-
     품사: 접사
     항목ID: 83187
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -치__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83189
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -53,11 +53,11 @@ imported:
     표제어: -치
     품사: 접사
     항목ID: 83189
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -치레__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83191
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -82,11 +82,11 @@ imported:
     표제어: -치레
     품사: 접사
     항목ID: 83191
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 치-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83185
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -107,11 +107,11 @@ imported:
     표제어: 치-
     품사: 접사
     항목ID: 83185
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 치__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79062
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -138,13 +138,13 @@ imported:
     표제어: 치
     품사: 감탄사
     항목ID: 79062
-processed:
+result:
   맞춤법 검사:
     표제어: 치
     품사: 감탄사
 ---
 000_KEYWORD: 치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86853
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -170,13 +170,13 @@ imported:
     표제어: 치
     품사: 명사
     항목ID: 86853
-processed:
+result:
   맞춤법 검사:
     표제어: 치
     품사: 명사
 ---
 000_KEYWORD: 치__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79054
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -229,13 +229,13 @@ imported:
     표제어: 치
     품사: 의존 명사
     항목ID: 79054
-processed:
+result:
   맞춤법 검사:
     표제어: 치
     품사: 의존 명사
 ---
 000_KEYWORD: 치__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79056
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -268,13 +268,13 @@ imported:
     표제어: 치
     품사: 의존 명사
     항목ID: 79056
-processed:
+result:
   맞춤법 검사:
     표제어: 치
     품사: 의존 명사
 ---
 000_KEYWORD: 치고__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73015
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -311,11 +311,11 @@ imported:
     표제어: 치고
     품사: 조사
     항목ID: 73015
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 치고는__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83882
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -335,11 +335,11 @@ imported:
     표제어: 치고는
     품사: 조사
     항목ID: 83882
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 치고받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79070
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -379,7 +379,7 @@ imported:
     - 발음: 치고반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79070_chigobanneun.wav
       형태: 치고받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -387,7 +387,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 치고서__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73016
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -426,11 +426,11 @@ imported:
     표제어: 치고서
     품사: 조사
     항목ID: 73016
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 치골__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79074
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -458,13 +458,13 @@ imported:
     표제어: 치골
     품사: 명사
     항목ID: 79074
-processed:
+result:
   맞춤법 검사:
     표제어: 치골
     품사: 명사
 ---
 000_KEYWORD: 치과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72153
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -497,13 +497,13 @@ imported:
     표제어: 치과
     품사: 명사
     항목ID: 72153
-processed:
+result:
   맞춤법 검사:
     표제어: 치과
     품사: 명사
 ---
 000_KEYWORD: 치과의사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -512,13 +512,13 @@ imported:
     표제어: 치과의사
     품사: 명사:보통:비서술성
     항목ID: 27112
-processed:
+result:
   맞춤법 검사:
     표제어: 치과의사
     품사: 명사
 ---
 000_KEYWORD: 치근거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79077
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -553,13 +553,13 @@ imported:
     표제어: 치근거리다
     품사: 동사
     항목ID: 79077
-processed:
+result:
   맞춤법 검사:
     표제어: 치근거리다
     품사: 동사
 ---
 000_KEYWORD: 치근대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90016
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -593,13 +593,13 @@ imported:
     표제어: 치근대다
     품사: 동사
     항목ID: 90016
-processed:
+result:
   맞춤법 검사:
     표제어: 치근대다
     품사: 동사
 ---
 000_KEYWORD: 치근덕거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79081
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -634,13 +634,13 @@ imported:
     표제어: 치근덕거리다
     품사: 동사
     항목ID: 79081
-processed:
+result:
   맞춤법 검사:
     표제어: 치근덕거리다
     품사: 동사
 ---
 000_KEYWORD: 치근덕대다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -649,13 +649,13 @@ imported:
     표제어: 치근덕대다
     품사: 동사
     항목ID: 27118
-processed:
+result:
   맞춤법 검사:
     표제어: 치근덕대다
     품사: 동사
 ---
 000_KEYWORD: 치근덕치근덕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90017
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -681,13 +681,13 @@ imported:
     표제어: 치근덕치근덕
     품사: 부사
     항목ID: 90017
-processed:
+result:
   맞춤법 검사:
     표제어: 치근덕치근덕
     품사: 부사
 ---
 000_KEYWORD: 치근덕치근덕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90018
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -721,13 +721,13 @@ imported:
     표제어: 치근덕치근덕하다
     품사: 동사
     항목ID: 90018
-processed:
+result:
   맞춤법 검사:
     표제어: 치근덕치근덕하다
     품사: 동사
 ---
 000_KEYWORD: 치근치근하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90020
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -765,13 +765,13 @@ imported:
     표제어: 치근치근하다
     품사: 동사
     항목ID: 90020
-processed:
+result:
   맞춤법 검사:
     표제어: 치근치근하다
     품사: 동사
 ---
 000_KEYWORD: 치기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79086
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -802,13 +802,13 @@ imported:
     표제어: 치기
     품사: 명사
     항목ID: 79086
-processed:
+result:
   맞춤법 검사:
     표제어: 치기
     품사: 명사
 ---
 000_KEYWORD: 치기배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79089
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -838,13 +838,13 @@ imported:
     표제어: 치기배
     품사: 명사
     항목ID: 79089
-processed:
+result:
   맞춤법 검사:
     표제어: 치기배
     품사: 명사
 ---
 000_KEYWORD: 치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28127
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -922,13 +922,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57323
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1275,13 +1275,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79090
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1321,13 +1321,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79259
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1399,13 +1399,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__005
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28128
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1488,13 +1488,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__006
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79264
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1568,13 +1568,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__007
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79267
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1627,13 +1627,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__008
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79272
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1672,13 +1672,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__009
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28131
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1764,13 +1764,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다__동사__010
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79274
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1810,13 +1810,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79264_cheo.wav
       형태: 쳐
     - 형태: 치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치다
     품사: 동사
 ---
 000_KEYWORD: 치다꺼리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79277
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1867,13 +1867,13 @@ imported:
     표제어: 치다꺼리
     품사: 명사
     항목ID: 79277
-processed:
+result:
   맞춤법 검사:
     표제어: 치다꺼리
     품사: 명사
 ---
 000_KEYWORD: 치닫다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79284
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1949,7 +1949,7 @@ imported:
     - 발음: 치단는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79284_chidanneun.wav
       형태: 치닫는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -1957,7 +1957,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 치달리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79326
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1994,13 +1994,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79326_chidalliyeo.wav
       형태: 치달리어
     - 형태: 치달리니
-processed:
+result:
   맞춤법 검사:
     표제어: 치달리다
     품사: 동사
 ---
 000_KEYWORD: 치대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79331
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2033,13 +2033,13 @@ imported:
     활용:
     - 형태: 치대어
     - 형태: 치대니
-processed:
+result:
   맞춤법 검사:
     표제어: 치대다
     품사: 동사
 ---
 000_KEYWORD: 치뜨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79335
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2074,13 +2074,13 @@ imported:
     활용:
     - 형태: 치떠
     - 형태: 치뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 치뜨다
     품사: 동사
 ---
 000_KEYWORD: 치렁치렁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79339
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2108,13 +2108,13 @@ imported:
     표제어: 치렁치렁
     품사: 부사
     항목ID: 79339
-processed:
+result:
   맞춤법 검사:
     표제어: 치렁치렁
     품사: 부사
 ---
 000_KEYWORD: 치렁치렁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79420
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2142,13 +2142,13 @@ imported:
     표제어: 치렁치렁하다
     품사: 동사
     항목ID: 79420
-processed:
+result:
   맞춤법 검사:
     표제어: 치렁치렁하다
     품사: 동사
 ---
 000_KEYWORD: 치렁치렁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79422
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2187,13 +2187,13 @@ imported:
       형태: 치렁치렁하니
     - 발음: 치렁치렁함니다
       형태: 치렁치렁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 치렁치렁하다
     품사: 형용사
 ---
 000_KEYWORD: 치료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83170
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2227,13 +2227,13 @@ imported:
     표제어: 치료
     품사: 명사
     항목ID: 83170
-processed:
+result:
   맞춤법 검사:
     표제어: 치료
     품사: 명사
 ---
 000_KEYWORD: 치료되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79341
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2264,13 +2264,13 @@ imported:
     표제어: 치료되다
     품사: 동사
     항목ID: 79341
-processed:
+result:
   맞춤법 검사:
     표제어: 치료되다
     품사: 동사
 ---
 000_KEYWORD: 치료법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28123
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2313,13 +2313,13 @@ imported:
     - 발음: 치료뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/28123_chiryoppeomman.wav
       형태: 치료법만
-processed:
+result:
   맞춤법 검사:
     표제어: 치료법
     품사: 명사
 ---
 000_KEYWORD: 치료비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79352
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2351,13 +2351,13 @@ imported:
     표제어: 치료비
     품사: 명사
     항목ID: 79352
-processed:
+result:
   맞춤법 검사:
     표제어: 치료비
     품사: 명사
 ---
 000_KEYWORD: 치료사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2367,13 +2367,13 @@ imported:
     표제어: 치료사
     품사: 명사:보통:서술성
     항목ID: 27125
-processed:
+result:
   맞춤법 검사:
     표제어: 치료사
     품사: 명사
 ---
 000_KEYWORD: 치료실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79359
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2404,13 +2404,13 @@ imported:
     표제어: 치료실
     품사: 명사
     항목ID: 79359
-processed:
+result:
   맞춤법 검사:
     표제어: 치료실
     품사: 명사
 ---
 000_KEYWORD: 치료제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79363
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2440,13 +2440,13 @@ imported:
     표제어: 치료제
     품사: 명사
     항목ID: 79363
-processed:
+result:
   맞춤법 검사:
     표제어: 치료제
     품사: 명사
 ---
 000_KEYWORD: 치료하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72154
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2480,13 +2480,13 @@ imported:
     표제어: 치료하다
     품사: 동사
     항목ID: 72154
-processed:
+result:
   맞춤법 검사:
     표제어: 치료하다
     품사: 동사
 ---
 000_KEYWORD: 치루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79370
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2515,13 +2515,13 @@ imported:
     표제어: 치루
     품사: 명사
     항목ID: 79370
-processed:
+result:
   맞춤법 검사:
     표제어: 치루
     품사: 명사
 ---
 000_KEYWORD: 치루다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92344
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2534,10 +2534,10 @@ imported:
     표제어: 치루다
     품사: 동사
     항목ID: 92344
-processed: {}
+result: {}
 ---
 000_KEYWORD: 치르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28130
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2618,7 +2618,7 @@ imported:
     활용:
     - 형태: 치러
     - 형태: 치르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -2626,7 +2626,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 치마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57331
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2660,13 +2660,13 @@ imported:
     표제어: 치마
     품사: 명사
     항목ID: 57331
-processed:
+result:
   맞춤법 검사:
     표제어: 치마
     품사: 명사
 ---
 000_KEYWORD: 치마꼬리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79371
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2694,13 +2694,13 @@ imported:
     표제어: 치마꼬리
     품사: 명사
     항목ID: 79371
-processed:
+result:
   맞춤법 검사:
     표제어: 치마꼬리
     품사: 명사
 ---
 000_KEYWORD: 치마바지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79372
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2730,13 +2730,13 @@ imported:
     표제어: 치마바지
     품사: 명사
     항목ID: 79372
-processed:
+result:
   맞춤법 검사:
     표제어: 치마바지
     품사: 명사
 ---
 000_KEYWORD: 치마저고리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79373
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2764,13 +2764,13 @@ imported:
     표제어: 치마저고리
     품사: 명사
     항목ID: 79373
-processed:
+result:
   맞춤법 검사:
     표제어: 치마저고리
     품사: 명사
 ---
 000_KEYWORD: 치마폭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79374
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2825,13 +2825,13 @@ imported:
     - 발음: 치마퐁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/79374_chimapongman.wav
       형태: 치마폭만
-processed:
+result:
   맞춤법 검사:
     표제어: 치마폭
     품사: 명사
 ---
 000_KEYWORD: 치맛바람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79407
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2875,13 +2875,13 @@ imported:
     표제어: 치맛바람
     품사: 명사
     항목ID: 79407
-processed:
+result:
   맞춤법 검사:
     표제어: 치맛바람
     품사: 명사
 ---
 000_KEYWORD: 치맛자락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79375
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2937,13 +2937,13 @@ imported:
     - 발음: 치맏짜랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79375_chimatjjarangman.wav
       형태: 치맛자락만
-processed:
+result:
   맞춤법 검사:
     표제어: 치맛자락
     품사: 명사
 ---
 000_KEYWORD: 치매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79376
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2978,13 +2978,13 @@ imported:
     표제어: 치매
     품사: 명사
     항목ID: 79376
-processed:
+result:
   맞춤법 검사:
     표제어: 치매
     품사: 명사
 ---
 000_KEYWORD: 치명상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79410
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3027,13 +3027,13 @@ imported:
     표제어: 치명상
     품사: 명사
     항목ID: 79410
-processed:
+result:
   맞춤법 검사:
     표제어: 치명상
     품사: 명사
 ---
 000_KEYWORD: 치명자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3044,13 +3044,13 @@ imported:
     표제어: 치명자
     품사: 명사:보통:비서술성
     항목ID: 27134
-processed:
+result:
   맞춤법 검사:
     표제어: 치명자
     품사: 명사
 ---
 000_KEYWORD: 치명적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79412
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3095,13 +3095,13 @@ imported:
     표제어: 치명적
     품사: 관형사
     항목ID: 79412
-processed:
+result:
   맞춤법 검사:
     표제어: 치명적
     품사: 관형사
 ---
 000_KEYWORD: 치명적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79413
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3143,13 +3143,13 @@ imported:
     표제어: 치명적
     품사: 명사
     항목ID: 79413
-processed:
+result:
   맞춤법 검사:
     표제어: 치명적
     품사: 명사
 ---
 000_KEYWORD: 치명타__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79415
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3190,13 +3190,13 @@ imported:
     표제어: 치명타
     품사: 명사
     항목ID: 79415
-processed:
+result:
   맞춤법 검사:
     표제어: 치명타
     품사: 명사
 ---
 000_KEYWORD: 치밀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79235
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3274,13 +3274,13 @@ imported:
     - 발음: 치밈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79235_chimimnida.wav
       형태: 치밉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 치밀다
     품사: 동사
 ---
 000_KEYWORD: 치밀하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79237
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3334,13 +3334,13 @@ imported:
       형태: 치밀하니
     - 발음: 치밀함니다
       형태: 치밀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 치밀하다
     품사: 형용사
 ---
 000_KEYWORD: 치밀히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79238
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3369,13 +3369,13 @@ imported:
     표제어: 치밀히
     품사: 부사
     항목ID: 79238
-processed:
+result:
   맞춤법 검사:
     표제어: 치밀히
     품사: 부사
 ---
 000_KEYWORD: 치받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79239
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3413,7 +3413,7 @@ imported:
     - 발음: 치반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79239_chibanneun.wav
       형태: 치받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -3421,7 +3421,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 치받다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79240
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3487,7 +3487,7 @@ imported:
     - 발음: 치반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79239_chibanneun.wav
       형태: 치받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -3495,7 +3495,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 치받치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79241
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3550,13 +3550,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79241_chibatcheo.wav
       형태: 치받쳐
     - 형태: 치받치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치받치다
     품사: 동사
 ---
 000_KEYWORD: 치부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79242
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3601,13 +3601,13 @@ imported:
     표제어: 치부
     품사: 명사
     항목ID: 79242
-processed:
+result:
   맞춤법 검사:
     표제어: 치부
     품사: 명사
 ---
 000_KEYWORD: 치부__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79243
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3634,13 +3634,13 @@ imported:
     표제어: 치부
     품사: 명사
     항목ID: 79243
-processed:
+result:
   맞춤법 검사:
     표제어: 치부
     품사: 명사
 ---
 000_KEYWORD: 치부되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79244
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3672,13 +3672,13 @@ imported:
     표제어: 치부되다
     품사: 동사
     항목ID: 79244
-processed:
+result:
   맞춤법 검사:
     표제어: 치부되다
     품사: 동사
 ---
 000_KEYWORD: 치부책__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79245
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3717,13 +3717,13 @@ imported:
     - 발음: 치ː부챙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/79245_chi-buchaengman.wav
       형태: 치부책만
-processed:
+result:
   맞춤법 검사:
     표제어: 치부책
     품사: 명사
 ---
 000_KEYWORD: 치부하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79246
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3753,13 +3753,13 @@ imported:
     표제어: 치부하다
     품사: 동사
     항목ID: 79246
-processed:
+result:
   맞춤법 검사:
     표제어: 치부하다
     품사: 동사
 ---
 000_KEYWORD: 치부하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79248
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3788,13 +3788,13 @@ imported:
     표제어: 치부하다
     품사: 동사
     항목ID: 79248
-processed:
+result:
   맞춤법 검사:
     표제어: 치부하다
     품사: 동사
 ---
 000_KEYWORD: 치사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79249
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3823,13 +3823,13 @@ imported:
     표제어: 치사
     품사: 명사
     항목ID: 79249
-processed:
+result:
   맞춤법 검사:
     표제어: 치사
     품사: 명사
 ---
 000_KEYWORD: 치사__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79250
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3857,13 +3857,13 @@ imported:
     표제어: 치사
     품사: 명사
     항목ID: 79250
-processed:
+result:
   맞춤법 검사:
     표제어: 치사
     품사: 명사
 ---
 000_KEYWORD: 치사랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79251
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3894,13 +3894,13 @@ imported:
     표제어: 치사랑
     품사: 명사
     항목ID: 79251
-processed:
+result:
   맞춤법 검사:
     표제어: 치사랑
     품사: 명사
 ---
 000_KEYWORD: 치사량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79252
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3929,13 +3929,13 @@ imported:
     표제어: 치사량
     품사: 명사
     항목ID: 79252
-processed:
+result:
   맞춤법 검사:
     표제어: 치사량
     품사: 명사
 ---
 000_KEYWORD: 치사스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79253
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3975,7 +3975,7 @@ imported:
       형태: 치사스러우니
     - 발음: 치사스럽씀니다
       형태: 치사스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -3983,7 +3983,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 치사율__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79254
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4011,13 +4011,13 @@ imported:
     표제어: 치사율
     품사: 명사
     항목ID: 79254
-processed:
+result:
   맞춤법 검사:
     표제어: 치사율
     품사: 명사
 ---
 000_KEYWORD: 치사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79256
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4045,13 +4045,13 @@ imported:
     표제어: 치사하다
     품사: 동사
     항목ID: 79256
-processed:
+result:
   맞춤법 검사:
     표제어: 치사하다
     품사: 동사
 ---
 000_KEYWORD: 치사하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79257
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4079,13 +4079,13 @@ imported:
     표제어: 치사하다
     품사: 동사
     항목ID: 79257
-processed:
+result:
   맞춤법 검사:
     표제어: 치사하다
     품사: 동사
 ---
 000_KEYWORD: 치사하다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79377
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4113,13 +4113,13 @@ imported:
     표제어: 치사하다
     품사: 동사
     항목ID: 79377
-processed:
+result:
   맞춤법 검사:
     표제어: 치사하다
     품사: 동사
 ---
 000_KEYWORD: 치사하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4128,13 +4128,13 @@ imported:
     표제어: 치사하다
     품사: 형용사
     항목ID: 27142
-processed:
+result:
   맞춤법 검사:
     표제어: 치사하다
     품사: 형용사
 ---
 000_KEYWORD: 치석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79378
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4173,13 +4173,13 @@ imported:
     - 발음: 치성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/79378_chiseongman.wav
       형태: 치석만
-processed:
+result:
   맞춤법 검사:
     표제어: 치석
     품사: 명사
 ---
 000_KEYWORD: 치솟다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79379
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4239,7 +4239,7 @@ imported:
     - 발음: 치손는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79379_chisonneun.wav
       형태: 치솟는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -4247,7 +4247,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 치수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79380
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4277,13 +4277,13 @@ imported:
     표제어: 치수
     품사: 명사
     항목ID: 79380
-processed:
+result:
   맞춤법 검사:
     표제어: 치수
     품사: 명사
 ---
 000_KEYWORD: 치수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79381
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4310,13 +4310,13 @@ imported:
     표제어: 치수
     품사: 명사
     항목ID: 79381
-processed:
+result:
   맞춤법 검사:
     표제어: 치수
     품사: 명사
 ---
 000_KEYWORD: 치실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79382
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4347,13 +4347,13 @@ imported:
     표제어: 치실
     품사: 명사
     항목ID: 79382
-processed:
+result:
   맞춤법 검사:
     표제어: 치실
     품사: 명사
 ---
 000_KEYWORD: 치아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28122
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4384,13 +4384,13 @@ imported:
     표제어: 치아
     품사: 명사
     항목ID: 28122
-processed:
+result:
   맞춤법 검사:
     표제어: 치아
     품사: 명사
 ---
 000_KEYWORD: 치안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79383
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4421,13 +4421,13 @@ imported:
     표제어: 치안
     품사: 명사
     항목ID: 79383
-processed:
+result:
   맞춤법 검사:
     표제어: 치안
     품사: 명사
 ---
 000_KEYWORD: 치약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26903
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4467,13 +4467,13 @@ imported:
     - 발음: 치양만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/26903_chiyangman.wav
       형태: 치약만
-processed:
+result:
   맞춤법 검사:
     표제어: 치약
     품사: 명사
 ---
 000_KEYWORD: 치어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79384
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4500,13 +4500,13 @@ imported:
     표제어: 치어
     품사: 명사
     항목ID: 79384
-processed:
+result:
   맞춤법 검사:
     표제어: 치어
     품사: 명사
 ---
 000_KEYWORD: 치어다보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79385
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4573,13 +4573,13 @@ imported:
     - 발음: 치여다보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79385_chiyeodaboni.wav
       형태: 치어다보니
-processed:
+result:
   맞춤법 검사:
     표제어: 치어다보다
     품사: 동사
 ---
 000_KEYWORD: 치어리더__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4590,13 +4590,13 @@ imported:
     표제어: 치어리더
     품사: 명사:보통:비서술성
     항목ID: 27150
-processed:
+result:
   맞춤법 검사:
     표제어: 치어리더
     품사: 명사
 ---
 000_KEYWORD: 치열__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79386
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4624,13 +4624,13 @@ imported:
     표제어: 치열
     품사: 명사
     항목ID: 79386
-processed:
+result:
   맞춤법 검사:
     표제어: 치열
     품사: 명사
 ---
 000_KEYWORD: 치열하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79388
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4671,13 +4671,13 @@ imported:
       형태: 치열하니
     - 발음: 치열함니다
       형태: 치열합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 치열하다
     품사: 형용사
 ---
 000_KEYWORD: 치오르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79389
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4720,7 +4720,7 @@ imported:
     활용:
     - 형태: 치올라
     - 형태: 치오르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -4728,7 +4728,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 치올리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79390
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4764,13 +4764,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79390_chiolliyeo.wav
       형태: 치올리어
     - 형태: 치올리니
-processed:
+result:
   맞춤법 검사:
     표제어: 치올리다
     품사: 동사
 ---
 000_KEYWORD: 치욕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79392
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4812,13 +4812,13 @@ imported:
     - 발음: 치용만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/79392_chiyongman.wav
       형태: 치욕만
-processed:
+result:
   맞춤법 검사:
     표제어: 치욕
     품사: 명사
 ---
 000_KEYWORD: 치욕감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79393
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4845,13 +4845,13 @@ imported:
     표제어: 치욕감
     품사: 명사
     항목ID: 79393
-processed:
+result:
   맞춤법 검사:
     표제어: 치욕감
     품사: 명사
 ---
 000_KEYWORD: 치욕스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79394
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4890,7 +4890,7 @@ imported:
       형태: 치욕스러우니
     - 발음: 치욕쓰럽씀니다
       형태: 치욕스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -4898,7 +4898,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 치욕적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79395
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4925,13 +4925,13 @@ imported:
     표제어: 치욕적
     품사: 관형사
     항목ID: 79395
-processed:
+result:
   맞춤법 검사:
     표제어: 치욕적
     품사: 관형사
 ---
 000_KEYWORD: 치욕적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79396
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4959,13 +4959,13 @@ imported:
     표제어: 치욕적
     품사: 명사
     항목ID: 79396
-processed:
+result:
   맞춤법 검사:
     표제어: 치욕적
     품사: 명사
 ---
 000_KEYWORD: 치우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89815
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5066,13 +5066,13 @@ imported:
     활용:
     - 형태: 치우어
     - 형태: 치우니
-processed:
+result:
   맞춤법 검사:
     표제어: 치우다
     품사: 동사
 ---
 000_KEYWORD: 치우다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74290
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5113,7 +5113,7 @@ imported:
       형태: 치우니
     - 발음: 치움니다
       형태: 치웁니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -5121,7 +5121,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 치우치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79575
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5160,13 +5160,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79575_chiucheo.wav
       형태: 치우쳐
     - 형태: 치우치니
-processed:
+result:
   맞춤법 검사:
     표제어: 치우치다
     품사: 동사
 ---
 000_KEYWORD: 치유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79576
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5196,13 +5196,13 @@ imported:
     표제어: 치유
     품사: 명사
     항목ID: 79576
-processed:
+result:
   맞춤법 검사:
     표제어: 치유
     품사: 명사
 ---
 000_KEYWORD: 치유되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79577
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5233,13 +5233,13 @@ imported:
     표제어: 치유되다
     품사: 동사
     항목ID: 79577
-processed:
+result:
   맞춤법 검사:
     표제어: 치유되다
     품사: 동사
 ---
 000_KEYWORD: 치유하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79578
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5269,13 +5269,13 @@ imported:
     표제어: 치유하다
     품사: 동사
     항목ID: 79578
-processed:
+result:
   맞춤법 검사:
     표제어: 치유하다
     품사: 동사
 ---
 000_KEYWORD: 치읓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69099
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5307,13 +5307,13 @@ imported:
     - 발음: 치은만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/69099_chieunman.wav
       형태: 치읓만
-processed:
+result:
   맞춤법 검사:
     표제어: 치읓
     품사: 명사
 ---
 000_KEYWORD: 치이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79579
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5375,13 +5375,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79580_chiiyeo.wav
       형태: 치이어
     - 형태: 치이니
-processed:
+result:
   맞춤법 검사:
     표제어: 치이다
     품사: 동사
 ---
 000_KEYWORD: 치이다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79580
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5417,13 +5417,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79580_chiiyeo.wav
       형태: 치이어
     - 형태: 치이니
-processed:
+result:
   맞춤법 검사:
     표제어: 치이다
     품사: 동사
 ---
 000_KEYWORD: 치자나무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5433,13 +5433,13 @@ imported:
     표제어: 치자나무
     품사: 명사:보통:비서술성
     항목ID: 27161
-processed:
+result:
   맞춤법 검사:
     표제어: 치자나무
     품사: 명사
 ---
 000_KEYWORD: 치장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79581
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5475,13 +5475,13 @@ imported:
     표제어: 치장
     품사: 명사
     항목ID: 79581
-processed:
+result:
   맞춤법 검사:
     표제어: 치장
     품사: 명사
 ---
 000_KEYWORD: 치장되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79582
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5517,13 +5517,13 @@ imported:
     표제어: 치장되다
     품사: 동사
     항목ID: 79582
-processed:
+result:
   맞춤법 검사:
     표제어: 치장되다
     품사: 동사
 ---
 000_KEYWORD: 치장하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79583
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5559,13 +5559,13 @@ imported:
     표제어: 치장하다
     품사: 동사
     항목ID: 79583
-processed:
+result:
   맞춤법 검사:
     표제어: 치장하다
     품사: 동사
 ---
 000_KEYWORD: 치적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79584
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5602,13 +5602,13 @@ imported:
     - 발음: 치정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/79584_chijeongman.wav
       형태: 치적만
-processed:
+result:
   맞춤법 검사:
     표제어: 치적
     품사: 명사
 ---
 000_KEYWORD: 치정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79585
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5636,13 +5636,13 @@ imported:
     표제어: 치정
     품사: 명사
     항목ID: 79585
-processed:
+result:
   맞춤법 검사:
     표제어: 치정
     품사: 명사
 ---
 000_KEYWORD: 치조골__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5651,13 +5651,13 @@ imported:
     표제어: 치조골
     품사: 명사:보통:서술성
     항목ID: 27165
-processed:
+result:
   맞춤법 검사:
     표제어: 치조골
     품사: 명사
 ---
 000_KEYWORD: 치졸하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79586
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5698,13 +5698,13 @@ imported:
       형태: 치졸하니
     - 발음: 치졸함니다
       형태: 치졸합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 치졸하다
     품사: 형용사
 ---
 000_KEYWORD: 치중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79587
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5732,13 +5732,13 @@ imported:
     표제어: 치중
     품사: 명사
     항목ID: 79587
-processed:
+result:
   맞춤법 검사:
     표제어: 치중
     품사: 명사
 ---
 000_KEYWORD: 치중되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79588
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5768,13 +5768,13 @@ imported:
     표제어: 치중되다
     품사: 동사
     항목ID: 79588
-processed:
+result:
   맞춤법 검사:
     표제어: 치중되다
     품사: 동사
 ---
 000_KEYWORD: 치중하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79589
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5804,13 +5804,13 @@ imported:
     표제어: 치중하다
     품사: 동사
     항목ID: 79589
-processed:
+result:
   맞춤법 검사:
     표제어: 치중하다
     품사: 동사
 ---
 000_KEYWORD: 치즈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72155
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5848,13 +5848,13 @@ imported:
     표제어: 치즈
     품사: 명사
     항목ID: 72155
-processed:
+result:
   맞춤법 검사:
     표제어: 치즈
     품사: 명사
 ---
 000_KEYWORD: 치질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79590
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5883,13 +5883,13 @@ imported:
     표제어: 치질
     품사: 명사
     항목ID: 79590
-processed:
+result:
   맞춤법 검사:
     표제어: 치질
     품사: 명사
 ---
 000_KEYWORD: 치켜들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79591
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5927,13 +5927,13 @@ imported:
     - 발음: 치켜듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79591_chikyeodeumnida.wav
       형태: 치켜듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 치켜들다
     품사: 동사
 ---
 000_KEYWORD: 치켜뜨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79592
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5964,13 +5964,13 @@ imported:
     활용:
     - 형태: 치켜떠
     - 형태: 치켜뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 치켜뜨다
     품사: 동사
 ---
 000_KEYWORD: 치켜세우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79594
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6017,13 +6017,13 @@ imported:
     활용:
     - 형태: 치켜세우어
     - 형태: 치켜세우니
-processed:
+result:
   맞춤법 검사:
     표제어: 치켜세우다
     품사: 동사
 ---
 000_KEYWORD: 치키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79595
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6059,13 +6059,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79595_chikiyeo.wav
       형태: 치키어
     - 형태: 치키니
-processed:
+result:
   맞춤법 검사:
     표제어: 치키다
     품사: 동사
 ---
 000_KEYWORD: 치킨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80595
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6093,13 +6093,13 @@ imported:
     표제어: 치킨
     품사: 명사
     항목ID: 80595
-processed:
+result:
   맞춤법 검사:
     표제어: 치킨
     품사: 명사
 ---
 000_KEYWORD: 치킨집__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6108,13 +6108,13 @@ imported:
     표제어: 치킨집
     품사: 명사:보통:비서술성
     항목ID: 27172
-processed:
+result:
   맞춤법 검사:
     표제어: 치킨집
     품사: 명사
 ---
 000_KEYWORD: 치타__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80597
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6144,13 +6144,13 @@ imported:
     표제어: 치타
     품사: 명사
     항목ID: 80597
-processed:
+result:
   맞춤법 검사:
     표제어: 치타
     품사: 명사
 ---
 000_KEYWORD: 치통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80600
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6180,13 +6180,13 @@ imported:
     표제어: 치통
     품사: 명사
     항목ID: 80600
-processed:
+result:
   맞춤법 검사:
     표제어: 치통
     품사: 명사
 ---
 000_KEYWORD: 치하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80602
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6213,13 +6213,13 @@ imported:
     표제어: 치하
     품사: 명사
     항목ID: 80602
-processed:
+result:
   맞춤법 검사:
     표제어: 치하
     품사: 명사
 ---
 000_KEYWORD: 치하__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80606
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6246,13 +6246,13 @@ imported:
     표제어: 치하
     품사: 명사
     항목ID: 80606
-processed:
+result:
   맞춤법 검사:
     표제어: 치하
     품사: 명사
 ---
 000_KEYWORD: 치하하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80609
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6280,13 +6280,13 @@ imported:
     표제어: 치하하다
     품사: 동사
     항목ID: 80609
-processed:
+result:
   맞춤법 검사:
     표제어: 치하하다
     품사: 동사
 ---
 000_KEYWORD: 치한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80615
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6315,13 +6315,13 @@ imported:
     표제어: 치한
     품사: 명사
     항목ID: 80615
-processed:
+result:
   맞춤법 검사:
     표제어: 치한
     품사: 명사
 ---
 000_KEYWORD: 치향하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6330,13 +6330,13 @@ imported:
     표제어: 치향하다
     품사: 동사
     항목ID: 27177
-processed:
+result:
   맞춤법 검사:
     표제어: 치향하다
     품사: 동사
 ---
 000_KEYWORD: 치환__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80618
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6362,13 +6362,13 @@ imported:
     표제어: 치환
     품사: 명사
     항목ID: 80618
-processed:
+result:
   맞춤법 검사:
     표제어: 치환
     품사: 명사
 ---
 000_KEYWORD: 치환되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80621
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6398,13 +6398,13 @@ imported:
     표제어: 치환되다
     품사: 동사
     항목ID: 80621
-processed:
+result:
   맞춤법 검사:
     표제어: 치환되다
     품사: 동사
 ---
 000_KEYWORD: 치환하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80625
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6433,13 +6433,13 @@ imported:
     표제어: 치환하다
     품사: 동사
     항목ID: 80625
-processed:
+result:
   맞춤법 검사:
     표제어: 치환하다
     품사: 동사
 ---
 000_KEYWORD: 칙령__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6448,13 +6448,13 @@ imported:
     표제어: 칙령
     품사: 명사:보통:비서술성
     항목ID: 27181
-processed:
+result:
   맞춤법 검사:
     표제어: 칙령
     품사: 명사
 ---
 000_KEYWORD: 칙칙폭폭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80629
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6481,13 +6481,13 @@ imported:
     표제어: 칙칙폭폭
     품사: 부사
     항목ID: 80629
-processed:
+result:
   맞춤법 검사:
     표제어: 칙칙폭폭
     품사: 부사
 ---
 000_KEYWORD: 칙칙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80633
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6539,13 +6539,13 @@ imported:
       형태: 칙칙하니
     - 발음: 칙치캄니다
       형태: 칙칙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 칙칙하다
     품사: 형용사
 ---
 000_KEYWORD: 친-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83192
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6598,11 +6598,11 @@ imported:
     표제어: 친-
     품사: 접사
     항목ID: 83192
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 친가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80638
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6634,13 +6634,13 @@ imported:
     표제어: 친가
     품사: 명사
     항목ID: 80638
-processed:
+result:
   맞춤법 검사:
     표제어: 친가
     품사: 명사
 ---
 000_KEYWORD: 친고죄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80641
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6669,13 +6669,13 @@ imported:
     표제어: 친고죄
     품사: 명사
     항목ID: 80641
-processed:
+result:
   맞춤법 검사:
     표제어: 친고죄
     품사: 명사
 ---
 000_KEYWORD: 친교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80643
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6706,13 +6706,13 @@ imported:
     표제어: 친교
     품사: 명사
     항목ID: 80643
-processed:
+result:
   맞춤법 검사:
     표제어: 친교
     품사: 명사
 ---
 000_KEYWORD: 친구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29742
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6769,13 +6769,13 @@ imported:
     표제어: 친구
     품사: 명사
     항목ID: 29742
-processed:
+result:
   맞춤법 검사:
     표제어: 친구
     품사: 명사
 ---
 000_KEYWORD: 친권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80645
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6804,13 +6804,13 @@ imported:
     표제어: 친권
     품사: 명사
     항목ID: 80645
-processed:
+result:
   맞춤법 검사:
     표제어: 친권
     품사: 명사
 ---
 000_KEYWORD: 친권자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80648
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6839,13 +6839,13 @@ imported:
     표제어: 친권자
     품사: 명사
     항목ID: 80648
-processed:
+result:
   맞춤법 검사:
     표제어: 친권자
     품사: 명사
 ---
 000_KEYWORD: 친근감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80652
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6877,13 +6877,13 @@ imported:
     표제어: 친근감
     품사: 명사
     항목ID: 80652
-processed:
+result:
   맞춤법 검사:
     표제어: 친근감
     품사: 명사
 ---
 000_KEYWORD: 친근하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80660
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -6946,13 +6946,13 @@ imported:
       형태: 친근하니
     - 발음: 친근함니다
       형태: 친근합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 친근하다
     품사: 형용사
 ---
 000_KEYWORD: 친동생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80662
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6980,13 +6980,13 @@ imported:
     표제어: 친동생
     품사: 명사
     항목ID: 80662
-processed:
+result:
   맞춤법 검사:
     표제어: 친동생
     품사: 명사
 ---
 000_KEYWORD: 친딸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81304
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7017,13 +7017,13 @@ imported:
     표제어: 친딸
     품사: 명사
     항목ID: 81304
-processed:
+result:
   맞춤법 검사:
     표제어: 친딸
     품사: 명사
 ---
 000_KEYWORD: 친모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81309
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7075,13 +7075,13 @@ imported:
     표제어: 친모
     품사: 명사
     항목ID: 81309
-processed:
+result:
   맞춤법 검사:
     표제어: 친모
     품사: 명사
 ---
 000_KEYWORD: 친목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81321
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7120,13 +7120,13 @@ imported:
     - 발음: 친몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/81321_chinmongman.wav
       형태: 친목만
-processed:
+result:
   맞춤법 검사:
     표제어: 친목
     품사: 명사
 ---
 000_KEYWORD: 친목계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81326
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7157,13 +7157,13 @@ imported:
     표제어: 친목계
     품사: 명사
     항목ID: 81326
-processed:
+result:
   맞춤법 검사:
     표제어: 친목계
     품사: 명사
 ---
 000_KEYWORD: 친목회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81333
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7201,13 +7201,13 @@ imported:
     표제어: 친목회
     품사: 명사
     항목ID: 81333
-processed:
+result:
   맞춤법 검사:
     표제어: 친목회
     품사: 명사
 ---
 000_KEYWORD: 친밀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81339
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7237,13 +7237,13 @@ imported:
     표제어: 친밀
     품사: 명사
     항목ID: 81339
-processed:
+result:
   맞춤법 검사:
     표제어: 친밀
     품사: 명사
 ---
 000_KEYWORD: 친밀감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81343
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7273,13 +7273,13 @@ imported:
     표제어: 친밀감
     품사: 명사
     항목ID: 81343
-processed:
+result:
   맞춤법 검사:
     표제어: 친밀감
     품사: 명사
 ---
 000_KEYWORD: 친밀하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81346
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7320,13 +7320,13 @@ imported:
       형태: 친밀하니
     - 발음: 친밀함니다
       형태: 친밀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 친밀하다
     품사: 형용사
 ---
 000_KEYWORD: 친부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81352
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7378,13 +7378,13 @@ imported:
     표제어: 친부
     품사: 명사
     항목ID: 81352
-processed:
+result:
   맞춤법 검사:
     표제어: 친부
     품사: 명사
 ---
 000_KEYWORD: 친부모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81359
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7416,13 +7416,13 @@ imported:
     표제어: 친부모
     품사: 명사
     항목ID: 81359
-processed:
+result:
   맞춤법 검사:
     표제어: 친부모
     품사: 명사
 ---
 000_KEYWORD: 친분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81363
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7453,13 +7453,13 @@ imported:
     표제어: 친분
     품사: 명사
     항목ID: 81363
-processed:
+result:
   맞춤법 검사:
     표제어: 친분
     품사: 명사
 ---
 000_KEYWORD: 친삼촌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81366
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7491,13 +7491,13 @@ imported:
     표제어: 친삼촌
     품사: 명사
     항목ID: 81366
-processed:
+result:
   맞춤법 검사:
     표제어: 친삼촌
     품사: 명사
 ---
 000_KEYWORD: 친서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81372
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7535,13 +7535,13 @@ imported:
     표제어: 친서
     품사: 명사
     항목ID: 81372
-processed:
+result:
   맞춤법 검사:
     표제어: 친서
     품사: 명사
 ---
 000_KEYWORD: 친선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81378
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7570,13 +7570,13 @@ imported:
     표제어: 친선
     품사: 명사
     항목ID: 81378
-processed:
+result:
   맞춤법 검사:
     표제어: 친선
     품사: 명사
 ---
 000_KEYWORD: 친소__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7586,13 +7586,13 @@ imported:
     표제어: 친소
     품사: 명사:보통:서술성
     항목ID: 27198
-processed:
+result:
   맞춤법 검사:
     표제어: 친소
     품사: 명사
 ---
 000_KEYWORD: 친손녀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81384
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7624,13 +7624,13 @@ imported:
     표제어: 친손녀
     품사: 명사
     항목ID: 81384
-processed:
+result:
   맞춤법 검사:
     표제어: 친손녀
     품사: 명사
 ---
 000_KEYWORD: 친손자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81385
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7662,13 +7662,13 @@ imported:
     표제어: 친손자
     품사: 명사
     항목ID: 81385
-processed:
+result:
   맞춤법 검사:
     표제어: 친손자
     품사: 명사
 ---
 000_KEYWORD: 친숙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81388
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7706,13 +7706,13 @@ imported:
     - 발음: 친숭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/81388_chinsungman.wav
       형태: 친숙만
-processed:
+result:
   맞춤법 검사:
     표제어: 친숙
     품사: 명사
 ---
 000_KEYWORD: 친숙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81394
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7759,13 +7759,13 @@ imported:
       형태: 친숙하니
     - 발음: 친수캄니다
       형태: 친숙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 친숙하다
     품사: 형용사
 ---
 000_KEYWORD: 친아들__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81402
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7794,13 +7794,13 @@ imported:
     표제어: 친아들
     품사: 명사
     항목ID: 81402
-processed:
+result:
   맞춤법 검사:
     표제어: 친아들
     품사: 명사
 ---
 000_KEYWORD: 친아버지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80568
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7854,13 +7854,13 @@ imported:
     표제어: 친아버지
     품사: 명사
     항목ID: 80568
-processed:
+result:
   맞춤법 검사:
     표제어: 친아버지
     품사: 명사
 ---
 000_KEYWORD: 친애하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80570
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7889,13 +7889,13 @@ imported:
     표제어: 친애하다
     품사: 동사
     항목ID: 80570
-processed:
+result:
   맞춤법 검사:
     표제어: 친애하다
     품사: 동사
 ---
 000_KEYWORD: 친어머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80572
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7950,13 +7950,13 @@ imported:
     표제어: 친어머니
     품사: 명사
     항목ID: 80572
-processed:
+result:
   맞춤법 검사:
     표제어: 친어머니
     품사: 명사
 ---
 000_KEYWORD: 친언니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80573
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7988,13 +7988,13 @@ imported:
     표제어: 친언니
     품사: 명사
     항목ID: 80573
-processed:
+result:
   맞춤법 검사:
     표제어: 친언니
     품사: 명사
 ---
 000_KEYWORD: 친오빠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80575
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8023,13 +8023,13 @@ imported:
     표제어: 친오빠
     품사: 명사
     항목ID: 80575
-processed:
+result:
   맞춤법 검사:
     표제어: 친오빠
     품사: 명사
 ---
 000_KEYWORD: 친위대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8038,13 +8038,13 @@ imported:
     표제어: 친위대
     품사: 명사:보통:비서술성
     항목ID: 27205
-processed:
+result:
   맞춤법 검사:
     표제어: 친위대
     품사: 명사
 ---
 000_KEYWORD: 친인척__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8053,13 +8053,13 @@ imported:
     표제어: 친인척
     품사: 명사:보통:비서술성
     항목ID: 27206
-processed:
+result:
   맞춤법 검사:
     표제어: 친인척
     품사: 명사
 ---
 000_KEYWORD: 친일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80580
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8106,13 +8106,13 @@ imported:
     표제어: 친일
     품사: 명사
     항목ID: 80580
-processed:
+result:
   맞춤법 검사:
     표제어: 친일
     품사: 명사
 ---
 000_KEYWORD: 친일파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80582
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8143,13 +8143,13 @@ imported:
     표제어: 친일파
     품사: 명사
     항목ID: 80582
-processed:
+result:
   맞춤법 검사:
     표제어: 친일파
     품사: 명사
 ---
 000_KEYWORD: 친자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80584
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8181,13 +8181,13 @@ imported:
     표제어: 친자
     품사: 명사
     항목ID: 80584
-processed:
+result:
   맞춤법 검사:
     표제어: 친자
     품사: 명사
 ---
 000_KEYWORD: 친자식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91721
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8227,13 +8227,13 @@ imported:
     - 발음: 친자싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/91721_chinjasingman.wav
       형태: 친자식만
-processed:
+result:
   맞춤법 검사:
     표제어: 친자식
     품사: 명사
 ---
 000_KEYWORD: 친절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72156
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8263,13 +8263,13 @@ imported:
     표제어: 친절
     품사: 명사
     항목ID: 72156
-processed:
+result:
   맞춤법 검사:
     표제어: 친절
     품사: 명사
 ---
 000_KEYWORD: 친절하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72157
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8312,13 +8312,13 @@ imported:
       형태: 친절하니
     - 발음: 친절함니다
       형태: 친절합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 친절하다
     품사: 형용사
 ---
 000_KEYWORD: 친절히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80586
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8347,13 +8347,13 @@ imported:
     표제어: 친절히
     품사: 부사
     항목ID: 80586
-processed:
+result:
   맞춤법 검사:
     표제어: 친절히
     품사: 부사
 ---
 000_KEYWORD: 친정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28126
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8390,13 +8390,13 @@ imported:
     표제어: 친정
     품사: 명사
     항목ID: 28126
-processed:
+result:
   맞춤법 검사:
     표제어: 친정
     품사: 명사
 ---
 000_KEYWORD: 친정아버지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80590
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8428,13 +8428,13 @@ imported:
     표제어: 친정아버지
     품사: 명사
     항목ID: 80590
-processed:
+result:
   맞춤법 검사:
     표제어: 친정아버지
     품사: 명사
 ---
 000_KEYWORD: 친정어머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80591
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8467,13 +8467,13 @@ imported:
     표제어: 친정어머니
     품사: 명사
     항목ID: 80591
-processed:
+result:
   맞춤법 검사:
     표제어: 친정어머니
     품사: 명사
 ---
 000_KEYWORD: 친정집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80593
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8520,13 +8520,13 @@ imported:
     - 발음: 친정찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/80593_chinjeongjjimman.wav
       형태: 친정집만
-processed:
+result:
   맞춤법 검사:
     표제어: 친정집
     품사: 명사
 ---
 000_KEYWORD: 친족__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80599
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8578,13 +8578,13 @@ imported:
     - 발음: 친종만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/80599_chinjongman.wav
       형태: 친족만
-processed:
+result:
   맞춤법 검사:
     표제어: 친족
     품사: 명사
 ---
 000_KEYWORD: 친지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80601
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8615,13 +8615,13 @@ imported:
     표제어: 친지
     품사: 명사
     항목ID: 80601
-processed:
+result:
   맞춤법 검사:
     표제어: 친지
     품사: 명사
 ---
 000_KEYWORD: 친척__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72158
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8666,13 +8666,13 @@ imported:
     - 발음: 친청만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/72158_chincheongman.wav
       형태: 친척만
-processed:
+result:
   맞춤법 검사:
     표제어: 친척
     품사: 명사
 ---
 000_KEYWORD: 친필__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80605
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8708,13 +8708,13 @@ imported:
     표제어: 친필
     품사: 명사
     항목ID: 80605
-processed:
+result:
   맞춤법 검사:
     표제어: 친필
     품사: 명사
 ---
 000_KEYWORD: 친하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80614
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8759,13 +8759,13 @@ imported:
       형태: 친하니
     - 발음: 친함니다
       형태: 친합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 친하다
     품사: 형용사
 ---
 000_KEYWORD: 친할머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80619
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8800,13 +8800,13 @@ imported:
     표제어: 친할머니
     품사: 명사
     항목ID: 80619
-processed:
+result:
   맞춤법 검사:
     표제어: 친할머니
     품사: 명사
 ---
 000_KEYWORD: 친할아버지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80622
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8841,13 +8841,13 @@ imported:
     표제어: 친할아버지
     품사: 명사
     항목ID: 80622
-processed:
+result:
   맞춤법 검사:
     표제어: 친할아버지
     품사: 명사
 ---
 000_KEYWORD: 친형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80624
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8876,13 +8876,13 @@ imported:
     표제어: 친형
     품사: 명사
     항목ID: 80624
-processed:
+result:
   맞춤법 검사:
     표제어: 친형
     품사: 명사
 ---
 000_KEYWORD: 친형제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80627
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8911,13 +8911,13 @@ imported:
     표제어: 친형제
     품사: 명사
     항목ID: 80627
-processed:
+result:
   맞춤법 검사:
     표제어: 친형제
     품사: 명사
 ---
 000_KEYWORD: 친화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80634
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8951,13 +8951,13 @@ imported:
     표제어: 친화
     품사: 명사
     항목ID: 80634
-processed:
+result:
   맞춤법 검사:
     표제어: 친화
     품사: 명사
 ---
 000_KEYWORD: 친화력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80637
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8999,13 +8999,13 @@ imported:
     - 발음: 친화령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/80637_chinhwaryeongman.wav
       형태: 친화력만
-processed:
+result:
   맞춤법 검사:
     표제어: 친화력
     품사: 명사
 ---
 000_KEYWORD: 친환경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80642
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9038,13 +9038,13 @@ imported:
     표제어: 친환경
     품사: 명사
     항목ID: 80642
-processed:
+result:
   맞춤법 검사:
     표제어: 친환경
     품사: 명사
 ---
 000_KEYWORD: 친환경적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9054,13 +9054,13 @@ imported:
     표제어: 친환경적
     품사: 명사:보통:서술성
     항목ID: 27222
-processed:
+result:
   맞춤법 검사:
     표제어: 친환경적
     품사: 명사
 ---
 000_KEYWORD: 친히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80646
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9095,13 +9095,13 @@ imported:
     표제어: 친히
     품사: 부사
     항목ID: 80646
-processed:
+result:
   맞춤법 검사:
     표제어: 친히
     품사: 부사
 ---
 000_KEYWORD: 칠__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71471
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9142,13 +9142,13 @@ imported:
     표제어: 칠
     품사: 관형사
     항목ID: 71471
-processed:
+result:
   맞춤법 검사:
     표제어: 칠
     품사: 관형사
 ---
 000_KEYWORD: 칠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90770
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9189,13 +9189,13 @@ imported:
     표제어: 칠
     품사: 명사
     항목ID: 90770
-processed:
+result:
   맞춤법 검사:
     표제어: 칠
     품사: 명사
 ---
 000_KEYWORD: 칠__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71470
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9224,17 +9224,17 @@ imported:
     표제어: 칠
     품사: 수사
     항목ID: 71470
-processed:
+result:
   맞춤법 검사:
     표제어: 칠
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 수:1
 ---
 000_KEYWORD: 칠거지악__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80654
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9273,13 +9273,13 @@ imported:
     - 발음: 칠거지앙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/80654_chilgeojiangman.wav
       형태: 칠거지악만
-processed:
+result:
   맞춤법 검사:
     표제어: 칠거지악
     품사: 명사
 ---
 000_KEYWORD: 칠기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80657
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9320,13 +9320,13 @@ imported:
     표제어: 칠기
     품사: 명사
     항목ID: 80657
-processed:
+result:
   맞춤법 검사:
     표제어: 칠기
     품사: 명사
 ---
 000_KEYWORD: 칠레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70018
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9344,13 +9344,13 @@ imported:
     표제어: 칠레
     품사: 명사
     항목ID: 70018
-processed:
+result:
   맞춤법 검사:
     표제어: 칠레
     품사: 명사
 ---
 000_KEYWORD: 칠면조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80687
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9382,13 +9382,13 @@ imported:
     표제어: 칠면조
     품사: 명사
     항목ID: 80687
-processed:
+result:
   맞춤법 검사:
     표제어: 칠면조
     품사: 명사
 ---
 000_KEYWORD: 칠부바지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80690
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9418,13 +9418,13 @@ imported:
     표제어: 칠부바지
     품사: 명사
     항목ID: 80690
-processed:
+result:
   맞춤법 검사:
     표제어: 칠부바지
     품사: 명사
 ---
 000_KEYWORD: 칠석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80692
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9466,13 +9466,13 @@ imported:
     - 발음: 칠썽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80692_chilsseongman.wav
       형태: 칠석만
-processed:
+result:
   맞춤법 검사:
     표제어: 칠석
     품사: 명사
 ---
 000_KEYWORD: 칠순__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80695
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9508,13 +9508,13 @@ imported:
     표제어: 칠순
     품사: 명사
     항목ID: 80695
-processed:
+result:
   맞춤법 검사:
     표제어: 칠순
     품사: 명사
 ---
 000_KEYWORD: 칠십__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35085
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9563,13 +9563,13 @@ imported:
     표제어: 칠십
     품사: 관형사
     항목ID: 35085
-processed:
+result:
   맞춤법 검사:
     표제어: 칠십
     품사: 관형사
 ---
 000_KEYWORD: 칠십__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=35087
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9608,17 +9608,17 @@ imported:
     - 발음: 칠씸만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/35085_chilssimman.wav
       형태: 칠십만
-processed:
+result:
   맞춤법 검사:
     표제어: 칠십
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 수:10
 ---
 000_KEYWORD: 칠월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30186
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9656,13 +9656,13 @@ imported:
     표제어: 칠월
     품사: 명사
     항목ID: 30186
-processed:
+result:
   맞춤법 검사:
     표제어: 칠월
     품사: 명사
 ---
 000_KEYWORD: 칠장이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80707
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9690,13 +9690,13 @@ imported:
     표제어: 칠장이
     품사: 명사
     항목ID: 80707
-processed:
+result:
   맞춤법 검사:
     표제어: 칠장이
     품사: 명사
 ---
 000_KEYWORD: 칠전팔기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80709
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9730,13 +9730,13 @@ imported:
     표제어: 칠전팔기
     품사: 명사
     항목ID: 80709
-processed:
+result:
   맞춤법 검사:
     표제어: 칠전팔기
     품사: 명사
 ---
 000_KEYWORD: 칠전팔도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9746,13 +9746,13 @@ imported:
     표제어: 칠전팔도
     품사: 명사:보통:서술성
     항목ID: 27229
-processed:
+result:
   맞춤법 검사:
     표제어: 칠전팔도
     품사: 명사
 ---
 000_KEYWORD: 칠칠맞다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80711
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9812,13 +9812,13 @@ imported:
       형태: 칠칠맞으니
     - 발음: 칠칠맏씀니다
       형태: 칠칠맞습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 칠칠맞다
     품사: 형용사
 ---
 000_KEYWORD: 칠칠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80713
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9896,13 +9896,13 @@ imported:
       형태: 칠칠하니
     - 발음: 칠칠함니다
       형태: 칠칠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 칠칠하다
     품사: 형용사
 ---
 000_KEYWORD: 칠판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18796
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9947,13 +9947,13 @@ imported:
     표제어: 칠판
     품사: 명사
     항목ID: 18796
-processed:
+result:
   맞춤법 검사:
     표제어: 칠판
     품사: 명사
 ---
 000_KEYWORD: 칠판지우개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80719
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9987,13 +9987,13 @@ imported:
     표제어: 칠판지우개
     품사: 명사
     항목ID: 80719
-processed:
+result:
   맞춤법 검사:
     표제어: 칠판지우개
     품사: 명사
 ---
 000_KEYWORD: 칠푼이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10003,13 +10003,13 @@ imported:
     표제어: 칠푼이
     품사: 명사:보통:비서술성
     항목ID: 27233
-processed:
+result:
   맞춤법 검사:
     표제어: 칠푼이
     품사: 명사
 ---
 000_KEYWORD: 칠하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28124
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10038,13 +10038,13 @@ imported:
     표제어: 칠하다
     품사: 동사
     항목ID: 28124
-processed:
+result:
   맞춤법 검사:
     표제어: 칠하다
     품사: 동사
 ---
 000_KEYWORD: 칠흑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80723
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10084,13 +10084,13 @@ imported:
     - 발음: 칠흥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80723_chilheungman.wav
       형태: 칠흑만
-processed:
+result:
   맞춤법 검사:
     표제어: 칠흑
     품사: 명사
 ---
 000_KEYWORD: 칡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80733
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10128,13 +10128,13 @@ imported:
     - 발음: 칭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80733_chingman.wav
       형태: 칡만
-processed:
+result:
   맞춤법 검사:
     표제어: 칡
     품사: 명사
 ---
 000_KEYWORD: 칡넝쿨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80734
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10167,13 +10167,13 @@ imported:
     표제어: 칡넝쿨
     품사: 명사
     항목ID: 80734
-processed:
+result:
   맞춤법 검사:
     표제어: 칡넝쿨
     품사: 명사
 ---
 000_KEYWORD: 칡덩굴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80736
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10205,13 +10205,13 @@ imported:
     표제어: 칡덩굴
     품사: 명사
     항목ID: 80736
-processed:
+result:
   맞춤법 검사:
     표제어: 칡덩굴
     품사: 명사
 ---
 000_KEYWORD: 칡차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80737
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10238,13 +10238,13 @@ imported:
     표제어: 칡차
     품사: 명사
     항목ID: 80737
-processed:
+result:
   맞춤법 검사:
     표제어: 칡차
     품사: 명사
 ---
 000_KEYWORD: 침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28133
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10278,13 +10278,13 @@ imported:
     표제어: 침
     품사: 명사
     항목ID: 28133
-processed:
+result:
   맞춤법 검사:
     표제어: 침
     품사: 명사
 ---
 000_KEYWORD: 침공__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80739
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10316,13 +10316,13 @@ imported:
     표제어: 침공
     품사: 명사
     항목ID: 80739
-processed:
+result:
   맞춤법 검사:
     표제어: 침공
     품사: 명사
 ---
 000_KEYWORD: 침공하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80741
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10352,13 +10352,13 @@ imported:
     표제어: 침공하다
     품사: 동사
     항목ID: 80741
-processed:
+result:
   맞춤법 검사:
     표제어: 침공하다
     품사: 동사
 ---
 000_KEYWORD: 침구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80745
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10388,13 +10388,13 @@ imported:
     표제어: 침구
     품사: 명사
     항목ID: 80745
-processed:
+result:
   맞춤법 검사:
     표제어: 침구
     품사: 명사
 ---
 000_KEYWORD: 침낭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80748
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10427,13 +10427,13 @@ imported:
     표제어: 침낭
     품사: 명사
     항목ID: 80748
-processed:
+result:
   맞춤법 검사:
     표제어: 침낭
     품사: 명사
 ---
 000_KEYWORD: 침대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36702
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10479,13 +10479,13 @@ imported:
     표제어: 침대
     품사: 명사
     항목ID: 36702
-processed:
+result:
   맞춤법 검사:
     표제어: 침대
     품사: 명사
 ---
 000_KEYWORD: 침대보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80751
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10517,13 +10517,13 @@ imported:
     표제어: 침대보
     품사: 명사
     항목ID: 80751
-processed:
+result:
   맞춤법 검사:
     표제어: 침대보
     품사: 명사
 ---
 000_KEYWORD: 침대칸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80753
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10554,13 +10554,13 @@ imported:
     표제어: 침대칸
     품사: 명사
     항목ID: 80753
-processed:
+result:
   맞춤법 검사:
     표제어: 침대칸
     품사: 명사
 ---
 000_KEYWORD: 침략__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80757
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10606,13 +10606,13 @@ imported:
     - 발음: 침냥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80757_chimnyangman.wav
       형태: 침략만
-processed:
+result:
   맞춤법 검사:
     표제어: 침략
     품사: 명사
 ---
 000_KEYWORD: 침략군__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10621,13 +10621,13 @@ imported:
     표제어: 침략군
     품사: 명사:보통:비서술성
     항목ID: 27244
-processed:
+result:
   맞춤법 검사:
     표제어: 침략군
     품사: 명사
 ---
 000_KEYWORD: 침략적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10636,13 +10636,13 @@ imported:
     표제어: 침략적
     품사: 명사:보통:서술성
     항목ID: 32077
-processed:
+result:
   맞춤법 검사:
     표제어: 침략적
     품사: 명사
 ---
 000_KEYWORD: 침략하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80762
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10671,13 +10671,13 @@ imported:
     표제어: 침략하다
     품사: 동사
     항목ID: 80762
-processed:
+result:
   맞춤법 검사:
     표제어: 침략하다
     품사: 동사
 ---
 000_KEYWORD: 침례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80765
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10706,13 +10706,13 @@ imported:
     표제어: 침례
     품사: 명사
     항목ID: 80765
-processed:
+result:
   맞춤법 검사:
     표제어: 침례
     품사: 명사
 ---
 000_KEYWORD: 침례교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80770
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10744,13 +10744,13 @@ imported:
     표제어: 침례교
     품사: 명사
     항목ID: 80770
-processed:
+result:
   맞춤법 검사:
     표제어: 침례교
     품사: 명사
 ---
 000_KEYWORD: 침류왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10760,13 +10760,13 @@ imported:
     표제어: 침류왕
     품사: 명사:보통:서술성
     항목ID: 27248
-processed:
+result:
   맞춤법 검사:
     표제어: 침류왕
     품사: 명사
 ---
 000_KEYWORD: 침몰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80772
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10809,13 +10809,13 @@ imported:
     표제어: 침몰
     품사: 명사
     항목ID: 80772
-processed:
+result:
   맞춤법 검사:
     표제어: 침몰
     품사: 명사
 ---
 000_KEYWORD: 침몰되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80774
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10858,13 +10858,13 @@ imported:
     표제어: 침몰되다
     품사: 동사
     항목ID: 80774
-processed:
+result:
   맞춤법 검사:
     표제어: 침몰되다
     품사: 동사
 ---
 000_KEYWORD: 침몰하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80775
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10907,13 +10907,13 @@ imported:
     표제어: 침몰하다
     품사: 동사
     항목ID: 80775
-processed:
+result:
   맞춤법 검사:
     표제어: 침몰하다
     품사: 동사
 ---
 000_KEYWORD: 침묵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28136
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -10953,13 +10953,13 @@ imported:
     - 발음: 침뭉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/28136_chimmungman.wav
       형태: 침묵만
-processed:
+result:
   맞춤법 검사:
     표제어: 침묵
     품사: 명사
 ---
 000_KEYWORD: 침묵하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80777
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11002,13 +11002,13 @@ imported:
     표제어: 침묵하다
     품사: 동사
     항목ID: 80777
-processed:
+result:
   맞춤법 검사:
     표제어: 침묵하다
     품사: 동사
 ---
 000_KEYWORD: 침범__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80778
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11036,13 +11036,13 @@ imported:
     표제어: 침범
     품사: 명사
     항목ID: 80778
-processed:
+result:
   맞춤법 검사:
     표제어: 침범
     품사: 명사
 ---
 000_KEYWORD: 침범하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80779
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11073,13 +11073,13 @@ imported:
     표제어: 침범하다
     품사: 동사
     항목ID: 80779
-processed:
+result:
   맞춤법 검사:
     표제어: 침범하다
     품사: 동사
 ---
 000_KEYWORD: 침상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80781
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11113,13 +11113,13 @@ imported:
     표제어: 침상
     품사: 명사
     항목ID: 80781
-processed:
+result:
   맞춤법 검사:
     표제어: 침상
     품사: 명사
 ---
 000_KEYWORD: 침샘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80782
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11146,13 +11146,13 @@ imported:
     표제어: 침샘
     품사: 명사
     항목ID: 80782
-processed:
+result:
   맞춤법 검사:
     표제어: 침샘
     품사: 명사
 ---
 000_KEYWORD: 침선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80784
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11197,13 +11197,13 @@ imported:
     표제어: 침선
     품사: 명사
     항목ID: 80784
-processed:
+result:
   맞춤법 검사:
     표제어: 침선
     품사: 명사
 ---
 000_KEYWORD: 침소봉대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80787
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11232,13 +11232,13 @@ imported:
     표제어: 침소봉대
     품사: 명사
     항목ID: 80787
-processed:
+result:
   맞춤법 검사:
     표제어: 침소봉대
     품사: 명사
 ---
 000_KEYWORD: 침수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80788
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11268,13 +11268,13 @@ imported:
     표제어: 침수
     품사: 명사
     항목ID: 80788
-processed:
+result:
   맞춤법 검사:
     표제어: 침수
     품사: 명사
 ---
 000_KEYWORD: 침수되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80790
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11305,13 +11305,13 @@ imported:
     표제어: 침수되다
     품사: 동사
     항목ID: 80790
-processed:
+result:
   맞춤법 검사:
     표제어: 침수되다
     품사: 동사
 ---
 000_KEYWORD: 침수하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80791
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11342,13 +11342,13 @@ imported:
     표제어: 침수하다
     품사: 동사
     항목ID: 80791
-processed:
+result:
   맞춤법 검사:
     표제어: 침수하다
     품사: 동사
 ---
 000_KEYWORD: 침술__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80792
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11377,13 +11377,13 @@ imported:
     표제어: 침술
     품사: 명사
     항목ID: 80792
-processed:
+result:
   맞춤법 검사:
     표제어: 침술
     품사: 명사
 ---
 000_KEYWORD: 침식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80794
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11423,13 +11423,13 @@ imported:
     - 발음: 침ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80794_chim-singman.wav
       형태: 침식만
-processed:
+result:
   맞춤법 검사:
     표제어: 침식
     품사: 명사
 ---
 000_KEYWORD: 침식__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80799
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11465,13 +11465,13 @@ imported:
     - 발음: 침ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/chieut2_2005/chim-singman.wav
       형태: 침식만
-processed:
+result:
   맞춤법 검사:
     표제어: 침식
     품사: 명사
 ---
 000_KEYWORD: 침식__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80805
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11510,13 +11510,13 @@ imported:
     - 발음: 침ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/chieut2_2005/chim-singman.wav
       형태: 침식만
-processed:
+result:
   맞춤법 검사:
     표제어: 침식
     품사: 명사
 ---
 000_KEYWORD: 침식되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80795
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11548,13 +11548,13 @@ imported:
     표제어: 침식되다
     품사: 동사
     항목ID: 80795
-processed:
+result:
   맞춤법 검사:
     표제어: 침식되다
     품사: 동사
 ---
 000_KEYWORD: 침식되다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80800
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11586,13 +11586,13 @@ imported:
     표제어: 침식되다
     품사: 동사
     항목ID: 80800
-processed:
+result:
   맞춤법 검사:
     표제어: 침식되다
     품사: 동사
 ---
 000_KEYWORD: 침식하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80797
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11622,13 +11622,13 @@ imported:
     표제어: 침식하다
     품사: 동사
     항목ID: 80797
-processed:
+result:
   맞춤법 검사:
     표제어: 침식하다
     품사: 동사
 ---
 000_KEYWORD: 침식하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80802
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11656,13 +11656,13 @@ imported:
     표제어: 침식하다
     품사: 동사
     항목ID: 80802
-processed:
+result:
   맞춤법 검사:
     표제어: 침식하다
     품사: 동사
 ---
 000_KEYWORD: 침식하다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80807
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11690,13 +11690,13 @@ imported:
     표제어: 침식하다
     품사: 동사
     항목ID: 80807
-processed:
+result:
   맞춤법 검사:
     표제어: 침식하다
     품사: 동사
 ---
 000_KEYWORD: 침실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72159
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11727,13 +11727,13 @@ imported:
     표제어: 침실
     품사: 명사
     항목ID: 72159
-processed:
+result:
   맞춤법 검사:
     표제어: 침실
     품사: 명사
 ---
 000_KEYWORD: 침엽수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80810
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11765,13 +11765,13 @@ imported:
     표제어: 침엽수
     품사: 명사
     항목ID: 80810
-processed:
+result:
   맞춤법 검사:
     표제어: 침엽수
     품사: 명사
 ---
 000_KEYWORD: 침엽수림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80814
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11801,13 +11801,13 @@ imported:
     표제어: 침엽수림
     품사: 명사
     항목ID: 80814
-processed:
+result:
   맞춤법 검사:
     표제어: 침엽수림
     품사: 명사
 ---
 000_KEYWORD: 침울하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80819
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11862,13 +11862,13 @@ imported:
       형태: 침울하니
     - 발음: 치물함니다
       형태: 침울합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 침울하다
     품사: 형용사
 ---
 000_KEYWORD: 침입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80822
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11909,13 +11909,13 @@ imported:
     - 발음: 치ː밈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80822_chi-mimman.wav
       형태: 침입만
-processed:
+result:
   맞춤법 검사:
     표제어: 침입
     품사: 명사
 ---
 000_KEYWORD: 침입자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80831
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11944,13 +11944,13 @@ imported:
     표제어: 침입자
     품사: 명사
     항목ID: 80831
-processed:
+result:
   맞춤법 검사:
     표제어: 침입자
     품사: 명사
 ---
 000_KEYWORD: 침입하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80827
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -11981,13 +11981,13 @@ imported:
     표제어: 침입하다
     품사: 동사
     항목ID: 80827
-processed:
+result:
   맞춤법 검사:
     표제어: 침입하다
     품사: 동사
 ---
 000_KEYWORD: 침잠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80834
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12038,13 +12038,13 @@ imported:
     표제어: 침잠
     품사: 명사
     항목ID: 80834
-processed:
+result:
   맞춤법 검사:
     표제어: 침잠
     품사: 명사
 ---
 000_KEYWORD: 침잠하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80837
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12085,13 +12085,13 @@ imported:
     표제어: 침잠하다
     품사: 동사
     항목ID: 80837
-processed:
+result:
   맞춤법 검사:
     표제어: 침잠하다
     품사: 동사
 ---
 000_KEYWORD: 침잠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80838
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12130,13 +12130,13 @@ imported:
       형태: 침잠하니
     - 발음: 침잠함니다
       형태: 침잠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 침잠하다
     품사: 형용사
 ---
 000_KEYWORD: 침전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80841
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12180,13 +12180,13 @@ imported:
     표제어: 침전
     품사: 명사
     항목ID: 80841
-processed:
+result:
   맞춤법 검사:
     표제어: 침전
     품사: 명사
 ---
 000_KEYWORD: 침전되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80842
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12231,13 +12231,13 @@ imported:
     표제어: 침전되다
     품사: 동사
     항목ID: 80842
-processed:
+result:
   맞춤법 검사:
     표제어: 침전되다
     품사: 동사
 ---
 000_KEYWORD: 침전물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80845
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12270,13 +12270,13 @@ imported:
     표제어: 침전물
     품사: 명사
     항목ID: 80845
-processed:
+result:
   맞춤법 검사:
     표제어: 침전물
     품사: 명사
 ---
 000_KEYWORD: 침전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80844
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12317,13 +12317,13 @@ imported:
     표제어: 침전하다
     품사: 동사
     항목ID: 80844
-processed:
+result:
   맞춤법 검사:
     표제어: 침전하다
     품사: 동사
 ---
 000_KEYWORD: 침착__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80848
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12363,13 +12363,13 @@ imported:
     - 발음: 침창만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80848_chimchangman.wav
       형태: 침착만
-processed:
+result:
   맞춤법 검사:
     표제어: 침착
     품사: 명사
 ---
 000_KEYWORD: 침착성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80852
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12397,13 +12397,13 @@ imported:
     표제어: 침착성
     품사: 명사
     항목ID: 80852
-processed:
+result:
   맞춤법 검사:
     표제어: 침착성
     품사: 명사
 ---
 000_KEYWORD: 침착하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28138
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12443,13 +12443,13 @@ imported:
       형태: 침착하니
     - 발음: 침차캄니다
       형태: 침착합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 침착하다
     품사: 형용사
 ---
 000_KEYWORD: 침착히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80849
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12477,13 +12477,13 @@ imported:
     표제어: 침착히
     품사: 부사
     항목ID: 80849
-processed:
+result:
   맞춤법 검사:
     표제어: 침착히
     품사: 부사
 ---
 000_KEYWORD: 침체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80854
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12512,13 +12512,13 @@ imported:
     표제어: 침체
     품사: 명사
     항목ID: 80854
-processed:
+result:
   맞춤법 검사:
     표제어: 침체
     품사: 명사
 ---
 000_KEYWORD: 침체기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93413
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12546,13 +12546,13 @@ imported:
     표제어: 침체기
     품사: 명사
     항목ID: 93413
-processed:
+result:
   맞춤법 검사:
     표제어: 침체기
     품사: 명사
 ---
 000_KEYWORD: 침체되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80855
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12583,13 +12583,13 @@ imported:
     표제어: 침체되다
     품사: 동사
     항목ID: 80855
-processed:
+result:
   맞춤법 검사:
     표제어: 침체되다
     품사: 동사
 ---
 000_KEYWORD: 침체하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80857
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12618,13 +12618,13 @@ imported:
     표제어: 침체하다
     품사: 동사
     항목ID: 80857
-processed:
+result:
   맞춤법 검사:
     표제어: 침체하다
     품사: 동사
 ---
 000_KEYWORD: 침침하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80859
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12676,13 +12676,13 @@ imported:
       형태: 침침하니
     - 발음: 침침함니다
       형태: 침침합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 침침하다
     품사: 형용사
 ---
 000_KEYWORD: 침탈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80862
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12709,13 +12709,13 @@ imported:
     표제어: 침탈
     품사: 명사
     항목ID: 80862
-processed:
+result:
   맞춤법 검사:
     표제어: 침탈
     품사: 명사
 ---
 000_KEYWORD: 침탈하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80863
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12745,13 +12745,13 @@ imported:
     표제어: 침탈하다
     품사: 동사
     항목ID: 80863
-processed:
+result:
   맞춤법 검사:
     표제어: 침탈하다
     품사: 동사
 ---
 000_KEYWORD: 침통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80865
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12778,13 +12778,13 @@ imported:
     표제어: 침통
     품사: 명사
     항목ID: 80865
-processed:
+result:
   맞춤법 검사:
     표제어: 침통
     품사: 명사
 ---
 000_KEYWORD: 침통하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80867
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12824,13 +12824,13 @@ imported:
       형태: 침통하니
     - 발음: 침통함니다
       형태: 침통합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 침통하다
     품사: 형용사
 ---
 000_KEYWORD: 침투__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80870
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12896,13 +12896,13 @@ imported:
     표제어: 침투
     품사: 명사
     항목ID: 80870
-processed:
+result:
   맞춤법 검사:
     표제어: 침투
     품사: 명사
 ---
 000_KEYWORD: 침투되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80871
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -12971,13 +12971,13 @@ imported:
     표제어: 침투되다
     품사: 동사
     항목ID: 80871
-processed:
+result:
   맞춤법 검사:
     표제어: 침투되다
     품사: 동사
 ---
 000_KEYWORD: 침투시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85663
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13040,13 +13040,13 @@ imported:
     표제어: 침투시키다
     품사: 동사
     항목ID: 85663
-processed:
+result:
   맞춤법 검사:
     표제어: 침투시키다
     품사: 동사
 ---
 000_KEYWORD: 침투하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80873
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13114,13 +13114,13 @@ imported:
     표제어: 침투하다
     품사: 동사
     항목ID: 80873
-processed:
+result:
   맞춤법 검사:
     표제어: 침투하다
     품사: 동사
 ---
 000_KEYWORD: 침팬지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80876
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13150,13 +13150,13 @@ imported:
     표제어: 침팬지
     품사: 명사
     항목ID: 80876
-processed:
+result:
   맞춤법 검사:
     표제어: 침팬지
     품사: 명사
 ---
 000_KEYWORD: 침해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80878
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13185,13 +13185,13 @@ imported:
     표제어: 침해
     품사: 명사
     항목ID: 80878
-processed:
+result:
   맞춤법 검사:
     표제어: 침해
     품사: 명사
 ---
 000_KEYWORD: 침해당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85409
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13219,13 +13219,13 @@ imported:
     표제어: 침해당하다
     품사: 동사
     항목ID: 85409
-processed:
+result:
   맞춤법 검사:
     표제어: 침해당하다
     품사: 동사
 ---
 000_KEYWORD: 침해되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13234,13 +13234,13 @@ imported:
     표제어: 침해되다
     품사: 동사
     항목ID: 27285
-processed:
+result:
   맞춤법 검사:
     표제어: 침해되다
     품사: 동사
 ---
 000_KEYWORD: 침해하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80880
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13269,13 +13269,13 @@ imported:
     표제어: 침해하다
     품사: 동사
     항목ID: 80880
-processed:
+result:
   맞춤법 검사:
     표제어: 침해하다
     품사: 동사
 ---
 000_KEYWORD: 칩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80883
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13348,13 +13348,13 @@ imported:
     표제어: 칩
     품사: 명사
     항목ID: 80883
-processed:
+result:
   맞춤법 검사:
     표제어: 칩
     품사: 명사
 ---
 000_KEYWORD: 칩거__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80886
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13383,13 +13383,13 @@ imported:
     표제어: 칩거
     품사: 명사
     항목ID: 80886
-processed:
+result:
   맞춤법 검사:
     표제어: 칩거
     품사: 명사
 ---
 000_KEYWORD: 칩거하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80888
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13417,13 +13417,13 @@ imported:
     표제어: 칩거하다
     품사: 동사
     항목ID: 80888
-processed:
+result:
   맞춤법 검사:
     표제어: 칩거하다
     품사: 동사
 ---
 000_KEYWORD: 칫솔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31504
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13464,13 +13464,13 @@ imported:
     표제어: 칫솔
     품사: 명사
     항목ID: 31504
-processed:
+result:
   맞춤법 검사:
     표제어: 칫솔
     품사: 명사
 ---
 000_KEYWORD: 칫솔질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80890
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13505,13 +13505,13 @@ imported:
     표제어: 칫솔질
     품사: 명사
     항목ID: 80890
-processed:
+result:
   맞춤법 검사:
     표제어: 칫솔질
     품사: 명사
 ---
 000_KEYWORD: 칭기즈칸__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13521,13 +13521,13 @@ imported:
     표제어: 칭기즈칸
     품사: 명사:고유
     항목ID: 27292
-processed:
+result:
   맞춤법 검사:
     표제어: 칭기즈칸
     품사: 명사
 ---
 000_KEYWORD: 칭송__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80891
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13555,13 +13555,13 @@ imported:
     표제어: 칭송
     품사: 명사
     항목ID: 80891
-processed:
+result:
   맞춤법 검사:
     표제어: 칭송
     품사: 명사
 ---
 000_KEYWORD: 칭송되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80895
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13594,13 +13594,13 @@ imported:
     표제어: 칭송되다
     품사: 동사
     항목ID: 80895
-processed:
+result:
   맞춤법 검사:
     표제어: 칭송되다
     품사: 동사
 ---
 000_KEYWORD: 칭송하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80898
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13630,13 +13630,13 @@ imported:
     표제어: 칭송하다
     품사: 동사
     항목ID: 80898
-processed:
+result:
   맞춤법 검사:
     표제어: 칭송하다
     품사: 동사
 ---
 000_KEYWORD: 칭얼거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80900
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13668,13 +13668,13 @@ imported:
     표제어: 칭얼거리다
     품사: 동사
     항목ID: 80900
-processed:
+result:
   맞춤법 검사:
     표제어: 칭얼거리다
     품사: 동사
 ---
 000_KEYWORD: 칭얼대다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13684,13 +13684,13 @@ imported:
     표제어: 칭얼대다
     품사: 동사
     항목ID: 27294
-processed:
+result:
   맞춤법 검사:
     표제어: 칭얼대다
     품사: 동사
 ---
 000_KEYWORD: 칭얼칭얼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80918
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13716,13 +13716,13 @@ imported:
     표제어: 칭얼칭얼
     품사: 부사
     항목ID: 80918
-processed:
+result:
   맞춤법 검사:
     표제어: 칭얼칭얼
     품사: 부사
 ---
 000_KEYWORD: 칭얼칭얼하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80931
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13754,13 +13754,13 @@ imported:
     표제어: 칭얼칭얼하다
     품사: 동사
     항목ID: 80931
-processed:
+result:
   맞춤법 검사:
     표제어: 칭얼칭얼하다
     품사: 동사
 ---
 000_KEYWORD: 칭찬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72160
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13794,13 +13794,13 @@ imported:
     표제어: 칭찬
     품사: 명사
     항목ID: 72160
-processed:
+result:
   맞춤법 검사:
     표제어: 칭찬
     품사: 명사
 ---
 000_KEYWORD: 칭찬하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28143
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13830,13 +13830,13 @@ imported:
     표제어: 칭찬하다
     품사: 동사
     항목ID: 28143
-processed:
+result:
   맞춤법 검사:
     표제어: 칭찬하다
     품사: 동사
 ---
 000_KEYWORD: 칭칭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80934
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13863,13 +13863,13 @@ imported:
     표제어: 칭칭
     품사: 부사
     항목ID: 80934
-processed:
+result:
   맞춤법 검사:
     표제어: 칭칭
     품사: 부사
 ---
 000_KEYWORD: 칭하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80936
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13902,13 +13902,13 @@ imported:
     표제어: 칭하다
     품사: 동사
     항목ID: 80936
-processed:
+result:
   맞춤법 검사:
     표제어: 칭하다
     품사: 동사
 ---
 000_KEYWORD: 칭호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80939
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -13938,7 +13938,7 @@ imported:
     표제어: 칭호
     품사: 명사
     항목ID: 80939
-processed:
+result:
   맞춤법 검사:
     표제어: 칭호
     품사: 명사

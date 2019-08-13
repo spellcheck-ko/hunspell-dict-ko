@@ -1,5 +1,5 @@
 000_KEYWORD: 껴들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64490
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -69,13 +69,13 @@ imported:
     - 발음: 껴듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/64490_kkyeodeumnida.wav
       형태: 껴듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 껴들다
     품사: 동사
 ---
 000_KEYWORD: 껴묻거리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -86,13 +86,13 @@ imported:
     표제어: 껴묻거리
     품사: 명사:보통:비서술성
     항목ID: 4464
-processed:
+result:
   맞춤법 검사:
     표제어: 껴묻거리
     품사: 명사
 ---
 000_KEYWORD: 껴묻다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41658
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -123,19 +123,19 @@ imported:
     표제어: 껴묻다
     품사: 동사
     항목ID: 41658
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙 미확정
     표제어: 껴묻다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 규칙
 ---
 000_KEYWORD: 껴안다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39545
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -198,13 +198,13 @@ imported:
     - 발음: 껴아느니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39545_kkyeoaneuni.wav
       형태: 껴안으니
-processed:
+result:
   맞춤법 검사:
     표제어: 껴안다
     품사: 동사
 ---
 000_KEYWORD: 껴입다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39555
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -258,7 +258,7 @@ imported:
     - 발음: 껴임는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39555_kkyeoimneun.wav
       형태: 껴입는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -266,7 +266,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 껴입히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39554
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -319,7 +319,7 @@ imported:
     - 발음: 껴이피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39554_kkyeoipini.wav
       형태: 껴입히니
-processed:
+result:
   맞춤법 검사:
     표제어: 껴입히다
     품사: 동사

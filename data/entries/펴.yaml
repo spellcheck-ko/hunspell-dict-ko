@@ -1,5 +1,5 @@
 000_KEYWORD: 펴내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81991
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -31,17 +31,17 @@ imported:
     활용:
     - 형태: 펴내어
     - 형태: 펴내니
-processed:
+result:
   맞춤법 검사:
     표제어: 펴내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 펴낸이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81992
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -75,13 +75,13 @@ imported:
     표제어: 펴낸이
     품사: 명사
     항목ID: 81992
-processed:
+result:
   맞춤법 검사:
     표제어: 펴낸이
     품사: 명사
 ---
 000_KEYWORD: 펴놓다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -93,14 +93,14 @@ imported:
     표제어: 펴놓다
     품사: 동사
     항목ID: 28810
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 펴놓다
     품사: 동사
 ---
 000_KEYWORD: 펴다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71484
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -205,13 +205,13 @@ imported:
     활용:
     - 형태: 펴
     - 형태: 펴니
-processed:
+result:
   맞춤법 검사:
     표제어: 펴다
     품사: 동사
 ---
 000_KEYWORD: 펴지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81993
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -289,13 +289,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/81993_pyeojeo.wav
       형태: 펴져
     - 형태: 펴지니
-processed:
+result:
   맞춤법 검사:
     표제어: 펴지다
     품사: 동사
 ---
 000_KEYWORD: 편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71320
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -323,13 +323,13 @@ imported:
     표제어: 편
     품사: 명사
     항목ID: 71320
-processed:
+result:
   맞춤법 검사:
     표제어: 편
     품사: 명사
 ---
 000_KEYWORD: 편__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81997
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -358,13 +358,13 @@ imported:
     표제어: 편
     품사: 명사
     항목ID: 81997
-processed:
+result:
   맞춤법 검사:
     표제어: 편
     품사: 명사
 ---
 000_KEYWORD: 편__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71321
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -427,13 +427,13 @@ imported:
     표제어: 편
     품사: 의존 명사
     항목ID: 71321
-processed:
+result:
   맞춤법 검사:
     표제어: 편
     품사: 의존 명사
 ---
 000_KEYWORD: 편__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71322
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -461,13 +461,13 @@ imported:
     표제어: 편
     품사: 의존 명사
     항목ID: 71322
-processed:
+result:
   맞춤법 검사:
     표제어: 편
     품사: 의존 명사
 ---
 000_KEYWORD: 편__의존_명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71324
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -522,13 +522,13 @@ imported:
     표제어: 편
     품사: 의존 명사
     항목ID: 71324
-processed:
+result:
   맞춤법 검사:
     표제어: 편
     품사: 의존 명사
 ---
 000_KEYWORD: 편견__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81998
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -559,13 +559,13 @@ imported:
     표제어: 편견
     품사: 명사
     항목ID: 81998
-processed:
+result:
   맞춤법 검사:
     표제어: 편견
     품사: 명사
 ---
 000_KEYWORD: 편곡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82001
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -603,13 +603,13 @@ imported:
     - 발음: 편공만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82001_pyeongongman.wav
       형태: 편곡만
-processed:
+result:
   맞춤법 검사:
     표제어: 편곡
     품사: 명사
 ---
 000_KEYWORD: 편곡되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82002
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -640,13 +640,13 @@ imported:
     표제어: 편곡되다
     품사: 동사
     항목ID: 82002
-processed:
+result:
   맞춤법 검사:
     표제어: 편곡되다
     품사: 동사
 ---
 000_KEYWORD: 편곡하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82005
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -675,13 +675,13 @@ imported:
     표제어: 편곡하다
     품사: 동사
     항목ID: 82005
-processed:
+result:
   맞춤법 검사:
     표제어: 편곡하다
     품사: 동사
 ---
 000_KEYWORD: 편대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -691,13 +691,13 @@ imported:
     표제어: 편대
     품사: 명사:보통:서술성
     항목ID: 28816
-processed:
+result:
   맞춤법 검사:
     표제어: 편대
     품사: 명사
 ---
 000_KEYWORD: 편대비행__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -707,13 +707,13 @@ imported:
     표제어: 편대비행
     품사: 명사:보통:서술성
     항목ID: 28817
-processed:
+result:
   맞춤법 검사:
     표제어: 편대비행
     품사: 명사
 ---
 000_KEYWORD: 편도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82008
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -745,13 +745,13 @@ imported:
     표제어: 편도
     품사: 명사
     항목ID: 82008
-processed:
+result:
   맞춤법 검사:
     표제어: 편도
     품사: 명사
 ---
 000_KEYWORD: 편도선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82010
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -780,13 +780,13 @@ imported:
     표제어: 편도선
     품사: 명사
     항목ID: 82010
-processed:
+result:
   맞춤법 검사:
     표제어: 편도선
     품사: 명사
 ---
 000_KEYWORD: 편도선염__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82012
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -815,13 +815,13 @@ imported:
     표제어: 편도선염
     품사: 명사
     항목ID: 82012
-processed:
+result:
   맞춤법 검사:
     표제어: 편도선염
     품사: 명사
 ---
 000_KEYWORD: 편동풍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82013
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -853,13 +853,13 @@ imported:
     표제어: 편동풍
     품사: 명사
     항목ID: 82013
-processed:
+result:
   맞춤법 검사:
     표제어: 편동풍
     품사: 명사
 ---
 000_KEYWORD: 편두통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82015
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -891,13 +891,13 @@ imported:
     표제어: 편두통
     품사: 명사
     항목ID: 82015
-processed:
+result:
   맞춤법 검사:
     표제어: 편두통
     품사: 명사
 ---
 000_KEYWORD: 편들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82017
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -935,13 +935,13 @@ imported:
     - 발음: 편듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82017_pyeondeumnida.wav
       형태: 편듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편들다
     품사: 동사
 ---
 000_KEYWORD: 편람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82019
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -969,13 +969,13 @@ imported:
     표제어: 편람
     품사: 명사
     항목ID: 82019
-processed:
+result:
   맞춤법 검사:
     표제어: 편람
     품사: 명사
 ---
 000_KEYWORD: 편력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82020
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1026,13 +1026,13 @@ imported:
     - 발음: 펼령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/82020_pyeollyeongman.wav
       형태: 편력만
-processed:
+result:
   맞춤법 검사:
     표제어: 편력
     품사: 명사
 ---
 000_KEYWORD: 편력하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82023
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1075,13 +1075,13 @@ imported:
     표제어: 편력하다
     품사: 동사
     항목ID: 82023
-processed:
+result:
   맞춤법 검사:
     표제어: 편력하다
     품사: 동사
 ---
 000_KEYWORD: 편리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82024
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1113,13 +1113,13 @@ imported:
     표제어: 편리
     품사: 명사
     항목ID: 82024
-processed:
+result:
   맞춤법 검사:
     표제어: 편리
     품사: 명사
 ---
 000_KEYWORD: 편리성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82025
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1147,13 +1147,13 @@ imported:
     표제어: 편리성
     품사: 명사
     항목ID: 82025
-processed:
+result:
   맞춤법 검사:
     표제어: 편리성
     품사: 명사
 ---
 000_KEYWORD: 편리하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71329
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1199,13 +1199,13 @@ imported:
       형태: 편리하니
     - 발음: 펼리함니다
       형태: 편리합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편리하다
     품사: 형용사
 ---
 000_KEYWORD: 편린__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82026
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1238,13 +1238,13 @@ imported:
     표제어: 편린
     품사: 명사
     항목ID: 82026
-processed:
+result:
   맞춤법 검사:
     표제어: 편린
     품사: 명사
 ---
 000_KEYWORD: 편모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82027
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1272,13 +1272,13 @@ imported:
     표제어: 편모
     품사: 명사
     항목ID: 82027
-processed:
+result:
   맞춤법 검사:
     표제어: 편모
     품사: 명사
 ---
 000_KEYWORD: 편백나무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1288,13 +1288,13 @@ imported:
     표제어: 편백나무
     품사: 명사:보통:비서술성
     항목ID: 28825
-processed:
+result:
   맞춤법 검사:
     표제어: 편백나무
     품사: 명사
 ---
 000_KEYWORD: 편법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82028
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1332,13 +1332,13 @@ imported:
     - 발음: 편뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/82028_pyeonppeomman.wav
       형태: 편법만
-processed:
+result:
   맞춤법 검사:
     표제어: 편법
     품사: 명사
 ---
 000_KEYWORD: 편벽되다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82029
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1391,13 +1391,13 @@ imported:
       형태: 편벽됩니다
     - 발음: 편벽뛤니다
       형태: 편벽됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편벽되다
     품사: 형용사
 ---
 000_KEYWORD: 편서풍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82030
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1432,13 +1432,13 @@ imported:
     표제어: 편서풍
     품사: 명사
     항목ID: 82030
-processed:
+result:
   맞춤법 검사:
     표제어: 편서풍
     품사: 명사
 ---
 000_KEYWORD: 편성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82031
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1482,13 +1482,13 @@ imported:
     표제어: 편성
     품사: 명사
     항목ID: 82031
-processed:
+result:
   맞춤법 검사:
     표제어: 편성
     품사: 명사
 ---
 000_KEYWORD: 편성되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82032
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1533,13 +1533,13 @@ imported:
     표제어: 편성되다
     품사: 동사
     항목ID: 82032
-processed:
+result:
   맞춤법 검사:
     표제어: 편성되다
     품사: 동사
 ---
 000_KEYWORD: 편성표__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1548,13 +1548,13 @@ imported:
     표제어: 편성표
     품사: 명사:보통:비서술성
     항목ID: 28830
-processed:
+result:
   맞춤법 검사:
     표제어: 편성표
     품사: 명사
 ---
 000_KEYWORD: 편성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82033
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1597,13 +1597,13 @@ imported:
     표제어: 편성하다
     품사: 동사
     항목ID: 82033
-processed:
+result:
   맞춤법 검사:
     표제어: 편성하다
     품사: 동사
 ---
 000_KEYWORD: 편수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82034
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1631,13 +1631,13 @@ imported:
     표제어: 편수
     품사: 명사
     항목ID: 82034
-processed:
+result:
   맞춤법 검사:
     표제어: 편수
     품사: 명사
 ---
 000_KEYWORD: 편승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82035
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1678,13 +1678,13 @@ imported:
     표제어: 편승
     품사: 명사
     항목ID: 82035
-processed:
+result:
   맞춤법 검사:
     표제어: 편승
     품사: 명사
 ---
 000_KEYWORD: 편승하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82041
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1727,13 +1727,13 @@ imported:
     표제어: 편승하다
     품사: 동사
     항목ID: 82041
-processed:
+result:
   맞춤법 검사:
     표제어: 편승하다
     품사: 동사
 ---
 000_KEYWORD: 편식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82039
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1773,13 +1773,13 @@ imported:
     - 발음: 편싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/82039_pyeonsingman.wav
       형태: 편식만
-processed:
+result:
   맞춤법 검사:
     표제어: 편식
     품사: 명사
 ---
 000_KEYWORD: 편식하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82043
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1808,13 +1808,13 @@ imported:
     표제어: 편식하다
     품사: 동사
     항목ID: 82043
-processed:
+result:
   맞춤법 검사:
     표제어: 편식하다
     품사: 동사
 ---
 000_KEYWORD: 편싸움__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82046
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1842,13 +1842,13 @@ imported:
     표제어: 편싸움
     품사: 명사
     항목ID: 82046
-processed:
+result:
   맞춤법 검사:
     표제어: 편싸움
     품사: 명사
 ---
 000_KEYWORD: 편안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82047
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1878,13 +1878,13 @@ imported:
     표제어: 편안
     품사: 명사
     항목ID: 82047
-processed:
+result:
   맞춤법 검사:
     표제어: 편안
     품사: 명사
 ---
 000_KEYWORD: 편안하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71333
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1927,13 +1927,13 @@ imported:
       형태: 편안하니
     - 발음: 펴난함니다
       형태: 편안합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편안하다
     품사: 형용사
 ---
 000_KEYWORD: 편안히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82048
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1961,13 +1961,13 @@ imported:
     표제어: 편안히
     품사: 부사
     항목ID: 82048
-processed:
+result:
   맞춤법 검사:
     표제어: 편안히
     품사: 부사
 ---
 000_KEYWORD: 편애__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82050
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1995,13 +1995,13 @@ imported:
     표제어: 편애
     품사: 명사
     항목ID: 82050
-processed:
+result:
   맞춤법 검사:
     표제어: 편애
     품사: 명사
 ---
 000_KEYWORD: 편애하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82051
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2030,13 +2030,13 @@ imported:
     표제어: 편애하다
     품사: 동사
     항목ID: 82051
-processed:
+result:
   맞춤법 검사:
     표제어: 편애하다
     품사: 동사
 ---
 000_KEYWORD: 편육__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82052
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2078,13 +2078,13 @@ imported:
     - 발음: 펴늉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/82052_pyeonyungman.wav
       형태: 편육만
-processed:
+result:
   맞춤법 검사:
     표제어: 편육
     품사: 명사
 ---
 000_KEYWORD: 편의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87700
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2114,13 +2114,13 @@ imported:
     표제어: 편의
     품사: 명사
     항목ID: 87700
-processed:
+result:
   맞춤법 검사:
     표제어: 편의
     품사: 명사
 ---
 000_KEYWORD: 편의성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2129,13 +2129,13 @@ imported:
     표제어: 편의성
     품사: 명사:보통:서술성
     항목ID: 28842
-processed:
+result:
   맞춤법 검사:
     표제어: 편의성
     품사: 명사
 ---
 000_KEYWORD: 편의점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82055
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2172,13 +2172,13 @@ imported:
     표제어: 편의점
     품사: 명사
     항목ID: 82055
-processed:
+result:
   맞춤법 검사:
     표제어: 편의점
     품사: 명사
 ---
 000_KEYWORD: 편의주의__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2188,13 +2188,13 @@ imported:
     표제어: 편의주의
     품사: 명사:보통:서술성
     항목ID: 28844
-processed:
+result:
   맞춤법 검사:
     표제어: 편의주의
     품사: 명사
 ---
 000_KEYWORD: 편익__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82058
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2232,13 +2232,13 @@ imported:
     - 발음: 펴닝만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/82058_pyeoningman.wav
       형태: 편익만
-processed:
+result:
   맞춤법 검사:
     표제어: 편익
     품사: 명사
 ---
 000_KEYWORD: 편입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82059
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2296,13 +2296,13 @@ imported:
     - 발음: 펴님만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/82059_pyeonimman.wav
       형태: 편입만
-processed:
+result:
   맞춤법 검사:
     표제어: 편입
     품사: 명사
 ---
 000_KEYWORD: 편입되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82060
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2347,13 +2347,13 @@ imported:
     표제어: 편입되다
     품사: 동사
     항목ID: 82060
-processed:
+result:
   맞춤법 검사:
     표제어: 편입되다
     품사: 동사
 ---
 000_KEYWORD: 편입생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82063
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2381,13 +2381,13 @@ imported:
     표제어: 편입생
     품사: 명사
     항목ID: 82063
-processed:
+result:
   맞춤법 검사:
     표제어: 편입생
     품사: 명사
 ---
 000_KEYWORD: 편입시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85635
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2443,13 +2443,13 @@ imported:
       형태: 편입시키니
     - 발음: 펴닙씨킴니다
       형태: 편입시킵니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편입시키다
     품사: 동사
 ---
 000_KEYWORD: 편입하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82062
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2503,13 +2503,13 @@ imported:
       형태: 편입하니
     - 발음: 펴니팜니다
       형태: 편입합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편입하다
     품사: 동사
 ---
 000_KEYWORD: 편재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82065
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2537,13 +2537,13 @@ imported:
     표제어: 편재
     품사: 명사
     항목ID: 82065
-processed:
+result:
   맞춤법 검사:
     표제어: 편재
     품사: 명사
 ---
 000_KEYWORD: 편재되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82068
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2574,13 +2574,13 @@ imported:
     표제어: 편재되다
     품사: 동사
     항목ID: 82068
-processed:
+result:
   맞춤법 검사:
     표제어: 편재되다
     품사: 동사
 ---
 000_KEYWORD: 편재하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82069
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2609,13 +2609,13 @@ imported:
     표제어: 편재하다
     품사: 동사
     항목ID: 82069
-processed:
+result:
   맞춤법 검사:
     표제어: 편재하다
     품사: 동사
 ---
 000_KEYWORD: 편저__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82070
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2643,13 +2643,13 @@ imported:
     표제어: 편저
     품사: 명사
     항목ID: 82070
-processed:
+result:
   맞춤법 검사:
     표제어: 편저
     품사: 명사
 ---
 000_KEYWORD: 편중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82071
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2677,13 +2677,13 @@ imported:
     표제어: 편중
     품사: 명사
     항목ID: 82071
-processed:
+result:
   맞춤법 검사:
     표제어: 편중
     품사: 명사
 ---
 000_KEYWORD: 편중되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82073
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2714,13 +2714,13 @@ imported:
     표제어: 편중되다
     품사: 동사
     항목ID: 82073
-processed:
+result:
   맞춤법 검사:
     표제어: 편중되다
     품사: 동사
 ---
 000_KEYWORD: 편중하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82074
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2749,13 +2749,13 @@ imported:
     표제어: 편중하다
     품사: 동사
     항목ID: 82074
-processed:
+result:
   맞춤법 검사:
     표제어: 편중하다
     품사: 동사
 ---
 000_KEYWORD: 편지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24147
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2833,13 +2833,13 @@ imported:
     표제어: 편지
     품사: 명사
     항목ID: 24147
-processed:
+result:
   맞춤법 검사:
     표제어: 편지
     품사: 명사
 ---
 000_KEYWORD: 편지글__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82075
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2867,13 +2867,13 @@ imported:
     표제어: 편지글
     품사: 명사
     항목ID: 82075
-processed:
+result:
   맞춤법 검사:
     표제어: 편지글
     품사: 명사
 ---
 000_KEYWORD: 편지지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82078
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2901,13 +2901,13 @@ imported:
     표제어: 편지지
     품사: 명사
     항목ID: 82078
-processed:
+result:
   맞춤법 검사:
     표제어: 편지지
     품사: 명사
 ---
 000_KEYWORD: 편지하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82084
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2936,13 +2936,13 @@ imported:
     표제어: 편지하다
     품사: 동사
     항목ID: 82084
-processed:
+result:
   맞춤법 검사:
     표제어: 편지하다
     품사: 동사
 ---
 000_KEYWORD: 편지함__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82080
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2970,13 +2970,13 @@ imported:
     표제어: 편지함
     품사: 명사
     항목ID: 82080
-processed:
+result:
   맞춤법 검사:
     표제어: 편지함
     품사: 명사
 ---
 000_KEYWORD: 편집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82081
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3018,13 +3018,13 @@ imported:
     - 발음: 편짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/82081_pyeonjimman.wav
       형태: 편집만
-processed:
+result:
   맞춤법 검사:
     표제어: 편집
     품사: 명사
 ---
 000_KEYWORD: 편집권__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3033,13 +3033,13 @@ imported:
     표제어: 편집권
     품사: 명사:보통:서술성
     항목ID: 28857
-processed:
+result:
   맞춤법 검사:
     표제어: 편집권
     품사: 명사
 ---
 000_KEYWORD: 편집기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87894
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3067,13 +3067,13 @@ imported:
     표제어: 편집기
     품사: 명사
     항목ID: 87894
-processed:
+result:
   맞춤법 검사:
     표제어: 편집기
     품사: 명사
 ---
 000_KEYWORD: 편집되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87895
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3105,13 +3105,13 @@ imported:
     표제어: 편집되다
     품사: 동사
     항목ID: 87895
-processed:
+result:
   맞춤법 검사:
     표제어: 편집되다
     품사: 동사
 ---
 000_KEYWORD: 편집부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87896
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3139,13 +3139,13 @@ imported:
     표제어: 편집부
     품사: 명사
     항목ID: 87896
-processed:
+result:
   맞춤법 검사:
     표제어: 편집부
     품사: 명사
 ---
 000_KEYWORD: 편집인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3154,13 +3154,13 @@ imported:
     표제어: 편집인
     품사: 명사:보통:비서술성
     항목ID: 28859
-processed:
+result:
   맞춤법 검사:
     표제어: 편집인
     품사: 명사
 ---
 000_KEYWORD: 편집자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3169,13 +3169,13 @@ imported:
     표제어: 편집자
     품사: 명사:보통:비서술성
     항목ID: 28860
-processed:
+result:
   맞춤법 검사:
     표제어: 편집자
     품사: 명사
 ---
 000_KEYWORD: 편집장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3184,13 +3184,13 @@ imported:
     표제어: 편집장
     품사: 명사:보통:비서술성
     항목ID: 28861
-processed:
+result:
   맞춤법 검사:
     표제어: 편집장
     품사: 명사
 ---
 000_KEYWORD: 편집증__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3200,13 +3200,13 @@ imported:
     표제어: 편집증
     품사: 명사:보통:서술성
     항목ID: 28862
-processed:
+result:
   맞춤법 검사:
     표제어: 편집증
     품사: 명사
 ---
 000_KEYWORD: 편집하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87897
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3237,13 +3237,13 @@ imported:
     표제어: 편집하다
     품사: 동사
     항목ID: 87897
-processed:
+result:
   맞춤법 검사:
     표제어: 편집하다
     품사: 동사
 ---
 000_KEYWORD: 편차__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3252,13 +3252,13 @@ imported:
     표제어: 편차
     품사: 명사:보통:비서술성
     항목ID: 28864
-processed:
+result:
   맞춤법 검사:
     표제어: 편차
     품사: 명사
 ---
 000_KEYWORD: 편찬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87898
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3287,13 +3287,13 @@ imported:
     표제어: 편찬
     품사: 명사
     항목ID: 87898
-processed:
+result:
   맞춤법 검사:
     표제어: 편찬
     품사: 명사
 ---
 000_KEYWORD: 편찬되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87899
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3324,13 +3324,13 @@ imported:
     표제어: 편찬되다
     품사: 동사
     항목ID: 87899
-processed:
+result:
   맞춤법 검사:
     표제어: 편찬되다
     품사: 동사
 ---
 000_KEYWORD: 편찬하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87900
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3359,13 +3359,13 @@ imported:
     표제어: 편찬하다
     품사: 동사
     항목ID: 87900
-processed:
+result:
   맞춤법 검사:
     표제어: 편찬하다
     품사: 동사
 ---
 000_KEYWORD: 편찮다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87901
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3412,13 +3412,13 @@ imported:
       형태: 편찮고
     - 발음: 편찬치
       형태: 편찮지
-processed:
+result:
   맞춤법 검사:
     표제어: 편찮다
     품사: 형용사
 ---
 000_KEYWORD: 편파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87902
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3446,13 +3446,13 @@ imported:
     표제어: 편파
     품사: 명사
     항목ID: 87902
-processed:
+result:
   맞춤법 검사:
     표제어: 편파
     품사: 명사
 ---
 000_KEYWORD: 편파적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87903
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3481,13 +3481,13 @@ imported:
     표제어: 편파적
     품사: 관형사
     항목ID: 87903
-processed:
+result:
   맞춤법 검사:
     표제어: 편파적
     품사: 관형사
 ---
 000_KEYWORD: 편파적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87904
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3516,13 +3516,13 @@ imported:
     표제어: 편파적
     품사: 명사
     항목ID: 87904
-processed:
+result:
   맞춤법 검사:
     표제어: 편파적
     품사: 명사
 ---
 000_KEYWORD: 편평하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87905
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3565,13 +3565,13 @@ imported:
       형태: 편평하니
     - 발음: 편평함니다
       형태: 편평합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편평하다
     품사: 형용사
 ---
 000_KEYWORD: 편하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71334
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3626,13 +3626,13 @@ imported:
       형태: 편하니
     - 발음: 편함니다
       형태: 편합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편하다
     품사: 형용사
 ---
 000_KEYWORD: 편향__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88034
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3663,13 +3663,13 @@ imported:
     표제어: 편향
     품사: 명사
     항목ID: 88034
-processed:
+result:
   맞춤법 검사:
     표제어: 편향
     품사: 명사
 ---
 000_KEYWORD: 편향되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88035
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3700,13 +3700,13 @@ imported:
     표제어: 편향되다
     품사: 동사
     항목ID: 88035
-processed:
+result:
   맞춤법 검사:
     표제어: 편향되다
     품사: 동사
 ---
 000_KEYWORD: 편향성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88036
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3736,13 +3736,13 @@ imported:
     표제어: 편향성
     품사: 명사
     항목ID: 88036
-processed:
+result:
   맞춤법 검사:
     표제어: 편향성
     품사: 명사
 ---
 000_KEYWORD: 편향적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88037
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3770,13 +3770,13 @@ imported:
     표제어: 편향적
     품사: 관형사
     항목ID: 88037
-processed:
+result:
   맞춤법 검사:
     표제어: 편향적
     품사: 관형사
 ---
 000_KEYWORD: 편향적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88038
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3804,13 +3804,13 @@ imported:
     표제어: 편향적
     품사: 명사
     항목ID: 88038
-processed:
+result:
   맞춤법 검사:
     표제어: 편향적
     품사: 명사
 ---
 000_KEYWORD: 편향하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88039
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3839,13 +3839,13 @@ imported:
     표제어: 편향하다
     품사: 동사
     항목ID: 88039
-processed:
+result:
   맞춤법 검사:
     표제어: 편향하다
     품사: 동사
 ---
 000_KEYWORD: 편협__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88040
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3882,13 +3882,13 @@ imported:
     - 발음: 편혐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/88040_pyeonhyeomman.wav
       형태: 편협만
-processed:
+result:
   맞춤법 검사:
     표제어: 편협
     품사: 명사
 ---
 000_KEYWORD: 편협성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88041
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3919,13 +3919,13 @@ imported:
     표제어: 편협성
     품사: 명사
     항목ID: 88041
-processed:
+result:
   맞춤법 검사:
     표제어: 편협성
     품사: 명사
 ---
 000_KEYWORD: 편협하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88042
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3965,13 +3965,13 @@ imported:
       형태: 편협하니
     - 발음: 편혀팜니다
       형태: 편협합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 편협하다
     품사: 형용사
 ---
 000_KEYWORD: 편히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88043
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3999,13 +3999,13 @@ imported:
     표제어: 편히
     품사: 부사
     항목ID: 88043
-processed:
+result:
   맞춤법 검사:
     표제어: 편히
     품사: 부사
 ---
 000_KEYWORD: 펼쳐지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63509
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4096,17 +4096,17 @@ imported:
     - 발음: 펼처지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/63509_pyeolcheojini.wav
       형태: 펼쳐지니
-processed:
+result:
   맞춤법 검사:
     표제어: 펼쳐지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 펼치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88045
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4211,13 +4211,13 @@ imported:
     - 발음: 펼침니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/pieup_2005/pyeolchida.wav
       형태: 펼칩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 펼치다
     품사: 동사
 ---
 000_KEYWORD: 폄하__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4226,13 +4226,13 @@ imported:
     표제어: 폄하
     품사: 명사:보통:서술성
     항목ID: 28879
-processed:
+result:
   맞춤법 검사:
     표제어: 폄하
     품사: 명사
 ---
 000_KEYWORD: 폄하하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88044
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4261,13 +4261,13 @@ imported:
     표제어: 폄하하다
     품사: 동사
     항목ID: 88044
-processed:
+result:
   맞춤법 검사:
     표제어: 폄하하다
     품사: 동사
 ---
 000_KEYWORD: 폄훼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4276,13 +4276,13 @@ imported:
     표제어: 폄훼
     품사: 명사:보통:서술성
     항목ID: 28881
-processed:
+result:
   맞춤법 검사:
     표제어: 폄훼
     품사: 명사
 ---
 000_KEYWORD: 폄훼하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4291,13 +4291,13 @@ imported:
     표제어: 폄훼하다
     품사: 동사
     항목ID: 28882
-processed:
+result:
   맞춤법 검사:
     표제어: 폄훼하다
     품사: 동사
 ---
 000_KEYWORD: 평__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88046
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4327,13 +4327,13 @@ imported:
     표제어: 평
     품사: 명사
     항목ID: 88046
-processed:
+result:
   맞춤법 검사:
     표제어: 평
     품사: 명사
 ---
 000_KEYWORD: 평__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71335
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4364,13 +4364,13 @@ imported:
     표제어: 평
     품사: 의존 명사
     항목ID: 71335
-processed:
+result:
   맞춤법 검사:
     표제어: 평
     품사: 의존 명사
 ---
 000_KEYWORD: 평가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88047
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4401,13 +4401,13 @@ imported:
     표제어: 평가
     품사: 명사
     항목ID: 88047
-processed:
+result:
   맞춤법 검사:
     표제어: 평가
     품사: 명사
 ---
 000_KEYWORD: 평가단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88048
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4437,13 +4437,13 @@ imported:
     표제어: 평가단
     품사: 명사
     항목ID: 88048
-processed:
+result:
   맞춤법 검사:
     표제어: 평가단
     품사: 명사
 ---
 000_KEYWORD: 평가되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88049
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4475,13 +4475,13 @@ imported:
     표제어: 평가되다
     품사: 동사
     항목ID: 88049
-processed:
+result:
   맞춤법 검사:
     표제어: 평가되다
     품사: 동사
 ---
 000_KEYWORD: 평가액__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4490,13 +4490,13 @@ imported:
     표제어: 평가액
     품사: 명사:보통:서술성
     항목ID: 28886
-processed:
+result:
   맞춤법 검사:
     표제어: 평가액
     품사: 명사
 ---
 000_KEYWORD: 평가전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88050
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4524,13 +4524,13 @@ imported:
     표제어: 평가전
     품사: 명사
     항목ID: 88050
-processed:
+result:
   맞춤법 검사:
     표제어: 평가전
     품사: 명사
 ---
 000_KEYWORD: 평가하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88053
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4561,13 +4561,13 @@ imported:
     표제어: 평가하다
     품사: 동사
     항목ID: 88053
-processed:
+result:
   맞춤법 검사:
     표제어: 평가하다
     품사: 동사
 ---
 000_KEYWORD: 평강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88054
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4601,13 +4601,13 @@ imported:
     표제어: 평강
     품사: 명사
     항목ID: 88054
-processed:
+result:
   맞춤법 검사:
     표제어: 평강
     품사: 명사
 ---
 000_KEYWORD: 평강하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88055
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4651,13 +4651,13 @@ imported:
       형태: 평강하니
     - 발음: 평강함니다
       형태: 평강합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평강하다
     품사: 형용사
 ---
 000_KEYWORD: 평결__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88165
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4686,13 +4686,13 @@ imported:
     표제어: 평결
     품사: 명사
     항목ID: 88165
-processed:
+result:
   맞춤법 검사:
     표제어: 평결
     품사: 명사
 ---
 000_KEYWORD: 평결되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88166
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4722,13 +4722,13 @@ imported:
     표제어: 평결되다
     품사: 동사
     항목ID: 88166
-processed:
+result:
   맞춤법 검사:
     표제어: 평결되다
     품사: 동사
 ---
 000_KEYWORD: 평결하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88167
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4757,13 +4757,13 @@ imported:
     표제어: 평결하다
     품사: 동사
     항목ID: 88167
-processed:
+result:
   맞춤법 검사:
     표제어: 평결하다
     품사: 동사
 ---
 000_KEYWORD: 평교사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88168
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4792,13 +4792,13 @@ imported:
     표제어: 평교사
     품사: 명사
     항목ID: 88168
-processed:
+result:
   맞춤법 검사:
     표제어: 평교사
     품사: 명사
 ---
 000_KEYWORD: 평균__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88169
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4836,13 +4836,13 @@ imported:
     표제어: 평균
     품사: 명사
     항목ID: 88169
-processed:
+result:
   맞춤법 검사:
     표제어: 평균
     품사: 명사
 ---
 000_KEYWORD: 평균값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88172
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4889,13 +4889,13 @@ imported:
     - 발음: 평균깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/88172_pyeonggyunkkamman.wav
       형태: 평균값만
-processed:
+result:
   맞춤법 검사:
     표제어: 평균값
     품사: 명사
 ---
 000_KEYWORD: 평균대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88173
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4939,13 +4939,13 @@ imported:
     표제어: 평균대
     품사: 명사
     항목ID: 88173
-processed:
+result:
   맞춤법 검사:
     표제어: 평균대
     품사: 명사
 ---
 000_KEYWORD: 평균적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88176
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4973,13 +4973,13 @@ imported:
     표제어: 평균적
     품사: 관형사
     항목ID: 88176
-processed:
+result:
   맞춤법 검사:
     표제어: 평균적
     품사: 관형사
 ---
 000_KEYWORD: 평균적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88175
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5007,13 +5007,13 @@ imported:
     표제어: 평균적
     품사: 명사
     항목ID: 88175
-processed:
+result:
   맞춤법 검사:
     표제어: 평균적
     품사: 명사
 ---
 000_KEYWORD: 평균치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88174
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5050,13 +5050,13 @@ imported:
     표제어: 평균치
     품사: 명사
     항목ID: 88174
-processed:
+result:
   맞춤법 검사:
     표제어: 평균치
     품사: 명사
 ---
 000_KEYWORD: 평균하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88177
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5085,13 +5085,13 @@ imported:
     표제어: 평균하다
     품사: 동사
     항목ID: 88177
-processed:
+result:
   맞춤법 검사:
     표제어: 평균하다
     품사: 동사
 ---
 000_KEYWORD: 평년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88179
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5147,13 +5147,13 @@ imported:
     표제어: 평년
     품사: 명사
     항목ID: 88179
-processed:
+result:
   맞춤법 검사:
     표제어: 평년
     품사: 명사
 ---
 000_KEYWORD: 평년작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88181
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5191,13 +5191,13 @@ imported:
     - 발음: 평년장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/88181_pyeongnyeonjangman.wav
       형태: 평년작만
-processed:
+result:
   맞춤법 검사:
     표제어: 평년작
     품사: 명사
 ---
 000_KEYWORD: 평단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88182
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5226,13 +5226,13 @@ imported:
     표제어: 평단
     품사: 명사
     항목ID: 88182
-processed:
+result:
   맞춤법 검사:
     표제어: 평단
     품사: 명사
 ---
 000_KEYWORD: 평등__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88184
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5262,13 +5262,13 @@ imported:
     표제어: 평등
     품사: 명사
     항목ID: 88184
-processed:
+result:
   맞춤법 검사:
     표제어: 평등
     품사: 명사
 ---
 000_KEYWORD: 평등권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88186
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5296,13 +5296,13 @@ imported:
     표제어: 평등권
     품사: 명사
     항목ID: 88186
-processed:
+result:
   맞춤법 검사:
     표제어: 평등권
     품사: 명사
 ---
 000_KEYWORD: 평등사상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81036
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5330,13 +5330,13 @@ imported:
     표제어: 평등사상
     품사: 명사
     항목ID: 81036
-processed:
+result:
   맞춤법 검사:
     표제어: 평등사상
     품사: 명사
 ---
 000_KEYWORD: 평등주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81037
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5367,13 +5367,13 @@ imported:
     표제어: 평등주의
     품사: 명사
     항목ID: 81037
-processed:
+result:
   맞춤법 검사:
     표제어: 평등주의
     품사: 명사
 ---
 000_KEYWORD: 평등하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81043
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5420,13 +5420,13 @@ imported:
       형태: 평등하니
     - 발음: 평등함니다
       형태: 평등합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평등하다
     품사: 형용사
 ---
 000_KEYWORD: 평론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81048
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5466,13 +5466,13 @@ imported:
     표제어: 평론
     품사: 명사
     항목ID: 81048
-processed:
+result:
   맞춤법 검사:
     표제어: 평론
     품사: 명사
 ---
 000_KEYWORD: 평론가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81085
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5506,13 +5506,13 @@ imported:
     표제어: 평론가
     품사: 명사
     항목ID: 81085
-processed:
+result:
   맞춤법 검사:
     표제어: 평론가
     품사: 명사
 ---
 000_KEYWORD: 평론하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81104
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5549,13 +5549,13 @@ imported:
     표제어: 평론하다
     품사: 동사
     항목ID: 81104
-processed:
+result:
   맞춤법 검사:
     표제어: 평론하다
     품사: 동사
 ---
 000_KEYWORD: 평면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81106
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5590,13 +5590,13 @@ imported:
     표제어: 평면
     품사: 명사
     항목ID: 81106
-processed:
+result:
   맞춤법 검사:
     표제어: 평면
     품사: 명사
 ---
 000_KEYWORD: 평면도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81112
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5628,13 +5628,13 @@ imported:
     표제어: 평면도
     품사: 명사
     항목ID: 81112
-processed:
+result:
   맞춤법 검사:
     표제어: 평면도
     품사: 명사
 ---
 000_KEYWORD: 평면적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81158
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5676,13 +5676,13 @@ imported:
     표제어: 평면적
     품사: 관형사
     항목ID: 81158
-processed:
+result:
   맞춤법 검사:
     표제어: 평면적
     품사: 관형사
 ---
 000_KEYWORD: 평면적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81171
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5723,13 +5723,13 @@ imported:
     표제어: 평면적
     품사: 명사
     항목ID: 81171
-processed:
+result:
   맞춤법 검사:
     표제어: 평면적
     품사: 명사
 ---
 000_KEYWORD: 평민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81194
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5779,13 +5779,13 @@ imported:
     표제어: 평민
     품사: 명사
     항목ID: 81194
-processed:
+result:
   맞춤법 검사:
     표제어: 평민
     품사: 명사
 ---
 000_KEYWORD: 평발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81203
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5818,13 +5818,13 @@ imported:
     표제어: 평발
     품사: 명사
     항목ID: 81203
-processed:
+result:
   맞춤법 검사:
     표제어: 평발
     품사: 명사
 ---
 000_KEYWORD: 평방미터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91398
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5853,13 +5853,13 @@ imported:
     표제어: 평방미터
     품사: 의존 명사
     항목ID: 91398
-processed:
+result:
   맞춤법 검사:
     표제어: 평방미터
     품사: 의존 명사
 ---
 000_KEYWORD: 평방킬로미터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91400
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5889,13 +5889,13 @@ imported:
     표제어: 평방킬로미터
     품사: 의존 명사
     항목ID: 91400
-processed:
+result:
   맞춤법 검사:
     표제어: 평방킬로미터
     품사: 의존 명사
 ---
 000_KEYWORD: 평범하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71336
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5942,13 +5942,13 @@ imported:
       형태: 평범하니
     - 발음: 평범함니다
       형태: 평범합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평범하다
     품사: 형용사
 ---
 000_KEYWORD: 평범히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81208
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5976,13 +5976,13 @@ imported:
     표제어: 평범히
     품사: 부사
     항목ID: 81208
-processed:
+result:
   맞춤법 검사:
     표제어: 평범히
     품사: 부사
 ---
 000_KEYWORD: 평복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81217
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6038,13 +6038,13 @@ imported:
     - 발음: 평봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/81217_pyeongbongman.wav
       형태: 평복만
-processed:
+result:
   맞춤법 검사:
     표제어: 평복
     품사: 명사
 ---
 000_KEYWORD: 평사원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81220
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6074,13 +6074,13 @@ imported:
     표제어: 평사원
     품사: 명사
     항목ID: 81220
-processed:
+result:
   맞춤법 검사:
     표제어: 평사원
     품사: 명사
 ---
 000_KEYWORD: 평상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81226
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6114,13 +6114,13 @@ imported:
     표제어: 평상
     품사: 명사
     항목ID: 81226
-processed:
+result:
   맞춤법 검사:
     표제어: 평상
     품사: 명사
 ---
 000_KEYWORD: 평상__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81231
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6166,13 +6166,13 @@ imported:
     표제어: 평상
     품사: 명사
     항목ID: 81231
-processed:
+result:
   맞춤법 검사:
     표제어: 평상
     품사: 명사
 ---
 000_KEYWORD: 평상복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81237
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6214,13 +6214,13 @@ imported:
     - 발음: 평상봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/81237_pyeongsangbongman.wav
       형태: 평상복만
-processed:
+result:
   맞춤법 검사:
     표제어: 평상복
     품사: 명사
 ---
 000_KEYWORD: 평상시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81244
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6271,13 +6271,13 @@ imported:
     표제어: 평상시
     품사: 명사
     항목ID: 81244
-processed:
+result:
   맞춤법 검사:
     표제어: 평상시
     품사: 명사
 ---
 000_KEYWORD: 평상심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81246
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6306,13 +6306,13 @@ imported:
     표제어: 평상심
     품사: 명사
     항목ID: 81246
-processed:
+result:
   맞춤법 검사:
     표제어: 평상심
     품사: 명사
 ---
 000_KEYWORD: 평생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71485
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6346,13 +6346,13 @@ imported:
     표제어: 평생
     품사: 명사
     항목ID: 71485
-processed:
+result:
   맞춤법 검사:
     표제어: 평생
     품사: 명사
 ---
 000_KEYWORD: 평생직장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93417
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6382,13 +6382,13 @@ imported:
     표제어: 평생직장
     품사: 명사
     항목ID: 93417
-processed:
+result:
   맞춤법 검사:
     표제어: 평생직장
     품사: 명사
 ---
 000_KEYWORD: 평생토록__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81255
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6418,13 +6418,13 @@ imported:
     표제어: 평생토록
     품사: 부사
     항목ID: 81255
-processed:
+result:
   맞춤법 검사:
     표제어: 평생토록
     품사: 부사
 ---
 000_KEYWORD: 평서문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81263
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6459,13 +6459,13 @@ imported:
     표제어: 평서문
     품사: 명사
     항목ID: 81263
-processed:
+result:
   맞춤법 검사:
     표제어: 평서문
     품사: 명사
 ---
 000_KEYWORD: 평소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71341
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6512,13 +6512,13 @@ imported:
     표제어: 평소
     품사: 명사
     항목ID: 71341
-processed:
+result:
   맞춤법 검사:
     표제어: 평소
     품사: 명사
 ---
 000_KEYWORD: 평수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81266
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6550,13 +6550,13 @@ imported:
     표제어: 평수
     품사: 명사
     항목ID: 81266
-processed:
+result:
   맞춤법 검사:
     표제어: 평수
     품사: 명사
 ---
 000_KEYWORD: 평시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81269
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6601,13 +6601,13 @@ imported:
     표제어: 평시
     품사: 명사
     항목ID: 81269
-processed:
+result:
   맞춤법 검사:
     표제어: 평시
     품사: 명사
 ---
 000_KEYWORD: 평신도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81275
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6633,13 +6633,13 @@ imported:
     표제어: 평신도
     품사: 명사
     항목ID: 81275
-processed:
+result:
   맞춤법 검사:
     표제어: 평신도
     품사: 명사
 ---
 000_KEYWORD: 평안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81277
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6674,13 +6674,13 @@ imported:
     표제어: 평안
     품사: 명사
     항목ID: 81277
-processed:
+result:
   맞춤법 검사:
     표제어: 평안
     품사: 명사
 ---
 000_KEYWORD: 평안__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68907
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6701,13 +6701,13 @@ imported:
     표제어: 평안
     품사: 명사
     항목ID: 68907
-processed:
+result:
   맞춤법 검사:
     표제어: 평안
     품사: 명사
 ---
 000_KEYWORD: 평안남도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68694
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6727,13 +6727,13 @@ imported:
     표제어: 평안남도
     품사: 명사
     항목ID: 68694
-processed:
+result:
   맞춤법 검사:
     표제어: 평안남도
     품사: 명사
 ---
 000_KEYWORD: 평안도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92060
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6754,13 +6754,13 @@ imported:
     표제어: 평안도
     품사: 명사
     항목ID: 92060
-processed:
+result:
   맞춤법 검사:
     표제어: 평안도
     품사: 명사
 ---
 000_KEYWORD: 평안북도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68696
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6780,13 +6780,13 @@ imported:
     표제어: 평안북도
     품사: 명사
     항목ID: 68696
-processed:
+result:
   맞춤법 검사:
     표제어: 평안북도
     품사: 명사
 ---
 000_KEYWORD: 평안하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81279
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6836,13 +6836,13 @@ imported:
       형태: 평안하니
     - 발음: 평안함니다
       형태: 평안합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평안하다
     품사: 형용사
 ---
 000_KEYWORD: 평안히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81285
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6872,13 +6872,13 @@ imported:
     표제어: 평안히
     품사: 부사
     항목ID: 81285
-processed:
+result:
   맞춤법 검사:
     표제어: 평안히
     품사: 부사
 ---
 000_KEYWORD: 평야__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81288
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6909,13 +6909,13 @@ imported:
     표제어: 평야
     품사: 명사
     항목ID: 81288
-processed:
+result:
   맞춤법 검사:
     표제어: 평야
     품사: 명사
 ---
 000_KEYWORD: 평양__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68900
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6932,13 +6932,13 @@ imported:
     표제어: 평양
     품사: 명사
     항목ID: 68900
-processed:
+result:
   맞춤법 검사:
     표제어: 평양
     품사: 명사
 ---
 000_KEYWORD: 평영__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81291
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6973,13 +6973,13 @@ imported:
     표제어: 평영
     품사: 명사
     항목ID: 81291
-processed:
+result:
   맞춤법 검사:
     표제어: 평영
     품사: 명사
 ---
 000_KEYWORD: 평온__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81294
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7012,13 +7012,13 @@ imported:
     표제어: 평온
     품사: 명사
     항목ID: 81294
-processed:
+result:
   맞춤법 검사:
     표제어: 평온
     품사: 명사
 ---
 000_KEYWORD: 평온하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81297
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7059,13 +7059,13 @@ imported:
       형태: 평온하니
     - 발음: 평온함니다
       형태: 평온합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평온하다
     품사: 형용사
 ---
 000_KEYWORD: 평온히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81302
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7095,13 +7095,13 @@ imported:
     표제어: 평온히
     품사: 부사
     항목ID: 81302
-processed:
+result:
   맞춤법 검사:
     표제어: 평온히
     품사: 부사
 ---
 000_KEYWORD: 평원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81305
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7129,13 +7129,13 @@ imported:
     표제어: 평원
     품사: 명사
     항목ID: 81305
-processed:
+result:
   맞춤법 검사:
     표제어: 평원
     품사: 명사
 ---
 000_KEYWORD: 평의회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81311
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7167,13 +7167,13 @@ imported:
     표제어: 평의회
     품사: 명사
     항목ID: 81311
-processed:
+result:
   맞춤법 검사:
     표제어: 평의회
     품사: 명사
 ---
 000_KEYWORD: 평이하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81317
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7217,13 +7217,13 @@ imported:
       형태: 평이하니
     - 발음: 평이함니다
       형태: 평이합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평이하다
     품사: 형용사
 ---
 000_KEYWORD: 평일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81325
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7284,13 +7284,13 @@ imported:
     표제어: 평일
     품사: 명사
     항목ID: 81325
-processed:
+result:
   맞춤법 검사:
     표제어: 평일
     품사: 명사
 ---
 000_KEYWORD: 평자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81330
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7316,13 +7316,13 @@ imported:
     표제어: 평자
     품사: 명사
     항목ID: 81330
-processed:
+result:
   맞춤법 검사:
     표제어: 평자
     품사: 명사
 ---
 000_KEYWORD: 평전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81336
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7351,13 +7351,13 @@ imported:
     표제어: 평전
     품사: 명사
     항목ID: 81336
-processed:
+result:
   맞춤법 검사:
     표제어: 평전
     품사: 명사
 ---
 000_KEYWORD: 평절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81342
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7385,13 +7385,13 @@ imported:
     표제어: 평절
     품사: 명사
     항목ID: 81342
-processed:
+result:
   맞춤법 검사:
     표제어: 평절
     품사: 명사
 ---
 000_KEYWORD: 평점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81357
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7435,13 +7435,13 @@ imported:
     표제어: 평점
     품사: 명사
     항목ID: 81357
-processed:
+result:
   맞춤법 검사:
     표제어: 평점
     품사: 명사
 ---
 000_KEYWORD: 평정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81409
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7481,13 +7481,13 @@ imported:
     표제어: 평정
     품사: 명사
     항목ID: 81409
-processed:
+result:
   맞춤법 검사:
     표제어: 평정
     품사: 명사
 ---
 000_KEYWORD: 평정__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81431
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7515,13 +7515,13 @@ imported:
     표제어: 평정
     품사: 명사
     항목ID: 81431
-processed:
+result:
   맞춤법 검사:
     표제어: 평정
     품사: 명사
 ---
 000_KEYWORD: 평정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81426
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7563,13 +7563,13 @@ imported:
     표제어: 평정되다
     품사: 동사
     항목ID: 81426
-processed:
+result:
   맞춤법 검사:
     표제어: 평정되다
     품사: 동사
 ---
 000_KEYWORD: 평정심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81429
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7598,13 +7598,13 @@ imported:
     표제어: 평정심
     품사: 명사
     항목ID: 81429
-processed:
+result:
   맞춤법 검사:
     표제어: 평정심
     품사: 명사
 ---
 000_KEYWORD: 평정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81418
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7648,13 +7648,13 @@ imported:
     표제어: 평정하다
     품사: 동사
     항목ID: 81418
-processed:
+result:
   맞춤법 검사:
     표제어: 평정하다
     품사: 동사
 ---
 000_KEYWORD: 평정하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81434
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7696,13 +7696,13 @@ imported:
       형태: 평정하니
     - 발음: 평정함니다
       형태: 평정합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평정하다
     품사: 형용사
 ---
 000_KEYWORD: 평준화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83041
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7733,13 +7733,13 @@ imported:
     표제어: 평준화
     품사: 명사
     항목ID: 83041
-processed:
+result:
   맞춤법 검사:
     표제어: 평준화
     품사: 명사
 ---
 000_KEYWORD: 평준화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83042
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7770,13 +7770,13 @@ imported:
     표제어: 평준화되다
     품사: 동사
     항목ID: 83042
-processed:
+result:
   맞춤법 검사:
     표제어: 평준화되다
     품사: 동사
 ---
 000_KEYWORD: 평준화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83043
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7805,13 +7805,13 @@ imported:
     표제어: 평준화하다
     품사: 동사
     항목ID: 83043
-processed:
+result:
   맞춤법 검사:
     표제어: 평준화하다
     품사: 동사
 ---
 000_KEYWORD: 평지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83044
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7842,13 +7842,13 @@ imported:
     표제어: 평지
     품사: 명사
     항목ID: 83044
-processed:
+result:
   맞춤법 검사:
     표제어: 평지
     품사: 명사
 ---
 000_KEYWORD: 평지풍파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83045
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7876,13 +7876,13 @@ imported:
     표제어: 평지풍파
     품사: 명사
     항목ID: 83045
-processed:
+result:
   맞춤법 검사:
     표제어: 평지풍파
     품사: 명사
 ---
 000_KEYWORD: 평창__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7891,13 +7891,13 @@ imported:
     표제어: 평창
     품사: 명사:보통:서술성
     항목ID: 31774
-processed:
+result:
   맞춤법 검사:
     표제어: 평창
     품사: 명사
 ---
 000_KEYWORD: 평탄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83070
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7944,13 +7944,13 @@ imported:
     표제어: 평탄
     품사: 명사
     항목ID: 83070
-processed:
+result:
   맞춤법 검사:
     표제어: 평탄
     품사: 명사
 ---
 000_KEYWORD: 평탄하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83071
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8016,13 +8016,13 @@ imported:
       형태: 평탄하니
     - 발음: 평탄함니다
       형태: 평탄합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평탄하다
     품사: 형용사
 ---
 000_KEYWORD: 평택__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8033,13 +8033,13 @@ imported:
     표제어: 평택
     품사: 명사:보통:서술성
     항목ID: 28927
-processed:
+result:
   맞춤법 검사:
     표제어: 평택
     품사: 명사
 ---
 000_KEYWORD: 평판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83072
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8082,13 +8082,13 @@ imported:
     표제어: 평판
     품사: 명사
     항목ID: 83072
-processed:
+result:
   맞춤법 검사:
     표제어: 평판
     품사: 명사
 ---
 000_KEYWORD: 평평하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83073
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8143,13 +8143,13 @@ imported:
       형태: 평평하니
     - 발음: 평평함니다
       형태: 평평합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평평하다
     품사: 형용사
 ---
 000_KEYWORD: 평하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83074
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8180,13 +8180,13 @@ imported:
     표제어: 평하다
     품사: 동사
     항목ID: 83074
-processed:
+result:
   맞춤법 검사:
     표제어: 평하다
     품사: 동사
 ---
 000_KEYWORD: 평행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83075
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8227,13 +8227,13 @@ imported:
     표제어: 평행
     품사: 명사
     항목ID: 83075
-processed:
+result:
   맞춤법 검사:
     표제어: 평행
     품사: 명사
 ---
 000_KEYWORD: 평행봉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83076
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8276,13 +8276,13 @@ imported:
     표제어: 평행봉
     품사: 명사
     항목ID: 83076
-processed:
+result:
   맞춤법 검사:
     표제어: 평행봉
     품사: 명사
 ---
 000_KEYWORD: 평행사변형__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8292,13 +8292,13 @@ imported:
     표제어: 평행사변형
     품사: 명사:보통:비서술성
     항목ID: 28932
-processed:
+result:
   맞춤법 검사:
     표제어: 평행사변형
     품사: 명사
 ---
 000_KEYWORD: 평행선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83078
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8338,13 +8338,13 @@ imported:
     표제어: 평행선
     품사: 명사
     항목ID: 83078
-processed:
+result:
   맞춤법 검사:
     표제어: 평행선
     품사: 명사
 ---
 000_KEYWORD: 평행하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83098
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8395,13 +8395,13 @@ imported:
     - 발음: 평행함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/pieup_2006/pyeonghaenghada.wav
       형태: 평행합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평행하다
     품사: 동사
 ---
 000_KEYWORD: 평행하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92441
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8444,13 +8444,13 @@ imported:
       형태: 평행하니
     - 발음: 평행함니다
       형태: 평행합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 평행하다
     품사: 형용사
 ---
 000_KEYWORD: 평형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83069
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8496,13 +8496,13 @@ imported:
     표제어: 평형
     품사: 명사
     항목ID: 83069
-processed:
+result:
   맞춤법 검사:
     표제어: 평형
     품사: 명사
 ---
 000_KEYWORD: 평화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71342
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8547,13 +8547,13 @@ imported:
     표제어: 평화
     품사: 명사
     항목ID: 71342
-processed:
+result:
   맞춤법 검사:
     표제어: 평화
     품사: 명사
 ---
 000_KEYWORD: 평화롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83056
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8599,7 +8599,7 @@ imported:
       형태: 평화로우니
     - 발음: 평화롭씀니다
       형태: 평화롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -8607,7 +8607,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 평화상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83058
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8637,13 +8637,13 @@ imported:
     표제어: 평화상
     품사: 명사
     항목ID: 83058
-processed:
+result:
   맞춤법 검사:
     표제어: 평화상
     품사: 명사
 ---
 000_KEYWORD: 평화스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83057
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8689,7 +8689,7 @@ imported:
       형태: 평화스러우니
     - 발음: 평화스럽씀니다
       형태: 평화스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -8697,7 +8697,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 평화적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83059
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8726,13 +8726,13 @@ imported:
     표제어: 평화적
     품사: 관형사
     항목ID: 83059
-processed:
+result:
   맞춤법 검사:
     표제어: 평화적
     품사: 관형사
 ---
 000_KEYWORD: 평화적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83060
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8761,13 +8761,13 @@ imported:
     표제어: 평화적
     품사: 명사
     항목ID: 83060
-processed:
+result:
   맞춤법 검사:
     표제어: 평화적
     품사: 명사
 ---
 000_KEYWORD: 평화주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83061
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8798,7 +8798,7 @@ imported:
     표제어: 평화주의
     품사: 명사
     항목ID: 83061
-processed:
+result:
   맞춤법 검사:
     표제어: 평화주의
     품사: 명사

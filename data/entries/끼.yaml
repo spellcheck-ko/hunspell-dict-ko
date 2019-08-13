@@ -1,5 +1,5 @@
 000_KEYWORD: -끼리__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73342
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17,11 +17,11 @@ imported:
     표제어: -끼리
     품사: 접사
     항목ID: 73342
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 끼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28393
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -73,13 +73,13 @@ imported:
     표제어: 끼
     품사: 명사
     항목ID: 28393
-processed:
+result:
   맞춤법 검사:
     표제어: 끼
     품사: 명사
 ---
 000_KEYWORD: 끼__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38434
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -109,13 +109,13 @@ imported:
     표제어: 끼
     품사: 명사
     항목ID: 38434
-processed:
+result:
   맞춤법 검사:
     표제어: 끼
     품사: 명사
 ---
 000_KEYWORD: 끼니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38436
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -162,13 +162,13 @@ imported:
     표제어: 끼니
     품사: 명사
     항목ID: 38436
-processed:
+result:
   맞춤법 검사:
     표제어: 끼니
     품사: 명사
 ---
 000_KEYWORD: 끼니때__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17573
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -195,13 +195,13 @@ imported:
     표제어: 끼니때
     품사: 명사
     항목ID: 17573
-processed:
+result:
   맞춤법 검사:
     표제어: 끼니때
     품사: 명사
 ---
 000_KEYWORD: 끼닛거리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -211,13 +211,13 @@ imported:
     표제어: 끼닛거리
     품사: 명사:보통:서술성
     항목ID: 4693
-processed:
+result:
   맞춤법 검사:
     표제어: 끼닛거리
     품사: 명사
 ---
 000_KEYWORD: 끼다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73961
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -310,13 +310,13 @@ imported:
     - 발음: 끼ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/73961_kki-ni.wav
       형태: 끼니
-processed:
+result:
   맞춤법 검사:
     표제어: 끼다
     품사: 동사
 ---
 000_KEYWORD: 끼다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38439
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -417,13 +417,13 @@ imported:
     - 발음: 끼ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kki-ni.wav
       형태: 끼니
-processed:
+result:
   맞춤법 검사:
     표제어: 끼다
     품사: 동사
 ---
 000_KEYWORD: 끼다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61097
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -559,13 +559,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkyeo-.wav
       형태: 껴
     - 형태: 끼니
-processed:
+result:
   맞춤법 검사:
     표제어: 끼다
     품사: 동사
 ---
 000_KEYWORD: 끼룩끼룩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38448
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -590,13 +590,13 @@ imported:
     표제어: 끼룩끼룩
     품사: 부사
     항목ID: 38448
-processed:
+result:
   맞춤법 검사:
     표제어: 끼룩끼룩
     품사: 부사
 ---
 000_KEYWORD: 끼리끼리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38449
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -623,13 +623,13 @@ imported:
     표제어: 끼리끼리
     품사: 부사
     항목ID: 38449
-processed:
+result:
   맞춤법 검사:
     표제어: 끼리끼리
     품사: 부사
 ---
 000_KEYWORD: 끼어들기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17574
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -662,13 +662,13 @@ imported:
     표제어: 끼어들기
     품사: 명사
     항목ID: 17574
-processed:
+result:
   맞춤법 검사:
     표제어: 끼어들기
     품사: 명사
 ---
 000_KEYWORD: 끼어들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28298
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -721,17 +721,17 @@ imported:
     - 발음: 끼여듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/28298_kkiyeodeumnida.wav
       형태: 끼어듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 끼어들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 끼얹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38451
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -775,13 +775,13 @@ imported:
     - 발음: 끼언찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38451_kkieonjji.wav
       형태: 끼얹지
-processed:
+result:
   맞춤법 검사:
     표제어: 끼얹다
     품사: 동사
 ---
 000_KEYWORD: 끼우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28299
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -850,13 +850,13 @@ imported:
     활용:
     - 형태: 끼우어
     - 형태: 끼우니
-processed:
+result:
   맞춤법 검사:
     표제어: 끼우다
     품사: 동사
 ---
 000_KEYWORD: 끼이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38455
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -953,13 +953,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38455_kkiiyeo.wav
       형태: 끼이어
     - 형태: 끼이니
-processed:
+result:
   맞춤법 검사:
     표제어: 끼이다
     품사: 동사
 ---
 000_KEYWORD: 끼익__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38458
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -986,13 +986,13 @@ imported:
     표제어: 끼익
     품사: 부사
     항목ID: 38458
-processed:
+result:
   맞춤법 검사:
     표제어: 끼익
     품사: 부사
 ---
 000_KEYWORD: 끼적거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38459
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1028,13 +1028,13 @@ imported:
     표제어: 끼적거리다
     품사: 동사
     항목ID: 38459
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적거리다
     품사: 동사
 ---
 000_KEYWORD: 끼적거리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38461
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1073,13 +1073,13 @@ imported:
     표제어: 끼적거리다
     품사: 동사
     항목ID: 38461
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적거리다
     품사: 동사
 ---
 000_KEYWORD: 끼적끼적__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88762
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1103,13 +1103,13 @@ imported:
     표제어: 끼적끼적
     품사: 부사
     항목ID: 88762
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적끼적
     품사: 부사
 ---
 000_KEYWORD: 끼적끼적__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88765
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1134,13 +1134,13 @@ imported:
     표제어: 끼적끼적
     품사: 부사
     항목ID: 88765
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적끼적
     품사: 부사
 ---
 000_KEYWORD: 끼적끼적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88763
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1172,13 +1172,13 @@ imported:
     표제어: 끼적끼적하다
     품사: 동사
     항목ID: 88763
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적끼적하다
     품사: 동사
 ---
 000_KEYWORD: 끼적끼적하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88766
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1206,13 +1206,13 @@ imported:
     표제어: 끼적끼적하다
     품사: 동사
     항목ID: 88766
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적끼적하다
     품사: 동사
 ---
 000_KEYWORD: 끼적대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88764
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1244,13 +1244,13 @@ imported:
     표제어: 끼적대다
     품사: 동사
     항목ID: 88764
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적대다
     품사: 동사
 ---
 000_KEYWORD: 끼적대다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88767
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1282,13 +1282,13 @@ imported:
     표제어: 끼적대다
     품사: 동사
     항목ID: 88767
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적대다
     품사: 동사
 ---
 000_KEYWORD: 끼적이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38463
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1318,13 +1318,13 @@ imported:
     표제어: 끼적이다
     품사: 동사
     항목ID: 38463
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적이다
     품사: 동사
 ---
 000_KEYWORD: 끼적이다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39093
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1352,13 +1352,13 @@ imported:
     표제어: 끼적이다
     품사: 동사
     항목ID: 39093
-processed:
+result:
   맞춤법 검사:
     표제어: 끼적이다
     품사: 동사
 ---
 000_KEYWORD: 끼치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39094
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1412,13 +1412,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/39094_kkicheo.wav
       형태: 끼쳐
     - 형태: 끼치니
-processed:
+result:
   맞춤법 검사:
     표제어: 끼치다
     품사: 동사
 ---
 000_KEYWORD: 끼치다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39095
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1473,13 +1473,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/39094_kkicheo.wav
       형태: 끼쳐
     - 형태: 끼치니
-processed:
+result:
   맞춤법 검사:
     표제어: 끼치다
     품사: 동사
 ---
 000_KEYWORD: 끽__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1489,13 +1489,13 @@ imported:
     표제어: 끽
     품사: 부사
     항목ID: 4703
-processed:
+result:
   맞춤법 검사:
     표제어: 끽
     품사: 부사
 ---
 000_KEYWORD: 끽소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17576
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1522,13 +1522,13 @@ imported:
     표제어: 끽소리
     품사: 명사
     항목ID: 17576
-processed:
+result:
   맞춤법 검사:
     표제어: 끽소리
     품사: 명사
 ---
 000_KEYWORD: 끽연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17577
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1560,13 +1560,13 @@ imported:
     표제어: 끽연
     품사: 명사
     항목ID: 17577
-processed:
+result:
   맞춤법 검사:
     표제어: 끽연
     품사: 명사
 ---
 000_KEYWORD: 끽하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39096
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1589,13 +1589,13 @@ imported:
     표제어: 끽하다
     품사: 동사
     항목ID: 39096
-processed:
+result:
   맞춤법 검사:
     표제어: 끽하다
     품사: 동사
 ---
 000_KEYWORD: 낄낄__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39097
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1624,13 +1624,13 @@ imported:
     표제어: 낄낄
     품사: 부사
     항목ID: 39097
-processed:
+result:
   맞춤법 검사:
     표제어: 낄낄
     품사: 부사
 ---
 000_KEYWORD: 낄낄거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39098
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1666,13 +1666,13 @@ imported:
     표제어: 낄낄거리다
     품사: 동사
     항목ID: 39098
-processed:
+result:
   맞춤법 검사:
     표제어: 낄낄거리다
     품사: 동사
 ---
 000_KEYWORD: 낄낄대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39099
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1702,13 +1702,13 @@ imported:
     표제어: 낄낄대다
     품사: 동사
     항목ID: 39099
-processed:
+result:
   맞춤법 검사:
     표제어: 낄낄대다
     품사: 동사
 ---
 000_KEYWORD: 낄낄하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88769
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1734,13 +1734,13 @@ imported:
     표제어: 낄낄하다
     품사: 동사
     항목ID: 88769
-processed:
+result:
   맞춤법 검사:
     표제어: 낄낄하다
     품사: 동사
 ---
 000_KEYWORD: 낌새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39100
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1772,13 +1772,13 @@ imported:
     표제어: 낌새
     품사: 명사
     항목ID: 39100
-processed:
+result:
   맞춤법 검사:
     표제어: 낌새
     품사: 명사
 ---
 000_KEYWORD: 낑낑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39101
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1806,13 +1806,13 @@ imported:
     표제어: 낑낑
     품사: 부사
     항목ID: 39101
-processed:
+result:
   맞춤법 검사:
     표제어: 낑낑
     품사: 부사
 ---
 000_KEYWORD: 낑낑거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39103
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1843,13 +1843,13 @@ imported:
     표제어: 낑낑거리다
     품사: 동사
     항목ID: 39103
-processed:
+result:
   맞춤법 검사:
     표제어: 낑낑거리다
     품사: 동사
 ---
 000_KEYWORD: 낑낑대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39104
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1880,13 +1880,13 @@ imported:
     표제어: 낑낑대다
     품사: 동사
     항목ID: 39104
-processed:
+result:
   맞춤법 검사:
     표제어: 낑낑대다
     품사: 동사
 ---
 000_KEYWORD: 낑낑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88770
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1907,7 +1907,7 @@ imported:
     표제어: 낑낑하다
     품사: 동사
     항목ID: 88770
-processed:
+result:
   맞춤법 검사:
     표제어: 낑낑하다
     품사: 동사

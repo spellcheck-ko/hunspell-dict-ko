@@ -1,5 +1,5 @@
 000_KEYWORD: -세__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78404
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -26,11 +26,11 @@ imported:
     표제어: -세
     품사: 어미
     항목ID: 78404
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -세나__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78469
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -52,11 +52,11 @@ imported:
     표제어: -세나
     품사: 어미
     항목ID: 78469
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -세요__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86558
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -85,11 +85,11 @@ imported:
     표제어: -세요
     품사: 어미
     항목ID: 86558
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 세__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17194
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -128,13 +128,13 @@ imported:
     표제어: 세
     품사: 관형사
     항목ID: 17194
-processed:
+result:
   맞춤법 검사:
     표제어: 세
     품사: 관형사
 ---
 000_KEYWORD: 세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64007
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -178,13 +178,13 @@ imported:
     표제어: 세
     품사: 명사
     항목ID: 64007
-processed:
+result:
   맞춤법 검사:
     표제어: 세
     품사: 명사
 ---
 000_KEYWORD: 세__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64006
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -232,13 +232,13 @@ imported:
     표제어: 세
     품사: 명사
     항목ID: 64006
-processed:
+result:
   맞춤법 검사:
     표제어: 세
     품사: 명사
 ---
 000_KEYWORD: 세__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64004
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -266,13 +266,13 @@ imported:
     표제어: 세
     품사: 의존 명사
     항목ID: 64004
-processed:
+result:
   맞춤법 검사:
     표제어: 세
     품사: 의존 명사
 ---
 000_KEYWORD: 세__의존_명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64008
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -308,13 +308,13 @@ imported:
     표제어: 세
     품사: 의존 명사
     항목ID: 64008
-processed:
+result:
   맞춤법 검사:
     표제어: 세
     품사: 의존 명사
 ---
 000_KEYWORD: 세간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64009
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -345,13 +345,13 @@ imported:
     표제어: 세간
     품사: 명사
     항목ID: 64009
-processed:
+result:
   맞춤법 검사:
     표제어: 세간
     품사: 명사
 ---
 000_KEYWORD: 세간__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64010
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -379,13 +379,13 @@ imported:
     표제어: 세간
     품사: 명사
     항목ID: 64010
-processed:
+result:
   맞춤법 검사:
     표제어: 세간
     품사: 명사
 ---
 000_KEYWORD: 세간살이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -395,13 +395,13 @@ imported:
     표제어: 세간살이
     품사: 명사:보통:서술성
     항목ID: 14831
-processed:
+result:
   맞춤법 검사:
     표제어: 세간살이
     품사: 명사
 ---
 000_KEYWORD: 세계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62444
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -469,13 +469,13 @@ imported:
     표제어: 세계
     품사: 명사
     항목ID: 62444
-processed:
+result:
   맞춤법 검사:
     표제어: 세계
     품사: 명사
 ---
 000_KEYWORD: 세계관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49074
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -505,13 +505,13 @@ imported:
     표제어: 세계관
     품사: 명사
     항목ID: 49074
-processed:
+result:
   맞춤법 검사:
     표제어: 세계관
     품사: 명사
 ---
 000_KEYWORD: 세계대전__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -520,13 +520,13 @@ imported:
     표제어: 세계대전
     품사: 명사:보통:비서술성
     항목ID: 31807
-processed:
+result:
   맞춤법 검사:
     표제어: 세계대전
     품사: 명사
 ---
 000_KEYWORD: 세계사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64016
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -574,13 +574,13 @@ imported:
     표제어: 세계사
     품사: 명사
     항목ID: 64016
-processed:
+result:
   맞춤법 검사:
     표제어: 세계사
     품사: 명사
 ---
 000_KEYWORD: 세계사적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64025
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -612,13 +612,13 @@ imported:
     표제어: 세계사적
     품사: 관형사
     항목ID: 64025
-processed:
+result:
   맞춤법 검사:
     표제어: 세계사적
     품사: 관형사
 ---
 000_KEYWORD: 세계사적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64018
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -648,13 +648,13 @@ imported:
     표제어: 세계사적
     품사: 명사
     항목ID: 64018
-processed:
+result:
   맞춤법 검사:
     표제어: 세계사적
     품사: 명사
 ---
 000_KEYWORD: 세계상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64029
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -684,13 +684,13 @@ imported:
     표제어: 세계상
     품사: 명사
     항목ID: 64029
-processed:
+result:
   맞춤법 검사:
     표제어: 세계상
     품사: 명사
 ---
 000_KEYWORD: 세계은행__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -700,13 +700,13 @@ imported:
     표제어: 세계은행
     품사: 명사:고유
     항목ID: 14835
-processed:
+result:
   맞춤법 검사:
     표제어: 세계은행
     품사: 명사
 ---
 000_KEYWORD: 세계인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -715,13 +715,13 @@ imported:
     표제어: 세계인
     품사: 명사:보통:비서술성
     항목ID: 14836
-processed:
+result:
   맞춤법 검사:
     표제어: 세계인
     품사: 명사
 ---
 000_KEYWORD: 세계적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64037
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -752,13 +752,13 @@ imported:
     표제어: 세계적
     품사: 관형사
     항목ID: 64037
-processed:
+result:
   맞춤법 검사:
     표제어: 세계적
     품사: 관형사
 ---
 000_KEYWORD: 세계적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64043
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -788,13 +788,13 @@ imported:
     표제어: 세계적
     품사: 명사
     항목ID: 64043
-processed:
+result:
   맞춤법 검사:
     표제어: 세계적
     품사: 명사
 ---
 000_KEYWORD: 세계정부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -804,13 +804,13 @@ imported:
     표제어: 세계정부
     품사: 명사:보통:서술성
     항목ID: 14838
-processed:
+result:
   맞춤법 검사:
     표제어: 세계정부
     품사: 명사
 ---
 000_KEYWORD: 세계화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64071
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -841,13 +841,13 @@ imported:
     표제어: 세계화
     품사: 명사
     항목ID: 64071
-processed:
+result:
   맞춤법 검사:
     표제어: 세계화
     품사: 명사
 ---
 000_KEYWORD: 세계화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64080
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -878,13 +878,13 @@ imported:
     표제어: 세계화하다
     품사: 동사
     항목ID: 64080
-processed:
+result:
   맞춤법 검사:
     표제어: 세계화하다
     품사: 동사
 ---
 000_KEYWORD: 세공__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64090
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -913,13 +913,13 @@ imported:
     표제어: 세공
     품사: 명사
     항목ID: 64090
-processed:
+result:
   맞춤법 검사:
     표제어: 세공
     품사: 명사
 ---
 000_KEYWORD: 세공품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64091
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -947,13 +947,13 @@ imported:
     표제어: 세공품
     품사: 명사
     항목ID: 64091
-processed:
+result:
   맞춤법 검사:
     표제어: 세공품
     품사: 명사
 ---
 000_KEYWORD: 세관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64094
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -983,13 +983,13 @@ imported:
     표제어: 세관
     품사: 명사
     항목ID: 64094
-processed:
+result:
   맞춤법 검사:
     표제어: 세관
     품사: 명사
 ---
 000_KEYWORD: 세균__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64097
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1031,13 +1031,13 @@ imported:
     표제어: 세균
     품사: 명사
     항목ID: 64097
-processed:
+result:
   맞춤법 검사:
     표제어: 세균
     품사: 명사
 ---
 000_KEYWORD: 세금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64101
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1071,13 +1071,13 @@ imported:
     표제어: 세금
     품사: 명사
     항목ID: 64101
-processed:
+result:
   맞춤법 검사:
     표제어: 세금
     품사: 명사
 ---
 000_KEYWORD: 세금계산서__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1086,13 +1086,13 @@ imported:
     표제어: 세금계산서
     품사: 명사:보통:비서술성
     항목ID: 14845
-processed:
+result:
   맞춤법 검사:
     표제어: 세금계산서
     품사: 명사
 ---
 000_KEYWORD: 세기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62053
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1172,13 +1172,13 @@ imported:
     표제어: 세기
     품사: 명사
     항목ID: 62053
-processed:
+result:
   맞춤법 검사:
     표제어: 세기
     품사: 명사
 ---
 000_KEYWORD: 세기__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1188,13 +1188,13 @@ imported:
     표제어: 세기
     품사: 명사:의존:단위성
     항목ID: 14846
-processed:
+result:
   맞춤법 검사:
     표제어: 세기
     품사: 명사
 ---
 000_KEYWORD: 세기말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64103
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1239,13 +1239,13 @@ imported:
     표제어: 세기말
     품사: 명사
     항목ID: 64103
-processed:
+result:
   맞춤법 검사:
     표제어: 세기말
     품사: 명사
 ---
 000_KEYWORD: 세내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64106
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1289,13 +1289,13 @@ imported:
     - 발음: 세ː내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/64106_se-naeni.wav
       형태: 세내니
-processed:
+result:
   맞춤법 검사:
     표제어: 세내다
     품사: 동사
 ---
 000_KEYWORD: 세네갈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69744
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1312,13 +1312,13 @@ imported:
     표제어: 세네갈
     품사: 명사
     항목ID: 69744
-processed:
+result:
   맞춤법 검사:
     표제어: 세네갈
     품사: 명사
 ---
 000_KEYWORD: 세놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64112
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1368,7 +1368,7 @@ imported:
     - 발음: 세ː노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/64112_se-nosseumnida.wav
       형태: 세놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1376,7 +1376,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 세뇌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64116
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1407,13 +1407,13 @@ imported:
     표제어: 세뇌
     품사: 명사
     항목ID: 64116
-processed:
+result:
   맞춤법 검사:
     표제어: 세뇌
     품사: 명사
 ---
 000_KEYWORD: 세뇌당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85383
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1444,13 +1444,13 @@ imported:
     표제어: 세뇌당하다
     품사: 동사
     항목ID: 85383
-processed:
+result:
   맞춤법 검사:
     표제어: 세뇌당하다
     품사: 동사
 ---
 000_KEYWORD: 세뇌되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64119
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1481,13 +1481,13 @@ imported:
     표제어: 세뇌되다
     품사: 동사
     항목ID: 64119
-processed:
+result:
   맞춤법 검사:
     표제어: 세뇌되다
     품사: 동사
 ---
 000_KEYWORD: 세뇌시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85472
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1518,13 +1518,13 @@ imported:
     표제어: 세뇌시키다
     품사: 동사
     항목ID: 85472
-processed:
+result:
   맞춤법 검사:
     표제어: 세뇌시키다
     품사: 동사
 ---
 000_KEYWORD: 세뇌하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64122
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1555,13 +1555,13 @@ imported:
     표제어: 세뇌하다
     품사: 동사
     항목ID: 64122
-processed:
+result:
   맞춤법 검사:
     표제어: 세뇌하다
     품사: 동사
 ---
 000_KEYWORD: 세다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64124
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1615,13 +1615,13 @@ imported:
     - 발음: 세ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/siot_2006/se-ni.wav
       형태: 세니
-processed:
+result:
   맞춤법 검사:
     표제어: 세다
     품사: 동사
 ---
 000_KEYWORD: 세다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49075
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1658,13 +1658,13 @@ imported:
     - 발음: 세ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/49075_se-ni.wav
       형태: 세니
-processed:
+result:
   맞춤법 검사:
     표제어: 세다
     품사: 동사
 ---
 000_KEYWORD: 세다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64132
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1785,13 +1785,13 @@ imported:
       형태: 세니
     - 발음: 셈:니다
       형태: 셉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 세다
     품사: 형용사
 ---
 000_KEYWORD: 세단__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1803,13 +1803,13 @@ imported:
     표제어: 세단
     품사: 명사:보통:비서술성
     항목ID: 14852
-processed:
+result:
   맞춤법 검사:
     표제어: 세단
     품사: 명사
 ---
 000_KEYWORD: 세대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49221
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1869,13 +1869,13 @@ imported:
     표제어: 세대
     품사: 명사
     항목ID: 49221
-processed:
+result:
   맞춤법 검사:
     표제어: 세대
     품사: 명사
 ---
 000_KEYWORD: 세대__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64137
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1927,13 +1927,13 @@ imported:
     표제어: 세대
     품사: 명사
     항목ID: 64137
-processed:
+result:
   맞춤법 검사:
     표제어: 세대
     품사: 명사
 ---
 000_KEYWORD: 세대__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1942,13 +1942,13 @@ imported:
     표제어: 세대
     품사: 명사:의존:단위성
     항목ID: 14853
-processed:
+result:
   맞춤법 검사:
     표제어: 세대
     품사: 명사
 ---
 000_KEYWORD: 세대교체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64141
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1978,13 +1978,13 @@ imported:
     표제어: 세대교체
     품사: 명사
     항목ID: 64141
-processed:
+result:
   맞춤법 검사:
     표제어: 세대교체
     품사: 명사
 ---
 000_KEYWORD: 세대원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64142
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2009,13 +2009,13 @@ imported:
     표제어: 세대원
     품사: 명사
     항목ID: 64142
-processed:
+result:
   맞춤법 검사:
     표제어: 세대원
     품사: 명사
 ---
 000_KEYWORD: 세대주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64144
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2043,13 +2043,13 @@ imported:
     표제어: 세대주
     품사: 명사
     항목ID: 64144
-processed:
+result:
   맞춤법 검사:
     표제어: 세대주
     품사: 명사
 ---
 000_KEYWORD: 세도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64146
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2080,13 +2080,13 @@ imported:
     표제어: 세도
     품사: 명사
     항목ID: 64146
-processed:
+result:
   맞춤법 검사:
     표제어: 세도
     품사: 명사
 ---
 000_KEYWORD: 세도가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64148
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2114,13 +2114,13 @@ imported:
     표제어: 세도가
     품사: 명사
     항목ID: 64148
-processed:
+result:
   맞춤법 검사:
     표제어: 세도가
     품사: 명사
 ---
 000_KEYWORD: 세라믹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64344
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2158,13 +2158,13 @@ imported:
     표제어: 세라믹
     품사: 명사
     항목ID: 64344
-processed:
+result:
   맞춤법 검사:
     표제어: 세라믹
     품사: 명사
 ---
 000_KEYWORD: 세레나데__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64347
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2189,13 +2189,13 @@ imported:
     표제어: 세레나데
     품사: 명사
     항목ID: 64347
-processed:
+result:
   맞춤법 검사:
     표제어: 세레나데
     품사: 명사
 ---
 000_KEYWORD: 세력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64348
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2261,13 +2261,13 @@ imported:
     - 발음: 세ː령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/64348_se-ryeongman.wav
       형태: 세력만
-processed:
+result:
   맞춤법 검사:
     표제어: 세력
     품사: 명사
 ---
 000_KEYWORD: 세력가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64349
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2294,13 +2294,13 @@ imported:
     표제어: 세력가
     품사: 명사
     항목ID: 64349
-processed:
+result:
   맞춤법 검사:
     표제어: 세력가
     품사: 명사
 ---
 000_KEYWORD: 세력권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64350
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2344,13 +2344,13 @@ imported:
     표제어: 세력권
     품사: 명사
     항목ID: 64350
-processed:
+result:
   맞춤법 검사:
     표제어: 세력권
     품사: 명사
 ---
 000_KEYWORD: 세력화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64351
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2379,13 +2379,13 @@ imported:
     표제어: 세력화
     품사: 명사
     항목ID: 64351
-processed:
+result:
   맞춤법 검사:
     표제어: 세력화
     품사: 명사
 ---
 000_KEYWORD: 세련__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64353
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2414,13 +2414,13 @@ imported:
     표제어: 세련
     품사: 명사
     항목ID: 64353
-processed:
+result:
   맞춤법 검사:
     표제어: 세련
     품사: 명사
 ---
 000_KEYWORD: 세련되다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49222
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2486,13 +2486,13 @@ imported:
       형태: 세련됩니다
     - 발음: 세ː련뒘니다
       형태: 세련됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 세련되다
     품사: 형용사
 ---
 000_KEYWORD: 세련미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64354
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2522,13 +2522,13 @@ imported:
     표제어: 세련미
     품사: 명사
     항목ID: 64354
-processed:
+result:
   맞춤법 검사:
     표제어: 세련미
     품사: 명사
 ---
 000_KEYWORD: 세례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64355
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2573,13 +2573,13 @@ imported:
     표제어: 세례
     품사: 명사
     항목ID: 64355
-processed:
+result:
   맞춤법 검사:
     표제어: 세례
     품사: 명사
 ---
 000_KEYWORD: 세례명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64356
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2605,13 +2605,13 @@ imported:
     표제어: 세례명
     품사: 명사
     항목ID: 64356
-processed:
+result:
   맞춤법 검사:
     표제어: 세례명
     품사: 명사
 ---
 000_KEYWORD: 세례식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64357
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2648,13 +2648,13 @@ imported:
     - 발음: 세ː례싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/64357_se-ryesingman.wav
       형태: 세례식만
-processed:
+result:
   맞춤법 검사:
     표제어: 세례식
     품사: 명사
 ---
 000_KEYWORD: 세로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49223
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2691,13 +2691,13 @@ imported:
     표제어: 세로
     품사: 명사
     항목ID: 49223
-processed:
+result:
   맞춤법 검사:
     표제어: 세로
     품사: 명사
 ---
 000_KEYWORD: 세로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64377
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2729,13 +2729,13 @@ imported:
     표제어: 세로
     품사: 부사
     항목ID: 64377
-processed:
+result:
   맞춤법 검사:
     표제어: 세로
     품사: 부사
 ---
 000_KEYWORD: 세로무늬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91194
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2766,13 +2766,13 @@ imported:
     표제어: 세로무늬
     품사: 명사
     항목ID: 91194
-processed:
+result:
   맞춤법 검사:
     표제어: 세로무늬
     품사: 명사
 ---
 000_KEYWORD: 세로줄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64378
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2844,13 +2844,13 @@ imported:
     표제어: 세로줄
     품사: 명사
     항목ID: 64378
-processed:
+result:
   맞춤법 검사:
     표제어: 세로줄
     품사: 명사
 ---
 000_KEYWORD: 세로축__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64379
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2892,13 +2892,13 @@ imported:
     - 발음: 세ː로충만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/64379_se-rochungman.wav
       형태: 세로축만
-processed:
+result:
   맞춤법 검사:
     표제어: 세로축
     품사: 명사
 ---
 000_KEYWORD: 세로토닌__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2908,13 +2908,13 @@ imported:
     표제어: 세로토닌
     품사: 명사:보통:서술성
     항목ID: 14860
-processed:
+result:
   맞춤법 검사:
     표제어: 세로토닌
     품사: 명사
 ---
 000_KEYWORD: 세로획__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64380
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2967,13 +2967,13 @@ imported:
     - 발음: 세ː로휑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/64380_se-rohwengman.wav
       형태: 세로획만
-processed:
+result:
   맞춤법 검사:
     표제어: 세로획
     품사: 명사
 ---
 000_KEYWORD: 세르비아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69748
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -2990,13 +2990,13 @@ imported:
     표제어: 세르비아
     품사: 명사
     항목ID: 69748
-processed:
+result:
   맞춤법 검사:
     표제어: 세르비아
     품사: 명사
 ---
 000_KEYWORD: 세면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64499
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3029,13 +3029,13 @@ imported:
     표제어: 세면
     품사: 명사
     항목ID: 64499
-processed:
+result:
   맞춤법 검사:
     표제어: 세면
     품사: 명사
 ---
 000_KEYWORD: 세면기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64500
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3068,13 +3068,13 @@ imported:
     표제어: 세면기
     품사: 명사
     항목ID: 64500
-processed:
+result:
   맞춤법 검사:
     표제어: 세면기
     품사: 명사
 ---
 000_KEYWORD: 세면대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64502
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3105,13 +3105,13 @@ imported:
     표제어: 세면대
     품사: 명사
     항목ID: 64502
-processed:
+result:
   맞춤법 검사:
     표제어: 세면대
     품사: 명사
 ---
 000_KEYWORD: 세면도구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64504
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3142,13 +3142,13 @@ imported:
     표제어: 세면도구
     품사: 명사
     항목ID: 64504
-processed:
+result:
   맞춤법 검사:
     표제어: 세면도구
     품사: 명사
 ---
 000_KEYWORD: 세면실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64505
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3180,13 +3180,13 @@ imported:
     표제어: 세면실
     품사: 명사
     항목ID: 64505
-processed:
+result:
   맞춤법 검사:
     표제어: 세면실
     품사: 명사
 ---
 000_KEYWORD: 세면장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64506
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3219,13 +3219,13 @@ imported:
     표제어: 세면장
     품사: 명사
     항목ID: 64506
-processed:
+result:
   맞춤법 검사:
     표제어: 세면장
     품사: 명사
 ---
 000_KEYWORD: 세면하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64507
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3258,13 +3258,13 @@ imported:
     표제어: 세면하다
     품사: 동사
     항목ID: 64507
-processed:
+result:
   맞춤법 검사:
     표제어: 세면하다
     품사: 동사
 ---
 000_KEYWORD: 세모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64510
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3307,13 +3307,13 @@ imported:
     표제어: 세모
     품사: 명사
     항목ID: 64510
-processed:
+result:
   맞춤법 검사:
     표제어: 세모
     품사: 명사
 ---
 000_KEYWORD: 세모꼴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70174
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3359,13 +3359,13 @@ imported:
     표제어: 세모꼴
     품사: 명사
     항목ID: 70174
-processed:
+result:
   맞춤법 검사:
     표제어: 세모꼴
     품사: 명사
 ---
 000_KEYWORD: 세모시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70175
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3393,13 +3393,13 @@ imported:
     표제어: 세모시
     품사: 명사
     항목ID: 70175
-processed:
+result:
   맞춤법 검사:
     표제어: 세모시
     품사: 명사
 ---
 000_KEYWORD: 세목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70176
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3451,13 +3451,13 @@ imported:
     - 발음: 세ː몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/70176_se-mongman.wav
       형태: 세목만
-processed:
+result:
   맞춤법 검사:
     표제어: 세목
     품사: 명사
 ---
 000_KEYWORD: 세무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3466,13 +3466,13 @@ imported:
     표제어: 세무
     품사: 명사:보통:서술성
     항목ID: 14865
-processed:
+result:
   맞춤법 검사:
     표제어: 세무
     품사: 명사
 ---
 000_KEYWORD: 세무사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70177
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3500,13 +3500,13 @@ imported:
     표제어: 세무사
     품사: 명사
     항목ID: 70177
-processed:
+result:
   맞춤법 검사:
     표제어: 세무사
     품사: 명사
 ---
 000_KEYWORD: 세무서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70178
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3534,13 +3534,13 @@ imported:
     표제어: 세무서
     품사: 명사
     항목ID: 70178
-processed:
+result:
   맞춤법 검사:
     표제어: 세무서
     품사: 명사
 ---
 000_KEYWORD: 세무조사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3549,13 +3549,13 @@ imported:
     표제어: 세무조사
     품사: 명사:보통:서술성
     항목ID: 14867
-processed:
+result:
   맞춤법 검사:
     표제어: 세무조사
     품사: 명사
 ---
 000_KEYWORD: 세미나__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49224
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3594,13 +3594,13 @@ imported:
     표제어: 세미나
     품사: 명사
     항목ID: 49224
-processed:
+result:
   맞춤법 검사:
     표제어: 세미나
     품사: 명사
 ---
 000_KEYWORD: 세밀하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70179
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3640,13 +3640,13 @@ imported:
       형태: 세밀하니
     - 발음: 세ː밀함니다
       형태: 세밀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 세밀하다
     품사: 형용사
 ---
 000_KEYWORD: 세밀히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70180
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3675,13 +3675,13 @@ imported:
     표제어: 세밀히
     품사: 부사
     항목ID: 70180
-processed:
+result:
   맞춤법 검사:
     표제어: 세밀히
     품사: 부사
 ---
 000_KEYWORD: 세밑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70181
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3723,13 +3723,13 @@ imported:
     - 발음: 세ː미틀
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/70181_se-miteul.wav
       형태: 세밑을
-processed:
+result:
   맞춤법 검사:
     표제어: 세밑
     품사: 명사
 ---
 000_KEYWORD: 세반고리관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70182
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3759,13 +3759,13 @@ imported:
     표제어: 세반고리관
     품사: 명사
     항목ID: 70182
-processed:
+result:
   맞춤법 검사:
     표제어: 세반고리관
     품사: 명사
 ---
 000_KEYWORD: 세발자전거__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70183
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3797,13 +3797,13 @@ imported:
     표제어: 세발자전거
     품사: 명사
     항목ID: 70183
-processed:
+result:
   맞춤법 검사:
     표제어: 세발자전거
     품사: 명사
 ---
 000_KEYWORD: 세배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70184
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3833,13 +3833,13 @@ imported:
     표제어: 세배
     품사: 명사
     항목ID: 70184
-processed:
+result:
   맞춤법 검사:
     표제어: 세배
     품사: 명사
 ---
 000_KEYWORD: 세배하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70185
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3869,13 +3869,13 @@ imported:
     표제어: 세배하다
     품사: 동사
     항목ID: 70185
-processed:
+result:
   맞춤법 검사:
     표제어: 세배하다
     품사: 동사
 ---
 000_KEYWORD: 세뱃돈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70186
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3907,13 +3907,13 @@ imported:
     표제어: 세뱃돈
     품사: 명사
     항목ID: 70186
-processed:
+result:
   맞춤법 검사:
     표제어: 세뱃돈
     품사: 명사
 ---
 000_KEYWORD: 세벌식__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3922,13 +3922,13 @@ imported:
     표제어: 세벌식
     품사: 명사:보통:서술성
     항목ID: 14875
-processed:
+result:
   맞춤법 검사:
     표제어: 세벌식
     품사: 명사
 ---
 000_KEYWORD: 세법__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3937,13 +3937,13 @@ imported:
     표제어: 세법
     품사: 명사:보통:서술성
     항목ID: 14876
-processed:
+result:
   맞춤법 검사:
     표제어: 세법
     품사: 명사
 ---
 000_KEYWORD: 세부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70187
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -3971,13 +3971,13 @@ imported:
     표제어: 세부
     품사: 명사
     항목ID: 70187
-processed:
+result:
   맞춤법 검사:
     표제어: 세부
     품사: 명사
 ---
 000_KEYWORD: 세부적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70188
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4007,13 +4007,13 @@ imported:
     표제어: 세부적
     품사: 관형사
     항목ID: 70188
-processed:
+result:
   맞춤법 검사:
     표제어: 세부적
     품사: 관형사
 ---
 000_KEYWORD: 세부적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70189
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4044,13 +4044,13 @@ imported:
     표제어: 세부적
     품사: 명사
     항목ID: 70189
-processed:
+result:
   맞춤법 검사:
     표제어: 세부적
     품사: 명사
 ---
 000_KEYWORD: 세분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70190
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4077,13 +4077,13 @@ imported:
     표제어: 세분
     품사: 명사
     항목ID: 70190
-processed:
+result:
   맞춤법 검사:
     표제어: 세분
     품사: 명사
 ---
 000_KEYWORD: 세분되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70191
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4114,13 +4114,13 @@ imported:
     표제어: 세분되다
     품사: 동사
     항목ID: 70191
-processed:
+result:
   맞춤법 검사:
     표제어: 세분되다
     품사: 동사
 ---
 000_KEYWORD: 세분하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70192
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4149,13 +4149,13 @@ imported:
     표제어: 세분하다
     품사: 동사
     항목ID: 70192
-processed:
+result:
   맞춤법 검사:
     표제어: 세분하다
     품사: 동사
 ---
 000_KEYWORD: 세분화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70193
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4181,13 +4181,13 @@ imported:
     표제어: 세분화
     품사: 명사
     항목ID: 70193
-processed:
+result:
   맞춤법 검사:
     표제어: 세분화
     품사: 명사
 ---
 000_KEYWORD: 세분화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70194
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4218,13 +4218,13 @@ imported:
     표제어: 세분화되다
     품사: 동사
     항목ID: 70194
-processed:
+result:
   맞춤법 검사:
     표제어: 세분화되다
     품사: 동사
 ---
 000_KEYWORD: 세분화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70195
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4254,13 +4254,13 @@ imported:
     표제어: 세분화하다
     품사: 동사
     항목ID: 70195
-processed:
+result:
   맞춤법 검사:
     표제어: 세분화하다
     품사: 동사
 ---
 000_KEYWORD: 세비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70196
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4317,13 +4317,13 @@ imported:
     표제어: 세비
     품사: 명사
     항목ID: 70196
-processed:
+result:
   맞춤법 검사:
     표제어: 세비
     품사: 명사
 ---
 000_KEYWORD: 세상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62441
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4445,13 +4445,13 @@ imported:
     표제어: 세상
     품사: 명사
     항목ID: 62441
-processed:
+result:
   맞춤법 검사:
     표제어: 세상
     품사: 명사
 ---
 000_KEYWORD: 세상만사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70197
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4476,13 +4476,13 @@ imported:
     표제어: 세상만사
     품사: 명사
     항목ID: 70197
-processed:
+result:
   맞춤법 검사:
     표제어: 세상만사
     품사: 명사
 ---
 000_KEYWORD: 세상사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70198
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4513,13 +4513,13 @@ imported:
     표제어: 세상사
     품사: 명사
     항목ID: 70198
-processed:
+result:
   맞춤법 검사:
     표제어: 세상사
     품사: 명사
 ---
 000_KEYWORD: 세상살이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70199
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4547,13 +4547,13 @@ imported:
     표제어: 세상살이
     품사: 명사
     항목ID: 70199
-processed:
+result:
   맞춤법 검사:
     표제어: 세상살이
     품사: 명사
 ---
 000_KEYWORD: 세상에__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70200
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4577,13 +4577,13 @@ imported:
     표제어: 세상에
     품사: 감탄사
     항목ID: 70200
-processed:
+result:
   맞춤법 검사:
     표제어: 세상에
     품사: 감탄사
 ---
 000_KEYWORD: 세상일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63519
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4615,13 +4615,13 @@ imported:
     표제어: 세상일
     품사: 명사
     항목ID: 63519
-processed:
+result:
   맞춤법 검사:
     표제어: 세상일
     품사: 명사
 ---
 000_KEYWORD: 세세하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63537
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4662,13 +4662,13 @@ imported:
       형태: 세세하니
     - 발음: 세ː세함니다
       형태: 세세합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 세세하다
     품사: 형용사
 ---
 000_KEYWORD: 세세히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63538
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4698,13 +4698,13 @@ imported:
     표제어: 세세히
     품사: 부사
     항목ID: 63538
-processed:
+result:
   맞춤법 검사:
     표제어: 세세히
     품사: 부사
 ---
 000_KEYWORD: 세속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63539
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4761,13 +4761,13 @@ imported:
     - 발음: 세ː송만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/63539_se-songman.wav
       형태: 세속만
-processed:
+result:
   맞춤법 검사:
     표제어: 세속
     품사: 명사
 ---
 000_KEYWORD: 세속적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63541
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4796,13 +4796,13 @@ imported:
     표제어: 세속적
     품사: 관형사
     항목ID: 63541
-processed:
+result:
   맞춤법 검사:
     표제어: 세속적
     품사: 관형사
 ---
 000_KEYWORD: 세속적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63542
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4831,13 +4831,13 @@ imported:
     표제어: 세속적
     품사: 명사
     항목ID: 63542
-processed:
+result:
   맞춤법 검사:
     표제어: 세속적
     품사: 명사
 ---
 000_KEYWORD: 세속화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63543
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4864,13 +4864,13 @@ imported:
     표제어: 세속화
     품사: 명사
     항목ID: 63543
-processed:
+result:
   맞춤법 검사:
     표제어: 세속화
     품사: 명사
 ---
 000_KEYWORD: 세속화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63544
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4901,13 +4901,13 @@ imported:
     표제어: 세속화되다
     품사: 동사
     항목ID: 63544
-processed:
+result:
   맞춤법 검사:
     표제어: 세속화되다
     품사: 동사
 ---
 000_KEYWORD: 세속화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63545
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4936,13 +4936,13 @@ imported:
     표제어: 세속화하다
     품사: 동사
     항목ID: 63545
-processed:
+result:
   맞춤법 검사:
     표제어: 세속화하다
     품사: 동사
 ---
 000_KEYWORD: 세손__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63546
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -4968,13 +4968,13 @@ imported:
     표제어: 세손
     품사: 명사
     항목ID: 63546
-processed:
+result:
   맞춤법 검사:
     표제어: 세손
     품사: 명사
 ---
 000_KEYWORD: 세수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63547
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5013,13 +5013,13 @@ imported:
     표제어: 세수
     품사: 명사
     항목ID: 63547
-processed:
+result:
   맞춤법 검사:
     표제어: 세수
     품사: 명사
 ---
 000_KEYWORD: 세수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63548
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5047,13 +5047,13 @@ imported:
     표제어: 세수
     품사: 명사
     항목ID: 63548
-processed:
+result:
   맞춤법 검사:
     표제어: 세수
     품사: 명사
 ---
 000_KEYWORD: 세수하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63549
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5089,13 +5089,13 @@ imported:
     표제어: 세수하다
     품사: 동사
     항목ID: 63549
-processed:
+result:
   맞춤법 검사:
     표제어: 세수하다
     품사: 동사
 ---
 000_KEYWORD: 세숫대야__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63550
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5126,13 +5126,13 @@ imported:
     표제어: 세숫대야
     품사: 명사
     항목ID: 63550
-processed:
+result:
   맞춤법 검사:
     표제어: 세숫대야
     품사: 명사
 ---
 000_KEYWORD: 세숫물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63551
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5162,13 +5162,13 @@ imported:
     표제어: 세숫물
     품사: 명사
     항목ID: 63551
-processed:
+result:
   맞춤법 검사:
     표제어: 세숫물
     품사: 명사
 ---
 000_KEYWORD: 세숫비누__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63552
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5197,13 +5197,13 @@ imported:
     표제어: 세숫비누
     품사: 명사
     항목ID: 63552
-processed:
+result:
   맞춤법 검사:
     표제어: 세숫비누
     품사: 명사
 ---
 000_KEYWORD: 세슘__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5213,13 +5213,13 @@ imported:
     표제어: 세슘
     품사: 명사:보통:서술성
     항목ID: 14893
-processed:
+result:
   맞춤법 검사:
     표제어: 세슘
     품사: 명사
 ---
 000_KEYWORD: 세습__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63553
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5260,13 +5260,13 @@ imported:
     - 발음: 세ː슴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/63553_se-seumman.wav
       형태: 세습만
-processed:
+result:
   맞춤법 검사:
     표제어: 세습
     품사: 명사
 ---
 000_KEYWORD: 세습되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63555
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5299,13 +5299,13 @@ imported:
     표제어: 세습되다
     품사: 동사
     항목ID: 63555
-processed:
+result:
   맞춤법 검사:
     표제어: 세습되다
     품사: 동사
 ---
 000_KEYWORD: 세습적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63556
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5333,13 +5333,13 @@ imported:
     표제어: 세습적
     품사: 관형사
     항목ID: 63556
-processed:
+result:
   맞춤법 검사:
     표제어: 세습적
     품사: 관형사
 ---
 000_KEYWORD: 세습적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63557
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5368,13 +5368,13 @@ imported:
     표제어: 세습적
     품사: 명사
     항목ID: 63557
-processed:
+result:
   맞춤법 검사:
     표제어: 세습적
     품사: 명사
 ---
 000_KEYWORD: 세습하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63558
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5406,13 +5406,13 @@ imported:
     표제어: 세습하다
     품사: 동사
     항목ID: 63558
-processed:
+result:
   맞춤법 검사:
     표제어: 세습하다
     품사: 동사
 ---
 000_KEYWORD: 세시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63559
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5438,13 +5438,13 @@ imported:
     표제어: 세시
     품사: 명사
     항목ID: 63559
-processed:
+result:
   맞춤법 검사:
     표제어: 세시
     품사: 명사
 ---
 000_KEYWORD: 세심하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63561
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5486,13 +5486,13 @@ imported:
       형태: 세심하니
     - 발음: 세ː심함니다
       형태: 세심합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 세심하다
     품사: 형용사
 ---
 000_KEYWORD: 세심히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63562
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5521,13 +5521,13 @@ imported:
     표제어: 세심히
     품사: 부사
     항목ID: 63562
-processed:
+result:
   맞춤법 검사:
     표제어: 세심히
     품사: 부사
 ---
 000_KEYWORD: 세안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63563
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5562,13 +5562,13 @@ imported:
     표제어: 세안
     품사: 명사
     항목ID: 63563
-processed:
+result:
   맞춤법 검사:
     표제어: 세안
     품사: 명사
 ---
 000_KEYWORD: 세안하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63564
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5601,13 +5601,13 @@ imported:
     표제어: 세안하다
     품사: 동사
     항목ID: 63564
-processed:
+result:
   맞춤법 검사:
     표제어: 세안하다
     품사: 동사
 ---
 000_KEYWORD: 세액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63565
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5645,13 +5645,13 @@ imported:
     - 발음: 세ː앵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/63565_se-aengman.wav
       형태: 세액만
-processed:
+result:
   맞춤법 검사:
     표제어: 세액
     품사: 명사
 ---
 000_KEYWORD: 세우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58163
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -5968,13 +5968,13 @@ imported:
     활용:
     - 형태: 세우어
     - 형태: 세우니
-processed:
+result:
   맞춤법 검사:
     표제어: 세우다
     품사: 동사
 ---
 000_KEYWORD: 세월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49225
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6024,13 +6024,13 @@ imported:
     표제어: 세월
     품사: 명사
     항목ID: 49225
-processed:
+result:
   맞춤법 검사:
     표제어: 세월
     품사: 명사
 ---
 000_KEYWORD: 세율__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63566
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6058,13 +6058,13 @@ imported:
     표제어: 세율
     품사: 명사
     항목ID: 63566
-processed:
+result:
   맞춤법 검사:
     표제어: 세율
     품사: 명사
 ---
 000_KEYWORD: 세이브__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6075,13 +6075,13 @@ imported:
     표제어: 세이브
     품사: 명사:보통:서술성
     항목ID: 14904
-processed:
+result:
   맞춤법 검사:
     표제어: 세이브
     품사: 명사
 ---
 000_KEYWORD: 세이프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90819
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6110,13 +6110,13 @@ imported:
     표제어: 세이프
     품사: 명사
     항목ID: 90819
-processed:
+result:
   맞춤법 검사:
     표제어: 세이프
     품사: 명사
 ---
 000_KEYWORD: 세일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63567
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6146,13 +6146,13 @@ imported:
     표제어: 세일
     품사: 명사
     항목ID: 63567
-processed:
+result:
   맞춤법 검사:
     표제어: 세일
     품사: 명사
 ---
 000_KEYWORD: 세일즈맨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63568
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6181,13 +6181,13 @@ imported:
     표제어: 세일즈맨
     품사: 명사
     항목ID: 63568
-processed:
+result:
   맞춤법 검사:
     표제어: 세일즈맨
     품사: 명사
 ---
 000_KEYWORD: 세일하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63569
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6213,13 +6213,13 @@ imported:
     표제어: 세일하다
     품사: 동사
     항목ID: 63569
-processed:
+result:
   맞춤법 검사:
     표제어: 세일하다
     품사: 동사
 ---
 000_KEYWORD: 세입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63570
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6258,13 +6258,13 @@ imported:
     - 발음: 세ː임만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/63570_se-imman.wav
       형태: 세입만
-processed:
+result:
   맞춤법 검사:
     표제어: 세입
     품사: 명사
 ---
 000_KEYWORD: 세입자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63571
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6293,13 +6293,13 @@ imported:
     표제어: 세입자
     품사: 명사
     항목ID: 63571
-processed:
+result:
   맞춤법 검사:
     표제어: 세입자
     품사: 명사
 ---
 000_KEYWORD: 세자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63572
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6329,13 +6329,13 @@ imported:
     표제어: 세자
     품사: 명사
     항목ID: 63572
-processed:
+result:
   맞춤법 검사:
     표제어: 세자
     품사: 명사
 ---
 000_KEYWORD: 세자빈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63573
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6366,13 +6366,13 @@ imported:
     표제어: 세자빈
     품사: 명사
     항목ID: 63573
-processed:
+result:
   맞춤법 검사:
     표제어: 세자빈
     품사: 명사
 ---
 000_KEYWORD: 세전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63574
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6402,13 +6402,13 @@ imported:
     표제어: 세전
     품사: 명사
     항목ID: 63574
-processed:
+result:
   맞춤법 검사:
     표제어: 세전
     품사: 명사
 ---
 000_KEYWORD: 세정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63576
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6439,13 +6439,13 @@ imported:
     표제어: 세정
     품사: 명사
     항목ID: 63576
-processed:
+result:
   맞춤법 검사:
     표제어: 세정
     품사: 명사
 ---
 000_KEYWORD: 세정제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6454,13 +6454,13 @@ imported:
     표제어: 세정제
     품사: 명사:보통:비서술성
     항목ID: 14910
-processed:
+result:
   맞춤법 검사:
     표제어: 세정제
     품사: 명사
 ---
 000_KEYWORD: 세제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49226
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6492,13 +6492,13 @@ imported:
     표제어: 세제
     품사: 명사
     항목ID: 49226
-processed:
+result:
   맞춤법 검사:
     표제어: 세제
     품사: 명사
 ---
 000_KEYWORD: 세제__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74717
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6528,13 +6528,13 @@ imported:
     표제어: 세제
     품사: 명사
     항목ID: 74717
-processed:
+result:
   맞춤법 검사:
     표제어: 세제
     품사: 명사
 ---
 000_KEYWORD: 세제곱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74719
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6571,13 +6571,13 @@ imported:
     - 발음: 세ː제곰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/74719_se-jegomman.wav
       형태: 세제곱만
-processed:
+result:
   맞춤법 검사:
     표제어: 세제곱
     품사: 명사
 ---
 000_KEYWORD: 세제곱미터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74740
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6603,13 +6603,13 @@ imported:
     표제어: 세제곱미터
     품사: 의존 명사
     항목ID: 74740
-processed:
+result:
   맞춤법 검사:
     표제어: 세제곱미터
     품사: 의존 명사
 ---
 000_KEYWORD: 세제곱센티미터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74759
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6635,13 +6635,13 @@ imported:
     표제어: 세제곱센티미터
     품사: 의존 명사
     항목ID: 74759
-processed:
+result:
   맞춤법 검사:
     표제어: 세제곱센티미터
     품사: 의존 명사
 ---
 000_KEYWORD: 세조__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6651,13 +6651,13 @@ imported:
     표제어: 세조
     품사: 명사:보통:서술성
     항목ID: 14912
-processed:
+result:
   맞춤법 검사:
     표제어: 세조
     품사: 명사
 ---
 000_KEYWORD: 세종__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6668,13 +6668,13 @@ imported:
     표제어: 세종
     품사: 명사:보통:서술성
     항목ID: 14913
-processed:
+result:
   맞춤법 검사:
     표제어: 세종
     품사: 명사
 ---
 000_KEYWORD: 세종대왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6683,13 +6683,13 @@ imported:
     표제어: 세종대왕
     품사: 명사:보통:서술성
     항목ID: 14914
-processed:
+result:
   맞춤법 검사:
     표제어: 세종대왕
     품사: 명사
 ---
 000_KEYWORD: 세종시__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6699,13 +6699,13 @@ imported:
     표제어: 세종시
     품사: 명사:보통:서술성
     항목ID: 14915
-processed:
+result:
   맞춤법 검사:
     표제어: 세종시
     품사: 명사
 ---
 000_KEYWORD: 세종특별자치시__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6714,13 +6714,13 @@ imported:
     표제어: 세종특별자치시
     품사: 명사:보통:서술성
     항목ID: 31876
-processed:
+result:
   맞춤법 검사:
     표제어: 세종특별자치시
     품사: 명사
 ---
 000_KEYWORD: 세주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74773
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6759,13 +6759,13 @@ imported:
     - 발음: 세ː주니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/74773_se-juni.wav
       형태: 세주니
-processed:
+result:
   맞춤법 검사:
     표제어: 세주다
     품사: 동사
 ---
 000_KEYWORD: 세차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77625
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6792,13 +6792,13 @@ imported:
     표제어: 세차
     품사: 명사
     항목ID: 77625
-processed:
+result:
   맞춤법 검사:
     표제어: 세차
     품사: 명사
 ---
 000_KEYWORD: 세차다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90334
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6859,13 +6859,13 @@ imported:
       형태: 세차니
     - 발음: 세ː참니다
       형태: 세찹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 세차다
     품사: 형용사
 ---
 000_KEYWORD: 세차운동__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6875,13 +6875,13 @@ imported:
     표제어: 세차운동
     품사: 명사:보통:서술성
     항목ID: 14917
-processed:
+result:
   맞춤법 검사:
     표제어: 세차운동
     품사: 명사
 ---
 000_KEYWORD: 세차장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77626
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6912,13 +6912,13 @@ imported:
     표제어: 세차장
     품사: 명사
     항목ID: 77626
-processed:
+result:
   맞춤법 검사:
     표제어: 세차장
     품사: 명사
 ---
 000_KEYWORD: 세차하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77627
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6945,13 +6945,13 @@ imported:
     표제어: 세차하다
     품사: 동사
     항목ID: 77627
-processed:
+result:
   맞춤법 검사:
     표제어: 세차하다
     품사: 동사
 ---
 000_KEYWORD: 세척__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77628
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -6992,13 +6992,13 @@ imported:
     - 발음: 세ː청만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/77628_se-cheongman.wav
       형태: 세척만
-processed:
+result:
   맞춤법 검사:
     표제어: 세척
     품사: 명사
 ---
 000_KEYWORD: 세척력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77629
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7037,13 +7037,13 @@ imported:
     - 발음: 세ː청녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/77629_se-cheongnyeongman.wav
       형태: 세척력만
-processed:
+result:
   맞춤법 검사:
     표제어: 세척력
     품사: 명사
 ---
 000_KEYWORD: 세척제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77630
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7075,13 +7075,13 @@ imported:
     표제어: 세척제
     품사: 명사
     항목ID: 77630
-processed:
+result:
   맞춤법 검사:
     표제어: 세척제
     품사: 명사
 ---
 000_KEYWORD: 세척하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77631
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7110,13 +7110,13 @@ imported:
     표제어: 세척하다
     품사: 동사
     항목ID: 77631
-processed:
+result:
   맞춤법 검사:
     표제어: 세척하다
     품사: 동사
 ---
 000_KEYWORD: 세출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74779
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7148,13 +7148,13 @@ imported:
     표제어: 세출
     품사: 명사
     항목ID: 74779
-processed:
+result:
   맞춤법 검사:
     표제어: 세출
     품사: 명사
 ---
 000_KEYWORD: 세칙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74818
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7192,13 +7192,13 @@ imported:
     - 발음: 세ː칭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/74818_se-chingman.wav
       형태: 세칙만
-processed:
+result:
   맞춤법 검사:
     표제어: 세칙
     품사: 명사
 ---
 000_KEYWORD: 세칭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74819
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7225,13 +7225,13 @@ imported:
     표제어: 세칭
     품사: 명사
     항목ID: 74819
-processed:
+result:
   맞춤법 검사:
     표제어: 세칭
     품사: 명사
 ---
 000_KEYWORD: 세탁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90335
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7284,13 +7284,13 @@ imported:
     - 발음: 세ː탕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/90335_se-tangman.wav
       형태: 세탁만
-processed:
+result:
   맞춤법 검사:
     표제어: 세탁
     품사: 명사
 ---
 000_KEYWORD: 세탁기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77632
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7323,13 +7323,13 @@ imported:
     표제어: 세탁기
     품사: 명사
     항목ID: 77632
-processed:
+result:
   맞춤법 검사:
     표제어: 세탁기
     품사: 명사
 ---
 000_KEYWORD: 세탁물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77633
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7363,13 +7363,13 @@ imported:
     표제어: 세탁물
     품사: 명사
     항목ID: 77633
-processed:
+result:
   맞춤법 검사:
     표제어: 세탁물
     품사: 명사
 ---
 000_KEYWORD: 세탁비누__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77634
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7404,13 +7404,13 @@ imported:
     표제어: 세탁비누
     품사: 명사
     항목ID: 77634
-processed:
+result:
   맞춤법 검사:
     표제어: 세탁비누
     품사: 명사
 ---
 000_KEYWORD: 세탁소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49228
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7441,13 +7441,13 @@ imported:
     표제어: 세탁소
     품사: 명사
     항목ID: 49228
-processed:
+result:
   맞춤법 검사:
     표제어: 세탁소
     품사: 명사
 ---
 000_KEYWORD: 세탁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90336
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7491,13 +7491,13 @@ imported:
     표제어: 세탁하다
     품사: 동사
     항목ID: 90336
-processed:
+result:
   맞춤법 검사:
     표제어: 세탁하다
     품사: 동사
 ---
 000_KEYWORD: 세태__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74820
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7526,13 +7526,13 @@ imported:
     표제어: 세태
     품사: 명사
     항목ID: 74820
-processed:
+result:
   맞춤법 검사:
     표제어: 세태
     품사: 명사
 ---
 000_KEYWORD: 세트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49229
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7586,13 +7586,13 @@ imported:
     표제어: 세트
     품사: 명사
     항목ID: 49229
-processed:
+result:
   맞춤법 검사:
     표제어: 세트
     품사: 명사
 ---
 000_KEYWORD: 세팅__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7604,13 +7604,13 @@ imported:
     표제어: 세팅
     품사: 명사:보통:서술성
     항목ID: 14929
-processed:
+result:
   맞춤법 검사:
     표제어: 세팅
     품사: 명사
 ---
 000_KEYWORD: 세팅하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75953
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7648,13 +7648,13 @@ imported:
     표제어: 세팅하다
     품사: 동사
     항목ID: 75953
-processed:
+result:
   맞춤법 검사:
     표제어: 세팅하다
     품사: 동사
 ---
 000_KEYWORD: 세파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74821
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7682,13 +7682,13 @@ imported:
     표제어: 세파
     품사: 명사
     항목ID: 74821
-processed:
+result:
   맞춤법 검사:
     표제어: 세파
     품사: 명사
 ---
 000_KEYWORD: 세포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74889
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7718,13 +7718,13 @@ imported:
     표제어: 세포
     품사: 명사
     항목ID: 74889
-processed:
+result:
   맞춤법 검사:
     표제어: 세포
     품사: 명사
 ---
 000_KEYWORD: 세포막__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7734,13 +7734,13 @@ imported:
     표제어: 세포막
     품사: 명사:보통:서술성
     항목ID: 14932
-processed:
+result:
   맞춤법 검사:
     표제어: 세포막
     품사: 명사
 ---
 000_KEYWORD: 세포벽__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7750,13 +7750,13 @@ imported:
     표제어: 세포벽
     품사: 명사:보통:서술성
     항목ID: 14933
-processed:
+result:
   맞춤법 검사:
     표제어: 세포벽
     품사: 명사
 ---
 000_KEYWORD: 세피아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7767,13 +7767,13 @@ imported:
     표제어: 세피아
     품사: 명사:보통:서술성
     항목ID: 14934
-processed:
+result:
   맞춤법 검사:
     표제어: 세피아
     품사: 명사
 ---
 000_KEYWORD: 세후__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93636
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7800,13 +7800,13 @@ imported:
     표제어: 세후
     품사: 명사
     항목ID: 93636
-processed:
+result:
   맞춤법 검사:
     표제어: 세후
     품사: 명사
 ---
 000_KEYWORD: 섹스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74874
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7832,13 +7832,13 @@ imported:
     표제어: 섹스
     품사: 명사
     항목ID: 74874
-processed:
+result:
   맞춤법 검사:
     표제어: 섹스
     품사: 명사
 ---
 000_KEYWORD: 섹스하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74880
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7867,13 +7867,13 @@ imported:
     표제어: 섹스하다
     품사: 동사
     항목ID: 74880
-processed:
+result:
   맞춤법 검사:
     표제어: 섹스하다
     품사: 동사
 ---
 000_KEYWORD: 섹시하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49230
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7904,13 +7904,13 @@ imported:
     - 형태: 섹시하여
     - 형태: 섹시하니
     - 형태: 섹시합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 섹시하다
     품사: 형용사
 ---
 000_KEYWORD: 섹터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7920,13 +7920,13 @@ imported:
     표제어: 섹터
     품사: 명사:보통:비서술성
     항목ID: 14937
-processed:
+result:
   맞춤법 검사:
     표제어: 섹터
     품사: 명사
 ---
 000_KEYWORD: 센말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74822
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7957,13 +7957,13 @@ imported:
     표제어: 센말
     품사: 명사
     항목ID: 74822
-processed:
+result:
   맞춤법 검사:
     표제어: 센말
     품사: 명사
 ---
 000_KEYWORD: 센물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74823
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -7993,13 +7993,13 @@ imported:
     표제어: 센물
     품사: 명사
     항목ID: 74823
-processed:
+result:
   맞춤법 검사:
     표제어: 센물
     품사: 명사
 ---
 000_KEYWORD: 센서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74824
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8037,13 +8037,13 @@ imported:
     표제어: 센서
     품사: 명사
     항목ID: 74824
-processed:
+result:
   맞춤법 검사:
     표제어: 센서
     품사: 명사
 ---
 000_KEYWORD: 센스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74825
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8082,13 +8082,13 @@ imported:
     표제어: 센스
     품사: 명사
     항목ID: 74825
-processed:
+result:
   맞춤법 검사:
     표제어: 센스
     품사: 명사
 ---
 000_KEYWORD: 센치__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92266
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8101,10 +8101,10 @@ imported:
     표제어: 센치
     품사: 의존 명사
     항목ID: 92266
-processed: {}
+result: {}
 ---
 000_KEYWORD: 센터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74826
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8160,13 +8160,13 @@ imported:
     표제어: 센터
     품사: 명사
     항목ID: 74826
-processed:
+result:
   맞춤법 검사:
     표제어: 센터
     품사: 명사
 ---
 000_KEYWORD: 센트__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74827
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8192,13 +8192,13 @@ imported:
     표제어: 센트
     품사: 의존 명사
     항목ID: 74827
-processed:
+result:
   맞춤법 검사:
     표제어: 센트
     품사: 의존 명사
 ---
 000_KEYWORD: 센티__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74828
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8229,13 +8229,13 @@ imported:
     표제어: 센티
     품사: 의존 명사
     항목ID: 74828
-processed:
+result:
   맞춤법 검사:
     표제어: 센티
     품사: 의존 명사
 ---
 000_KEYWORD: 센티미터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65101
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8265,13 +8265,13 @@ imported:
     표제어: 센티미터
     품사: 의존 명사
     항목ID: 65101
-processed:
+result:
   맞춤법 검사:
     표제어: 센티미터
     품사: 의존 명사
 ---
 000_KEYWORD: 셀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8282,13 +8282,13 @@ imported:
     표제어: 셀
     품사: 명사:보통:서술성
     항목ID: 14945
-processed:
+result:
   맞춤법 검사:
     표제어: 셀
     품사: 명사
 ---
 000_KEYWORD: 셀러리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74831
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8316,13 +8316,13 @@ imported:
     표제어: 셀러리
     품사: 명사
     항목ID: 74831
-processed:
+result:
   맞춤법 검사:
     표제어: 셀러리
     품사: 명사
 ---
 000_KEYWORD: 셀레늄__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8332,13 +8332,13 @@ imported:
     표제어: 셀레늄
     품사: 명사:보통:서술성
     항목ID: 14947
-processed:
+result:
   맞춤법 검사:
     표제어: 셀레늄
     품사: 명사
 ---
 000_KEYWORD: 셀로판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74832
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8363,13 +8363,13 @@ imported:
     표제어: 셀로판
     품사: 명사
     항목ID: 74832
-processed:
+result:
   맞춤법 검사:
     표제어: 셀로판
     품사: 명사
 ---
 000_KEYWORD: 셀로판지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74833
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8399,13 +8399,13 @@ imported:
     표제어: 셀로판지
     품사: 명사
     항목ID: 74833
-processed:
+result:
   맞춤법 검사:
     표제어: 셀로판지
     품사: 명사
 ---
 000_KEYWORD: 셀프__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8416,13 +8416,13 @@ imported:
     표제어: 셀프
     품사: 명사:보통:서술성
     항목ID: 14950
-processed:
+result:
   맞춤법 검사:
     표제어: 셀프
     품사: 명사
 ---
 000_KEYWORD: 셀프서비스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74834
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8446,13 +8446,13 @@ imported:
     표제어: 셀프서비스
     품사: 명사
     항목ID: 74834
-processed:
+result:
   맞춤법 검사:
     표제어: 셀프서비스
     품사: 명사
 ---
 000_KEYWORD: 셈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90337
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8546,13 +8546,13 @@ imported:
     표제어: 셈
     품사: 명사
     항목ID: 90337
-processed:
+result:
   맞춤법 검사:
     표제어: 셈
     품사: 명사
 ---
 000_KEYWORD: 셈__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90338
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8603,13 +8603,13 @@ imported:
     표제어: 셈
     품사: 의존 명사
     항목ID: 90338
-processed:
+result:
   맞춤법 검사:
     표제어: 셈
     품사: 의존 명사
 ---
 000_KEYWORD: 셈하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90339
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8662,13 +8662,13 @@ imported:
     표제어: 셈하다
     품사: 동사
     항목ID: 90339
-processed:
+result:
   맞춤법 검사:
     표제어: 셈하다
     품사: 동사
 ---
 000_KEYWORD: 셋__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29602
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8705,17 +8705,17 @@ imported:
     - 발음: 센ː만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/29602_sen-man.wav
       형태: 셋만
-processed:
+result:
   맞춤법 검사:
     표제어: 셋
     품사: 수사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 고유수:1
 ---
 000_KEYWORD: 셋방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74867
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8745,13 +8745,13 @@ imported:
     표제어: 셋방
     품사: 명사
     항목ID: 74867
-processed:
+result:
   맞춤법 검사:
     표제어: 셋방
     품사: 명사
 ---
 000_KEYWORD: 셋방살이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64282
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8778,13 +8778,13 @@ imported:
     표제어: 셋방살이
     품사: 명사
     항목ID: 64282
-processed:
+result:
   맞춤법 검사:
     표제어: 셋방살이
     품사: 명사
 ---
 000_KEYWORD: 셋집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64283
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8832,13 +8832,13 @@ imported:
     - 발음: 섿ː찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/05000/64283_sed-jjimman.wav
       형태: 셋집만
-processed:
+result:
   맞춤법 검사:
     표제어: 셋집
     품사: 명사
 ---
 000_KEYWORD: 셋째__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=44860
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8866,13 +8866,13 @@ imported:
     표제어: 셋째
     품사: 관형사
     항목ID: 44860
-processed:
+result:
   맞춤법 검사:
     표제어: 셋째
     품사: 관형사
 ---
 000_KEYWORD: 셋째__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71140
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8909,13 +8909,13 @@ imported:
     표제어: 셋째
     품사: 명사
     항목ID: 71140
-processed:
+result:
   맞춤법 검사:
     표제어: 셋째
     품사: 명사
 ---
 000_KEYWORD: 셋째__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71132
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -8937,7 +8937,7 @@ imported:
     표제어: 셋째
     품사: 수사
     항목ID: 71132
-processed:
+result:
   맞춤법 검사:
     표제어: 셋째
     품사: 수사

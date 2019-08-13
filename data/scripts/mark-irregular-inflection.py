@@ -117,17 +117,17 @@ def detect_irregular(word, inflections):
 
 def process_file(filename):
     k = yaml.load(open(filename).read())
-    if '한국어기초사전' not in k['imported']:
+    if '한국어기초사전' not in k['import']:
         return
-    imported = k['imported']['한국어기초사전']
+    imported = k['import']['한국어기초사전']
     if imported['품사'] not in ['형용사','동사','보조 형용사','보조 동사']:
         return
 
     # 이미 설정되어 있는지 확인
-    # if '불규칙 활용' in k['processed']['맞춤법 검사']:
+    # if '불규칙 활용' in k['import_derived']['맞춤법 검사']:
     #     return
 
-    word = k['processed']['맞춤법 검사']['표제어']
+    word = k['import_derived']['맞춤법 검사']['표제어']
     if '활용' in imported:
         inflections = [dd['형태'] for dd in imported['활용']]
     else:
@@ -141,7 +141,7 @@ def process_file(filename):
         print('단어: %s (%s), 활용: %s' % (word, result, ', '.join(inflections)))
 
     print(filename)
-    k['processed']['맞춤법 검사']['불규칙 활용'] = result
+    k['import_derived']['맞춤법 검사']['불규칙 활용'] = result
     print('불규칙:' + result)
     with open(filename, 'w') as fp:
         fp.write(yaml.dump(k, allow_unicode=True, default_flow_style=False, indent=2))

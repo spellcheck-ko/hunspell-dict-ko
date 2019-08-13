@@ -1,5 +1,5 @@
 000_KEYWORD: 쐬다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66397
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -49,13 +49,13 @@ imported:
     - 발음: 쒜ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/66397_sswe-ni.wav
       형태: 쐬니
-processed:
+result:
   맞춤법 검사:
     표제어: 쐬다
     품사: 동사
 ---
 000_KEYWORD: 쐬다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66402
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -105,7 +105,7 @@ imported:
     - 발음: 쒜ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/siot_2005/sswe-ni.wav
       형태: 쐬니
-processed:
+result:
   맞춤법 검사:
     표제어: 쐬다
     품사: 동사

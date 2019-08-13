@@ -1,5 +1,5 @@
 000_KEYWORD: -ㅂ네__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86556
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -24,11 +24,11 @@ imported:
     표제어: -ㅂ네
     품사: 어미
     항목ID: 86556
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅂ니까__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79401
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -54,11 +54,11 @@ imported:
     표제어: -ㅂ니까
     품사: 어미
     항목ID: 79401
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅂ니다__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79397
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -83,11 +83,11 @@ imported:
     표제어: -ㅂ니다
     품사: 어미
     항목ID: 79397
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅂ디까__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80533
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -112,11 +112,11 @@ imported:
     표제어: -ㅂ디까
     품사: 어미
     항목ID: 80533
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅂ디다__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80528
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -142,11 +142,11 @@ imported:
     표제어: -ㅂ디다
     품사: 어미
     항목ID: 80528
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅂ시다__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68883
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -170,11 +170,11 @@ imported:
     표제어: -ㅂ시다
     품사: 어미
     항목ID: 68883
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅂ죠__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80546
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -203,11 +203,11 @@ imported:
     표제어: -ㅂ죠
     품사: 어미
     항목ID: 80546
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -ㅂ지요__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80544
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -236,11 +236,11 @@ imported:
     표제어: -ㅂ지요
     품사: 어미
     항목ID: 80544
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: ㅂ__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69083
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -267,7 +267,7 @@ imported:
     - 발음: 비음만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/69085_bieumman.wav
       형태: ㅂ만
-processed:
+result:
   맞춤법 검사:
     표제어: ㅂ
     품사: 명사

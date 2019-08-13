@@ -1,5 +1,5 @@
 000_KEYWORD: 깨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26525
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -28,13 +28,13 @@ imported:
     표제어: 깨
     품사: 명사
     항목ID: 26525
-processed:
+result:
   맞춤법 검사:
     표제어: 깨
     품사: 명사
 ---
 000_KEYWORD: 깨갱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39550
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -60,13 +60,13 @@ imported:
     표제어: 깨갱
     품사: 부사
     항목ID: 39550
-processed:
+result:
   맞춤법 검사:
     표제어: 깨갱
     품사: 부사
 ---
 000_KEYWORD: 깨갱거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39439
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -100,13 +100,13 @@ imported:
     표제어: 깨갱거리다
     품사: 동사
     항목ID: 39439
-processed:
+result:
   맞춤법 검사:
     표제어: 깨갱거리다
     품사: 동사
 ---
 000_KEYWORD: 깨갱깨갱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88719
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -126,13 +126,13 @@ imported:
     표제어: 깨갱깨갱
     품사: 부사
     항목ID: 88719
-processed:
+result:
   맞춤법 검사:
     표제어: 깨갱깨갱
     품사: 부사
 ---
 000_KEYWORD: 깨갱깨갱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88720
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -160,13 +160,13 @@ imported:
     표제어: 깨갱깨갱하다
     품사: 동사
     항목ID: 88720
-processed:
+result:
   맞춤법 검사:
     표제어: 깨갱깨갱하다
     품사: 동사
 ---
 000_KEYWORD: 깨갱대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88723
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -196,13 +196,13 @@ imported:
     표제어: 깨갱대다
     품사: 동사
     항목ID: 88723
-processed:
+result:
   맞춤법 검사:
     표제어: 깨갱대다
     품사: 동사
 ---
 000_KEYWORD: 깨끗이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61076
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -350,13 +350,13 @@ imported:
     표제어: 깨끗이
     품사: 부사
     항목ID: 61076
-processed:
+result:
   맞춤법 검사:
     표제어: 깨끗이
     품사: 부사
 ---
 000_KEYWORD: 깨끗하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60323
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -537,13 +537,13 @@ imported:
       형태: 깨끗하니
     - 발음: 깨끄탐니다
       형태: 깨끗합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깨끗하다
     품사: 형용사
 ---
 000_KEYWORD: 깨끗해지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32558
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -672,7 +672,7 @@ imported:
     - 발음: 깨끄태지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/32558_kkaekkeutaejini.wav
       형태: 깨끗해지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -680,7 +680,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 깨끗히__특수:금지어__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -690,13 +690,13 @@ imported:
     표제어: 깨끗히
     품사: 특수:금지어
     항목ID: 4426
-processed:
+result:
   맞춤법 검사:
     표제어: 깨끗히
     품사: 특수:금지어
 ---
 000_KEYWORD: 깨나__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69715
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -715,11 +715,11 @@ imported:
     표제어: 깨나
     품사: 조사
     항목ID: 69715
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 깨나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41471
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -812,13 +812,13 @@ imported:
     - 발음: 깨ː나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/41471_kkae-nani.wav
       형태: 깨나니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨나다
     품사: 동사
 ---
 000_KEYWORD: 깨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62332
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -892,13 +892,13 @@ imported:
     - 발음: 깨ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/62332_kkae-ni.wav
       형태: 깨니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨다
     품사: 동사
 ---
 000_KEYWORD: 깨다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38536
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -934,13 +934,13 @@ imported:
     - 발음: 깨ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkae-ni.wav
       형태: 깨니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨다
     품사: 동사
 ---
 000_KEYWORD: 깨다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63406
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1043,13 +1043,13 @@ imported:
       형태: 깨
     - 발음: 깨니
       형태: 깨니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨다
     품사: 동사
 ---
 000_KEYWORD: 깨닫다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32559
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1103,7 +1103,7 @@ imported:
     - 발음: 깨단는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/32559_kkaedanneun.wav
       형태: 깨닫는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -1111,7 +1111,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 깨달음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32561
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1139,13 +1139,13 @@ imported:
     표제어: 깨달음
     품사: 명사
     항목ID: 32561
-processed:
+result:
   맞춤법 검사:
     표제어: 깨달음
     품사: 명사
 ---
 000_KEYWORD: 깨뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32562
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1275,13 +1275,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/32562_kkaetteuriyeo.wav
       형태: 깨뜨리어
     - 형태: 깨뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨뜨리다
     품사: 동사
 ---
 000_KEYWORD: 깨물다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41481
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1337,13 +1337,13 @@ imported:
     - 발음: 깨뭄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41481_kkaemumnida.wav
       형태: 깨뭅니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깨물다
     품사: 동사
 ---
 000_KEYWORD: 깨부수다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38538
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1396,17 +1396,17 @@ imported:
     - 발음: 깨ː부수니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38538_kkae-busuni.wav
       형태: 깨부수니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨부수다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 깨소금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32565
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1439,13 +1439,13 @@ imported:
     표제어: 깨소금
     품사: 명사
     항목ID: 32565
-processed:
+result:
   맞춤법 검사:
     표제어: 깨소금
     품사: 명사
 ---
 000_KEYWORD: 깨알__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26526
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1472,13 +1472,13 @@ imported:
     표제어: 깨알
     품사: 명사
     항목ID: 26526
-processed:
+result:
   맞춤법 검사:
     표제어: 깨알
     품사: 명사
 ---
 000_KEYWORD: 깨어나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32566
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1562,17 +1562,17 @@ imported:
     활용:
     - 형태: 깨어나
     - 형태: 깨어나니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨어나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 깨어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32569
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1699,17 +1699,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/32569_kkaeeojeo.wav
       형태: 깨어져
     - 형태: 깨어지니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨어지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 깨우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32573
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1738,13 +1738,13 @@ imported:
     활용:
     - 형태: 깨우어
     - 형태: 깨우니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨우다
     품사: 동사
 ---
 000_KEYWORD: 깨우치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41489
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1784,13 +1784,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/41489_kkaeucheo.wav
       형태: 깨우쳐
     - 형태: 깨우치니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨우치다
     품사: 동사
 ---
 000_KEYWORD: 깨이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41510
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1825,13 +1825,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41510_kkaeiyeo.wav
       형태: 깨이어
     - 형태: 깨이니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨이다
     품사: 동사
 ---
 000_KEYWORD: 깨작거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91058
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1877,13 +1877,13 @@ imported:
     표제어: 깨작거리다
     품사: 동사
     항목ID: 91058
-processed:
+result:
   맞춤법 검사:
     표제어: 깨작거리다
     품사: 동사
 ---
 000_KEYWORD: 깨작대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91059
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1929,13 +1929,13 @@ imported:
     표제어: 깨작대다
     품사: 동사
     항목ID: 91059
-processed:
+result:
   맞춤법 검사:
     표제어: 깨작대다
     품사: 동사
 ---
 000_KEYWORD: 깨작이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91060
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1973,13 +1973,13 @@ imported:
     표제어: 깨작이다
     품사: 동사
     항목ID: 91060
-processed:
+result:
   맞춤법 검사:
     표제어: 깨작이다
     품사: 동사
 ---
 000_KEYWORD: 깨지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85871
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2108,17 +2108,17 @@ imported:
     - 발음: 깨ː지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/85871_kkae-jini.wav
       형태: 깨지니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 깨치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41517
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2159,13 +2159,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/41517_kkaecheo.wav
       형태: 깨쳐
     - 형태: 깨치니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨치다
     품사: 동사
 ---
 000_KEYWORD: 깨트리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38508
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2298,13 +2298,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38508_kkaeteuriyeo.wav
       형태: 깨트리어
     - 형태: 깨트리니
-processed:
+result:
   맞춤법 검사:
     표제어: 깨트리다
     품사: 동사
 ---
 000_KEYWORD: 깻묵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39546
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2345,13 +2345,13 @@ imported:
     - 발음: 깬뭉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39546_kkaenmungman.wav
       형태: 깻묵만
-processed:
+result:
   맞춤법 검사:
     표제어: 깻묵
     품사: 명사
 ---
 000_KEYWORD: 깻잎__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41540
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2395,13 +2395,13 @@ imported:
     - 발음: 깬님만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41540_kkaennimman.wav
       형태: 깻잎만
-processed:
+result:
   맞춤법 검사:
     표제어: 깻잎
     품사: 명사
 ---
 000_KEYWORD: 깽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39435
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2433,13 +2433,13 @@ imported:
     표제어: 깽
     품사: 부사
     항목ID: 39435
-processed:
+result:
   맞춤법 검사:
     표제어: 깽
     품사: 부사
 ---
 000_KEYWORD: 깽깽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39549
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2477,13 +2477,13 @@ imported:
     표제어: 깽깽
     품사: 부사
     항목ID: 39549
-processed:
+result:
   맞춤법 검사:
     표제어: 깽깽
     품사: 부사
 ---
 000_KEYWORD: 깽깽거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39548
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2538,13 +2538,13 @@ imported:
     표제어: 깽깽거리다
     품사: 동사
     항목ID: 39548
-processed:
+result:
   맞춤법 검사:
     표제어: 깽깽거리다
     품사: 동사
 ---
 000_KEYWORD: 깽깽대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39547
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2598,13 +2598,13 @@ imported:
     표제어: 깽깽대다
     품사: 동사
     항목ID: 39547
-processed:
+result:
   맞춤법 검사:
     표제어: 깽깽대다
     품사: 동사
 ---
 000_KEYWORD: 깽깽하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88724
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2646,13 +2646,13 @@ imported:
     표제어: 깽깽하다
     품사: 동사
     항목ID: 88724
-processed:
+result:
   맞춤법 검사:
     표제어: 깽깽하다
     품사: 동사
 ---
 000_KEYWORD: 깽판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39544
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2678,7 +2678,7 @@ imported:
     표제어: 깽판
     품사: 명사
     항목ID: 39544
-processed:
+result:
   맞춤법 검사:
     표제어: 깽판
     품사: 명사

@@ -1,5 +1,5 @@
 000_KEYWORD: ㅉ__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69095
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -25,7 +25,7 @@ imported:
     - 발음: 쌍지은만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/69095_ssangjieunman.wav
       형태: ㅉ만
-processed:
+result:
   맞춤법 검사:
     표제어: ㅉ
     품사: 명사

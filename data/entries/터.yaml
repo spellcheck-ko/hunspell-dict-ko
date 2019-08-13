@@ -1,5 +1,5 @@
 000_KEYWORD: 터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91148
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -74,13 +74,13 @@ imported:
     표제어: 터
     품사: 명사
     항목ID: 91148
-processed:
+result:
   맞춤법 검사:
     표제어: 터
     품사: 명사
 ---
 000_KEYWORD: 터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72183
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -124,13 +124,13 @@ imported:
     표제어: 터
     품사: 의존 명사
     항목ID: 72183
-processed:
+result:
   맞춤법 검사:
     표제어: 터
     품사: 의존 명사
 ---
 000_KEYWORD: 터널__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72187
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -168,13 +168,13 @@ imported:
     표제어: 터널
     품사: 명사
     항목ID: 72187
-processed:
+result:
   맞춤법 검사:
     표제어: 터널
     품사: 명사
 ---
 000_KEYWORD: 터놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80410
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -233,7 +233,7 @@ imported:
     - 발음: 터노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80410_teonosseumnida.wav
       형태: 터놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -241,7 +241,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 터덜거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80411
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -294,13 +294,13 @@ imported:
     표제어: 터덜거리다
     품사: 동사
     항목ID: 80411
-processed:
+result:
   맞춤법 검사:
     표제어: 터덜거리다
     품사: 동사
 ---
 000_KEYWORD: 터덜대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91268
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -356,13 +356,13 @@ imported:
     표제어: 터덜대다
     품사: 동사
     항목ID: 91268
-processed:
+result:
   맞춤법 검사:
     표제어: 터덜대다
     품사: 동사
 ---
 000_KEYWORD: 터덜터덜__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80412
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -398,13 +398,13 @@ imported:
     표제어: 터덜터덜
     품사: 부사
     항목ID: 80412
-processed:
+result:
   맞춤법 검사:
     표제어: 터덜터덜
     품사: 부사
 ---
 000_KEYWORD: 터덜터덜하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91269
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -459,13 +459,13 @@ imported:
     표제어: 터덜터덜하다
     품사: 동사
     항목ID: 91269
-processed:
+result:
   맞춤법 검사:
     표제어: 터덜터덜하다
     품사: 동사
 ---
 000_KEYWORD: 터득__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80413
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -507,13 +507,13 @@ imported:
     - 발음: 터ː등만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/80413_teo-deungman.wav
       형태: 터득만
-processed:
+result:
   맞춤법 검사:
     표제어: 터득
     품사: 명사
 ---
 000_KEYWORD: 터득하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80414
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -545,13 +545,13 @@ imported:
     표제어: 터득하다
     품사: 동사
     항목ID: 80414
-processed:
+result:
   맞춤법 검사:
     표제어: 터득하다
     품사: 동사
 ---
 000_KEYWORD: 터뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63506
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -699,13 +699,13 @@ imported:
     - 발음: 터ː뜨리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/63506_teo-tteurini.wav
       형태: 터뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 터뜨리다
     품사: 동사
 ---
 000_KEYWORD: 터럭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80415
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -755,13 +755,13 @@ imported:
     - 발음: 터렁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80415_teoreongman.wav
       형태: 터럭만
-processed:
+result:
   맞춤법 검사:
     표제어: 터럭
     품사: 명사
 ---
 000_KEYWORD: 터무니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80416
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -787,13 +787,13 @@ imported:
     표제어: 터무니
     품사: 명사
     항목ID: 80416
-processed:
+result:
   맞춤법 검사:
     표제어: 터무니
     품사: 명사
 ---
 000_KEYWORD: 터무니없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80417
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -845,13 +845,13 @@ imported:
     - 발음: 터무니업찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80417_teomunieopjji.wav
       형태: 터무니없지
-processed:
+result:
   맞춤법 검사:
     표제어: 터무니없다
     품사: 형용사
 ---
 000_KEYWORD: 터무니없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80418
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -879,13 +879,13 @@ imported:
     표제어: 터무니없이
     품사: 부사
     항목ID: 80418
-processed:
+result:
   맞춤법 검사:
     표제어: 터무니없이
     품사: 부사
 ---
 000_KEYWORD: 터미널__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72184
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -917,13 +917,13 @@ imported:
     표제어: 터미널
     품사: 명사
     항목ID: 72184
-processed:
+result:
   맞춤법 검사:
     표제어: 터미널
     품사: 명사
 ---
 000_KEYWORD: 터벅터벅__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80419
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -955,13 +955,13 @@ imported:
     표제어: 터벅터벅
     품사: 부사
     항목ID: 80419
-processed:
+result:
   맞춤법 검사:
     표제어: 터벅터벅
     품사: 부사
 ---
 000_KEYWORD: 터번__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -971,13 +971,13 @@ imported:
     표제어: 터번
     품사: 명사:보통:비서술성
     항목ID: 27964
-processed:
+result:
   맞춤법 검사:
     표제어: 터번
     품사: 명사
 ---
 000_KEYWORD: 터부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80420
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1010,13 +1010,13 @@ imported:
     표제어: 터부
     품사: 명사
     항목ID: 80420
-processed:
+result:
   맞춤법 검사:
     표제어: 터부
     품사: 명사
 ---
 000_KEYWORD: 터부룩하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80421
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1060,13 +1060,13 @@ imported:
       형태: 터부룩하니
     - 발음: 터부루캄니다
       형태: 터부룩합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 터부룩하다
     품사: 형용사
 ---
 000_KEYWORD: 터빈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1076,13 +1076,13 @@ imported:
     표제어: 터빈
     품사: 명사:보통:비서술성
     항목ID: 27965
-processed:
+result:
   맞춤법 검사:
     표제어: 터빈
     품사: 명사
 ---
 000_KEYWORD: 터울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80422
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1110,13 +1110,13 @@ imported:
     표제어: 터울
     품사: 명사
     항목ID: 80422
-processed:
+result:
   맞춤법 검사:
     표제어: 터울
     품사: 명사
 ---
 000_KEYWORD: 터전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80423
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1183,13 +1183,13 @@ imported:
     표제어: 터전
     품사: 명사
     항목ID: 80423
-processed:
+result:
   맞춤법 검사:
     표제어: 터전
     품사: 명사
 ---
 000_KEYWORD: 터줏대감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80424
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1220,13 +1220,13 @@ imported:
     표제어: 터줏대감
     품사: 명사
     항목ID: 80424
-processed:
+result:
   맞춤법 검사:
     표제어: 터줏대감
     품사: 명사
 ---
 000_KEYWORD: 터지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91125
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1422,13 +1422,13 @@ imported:
       형태: 터져
     - 발음: 터ː지니
       형태: 터지니
-processed:
+result:
   맞춤법 검사:
     표제어: 터지다
     품사: 동사
 ---
 000_KEYWORD: 터지다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73432
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1472,7 +1472,7 @@ imported:
       형태: 터지니
     - 발음: 터ː짐니다
       형태: 터집니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -1480,7 +1480,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 터치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80425
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1538,13 +1538,13 @@ imported:
     표제어: 터치
     품사: 명사
     항목ID: 80425
-processed:
+result:
   맞춤법 검사:
     표제어: 터치
     품사: 명사
 ---
 000_KEYWORD: 터치아웃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80426
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1576,13 +1576,13 @@ imported:
     표제어: 터치아웃
     품사: 명사
     항목ID: 80426
-processed:
+result:
   맞춤법 검사:
     표제어: 터치아웃
     품사: 명사
 ---
 000_KEYWORD: 터치하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1592,13 +1592,13 @@ imported:
     표제어: 터치하다
     품사: 동사
     항목ID: 27969
-processed:
+result:
   맞춤법 검사:
     표제어: 터치하다
     품사: 동사
 ---
 000_KEYWORD: 터키__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69746
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1616,13 +1616,13 @@ imported:
     표제어: 터키
     품사: 명사
     항목ID: 69746
-processed:
+result:
   맞춤법 검사:
     표제어: 터키
     품사: 명사
 ---
 000_KEYWORD: 터키어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1632,13 +1632,13 @@ imported:
     표제어: 터키어
     품사: 명사:보통:서술성
     항목ID: 27971
-processed:
+result:
   맞춤법 검사:
     표제어: 터키어
     품사: 명사
 ---
 000_KEYWORD: 터트리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80427
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1786,13 +1786,13 @@ imported:
     - 발음: 터ː트리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80427_teo-teurini.wav
       형태: 터트리니
-processed:
+result:
   맞춤법 검사:
     표제어: 터트리다
     품사: 동사
 ---
 000_KEYWORD: 턱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71475
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1850,13 +1850,13 @@ imported:
     - 발음: 텅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80430_teongman.wav
       형태: 턱만
-processed:
+result:
   맞춤법 검사:
     표제어: 턱
     품사: 명사
 ---
 000_KEYWORD: 턱__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80428
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1899,13 +1899,13 @@ imported:
     - 발음: 텅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80430_teongman.wav
       형태: 턱만
-processed:
+result:
   맞춤법 검사:
     표제어: 턱
     품사: 명사
 ---
 000_KEYWORD: 턱__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80429
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1943,13 +1943,13 @@ imported:
     - 발음: 텅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80430_teongman.wav
       형태: 턱만
-processed:
+result:
   맞춤법 검사:
     표제어: 턱
     품사: 명사
 ---
 000_KEYWORD: 턱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80430
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2060,13 +2060,13 @@ imported:
     표제어: 턱
     품사: 부사
     항목ID: 80430
-processed:
+result:
   맞춤법 검사:
     표제어: 턱
     품사: 부사
 ---
 000_KEYWORD: 턱__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71476
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2105,13 +2105,13 @@ imported:
     - 발음: 텅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80430_teongman.wav
       형태: 턱만
-processed:
+result:
   맞춤법 검사:
     표제어: 턱
     품사: 의존 명사
 ---
 000_KEYWORD: 턱걸이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80431
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2147,13 +2147,13 @@ imported:
     표제어: 턱걸이
     품사: 명사
     항목ID: 80431
-processed:
+result:
   맞춤법 검사:
     표제어: 턱걸이
     품사: 명사
 ---
 000_KEYWORD: 턱걸이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80432
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2180,13 +2180,13 @@ imported:
     표제어: 턱걸이하다
     품사: 동사
     항목ID: 80432
-processed:
+result:
   맞춤법 검사:
     표제어: 턱걸이하다
     품사: 동사
 ---
 000_KEYWORD: 턱밑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80433
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2223,13 +2223,13 @@ imported:
     - 발음: 텅민만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80433_teongminman.wav
       형태: 턱밑만
-processed:
+result:
   맞춤법 검사:
     표제어: 턱밑
     품사: 명사
 ---
 000_KEYWORD: 턱받이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80434
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2260,13 +2260,13 @@ imported:
     표제어: 턱받이
     품사: 명사
     항목ID: 80434
-processed:
+result:
   맞춤법 검사:
     표제어: 턱받이
     품사: 명사
 ---
 000_KEYWORD: 턱뼈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80435
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2302,13 +2302,13 @@ imported:
     표제어: 턱뼈
     품사: 명사
     항목ID: 80435
-processed:
+result:
   맞춤법 검사:
     표제어: 턱뼈
     품사: 명사
 ---
 000_KEYWORD: 턱살__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2318,13 +2318,13 @@ imported:
     표제어: 턱살
     품사: 명사:보통:서술성
     항목ID: 27976
-processed:
+result:
   맞춤법 검사:
     표제어: 턱살
     품사: 명사
 ---
 000_KEYWORD: 턱수염__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80436
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2356,13 +2356,13 @@ imported:
     표제어: 턱수염
     품사: 명사
     항목ID: 80436
-processed:
+result:
   맞춤법 검사:
     표제어: 턱수염
     품사: 명사
 ---
 000_KEYWORD: 턱시도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80437
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2391,13 +2391,13 @@ imported:
     표제어: 턱시도
     품사: 명사
     항목ID: 80437
-processed:
+result:
   맞춤법 검사:
     표제어: 턱시도
     품사: 명사
 ---
 000_KEYWORD: 턱없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80438
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2460,13 +2460,13 @@ imported:
     - 발음: 터겁찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80438_teogeopjji.wav
       형태: 턱없지
-processed:
+result:
   맞춤법 검사:
     표제어: 턱없다
     품사: 형용사
 ---
 000_KEYWORD: 턱없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80439
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2510,13 +2510,13 @@ imported:
     표제어: 턱없이
     품사: 부사
     항목ID: 80439
-processed:
+result:
   맞춤법 검사:
     표제어: 턱없이
     품사: 부사
 ---
 000_KEYWORD: 턱턱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80440
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2630,13 +2630,13 @@ imported:
     표제어: 턱턱
     품사: 부사
     항목ID: 80440
-processed:
+result:
   맞춤법 검사:
     표제어: 턱턱
     품사: 부사
 ---
 000_KEYWORD: 털__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71477
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2696,13 +2696,13 @@ imported:
     표제어: 털
     품사: 명사
     항목ID: 71477
-processed:
+result:
   맞춤법 검사:
     표제어: 털
     품사: 명사
 ---
 000_KEYWORD: 털가죽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80441
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2747,13 +2747,13 @@ imported:
     - 발음: 털가중만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80441_teolgajungman.wav
       형태: 털가죽만
-processed:
+result:
   맞춤법 검사:
     표제어: 털가죽
     품사: 명사
 ---
 000_KEYWORD: 털갈이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80442
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2781,13 +2781,13 @@ imported:
     표제어: 털갈이
     품사: 명사
     항목ID: 80442
-processed:
+result:
   맞춤법 검사:
     표제어: 털갈이
     품사: 명사
 ---
 000_KEYWORD: 털갈이하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2797,13 +2797,13 @@ imported:
     표제어: 털갈이하다
     품사: 동사
     항목ID: 27983
-processed:
+result:
   맞춤법 검사:
     표제어: 털갈이하다
     품사: 동사
 ---
 000_KEYWORD: 털게__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2813,13 +2813,13 @@ imported:
     표제어: 털게
     품사: 명사:보통:비서술성
     항목ID: 27984
-processed:
+result:
   맞춤법 검사:
     표제어: 털게
     품사: 명사
 ---
 000_KEYWORD: 털끝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80443
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2867,13 +2867,13 @@ imported:
     - 발음: 털끈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80443_teolkkeunman.wav
       형태: 털끝만
-processed:
+result:
   맞춤법 검사:
     표제어: 털끝
     품사: 명사
 ---
 000_KEYWORD: 털다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71478
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2962,13 +2962,13 @@ imported:
     - 발음: 텀ː니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71478_teom-nida.wav
       형태: 텁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 털다
     품사: 동사
 ---
 000_KEYWORD: 털레털레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80444
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2995,13 +2995,13 @@ imported:
     표제어: 털레털레
     품사: 부사
     항목ID: 80444
-processed:
+result:
   맞춤법 검사:
     표제어: 털레털레
     품사: 부사
 ---
 000_KEYWORD: 털리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80445
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3047,13 +3047,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80445_teolliyeo.wav
       형태: 털리어
     - 형태: 털리니
-processed:
+result:
   맞춤법 검사:
     표제어: 털리다
     품사: 동사
 ---
 000_KEYWORD: 털모자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80446
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3097,13 +3097,13 @@ imported:
     표제어: 털모자
     품사: 명사
     항목ID: 80446
-processed:
+result:
   맞춤법 검사:
     표제어: 털모자
     품사: 명사
 ---
 000_KEYWORD: 털버덕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80447
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3139,13 +3139,13 @@ imported:
     표제어: 털버덕
     품사: 부사
     항목ID: 80447
-processed:
+result:
   맞춤법 검사:
     표제어: 털버덕
     품사: 부사
 ---
 000_KEYWORD: 털버덕거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80448
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3198,13 +3198,13 @@ imported:
     표제어: 털버덕거리다
     품사: 동사
     항목ID: 80448
-processed:
+result:
   맞춤법 검사:
     표제어: 털버덕거리다
     품사: 동사
 ---
 000_KEYWORD: 털버덕대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91270
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3258,13 +3258,13 @@ imported:
     표제어: 털버덕대다
     품사: 동사
     항목ID: 91270
-processed:
+result:
   맞춤법 검사:
     표제어: 털버덕대다
     품사: 동사
 ---
 000_KEYWORD: 털버덕털버덕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91271
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3298,13 +3298,13 @@ imported:
     표제어: 털버덕털버덕
     품사: 부사
     항목ID: 91271
-processed:
+result:
   맞춤법 검사:
     표제어: 털버덕털버덕
     품사: 부사
 ---
 000_KEYWORD: 털버덕털버덕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91272
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3357,13 +3357,13 @@ imported:
     표제어: 털버덕털버덕하다
     품사: 동사
     항목ID: 91272
-processed:
+result:
   맞춤법 검사:
     표제어: 털버덕털버덕하다
     품사: 동사
 ---
 000_KEYWORD: 털버덕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91273
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3403,13 +3403,13 @@ imported:
     표제어: 털버덕하다
     품사: 동사
     항목ID: 91273
-processed:
+result:
   맞춤법 검사:
     표제어: 털버덕하다
     품사: 동사
 ---
 000_KEYWORD: 털보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80449
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3437,13 +3437,13 @@ imported:
     표제어: 털보
     품사: 명사
     항목ID: 80449
-processed:
+result:
   맞춤법 검사:
     표제어: 털보
     품사: 명사
 ---
 000_KEYWORD: 털북숭이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3453,13 +3453,13 @@ imported:
     표제어: 털북숭이
     품사: 명사:보통:서술성
     항목ID: 27988
-processed:
+result:
   맞춤법 검사:
     표제어: 털북숭이
     품사: 명사
 ---
 000_KEYWORD: 털신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80450
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3490,13 +3490,13 @@ imported:
     표제어: 털신
     품사: 명사
     항목ID: 80450
-processed:
+result:
   맞춤법 검사:
     표제어: 털신
     품사: 명사
 ---
 000_KEYWORD: 털실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80451
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3527,13 +3527,13 @@ imported:
     표제어: 털실
     품사: 명사
     항목ID: 80451
-processed:
+result:
   맞춤법 검사:
     표제어: 털실
     품사: 명사
 ---
 000_KEYWORD: 털썩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80452
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3587,13 +3587,13 @@ imported:
     표제어: 털썩
     품사: 부사
     항목ID: 80452
-processed:
+result:
   맞춤법 검사:
     표제어: 털썩
     품사: 부사
 ---
 000_KEYWORD: 털썩거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80453
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3672,13 +3672,13 @@ imported:
     표제어: 털썩거리다
     품사: 동사
     항목ID: 80453
-processed:
+result:
   맞춤법 검사:
     표제어: 털썩거리다
     품사: 동사
 ---
 000_KEYWORD: 털썩대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91308
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3773,13 +3773,13 @@ imported:
     표제어: 털썩대다
     품사: 동사
     항목ID: 91308
-processed:
+result:
   맞춤법 검사:
     표제어: 털썩대다
     품사: 동사
 ---
 000_KEYWORD: 털썩털썩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91309
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3834,13 +3834,13 @@ imported:
     표제어: 털썩털썩
     품사: 부사
     항목ID: 91309
-processed:
+result:
   맞춤법 검사:
     표제어: 털썩털썩
     품사: 부사
 ---
 000_KEYWORD: 털썩털썩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91310
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3933,13 +3933,13 @@ imported:
     표제어: 털썩털썩하다
     품사: 동사
     항목ID: 91310
-processed:
+result:
   맞춤법 검사:
     표제어: 털썩털썩하다
     품사: 동사
 ---
 000_KEYWORD: 털썩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91311
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4007,13 +4007,13 @@ imported:
     표제어: 털썩하다
     품사: 동사
     항목ID: 91311
-processed:
+result:
   맞춤법 검사:
     표제어: 털썩하다
     품사: 동사
 ---
 000_KEYWORD: 털어놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80103
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4082,19 +4082,19 @@ imported:
     - 발음: 터러노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80103_teoreonosseumnida.wav
       형태: 털어놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
     표제어: 털어놓다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 털어먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80105
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4136,17 +4136,17 @@ imported:
     - 발음: 터러멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80105_teoreomeongneun.wav
       형태: 털어먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 털어먹다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 털옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80106
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4190,13 +4190,13 @@ imported:
     - 발음: 터론만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80106_teoronman.wav
       형태: 털옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 털옷
     품사: 명사
 ---
 000_KEYWORD: 털장갑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80108
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4247,13 +4247,13 @@ imported:
     - 발음: 털장감만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/25000/80108_teoljanggamman.wav
       형태: 털장갑만
-processed:
+result:
   맞춤법 검사:
     표제어: 털장갑
     품사: 명사
 ---
 000_KEYWORD: 털털__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80110
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4365,13 +4365,13 @@ imported:
     표제어: 털털
     품사: 부사
     항목ID: 80110
-processed:
+result:
   맞춤법 검사:
     표제어: 털털
     품사: 부사
 ---
 000_KEYWORD: 털털거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80112
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4456,13 +4456,13 @@ imported:
     표제어: 털털거리다
     품사: 동사
     항목ID: 80112
-processed:
+result:
   맞춤법 검사:
     표제어: 털털거리다
     품사: 동사
 ---
 000_KEYWORD: 털털대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91312
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4540,13 +4540,13 @@ imported:
     표제어: 털털대다
     품사: 동사
     항목ID: 91312
-processed:
+result:
   맞춤법 검사:
     표제어: 털털대다
     품사: 동사
 ---
 000_KEYWORD: 털털이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4556,13 +4556,13 @@ imported:
     표제어: 털털이
     품사: 명사:보통:비서술성
     항목ID: 27993
-processed:
+result:
   맞춤법 검사:
     표제어: 털털이
     품사: 명사
 ---
 000_KEYWORD: 털털하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91313
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4644,13 +4644,13 @@ imported:
     표제어: 털털하다
     품사: 동사
     항목ID: 91313
-processed:
+result:
   맞춤법 검사:
     표제어: 털털하다
     품사: 동사
 ---
 000_KEYWORD: 털털하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80114
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4710,13 +4710,13 @@ imported:
       형태: 털털하니
     - 발음: 털털함니다
       형태: 털털합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 털털하다
     품사: 형용사
 ---
 000_KEYWORD: 텀버덩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80117
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4747,13 +4747,13 @@ imported:
     표제어: 텀버덩
     품사: 부사
     항목ID: 80117
-processed:
+result:
   맞춤법 검사:
     표제어: 텀버덩
     품사: 부사
 ---
 000_KEYWORD: 텀버덩거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80118
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4792,13 +4792,13 @@ imported:
     표제어: 텀버덩거리다
     품사: 동사
     항목ID: 80118
-processed:
+result:
   맞춤법 검사:
     표제어: 텀버덩거리다
     품사: 동사
 ---
 000_KEYWORD: 텀버덩대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91314
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4837,13 +4837,13 @@ imported:
     표제어: 텀버덩대다
     품사: 동사
     항목ID: 91314
-processed:
+result:
   맞춤법 검사:
     표제어: 텀버덩대다
     품사: 동사
 ---
 000_KEYWORD: 텀버덩텀버덩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91315
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4875,13 +4875,13 @@ imported:
     표제어: 텀버덩텀버덩
     품사: 부사
     항목ID: 91315
-processed:
+result:
   맞춤법 검사:
     표제어: 텀버덩텀버덩
     품사: 부사
 ---
 000_KEYWORD: 텀버덩텀버덩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91316
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4922,13 +4922,13 @@ imported:
     표제어: 텀버덩텀버덩하다
     품사: 동사
     항목ID: 91316
-processed:
+result:
   맞춤법 검사:
     표제어: 텀버덩텀버덩하다
     품사: 동사
 ---
 000_KEYWORD: 텀버덩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91317
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4959,13 +4959,13 @@ imported:
     표제어: 텀버덩하다
     품사: 동사
     항목ID: 91317
-processed:
+result:
   맞춤법 검사:
     표제어: 텀버덩하다
     품사: 동사
 ---
 000_KEYWORD: 텀벙__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80119
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4996,13 +4996,13 @@ imported:
     표제어: 텀벙
     품사: 부사
     항목ID: 80119
-processed:
+result:
   맞춤법 검사:
     표제어: 텀벙
     품사: 부사
 ---
 000_KEYWORD: 텀벙거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80120
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5050,13 +5050,13 @@ imported:
     표제어: 텀벙거리다
     품사: 동사
     항목ID: 80120
-processed:
+result:
   맞춤법 검사:
     표제어: 텀벙거리다
     품사: 동사
 ---
 000_KEYWORD: 텀벙대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91318
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5095,13 +5095,13 @@ imported:
     표제어: 텀벙대다
     품사: 동사
     항목ID: 91318
-processed:
+result:
   맞춤법 검사:
     표제어: 텀벙대다
     품사: 동사
 ---
 000_KEYWORD: 텀벙텀벙__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91319
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5133,13 +5133,13 @@ imported:
     표제어: 텀벙텀벙
     품사: 부사
     항목ID: 91319
-processed:
+result:
   맞춤법 검사:
     표제어: 텀벙텀벙
     품사: 부사
 ---
 000_KEYWORD: 텀벙텀벙하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91320
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5179,13 +5179,13 @@ imported:
     표제어: 텀벙텀벙하다
     품사: 동사
     항목ID: 91320
-processed:
+result:
   맞춤법 검사:
     표제어: 텀벙텀벙하다
     품사: 동사
 ---
 000_KEYWORD: 텀벙하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91321
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5216,13 +5216,13 @@ imported:
     표제어: 텀벙하다
     품사: 동사
     항목ID: 91321
-processed:
+result:
   맞춤법 검사:
     표제어: 텀벙하다
     품사: 동사
 ---
 000_KEYWORD: 텁석부리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80122
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5248,13 +5248,13 @@ imported:
     표제어: 텁석부리
     품사: 명사
     항목ID: 80122
-processed:
+result:
   맞춤법 검사:
     표제어: 텁석부리
     품사: 명사
 ---
 000_KEYWORD: 텁수룩하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80123
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5294,13 +5294,13 @@ imported:
       형태: 텁수룩하니
     - 발음: 텁쑤루캄니다
       형태: 텁수룩합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 텁수룩하다
     품사: 형용사
 ---
 000_KEYWORD: 텁텁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80125
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5396,13 +5396,13 @@ imported:
       형태: 텁텁하니
     - 발음: 텁터팜니다
       형태: 텁텁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 텁텁하다
     품사: 형용사
 ---
 000_KEYWORD: 텃밭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80126
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5458,13 +5458,13 @@ imported:
     - 발음: 턷빤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80126_teotppanman.wav
       형태: 텃밭만
-processed:
+result:
   맞춤법 검사:
     표제어: 텃밭
     품사: 명사
 ---
 000_KEYWORD: 텃새__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5473,13 +5473,13 @@ imported:
     표제어: 텃새
     품사: 명사:보통:비서술성
     항목ID: 27998
-processed:
+result:
   맞춤법 검사:
     표제어: 텃새
     품사: 명사
 ---
 000_KEYWORD: 텃세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80127
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5509,13 +5509,13 @@ imported:
     표제어: 텃세
     품사: 명사
     항목ID: 80127
-processed:
+result:
   맞춤법 검사:
     표제어: 텃세
     품사: 명사
 ---
 000_KEYWORD: 텅__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49279
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5542,13 +5542,13 @@ imported:
     표제어: 텅
     품사: 부사
     항목ID: 49279
-processed:
+result:
   맞춤법 검사:
     표제어: 텅
     품사: 부사
 ---
 000_KEYWORD: 텅스텐__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5558,13 +5558,13 @@ imported:
     표제어: 텅스텐
     품사: 명사:보통:서술성
     항목ID: 28001
-processed:
+result:
   맞춤법 검사:
     표제어: 텅스텐
     품사: 명사
 ---
 000_KEYWORD: 텅텅__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80131
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5591,7 +5591,7 @@ imported:
     표제어: 텅텅
     품사: 부사
     항목ID: 80131
-processed:
+result:
   맞춤법 검사:
     표제어: 텅텅
     품사: 부사

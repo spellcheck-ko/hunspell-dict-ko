@@ -1,5 +1,5 @@
 000_KEYWORD: 뵈다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65573
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -104,13 +104,13 @@ imported:
     - 발음: 붸ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/65573_bwe-ni.wav
       형태: 뵈니
-processed:
+result:
   맞춤법 검사:
     표제어: 뵈다
     품사: 동사
 ---
 000_KEYWORD: 뵈다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62814
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -161,13 +161,13 @@ imported:
     - 발음: 붸ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/bwe-ni.wav
       형태: 뵈니
-processed:
+result:
   맞춤법 검사:
     표제어: 뵈다
     품사: 동사
 ---
 000_KEYWORD: 뵈다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59958
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -288,13 +288,13 @@ imported:
     - 발음: 붸ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/bwe-ni.wav
       형태: 뵈니
-processed:
+result:
   맞춤법 검사:
     표제어: 뵈다
     품사: 동사
 ---
 000_KEYWORD: 뵙다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62815
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -328,12 +328,12 @@ imported:
     표제어: 뵙다
     품사: 동사
     항목ID: 62815
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙 미확정
     표제어: 뵙다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     FIXME: 제한적 활용.

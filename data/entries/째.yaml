@@ -1,5 +1,5 @@
 000_KEYWORD: -째__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88687
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -20,11 +20,11 @@ imported:
     표제어: -째
     품사: 접사
     항목ID: 88687
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -째__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88688
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -55,11 +55,11 @@ imported:
     표제어: -째
     품사: 접사
     항목ID: 88688
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 째깍__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -68,13 +68,13 @@ imported:
     표제어: 째깍
     품사: 부사
     항목ID: 25609
-processed:
+result:
   맞춤법 검사:
     표제어: 째깍
     품사: 부사
 ---
 000_KEYWORD: 째다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78937
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -110,13 +110,13 @@ imported:
     - 발음: 째ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78937_jjae-ni.wav
       형태: 째니
-processed:
+result:
   맞춤법 검사:
     표제어: 째다
     품사: 동사
 ---
 000_KEYWORD: 째다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78938
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -165,13 +165,13 @@ imported:
     - 발음: 째ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjae-ni.wav
       형태: 째니
-processed:
+result:
   맞춤법 검사:
     표제어: 째다
     품사: 동사
 ---
 000_KEYWORD: 째려보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78939
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -205,17 +205,17 @@ imported:
     활용:
     - 형태: 째려보아
     - 형태: 째려보니
-processed:
+result:
   맞춤법 검사:
     표제어: 째려보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 째리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78940
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -256,13 +256,13 @@ imported:
     - 발음: 째ː리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78940_jjae-rini.wav
       형태: 째리니
-processed:
+result:
   맞춤법 검사:
     표제어: 째리다
     품사: 동사
 ---
 000_KEYWORD: 째지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78941
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -331,13 +331,13 @@ imported:
     - 발음: 째ː지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78941_jjae-jini.wav
       형태: 째지니
-processed:
+result:
   맞춤법 검사:
     표제어: 째지다
     품사: 동사
 ---
 000_KEYWORD: 째째하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92372
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -350,10 +350,10 @@ imported:
     표제어: 째째하다
     품사: 형용사
     항목ID: 92372
-processed: {}
+result: {}
 ---
 000_KEYWORD: 짹짹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78942
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -379,13 +379,13 @@ imported:
     표제어: 짹짹
     품사: 부사
     항목ID: 78942
-processed:
+result:
   맞춤법 검사:
     표제어: 짹짹
     품사: 부사
 ---
 000_KEYWORD: 짹짹거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78943
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -420,13 +420,13 @@ imported:
     표제어: 짹짹거리다
     품사: 동사
     항목ID: 78943
-processed:
+result:
   맞춤법 검사:
     표제어: 짹짹거리다
     품사: 동사
 ---
 000_KEYWORD: 짹짹대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91043
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -461,13 +461,13 @@ imported:
     표제어: 짹짹대다
     품사: 동사
     항목ID: 91043
-processed:
+result:
   맞춤법 검사:
     표제어: 짹짹대다
     품사: 동사
 ---
 000_KEYWORD: 짹짹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91044
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -502,13 +502,13 @@ imported:
     표제어: 짹짹하다
     품사: 동사
     항목ID: 91044
-processed:
+result:
   맞춤법 검사:
     표제어: 짹짹하다
     품사: 동사
 ---
 000_KEYWORD: 쨍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78944
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -558,13 +558,13 @@ imported:
     표제어: 쨍
     품사: 부사
     항목ID: 78944
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍
     품사: 부사
 ---
 000_KEYWORD: 쨍__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78945
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -590,13 +590,13 @@ imported:
     표제어: 쨍
     품사: 부사
     항목ID: 78945
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍
     품사: 부사
 ---
 000_KEYWORD: 쨍그랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78946
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -624,13 +624,13 @@ imported:
     표제어: 쨍그랑
     품사: 부사
     항목ID: 78946
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍그랑
     품사: 부사
 ---
 000_KEYWORD: 쨍그랑거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78947
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -666,13 +666,13 @@ imported:
     표제어: 쨍그랑거리다
     품사: 동사
     항목ID: 78947
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍그랑거리다
     품사: 동사
 ---
 000_KEYWORD: 쨍그랑대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90112
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -708,13 +708,13 @@ imported:
     표제어: 쨍그랑대다
     품사: 동사
     항목ID: 90112
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍그랑대다
     품사: 동사
 ---
 000_KEYWORD: 쨍그랑쨍그랑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90113
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -741,13 +741,13 @@ imported:
     표제어: 쨍그랑쨍그랑
     품사: 부사
     항목ID: 90113
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍그랑쨍그랑
     품사: 부사
 ---
 000_KEYWORD: 쨍그랑쨍그랑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90114
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -782,13 +782,13 @@ imported:
     표제어: 쨍그랑쨍그랑하다
     품사: 동사
     항목ID: 90114
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍그랑쨍그랑하다
     품사: 동사
 ---
 000_KEYWORD: 쨍그랑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78948
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -818,13 +818,13 @@ imported:
     표제어: 쨍그랑하다
     품사: 동사
     항목ID: 78948
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍그랑하다
     품사: 동사
 ---
 000_KEYWORD: 쨍쨍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78949
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -851,13 +851,13 @@ imported:
     표제어: 쨍쨍
     품사: 부사
     항목ID: 78949
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍쨍
     품사: 부사
 ---
 000_KEYWORD: 쨍쨍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91523
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -896,13 +896,13 @@ imported:
       형태: 쨍쨍하니
     - 발음: 쨍쨍함니다
       형태: 쨍쨍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍쨍하다
     품사: 형용사
 ---
 000_KEYWORD: 쨍하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78950
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -957,13 +957,13 @@ imported:
     표제어: 쨍하다
     품사: 동사
     항목ID: 78950
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍하다
     품사: 동사
 ---
 000_KEYWORD: 쨍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78951
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1002,7 +1002,7 @@ imported:
       형태: 쨍하니
     - 발음: 쨍함니다
       형태: 쨍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쨍하다
     품사: 형용사

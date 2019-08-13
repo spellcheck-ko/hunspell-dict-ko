@@ -1,5 +1,5 @@
 000_KEYWORD: 커넥터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10,13 +10,13 @@ imported:
     표제어: 커넥터
     품사: 명사:보통:비서술성
     항목ID: 27405
-processed:
+result:
   맞춤법 검사:
     표제어: 커넥터
     품사: 명사
 ---
 000_KEYWORD: 커녕__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86168
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -57,11 +57,11 @@ imported:
     표제어: 커녕
     품사: 조사
     항목ID: 86168
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 커닝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83135
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -92,13 +92,13 @@ imported:
     표제어: 커닝
     품사: 명사
     항목ID: 83135
-processed:
+result:
   맞춤법 검사:
     표제어: 커닝
     품사: 명사
 ---
 000_KEYWORD: 커닝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83134
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -129,13 +129,13 @@ imported:
     표제어: 커닝하다
     품사: 동사
     항목ID: 83134
-processed:
+result:
   맞춤법 검사:
     표제어: 커닝하다
     품사: 동사
 ---
 000_KEYWORD: 커다랗다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72164
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -183,7 +183,7 @@ imported:
     - 발음: 커ː다라씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/72164_keo-darasseumnida.wav
       형태: 커다랗습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -191,7 +191,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 커리큘럼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83136
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -227,13 +227,13 @@ imported:
     표제어: 커리큘럼
     품사: 명사
     항목ID: 83136
-processed:
+result:
   맞춤법 검사:
     표제어: 커리큘럼
     품사: 명사
 ---
 000_KEYWORD: 커뮤니케이션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83137
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -266,13 +266,13 @@ imported:
     표제어: 커뮤니케이션
     품사: 명사
     항목ID: 83137
-processed:
+result:
   맞춤법 검사:
     표제어: 커뮤니케이션
     품사: 명사
 ---
 000_KEYWORD: 커뮤니티__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -281,13 +281,13 @@ imported:
     표제어: 커뮤니티
     품사: 명사:보통:서술성
     항목ID: 27411
-processed:
+result:
   맞춤법 검사:
     표제어: 커뮤니티
     품사: 명사
 ---
 000_KEYWORD: 커미션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83138
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -324,13 +324,13 @@ imported:
     표제어: 커미션
     품사: 명사
     항목ID: 83138
-processed:
+result:
   맞춤법 검사:
     표제어: 커미션
     품사: 명사
 ---
 000_KEYWORD: 커버__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83140
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -365,13 +365,13 @@ imported:
     표제어: 커버
     품사: 명사
     항목ID: 83140
-processed:
+result:
   맞춤법 검사:
     표제어: 커버
     품사: 명사
 ---
 000_KEYWORD: 커버하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83141
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -405,13 +405,13 @@ imported:
     표제어: 커버하다
     품사: 동사
     항목ID: 83141
-processed:
+result:
   맞춤법 검사:
     표제어: 커버하다
     품사: 동사
 ---
 000_KEYWORD: 커브__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83143
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -448,13 +448,13 @@ imported:
     표제어: 커브
     품사: 명사
     항목ID: 83143
-processed:
+result:
   맞춤법 검사:
     표제어: 커브
     품사: 명사
 ---
 000_KEYWORD: 커서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83146
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -479,13 +479,13 @@ imported:
     표제어: 커서
     품사: 명사
     항목ID: 83146
-processed:
+result:
   맞춤법 검사:
     표제어: 커서
     품사: 명사
 ---
 000_KEYWORD: 커스터드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -496,13 +496,13 @@ imported:
     표제어: 커스터드
     품사: 명사:보통:서술성
     항목ID: 27414
-processed:
+result:
   맞춤법 검사:
     표제어: 커스터드
     품사: 명사
 ---
 000_KEYWORD: 커지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72165
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -546,17 +546,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/72165_keojeo.wav
       형태: 커져
     - 형태: 커지니
-processed:
+result:
   맞춤법 검사:
     표제어: 커지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 커터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -567,13 +567,13 @@ imported:
     표제어: 커터
     품사: 명사:보통:비서술성
     항목ID: 27416
-processed:
+result:
   맞춤법 검사:
     표제어: 커터
     품사: 명사
 ---
 000_KEYWORD: 커텐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92341
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -586,10 +586,10 @@ imported:
     표제어: 커텐
     품사: 명사
     항목ID: 92341
-processed: {}
+result: {}
 ---
 000_KEYWORD: 커트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83148
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -628,13 +628,13 @@ imported:
     표제어: 커트
     품사: 명사
     항목ID: 83148
-processed:
+result:
   맞춤법 검사:
     표제어: 커트
     품사: 명사
 ---
 000_KEYWORD: 커튼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72166
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -682,13 +682,13 @@ imported:
     표제어: 커튼
     품사: 명사
     항목ID: 72166
-processed:
+result:
   맞춤법 검사:
     표제어: 커튼
     품사: 명사
 ---
 000_KEYWORD: 커플__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83149
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -715,13 +715,13 @@ imported:
     표제어: 커플
     품사: 명사
     항목ID: 83149
-processed:
+result:
   맞춤법 검사:
     표제어: 커플
     품사: 명사
 ---
 000_KEYWORD: 커피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27372
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -784,13 +784,13 @@ imported:
     표제어: 커피
     품사: 명사
     항목ID: 27372
-processed:
+result:
   맞춤법 검사:
     표제어: 커피
     품사: 명사
 ---
 000_KEYWORD: 커피숍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83150
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -818,13 +818,13 @@ imported:
     표제어: 커피숍
     품사: 명사
     항목ID: 83150
-processed:
+result:
   맞춤법 검사:
     표제어: 커피숍
     품사: 명사
 ---
 000_KEYWORD: 커피콩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83151
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -850,13 +850,13 @@ imported:
     표제어: 커피콩
     품사: 명사
     항목ID: 83151
-processed:
+result:
   맞춤법 검사:
     표제어: 커피콩
     품사: 명사
 ---
 000_KEYWORD: 커피포트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83152
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -882,13 +882,13 @@ imported:
     표제어: 커피포트
     품사: 명사
     항목ID: 83152
-processed:
+result:
   맞춤법 검사:
     표제어: 커피포트
     품사: 명사
 ---
 000_KEYWORD: 컥컥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83153
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -912,13 +912,13 @@ imported:
     표제어: 컥컥
     품사: 부사
     항목ID: 83153
-processed:
+result:
   맞춤법 검사:
     표제어: 컥컥
     품사: 부사
 ---
 000_KEYWORD: 컥컥__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83154
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -942,13 +942,13 @@ imported:
     표제어: 컥컥
     품사: 부사
     항목ID: 83154
-processed:
+result:
   맞춤법 검사:
     표제어: 컥컥
     품사: 부사
 ---
 000_KEYWORD: 컥컥거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83155
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -981,13 +981,13 @@ imported:
     표제어: 컥컥거리다
     품사: 동사
     항목ID: 83155
-processed:
+result:
   맞춤법 검사:
     표제어: 컥컥거리다
     품사: 동사
 ---
 000_KEYWORD: 컥컥거리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83156
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1021,13 +1021,13 @@ imported:
     표제어: 컥컥거리다
     품사: 동사
     항목ID: 83156
-processed:
+result:
   맞춤법 검사:
     표제어: 컥컥거리다
     품사: 동사
 ---
 000_KEYWORD: 컥컥대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90025
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1062,13 +1062,13 @@ imported:
     표제어: 컥컥대다
     품사: 동사
     항목ID: 90025
-processed:
+result:
   맞춤법 검사:
     표제어: 컥컥대다
     품사: 동사
 ---
 000_KEYWORD: 컥컥대다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90027
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1103,13 +1103,13 @@ imported:
     표제어: 컥컥대다
     품사: 동사
     항목ID: 90027
-processed:
+result:
   맞춤법 검사:
     표제어: 컥컥대다
     품사: 동사
 ---
 000_KEYWORD: 컥컥하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90028
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1145,13 +1145,13 @@ imported:
     표제어: 컥컥하다
     품사: 동사
     항목ID: 90028
-processed:
+result:
   맞춤법 검사:
     표제어: 컥컥하다
     품사: 동사
 ---
 000_KEYWORD: 컥컥하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90029
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1184,13 +1184,13 @@ imported:
     표제어: 컥컥하다
     품사: 동사
     항목ID: 90029
-processed:
+result:
   맞춤법 검사:
     표제어: 컥컥하다
     품사: 동사
 ---
 000_KEYWORD: 컨디션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28154
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1229,13 +1229,13 @@ imported:
     표제어: 컨디션
     품사: 명사
     항목ID: 28154
-processed:
+result:
   맞춤법 검사:
     표제어: 컨디션
     품사: 명사
 ---
 000_KEYWORD: 컨설턴트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1246,13 +1246,13 @@ imported:
     표제어: 컨설턴트
     품사: 명사:보통:서술성
     항목ID: 27423
-processed:
+result:
   맞춤법 검사:
     표제어: 컨설턴트
     품사: 명사
 ---
 000_KEYWORD: 컨설팅__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1261,13 +1261,13 @@ imported:
     표제어: 컨설팅
     품사: 명사:보통:서술성
     항목ID: 27424
-processed:
+result:
   맞춤법 검사:
     표제어: 컨설팅
     품사: 명사
 ---
 000_KEYWORD: 컨소시엄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83157
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1293,13 +1293,13 @@ imported:
     표제어: 컨소시엄
     품사: 명사
     항목ID: 83157
-processed:
+result:
   맞춤법 검사:
     표제어: 컨소시엄
     품사: 명사
 ---
 000_KEYWORD: 컨테이너__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83158
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1328,13 +1328,13 @@ imported:
     표제어: 컨테이너
     품사: 명사
     항목ID: 83158
-processed:
+result:
   맞춤법 검사:
     표제어: 컨테이너
     품사: 명사
 ---
 000_KEYWORD: 컨트롤__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83159
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1378,13 +1378,13 @@ imported:
     표제어: 컨트롤
     품사: 명사
     항목ID: 83159
-processed:
+result:
   맞춤법 검사:
     표제어: 컨트롤
     품사: 명사
 ---
 000_KEYWORD: 컨트롤러__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1394,13 +1394,13 @@ imported:
     표제어: 컨트롤러
     품사: 명사:보통:비서술성
     항목ID: 27428
-processed:
+result:
   맞춤법 검사:
     표제어: 컨트롤러
     품사: 명사
 ---
 000_KEYWORD: 컨트롤하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83160
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1451,13 +1451,13 @@ imported:
     표제어: 컨트롤하다
     품사: 동사
     항목ID: 83160
-processed:
+result:
   맞춤법 검사:
     표제어: 컨트롤하다
     품사: 동사
 ---
 000_KEYWORD: 컬러__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28156
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1500,13 +1500,13 @@ imported:
     표제어: 컬러
     품사: 명사
     항목ID: 28156
-processed:
+result:
   맞춤법 검사:
     표제어: 컬러
     품사: 명사
 ---
 000_KEYWORD: 컬렉션__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1516,13 +1516,13 @@ imported:
     표제어: 컬렉션
     품사: 명사:보통:비서술성
     항목ID: 27431
-processed:
+result:
   맞춤법 검사:
     표제어: 컬렉션
     품사: 명사
 ---
 000_KEYWORD: 컬컬하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83215
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1591,13 +1591,13 @@ imported:
       형태: 컬컬하니
     - 발음: 컬컬함니다
       형태: 컬컬합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 컬컬하다
     품사: 형용사
 ---
 000_KEYWORD: 컴백__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1607,13 +1607,13 @@ imported:
     표제어: 컴백
     품사: 명사:보통:서술성
     항목ID: 27432
-processed:
+result:
   맞춤법 검사:
     표제어: 컴백
     품사: 명사
 ---
 000_KEYWORD: 컴백하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83216
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1638,13 +1638,13 @@ imported:
     표제어: 컴백하다
     품사: 동사
     항목ID: 83216
-processed:
+result:
   맞춤법 검사:
     표제어: 컴백하다
     품사: 동사
 ---
 000_KEYWORD: 컴컴하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83217
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1704,13 +1704,13 @@ imported:
       형태: 컴컴하니
     - 발음: 컴컴함니다
       형태: 컴컴합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 컴컴하다
     품사: 형용사
 ---
 000_KEYWORD: 컴파일__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1721,13 +1721,13 @@ imported:
     표제어: 컴파일
     품사: 명사:보통:서술성
     항목ID: 27435
-processed:
+result:
   맞춤법 검사:
     표제어: 컴파일
     품사: 명사
 ---
 000_KEYWORD: 컴파일러__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1737,13 +1737,13 @@ imported:
     표제어: 컴파일러
     품사: 명사:보통:서술성
     항목ID: 27436
-processed:
+result:
   맞춤법 검사:
     표제어: 컴파일러
     품사: 명사
 ---
 000_KEYWORD: 컴파일하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1754,13 +1754,13 @@ imported:
     표제어: 컴파일하다
     품사: 동사
     항목ID: 27437
-processed:
+result:
   맞춤법 검사:
     표제어: 컴파일하다
     품사: 동사
 ---
 000_KEYWORD: 컴퍼스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83218
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1788,13 +1788,13 @@ imported:
     표제어: 컴퍼스
     품사: 명사
     항목ID: 83218
-processed:
+result:
   맞춤법 검사:
     표제어: 컴퍼스
     품사: 명사
 ---
 000_KEYWORD: 컴퓨터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72167
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1845,13 +1845,13 @@ imported:
     표제어: 컴퓨터
     품사: 명사
     항목ID: 72167
-processed:
+result:
   맞춤법 검사:
     표제어: 컴퓨터
     품사: 명사
 ---
 000_KEYWORD: 컴퓨터과학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1860,13 +1860,13 @@ imported:
     표제어: 컴퓨터과학
     품사: 명사:보통:서술성
     항목ID: 27440
-processed:
+result:
   맞춤법 검사:
     표제어: 컴퓨터과학
     품사: 명사
 ---
 000_KEYWORD: 컴퓨팅__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1875,13 +1875,13 @@ imported:
     표제어: 컴퓨팅
     품사: 명사:보통:서술성
     항목ID: 27441
-processed:
+result:
   맞춤법 검사:
     표제어: 컴퓨팅
     품사: 명사
 ---
 000_KEYWORD: 컵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32792
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1957,13 +1957,13 @@ imported:
     - 발음: 컴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/32792_keomman.wav
       형태: 컵만
-processed:
+result:
   맞춤법 검사:
     표제어: 컵
     품사: 명사
 ---
 000_KEYWORD: 컵__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1972,13 +1972,13 @@ imported:
     표제어: 컵
     품사: 명사:의존:단위성
     항목ID: 32165
-processed:
+result:
   맞춤법 검사:
     표제어: 컵
     품사: 명사
 ---
 000_KEYWORD: 컵라면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83220
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2005,13 +2005,13 @@ imported:
     표제어: 컵라면
     품사: 명사
     항목ID: 83220
-processed:
+result:
   맞춤법 검사:
     표제어: 컵라면
     품사: 명사
 ---
 000_KEYWORD: 컷__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83222
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2035,13 +2035,13 @@ imported:
     표제어: 컷
     품사: 감탄사
     항목ID: 83222
-processed:
+result:
   맞춤법 검사:
     표제어: 컷
     품사: 감탄사
 ---
 000_KEYWORD: 컷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83221
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2091,13 +2091,13 @@ imported:
     표제어: 컷
     품사: 명사
     항목ID: 83221
-processed:
+result:
   맞춤법 검사:
     표제어: 컷
     품사: 명사
 ---
 000_KEYWORD: 컹컹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91722
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2121,13 +2121,13 @@ imported:
     표제어: 컹컹
     품사: 부사
     항목ID: 91722
-processed:
+result:
   맞춤법 검사:
     표제어: 컹컹
     품사: 부사
 ---
 000_KEYWORD: 컹컹거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83228
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2155,13 +2155,13 @@ imported:
     표제어: 컹컹거리다
     품사: 동사
     항목ID: 83228
-processed:
+result:
   맞춤법 검사:
     표제어: 컹컹거리다
     품사: 동사
 ---
 000_KEYWORD: 컹컹대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90030
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2191,13 +2191,13 @@ imported:
     표제어: 컹컹대다
     품사: 동사
     항목ID: 90030
-processed:
+result:
   맞춤법 검사:
     표제어: 컹컹대다
     품사: 동사
 ---
 000_KEYWORD: 컹컹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90032
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2223,7 +2223,7 @@ imported:
     표제어: 컹컹하다
     품사: 동사
     항목ID: 90032
-processed:
+result:
   맞춤법 검사:
     표제어: 컹컹하다
     품사: 동사

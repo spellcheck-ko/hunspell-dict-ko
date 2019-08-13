@@ -1,5 +1,5 @@
 000_KEYWORD: 뾰로통하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61991
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -38,13 +38,13 @@ imported:
       형태: 뾰로통하니
     - 발음: 뾰로통함니다
       형태: 뾰로통합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰로통하다
     품사: 형용사
 ---
 000_KEYWORD: 뾰루지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61155
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -73,13 +73,13 @@ imported:
     표제어: 뾰루지
     품사: 명사
     항목ID: 61155
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰루지
     품사: 명사
 ---
 000_KEYWORD: 뾰족__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61999
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -110,13 +110,13 @@ imported:
     표제어: 뾰족
     품사: 부사
     항목ID: 61999
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰족
     품사: 부사
 ---
 000_KEYWORD: 뾰족구두__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -126,13 +126,13 @@ imported:
     표제어: 뾰족구두
     품사: 명사:보통:비서술성
     항목ID: 13175
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰족구두
     품사: 명사
 ---
 000_KEYWORD: 뾰족뾰족__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62001
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -159,13 +159,13 @@ imported:
     표제어: 뾰족뾰족
     품사: 부사
     항목ID: 62001
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰족뾰족
     품사: 부사
 ---
 000_KEYWORD: 뾰족뾰족하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62002
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -204,13 +204,13 @@ imported:
       형태: 뾰족뾰족하니
     - 발음: 뾰족뾰조캄니다
       형태: 뾰족뾰족합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰족뾰족하다
     품사: 형용사
 ---
 000_KEYWORD: 뾰족하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62006
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -280,13 +280,13 @@ imported:
       형태: 뾰족하니
     - 발음: 뾰조캄니다
       형태: 뾰족합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰족하다
     품사: 형용사
 ---
 000_KEYWORD: 뾰쪽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61998
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -317,13 +317,13 @@ imported:
     표제어: 뾰쪽
     품사: 부사
     항목ID: 61998
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰쪽
     품사: 부사
 ---
 000_KEYWORD: 뾰쪽하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62004
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -368,13 +368,13 @@ imported:
       형태: 뾰쪽하니
     - 발음: 뾰쪼캄니다
       형태: 뾰쪽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뾰쪽하다
     품사: 형용사
 ---
 000_KEYWORD: 뿅__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62064
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -411,7 +411,7 @@ imported:
     표제어: 뿅
     품사: 부사
     항목ID: 62064
-processed:
+result:
   맞춤법 검사:
     표제어: 뿅
     품사: 부사

@@ -1,5 +1,5 @@
 000_KEYWORD: 퀴즈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81318
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -27,13 +27,13 @@ imported:
     표제어: 퀴즈
     품사: 명사
     항목ID: 81318
-processed:
+result:
   맞춤법 검사:
     표제어: 퀴즈
     품사: 명사
 ---
 000_KEYWORD: 퀴퀴하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81323
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -76,7 +76,7 @@ imported:
       형태: 퀴퀴하니
     - 발음: 퀴퀴함니다
       형태: 퀴퀴합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 퀴퀴하다
     품사: 형용사

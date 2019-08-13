@@ -1,5 +1,5 @@
 000_KEYWORD: 퓨마__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 퓨마
     품사: 명사:보통:비서술성
     항목ID: 29326
-processed:
+result:
   맞춤법 검사:
     표제어: 퓨마
     품사: 명사
 ---
 000_KEYWORD: 퓨전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93418
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -40,13 +40,13 @@ imported:
     표제어: 퓨전
     품사: 명사
     항목ID: 93418
-processed:
+result:
   맞춤법 검사:
     표제어: 퓨전
     품사: 명사
 ---
 000_KEYWORD: 퓨즈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84483
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -76,7 +76,7 @@ imported:
     표제어: 퓨즈
     품사: 명사
     항목ID: 84483
-processed:
+result:
   맞춤법 검사:
     표제어: 퓨즈
     품사: 명사

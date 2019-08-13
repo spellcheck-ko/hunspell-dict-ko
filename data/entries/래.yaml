@@ -1,5 +1,5 @@
 000_KEYWORD: -래__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77309
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -46,11 +46,11 @@ imported:
     표제어: -래
     품사: 어미
     항목ID: 77309
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -래요__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81093
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -81,11 +81,11 @@ imported:
     표제어: -래요
     품사: 어미
     항목ID: 81093
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 랜__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -95,13 +95,13 @@ imported:
     표제어: 랜
     품사: 명사:보통:서술성
     항목ID: 8062
-processed:
+result:
   맞춤법 검사:
     표제어: 랜
     품사: 명사
 ---
 000_KEYWORD: 랜턴__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -111,13 +111,13 @@ imported:
     표제어: 랜턴
     품사: 명사:보통:비서술성
     항목ID: 8063
-processed:
+result:
   맞춤법 검사:
     표제어: 랜턴
     품사: 명사
 ---
 000_KEYWORD: 랠리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -127,13 +127,13 @@ imported:
     표제어: 랠리
     품사: 명사:보통:비서술성
     항목ID: 8064
-processed:
+result:
   맞춤법 검사:
     표제어: 랠리
     품사: 명사
 ---
 000_KEYWORD: 램__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -144,13 +144,13 @@ imported:
     표제어: 램
     품사: 명사:보통:비서술성
     항목ID: 8065
-processed:
+result:
   맞춤법 검사:
     표제어: 램
     품사: 명사
 ---
 000_KEYWORD: 램프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52770
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -203,13 +203,13 @@ imported:
     표제어: 램프
     품사: 명사
     항목ID: 52770
-processed:
+result:
   맞춤법 검사:
     표제어: 램프
     품사: 명사
 ---
 000_KEYWORD: 랩__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -219,13 +219,13 @@ imported:
     표제어: 랩
     품사: 명사:보통:서술성
     항목ID: 8067
-processed:
+result:
   맞춤법 검사:
     표제어: 랩
     품사: 명사
 ---
 000_KEYWORD: 랭크되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -236,13 +236,13 @@ imported:
     표제어: 랭크되다
     품사: 동사
     항목ID: 8068
-processed:
+result:
   맞춤법 검사:
     표제어: 랭크되다
     품사: 동사
 ---
 000_KEYWORD: 랭킹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52063
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -263,7 +263,7 @@ imported:
     표제어: 랭킹
     품사: 명사
     항목ID: 52063
-processed:
+result:
   맞춤법 검사:
     표제어: 랭킹
     품사: 명사

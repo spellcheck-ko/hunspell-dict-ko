@@ -1,5 +1,5 @@
 000_KEYWORD: 돼먹다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10,13 +10,13 @@ imported:
     표제어: 돼먹다
     품사: 동사
     항목ID: 7332
-processed:
+result:
   맞춤법 검사:
     표제어: 돼먹다
     품사: 동사
 ---
 000_KEYWORD: 돼지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62269
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -65,13 +65,13 @@ imported:
     표제어: 돼지
     품사: 명사
     항목ID: 62269
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지
     품사: 명사
 ---
 000_KEYWORD: 돼지갈비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48173
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -100,13 +100,13 @@ imported:
     표제어: 돼지갈비
     품사: 명사
     항목ID: 48173
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지갈비
     품사: 명사
 ---
 000_KEYWORD: 돼지고기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89811
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -139,13 +139,13 @@ imported:
     표제어: 돼지고기
     품사: 명사
     항목ID: 89811
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지고기
     품사: 명사
 ---
 000_KEYWORD: 돼지기름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48174
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -192,13 +192,13 @@ imported:
     표제어: 돼지기름
     품사: 명사
     항목ID: 48174
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지기름
     품사: 명사
 ---
 000_KEYWORD: 돼지꿈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48176
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -225,13 +225,13 @@ imported:
     표제어: 돼지꿈
     품사: 명사
     항목ID: 48176
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지꿈
     품사: 명사
 ---
 000_KEYWORD: 돼지띠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48177
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -257,13 +257,13 @@ imported:
     표제어: 돼지띠
     품사: 명사
     항목ID: 48177
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지띠
     품사: 명사
 ---
 000_KEYWORD: 돼지머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48178
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -295,13 +295,13 @@ imported:
     표제어: 돼지머리
     품사: 명사
     항목ID: 48178
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지머리
     품사: 명사
 ---
 000_KEYWORD: 돼지비계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48180
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -335,13 +335,13 @@ imported:
     표제어: 돼지비계
     품사: 명사
     항목ID: 48180
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지비계
     품사: 명사
 ---
 000_KEYWORD: 돼지우리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48183
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -380,13 +380,13 @@ imported:
     표제어: 돼지우리
     품사: 명사
     항목ID: 48183
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지우리
     품사: 명사
 ---
 000_KEYWORD: 돼지죽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48187
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -434,7 +434,7 @@ imported:
     - 발음: 돼ː지중만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/48187_dwae-jijungman.wav
       형태: 돼지죽만
-processed:
+result:
   맞춤법 검사:
     표제어: 돼지죽
     품사: 명사

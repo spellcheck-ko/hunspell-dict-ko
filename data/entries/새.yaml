@@ -1,5 +1,5 @@
 000_KEYWORD: -새__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70695
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -21,11 +21,11 @@ imported:
     표제어: -새
     품사: 접사
     항목ID: 70695
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -생__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70699
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -49,11 +49,11 @@ imported:
     표제어: -생
     품사: 접사
     항목ID: 70699
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -생__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70700
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -120,11 +120,11 @@ imported:
     표제어: -생
     품사: 접사
     항목ID: 70700
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 새-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70694
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -158,11 +158,11 @@ imported:
     표제어: 새-
     품사: 접사
     항목ID: 70694
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 새__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17884
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -219,13 +219,13 @@ imported:
     표제어: 새
     품사: 관형사
     항목ID: 17884
-processed:
+result:
   맞춤법 검사:
     표제어: 새
     품사: 관형사
 ---
 000_KEYWORD: 새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29047
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -291,13 +291,13 @@ imported:
     표제어: 새
     품사: 명사
     항목ID: 29047
-processed:
+result:
   맞춤법 검사:
     표제어: 새
     품사: 명사
 ---
 000_KEYWORD: 새__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30197
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -345,13 +345,13 @@ imported:
     표제어: 새
     품사: 명사
     항목ID: 30197
-processed:
+result:
   맞춤법 검사:
     표제어: 새
     품사: 명사
 ---
 000_KEYWORD: 새것__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83551
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -415,13 +415,13 @@ imported:
     - 발음: 새건만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/83551_saegeonman.wav
       형태: 새것만
-processed:
+result:
   맞춤법 검사:
     표제어: 새것
     품사: 명사
 ---
 000_KEYWORD: 새겨듣다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62934
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -470,19 +470,19 @@ imported:
     - 발음: 새겨든는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62934_saegyeodeunneun.wav
       형태: 새겨듣는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
     표제어: 새겨듣다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 새근거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83552
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -546,13 +546,13 @@ imported:
     표제어: 새근거리다
     품사: 동사
     항목ID: 83552
-processed:
+result:
   맞춤법 검사:
     표제어: 새근거리다
     품사: 동사
 ---
 000_KEYWORD: 새근대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83553
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -616,13 +616,13 @@ imported:
     표제어: 새근대다
     품사: 동사
     항목ID: 83553
-processed:
+result:
   맞춤법 검사:
     표제어: 새근대다
     품사: 동사
 ---
 000_KEYWORD: 새근새근__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83554
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -667,13 +667,13 @@ imported:
     표제어: 새근새근
     품사: 부사
     항목ID: 83554
-processed:
+result:
   맞춤법 검사:
     표제어: 새근새근
     품사: 부사
 ---
 000_KEYWORD: 새근새근하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88610
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -735,13 +735,13 @@ imported:
     표제어: 새근새근하다
     품사: 동사
     항목ID: 88610
-processed:
+result:
   맞춤법 검사:
     표제어: 새근새근하다
     품사: 동사
 ---
 000_KEYWORD: 새기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16228
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -805,13 +805,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/16228_saegiyeo.wav
       형태: 새기어
     - 형태: 새기니
-processed:
+result:
   맞춤법 검사:
     표제어: 새기다
     품사: 동사
 ---
 000_KEYWORD: 새김__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84546
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -834,13 +834,13 @@ imported:
     표제어: 새김
     품사: 명사
     항목ID: 84546
-processed:
+result:
   맞춤법 검사:
     표제어: 새김
     품사: 명사
 ---
 000_KEYWORD: 새까맣다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84547
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -974,7 +974,7 @@ imported:
     - 발음: 새까마씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/84547_saekkamasseumnida.wav
       형태: 새까맣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -982,7 +982,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 새까매지다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -994,14 +994,14 @@ imported:
     표제어: 새까매지다
     품사: 동사
     항목ID: 14048
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 새까매지다
     품사: 동사
 ---
 000_KEYWORD: 새끼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84548
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1029,13 +1029,13 @@ imported:
     표제어: 새끼
     품사: 명사
     항목ID: 84548
-processed:
+result:
   맞춤법 검사:
     표제어: 새끼
     품사: 명사
 ---
 000_KEYWORD: 새끼__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66312
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1127,13 +1127,13 @@ imported:
     표제어: 새끼
     품사: 명사
     항목ID: 66312
-processed:
+result:
   맞춤법 검사:
     표제어: 새끼
     품사: 명사
 ---
 000_KEYWORD: 새끼발가락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62930
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1171,13 +1171,13 @@ imported:
     - 발음: 새끼발까랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62930_saekkibalkkarangman.wav
       형태: 새끼발가락만
-processed:
+result:
   맞춤법 검사:
     표제어: 새끼발가락
     품사: 명사
 ---
 000_KEYWORD: 새끼손가락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62932
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1212,13 +1212,13 @@ imported:
     - 발음: 새끼손까랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62932_saekkisonkkarangman.wav
       형태: 새끼손가락만
-processed:
+result:
   맞춤법 검사:
     표제어: 새끼손가락
     품사: 명사
 ---
 000_KEYWORD: 새끼줄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62796
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1252,13 +1252,13 @@ imported:
     표제어: 새끼줄
     품사: 명사
     항목ID: 62796
-processed:
+result:
   맞춤법 검사:
     표제어: 새끼줄
     품사: 명사
 ---
 000_KEYWORD: 새날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84607
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1296,13 +1296,13 @@ imported:
     표제어: 새날
     품사: 명사
     항목ID: 84607
-processed:
+result:
   맞춤법 검사:
     표제어: 새날
     품사: 명사
 ---
 000_KEYWORD: 새내기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62792
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1339,13 +1339,13 @@ imported:
     표제어: 새내기
     품사: 명사
     항목ID: 62792
-processed:
+result:
   맞춤법 검사:
     표제어: 새내기
     품사: 명사
 ---
 000_KEYWORD: 새누리당__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1354,13 +1354,13 @@ imported:
     표제어: 새누리당
     품사: 명사:보통:서술성
     항목ID: 31843
-processed:
+result:
   맞춤법 검사:
     표제어: 새누리당
     품사: 명사
 ---
 000_KEYWORD: 새다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16231
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1482,13 +1482,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/16231_sae-.wav
       형태: 새
     - 형태: 새니
-processed:
+result:
   맞춤법 검사:
     표제어: 새다
     품사: 동사
 ---
 000_KEYWORD: 새다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84608
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1524,13 +1524,13 @@ imported:
     - 발음: 새ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/siot_2005/saeda.wav
       형태: 새니
-processed:
+result:
   맞춤법 검사:
     표제어: 새다
     품사: 동사
 ---
 000_KEYWORD: 새달__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84609
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1557,13 +1557,13 @@ imported:
     표제어: 새달
     품사: 명사
     항목ID: 84609
-processed:
+result:
   맞춤법 검사:
     표제어: 새달
     품사: 명사
 ---
 000_KEYWORD: 새대가리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62790
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1588,13 +1588,13 @@ imported:
     표제어: 새대가리
     품사: 명사
     항목ID: 62790
-processed:
+result:
   맞춤법 검사:
     표제어: 새대가리
     품사: 명사
 ---
 000_KEYWORD: 새댁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62687
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1634,13 +1634,13 @@ imported:
     - 발음: 새댕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/62687_saedaengman.wav
       형태: 새댁만
-processed:
+result:
   맞춤법 검사:
     표제어: 새댁
     품사: 명사
 ---
 000_KEYWORD: 새로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67896
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1698,13 +1698,13 @@ imported:
     표제어: 새로
     품사: 부사
     항목ID: 67896
-processed:
+result:
   맞춤법 검사:
     표제어: 새로
     품사: 부사
 ---
 000_KEYWORD: 새로이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16233
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1752,13 +1752,13 @@ imported:
     표제어: 새로이
     품사: 부사
     항목ID: 16233
-processed:
+result:
   맞춤법 검사:
     표제어: 새로이
     품사: 부사
 ---
 000_KEYWORD: 새록새록__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62689
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1799,13 +1799,13 @@ imported:
     표제어: 새록새록
     품사: 부사
     항목ID: 62689
-processed:
+result:
   맞춤법 검사:
     표제어: 새록새록
     품사: 부사
 ---
 000_KEYWORD: 새롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29029
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1857,7 +1857,7 @@ imported:
       형태: 새로우니
     - 발음: 새롭씀니다
       형태: 새롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1865,7 +1865,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 새말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62690
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1897,13 +1897,13 @@ imported:
     표제어: 새말
     품사: 명사
     항목ID: 62690
-processed:
+result:
   맞춤법 검사:
     표제어: 새말
     품사: 명사
 ---
 000_KEYWORD: 새벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62740
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1971,13 +1971,13 @@ imported:
     - 발음: 새병만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62740_saebyeongman.wav
       형태: 새벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 새벽
     품사: 명사
 ---
 000_KEYWORD: 새벽같이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62691
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2005,13 +2005,13 @@ imported:
     표제어: 새벽같이
     품사: 부사
     항목ID: 62691
-processed:
+result:
   맞춤법 검사:
     표제어: 새벽같이
     품사: 부사
 ---
 000_KEYWORD: 새벽길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62693
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2038,13 +2038,13 @@ imported:
     표제어: 새벽길
     품사: 명사
     항목ID: 62693
-processed:
+result:
   맞춤법 검사:
     표제어: 새벽길
     품사: 명사
 ---
 000_KEYWORD: 새벽녘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63154
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2082,13 +2082,13 @@ imported:
       형태: 새벽녘도
     - 발음: 새명녕만
       형태: 새벽녘만
-processed:
+result:
   맞춤법 검사:
     표제어: 새벽녘
     품사: 명사
 ---
 000_KEYWORD: 새벽달__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63155
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2115,13 +2115,13 @@ imported:
     표제어: 새벽달
     품사: 명사
     항목ID: 63155
-processed:
+result:
   맞춤법 검사:
     표제어: 새벽달
     품사: 명사
 ---
 000_KEYWORD: 새벽별__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63342
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2134,10 +2134,10 @@ imported:
     표제어: 새벽별
     품사: 명사
     항목ID: 63342
-processed: {}
+result: {}
 ---
 000_KEYWORD: 새벽잠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63343
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2166,13 +2166,13 @@ imported:
     표제어: 새벽잠
     품사: 명사
     항목ID: 63343
-processed:
+result:
   맞춤법 검사:
     표제어: 새벽잠
     품사: 명사
 ---
 000_KEYWORD: 새봄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63344
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2216,13 +2216,13 @@ imported:
     표제어: 새봄
     품사: 명사
     항목ID: 63344
-processed:
+result:
   맞춤법 검사:
     표제어: 새봄
     품사: 명사
 ---
 000_KEYWORD: 새빨갛다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63345
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2266,7 +2266,7 @@ imported:
     - 발음: 새빨가씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/63345_saeppalgasseumnida.wav
       형태: 새빨갛습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -2274,7 +2274,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 새사람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63346
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2313,13 +2313,13 @@ imported:
     표제어: 새사람
     품사: 명사
     항목ID: 63346
-processed:
+result:
   맞춤법 검사:
     표제어: 새사람
     품사: 명사
 ---
 000_KEYWORD: 새살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63347
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2350,13 +2350,13 @@ imported:
     표제어: 새살
     품사: 명사
     항목ID: 63347
-processed:
+result:
   맞춤법 검사:
     표제어: 새살
     품사: 명사
 ---
 000_KEYWORD: 새살림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63348
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2396,13 +2396,13 @@ imported:
     표제어: 새살림
     품사: 명사
     항목ID: 63348
-processed:
+result:
   맞춤법 검사:
     표제어: 새살림
     품사: 명사
 ---
 000_KEYWORD: 새삼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63349
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2451,13 +2451,13 @@ imported:
     표제어: 새삼
     품사: 부사
     항목ID: 63349
-processed:
+result:
   맞춤법 검사:
     표제어: 새삼
     품사: 부사
 ---
 000_KEYWORD: 새삼스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63350
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2509,7 +2509,7 @@ imported:
       형태: 새삼스러우니
     - 발음: 새삼스럽씀니다
       형태: 새삼스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -2517,7 +2517,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 새삼스레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63351
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2565,13 +2565,13 @@ imported:
     표제어: 새삼스레
     품사: 부사
     항목ID: 63351
-processed:
+result:
   맞춤법 검사:
     표제어: 새삼스레
     품사: 부사
 ---
 000_KEYWORD: 새색시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63352
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2610,13 +2610,13 @@ imported:
     표제어: 새색시
     품사: 명사
     항목ID: 63352
-processed:
+result:
   맞춤법 검사:
     표제어: 새색시
     품사: 명사
 ---
 000_KEYWORD: 새소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63353
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2643,13 +2643,13 @@ imported:
     표제어: 새소리
     품사: 명사
     항목ID: 63353
-processed:
+result:
   맞춤법 검사:
     표제어: 새소리
     품사: 명사
 ---
 000_KEYWORD: 새순__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63354
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2680,13 +2680,13 @@ imported:
     표제어: 새순
     품사: 명사
     항목ID: 63354
-processed:
+result:
   맞춤법 검사:
     표제어: 새순
     품사: 명사
 ---
 000_KEYWORD: 새신랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63355
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2722,13 +2722,13 @@ imported:
     표제어: 새신랑
     품사: 명사
     항목ID: 63355
-processed:
+result:
   맞춤법 검사:
     표제어: 새신랑
     품사: 명사
 ---
 000_KEYWORD: 새싹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63356
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2786,13 +2786,13 @@ imported:
     - 발음: 새쌍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/63356_saessangman.wav
       형태: 새싹만
-processed:
+result:
   맞춤법 검사:
     표제어: 새싹
     품사: 명사
 ---
 000_KEYWORD: 새아버지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63357
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2817,13 +2817,13 @@ imported:
     표제어: 새아버지
     품사: 명사
     항목ID: 63357
-processed:
+result:
   맞춤법 검사:
     표제어: 새아버지
     품사: 명사
 ---
 000_KEYWORD: 새아빠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91791
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2846,13 +2846,13 @@ imported:
     표제어: 새아빠
     품사: 명사
     항목ID: 91791
-processed:
+result:
   맞춤법 검사:
     표제어: 새아빠
     품사: 명사
 ---
 000_KEYWORD: 새아씨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63358
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2879,13 +2879,13 @@ imported:
     표제어: 새아씨
     품사: 명사
     항목ID: 63358
-processed:
+result:
   맞춤법 검사:
     표제어: 새아씨
     품사: 명사
 ---
 000_KEYWORD: 새알__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63359
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2912,13 +2912,13 @@ imported:
     표제어: 새알
     품사: 명사
     항목ID: 63359
-processed:
+result:
   맞춤법 검사:
     표제어: 새알
     품사: 명사
 ---
 000_KEYWORD: 새앙쥐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63362
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2945,13 +2945,13 @@ imported:
     표제어: 새앙쥐
     품사: 명사
     항목ID: 63362
-processed:
+result:
   맞춤법 검사:
     표제어: 새앙쥐
     품사: 명사
 ---
 000_KEYWORD: 새어머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63363
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -2978,13 +2978,13 @@ imported:
     표제어: 새어머니
     품사: 명사
     항목ID: 63363
-processed:
+result:
   맞춤법 검사:
     표제어: 새어머니
     품사: 명사
 ---
 000_KEYWORD: 새언니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63364
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3012,13 +3012,13 @@ imported:
     표제어: 새언니
     품사: 명사
     항목ID: 63364
-processed:
+result:
   맞춤법 검사:
     표제어: 새언니
     품사: 명사
 ---
 000_KEYWORD: 새엄마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63365
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3046,13 +3046,13 @@ imported:
     표제어: 새엄마
     품사: 명사
     항목ID: 63365
-processed:
+result:
   맞춤법 검사:
     표제어: 새엄마
     품사: 명사
 ---
 000_KEYWORD: 새옹지마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63366
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3085,13 +3085,13 @@ imported:
     표제어: 새옹지마
     품사: 명사
     항목ID: 63366
-processed:
+result:
   맞춤법 검사:
     표제어: 새옹지마
     품사: 명사
 ---
 000_KEYWORD: 새우__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63367
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3127,13 +3127,13 @@ imported:
     표제어: 새우
     품사: 명사
     항목ID: 63367
-processed:
+result:
   맞춤법 검사:
     표제어: 새우
     품사: 명사
 ---
 000_KEYWORD: 새우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16235
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3169,13 +3169,13 @@ imported:
     활용:
     - 형태: 새우어
     - 형태: 새우니
-processed:
+result:
   맞춤법 검사:
     표제어: 새우다
     품사: 동사
 ---
 000_KEYWORD: 새우잠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63368
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3207,13 +3207,13 @@ imported:
     표제어: 새우잠
     품사: 명사
     항목ID: 63368
-processed:
+result:
   맞춤법 검사:
     표제어: 새우잠
     품사: 명사
 ---
 000_KEYWORD: 새우젓__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3223,13 +3223,13 @@ imported:
     표제어: 새우젓
     품사: 명사:보통:서술성
     항목ID: 14076
-processed:
+result:
   맞춤법 검사:
     표제어: 새우젓
     품사: 명사
 ---
 000_KEYWORD: 새우튀김__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63370
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3261,13 +3261,13 @@ imported:
     표제어: 새우튀김
     품사: 명사
     항목ID: 63370
-processed:
+result:
   맞춤법 검사:
     표제어: 새우튀김
     품사: 명사
 ---
 000_KEYWORD: 새잎__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63371
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3305,13 +3305,13 @@ imported:
     - 발음: 새임만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/63371_saeimman.wav
       형태: 새잎만
-processed:
+result:
   맞춤법 검사:
     표제어: 새잎
     품사: 명사
 ---
 000_KEYWORD: 새장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63372
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3343,13 +3343,13 @@ imported:
     표제어: 새장
     품사: 명사
     항목ID: 63372
-processed:
+result:
   맞춤법 검사:
     표제어: 새장
     품사: 명사
 ---
 000_KEYWORD: 새정치국민회의__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3358,13 +3358,13 @@ imported:
     표제어: 새정치국민회의
     품사: 명사:보통:서술성
     항목ID: 31856
-processed:
+result:
   맞춤법 검사:
     표제어: 새정치국민회의
     품사: 명사
 ---
 000_KEYWORD: 새정치민주연합__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3373,13 +3373,13 @@ imported:
     표제어: 새정치민주연합
     품사: 명사:보통:서술성
     항목ID: 31853
-processed:
+result:
   맞춤법 검사:
     표제어: 새정치민주연합
     품사: 명사
 ---
 000_KEYWORD: 새집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63373
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3417,13 +3417,13 @@ imported:
     - 발음: 새짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/63373_saejimman.wav
       형태: 새집만
-processed:
+result:
   맞춤법 검사:
     표제어: 새집
     품사: 명사
 ---
 000_KEYWORD: 새집__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63374
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3460,13 +3460,13 @@ imported:
     - 발음: 새ː짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/siot_2005/sae-jimman.wav
       형태: 새집만
-processed:
+result:
   맞춤법 검사:
     표제어: 새집
     품사: 명사
 ---
 000_KEYWORD: 새참__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63375
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3497,13 +3497,13 @@ imported:
     표제어: 새참
     품사: 명사
     항목ID: 63375
-processed:
+result:
   맞춤법 검사:
     표제어: 새참
     품사: 명사
 ---
 000_KEYWORD: 새천년민주당__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3512,13 +3512,13 @@ imported:
     표제어: 새천년민주당
     품사: 명사:보통:서술성
     항목ID: 31854
-processed:
+result:
   맞춤법 검사:
     표제어: 새천년민주당
     품사: 명사
 ---
 000_KEYWORD: 새초롬하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3528,13 +3528,13 @@ imported:
     표제어: 새초롬하다
     품사: 형용사
     항목ID: 14080
-processed:
+result:
   맞춤법 검사:
     표제어: 새초롬하다
     품사: 형용사
 ---
 000_KEYWORD: 새총__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63385
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3578,13 +3578,13 @@ imported:
     표제어: 새총
     품사: 명사
     항목ID: 63385
-processed:
+result:
   맞춤법 검사:
     표제어: 새총
     품사: 명사
 ---
 000_KEYWORD: 새치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63376
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3617,13 +3617,13 @@ imported:
     표제어: 새치
     품사: 명사
     항목ID: 63376
-processed:
+result:
   맞춤법 검사:
     표제어: 새치
     품사: 명사
 ---
 000_KEYWORD: 새치기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63377
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3663,13 +3663,13 @@ imported:
     표제어: 새치기
     품사: 명사
     항목ID: 63377
-processed:
+result:
   맞춤법 검사:
     표제어: 새치기
     품사: 명사
 ---
 000_KEYWORD: 새치기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63378
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3711,13 +3711,13 @@ imported:
     표제어: 새치기하다
     품사: 동사
     항목ID: 63378
-processed:
+result:
   맞춤법 검사:
     표제어: 새치기하다
     품사: 동사
 ---
 000_KEYWORD: 새치름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63379
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3757,13 +3757,13 @@ imported:
       형태: 새치름하니
     - 발음: 새치름함니다
       형태: 새치름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 새치름하다
     품사: 형용사
 ---
 000_KEYWORD: 새치미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63380
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3793,13 +3793,13 @@ imported:
     표제어: 새치미
     품사: 명사
     항목ID: 63380
-processed:
+result:
   맞춤법 검사:
     표제어: 새치미
     품사: 명사
 ---
 000_KEYWORD: 새침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63389
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3834,13 +3834,13 @@ imported:
     표제어: 새침
     품사: 명사
     항목ID: 63389
-processed:
+result:
   맞춤법 검사:
     표제어: 새침
     품사: 명사
 ---
 000_KEYWORD: 새침데기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63381
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3869,13 +3869,13 @@ imported:
     표제어: 새침데기
     품사: 명사
     항목ID: 63381
-processed:
+result:
   맞춤법 검사:
     표제어: 새침데기
     품사: 명사
 ---
 000_KEYWORD: 새침스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63382
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3912,7 +3912,7 @@ imported:
       형태: 새침스러우니
     - 발음: 새침스럽씀니다
       형태: 새침스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -3920,7 +3920,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 새침하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63384
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3948,13 +3948,13 @@ imported:
     표제어: 새침하다
     품사: 동사
     항목ID: 63384
-processed:
+result:
   맞춤법 검사:
     표제어: 새침하다
     품사: 동사
 ---
 000_KEYWORD: 새침하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63383
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -3993,13 +3993,13 @@ imported:
       형태: 새침하니
     - 발음: 새침함니다
       형태: 새침합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 새침하다
     품사: 형용사
 ---
 000_KEYWORD: 새카맣다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62653
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4117,7 +4117,7 @@ imported:
     - 발음: 새카마씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/62653_saekamasseumnida.wav
       형태: 새카맣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -4125,7 +4125,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 새콤달콤하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62655
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4167,13 +4167,13 @@ imported:
       형태: 새콤달콤하니
     - 발음: 새콤달콤함니다
       형태: 새콤달콤합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 새콤달콤하다
     품사: 형용사
 ---
 000_KEYWORD: 새콤하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62654
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4219,13 +4219,13 @@ imported:
       형태: 새콤하니
     - 발음: 새콤함니다
       형태: 새콤합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 새콤하다
     품사: 형용사
 ---
 000_KEYWORD: 새큼하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62656
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4268,13 +4268,13 @@ imported:
       형태: 새큼하니
     - 발음: 새큼함니다
       형태: 새큼합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 새큼하다
     품사: 형용사
 ---
 000_KEYWORD: 새터민__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4283,13 +4283,13 @@ imported:
     표제어: 새터민
     품사: 명사:보통:비서술성
     항목ID: 14088
-processed:
+result:
   맞춤법 검사:
     표제어: 새터민
     품사: 명사
 ---
 000_KEYWORD: 새털__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62659
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4326,13 +4326,13 @@ imported:
     표제어: 새털
     품사: 명사
     항목ID: 62659
-processed:
+result:
   맞춤법 검사:
     표제어: 새털
     품사: 명사
 ---
 000_KEYWORD: 새털구름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62660
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4360,13 +4360,13 @@ imported:
     표제어: 새털구름
     품사: 명사
     항목ID: 62660
-processed:
+result:
   맞춤법 검사:
     표제어: 새털구름
     품사: 명사
 ---
 000_KEYWORD: 새파랗다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62764
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4459,7 +4459,7 @@ imported:
     - 발음: 새파라씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62764_saeparasseumnida.wav
       형태: 새파랗습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -4467,7 +4467,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 새파래지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62917
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4518,7 +4518,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/62917_saeparaejeo.wav
       형태: 새파래져
     - 형태: 새파래지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -4526,7 +4526,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 새하얗다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62700
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4574,7 +4574,7 @@ imported:
     - 발음: 새하야씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62700_saehayasseumnida.wav
       형태: 새하얗습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -4582,7 +4582,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 새해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67897
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4619,13 +4619,13 @@ imported:
     표제어: 새해
     품사: 명사
     항목ID: 67897
-processed:
+result:
   맞춤법 검사:
     표제어: 새해
     품사: 명사
 ---
 000_KEYWORD: 새해맞이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90217
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4656,13 +4656,13 @@ imported:
     표제어: 새해맞이
     품사: 명사
     항목ID: 90217
-processed:
+result:
   맞춤법 검사:
     표제어: 새해맞이
     품사: 명사
 ---
 000_KEYWORD: 색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20231
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4764,13 +4764,13 @@ imported:
     - 발음: 생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/20231_saengman.wav
       형태: 색만
-processed:
+result:
   맞춤법 검사:
     표제어: 색
     품사: 명사
 ---
 000_KEYWORD: 색__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4779,13 +4779,13 @@ imported:
     표제어: 색
     품사: 명사:의존:단위성
     항목ID: 14092
-processed:
+result:
   맞춤법 검사:
     표제어: 색
     품사: 명사
 ---
 000_KEYWORD: 색감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62928
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4827,13 +4827,13 @@ imported:
     표제어: 색감
     품사: 명사
     항목ID: 62928
-processed:
+result:
   맞춤법 검사:
     표제어: 색감
     품사: 명사
 ---
 000_KEYWORD: 색골__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4843,13 +4843,13 @@ imported:
     표제어: 색골
     품사: 명사:보통:비서술성
     항목ID: 14094
-processed:
+result:
   맞춤법 검사:
     표제어: 색골
     품사: 명사
 ---
 000_KEYWORD: 색깔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57307
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4908,13 +4908,13 @@ imported:
     표제어: 색깔
     품사: 명사
     항목ID: 57307
-processed:
+result:
   맞춤법 검사:
     표제어: 색깔
     품사: 명사
 ---
 000_KEYWORD: 색깔론__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4923,13 +4923,13 @@ imported:
     표제어: 색깔론
     품사: 명사:보통:비서술성
     항목ID: 14096
-processed:
+result:
   맞춤법 검사:
     표제어: 색깔론
     품사: 명사
 ---
 000_KEYWORD: 색다르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29033
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -4971,7 +4971,7 @@ imported:
       형태: 색다르니
     - 발음: 색따름니다
       형태: 색다릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -4979,7 +4979,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 색동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63672
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5006,13 +5006,13 @@ imported:
     표제어: 색동
     품사: 명사
     항목ID: 63672
-processed:
+result:
   맞춤법 검사:
     표제어: 색동
     품사: 명사
 ---
 000_KEYWORD: 색동옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63673
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5052,13 +5052,13 @@ imported:
     - 발음: 색똥온만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/08000/63673_saekttongonman.wav
       형태: 색동옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 색동옷
     품사: 명사
 ---
 000_KEYWORD: 색동저고리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63674
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5086,13 +5086,13 @@ imported:
     표제어: 색동저고리
     품사: 명사
     항목ID: 63674
-processed:
+result:
   맞춤법 검사:
     표제어: 색동저고리
     품사: 명사
 ---
 000_KEYWORD: 색마__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5102,13 +5102,13 @@ imported:
     표제어: 색마
     품사: 명사:보통:비서술성
     항목ID: 14099
-processed:
+result:
   맞춤법 검사:
     표제어: 색마
     품사: 명사
 ---
 000_KEYWORD: 색맹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63675
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5133,13 +5133,13 @@ imported:
     표제어: 색맹
     품사: 명사
     항목ID: 63675
-processed:
+result:
   맞춤법 검사:
     표제어: 색맹
     품사: 명사
 ---
 000_KEYWORD: 색상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63676
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5184,13 +5184,13 @@ imported:
     표제어: 색상
     품사: 명사
     항목ID: 63676
-processed:
+result:
   맞춤법 검사:
     표제어: 색상
     품사: 명사
 ---
 000_KEYWORD: 색색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63677
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5246,13 +5246,13 @@ imported:
     - 발음: 색쌩만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63677_saekssaengman.wav
       형태: 색색만
-processed:
+result:
   맞춤법 검사:
     표제어: 색색
     품사: 명사
 ---
 000_KEYWORD: 색소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63678
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5282,13 +5282,13 @@ imported:
     표제어: 색소
     품사: 명사
     항목ID: 63678
-processed:
+result:
   맞춤법 검사:
     표제어: 색소
     품사: 명사
 ---
 000_KEYWORD: 색소폰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63679
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5318,13 +5318,13 @@ imported:
     표제어: 색소폰
     품사: 명사
     항목ID: 63679
-processed:
+result:
   맞춤법 검사:
     표제어: 색소폰
     품사: 명사
 ---
 000_KEYWORD: 색시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63750
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5383,13 +5383,13 @@ imported:
     표제어: 색시
     품사: 명사
     항목ID: 63750
-processed:
+result:
   맞춤법 검사:
     표제어: 색시
     품사: 명사
 ---
 000_KEYWORD: 색실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63771
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5419,13 +5419,13 @@ imported:
     표제어: 색실
     품사: 명사
     항목ID: 63771
-processed:
+result:
   맞춤법 검사:
     표제어: 색실
     품사: 명사
 ---
 000_KEYWORD: 색싯감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63772
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5461,13 +5461,13 @@ imported:
     표제어: 색싯감
     품사: 명사
     항목ID: 63772
-processed:
+result:
   맞춤법 검사:
     표제어: 색싯감
     품사: 명사
 ---
 000_KEYWORD: 색안경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63782
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5517,13 +5517,13 @@ imported:
     표제어: 색안경
     품사: 명사
     항목ID: 63782
-processed:
+result:
   맞춤법 검사:
     표제어: 색안경
     품사: 명사
 ---
 000_KEYWORD: 색연필__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16583
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5554,13 +5554,13 @@ imported:
     표제어: 색연필
     품사: 명사
     항목ID: 16583
-processed:
+result:
   맞춤법 검사:
     표제어: 색연필
     품사: 명사
 ---
 000_KEYWORD: 색유리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63785
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5593,13 +5593,13 @@ imported:
     표제어: 색유리
     품사: 명사
     항목ID: 63785
-processed:
+result:
   맞춤법 검사:
     표제어: 색유리
     품사: 명사
 ---
 000_KEYWORD: 색인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63787
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5648,13 +5648,13 @@ imported:
     표제어: 색인
     품사: 명사
     항목ID: 63787
-processed:
+result:
   맞춤법 검사:
     표제어: 색인
     품사: 명사
 ---
 000_KEYWORD: 색조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63789
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5717,13 +5717,13 @@ imported:
     표제어: 색조
     품사: 명사
     항목ID: 63789
-processed:
+result:
   맞춤법 검사:
     표제어: 색조
     품사: 명사
 ---
 000_KEYWORD: 색종이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63502
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5761,13 +5761,13 @@ imported:
     표제어: 색종이
     품사: 명사
     항목ID: 63502
-processed:
+result:
   맞춤법 검사:
     표제어: 색종이
     품사: 명사
 ---
 000_KEYWORD: 색즉시공__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5776,13 +5776,13 @@ imported:
     표제어: 색즉시공
     품사: 명사:보통:서술성
     항목ID: 14111
-processed:
+result:
   맞춤법 검사:
     표제어: 색즉시공
     품사: 명사
 ---
 000_KEYWORD: 색지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63503
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5821,13 +5821,13 @@ imported:
     표제어: 색지
     품사: 명사
     항목ID: 63503
-processed:
+result:
   맞춤법 검사:
     표제어: 색지
     품사: 명사
 ---
 000_KEYWORD: 색채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63504
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5887,13 +5887,13 @@ imported:
     표제어: 색채
     품사: 명사
     항목ID: 63504
-processed:
+result:
   맞춤법 검사:
     표제어: 색채
     품사: 명사
 ---
 000_KEYWORD: 색출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63667
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5922,13 +5922,13 @@ imported:
     표제어: 색출
     품사: 명사
     항목ID: 63667
-processed:
+result:
   맞춤법 검사:
     표제어: 색출
     품사: 명사
 ---
 000_KEYWORD: 색출하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63668
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5959,13 +5959,13 @@ imported:
     표제어: 색출하다
     품사: 동사
     항목ID: 63668
-processed:
+result:
   맞춤법 검사:
     표제어: 색출하다
     품사: 동사
 ---
 000_KEYWORD: 색칠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63669
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -5998,13 +5998,13 @@ imported:
     표제어: 색칠
     품사: 명사
     항목ID: 63669
-processed:
+result:
   맞춤법 검사:
     표제어: 색칠
     품사: 명사
 ---
 000_KEYWORD: 색칠하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63670
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6038,13 +6038,13 @@ imported:
     표제어: 색칠하다
     품사: 동사
     항목ID: 63670
-processed:
+result:
   맞춤법 검사:
     표제어: 색칠하다
     품사: 동사
 ---
 000_KEYWORD: 샌님__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63671
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6081,13 +6081,13 @@ imported:
     표제어: 샌님
     품사: 명사
     항목ID: 63671
-processed:
+result:
   맞춤법 검사:
     표제어: 샌님
     품사: 명사
 ---
 000_KEYWORD: 샌드백__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6098,13 +6098,13 @@ imported:
     표제어: 샌드백
     품사: 명사:보통:비서술성
     항목ID: 14117
-processed:
+result:
   맞춤법 검사:
     표제어: 샌드백
     품사: 명사
 ---
 000_KEYWORD: 샌드위치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31483
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6153,13 +6153,13 @@ imported:
     표제어: 샌드위치
     품사: 명사
     항목ID: 31483
-processed:
+result:
   맞춤법 검사:
     표제어: 샌드위치
     품사: 명사
 ---
 000_KEYWORD: 샌들__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62927
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6192,13 +6192,13 @@ imported:
     표제어: 샌들
     품사: 명사
     항목ID: 62927
-processed:
+result:
   맞춤법 검사:
     표제어: 샌들
     품사: 명사
 ---
 000_KEYWORD: 샌디에이고__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6208,13 +6208,13 @@ imported:
     표제어: 샌디에이고
     품사: 명사:보통:서술성
     항목ID: 14120
-processed:
+result:
   맞춤법 검사:
     표제어: 샌디에이고
     품사: 명사
 ---
 000_KEYWORD: 샌프란시스코__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6225,13 +6225,13 @@ imported:
     표제어: 샌프란시스코
     품사: 명사:보통:서술성
     항목ID: 14121
-processed:
+result:
   맞춤법 검사:
     표제어: 샌프란시스코
     품사: 명사
 ---
 000_KEYWORD: 샐러드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62921
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6261,13 +6261,13 @@ imported:
     표제어: 샐러드
     품사: 명사
     항목ID: 62921
-processed:
+result:
   맞춤법 검사:
     표제어: 샐러드
     품사: 명사
 ---
 000_KEYWORD: 샐러리맨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62924
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6293,13 +6293,13 @@ imported:
     표제어: 샐러리맨
     품사: 명사
     항목ID: 62924
-processed:
+result:
   맞춤법 검사:
     표제어: 샐러리맨
     품사: 명사
 ---
 000_KEYWORD: 샐비어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6310,13 +6310,13 @@ imported:
     표제어: 샐비어
     품사: 명사:보통:비서술성
     항목ID: 14124
-processed:
+result:
   맞춤법 검사:
     표제어: 샐비어
     품사: 명사
 ---
 000_KEYWORD: 샐쭉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63411
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6363,13 +6363,13 @@ imported:
     표제어: 샐쭉
     품사: 부사
     항목ID: 63411
-processed:
+result:
   맞춤법 검사:
     표제어: 샐쭉
     품사: 부사
 ---
 000_KEYWORD: 샐쭉거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63412
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6426,13 +6426,13 @@ imported:
     표제어: 샐쭉거리다
     품사: 동사
     항목ID: 63412
-processed:
+result:
   맞춤법 검사:
     표제어: 샐쭉거리다
     품사: 동사
 ---
 000_KEYWORD: 샐쭉대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88611
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6482,13 +6482,13 @@ imported:
     표제어: 샐쭉대다
     품사: 동사
     항목ID: 88611
-processed:
+result:
   맞춤법 검사:
     표제어: 샐쭉대다
     품사: 동사
 ---
 000_KEYWORD: 샐쭉샐쭉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88612
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6525,13 +6525,13 @@ imported:
     표제어: 샐쭉샐쭉
     품사: 부사
     항목ID: 88612
-processed:
+result:
   맞춤법 검사:
     표제어: 샐쭉샐쭉
     품사: 부사
 ---
 000_KEYWORD: 샐쭉샐쭉하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88613
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6580,13 +6580,13 @@ imported:
     표제어: 샐쭉샐쭉하다
     품사: 동사
     항목ID: 88613
-processed:
+result:
   맞춤법 검사:
     표제어: 샐쭉샐쭉하다
     품사: 동사
 ---
 000_KEYWORD: 샐쭉샐쭉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88614
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6624,13 +6624,13 @@ imported:
       형태: 샐쭉샐쭉하니
     - 발음: 샐쭉쌜쭈캄니다
       형태: 샐쭉샐쭉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 샐쭉샐쭉하다
     품사: 형용사
 ---
 000_KEYWORD: 샐쭉하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63413
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6671,13 +6671,13 @@ imported:
     표제어: 샐쭉하다
     품사: 동사
     항목ID: 63413
-processed:
+result:
   맞춤법 검사:
     표제어: 샐쭉하다
     품사: 동사
 ---
 000_KEYWORD: 샐쭉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63415
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6717,13 +6717,13 @@ imported:
       형태: 샐쭉하니
     - 발음: 샐쭈캄니다
       형태: 샐쭉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 샐쭉하다
     품사: 형용사
 ---
 000_KEYWORD: 샘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62754
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6757,13 +6757,13 @@ imported:
     표제어: 샘
     품사: 명사
     항목ID: 62754
-processed:
+result:
   맞춤법 검사:
     표제어: 샘
     품사: 명사
 ---
 000_KEYWORD: 샘__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62755
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6826,13 +6826,13 @@ imported:
     표제어: 샘
     품사: 명사
     항목ID: 62755
-processed:
+result:
   맞춤법 검사:
     표제어: 샘
     품사: 명사
 ---
 000_KEYWORD: 샘내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62760
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6871,13 +6871,13 @@ imported:
     - 발음: 샘ː내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/62760_saem-naeni.wav
       형태: 샘내니
-processed:
+result:
   맞춤법 검사:
     표제어: 샘내다
     품사: 동사
 ---
 000_KEYWORD: 샘물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62751
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6909,13 +6909,13 @@ imported:
     표제어: 샘물
     품사: 명사
     항목ID: 62751
-processed:
+result:
   맞춤법 검사:
     표제어: 샘물
     품사: 명사
 ---
 000_KEYWORD: 샘솟다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62752
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6956,7 +6956,7 @@ imported:
     - 발음: 샘ː손는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62752_saem-sonneun.wav
       형태: 샘솟는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -6964,7 +6964,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 샘터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62749
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -6995,13 +6995,13 @@ imported:
     표제어: 샘터
     품사: 명사
     항목ID: 62749
-processed:
+result:
   맞춤법 검사:
     표제어: 샘터
     품사: 명사
 ---
 000_KEYWORD: 샘플__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62704
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7041,13 +7041,13 @@ imported:
     표제어: 샘플
     품사: 명사
     항목ID: 62704
-processed:
+result:
   맞춤법 검사:
     표제어: 샘플
     품사: 명사
 ---
 000_KEYWORD: 샛-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70696
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7074,11 +7074,11 @@ imported:
     표제어: 샛-
     품사: 접사
     항목ID: 70696
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 샛강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62542
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7110,13 +7110,13 @@ imported:
     표제어: 샛강
     품사: 명사
     항목ID: 62542
-processed:
+result:
   맞춤법 검사:
     표제어: 샛강
     품사: 명사
 ---
 000_KEYWORD: 샛길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62543
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7168,13 +7168,13 @@ imported:
     표제어: 샛길
     품사: 명사
     항목ID: 62543
-processed:
+result:
   맞춤법 검사:
     표제어: 샛길
     품사: 명사
 ---
 000_KEYWORD: 샛노랗다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62544
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7215,7 +7215,7 @@ imported:
     - 발음: 샌노라씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62544_saennorasseumnida.wav
       형태: 샛노랗습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -7223,7 +7223,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 샛문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62545
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7276,13 +7276,13 @@ imported:
     표제어: 샛문
     품사: 명사
     항목ID: 62545
-processed:
+result:
   맞춤법 검사:
     표제어: 샛문
     품사: 명사
 ---
 000_KEYWORD: 샛별__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62547
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7328,13 +7328,13 @@ imported:
     표제어: 샛별
     품사: 명사
     항목ID: 62547
-processed:
+result:
   맞춤법 검사:
     표제어: 샛별
     품사: 명사
 ---
 000_KEYWORD: 생-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70697
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7426,11 +7426,11 @@ imported:
     표제어: 생-
     품사: 접사
     항목ID: 70697
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16236
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7468,13 +7468,13 @@ imported:
     표제어: 생
     품사: 명사
     항목ID: 16236
-processed:
+result:
   맞춤법 검사:
     표제어: 생
     품사: 명사
 ---
 000_KEYWORD: 생가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62548
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7516,13 +7516,13 @@ imported:
     표제어: 생가
     품사: 명사
     항목ID: 62548
-processed:
+result:
   맞춤법 검사:
     표제어: 생가
     품사: 명사
 ---
 000_KEYWORD: 생가슴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62549
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7548,13 +7548,13 @@ imported:
     표제어: 생가슴
     품사: 명사
     항목ID: 62549
-processed:
+result:
   맞춤법 검사:
     표제어: 생가슴
     품사: 명사
 ---
 000_KEYWORD: 생가죽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62550
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7590,13 +7590,13 @@ imported:
     - 발음: 생가중만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/62550_saenggajungman.wav
       형태: 생가죽만
-processed:
+result:
   맞춤법 검사:
     표제어: 생가죽
     품사: 명사
 ---
 000_KEYWORD: 생각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58162
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7740,13 +7740,13 @@ imported:
     - 발음: 생강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58162_saenggangman.wav
       형태: 생각만
-processed:
+result:
   맞춤법 검사:
     표제어: 생각
     품사: 명사
 ---
 000_KEYWORD: 생각나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62323
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7820,13 +7820,13 @@ imported:
     - 발음: 생강나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62323_saenggangnani.wav
       형태: 생각나니
-processed:
+result:
   맞춤법 검사:
     표제어: 생각나다
     품사: 동사
 ---
 000_KEYWORD: 생각되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71100
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7858,13 +7858,13 @@ imported:
     표제어: 생각되다
     품사: 동사
     항목ID: 71100
-processed:
+result:
   맞춤법 검사:
     표제어: 생각되다
     품사: 동사
 ---
 000_KEYWORD: 생각하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66376
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -7981,13 +7981,13 @@ imported:
     표제어: 생각하다
     품사: 동사
     항목ID: 66376
-processed:
+result:
   맞춤법 검사:
     표제어: 생각하다
     품사: 동사
 ---
 000_KEYWORD: 생갈비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62551
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8017,13 +8017,13 @@ imported:
     표제어: 생갈비
     품사: 명사
     항목ID: 62551
-processed:
+result:
   맞춤법 검사:
     표제어: 생갈비
     품사: 명사
 ---
 000_KEYWORD: 생감자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62552
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8049,13 +8049,13 @@ imported:
     표제어: 생감자
     품사: 명사
     항목ID: 62552
-processed:
+result:
   맞춤법 검사:
     표제어: 생감자
     품사: 명사
 ---
 000_KEYWORD: 생강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62553
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8092,13 +8092,13 @@ imported:
     표제어: 생강
     품사: 명사
     항목ID: 62553
-processed:
+result:
   맞춤법 검사:
     표제어: 생강
     품사: 명사
 ---
 000_KEYWORD: 생강즙__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8108,13 +8108,13 @@ imported:
     표제어: 생강즙
     품사: 명사:보통:서술성
     항목ID: 14140
-processed:
+result:
   맞춤법 검사:
     표제어: 생강즙
     품사: 명사
 ---
 000_KEYWORD: 생강차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62554
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8146,13 +8146,13 @@ imported:
     표제어: 생강차
     품사: 명사
     항목ID: 62554
-processed:
+result:
   맞춤법 검사:
     표제어: 생강차
     품사: 명사
 ---
 000_KEYWORD: 생것__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62555
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8191,13 +8191,13 @@ imported:
     - 발음: 생건만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/62555_saenggeonman.wav
       형태: 생것만
-processed:
+result:
   맞춤법 검사:
     표제어: 생것
     품사: 명사
 ---
 000_KEYWORD: 생겨나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62480
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8229,17 +8229,17 @@ imported:
     활용:
     - 형태: 생겨나
     - 형태: 생겨나니
-processed:
+result:
   맞춤법 검사:
     표제어: 생겨나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 생경하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62557
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8294,13 +8294,13 @@ imported:
       형태: 생경하니
     - 발음: 생경함니다
       형태: 생경합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 생경하다
     품사: 형용사
 ---
 000_KEYWORD: 생계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62559
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8337,13 +8337,13 @@ imported:
     표제어: 생계
     품사: 명사
     항목ID: 62559
-processed:
+result:
   맞춤법 검사:
     표제어: 생계
     품사: 명사
 ---
 000_KEYWORD: 생계비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62560
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8382,13 +8382,13 @@ imported:
     표제어: 생계비
     품사: 명사
     항목ID: 62560
-processed:
+result:
   맞춤법 검사:
     표제어: 생계비
     품사: 명사
 ---
 000_KEYWORD: 생계형__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8397,13 +8397,13 @@ imported:
     표제어: 생계형
     품사: 명사:보통:서술성
     항목ID: 14143
-processed:
+result:
   맞춤법 검사:
     표제어: 생계형
     품사: 명사
 ---
 000_KEYWORD: 생고기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62562
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8448,13 +8448,13 @@ imported:
     표제어: 생고기
     품사: 명사
     항목ID: 62562
-processed:
+result:
   맞춤법 검사:
     표제어: 생고기
     품사: 명사
 ---
 000_KEYWORD: 생고무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62563
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8483,13 +8483,13 @@ imported:
     표제어: 생고무
     품사: 명사
     항목ID: 62563
-processed:
+result:
   맞춤법 검사:
     표제어: 생고무
     품사: 명사
 ---
 000_KEYWORD: 생고생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62564
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8516,13 +8516,13 @@ imported:
     표제어: 생고생
     품사: 명사
     항목ID: 62564
-processed:
+result:
   맞춤법 검사:
     표제어: 생고생
     품사: 명사
 ---
 000_KEYWORD: 생과부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62565
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8567,13 +8567,13 @@ imported:
     표제어: 생과부
     품사: 명사
     항목ID: 62565
-processed:
+result:
   맞춤법 검사:
     표제어: 생과부
     품사: 명사
 ---
 000_KEYWORD: 생굴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62566
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8601,13 +8601,13 @@ imported:
     표제어: 생굴
     품사: 명사
     항목ID: 62566
-processed:
+result:
   맞춤법 검사:
     표제어: 생굴
     품사: 명사
 ---
 000_KEYWORD: 생글거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62567
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8642,13 +8642,13 @@ imported:
     표제어: 생글거리다
     품사: 동사
     항목ID: 62567
-processed:
+result:
   맞춤법 검사:
     표제어: 생글거리다
     품사: 동사
 ---
 000_KEYWORD: 생글대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88615
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8681,13 +8681,13 @@ imported:
     표제어: 생글대다
     품사: 동사
     항목ID: 88615
-processed:
+result:
   맞춤법 검사:
     표제어: 생글대다
     품사: 동사
 ---
 000_KEYWORD: 생글생글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62568
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8715,13 +8715,13 @@ imported:
     표제어: 생글생글
     품사: 부사
     항목ID: 62568
-processed:
+result:
   맞춤법 검사:
     표제어: 생글생글
     품사: 부사
 ---
 000_KEYWORD: 생글생글하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88616
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8757,13 +8757,13 @@ imported:
     표제어: 생글생글하다
     품사: 동사
     항목ID: 88616
-processed:
+result:
   맞춤법 검사:
     표제어: 생글생글하다
     품사: 동사
 ---
 000_KEYWORD: 생글하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88617
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8791,13 +8791,13 @@ imported:
     표제어: 생글하다
     품사: 동사
     항목ID: 88617
-processed:
+result:
   맞춤법 검사:
     표제어: 생글하다
     품사: 동사
 ---
 000_KEYWORD: 생긋__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62569
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8834,13 +8834,13 @@ imported:
     표제어: 생긋
     품사: 부사
     항목ID: 62569
-processed:
+result:
   맞춤법 검사:
     표제어: 생긋
     품사: 부사
 ---
 000_KEYWORD: 생긋이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62571
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8868,13 +8868,13 @@ imported:
     표제어: 생긋이
     품사: 부사
     항목ID: 62571
-processed:
+result:
   맞춤법 검사:
     표제어: 생긋이
     품사: 부사
 ---
 000_KEYWORD: 생기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16584
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8903,13 +8903,13 @@ imported:
     표제어: 생기
     품사: 명사
     항목ID: 16584
-processed:
+result:
   맞춤법 검사:
     표제어: 생기
     품사: 명사
 ---
 000_KEYWORD: 생기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67898
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -8991,13 +8991,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67898_saenggiyeo.wav
       형태: 생기어
     - 형태: 생기니
-processed:
+result:
   맞춤법 검사:
     표제어: 생기다
     품사: 동사
 ---
 000_KEYWORD: 생기다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67899
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9041,7 +9041,7 @@ imported:
       형태: 생기니
     - 발음: 생김니다
       형태: 생깁니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-게
@@ -9049,7 +9049,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 생기롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62572
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9088,7 +9088,7 @@ imported:
       형태: 생기로우니
     - 발음: 생기롭씀니다
       형태: 생기롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -9096,7 +9096,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 생기발랄하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62573
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9136,13 +9136,13 @@ imported:
       형태: 생기발랄하니
     - 발음: 생기발랄함니다
       형태: 생기발랄합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 생기발랄하다
     품사: 형용사
 ---
 000_KEYWORD: 생김새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62574
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9173,13 +9173,13 @@ imported:
     표제어: 생김새
     품사: 명사
     항목ID: 62574
-processed:
+result:
   맞춤법 검사:
     표제어: 생김새
     품사: 명사
 ---
 000_KEYWORD: 생김치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62576
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9213,13 +9213,13 @@ imported:
     표제어: 생김치
     품사: 명사
     항목ID: 62576
-processed:
+result:
   맞춤법 검사:
     표제어: 생김치
     품사: 명사
 ---
 000_KEYWORD: 생난리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62577
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9246,13 +9246,13 @@ imported:
     표제어: 생난리
     품사: 명사
     항목ID: 62577
-processed:
+result:
   맞춤법 검사:
     표제어: 생난리
     품사: 명사
 ---
 000_KEYWORD: 생년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62578
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9280,13 +9280,13 @@ imported:
     표제어: 생년
     품사: 명사
     항목ID: 62578
-processed:
+result:
   맞춤법 검사:
     표제어: 생년
     품사: 명사
 ---
 000_KEYWORD: 생년월일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62580
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9317,13 +9317,13 @@ imported:
     표제어: 생년월일
     품사: 명사
     항목ID: 62580
-processed:
+result:
   맞춤법 검사:
     표제어: 생년월일
     품사: 명사
 ---
 000_KEYWORD: 생동감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62581
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9354,13 +9354,13 @@ imported:
     표제어: 생동감
     품사: 명사
     항목ID: 62581
-processed:
+result:
   맞춤법 검사:
     표제어: 생동감
     품사: 명사
 ---
 000_KEYWORD: 생동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62582
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9390,13 +9390,13 @@ imported:
     표제어: 생동하다
     품사: 동사
     항목ID: 62582
-processed:
+result:
   맞춤법 검사:
     표제어: 생동하다
     품사: 동사
 ---
 000_KEYWORD: 생득적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62583
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9426,13 +9426,13 @@ imported:
     표제어: 생득적
     품사: 관형사
     항목ID: 62583
-processed:
+result:
   맞춤법 검사:
     표제어: 생득적
     품사: 관형사
 ---
 000_KEYWORD: 생득적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62585
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9461,13 +9461,13 @@ imported:
     표제어: 생득적
     품사: 명사
     항목ID: 62585
-processed:
+result:
   맞춤법 검사:
     표제어: 생득적
     품사: 명사
 ---
 000_KEYWORD: 생때같다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62586
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9519,13 +9519,13 @@ imported:
       형태: 생때같으니
     - 발음: 생때갇씀니다
       형태: 생때같습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 생때같다
     품사: 형용사
 ---
 000_KEYWORD: 생떼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62587
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9553,13 +9553,13 @@ imported:
     표제어: 생떼
     품사: 명사
     항목ID: 62587
-processed:
+result:
   맞춤법 검사:
     표제어: 생떼
     품사: 명사
 ---
 000_KEYWORD: 생략__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62588
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9595,13 +9595,13 @@ imported:
     - 발음: 생냥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/62588_saengnyangman.wav
       형태: 생략만
-processed:
+result:
   맞춤법 검사:
     표제어: 생략
     품사: 명사
 ---
 000_KEYWORD: 생략되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63025
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9632,13 +9632,13 @@ imported:
     표제어: 생략되다
     품사: 동사
     항목ID: 63025
-processed:
+result:
   맞춤법 검사:
     표제어: 생략되다
     품사: 동사
 ---
 000_KEYWORD: 생략하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63026
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9667,13 +9667,13 @@ imported:
     표제어: 생략하다
     품사: 동사
     항목ID: 63026
-processed:
+result:
   맞춤법 검사:
     표제어: 생략하다
     품사: 동사
 ---
 000_KEYWORD: 생로병사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63028
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9701,13 +9701,13 @@ imported:
     표제어: 생로병사
     품사: 명사
     항목ID: 63028
-processed:
+result:
   맞춤법 검사:
     표제어: 생로병사
     품사: 명사
 ---
 000_KEYWORD: 생리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63030
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9768,13 +9768,13 @@ imported:
     표제어: 생리
     품사: 명사
     항목ID: 63030
-processed:
+result:
   맞춤법 검사:
     표제어: 생리
     품사: 명사
 ---
 000_KEYWORD: 생리대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63073
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9806,13 +9806,13 @@ imported:
     표제어: 생리대
     품사: 명사
     항목ID: 63073
-processed:
+result:
   맞춤법 검사:
     표제어: 생리대
     품사: 명사
 ---
 000_KEYWORD: 생리적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63093
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9851,13 +9851,13 @@ imported:
     표제어: 생리적
     품사: 관형사
     항목ID: 63093
-processed:
+result:
   맞춤법 검사:
     표제어: 생리적
     품사: 관형사
 ---
 000_KEYWORD: 생리적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63099
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9895,13 +9895,13 @@ imported:
     표제어: 생리적
     품사: 명사
     항목ID: 63099
-processed:
+result:
   맞춤법 검사:
     표제어: 생리적
     품사: 명사
 ---
 000_KEYWORD: 생리통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63080
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -9929,13 +9929,13 @@ imported:
     표제어: 생리통
     품사: 명사
     항목ID: 63080
-processed:
+result:
   맞춤법 검사:
     표제어: 생리통
     품사: 명사
 ---
 000_KEYWORD: 생리학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9945,13 +9945,13 @@ imported:
     표제어: 생리학
     품사: 명사:보통:서술성
     항목ID: 14161
-processed:
+result:
   맞춤법 검사:
     표제어: 생리학
     품사: 명사
 ---
 000_KEYWORD: 생리학적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9961,13 +9961,13 @@ imported:
     표제어: 생리학적
     품사: 명사:보통:서술성
     항목ID: 14162
-processed:
+result:
   맞춤법 검사:
     표제어: 생리학적
     품사: 명사
 ---
 000_KEYWORD: 생매장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63244
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10006,13 +10006,13 @@ imported:
     표제어: 생매장
     품사: 명사
     항목ID: 63244
-processed:
+result:
   맞춤법 검사:
     표제어: 생매장
     품사: 명사
 ---
 000_KEYWORD: 생매장되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63245
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10057,13 +10057,13 @@ imported:
     표제어: 생매장되다
     품사: 동사
     항목ID: 63245
-processed:
+result:
   맞춤법 검사:
     표제어: 생매장되다
     품사: 동사
 ---
 000_KEYWORD: 생매장하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10073,13 +10073,13 @@ imported:
     표제어: 생매장하다
     품사: 동사
     항목ID: 14164
-processed:
+result:
   맞춤법 검사:
     표제어: 생매장하다
     품사: 동사
 ---
 000_KEYWORD: 생맥주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63117
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10112,13 +10112,13 @@ imported:
     표제어: 생맥주
     품사: 명사
     항목ID: 63117
-processed:
+result:
   맞춤법 검사:
     표제어: 생맥주
     품사: 명사
 ---
 000_KEYWORD: 생머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63127
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10153,13 +10153,13 @@ imported:
     표제어: 생머리
     품사: 명사
     항목ID: 63127
-processed:
+result:
   맞춤법 검사:
     표제어: 생머리
     품사: 명사
 ---
 000_KEYWORD: 생면부지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63130
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10187,13 +10187,13 @@ imported:
     표제어: 생면부지
     품사: 명사
     항목ID: 63130
-processed:
+result:
   맞춤법 검사:
     표제어: 생면부지
     품사: 명사
 ---
 000_KEYWORD: 생명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29034
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10262,13 +10262,13 @@ imported:
     표제어: 생명
     품사: 명사
     항목ID: 29034
-processed:
+result:
   맞춤법 검사:
     표제어: 생명
     품사: 명사
 ---
 000_KEYWORD: 생명감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63268
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10296,13 +10296,13 @@ imported:
     표제어: 생명감
     품사: 명사
     항목ID: 63268
-processed:
+result:
   맞춤법 검사:
     표제어: 생명감
     품사: 명사
 ---
 000_KEYWORD: 생명공학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10312,13 +10312,13 @@ imported:
     표제어: 생명공학
     품사: 명사:보통:서술성
     항목ID: 14167
-processed:
+result:
   맞춤법 검사:
     표제어: 생명공학
     품사: 명사
 ---
 000_KEYWORD: 생명과학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10327,13 +10327,13 @@ imported:
     표제어: 생명과학
     품사: 명사:보통:서술성
     항목ID: 14168
-processed:
+result:
   맞춤법 검사:
     표제어: 생명과학
     품사: 명사
 ---
 000_KEYWORD: 생명권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63275
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10364,13 +10364,13 @@ imported:
     표제어: 생명권
     품사: 명사
     항목ID: 63275
-processed:
+result:
   맞춤법 검사:
     표제어: 생명권
     품사: 명사
 ---
 000_KEYWORD: 생명력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63319
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10422,13 +10422,13 @@ imported:
     - 발음: 생명녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63319_saengmyeongnyeongman.wav
       형태: 생명력만
-processed:
+result:
   맞춤법 검사:
     표제어: 생명력
     품사: 명사
 ---
 000_KEYWORD: 생명보험__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10437,13 +10437,13 @@ imported:
     표제어: 생명보험
     품사: 명사:보통:비서술성
     항목ID: 14170
-processed:
+result:
   맞춤법 검사:
     표제어: 생명보험
     품사: 명사
 ---
 000_KEYWORD: 생명수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63276
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10470,13 +10470,13 @@ imported:
     표제어: 생명수
     품사: 명사
     항목ID: 63276
-processed:
+result:
   맞춤법 검사:
     표제어: 생명수
     품사: 명사
 ---
 000_KEYWORD: 생명줄__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10485,13 +10485,13 @@ imported:
     표제어: 생명줄
     품사: 명사:보통:서술성
     항목ID: 14171
-processed:
+result:
   맞춤법 검사:
     표제어: 생명줄
     품사: 명사
 ---
 000_KEYWORD: 생명체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63318
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10520,13 +10520,13 @@ imported:
     표제어: 생명체
     품사: 명사
     항목ID: 63318
-processed:
+result:
   맞춤법 검사:
     표제어: 생명체
     품사: 명사
 ---
 000_KEYWORD: 생모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63292
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10578,13 +10578,13 @@ imported:
     표제어: 생모
     품사: 명사
     항목ID: 63292
-processed:
+result:
   맞춤법 검사:
     표제어: 생모
     품사: 명사
 ---
 000_KEYWORD: 생목숨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63317
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10622,13 +10622,13 @@ imported:
     표제어: 생목숨
     품사: 명사
     항목ID: 63317
-processed:
+result:
   맞춤법 검사:
     표제어: 생목숨
     품사: 명사
 ---
 000_KEYWORD: 생물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29038
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10697,13 +10697,13 @@ imported:
     표제어: 생물
     품사: 명사
     항목ID: 29038
-processed:
+result:
   맞춤법 검사:
     표제어: 생물
     품사: 명사
 ---
 000_KEYWORD: 생물정보학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10713,13 +10713,13 @@ imported:
     표제어: 생물정보학
     품사: 명사:보통:서술성
     항목ID: 14175
-processed:
+result:
   맞춤법 검사:
     표제어: 생물정보학
     품사: 명사
 ---
 000_KEYWORD: 생물체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63401
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10750,13 +10750,13 @@ imported:
     표제어: 생물체
     품사: 명사
     항목ID: 63401
-processed:
+result:
   맞춤법 검사:
     표제어: 생물체
     품사: 명사
 ---
 000_KEYWORD: 생물학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63403
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10798,13 +10798,13 @@ imported:
     - 발음: 생물항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63403_saengmulhangman.wav
       형태: 생물학만
-processed:
+result:
   맞춤법 검사:
     표제어: 생물학
     품사: 명사
 ---
 000_KEYWORD: 생물학자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10813,13 +10813,13 @@ imported:
     표제어: 생물학자
     품사: 명사:보통:비서술성
     항목ID: 14178
-processed:
+result:
   맞춤법 검사:
     표제어: 생물학자
     품사: 명사
 ---
 000_KEYWORD: 생물학적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10828,13 +10828,13 @@ imported:
     표제어: 생물학적
     품사: 명사:보통:서술성
     항목ID: 14179
-processed:
+result:
   맞춤법 검사:
     표제어: 생물학적
     품사: 명사
 ---
 000_KEYWORD: 생방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63388
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10866,13 +10866,13 @@ imported:
     표제어: 생방
     품사: 명사
     항목ID: 63388
-processed:
+result:
   맞춤법 검사:
     표제어: 생방
     품사: 명사
 ---
 000_KEYWORD: 생방송__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16586
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10909,13 +10909,13 @@ imported:
     표제어: 생방송
     품사: 명사
     항목ID: 16586
-processed:
+result:
   맞춤법 검사:
     표제어: 생방송
     품사: 명사
 ---
 000_KEYWORD: 생방송하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63390
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -10944,13 +10944,13 @@ imported:
     표제어: 생방송하다
     품사: 동사
     항목ID: 63390
-processed:
+result:
   맞춤법 검사:
     표제어: 생방송하다
     품사: 동사
 ---
 000_KEYWORD: 생부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63396
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11002,13 +11002,13 @@ imported:
     표제어: 생부
     품사: 명사
     항목ID: 63396
-processed:
+result:
   맞춤법 검사:
     표제어: 생부
     품사: 명사
 ---
 000_KEYWORD: 생부모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63397
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11040,13 +11040,13 @@ imported:
     표제어: 생부모
     품사: 명사
     항목ID: 63397
-processed:
+result:
   맞춤법 검사:
     표제어: 생부모
     품사: 명사
 ---
 000_KEYWORD: 생사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63398
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11080,13 +11080,13 @@ imported:
     표제어: 생사
     품사: 명사
     항목ID: 63398
-processed:
+result:
   맞춤법 검사:
     표제어: 생사
     품사: 명사
 ---
 000_KEYWORD: 생사람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63400
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11123,13 +11123,13 @@ imported:
     표제어: 생사람
     품사: 명사
     항목ID: 63400
-processed:
+result:
   맞춤법 검사:
     표제어: 생사람
     품사: 명사
 ---
 000_KEYWORD: 생산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16587
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11161,13 +11161,13 @@ imported:
     표제어: 생산
     품사: 명사
     항목ID: 16587
-processed:
+result:
   맞춤법 검사:
     표제어: 생산
     품사: 명사
 ---
 000_KEYWORD: 생산되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16238
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11198,13 +11198,13 @@ imported:
     표제어: 생산되다
     품사: 동사
     항목ID: 16238
-processed:
+result:
   맞춤법 검사:
     표제어: 생산되다
     품사: 동사
 ---
 000_KEYWORD: 생산라인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11213,13 +11213,13 @@ imported:
     표제어: 생산라인
     품사: 명사:보통:비서술성
     항목ID: 14184
-processed:
+result:
   맞춤법 검사:
     표제어: 생산라인
     품사: 명사
 ---
 000_KEYWORD: 생산량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74236
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11257,13 +11257,13 @@ imported:
     표제어: 생산량
     품사: 명사
     항목ID: 74236
-processed:
+result:
   맞춤법 검사:
     표제어: 생산량
     품사: 명사
 ---
 000_KEYWORD: 생산력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16589
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11301,13 +11301,13 @@ imported:
     - 발음: 생산녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/16589_saengsannyeongman.wav
       형태: 생산력만
-processed:
+result:
   맞춤법 검사:
     표제어: 생산력
     품사: 명사
 ---
 000_KEYWORD: 생산물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74245
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11335,13 +11335,13 @@ imported:
     표제어: 생산물
     품사: 명사
     항목ID: 74245
-processed:
+result:
   맞춤법 검사:
     표제어: 생산물
     품사: 명사
 ---
 000_KEYWORD: 생산비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74255
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11369,13 +11369,13 @@ imported:
     표제어: 생산비
     품사: 명사
     항목ID: 74255
-processed:
+result:
   맞춤법 검사:
     표제어: 생산비
     품사: 명사
 ---
 000_KEYWORD: 생산성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74289
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11405,13 +11405,13 @@ imported:
     표제어: 생산성
     품사: 명사
     항목ID: 74289
-processed:
+result:
   맞춤법 검사:
     표제어: 생산성
     품사: 명사
 ---
 000_KEYWORD: 생산액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74292
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11457,13 +11457,13 @@ imported:
     - 발음: 생사냉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/74292_saengsanaengman.wav
       형태: 생산액만
-processed:
+result:
   맞춤법 검사:
     표제어: 생산액
     품사: 명사
 ---
 000_KEYWORD: 생산자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16590
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11497,13 +11497,13 @@ imported:
     표제어: 생산자
     품사: 명사
     항목ID: 16590
-processed:
+result:
   맞춤법 검사:
     표제어: 생산자
     품사: 명사
 ---
 000_KEYWORD: 생산재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74297
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11531,13 +11531,13 @@ imported:
     표제어: 생산재
     품사: 명사
     항목ID: 74297
-processed:
+result:
   맞춤법 검사:
     표제어: 생산재
     품사: 명사
 ---
 000_KEYWORD: 생산적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74345
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11580,13 +11580,13 @@ imported:
     표제어: 생산적
     품사: 관형사
     항목ID: 74345
-processed:
+result:
   맞춤법 검사:
     표제어: 생산적
     품사: 관형사
 ---
 000_KEYWORD: 생산적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74342
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11629,13 +11629,13 @@ imported:
     표제어: 생산적
     품사: 명사
     항목ID: 74342
-processed:
+result:
   맞춤법 검사:
     표제어: 생산적
     품사: 명사
 ---
 000_KEYWORD: 생산지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74346
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11665,13 +11665,13 @@ imported:
     표제어: 생산지
     품사: 명사
     항목ID: 74346
-processed:
+result:
   맞춤법 검사:
     표제어: 생산지
     품사: 명사
 ---
 000_KEYWORD: 생산직__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74347
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11709,13 +11709,13 @@ imported:
     - 발음: 생산징만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/74347_saengsanjingman.wav
       형태: 생산직만
-processed:
+result:
   맞춤법 검사:
     표제어: 생산직
     품사: 명사
 ---
 000_KEYWORD: 생산품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74348
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11743,13 +11743,13 @@ imported:
     표제어: 생산품
     품사: 명사
     항목ID: 74348
-processed:
+result:
   맞춤법 검사:
     표제어: 생산품
     품사: 명사
 ---
 000_KEYWORD: 생산하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16240
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11778,13 +11778,13 @@ imported:
     표제어: 생산하다
     품사: 동사
     항목ID: 16240
-processed:
+result:
   맞춤법 검사:
     표제어: 생산하다
     품사: 동사
 ---
 000_KEYWORD: 생살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63386
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11826,13 +11826,13 @@ imported:
     표제어: 생살
     품사: 명사
     항목ID: 63386
-processed:
+result:
   맞춤법 검사:
     표제어: 생살
     품사: 명사
 ---
 000_KEYWORD: 생새우__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63361
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11860,13 +11860,13 @@ imported:
     표제어: 생새우
     품사: 명사
     항목ID: 63361
-processed:
+result:
   맞춤법 검사:
     표제어: 생새우
     품사: 명사
 ---
 000_KEYWORD: 생색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74349
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11903,13 +11903,13 @@ imported:
     - 발음: 생생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/74349_saengsaengman.wav
       형태: 생색만
-processed:
+result:
   맞춤법 검사:
     표제어: 생색
     품사: 명사
 ---
 000_KEYWORD: 생색나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74353
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11944,13 +11944,13 @@ imported:
     - 발음: 생생나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/74353_saengsaengnani.wav
       형태: 생색나니
-processed:
+result:
   맞춤법 검사:
     표제어: 생색나다
     품사: 동사
 ---
 000_KEYWORD: 생색내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74354
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -11989,13 +11989,13 @@ imported:
     - 발음: 생생내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/74354_saengsaengnaeni.wav
       형태: 생색내니
-processed:
+result:
   맞춤법 검사:
     표제어: 생색내다
     품사: 동사
 ---
 000_KEYWORD: 생생하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74355
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12104,13 +12104,13 @@ imported:
       형태: 생생하니
     - 발음: 생생함니다
       형태: 생생합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 생생하다
     품사: 형용사
 ---
 000_KEYWORD: 생생히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62820
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12177,13 +12177,13 @@ imported:
     표제어: 생생히
     품사: 부사
     항목ID: 62820
-processed:
+result:
   맞춤법 검사:
     표제어: 생생히
     품사: 부사
 ---
 000_KEYWORD: 생선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26850
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12232,13 +12232,13 @@ imported:
     표제어: 생선
     품사: 명사
     항목ID: 26850
-processed:
+result:
   맞춤법 검사:
     표제어: 생선
     품사: 명사
 ---
 000_KEYWORD: 생선회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62895
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12269,13 +12269,13 @@ imported:
     표제어: 생선회
     품사: 명사
     항목ID: 62895
-processed:
+result:
   맞춤법 검사:
     표제어: 생선회
     품사: 명사
 ---
 000_KEYWORD: 생성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62898
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12304,13 +12304,13 @@ imported:
     표제어: 생성
     품사: 명사
     항목ID: 62898
-processed:
+result:
   맞춤법 검사:
     표제어: 생성
     품사: 명사
 ---
 000_KEYWORD: 생성되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62901
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12343,13 +12343,13 @@ imported:
     표제어: 생성되다
     품사: 동사
     항목ID: 62901
-processed:
+result:
   맞춤법 검사:
     표제어: 생성되다
     품사: 동사
 ---
 000_KEYWORD: 생성물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63178
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12375,13 +12375,13 @@ imported:
     표제어: 생성물
     품사: 명사
     항목ID: 63178
-processed:
+result:
   맞춤법 검사:
     표제어: 생성물
     품사: 명사
 ---
 000_KEYWORD: 생성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62909
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12412,13 +12412,13 @@ imported:
     표제어: 생성하다
     품사: 동사
     항목ID: 62909
-processed:
+result:
   맞춤법 검사:
     표제어: 생성하다
     품사: 동사
 ---
 000_KEYWORD: 생소하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63183
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12470,13 +12470,13 @@ imported:
       형태: 생소하니
     - 발음: 생소함니다
       형태: 생소합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 생소하다
     품사: 형용사
 ---
 000_KEYWORD: 생수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63185
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12509,13 +12509,13 @@ imported:
     표제어: 생수
     품사: 명사
     항목ID: 63185
-processed:
+result:
   맞춤법 검사:
     표제어: 생수
     품사: 명사
 ---
 000_KEYWORD: 생시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63186
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12567,13 +12567,13 @@ imported:
     표제어: 생시
     품사: 명사
     항목ID: 63186
-processed:
+result:
   맞춤법 검사:
     표제어: 생시
     품사: 명사
 ---
 000_KEYWORD: 생식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63192
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12609,13 +12609,13 @@ imported:
     - 발음: 생싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63195_saengsingman.wav
       형태: 생식만
-processed:
+result:
   맞춤법 검사:
     표제어: 생식
     품사: 명사
 ---
 000_KEYWORD: 생식__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63195
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12653,13 +12653,13 @@ imported:
     - 발음: 생싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63195_saengsingman.wav
       형태: 생식만
-processed:
+result:
   맞춤법 검사:
     표제어: 생식
     품사: 명사
 ---
 000_KEYWORD: 생식기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63196
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12696,13 +12696,13 @@ imported:
     표제어: 생식기
     품사: 명사
     항목ID: 63196
-processed:
+result:
   맞춤법 검사:
     표제어: 생식기
     품사: 명사
 ---
 000_KEYWORD: 생신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16595
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12733,13 +12733,13 @@ imported:
     표제어: 생신
     품사: 명사
     항목ID: 16595
-processed:
+result:
   맞춤법 검사:
     표제어: 생신
     품사: 명사
 ---
 000_KEYWORD: 생쌀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63198
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12766,13 +12766,13 @@ imported:
     표제어: 생쌀
     품사: 명사
     항목ID: 63198
-processed:
+result:
   맞춤법 검사:
     표제어: 생쌀
     품사: 명사
 ---
 000_KEYWORD: 생애__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63200
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12802,13 +12802,13 @@ imported:
     표제어: 생애
     품사: 명사
     항목ID: 63200
-processed:
+result:
   맞춤법 검사:
     표제어: 생애
     품사: 명사
 ---
 000_KEYWORD: 생약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63202
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12862,13 +12862,13 @@ imported:
     - 발음: 생양만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63202_saengyangman.wav
       형태: 생약만
-processed:
+result:
   맞춤법 검사:
     표제어: 생약
     품사: 명사
 ---
 000_KEYWORD: 생업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63205
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12908,13 +12908,13 @@ imported:
     - 발음: 생엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63205_saengeomman.wav
       형태: 생업만
-processed:
+result:
   맞춤법 검사:
     표제어: 생업
     품사: 명사
 ---
 000_KEYWORD: 생월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63206
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -12941,13 +12941,13 @@ imported:
     표제어: 생월
     품사: 명사
     항목ID: 63206
-processed:
+result:
   맞춤법 검사:
     표제어: 생월
     품사: 명사
 ---
 000_KEYWORD: 생육__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63210
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13002,13 +13002,13 @@ imported:
     - 발음: 생융만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63210_saengyungman.wav
       형태: 생육만
-processed:
+result:
   맞춤법 검사:
     표제어: 생육
     품사: 명사
 ---
 000_KEYWORD: 생육하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63213
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13046,13 +13046,13 @@ imported:
     표제어: 생육하다
     품사: 동사
     항목ID: 63213
-processed:
+result:
   맞춤법 검사:
     표제어: 생육하다
     품사: 동사
 ---
 000_KEYWORD: 생으로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63214
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13107,13 +13107,13 @@ imported:
     표제어: 생으로
     품사: 부사
     항목ID: 63214
-processed:
+result:
   맞춤법 검사:
     표제어: 생으로
     품사: 부사
 ---
 000_KEYWORD: 생이별__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63217
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13143,13 +13143,13 @@ imported:
     표제어: 생이별
     품사: 명사
     항목ID: 63217
-processed:
+result:
   맞춤법 검사:
     표제어: 생이별
     품사: 명사
 ---
 000_KEYWORD: 생이별하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13159,13 +13159,13 @@ imported:
     표제어: 생이별하다
     품사: 동사
     항목ID: 14215
-processed:
+result:
   맞춤법 검사:
     표제어: 생이별하다
     품사: 동사
 ---
 000_KEYWORD: 생일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63220
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13197,13 +13197,13 @@ imported:
     표제어: 생일
     품사: 명사
     항목ID: 63220
-processed:
+result:
   맞춤법 검사:
     표제어: 생일
     품사: 명사
 ---
 000_KEYWORD: 생일날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63221
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13230,13 +13230,13 @@ imported:
     표제어: 생일날
     품사: 명사
     항목ID: 63221
-processed:
+result:
   맞춤법 검사:
     표제어: 생일날
     품사: 명사
 ---
 000_KEYWORD: 생일상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63222
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13263,13 +13263,13 @@ imported:
     표제어: 생일상
     품사: 명사
     항목ID: 63222
-processed:
+result:
   맞춤법 검사:
     표제어: 생일상
     품사: 명사
 ---
 000_KEYWORD: 생일잔치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63223
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13295,13 +13295,13 @@ imported:
     표제어: 생일잔치
     품사: 명사
     항목ID: 63223
-processed:
+result:
   맞춤법 검사:
     표제어: 생일잔치
     품사: 명사
 ---
 000_KEYWORD: 생장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63224
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13337,13 +13337,13 @@ imported:
     표제어: 생장
     품사: 명사
     항목ID: 63224
-processed:
+result:
   맞춤법 검사:
     표제어: 생장
     품사: 명사
 ---
 000_KEYWORD: 생전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63225
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13377,13 +13377,13 @@ imported:
     표제어: 생전
     품사: 명사
     항목ID: 63225
-processed:
+result:
   맞춤법 검사:
     표제어: 생전
     품사: 명사
 ---
 000_KEYWORD: 생전__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63226
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13413,13 +13413,13 @@ imported:
     표제어: 생전
     품사: 부사
     항목ID: 63226
-processed:
+result:
   맞춤법 검사:
     표제어: 생전
     품사: 부사
 ---
 000_KEYWORD: 생존__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63227
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13446,13 +13446,13 @@ imported:
     표제어: 생존
     품사: 명사
     항목ID: 63227
-processed:
+result:
   맞춤법 검사:
     표제어: 생존
     품사: 명사
 ---
 000_KEYWORD: 생존권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63230
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13502,13 +13502,13 @@ imported:
     표제어: 생존권
     품사: 명사
     항목ID: 63230
-processed:
+result:
   맞춤법 검사:
     표제어: 생존권
     품사: 명사
 ---
 000_KEYWORD: 생존자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63232
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13535,13 +13535,13 @@ imported:
     표제어: 생존자
     품사: 명사
     항목ID: 63232
-processed:
+result:
   맞춤법 검사:
     표제어: 생존자
     품사: 명사
 ---
 000_KEYWORD: 생존하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63228
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13570,13 +13570,13 @@ imported:
     표제어: 생존하다
     품사: 동사
     항목ID: 63228
-processed:
+result:
   맞춤법 검사:
     표제어: 생존하다
     품사: 동사
 ---
 000_KEYWORD: 생중계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63233
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13606,13 +13606,13 @@ imported:
     표제어: 생중계
     품사: 명사
     항목ID: 63233
-processed:
+result:
   맞춤법 검사:
     표제어: 생중계
     품사: 명사
 ---
 000_KEYWORD: 생중계하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63234
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13644,13 +13644,13 @@ imported:
     표제어: 생중계하다
     품사: 동사
     항목ID: 63234
-processed:
+result:
   맞춤법 검사:
     표제어: 생중계하다
     품사: 동사
 ---
 000_KEYWORD: 생쥐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63235
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13696,13 +13696,13 @@ imported:
     표제어: 생쥐
     품사: 명사
     항목ID: 63235
-processed:
+result:
   맞춤법 검사:
     표제어: 생쥐
     품사: 명사
 ---
 000_KEYWORD: 생즙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63237
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13737,13 +13737,13 @@ imported:
     - 발음: 생즘만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63237_saengjeumman.wav
       형태: 생즙만
-processed:
+result:
   맞춤법 검사:
     표제어: 생즙
     품사: 명사
 ---
 000_KEYWORD: 생지옥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63236
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13781,13 +13781,13 @@ imported:
     - 발음: 생지옹만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/63236_saengjiongman.wav
       형태: 생지옥만
-processed:
+result:
   맞춤법 검사:
     표제어: 생지옥
     품사: 명사
 ---
 000_KEYWORD: 생질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63238
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13815,13 +13815,13 @@ imported:
     표제어: 생질
     품사: 명사
     항목ID: 63238
-processed:
+result:
   맞춤법 검사:
     표제어: 생질
     품사: 명사
 ---
 000_KEYWORD: 생채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63239
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13852,13 +13852,13 @@ imported:
     표제어: 생채
     품사: 명사
     항목ID: 63239
-processed:
+result:
   맞춤법 검사:
     표제어: 생채
     품사: 명사
 ---
 000_KEYWORD: 생채기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63240
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13882,13 +13882,13 @@ imported:
     표제어: 생채기
     품사: 명사
     항목ID: 63240
-processed:
+result:
   맞춤법 검사:
     표제어: 생채기
     품사: 명사
 ---
 000_KEYWORD: 생체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63241
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13920,13 +13920,13 @@ imported:
     표제어: 생체
     품사: 명사
     항목ID: 63241
-processed:
+result:
   맞춤법 검사:
     표제어: 생체
     품사: 명사
 ---
 000_KEYWORD: 생체리듬__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13936,13 +13936,13 @@ imported:
     표제어: 생체리듬
     품사: 명사:보통:서술성
     항목ID: 14227
-processed:
+result:
   맞춤법 검사:
     표제어: 생체리듬
     품사: 명사
 ---
 000_KEYWORD: 생침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62244
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -13968,13 +13968,13 @@ imported:
     표제어: 생침
     품사: 명사
     항목ID: 62244
-processed:
+result:
   맞춤법 검사:
     표제어: 생침
     품사: 명사
 ---
 000_KEYWORD: 생크림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62245
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14010,13 +14010,13 @@ imported:
     표제어: 생크림
     품사: 명사
     항목ID: 62245
-processed:
+result:
   맞춤법 검사:
     표제어: 생크림
     품사: 명사
 ---
 000_KEYWORD: 생태__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62682
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14053,13 +14053,13 @@ imported:
     표제어: 생태
     품사: 명사
     항목ID: 62682
-processed:
+result:
   맞춤법 검사:
     표제어: 생태
     품사: 명사
 ---
 000_KEYWORD: 생태__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62685
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14093,13 +14093,13 @@ imported:
     표제어: 생태
     품사: 명사
     항목ID: 62685
-processed:
+result:
   맞춤법 검사:
     표제어: 생태
     품사: 명사
 ---
 000_KEYWORD: 생태계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62686
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14136,13 +14136,13 @@ imported:
     표제어: 생태계
     품사: 명사
     항목ID: 62686
-processed:
+result:
   맞춤법 검사:
     표제어: 생태계
     품사: 명사
 ---
 000_KEYWORD: 생태학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62698
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14179,13 +14179,13 @@ imported:
     - 발음: 생태항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/62698_saengtaehangman.wav
       형태: 생태학만
-processed:
+result:
   맞춤법 검사:
     표제어: 생태학
     품사: 명사
 ---
 000_KEYWORD: 생트집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62710
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14223,13 +14223,13 @@ imported:
     - 발음: 생트짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/62710_saengteujimman.wav
       형태: 생트집만
-processed:
+result:
   맞춤법 검사:
     표제어: 생트집
     품사: 명사
 ---
 000_KEYWORD: 생판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62714
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14257,13 +14257,13 @@ imported:
     표제어: 생판
     품사: 명사
     항목ID: 62714
-processed:
+result:
   맞춤법 검사:
     표제어: 생판
     품사: 명사
 ---
 000_KEYWORD: 생판__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62717
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14306,13 +14306,13 @@ imported:
     표제어: 생판
     품사: 부사
     항목ID: 62717
-processed:
+result:
   맞춤법 검사:
     표제어: 생판
     품사: 부사
 ---
 000_KEYWORD: 생포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62718
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14341,13 +14341,13 @@ imported:
     표제어: 생포
     품사: 명사
     항목ID: 62718
-processed:
+result:
   맞춤법 검사:
     표제어: 생포
     품사: 명사
 ---
 000_KEYWORD: 생포하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62720
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14377,13 +14377,13 @@ imported:
     표제어: 생포하다
     품사: 동사
     항목ID: 62720
-processed:
+result:
   맞춤법 검사:
     표제어: 생포하다
     품사: 동사
 ---
 000_KEYWORD: 생필품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62725
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14423,13 +14423,13 @@ imported:
     표제어: 생필품
     품사: 명사
     항목ID: 62725
-processed:
+result:
   맞춤법 검사:
     표제어: 생필품
     품사: 명사
 ---
 000_KEYWORD: 생화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62726
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14466,13 +14466,13 @@ imported:
     표제어: 생화
     품사: 명사
     항목ID: 62726
-processed:
+result:
   맞춤법 검사:
     표제어: 생화
     품사: 명사
 ---
 000_KEYWORD: 생화학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62727
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14515,13 +14515,13 @@ imported:
     - 발음: 생화항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/62727_saenghwahangman.wav
       형태: 생화학만
-processed:
+result:
   맞춤법 검사:
     표제어: 생화학
     품사: 명사
 ---
 000_KEYWORD: 생환__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62728
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14555,13 +14555,13 @@ imported:
     표제어: 생환
     품사: 명사
     항목ID: 62728
-processed:
+result:
   맞춤법 검사:
     표제어: 생환
     품사: 명사
 ---
 000_KEYWORD: 생환하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62729
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14591,13 +14591,13 @@ imported:
     표제어: 생환하다
     품사: 동사
     항목ID: 62729
-processed:
+result:
   맞춤법 검사:
     표제어: 생환하다
     품사: 동사
 ---
 000_KEYWORD: 생활__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74183
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14668,13 +14668,13 @@ imported:
     표제어: 생활
     품사: 명사
     항목ID: 74183
-processed:
+result:
   맞춤법 검사:
     표제어: 생활
     품사: 명사
 ---
 000_KEYWORD: 생활고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62732
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14714,13 +14714,13 @@ imported:
     표제어: 생활고
     품사: 명사
     항목ID: 62732
-processed:
+result:
   맞춤법 검사:
     표제어: 생활고
     품사: 명사
 ---
 000_KEYWORD: 생활권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62734
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14753,13 +14753,13 @@ imported:
     표제어: 생활권
     품사: 명사
     항목ID: 62734
-processed:
+result:
   맞춤법 검사:
     표제어: 생활권
     품사: 명사
 ---
 000_KEYWORD: 생활난__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62736
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14798,13 +14798,13 @@ imported:
     표제어: 생활난
     품사: 명사
     항목ID: 62736
-processed:
+result:
   맞춤법 검사:
     표제어: 생활난
     품사: 명사
 ---
 000_KEYWORD: 생활력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62737
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14845,13 +14845,13 @@ imported:
     - 발음: 생활령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/62737_saenghwallyeongman.wav
       형태: 생활력만
-processed:
+result:
   맞춤법 검사:
     표제어: 생활력
     품사: 명사
 ---
 000_KEYWORD: 생활비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16596
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14885,13 +14885,13 @@ imported:
     표제어: 생활비
     품사: 명사
     항목ID: 16596
-processed:
+result:
   맞춤법 검사:
     표제어: 생활비
     품사: 명사
 ---
 000_KEYWORD: 생활사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62738
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14921,13 +14921,13 @@ imported:
     표제어: 생활사
     품사: 명사
     항목ID: 62738
-processed:
+result:
   맞춤법 검사:
     표제어: 생활사
     품사: 명사
 ---
 000_KEYWORD: 생활상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62739
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -14958,13 +14958,13 @@ imported:
     표제어: 생활상
     품사: 명사
     항목ID: 62739
-processed:
+result:
   맞춤법 검사:
     표제어: 생활상
     품사: 명사
 ---
 000_KEYWORD: 생활수준__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14973,13 +14973,13 @@ imported:
     표제어: 생활수준
     품사: 명사:보통:서술성
     항목ID: 14243
-processed:
+result:
   맞춤법 검사:
     표제어: 생활수준
     품사: 명사
 ---
 000_KEYWORD: 생활시간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62744
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15008,13 +15008,13 @@ imported:
     표제어: 생활시간
     품사: 명사
     항목ID: 62744
-processed:
+result:
   맞춤법 검사:
     표제어: 생활시간
     품사: 명사
 ---
 000_KEYWORD: 생활신조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62748
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15042,13 +15042,13 @@ imported:
     표제어: 생활신조
     품사: 명사
     항목ID: 62748
-processed:
+result:
   맞춤법 검사:
     표제어: 생활신조
     품사: 명사
 ---
 000_KEYWORD: 생활용수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62765
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15079,13 +15079,13 @@ imported:
     표제어: 생활용수
     품사: 명사
     항목ID: 62765
-processed:
+result:
   맞춤법 검사:
     표제어: 생활용수
     품사: 명사
 ---
 000_KEYWORD: 생활용품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16600
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15114,13 +15114,13 @@ imported:
     표제어: 생활용품
     품사: 명사
     항목ID: 16600
-processed:
+result:
   맞춤법 검사:
     표제어: 생활용품
     품사: 명사
 ---
 000_KEYWORD: 생활필수품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62731
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15156,13 +15156,13 @@ imported:
     표제어: 생활필수품
     품사: 명사
     항목ID: 62731
-processed:
+result:
   맞춤법 검사:
     표제어: 생활필수품
     품사: 명사
 ---
 000_KEYWORD: 생활하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62338
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15224,13 +15224,13 @@ imported:
     표제어: 생활하다
     품사: 동사
     항목ID: 62338
-processed:
+result:
   맞춤법 검사:
     표제어: 생활하다
     품사: 동사
 ---
 000_KEYWORD: 생활화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62825
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15261,13 +15261,13 @@ imported:
     표제어: 생활화
     품사: 명사
     항목ID: 62825
-processed:
+result:
   맞춤법 검사:
     표제어: 생활화
     품사: 명사
 ---
 000_KEYWORD: 생활화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62829
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15300,13 +15300,13 @@ imported:
     표제어: 생활화되다
     품사: 동사
     항목ID: 62829
-processed:
+result:
   맞춤법 검사:
     표제어: 생활화되다
     품사: 동사
 ---
 000_KEYWORD: 생활화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62844
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15335,13 +15335,13 @@ imported:
     표제어: 생활화하다
     품사: 동사
     항목ID: 62844
-processed:
+result:
   맞춤법 검사:
     표제어: 생활화하다
     품사: 동사
 ---
 000_KEYWORD: 생활환경__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15350,13 +15350,13 @@ imported:
     표제어: 생활환경
     품사: 명사:보통:서술성
     항목ID: 14246
-processed:
+result:
   맞춤법 검사:
     표제어: 생활환경
     품사: 명사
 ---
 000_KEYWORD: 생후__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62846
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -15384,7 +15384,7 @@ imported:
     표제어: 생후
     품사: 명사
     항목ID: 62846
-processed:
+result:
   맞춤법 검사:
     표제어: 생후
     품사: 명사

@@ -1,5 +1,5 @@
 000_KEYWORD: -에요__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86106
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -23,11 +23,11 @@ imported:
     표제어: -에요
     품사: 어미
     항목ID: 86106
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67539
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -96,13 +96,13 @@ imported:
     표제어: 에
     품사: 감탄사
     항목ID: 67539
-processed:
+result:
   맞춤법 검사:
     표제어: 에
     품사: 감탄사
 ---
 000_KEYWORD: 에__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68781
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -118,13 +118,13 @@ imported:
     표제어: 에
     품사: 명사
     항목ID: 68781
-processed:
+result:
   맞춤법 검사:
     표제어: 에
     품사: 명사
 ---
 000_KEYWORD: 에__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86572
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -269,11 +269,11 @@ imported:
     표제어: 에
     품사: 조사
     항목ID: 86572
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에게__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69713
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -358,11 +358,11 @@ imported:
     표제어: 에게
     품사: 조사
     항목ID: 69713
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에게다__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80293
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -381,11 +381,11 @@ imported:
     표제어: 에게다
     품사: 조사
     항목ID: 80293
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에게다가__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86573
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -405,11 +405,11 @@ imported:
     표제어: 에게다가
     품사: 조사
     항목ID: 86573
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에게로__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70320
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -438,11 +438,11 @@ imported:
     표제어: 에게로
     품사: 조사
     항목ID: 70320
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에게서__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70321
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -484,11 +484,11 @@ imported:
     표제어: 에게서
     품사: 조사
     항목ID: 70321
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에게해__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -498,13 +498,13 @@ imported:
     표제어: 에게해
     품사: 명사:고유
     항목ID: 18398
-processed:
+result:
   맞춤법 검사:
     표제어: 에게해
     품사: 명사
 ---
 000_KEYWORD: 에고이즘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67578
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -535,13 +535,13 @@ imported:
     표제어: 에고이즘
     품사: 명사
     항목ID: 67578
-processed:
+result:
   맞춤법 검사:
     표제어: 에고이즘
     품사: 명사
 ---
 000_KEYWORD: 에구__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67579
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -594,13 +594,13 @@ imported:
     표제어: 에구
     품사: 감탄사
     항목ID: 67579
-processed:
+result:
   맞춤법 검사:
     표제어: 에구
     품사: 감탄사
 ---
 000_KEYWORD: 에구구__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67590
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -651,13 +651,13 @@ imported:
     표제어: 에구구
     품사: 감탄사
     항목ID: 67590
-processed:
+result:
   맞춤법 검사:
     표제어: 에구구
     품사: 감탄사
 ---
 000_KEYWORD: 에구머니__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67591
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -684,13 +684,13 @@ imported:
     표제어: 에구머니
     품사: 감탄사
     항목ID: 67591
-processed:
+result:
   맞춤법 검사:
     표제어: 에구머니
     품사: 감탄사
 ---
 000_KEYWORD: 에구머니나__감탄사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -700,13 +700,13 @@ imported:
     표제어: 에구머니나
     품사: 감탄사
     항목ID: 18402
-processed:
+result:
   맞춤법 검사:
     표제어: 에구머니나
     품사: 감탄사
 ---
 000_KEYWORD: 에끼__감탄사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -715,13 +715,13 @@ imported:
     표제어: 에끼
     품사: 감탄사
     항목ID: 18403
-processed:
+result:
   맞춤법 검사:
     표제어: 에끼
     품사: 감탄사
 ---
 000_KEYWORD: 에나멜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67592
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -753,13 +753,13 @@ imported:
     표제어: 에나멜
     품사: 명사
     항목ID: 67592
-processed:
+result:
   맞춤법 검사:
     표제어: 에나멜
     품사: 명사
 ---
 000_KEYWORD: 에너지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62468
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -809,13 +809,13 @@ imported:
     표제어: 에너지
     품사: 명사
     항목ID: 62468
-processed:
+result:
   맞춤법 검사:
     표제어: 에너지
     품사: 명사
 ---
 000_KEYWORD: 에너지원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67593
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -842,13 +842,13 @@ imported:
     표제어: 에너지원
     품사: 명사
     항목ID: 67593
-processed:
+result:
   맞춤법 검사:
     표제어: 에너지원
     품사: 명사
 ---
 000_KEYWORD: 에누리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67608
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -911,13 +911,13 @@ imported:
     표제어: 에누리
     품사: 명사
     항목ID: 67608
-processed:
+result:
   맞춤법 검사:
     표제어: 에누리
     품사: 명사
 ---
 000_KEYWORD: 에는__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80294
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1006,11 +1006,11 @@ imported:
     표제어: 에는
     품사: 조사
     항목ID: 80294
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90389
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1054,13 +1054,13 @@ imported:
     - 발음: 에ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/90389_e-ni.wav
       형태: 에니
-processed:
+result:
   맞춤법 검사:
     표제어: 에다
     품사: 동사
 ---
 000_KEYWORD: 에다__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73013
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1096,11 +1096,11 @@ imported:
     표제어: 에다
     품사: 조사
     항목ID: 73013
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에다가__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73014
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1136,11 +1136,11 @@ imported:
     표제어: 에다가
     품사: 조사
     항목ID: 73014
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에덴__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1151,13 +1151,13 @@ imported:
     표제어: 에덴
     품사: 명사:고유
     항목ID: 18408
-processed:
+result:
   맞춤법 검사:
     표제어: 에덴
     품사: 명사
 ---
 000_KEYWORD: 에돌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91796
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1223,13 +1223,13 @@ imported:
     - 발음: 에ː돔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/91796_e-domnida.wav
       형태: 에돕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 에돌다
     품사: 동사
 ---
 000_KEYWORD: 에두르다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1240,14 +1240,14 @@ imported:
     표제어: 에두르다
     품사: 동사
     항목ID: 18409
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 에두르다
     품사: 동사
 ---
 000_KEYWORD: 에디슨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1257,13 +1257,13 @@ imported:
     표제어: 에디슨
     품사: 명사:고유
     항목ID: 18410
-processed:
+result:
   맞춤법 검사:
     표제어: 에디슨
     품사: 명사
 ---
 000_KEYWORD: 에디터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1273,13 +1273,13 @@ imported:
     표제어: 에디터
     품사: 명사:보통:비서술성
     항목ID: 18411
-processed:
+result:
   맞춤법 검사:
     표제어: 에디터
     품사: 명사
 ---
 000_KEYWORD: 에라__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67610
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1326,13 +1326,13 @@ imported:
     표제어: 에라
     품사: 감탄사
     항목ID: 67610
-processed:
+result:
   맞춤법 검사:
     표제어: 에라
     품사: 감탄사
 ---
 000_KEYWORD: 에러__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67611
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1393,13 +1393,13 @@ imported:
     표제어: 에러
     품사: 명사
     항목ID: 67611
-processed:
+result:
   맞춤법 검사:
     표제어: 에러
     품사: 명사
 ---
 000_KEYWORD: 에로__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1410,13 +1410,13 @@ imported:
     표제어: 에로
     품사: 명사:보통:서술성
     항목ID: 18413
-processed:
+result:
   맞춤법 검사:
     표제어: 에로
     품사: 명사
 ---
 000_KEYWORD: 에로__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86574
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1437,11 +1437,11 @@ imported:
     표제어: 에로
     품사: 조사
     항목ID: 86574
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에로스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27639
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1471,13 +1471,13 @@ imported:
     표제어: 에로스
     품사: 명사
     항목ID: 27639
-processed:
+result:
   맞춤법 검사:
     표제어: 에로스
     품사: 명사
 ---
 000_KEYWORD: 에로티시즘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67612
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1503,13 +1503,13 @@ imported:
     표제어: 에로티시즘
     품사: 명사
     항목ID: 67612
-processed:
+result:
   맞춤법 검사:
     표제어: 에로티시즘
     품사: 명사
 ---
 000_KEYWORD: 에로틱하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67613
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1542,13 +1542,13 @@ imported:
     - 형태: 에로틱하여
     - 형태: 에로틱하니
     - 형태: 에로틱합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 에로틱하다
     품사: 형용사
 ---
 000_KEYWORD: 에를__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86575
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1572,11 +1572,11 @@ imported:
     표제어: 에를
     품사: 조사
     항목ID: 86575
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에리트레아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1585,13 +1585,13 @@ imported:
     표제어: 에리트레아
     품사: 명사:고유
     항목ID: 18416
-processed:
+result:
   맞춤법 검사:
     표제어: 에리트레아
     품사: 명사
 ---
 000_KEYWORD: 에메랄드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1601,13 +1601,13 @@ imported:
     표제어: 에메랄드
     품사: 명사:보통:비서술성
     항목ID: 18417
-processed:
+result:
   맞춤법 검사:
     표제어: 에메랄드
     품사: 명사
 ---
 000_KEYWORD: 에미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28195
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1620,10 +1620,10 @@ imported:
     표제어: 에미
     품사: 명사
     항목ID: 28195
-processed: {}
+result: {}
 ---
 000_KEYWORD: 에밀레종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68839
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1646,13 +1646,13 @@ imported:
     표제어: 에밀레종
     품사: 명사
     항목ID: 68839
-processed:
+result:
   맞춤법 검사:
     표제어: 에밀레종
     품사: 명사
 ---
 000_KEYWORD: 에베레스트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1663,13 +1663,13 @@ imported:
     표제어: 에베레스트
     품사: 명사:고유
     항목ID: 18418
-processed:
+result:
   맞춤법 검사:
     표제어: 에베레스트
     품사: 명사
 ---
 000_KEYWORD: 에서__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68853
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1759,11 +1759,11 @@ imported:
     표제어: 에서
     품사: 조사
     항목ID: 68853
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에서부터__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70333
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1797,11 +1797,11 @@ imported:
     표제어: 에서부터
     품사: 조사
     항목ID: 70333
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에설랑__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86576
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1820,11 +1820,11 @@ imported:
     표제어: 에설랑
     품사: 조사
     항목ID: 86576
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에세이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67598
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1867,13 +1867,13 @@ imported:
     표제어: 에세이
     품사: 명사
     항목ID: 67598
-processed:
+result:
   맞춤법 검사:
     표제어: 에세이
     품사: 명사
 ---
 000_KEYWORD: 에스오에스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67600
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1912,13 +1912,13 @@ imported:
     표제어: 에스오에스
     품사: 명사
     항목ID: 67600
-processed:
+result:
   맞춤법 검사:
     표제어: 에스오에스
     품사: 명사
 ---
 000_KEYWORD: 에스컬레이터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67601
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1945,13 +1945,13 @@ imported:
     표제어: 에스컬레이터
     품사: 명사
     항목ID: 67601
-processed:
+result:
   맞춤법 검사:
     표제어: 에스컬레이터
     품사: 명사
 ---
 000_KEYWORD: 에스코트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67602
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1978,13 +1978,13 @@ imported:
     표제어: 에스코트
     품사: 명사
     항목ID: 67602
-processed:
+result:
   맞춤법 검사:
     표제어: 에스코트
     품사: 명사
 ---
 000_KEYWORD: 에스코트하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67603
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2015,13 +2015,13 @@ imported:
     표제어: 에스코트하다
     품사: 동사
     항목ID: 67603
-processed:
+result:
   맞춤법 검사:
     표제어: 에스코트하다
     품사: 동사
 ---
 000_KEYWORD: 에스토니아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2030,13 +2030,13 @@ imported:
     표제어: 에스토니아
     품사: 명사:보통:서술성
     항목ID: 18421
-processed:
+result:
   맞춤법 검사:
     표제어: 에스토니아
     품사: 명사
 ---
 000_KEYWORD: 에스파냐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69895
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2057,13 +2057,13 @@ imported:
     표제어: 에스파냐
     품사: 명사
     항목ID: 69895
-processed:
+result:
   맞춤법 검사:
     표제어: 에스파냐
     품사: 명사
 ---
 000_KEYWORD: 에스파냐어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93447
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2100,13 +2100,13 @@ imported:
     표제어: 에스파냐어
     품사: 명사
     항목ID: 93447
-processed:
+result:
   맞춤법 검사:
     표제어: 에스파냐어
     품사: 명사
 ---
 000_KEYWORD: 에스페란토__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2116,13 +2116,13 @@ imported:
     표제어: 에스페란토
     품사: 명사:보통:서술성
     항목ID: 18423
-processed:
+result:
   맞춤법 검사:
     표제어: 에스페란토
     품사: 명사
 ---
 000_KEYWORD: 에스프레소__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2133,13 +2133,13 @@ imported:
     표제어: 에스프레소
     품사: 명사:보통:서술성
     항목ID: 18424
-processed:
+result:
   맞춤법 검사:
     표제어: 에스프레소
     품사: 명사
 ---
 000_KEYWORD: 에야__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86578
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2160,11 +2160,11 @@ imported:
     표제어: 에야
     품사: 조사
     항목ID: 86578
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에어로빅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67604
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2193,13 +2193,13 @@ imported:
     표제어: 에어로빅
     품사: 명사
     항목ID: 67604
-processed:
+result:
   맞춤법 검사:
     표제어: 에어로빅
     품사: 명사
 ---
 000_KEYWORD: 에어백__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67606
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2230,13 +2230,13 @@ imported:
     표제어: 에어백
     품사: 명사
     항목ID: 67606
-processed:
+result:
   맞춤법 검사:
     표제어: 에어백
     품사: 명사
 ---
 000_KEYWORD: 에어쇼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2245,13 +2245,13 @@ imported:
     표제어: 에어쇼
     품사: 명사:보통:비서술성
     항목ID: 18427
-processed:
+result:
   맞춤법 검사:
     표제어: 에어쇼
     품사: 명사
 ---
 000_KEYWORD: 에어컨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62514
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2290,13 +2290,13 @@ imported:
     표제어: 에어컨
     품사: 명사
     항목ID: 62514
-processed:
+result:
   맞춤법 검사:
     표제어: 에어컨
     품사: 명사
 ---
 000_KEYWORD: 에어컨디셔너__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67607
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2334,13 +2334,13 @@ imported:
     표제어: 에어컨디셔너
     품사: 명사
     항목ID: 67607
-processed:
+result:
   맞춤법 검사:
     표제어: 에어컨디셔너
     품사: 명사
 ---
 000_KEYWORD: 에워싸다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67615
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2403,17 +2403,17 @@ imported:
     활용:
     - 형태: 에워싸
     - 형태: 에워싸니
-processed:
+result:
   맞춤법 검사:
     표제어: 에워싸다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 에워싸이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70944
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2476,13 +2476,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/70944_ewossaiyeo.wav
       형태: 에워싸이어
     - 형태: 에워싸이니
-processed:
+result:
   맞춤법 검사:
     표제어: 에워싸이다
     품사: 동사
 ---
 000_KEYWORD: 에의__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86579
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2502,11 +2502,11 @@ imported:
     표제어: 에의
     품사: 조사
     항목ID: 86579
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 에이__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70946
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2544,13 +2544,13 @@ imported:
     표제어: 에이
     품사: 감탄사
     항목ID: 70946
-processed:
+result:
   맞춤법 검사:
     표제어: 에이
     품사: 감탄사
 ---
 000_KEYWORD: 에이그__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70945
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2572,13 +2572,13 @@ imported:
     표제어: 에이그
     품사: 감탄사
     항목ID: 70945
-processed:
+result:
   맞춤법 검사:
     표제어: 에이그
     품사: 감탄사
 ---
 000_KEYWORD: 에이스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70947
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2625,13 +2625,13 @@ imported:
     표제어: 에이스
     품사: 명사
     항목ID: 70947
-processed:
+result:
   맞춤법 검사:
     표제어: 에이스
     품사: 명사
 ---
 000_KEYWORD: 에이즈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28197
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2665,13 +2665,13 @@ imported:
     표제어: 에이즈
     품사: 명사
     항목ID: 28197
-processed:
+result:
   맞춤법 검사:
     표제어: 에이즈
     품사: 명사
 ---
 000_KEYWORD: 에이커__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70954
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2691,13 +2691,13 @@ imported:
     표제어: 에이커
     품사: 의존 명사
     항목ID: 70954
-processed:
+result:
   맞춤법 검사:
     표제어: 에이커
     품사: 의존 명사
 ---
 000_KEYWORD: 에잇__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70955
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2720,13 +2720,13 @@ imported:
     표제어: 에잇
     품사: 감탄사
     항목ID: 70955
-processed:
+result:
   맞춤법 검사:
     표제어: 에잇
     품사: 감탄사
 ---
 000_KEYWORD: 에취__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70956
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2748,13 +2748,13 @@ imported:
     표제어: 에취
     품사: 부사
     항목ID: 70956
-processed:
+result:
   맞춤법 검사:
     표제어: 에취
     품사: 부사
 ---
 000_KEYWORD: 에칭__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2764,13 +2764,13 @@ imported:
     표제어: 에칭
     품사: 명사:보통:서술성
     항목ID: 18437
-processed:
+result:
   맞춤법 검사:
     표제어: 에칭
     품사: 명사
 ---
 000_KEYWORD: 에콰도르__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69890
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2787,13 +2787,13 @@ imported:
     표제어: 에콰도르
     품사: 명사
     항목ID: 69890
-processed:
+result:
   맞춤법 검사:
     표제어: 에콰도르
     품사: 명사
 ---
 000_KEYWORD: 에탄올__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2803,13 +2803,13 @@ imported:
     표제어: 에탄올
     품사: 명사:보통:서술성
     항목ID: 18439
-processed:
+result:
   맞춤법 검사:
     표제어: 에탄올
     품사: 명사
 ---
 000_KEYWORD: 에티오피아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68768
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2826,13 +2826,13 @@ imported:
     표제어: 에티오피아
     품사: 명사
     항목ID: 68768
-processed:
+result:
   맞춤법 검사:
     표제어: 에티오피아
     품사: 명사
 ---
 000_KEYWORD: 에티켓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70957
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2863,13 +2863,13 @@ imported:
     표제어: 에티켓
     품사: 명사
     항목ID: 70957
-processed:
+result:
   맞춤법 검사:
     표제어: 에티켓
     품사: 명사
 ---
 000_KEYWORD: 에틸알코올__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2879,13 +2879,13 @@ imported:
     표제어: 에틸알코올
     품사: 명사:보통:서술성
     항목ID: 18442
-processed:
+result:
   맞춤법 검사:
     표제어: 에틸알코올
     품사: 명사
 ---
 000_KEYWORD: 에프티에이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2895,13 +2895,13 @@ imported:
     표제어: 에프티에이
     품사: 명사:보통:서술성
     항목ID: 18443
-processed:
+result:
   맞춤법 검사:
     표제어: 에프티에이
     품사: 명사
 ---
 000_KEYWORD: 에피소드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70958
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2930,13 +2930,13 @@ imported:
     표제어: 에피소드
     품사: 명사
     항목ID: 70958
-processed:
+result:
   맞춤법 검사:
     표제어: 에피소드
     품사: 명사
 ---
 000_KEYWORD: 에피쿠로스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2947,13 +2947,13 @@ imported:
     표제어: 에피쿠로스
     품사: 명사:보통:서술성
     항목ID: 18445
-processed:
+result:
   맞춤법 검사:
     표제어: 에피쿠로스
     품사: 명사
 ---
 000_KEYWORD: 에헤__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70960
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2980,13 +2980,13 @@ imported:
     표제어: 에헤
     품사: 감탄사
     항목ID: 70960
-processed:
+result:
   맞춤법 검사:
     표제어: 에헤
     품사: 감탄사
 ---
 000_KEYWORD: 에헴__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70961
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3008,13 +3008,13 @@ imported:
     표제어: 에헴
     품사: 감탄사
     항목ID: 70961
-processed:
+result:
   맞춤법 검사:
     표제어: 에헴
     품사: 감탄사
 ---
 000_KEYWORD: 엑__감탄사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3024,13 +3024,13 @@ imported:
     표제어: 엑
     품사: 감탄사
     항목ID: 18448
-processed:
+result:
   맞춤법 검사:
     표제어: 엑
     품사: 감탄사
 ---
 000_KEYWORD: 엑스레이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28198
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3071,13 +3071,13 @@ imported:
     표제어: 엑스레이
     품사: 명사
     항목ID: 28198
-processed:
+result:
   맞춤법 검사:
     표제어: 엑스레이
     품사: 명사
 ---
 000_KEYWORD: 엑스선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70962
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3104,13 +3104,13 @@ imported:
     표제어: 엑스선
     품사: 명사
     항목ID: 70962
-processed:
+result:
   맞춤법 검사:
     표제어: 엑스선
     품사: 명사
 ---
 000_KEYWORD: 엑스트라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70963
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3138,13 +3138,13 @@ imported:
     표제어: 엑스트라
     품사: 명사
     항목ID: 70963
-processed:
+result:
   맞춤법 검사:
     표제어: 엑스트라
     품사: 명사
 ---
 000_KEYWORD: 엑스포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70964
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3167,13 +3167,13 @@ imported:
     표제어: 엑스포
     품사: 명사
     항목ID: 70964
-processed:
+result:
   맞춤법 검사:
     표제어: 엑스포
     품사: 명사
 ---
 000_KEYWORD: 엔__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70965
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3197,13 +3197,13 @@ imported:
     표제어: 엔
     품사: 의존 명사
     항목ID: 70965
-processed:
+result:
   맞춤법 검사:
     표제어: 엔
     품사: 의존 명사
 ---
 000_KEYWORD: 엔__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86580
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3295,11 +3295,11 @@ imported:
     표제어: 엔
     품사: 조사
     항목ID: 86580
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 엔도르핀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70966
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3320,13 +3320,13 @@ imported:
     표제어: 엔도르핀
     품사: 명사
     항목ID: 70966
-processed:
+result:
   맞춤법 검사:
     표제어: 엔도르핀
     품사: 명사
 ---
 000_KEYWORD: 엔지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70968
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3350,13 +3350,13 @@ imported:
     표제어: 엔지
     품사: 명사
     항목ID: 70968
-processed:
+result:
   맞춤법 검사:
     표제어: 엔지
     품사: 명사
 ---
 000_KEYWORD: 엔지니어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70969
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3379,13 +3379,13 @@ imported:
     표제어: 엔지니어
     품사: 명사
     항목ID: 70969
-processed:
+result:
   맞춤법 검사:
     표제어: 엔지니어
     품사: 명사
 ---
 000_KEYWORD: 엔지니어링__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28199
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3428,13 +3428,13 @@ imported:
     표제어: 엔지니어링
     품사: 명사
     항목ID: 28199
-processed:
+result:
   맞춤법 검사:
     표제어: 엔지니어링
     품사: 명사
 ---
 000_KEYWORD: 엔진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15166
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3461,13 +3461,13 @@ imported:
     표제어: 엔진
     품사: 명사
     항목ID: 15166
-processed:
+result:
   맞춤법 검사:
     표제어: 엔진
     품사: 명사
 ---
 000_KEYWORD: 엔트로피__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3478,13 +3478,13 @@ imported:
     표제어: 엔트로피
     품사: 명사:보통:서술성
     항목ID: 18455
-processed:
+result:
   맞춤법 검사:
     표제어: 엔트로피
     품사: 명사
 ---
 000_KEYWORD: 엔트리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70971
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3508,13 +3508,13 @@ imported:
     표제어: 엔트리
     품사: 명사
     항목ID: 70971
-processed:
+result:
   맞춤법 검사:
     표제어: 엔트리
     품사: 명사
 ---
 000_KEYWORD: 엘__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86582
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3539,11 +3539,11 @@ imported:
     표제어: 엘
     품사: 조사
     항목ID: 86582
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 엘니뇨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3553,13 +3553,13 @@ imported:
     표제어: 엘니뇨
     품사: 명사:보통:서술성
     항목ID: 18457
-processed:
+result:
   맞춤법 검사:
     표제어: 엘니뇨
     품사: 명사
 ---
 000_KEYWORD: 엘리베이터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70973
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3598,13 +3598,13 @@ imported:
     표제어: 엘리베이터
     품사: 명사
     항목ID: 70973
-processed:
+result:
   맞춤법 검사:
     표제어: 엘리베이터
     품사: 명사
 ---
 000_KEYWORD: 엘리트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70974
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3629,13 +3629,13 @@ imported:
     표제어: 엘리트
     품사: 명사
     항목ID: 70974
-processed:
+result:
   맞춤법 검사:
     표제어: 엘리트
     품사: 명사
 ---
 000_KEYWORD: 엘살바도르__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68769
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3653,13 +3653,13 @@ imported:
     표제어: 엘살바도르
     품사: 명사
     항목ID: 68769
-processed:
+result:
   맞춤법 검사:
     표제어: 엘살바도르
     품사: 명사
 ---
 000_KEYWORD: 엠블럼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3669,13 +3669,13 @@ imported:
     표제어: 엠블럼
     품사: 명사:보통:비서술성
     항목ID: 18460
-processed:
+result:
   맞춤법 검사:
     표제어: 엠블럼
     품사: 명사
 ---
 000_KEYWORD: 엠시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70975
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3700,13 +3700,13 @@ imported:
     표제어: 엠시
     품사: 명사
     항목ID: 70975
-processed:
+result:
   맞춤법 검사:
     표제어: 엠시
     품사: 명사
 ---
 000_KEYWORD: 엠티__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28201
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3735,13 +3735,13 @@ imported:
     표제어: 엠티
     품사: 명사
     항목ID: 28201
-processed:
+result:
   맞춤법 검사:
     표제어: 엠티
     품사: 명사
 ---
 000_KEYWORD: 엠피스리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3752,13 +3752,13 @@ imported:
     표제어: 엠피스리
     품사: 명사:보통:서술성
     항목ID: 18461
-processed:
+result:
   맞춤법 검사:
     표제어: 엠피스리
     품사: 명사
 ---
 000_KEYWORD: 엥__감탄사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3768,7 +3768,7 @@ imported:
     표제어: 엥
     품사: 감탄사
     항목ID: 18462
-processed:
+result:
   맞춤법 검사:
     표제어: 엥
     품사: 감탄사

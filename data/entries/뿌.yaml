@@ -1,5 +1,5 @@
 000_KEYWORD: 뿌드득뿌드득__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62080
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -25,13 +25,13 @@ imported:
     표제어: 뿌드득뿌드득
     품사: 부사
     항목ID: 62080
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌드득뿌드득
     품사: 부사
 ---
 000_KEYWORD: 뿌듯하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62065
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -76,13 +76,13 @@ imported:
       형태: 뿌듯하니
     - 발음: 뿌드탐니다
       형태: 뿌듯합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌듯하다
     품사: 형용사
 ---
 000_KEYWORD: 뿌리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60318
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -153,13 +153,13 @@ imported:
     표제어: 뿌리
     품사: 명사
     항목ID: 60318
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌리
     품사: 명사
 ---
 000_KEYWORD: 뿌리내리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62098
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -218,13 +218,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/62098_ppurinaeriyeo.wav
       형태: 뿌리내리어
     - 형태: 뿌리내리니
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌리내리다
     품사: 동사
 ---
 000_KEYWORD: 뿌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65867
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -368,13 +368,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/65867_ppuriyeo.wav
       형태: 뿌리어
     - 형태: 뿌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌리다
     품사: 동사
 ---
 000_KEYWORD: 뿌리박다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62104
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -412,13 +412,13 @@ imported:
     - 발음: 뿌리방는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/62104_ppuribangneun.wav
       형태: 뿌리박는
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌리박다
     품사: 동사
 ---
 000_KEYWORD: 뿌리박히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61755
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -460,13 +460,13 @@ imported:
     - 발음: 뿌리바키니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61755_ppuribakini.wav
       형태: 뿌리박히니
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌리박히다
     품사: 동사
 ---
 000_KEYWORD: 뿌리치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15653
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -522,13 +522,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/15653_ppuricheo.wav
       형태: 뿌리쳐
     - 형태: 뿌리치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌리치다
     품사: 동사
 ---
 000_KEYWORD: 뿌옇다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61772
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -593,7 +593,7 @@ imported:
       형태: 뿌여니
     - 발음: 뿌ː여씀니다
       형태: 뿌옇습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -601,7 +601,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 뿌지직__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61785
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -649,13 +649,13 @@ imported:
     표제어: 뿌지직
     품사: 부사
     항목ID: 61785
-processed:
+result:
   맞춤법 검사:
     표제어: 뿌지직
     품사: 부사
 ---
 000_KEYWORD: 뿐__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66641
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -685,13 +685,13 @@ imported:
     표제어: 뿐
     품사: 의존 명사
     항목ID: 66641
-processed:
+result:
   맞춤법 검사:
     표제어: 뿐
     품사: 의존 명사
 ---
 000_KEYWORD: 뿐__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69999
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -714,11 +714,11 @@ imported:
     표제어: 뿐
     품사: 조사
     항목ID: 69999
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 뿔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61787
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -757,13 +757,13 @@ imported:
     표제어: 뿔
     품사: 명사
     항목ID: 61787
-processed:
+result:
   맞춤법 검사:
     표제어: 뿔
     품사: 명사
 ---
 000_KEYWORD: 뿔__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61791
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -788,13 +788,13 @@ imported:
     표제어: 뿔
     품사: 명사
     항목ID: 61791
-processed:
+result:
   맞춤법 검사:
     표제어: 뿔
     품사: 명사
 ---
 000_KEYWORD: 뿔나다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -803,13 +803,13 @@ imported:
     표제어: 뿔나다
     품사: 동사
     항목ID: 13186
-processed:
+result:
   맞춤법 검사:
     표제어: 뿔나다
     품사: 동사
 ---
 000_KEYWORD: 뿔뿔이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61949
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -836,13 +836,13 @@ imported:
     표제어: 뿔뿔이
     품사: 부사
     항목ID: 61949
-processed:
+result:
   맞춤법 검사:
     표제어: 뿔뿔이
     품사: 부사
 ---
 000_KEYWORD: 뿔테__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61950
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -874,13 +874,13 @@ imported:
     표제어: 뿔테
     품사: 명사
     항목ID: 61950
-processed:
+result:
   맞춤법 검사:
     표제어: 뿔테
     품사: 명사
 ---
 000_KEYWORD: 뿜다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61951
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -951,13 +951,13 @@ imported:
     - 발음: 뿌므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61951_ppumeuni.wav
       형태: 뿜으니
-processed:
+result:
   맞춤법 검사:
     표제어: 뿜다
     품사: 동사
 ---
 000_KEYWORD: 뿜어내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61952
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1033,17 +1033,17 @@ imported:
     - 발음: 뿌머내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61952_ppumeonaeni.wav
       형태: 뿜어내니
-processed:
+result:
   맞춤법 검사:
     표제어: 뿜어내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뿡__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1053,13 +1053,13 @@ imported:
     표제어: 뿡
     품사: 부사
     항목ID: 13191
-processed:
+result:
   맞춤법 검사:
     표제어: 뿡
     품사: 부사
 ---
 000_KEYWORD: 뿡뿡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61955
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -1118,7 +1118,7 @@ imported:
     표제어: 뿡뿡
     품사: 부사
     항목ID: 61955
-processed:
+result:
   맞춤법 검사:
     표제어: 뿡뿡
     품사: 부사

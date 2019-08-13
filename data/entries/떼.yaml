@@ -1,5 +1,5 @@
 000_KEYWORD: 떼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15182
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -26,13 +26,13 @@ imported:
     표제어: 떼
     품사: 명사
     항목ID: 15182
-processed:
+result:
   맞춤법 검사:
     표제어: 떼
     품사: 명사
 ---
 000_KEYWORD: 떼__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54096
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -60,13 +60,13 @@ imported:
     표제어: 떼
     품사: 명사
     항목ID: 54096
-processed:
+result:
   맞춤법 검사:
     표제어: 떼
     품사: 명사
 ---
 000_KEYWORD: 떼거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51847
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -94,13 +94,13 @@ imported:
     표제어: 떼거리
     품사: 명사
     항목ID: 51847
-processed:
+result:
   맞춤법 검사:
     표제어: 떼거리
     품사: 명사
 ---
 000_KEYWORD: 떼거지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51848
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -150,13 +150,13 @@ imported:
     표제어: 떼거지
     품사: 명사
     항목ID: 51848
-processed:
+result:
   맞춤법 검사:
     표제어: 떼거지
     품사: 명사
 ---
 000_KEYWORD: 떼구루루__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51852
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -187,13 +187,13 @@ imported:
     표제어: 떼구루루
     품사: 부사
     항목ID: 51852
-processed:
+result:
   맞춤법 검사:
     표제어: 떼구루루
     품사: 부사
 ---
 000_KEYWORD: 떼굴떼굴__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51854
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -222,13 +222,13 @@ imported:
     표제어: 떼굴떼굴
     품사: 부사
     항목ID: 51854
-processed:
+result:
   맞춤법 검사:
     표제어: 떼굴떼굴
     품사: 부사
 ---
 000_KEYWORD: 떼다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66563
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -413,13 +413,13 @@ imported:
       형태: 떼니
     - 발음: 뗌ː니다
       형태: 뗍니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떼다
     품사: 동사
 ---
 000_KEYWORD: 떼돈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51855
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -445,13 +445,13 @@ imported:
     표제어: 떼돈
     품사: 명사
     항목ID: 51855
-processed:
+result:
   맞춤법 검사:
     표제어: 떼돈
     품사: 명사
 ---
 000_KEYWORD: 떼먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51856
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -511,17 +511,17 @@ imported:
     - 발음: 떼ː멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/51856_tte-meongneun.wav
       형태: 떼먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 떼먹다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떼밀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51857
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -560,13 +560,13 @@ imported:
     - 발음: 떼ː밈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/51857_tte-mimnida.wav
       형태: 떼밉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떼밀다
     품사: 동사
 ---
 000_KEYWORD: 떼쓰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51861
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -597,13 +597,13 @@ imported:
     활용:
     - 형태: 떼써
     - 형태: 떼쓰니
-processed:
+result:
   맞춤법 검사:
     표제어: 떼쓰다
     품사: 동사
 ---
 000_KEYWORD: 떼어먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51865
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -663,17 +663,17 @@ imported:
     - 발음: 떼어멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/51865_tteeomeongneun.wav
       형태: 떼어먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 떼어먹다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떼이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51872
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -709,13 +709,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/51872_tteiyeo.wav
       형태: 떼이어
     - 형태: 떼이니
-processed:
+result:
   맞춤법 검사:
     표제어: 떼이다
     품사: 동사
 ---
 000_KEYWORD: 떼쟁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51879
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -741,13 +741,13 @@ imported:
     표제어: 떼쟁이
     품사: 명사
     항목ID: 51879
-processed:
+result:
   맞춤법 검사:
     표제어: 떼쟁이
     품사: 명사
 ---
 000_KEYWORD: 떼죽음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51882
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -774,13 +774,13 @@ imported:
     표제어: 떼죽음
     품사: 명사
     항목ID: 51882
-processed:
+result:
   맞춤법 검사:
     표제어: 떼죽음
     품사: 명사
 ---
 000_KEYWORD: 떽떽거리다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -790,13 +790,13 @@ imported:
     표제어: 떽떽거리다
     품사: 동사
     항목ID: 7930
-processed:
+result:
   맞춤법 검사:
     표제어: 떽떽거리다
     품사: 동사
 ---
 000_KEYWORD: 뗀석기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -806,13 +806,13 @@ imported:
     표제어: 뗀석기
     품사: 명사:보통:비서술성
     항목ID: 7931
-processed:
+result:
   맞춤법 검사:
     표제어: 뗀석기
     품사: 명사
 ---
 000_KEYWORD: 뗏목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51885
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -849,7 +849,7 @@ imported:
     - 발음: 뗀몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/51885_ttenmongman.wav
       형태: 뗏목만
-processed:
+result:
   맞춤법 검사:
     표제어: 뗏목
     품사: 명사

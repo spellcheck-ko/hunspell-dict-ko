@@ -1,5 +1,5 @@
 000_KEYWORD: -품__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83212
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -105,11 +105,11 @@ imported:
     표제어: -품
     품사: 접사
     항목ID: 83212
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -풍__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83214
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -136,11 +136,11 @@ imported:
     표제어: -풍
     품사: 접사
     항목ID: 83214
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 푸근하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83564
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -220,13 +220,13 @@ imported:
       형태: 푸근하니
     - 발음: 푸근함니다
       형태: 푸근합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸근하다
     품사: 형용사
 ---
 000_KEYWORD: 푸근히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83565
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -279,13 +279,13 @@ imported:
     표제어: 푸근히
     품사: 부사
     항목ID: 83565
-processed:
+result:
   맞춤법 검사:
     표제어: 푸근히
     품사: 부사
 ---
 000_KEYWORD: 푸념__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83566
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -314,13 +314,13 @@ imported:
     표제어: 푸념
     품사: 명사
     항목ID: 83566
-processed:
+result:
   맞춤법 검사:
     표제어: 푸념
     품사: 명사
 ---
 000_KEYWORD: 푸념하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83567
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -348,13 +348,13 @@ imported:
     표제어: 푸념하다
     품사: 동사
     항목ID: 83567
-processed:
+result:
   맞춤법 검사:
     표제어: 푸념하다
     품사: 동사
 ---
 000_KEYWORD: 푸다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83568
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -387,17 +387,17 @@ imported:
     활용:
     - 형태: 퍼
     - 형태: 푸니
-processed:
+result:
   맞춤법 검사:
     표제어: 푸다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 우불규칙
 ---
 000_KEYWORD: 푸닥거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83569
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -422,13 +422,13 @@ imported:
     표제어: 푸닥거리
     품사: 명사
     항목ID: 83569
-processed:
+result:
   맞춤법 검사:
     표제어: 푸닥거리
     품사: 명사
 ---
 000_KEYWORD: 푸닥거리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83570
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -454,13 +454,13 @@ imported:
     표제어: 푸닥거리하다
     품사: 동사
     항목ID: 83570
-processed:
+result:
   맞춤법 검사:
     표제어: 푸닥거리하다
     품사: 동사
 ---
 000_KEYWORD: 푸대접__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83571
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -510,13 +510,13 @@ imported:
     - 발음: 푸대점만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/36000/83571_pudaejeomman.wav
       형태: 푸대접만
-processed:
+result:
   맞춤법 검사:
     표제어: 푸대접
     품사: 명사
 ---
 000_KEYWORD: 푸대접하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83572
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -552,13 +552,13 @@ imported:
     표제어: 푸대접하다
     품사: 동사
     항목ID: 83572
-processed:
+result:
   맞춤법 검사:
     표제어: 푸대접하다
     품사: 동사
 ---
 000_KEYWORD: 푸드덕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83573
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -598,13 +598,13 @@ imported:
     표제어: 푸드덕
     품사: 부사
     항목ID: 83573
-processed:
+result:
   맞춤법 검사:
     표제어: 푸드덕
     품사: 부사
 ---
 000_KEYWORD: 푸드덕거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83574
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -660,13 +660,13 @@ imported:
     표제어: 푸드덕거리다
     품사: 동사
     항목ID: 83574
-processed:
+result:
   맞춤법 검사:
     표제어: 푸드덕거리다
     품사: 동사
 ---
 000_KEYWORD: 푸드덕대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91503
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -720,13 +720,13 @@ imported:
     표제어: 푸드덕대다
     품사: 동사
     항목ID: 91503
-processed:
+result:
   맞춤법 검사:
     표제어: 푸드덕대다
     품사: 동사
 ---
 000_KEYWORD: 푸드덕푸드덕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90823
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -763,13 +763,13 @@ imported:
     표제어: 푸드덕푸드덕
     품사: 부사
     항목ID: 90823
-processed:
+result:
   맞춤법 검사:
     표제어: 푸드덕푸드덕
     품사: 부사
 ---
 000_KEYWORD: 푸드덕푸드덕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90824
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -821,13 +821,13 @@ imported:
     표제어: 푸드덕푸드덕하다
     품사: 동사
     항목ID: 90824
-processed:
+result:
   맞춤법 검사:
     표제어: 푸드덕푸드덕하다
     품사: 동사
 ---
 000_KEYWORD: 푸드덕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90825
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -863,13 +863,13 @@ imported:
     표제어: 푸드덕하다
     품사: 동사
     항목ID: 90825
-processed:
+result:
   맞춤법 검사:
     표제어: 푸드덕하다
     품사: 동사
 ---
 000_KEYWORD: 푸드득거리다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -879,13 +879,13 @@ imported:
     표제어: 푸드득거리다
     품사: 동사
     항목ID: 29205
-processed:
+result:
   맞춤법 검사:
     표제어: 푸드득거리다
     품사: 동사
 ---
 000_KEYWORD: 푸들푸들__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83575
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -914,13 +914,13 @@ imported:
     표제어: 푸들푸들
     품사: 부사
     항목ID: 83575
-processed:
+result:
   맞춤법 검사:
     표제어: 푸들푸들
     품사: 부사
 ---
 000_KEYWORD: 푸들푸들하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83576
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -952,13 +952,13 @@ imported:
     표제어: 푸들푸들하다
     품사: 동사
     항목ID: 83576
-processed:
+result:
   맞춤법 검사:
     표제어: 푸들푸들하다
     품사: 동사
 ---
 000_KEYWORD: 푸딩__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -969,13 +969,13 @@ imported:
     표제어: 푸딩
     품사: 명사:보통:비서술성
     항목ID: 29206
-processed:
+result:
   맞춤법 검사:
     표제어: 푸딩
     품사: 명사
 ---
 000_KEYWORD: 푸르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73266
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1081,7 +1081,7 @@ imported:
       형태: 푸르니
     - 발음: 푸름니다
       형태: 푸릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 러불규칙
@@ -1089,7 +1089,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 푸르뎅뎅하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83577
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1128,13 +1128,13 @@ imported:
       형태: 푸르뎅뎅하니
     - 발음: 푸르뎅뎅함니다
       형태: 푸르뎅뎅합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸르뎅뎅하다
     품사: 형용사
 ---
 000_KEYWORD: 푸르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91723
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1230,13 +1230,13 @@ imported:
     표제어: 푸르르
     품사: 부사
     항목ID: 91723
-processed:
+result:
   맞춤법 검사:
     표제어: 푸르르
     품사: 부사
 ---
 000_KEYWORD: 푸르무레하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83579
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1275,13 +1275,13 @@ imported:
       형태: 푸르무레하니
     - 발음: 푸르무레함니다
       형태: 푸르무레합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸르무레하다
     품사: 형용사
 ---
 000_KEYWORD: 푸르스레하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91046
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1328,13 +1328,13 @@ imported:
       형태: 푸르스레하니
     - 발음: 푸르스레함니다
       형태: 푸르스레합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸르스레하다
     품사: 형용사
 ---
 000_KEYWORD: 푸르스름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83580
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1381,13 +1381,13 @@ imported:
       형태: 푸르스름하니
     - 발음: 푸르스름함니다
       형태: 푸르스름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸르스름하다
     품사: 형용사
 ---
 000_KEYWORD: 푸르죽죽하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83581
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1427,13 +1427,13 @@ imported:
       형태: 푸르죽죽하니
     - 발음: 푸르죽쭈캄니다
       형태: 푸르죽죽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸르죽죽하다
     품사: 형용사
 ---
 000_KEYWORD: 푸른빛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83582
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1475,13 +1475,13 @@ imported:
     - 발음: 푸른빈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83582_pureunbinman.wav
       형태: 푸른빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 푸른빛
     품사: 명사
 ---
 000_KEYWORD: 푸른색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83583
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1525,13 +1525,13 @@ imported:
     - 발음: 푸른생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/83583_pureunsaengman.wav
       형태: 푸른색만
-processed:
+result:
   맞춤법 검사:
     표제어: 푸른색
     품사: 명사
 ---
 000_KEYWORD: 푸릇푸릇__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83584
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1558,13 +1558,13 @@ imported:
     표제어: 푸릇푸릇
     품사: 부사
     항목ID: 83584
-processed:
+result:
   맞춤법 검사:
     표제어: 푸릇푸릇
     품사: 부사
 ---
 000_KEYWORD: 푸릇푸릇하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83585
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1606,13 +1606,13 @@ imported:
       형태: 푸릇푸릇하니
     - 발음: 푸륻푸르탐니다
       형태: 푸릇푸릇합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸릇푸릇하다
     품사: 형용사
 ---
 000_KEYWORD: 푸릇하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1622,13 +1622,13 @@ imported:
     표제어: 푸릇하다
     품사: 형용사
     항목ID: 29211
-processed:
+result:
   맞춤법 검사:
     표제어: 푸릇하다
     품사: 형용사
 ---
 000_KEYWORD: 푸석푸석__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83588
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1657,13 +1657,13 @@ imported:
     표제어: 푸석푸석
     품사: 부사
     항목ID: 83588
-processed:
+result:
   맞춤법 검사:
     표제어: 푸석푸석
     품사: 부사
 ---
 000_KEYWORD: 푸석푸석하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83589
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1702,13 +1702,13 @@ imported:
       형태: 푸석푸석하니
     - 발음: 푸석푸서캄니다
       형태: 푸석푸석합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸석푸석하다
     품사: 형용사
 ---
 000_KEYWORD: 푸석하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83590
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1747,13 +1747,13 @@ imported:
       형태: 푸석하니
     - 발음: 푸서캄니다
       형태: 푸석합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸석하다
     품사: 형용사
 ---
 000_KEYWORD: 푸성귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83591
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1780,13 +1780,13 @@ imported:
     표제어: 푸성귀
     품사: 명사
     항목ID: 83591
-processed:
+result:
   맞춤법 검사:
     표제어: 푸성귀
     품사: 명사
 ---
 000_KEYWORD: 푸시시__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91724
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1865,13 +1865,13 @@ imported:
     표제어: 푸시시
     품사: 부사
     항목ID: 91724
-processed:
+result:
   맞춤법 검사:
     표제어: 푸시시
     품사: 부사
 ---
 000_KEYWORD: 푸에르토리코__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69988
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1889,13 +1889,13 @@ imported:
     표제어: 푸에르토리코
     품사: 명사
     항목ID: 69988
-processed:
+result:
   맞춤법 검사:
     표제어: 푸에르토리코
     품사: 명사
 ---
 000_KEYWORD: 푸줏간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91725
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1925,13 +1925,13 @@ imported:
     표제어: 푸줏간
     품사: 명사
     항목ID: 91725
-processed:
+result:
   맞춤법 검사:
     표제어: 푸줏간
     품사: 명사
 ---
 000_KEYWORD: 푸지다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91726
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1973,13 +1973,13 @@ imported:
       형태: 푸지니
     - 발음: 푸짐니다
       형태: 푸집니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸지다
     품사: 형용사
 ---
 000_KEYWORD: 푸짐하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91727
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2018,13 +2018,13 @@ imported:
       형태: 푸짐하니
     - 발음: 푸짐함니다
       형태: 푸짐합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푸짐하다
     품사: 형용사
 ---
 000_KEYWORD: 푸짐히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91983
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2051,13 +2051,13 @@ imported:
     표제어: 푸짐히
     품사: 부사
     항목ID: 91983
-processed:
+result:
   맞춤법 검사:
     표제어: 푸짐히
     품사: 부사
 ---
 000_KEYWORD: 푹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83605
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2185,13 +2185,13 @@ imported:
     표제어: 푹
     품사: 부사
     항목ID: 83605
-processed:
+result:
   맞춤법 검사:
     표제어: 푹
     품사: 부사
 ---
 000_KEYWORD: 푹신__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83606
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2215,13 +2215,13 @@ imported:
     표제어: 푹신
     품사: 부사
     항목ID: 83606
-processed:
+result:
   맞춤법 검사:
     표제어: 푹신
     품사: 부사
 ---
 000_KEYWORD: 푹신푹신__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83607
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2250,13 +2250,13 @@ imported:
     표제어: 푹신푹신
     품사: 부사
     항목ID: 83607
-processed:
+result:
   맞춤법 검사:
     표제어: 푹신푹신
     품사: 부사
 ---
 000_KEYWORD: 푹신푹신하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83608
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2304,13 +2304,13 @@ imported:
       형태: 푹신푹신하니
     - 발음: 푹씬푹씬함니다
       형태: 푹신푹신합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푹신푹신하다
     품사: 형용사
 ---
 000_KEYWORD: 푹신하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83609
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2354,13 +2354,13 @@ imported:
       형태: 푹신하니
     - 발음: 푹씬함니다
       형태: 푹신합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푹신하다
     품사: 형용사
 ---
 000_KEYWORD: 푹푹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83610
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2571,13 +2571,13 @@ imported:
     표제어: 푹푹
     품사: 부사
     항목ID: 83610
-processed:
+result:
   맞춤법 검사:
     표제어: 푹푹
     품사: 부사
 ---
 000_KEYWORD: 푹하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83613
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2615,13 +2615,13 @@ imported:
       형태: 푹하니
     - 발음: 푸캄니다
       형태: 푹합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 푹하다
     품사: 형용사
 ---
 000_KEYWORD: 푼__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83614
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2665,13 +2665,13 @@ imported:
     표제어: 푼
     품사: 의존 명사
     항목ID: 83614
-processed:
+result:
   맞춤법 검사:
     표제어: 푼
     품사: 의존 명사
 ---
 000_KEYWORD: 푼돈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83616
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2708,13 +2708,13 @@ imported:
     표제어: 푼돈
     품사: 명사
     항목ID: 83616
-processed:
+result:
   맞춤법 검사:
     표제어: 푼돈
     품사: 명사
 ---
 000_KEYWORD: 푼수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83617
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2752,13 +2752,13 @@ imported:
     표제어: 푼수
     품사: 명사
     항목ID: 83617
-processed:
+result:
   맞춤법 검사:
     표제어: 푼수
     품사: 명사
 ---
 000_KEYWORD: 푼푼이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83618
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2785,13 +2785,13 @@ imported:
     표제어: 푼푼이
     품사: 부사
     항목ID: 83618
-processed:
+result:
   맞춤법 검사:
     표제어: 푼푼이
     품사: 부사
 ---
 000_KEYWORD: 풀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73267
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2824,13 +2824,13 @@ imported:
     표제어: 풀
     품사: 명사
     항목ID: 73267
-processed:
+result:
   맞춤법 검사:
     표제어: 풀
     품사: 명사
 ---
 000_KEYWORD: 풀__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73268
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2861,13 +2861,13 @@ imported:
     표제어: 풀
     품사: 명사
     항목ID: 73268
-processed:
+result:
   맞춤법 검사:
     표제어: 풀
     품사: 명사
 ---
 000_KEYWORD: 풀__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83620
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2894,13 +2894,13 @@ imported:
     표제어: 풀
     품사: 명사
     항목ID: 83620
-processed:
+result:
   맞춤법 검사:
     표제어: 풀
     품사: 명사
 ---
 000_KEYWORD: 풀__명사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83621
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2931,13 +2931,13 @@ imported:
     표제어: 풀
     품사: 명사
     항목ID: 83621
-processed:
+result:
   맞춤법 검사:
     표제어: 풀
     품사: 명사
 ---
 000_KEYWORD: 풀기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83622
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2977,13 +2977,13 @@ imported:
     표제어: 풀기
     품사: 명사
     항목ID: 83622
-processed:
+result:
   맞춤법 검사:
     표제어: 풀기
     품사: 명사
 ---
 000_KEYWORD: 풀꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83623
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3021,13 +3021,13 @@ imported:
     - 발음: 풀꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83623_pulkkonman.wav
       형태: 풀꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 풀꽃
     품사: 명사
 ---
 000_KEYWORD: 풀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29761
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3301,13 +3301,13 @@ imported:
     - 발음: 품니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/29761_pumnida.wav
       형태: 풉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 풀다
     품사: 동사
 ---
 000_KEYWORD: 풀려나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83624
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3338,17 +3338,17 @@ imported:
     활용:
     - 형태: 풀려나
     - 형태: 풀려나니
-processed:
+result:
   맞춤법 검사:
     표제어: 풀려나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 풀려나오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83625
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3377,7 +3377,7 @@ imported:
     활용:
     - 형태: 풀려나와
     - 형태: 풀려나오니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3385,7 +3385,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 풀리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62314
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3602,13 +3602,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/62314_pulliyeo.wav
       형태: 풀리어
     - 형태: 풀리니
-processed:
+result:
   맞춤법 검사:
     표제어: 풀리다
     품사: 동사
 ---
 000_KEYWORD: 풀무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3618,13 +3618,13 @@ imported:
     표제어: 풀무
     품사: 명사:보통:비서술성
     항목ID: 29226
-processed:
+result:
   맞춤법 검사:
     표제어: 풀무
     품사: 명사
 ---
 000_KEYWORD: 풀밭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83626
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3663,13 +3663,13 @@ imported:
     - 발음: 풀반만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83626_pulbanman.wav
       형태: 풀밭만
-processed:
+result:
   맞춤법 검사:
     표제어: 풀밭
     품사: 명사
 ---
 000_KEYWORD: 풀벌레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83628
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3699,13 +3699,13 @@ imported:
     표제어: 풀벌레
     품사: 명사
     항목ID: 83628
-processed:
+result:
   맞춤법 검사:
     표제어: 풀벌레
     품사: 명사
 ---
 000_KEYWORD: 풀빛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83629
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3743,13 +3743,13 @@ imported:
     - 발음: 풀삔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83629_pulppinman.wav
       형태: 풀빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 풀빛
     품사: 명사
 ---
 000_KEYWORD: 풀빵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83630
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3779,13 +3779,13 @@ imported:
     표제어: 풀빵
     품사: 명사
     항목ID: 83630
-processed:
+result:
   맞춤법 검사:
     표제어: 풀빵
     품사: 명사
 ---
 000_KEYWORD: 풀뿌리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83631
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3813,13 +3813,13 @@ imported:
     표제어: 풀뿌리
     품사: 명사
     항목ID: 83631
-processed:
+result:
   맞춤법 검사:
     표제어: 풀뿌리
     품사: 명사
 ---
 000_KEYWORD: 풀숲__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83632
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3857,13 +3857,13 @@ imported:
     - 발음: 풀숨만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83632_pulsumman.wav
       형태: 풀숲만
-processed:
+result:
   맞춤법 검사:
     표제어: 풀숲
     품사: 명사
 ---
 000_KEYWORD: 풀썩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83633
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3893,13 +3893,13 @@ imported:
     표제어: 풀썩
     품사: 부사
     항목ID: 83633
-processed:
+result:
   맞춤법 검사:
     표제어: 풀썩
     품사: 부사
 ---
 000_KEYWORD: 풀썩하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3909,13 +3909,13 @@ imported:
     표제어: 풀썩하다
     품사: 동사
     항목ID: 29232
-processed:
+result:
   맞춤법 검사:
     표제어: 풀썩하다
     품사: 동사
 ---
 000_KEYWORD: 풀어내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83634
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3986,7 +3986,7 @@ imported:
     - 발음: 푸러내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83634_pureonaeni.wav
       형태: 풀어내니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3994,7 +3994,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 풀어놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83636
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4041,19 +4041,19 @@ imported:
     - 발음: 푸러노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83636_pureonosseumnida.wav
       형태: 풀어놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
     표제어: 풀어놓다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 풀어쓰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83637
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4085,13 +4085,13 @@ imported:
     - 발음: 푸러쓰니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83637_pureosseuni.wav
       형태: 풀어쓰니
-processed:
+result:
   맞춤법 검사:
     표제어: 풀어쓰다
     품사: 동사
 ---
 000_KEYWORD: 풀어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83639
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4267,17 +4267,17 @@ imported:
     - 발음: 푸러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83639_pureojini.wav
       형태: 풀어지니
-processed:
+result:
   맞춤법 검사:
     표제어: 풀어지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 풀어헤치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83641
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4318,17 +4318,17 @@ imported:
     - 발음: 푸러헤치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83641_pureohechini.wav
       형태: 풀어헤치니
-processed:
+result:
   맞춤법 검사:
     표제어: 풀어헤치다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 풀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83642
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4369,13 +4369,13 @@ imported:
     표제어: 풀이
     품사: 명사
     항목ID: 83642
-processed:
+result:
   맞춤법 검사:
     표제어: 풀이
     품사: 명사
 ---
 000_KEYWORD: 풀이되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83643
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4407,13 +4407,13 @@ imported:
     표제어: 풀이되다
     품사: 동사
     항목ID: 83643
-processed:
+result:
   맞춤법 검사:
     표제어: 풀이되다
     품사: 동사
 ---
 000_KEYWORD: 풀이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83647
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4460,13 +4460,13 @@ imported:
     표제어: 풀이하다
     품사: 동사
     항목ID: 83647
-processed:
+result:
   맞춤법 검사:
     표제어: 풀이하다
     품사: 동사
 ---
 000_KEYWORD: 풀잎__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83648
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4507,13 +4507,13 @@ imported:
     - 발음: 풀림만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83648_pullimman.wav
       형태: 풀잎만
-processed:
+result:
   맞춤법 검사:
     표제어: 풀잎
     품사: 명사
 ---
 000_KEYWORD: 풀장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4524,13 +4524,13 @@ imported:
     표제어: 풀장
     품사: 명사:보통:비서술성
     항목ID: 29241
-processed:
+result:
   맞춤법 검사:
     표제어: 풀장
     품사: 명사
 ---
 000_KEYWORD: 풀쩍풀쩍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83723
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4575,13 +4575,13 @@ imported:
     표제어: 풀쩍풀쩍
     품사: 부사
     항목ID: 83723
-processed:
+result:
   맞춤법 검사:
     표제어: 풀쩍풀쩍
     품사: 부사
 ---
 000_KEYWORD: 풀칠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83649
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4623,13 +4623,13 @@ imported:
     표제어: 풀칠
     품사: 명사
     항목ID: 83649
-processed:
+result:
   맞춤법 검사:
     표제어: 풀칠
     품사: 명사
 ---
 000_KEYWORD: 풀칠하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83743
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4668,13 +4668,13 @@ imported:
     표제어: 풀칠하다
     품사: 동사
     항목ID: 83743
-processed:
+result:
   맞춤법 검사:
     표제어: 풀칠하다
     품사: 동사
 ---
 000_KEYWORD: 풀코스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4684,13 +4684,13 @@ imported:
     표제어: 풀코스
     품사: 명사:보통:서술성
     항목ID: 29245
-processed:
+result:
   맞춤법 검사:
     표제어: 풀코스
     품사: 명사
 ---
 000_KEYWORD: 풀타임__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4700,13 +4700,13 @@ imported:
     표제어: 풀타임
     품사: 명사:보통:서술성
     항목ID: 29246
-processed:
+result:
   맞춤법 검사:
     표제어: 풀타임
     품사: 명사
 ---
 000_KEYWORD: 풀포기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83744
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4732,13 +4732,13 @@ imported:
     표제어: 풀포기
     품사: 명사
     항목ID: 83744
-processed:
+result:
   맞춤법 검사:
     표제어: 풀포기
     품사: 명사
 ---
 000_KEYWORD: 풀풀__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83745
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4821,13 +4821,13 @@ imported:
     표제어: 풀풀
     품사: 부사
     항목ID: 83745
-processed:
+result:
   맞춤법 검사:
     표제어: 풀풀
     품사: 부사
 ---
 000_KEYWORD: 풀피리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83746
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4852,13 +4852,13 @@ imported:
     표제어: 풀피리
     품사: 명사
     항목ID: 83746
-processed:
+result:
   맞춤법 검사:
     표제어: 풀피리
     품사: 명사
 ---
 000_KEYWORD: 품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83747
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4919,13 +4919,13 @@ imported:
     표제어: 품
     품사: 명사
     항목ID: 83747
-processed:
+result:
   맞춤법 검사:
     표제어: 품
     품사: 명사
 ---
 000_KEYWORD: 품__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83748
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4962,13 +4962,13 @@ imported:
     표제어: 품
     품사: 명사
     항목ID: 83748
-processed:
+result:
   맞춤법 검사:
     표제어: 품
     품사: 명사
 ---
 000_KEYWORD: 품__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83749
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4990,13 +4990,13 @@ imported:
     표제어: 품
     품사: 의존 명사
     항목ID: 83749
-processed:
+result:
   맞춤법 검사:
     표제어: 품
     품사: 의존 명사
 ---
 000_KEYWORD: 품값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83751
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5036,13 +5036,13 @@ imported:
     - 발음: 품깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83751_pumkkamman.wav
       형태: 품값만
-processed:
+result:
   맞춤법 검사:
     표제어: 품값
     품사: 명사
 ---
 000_KEYWORD: 품격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83752
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5099,13 +5099,13 @@ imported:
     - 발음: 품ː꼉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83752_pum-kkyeongman.wav
       형태: 품격만
-processed:
+result:
   맞춤법 검사:
     표제어: 품격
     품사: 명사
 ---
 000_KEYWORD: 품귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83753
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5131,13 +5131,13 @@ imported:
     표제어: 품귀
     품사: 명사
     항목ID: 83753
-processed:
+result:
   맞춤법 검사:
     표제어: 품귀
     품사: 명사
 ---
 000_KEYWORD: 품다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83755
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5226,13 +5226,13 @@ imported:
     - 발음: 푸므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83755_pumeuni.wav
       형태: 품으니
-processed:
+result:
   맞춤법 검사:
     표제어: 품다
     품사: 동사
 ---
 000_KEYWORD: 품명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83756
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5281,13 +5281,13 @@ imported:
     표제어: 품명
     품사: 명사
     항목ID: 83756
-processed:
+result:
   맞춤법 검사:
     표제어: 품명
     품사: 명사
 ---
 000_KEYWORD: 품목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83757
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5341,13 +5341,13 @@ imported:
     - 발음: 품ː몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83757_pum-mongman.wav
       형태: 품목만
-processed:
+result:
   맞춤법 검사:
     표제어: 품목
     품사: 명사
 ---
 000_KEYWORD: 품사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88323
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5375,13 +5375,13 @@ imported:
     표제어: 품사
     품사: 명사
     항목ID: 88323
-processed:
+result:
   맞춤법 검사:
     표제어: 품사
     품사: 명사
 ---
 000_KEYWORD: 품삯__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88419
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5421,13 +5421,13 @@ imported:
     - 발음: 품쌍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/88419_pumssangman.wav
       형태: 품삯만
-processed:
+result:
   맞춤법 검사:
     표제어: 품삯
     품사: 명사
 ---
 000_KEYWORD: 품새__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5437,13 +5437,13 @@ imported:
     표제어: 품새
     품사: 명사:보통:서술성
     항목ID: 29255
-processed:
+result:
   맞춤법 검사:
     표제어: 품새
     품사: 명사
 ---
 000_KEYWORD: 품성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88420
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5472,13 +5472,13 @@ imported:
     표제어: 품성
     품사: 명사
     항목ID: 88420
-processed:
+result:
   맞춤법 검사:
     표제어: 품성
     품사: 명사
 ---
 000_KEYWORD: 품성__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88421
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5506,13 +5506,13 @@ imported:
     표제어: 품성
     품사: 명사
     항목ID: 88421
-processed:
+result:
   맞춤법 검사:
     표제어: 품성
     품사: 명사
 ---
 000_KEYWORD: 품세__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5521,13 +5521,13 @@ imported:
     표제어: 품세
     품사: 명사:보통:서술성
     항목ID: 29257
-processed:
+result:
   맞춤법 검사:
     표제어: 품세
     품사: 명사
 ---
 000_KEYWORD: 품속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88460
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5565,13 +5565,13 @@ imported:
     - 발음: 품쏭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/88460_pumssongman.wav
       형태: 품속만
-processed:
+result:
   맞춤법 검사:
     표제어: 품속
     품사: 명사
 ---
 000_KEYWORD: 품앗이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88462
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5596,13 +5596,13 @@ imported:
     표제어: 품앗이
     품사: 명사
     항목ID: 88462
-processed:
+result:
   맞춤법 검사:
     표제어: 품앗이
     품사: 명사
 ---
 000_KEYWORD: 품앗이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88463
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5625,13 +5625,13 @@ imported:
     표제어: 품앗이하다
     품사: 동사
     항목ID: 88463
-processed:
+result:
   맞춤법 검사:
     표제어: 품앗이하다
     품사: 동사
 ---
 000_KEYWORD: 품위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88464
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5669,13 +5669,13 @@ imported:
     표제어: 품위
     품사: 명사
     항목ID: 88464
-processed:
+result:
   맞춤법 검사:
     표제어: 품위
     품사: 명사
 ---
 000_KEYWORD: 품절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88465
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5702,13 +5702,13 @@ imported:
     표제어: 품절
     품사: 명사
     항목ID: 88465
-processed:
+result:
   맞춤법 검사:
     표제어: 품절
     품사: 명사
 ---
 000_KEYWORD: 품절되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88471
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5740,13 +5740,13 @@ imported:
     표제어: 품절되다
     품사: 동사
     항목ID: 88471
-processed:
+result:
   맞춤법 검사:
     표제어: 품절되다
     품사: 동사
 ---
 000_KEYWORD: 품종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88506
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5788,13 +5788,13 @@ imported:
     표제어: 품종
     품사: 명사
     항목ID: 88506
-processed:
+result:
   맞춤법 검사:
     표제어: 품종
     품사: 명사
 ---
 000_KEYWORD: 품질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88645
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5824,13 +5824,13 @@ imported:
     표제어: 품질
     품사: 명사
     항목ID: 88645
-processed:
+result:
   맞춤법 검사:
     표제어: 품질
     품사: 명사
 ---
 000_KEYWORD: 품질관리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5840,13 +5840,13 @@ imported:
     표제어: 품질관리
     품사: 명사:보통:서술성
     항목ID: 29263
-processed:
+result:
   맞춤법 검사:
     표제어: 품질관리
     품사: 명사
 ---
 000_KEYWORD: 품팔이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88711
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5881,13 +5881,13 @@ imported:
     표제어: 품팔이
     품사: 명사
     항목ID: 88711
-processed:
+result:
   맞춤법 검사:
     표제어: 품팔이
     품사: 명사
 ---
 000_KEYWORD: 품평__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88712
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5916,13 +5916,13 @@ imported:
     표제어: 품평
     품사: 명사
     항목ID: 88712
-processed:
+result:
   맞춤법 검사:
     표제어: 품평
     품사: 명사
 ---
 000_KEYWORD: 품평하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88713
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5950,13 +5950,13 @@ imported:
     표제어: 품평하다
     품사: 동사
     항목ID: 88713
-processed:
+result:
   맞춤법 검사:
     표제어: 품평하다
     품사: 동사
 ---
 000_KEYWORD: 품평회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88714
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5985,13 +5985,13 @@ imported:
     표제어: 품평회
     품사: 명사
     항목ID: 88714
-processed:
+result:
   맞춤법 검사:
     표제어: 품평회
     품사: 명사
 ---
 000_KEYWORD: 품행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88715
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6020,13 +6020,13 @@ imported:
     표제어: 품행
     품사: 명사
     항목ID: 88715
-processed:
+result:
   맞춤법 검사:
     표제어: 품행
     품사: 명사
 ---
 000_KEYWORD: 풋-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83213
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6052,11 +6052,11 @@ imported:
     표제어: 풋-
     품사: 접사
     항목ID: 83213
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 풋__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88716
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6081,13 +6081,13 @@ imported:
     표제어: 풋
     품사: 부사
     항목ID: 88716
-processed:
+result:
   맞춤법 검사:
     표제어: 풋
     품사: 부사
 ---
 000_KEYWORD: 풋감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88717
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6113,13 +6113,13 @@ imported:
     표제어: 풋감
     품사: 명사
     항목ID: 88717
-processed:
+result:
   맞춤법 검사:
     표제어: 풋감
     품사: 명사
 ---
 000_KEYWORD: 풋고추__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88718
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6149,13 +6149,13 @@ imported:
     표제어: 풋고추
     품사: 명사
     항목ID: 88718
-processed:
+result:
   맞춤법 검사:
     표제어: 풋고추
     품사: 명사
 ---
 000_KEYWORD: 풋과일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88791
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6180,13 +6180,13 @@ imported:
     표제어: 풋과일
     품사: 명사
     항목ID: 88791
-processed:
+result:
   맞춤법 검사:
     표제어: 풋과일
     품사: 명사
 ---
 000_KEYWORD: 풋김치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88792
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6213,13 +6213,13 @@ imported:
     표제어: 풋김치
     품사: 명사
     항목ID: 88792
-processed:
+result:
   맞춤법 검사:
     표제어: 풋김치
     품사: 명사
 ---
 000_KEYWORD: 풋나기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92322
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6232,10 +6232,10 @@ imported:
     표제어: 풋나기
     품사: 명사
     항목ID: 92322
-processed: {}
+result: {}
 ---
 000_KEYWORD: 풋나물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84331
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6262,13 +6262,13 @@ imported:
     표제어: 풋나물
     품사: 명사
     항목ID: 84331
-processed:
+result:
   맞춤법 검사:
     표제어: 풋나물
     품사: 명사
 ---
 000_KEYWORD: 풋내기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84333
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6317,13 +6317,13 @@ imported:
     표제어: 풋내기
     품사: 명사
     항목ID: 84333
-processed:
+result:
   맞춤법 검사:
     표제어: 풋내기
     품사: 명사
 ---
 000_KEYWORD: 풋사랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84335
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6359,13 +6359,13 @@ imported:
     표제어: 풋사랑
     품사: 명사
     항목ID: 84335
-processed:
+result:
   맞춤법 검사:
     표제어: 풋사랑
     품사: 명사
 ---
 000_KEYWORD: 풋잠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84336
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6390,13 +6390,13 @@ imported:
     표제어: 풋잠
     품사: 명사
     항목ID: 84336
-processed:
+result:
   맞춤법 검사:
     표제어: 풋잠
     품사: 명사
 ---
 000_KEYWORD: 풋풋하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84337
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6434,13 +6434,13 @@ imported:
       형태: 풋풋하니
     - 발음: 푿푸탐니다
       형태: 풋풋합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 풋풋하다
     품사: 형용사
 ---
 000_KEYWORD: 풍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84379
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6499,13 +6499,13 @@ imported:
     표제어: 풍
     품사: 명사
     항목ID: 84379
-processed:
+result:
   맞춤법 검사:
     표제어: 풍
     품사: 명사
 ---
 000_KEYWORD: 풍경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72392
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6565,13 +6565,13 @@ imported:
     표제어: 풍경
     품사: 명사
     항목ID: 72392
-processed:
+result:
   맞춤법 검사:
     표제어: 풍경
     품사: 명사
 ---
 000_KEYWORD: 풍경화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84380
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6598,13 +6598,13 @@ imported:
     표제어: 풍경화
     품사: 명사
     항목ID: 84380
-processed:
+result:
   맞춤법 검사:
     표제어: 풍경화
     품사: 명사
 ---
 000_KEYWORD: 풍광__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84381
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6655,13 +6655,13 @@ imported:
     표제어: 풍광
     품사: 명사
     항목ID: 84381
-processed:
+result:
   맞춤법 검사:
     표제어: 풍광
     품사: 명사
 ---
 000_KEYWORD: 풍금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84382
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6695,13 +6695,13 @@ imported:
     표제어: 풍금
     품사: 명사
     항목ID: 84382
-processed:
+result:
   맞춤법 검사:
     표제어: 풍금
     품사: 명사
 ---
 000_KEYWORD: 풍기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84383
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6727,13 +6727,13 @@ imported:
     표제어: 풍기
     품사: 명사
     항목ID: 84383
-processed:
+result:
   맞춤법 검사:
     표제어: 풍기
     품사: 명사
 ---
 000_KEYWORD: 풍기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84385
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6796,13 +6796,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/84385_punggiyeo.wav
       형태: 풍기어
     - 형태: 풍기니
-processed:
+result:
   맞춤법 검사:
     표제어: 풍기다
     품사: 동사
 ---
 000_KEYWORD: 풍년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84386
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6852,13 +6852,13 @@ imported:
     표제어: 풍년
     품사: 명사
     항목ID: 84386
-processed:
+result:
   맞춤법 검사:
     표제어: 풍년
     품사: 명사
 ---
 000_KEYWORD: 풍덩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90826
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6888,13 +6888,13 @@ imported:
     표제어: 풍덩
     품사: 부사
     항목ID: 90826
-processed:
+result:
   맞춤법 검사:
     표제어: 풍덩
     품사: 부사
 ---
 000_KEYWORD: 풍덩풍덩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84388
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6923,13 +6923,13 @@ imported:
     표제어: 풍덩풍덩
     품사: 부사
     항목ID: 84388
-processed:
+result:
   맞춤법 검사:
     표제어: 풍덩풍덩
     품사: 부사
 ---
 000_KEYWORD: 풍뎅이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84389
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6960,13 +6960,13 @@ imported:
     표제어: 풍뎅이
     품사: 명사
     항목ID: 84389
-processed:
+result:
   맞춤법 검사:
     표제어: 풍뎅이
     품사: 명사
 ---
 000_KEYWORD: 풍동__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6977,13 +6977,13 @@ imported:
     표제어: 풍동
     품사: 명사:보통:서술성
     항목ID: 29279
-processed:
+result:
   맞춤법 검사:
     표제어: 풍동
     품사: 명사
 ---
 000_KEYWORD: 풍랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84391
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7035,13 +7035,13 @@ imported:
     표제어: 풍랑
     품사: 명사
     항목ID: 84391
-processed:
+result:
   맞춤법 검사:
     표제어: 풍랑
     품사: 명사
 ---
 000_KEYWORD: 풍력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84393
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7090,13 +7090,13 @@ imported:
     - 발음: 풍녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84393_pungnyeongman.wav
       형태: 풍력만
-processed:
+result:
   맞춤법 검사:
     표제어: 풍력
     품사: 명사
 ---
 000_KEYWORD: 풍력발전__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7106,13 +7106,13 @@ imported:
     표제어: 풍력발전
     품사: 명사:보통:서술성
     항목ID: 29282
-processed:
+result:
   맞춤법 검사:
     표제어: 풍력발전
     품사: 명사
 ---
 000_KEYWORD: 풍령__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7122,13 +7122,13 @@ imported:
     표제어: 풍령
     품사: 명사:보통:비서술성
     항목ID: 29283
-processed:
+result:
   맞춤법 검사:
     표제어: 풍령
     품사: 명사
 ---
 000_KEYWORD: 풍류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84394
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7158,13 +7158,13 @@ imported:
     표제어: 풍류
     품사: 명사
     항목ID: 84394
-processed:
+result:
   맞춤법 검사:
     표제어: 풍류
     품사: 명사
 ---
 000_KEYWORD: 풍류객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84395
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7201,13 +7201,13 @@ imported:
     - 발음: 풍뉴갱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84395_pungnyugaengman.wav
       형태: 풍뉴객만
-processed:
+result:
   맞춤법 검사:
     표제어: 풍류객
     품사: 명사
 ---
 000_KEYWORD: 풍만하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84396
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7259,13 +7259,13 @@ imported:
       형태: 풍만하니
     - 발음: 풍만함니다
       형태: 풍만합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 풍만하다
     품사: 형용사
 ---
 000_KEYWORD: 풍모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84397
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7296,13 +7296,13 @@ imported:
     표제어: 풍모
     품사: 명사
     항목ID: 84397
-processed:
+result:
   맞춤법 검사:
     표제어: 풍모
     품사: 명사
 ---
 000_KEYWORD: 풍문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84398
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7332,13 +7332,13 @@ imported:
     표제어: 풍문
     품사: 명사
     항목ID: 84398
-processed:
+result:
   맞춤법 검사:
     표제어: 풍문
     품사: 명사
 ---
 000_KEYWORD: 풍물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84399
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7401,13 +7401,13 @@ imported:
     표제어: 풍물
     품사: 명사
     항목ID: 84399
-processed:
+result:
   맞춤법 검사:
     표제어: 풍물
     품사: 명사
 ---
 000_KEYWORD: 풍물놀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84400
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7446,13 +7446,13 @@ imported:
     표제어: 풍물놀이
     품사: 명사
     항목ID: 84400
-processed:
+result:
   맞춤법 검사:
     표제어: 풍물놀이
     품사: 명사
 ---
 000_KEYWORD: 풍미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84402
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7490,13 +7490,13 @@ imported:
     표제어: 풍미
     품사: 명사
     항목ID: 84402
-processed:
+result:
   맞춤법 검사:
     표제어: 풍미
     품사: 명사
 ---
 000_KEYWORD: 풍미하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84403
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7524,13 +7524,13 @@ imported:
     표제어: 풍미하다
     품사: 동사
     항목ID: 84403
-processed:
+result:
   맞춤법 검사:
     표제어: 풍미하다
     품사: 동사
 ---
 000_KEYWORD: 풍부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7539,13 +7539,13 @@ imported:
     표제어: 풍부
     품사: 명사:보통:서술성
     항목ID: 29290
-processed:
+result:
   맞춤법 검사:
     표제어: 풍부
     품사: 명사
 ---
 000_KEYWORD: 풍부하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84404
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7587,13 +7587,13 @@ imported:
       형태: 풍부하니
     - 발음: 풍부함니다
       형태: 풍부합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 풍부하다
     품사: 형용사
 ---
 000_KEYWORD: 풍부히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84405
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7621,13 +7621,13 @@ imported:
     표제어: 풍부히
     품사: 부사
     항목ID: 84405
-processed:
+result:
   맞춤법 검사:
     표제어: 풍부히
     품사: 부사
 ---
 000_KEYWORD: 풍비박산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84406
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7654,13 +7654,13 @@ imported:
     표제어: 풍비박산
     품사: 명사
     항목ID: 84406
-processed:
+result:
   맞춤법 검사:
     표제어: 풍비박산
     품사: 명사
 ---
 000_KEYWORD: 풍상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84407
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7700,13 +7700,13 @@ imported:
     표제어: 풍상
     품사: 명사
     항목ID: 84407
-processed:
+result:
   맞춤법 검사:
     표제어: 풍상
     품사: 명사
 ---
 000_KEYWORD: 풍선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87728
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7757,13 +7757,13 @@ imported:
     표제어: 풍선
     품사: 명사
     항목ID: 87728
-processed:
+result:
   맞춤법 검사:
     표제어: 풍선
     품사: 명사
 ---
 000_KEYWORD: 풍선껌__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7773,13 +7773,13 @@ imported:
     표제어: 풍선껌
     품사: 명사:보통:비서술성
     항목ID: 29294
-processed:
+result:
   맞춤법 검사:
     표제어: 풍선껌
     품사: 명사
 ---
 000_KEYWORD: 풍성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84409
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7808,13 +7808,13 @@ imported:
     표제어: 풍성
     품사: 명사
     항목ID: 84409
-processed:
+result:
   맞춤법 검사:
     표제어: 풍성
     품사: 명사
 ---
 000_KEYWORD: 풍성하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7823,13 +7823,13 @@ imported:
     표제어: 풍성하다
     품사: 동사
     항목ID: 29296
-processed:
+result:
   맞춤법 검사:
     표제어: 풍성하다
     품사: 동사
 ---
 000_KEYWORD: 풍성하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84410
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7871,13 +7871,13 @@ imported:
       형태: 풍성하니
     - 발음: 풍성함니다
       형태: 풍성합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 풍성하다
     품사: 형용사
 ---
 000_KEYWORD: 풍성히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84411
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7905,13 +7905,13 @@ imported:
     표제어: 풍성히
     품사: 부사
     항목ID: 84411
-processed:
+result:
   맞춤법 검사:
     표제어: 풍성히
     품사: 부사
 ---
 000_KEYWORD: 풍속__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84412
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7964,13 +7964,13 @@ imported:
     - 발음: 풍송만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84413_pungsongman.wav
       형태: 풍속만
-processed:
+result:
   맞춤법 검사:
     표제어: 풍속
     품사: 명사
 ---
 000_KEYWORD: 풍속__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84413
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8008,13 +8008,13 @@ imported:
     - 발음: 풍송만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84413_pungsongman.wav
       형태: 풍속만
-processed:
+result:
   맞춤법 검사:
     표제어: 풍속
     품사: 명사
 ---
 000_KEYWORD: 풍속계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84414
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8041,13 +8041,13 @@ imported:
     표제어: 풍속계
     품사: 명사
     항목ID: 84414
-processed:
+result:
   맞춤법 검사:
     표제어: 풍속계
     품사: 명사
 ---
 000_KEYWORD: 풍속도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84415
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8096,13 +8096,13 @@ imported:
     표제어: 풍속도
     품사: 명사
     항목ID: 84415
-processed:
+result:
   맞춤법 검사:
     표제어: 풍속도
     품사: 명사
 ---
 000_KEYWORD: 풍속화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84416
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8134,13 +8134,13 @@ imported:
     표제어: 풍속화
     품사: 명사
     항목ID: 84416
-processed:
+result:
   맞춤법 검사:
     표제어: 풍속화
     품사: 명사
 ---
 000_KEYWORD: 풍수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84417
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8180,13 +8180,13 @@ imported:
     표제어: 풍수
     품사: 명사
     항목ID: 84417
-processed:
+result:
   맞춤법 검사:
     표제어: 풍수
     품사: 명사
 ---
 000_KEYWORD: 풍수적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8197,13 +8197,13 @@ imported:
     표제어: 풍수적
     품사: 명사:보통:서술성
     항목ID: 29301
-processed:
+result:
   맞춤법 검사:
     표제어: 풍수적
     품사: 명사
 ---
 000_KEYWORD: 풍수지리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84418
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8233,13 +8233,13 @@ imported:
     표제어: 풍수지리
     품사: 명사
     항목ID: 84418
-processed:
+result:
   맞춤법 검사:
     표제어: 풍수지리
     품사: 명사
 ---
 000_KEYWORD: 풍수지탄__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8249,13 +8249,13 @@ imported:
     표제어: 풍수지탄
     품사: 명사:보통:서술성
     항목ID: 29303
-processed:
+result:
   맞춤법 검사:
     표제어: 풍수지탄
     품사: 명사
 ---
 000_KEYWORD: 풍수해__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8265,13 +8265,13 @@ imported:
     표제어: 풍수해
     품사: 명사:보통:서술성
     항목ID: 29304
-processed:
+result:
   맞춤법 검사:
     표제어: 풍수해
     품사: 명사
 ---
 000_KEYWORD: 풍습__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84419
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8312,13 +8312,13 @@ imported:
     - 발음: 풍슴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84419_pungseumman.wav
       형태: 풍습만
-processed:
+result:
   맞춤법 검사:
     표제어: 풍습
     품사: 명사
 ---
 000_KEYWORD: 풍악__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84373
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8354,13 +8354,13 @@ imported:
     - 발음: 풍앙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84373_pungangman.wav
       형태: 풍악만
-processed:
+result:
   맞춤법 검사:
     표제어: 풍악
     품사: 명사
 ---
 000_KEYWORD: 풍어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8369,13 +8369,13 @@ imported:
     표제어: 풍어
     품사: 명사:보통:서술성
     항목ID: 29307
-processed:
+result:
   맞춤법 검사:
     표제어: 풍어
     품사: 명사
 ---
 000_KEYWORD: 풍요__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84375
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8407,13 +8407,13 @@ imported:
     표제어: 풍요
     품사: 명사
     항목ID: 84375
-processed:
+result:
   맞춤법 검사:
     표제어: 풍요
     품사: 명사
 ---
 000_KEYWORD: 풍요롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84376
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8461,7 +8461,7 @@ imported:
       형태: 풍요로우니
     - 발음: 풍요롭씀니다
       형태: 풍요롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -8469,7 +8469,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 풍요하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84377
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8513,13 +8513,13 @@ imported:
       형태: 풍요하니
     - 발음: 풍요함니다
       형태: 풍요합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 풍요하다
     품사: 형용사
 ---
 000_KEYWORD: 풍운__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84378
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8573,13 +8573,13 @@ imported:
     표제어: 풍운
     품사: 명사
     항목ID: 84378
-processed:
+result:
   맞춤법 검사:
     표제어: 풍운
     품사: 명사
 ---
 000_KEYWORD: 풍운아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84456
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8600,13 +8600,13 @@ imported:
     표제어: 풍운아
     품사: 명사
     항목ID: 84456
-processed:
+result:
   맞춤법 검사:
     표제어: 풍운아
     품사: 명사
 ---
 000_KEYWORD: 풍월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84457
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8663,13 +8663,13 @@ imported:
     표제어: 풍월
     품사: 명사
     항목ID: 84457
-processed:
+result:
   맞춤법 검사:
     표제어: 풍월
     품사: 명사
 ---
 000_KEYWORD: 풍자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84458
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8708,13 +8708,13 @@ imported:
     표제어: 풍자
     품사: 명사
     항목ID: 84458
-processed:
+result:
   맞춤법 검사:
     표제어: 풍자
     품사: 명사
 ---
 000_KEYWORD: 풍자성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84459
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8741,13 +8741,13 @@ imported:
     표제어: 풍자성
     품사: 명사
     항목ID: 84459
-processed:
+result:
   맞춤법 검사:
     표제어: 풍자성
     품사: 명사
 ---
 000_KEYWORD: 풍자적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84460
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8774,13 +8774,13 @@ imported:
     표제어: 풍자적
     품사: 관형사
     항목ID: 84460
-processed:
+result:
   맞춤법 검사:
     표제어: 풍자적
     품사: 관형사
 ---
 000_KEYWORD: 풍자적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84461
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8808,13 +8808,13 @@ imported:
     표제어: 풍자적
     품사: 명사
     항목ID: 84461
-processed:
+result:
   맞춤법 검사:
     표제어: 풍자적
     품사: 명사
 ---
 000_KEYWORD: 풍자하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84462
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8854,13 +8854,13 @@ imported:
     표제어: 풍자하다
     품사: 동사
     항목ID: 84462
-processed:
+result:
   맞춤법 검사:
     표제어: 풍자하다
     품사: 동사
 ---
 000_KEYWORD: 풍작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84463
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8901,13 +8901,13 @@ imported:
     - 발음: 풍장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84463_pungjangman.wav
       형태: 풍작만
-processed:
+result:
   맞춤법 검사:
     표제어: 풍작
     품사: 명사
 ---
 000_KEYWORD: 풍전등화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84464
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8932,13 +8932,13 @@ imported:
     표제어: 풍전등화
     품사: 명사
     항목ID: 84464
-processed:
+result:
   맞춤법 검사:
     표제어: 풍전등화
     품사: 명사
 ---
 000_KEYWORD: 풍조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84465
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8972,13 +8972,13 @@ imported:
     표제어: 풍조
     품사: 명사
     항목ID: 84465
-processed:
+result:
   맞춤법 검사:
     표제어: 풍조
     품사: 명사
 ---
 000_KEYWORD: 풍족하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84467
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9020,13 +9020,13 @@ imported:
       형태: 풍족하니
     - 발음: 풍조캄니다
       형태: 풍족합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 풍족하다
     품사: 형용사
 ---
 000_KEYWORD: 풍족히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84468
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9055,13 +9055,13 @@ imported:
     표제어: 풍족히
     품사: 부사
     항목ID: 84468
-processed:
+result:
   맞춤법 검사:
     표제어: 풍족히
     품사: 부사
 ---
 000_KEYWORD: 풍지박산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84469
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9075,10 +9075,10 @@ imported:
     표제어: 풍지박산
     품사: 명사
     항목ID: 84469
-processed: {}
+result: {}
 ---
 000_KEYWORD: 풍진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84470
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9107,13 +9107,13 @@ imported:
     표제어: 풍진
     품사: 명사
     항목ID: 84470
-processed:
+result:
   맞춤법 검사:
     표제어: 풍진
     품사: 명사
 ---
 000_KEYWORD: 풍차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84471
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9147,13 +9147,13 @@ imported:
     표제어: 풍차
     품사: 명사
     항목ID: 84471
-processed:
+result:
   맞춤법 검사:
     표제어: 풍차
     품사: 명사
 ---
 000_KEYWORD: 풍채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84472
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9182,13 +9182,13 @@ imported:
     표제어: 풍채
     품사: 명사
     항목ID: 84472
-processed:
+result:
   맞춤법 검사:
     표제어: 풍채
     품사: 명사
 ---
 000_KEYWORD: 풍취__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84473
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9225,13 +9225,13 @@ imported:
     표제어: 풍취
     품사: 명사
     항목ID: 84473
-processed:
+result:
   맞춤법 검사:
     표제어: 풍취
     품사: 명사
 ---
 000_KEYWORD: 풍치__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9240,13 +9240,13 @@ imported:
     표제어: 풍치
     품사: 명사:보통:서술성
     항목ID: 29318
-processed:
+result:
   맞춤법 검사:
     표제어: 풍치
     품사: 명사
 ---
 000_KEYWORD: 풍토__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84474
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9282,13 +9282,13 @@ imported:
     표제어: 풍토
     품사: 명사
     항목ID: 84474
-processed:
+result:
   맞춤법 검사:
     표제어: 풍토
     품사: 명사
 ---
 000_KEYWORD: 풍토병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84475
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9316,13 +9316,13 @@ imported:
     표제어: 풍토병
     품사: 명사
     항목ID: 84475
-processed:
+result:
   맞춤법 검사:
     표제어: 풍토병
     품사: 명사
 ---
 000_KEYWORD: 풍파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84476
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9375,13 +9375,13 @@ imported:
     표제어: 풍파
     품사: 명사
     항목ID: 84476
-processed:
+result:
   맞춤법 검사:
     표제어: 풍파
     품사: 명사
 ---
 000_KEYWORD: 풍해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84477
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9408,13 +9408,13 @@ imported:
     표제어: 풍해
     품사: 명사
     항목ID: 84477
-processed:
+result:
   맞춤법 검사:
     표제어: 풍해
     품사: 명사
 ---
 000_KEYWORD: 풍향__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84478
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9443,13 +9443,13 @@ imported:
     표제어: 풍향
     품사: 명사
     항목ID: 84478
-processed:
+result:
   맞춤법 검사:
     표제어: 풍향
     품사: 명사
 ---
 000_KEYWORD: 풍향계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84479
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9480,13 +9480,13 @@ imported:
     표제어: 풍향계
     품사: 명사
     항목ID: 84479
-processed:
+result:
   맞춤법 검사:
     표제어: 풍향계
     품사: 명사
 ---
 000_KEYWORD: 풍화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84480
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9514,13 +9514,13 @@ imported:
     표제어: 풍화
     품사: 명사
     항목ID: 84480
-processed:
+result:
   맞춤법 검사:
     표제어: 풍화
     품사: 명사
 ---
 000_KEYWORD: 풍화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84481
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9551,13 +9551,13 @@ imported:
     표제어: 풍화되다
     품사: 동사
     항목ID: 84481
-processed:
+result:
   맞춤법 검사:
     표제어: 풍화되다
     품사: 동사
 ---
 000_KEYWORD: 풍화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84482
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9586,7 +9586,7 @@ imported:
     표제어: 풍화하다
     품사: 동사
     항목ID: 84482
-processed:
+result:
   맞춤법 검사:
     표제어: 풍화하다
     품사: 동사

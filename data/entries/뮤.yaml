@@ -1,5 +1,5 @@
 000_KEYWORD: 뮤지션__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 뮤지션
     품사: 명사:보통:비서술성
     항목ID: 9989
-processed:
+result:
   맞춤법 검사:
     표제어: 뮤지션
     품사: 명사
 ---
 000_KEYWORD: 뮤지컬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57767
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -45,13 +45,13 @@ imported:
     표제어: 뮤지컬
     품사: 명사
     항목ID: 57767
-processed:
+result:
   맞춤법 검사:
     표제어: 뮤지컬
     품사: 명사
 ---
 000_KEYWORD: 뮤직비디오__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -60,7 +60,7 @@ imported:
     표제어: 뮤직비디오
     품사: 명사:보통:비서술성
     항목ID: 9991
-processed:
+result:
   맞춤법 검사:
     표제어: 뮤직비디오
     품사: 명사

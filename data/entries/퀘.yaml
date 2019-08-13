@@ -1,5 +1,5 @@
 000_KEYWORD: 퀘벡__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 퀘벡
     품사: 명사:고유
     항목ID: 27588
-processed:
+result:
   맞춤법 검사:
     표제어: 퀘벡
     품사: 명사
 ---
 000_KEYWORD: 퀘이사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -26,13 +26,13 @@ imported:
     표제어: 퀘이사
     품사: 명사:보통:비서술성
     항목ID: 27589
-processed:
+result:
   맞춤법 검사:
     표제어: 퀘이사
     품사: 명사
 ---
 000_KEYWORD: 퀭하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81315
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -71,7 +71,7 @@ imported:
       형태: 퀭하니
     - 발음: 퀭함니다
       형태: 퀭합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 퀭하다
     품사: 형용사

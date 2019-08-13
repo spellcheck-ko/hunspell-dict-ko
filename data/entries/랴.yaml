@@ -1,5 +1,5 @@
 000_KEYWORD: -랴__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80308
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -24,11 +24,11 @@ imported:
     표제어: -랴
     품사: 어미
     항목ID: 80308
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -랴__어미__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79260
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -66,11 +66,11 @@ imported:
     표제어: -랴
     품사: 어미
     항목ID: 79260
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74915
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -162,13 +162,13 @@ imported:
     표제어: 량
     품사: 명사
     항목ID: 74915
-processed:
+result:
   맞춤법 검사:
     표제어: 량
     품사: 명사
 ---
 000_KEYWORD: 량__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52768
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -191,13 +191,13 @@ imported:
     표제어: 량
     품사: 의존 명사
     항목ID: 52768
-processed:
+result:
   맞춤법 검사:
     표제어: 량
     품사: 의존 명사
 ---
 000_KEYWORD: 량강도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -207,7 +207,7 @@ imported:
     표제어: 량강도
     품사: 명사:보통:서술성
     항목ID: 8070
-processed:
+result:
   맞춤법 검사:
     표제어: 량강도
     품사: 명사

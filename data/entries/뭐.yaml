@@ -1,5 +1,5 @@
 000_KEYWORD: 뭐__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27525
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -77,13 +77,13 @@ imported:
     표제어: 뭐
     품사: 감탄사
     항목ID: 27525
-processed:
+result:
   맞춤법 검사:
     표제어: 뭐
     품사: 감탄사
 ---
 000_KEYWORD: 뭐__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84991
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -129,13 +129,13 @@ imported:
     표제어: 뭐
     품사: 대명사
     항목ID: 84991
-processed:
+result:
   맞춤법 검사:
     표제어: 뭐
     품사: 대명사
 ---
 000_KEYWORD: 뭐하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67412
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -178,13 +178,13 @@ imported:
       형태: 뭐하니
     - 발음: 뭐ː함니다
       형태: 뭐합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뭐하다
     품사: 형용사
 ---
 000_KEYWORD: 뭘__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67413
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -206,13 +206,13 @@ imported:
     표제어: 뭘
     품사: 감탄사
     항목ID: 67413
-processed:
+result:
   맞춤법 검사:
     표제어: 뭘
     품사: 감탄사
 ---
 000_KEYWORD: 뭣__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67416
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -261,17 +261,17 @@ imported:
     - 발음: 뭔ː만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/67416_mwon-man.wav
       형태: 뭣만
-processed:
+result:
   맞춤법 검사:
     표제어: 뭣
     품사: 대명사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 가산명사
 ---
 000_KEYWORD: 뭣하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67414
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -298,13 +298,13 @@ imported:
     표제어: 뭣하다
     품사: 동사
     항목ID: 67414
-processed:
+result:
   맞춤법 검사:
     표제어: 뭣하다
     품사: 동사
 ---
 000_KEYWORD: 뭣하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67415
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -347,7 +347,7 @@ imported:
       형태: 뭣하니
     - 발음: 뭐ː탐니다
       형태: 뭣합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뭣하다
     품사: 형용사

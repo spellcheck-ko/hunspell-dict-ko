@@ -1,5 +1,5 @@
 000_KEYWORD: -우-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88919
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -53,11 +53,11 @@ imported:
     표제어: -우-
     품사: 접사
     항목ID: 88919
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -우__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86113
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -82,11 +82,11 @@ imported:
     표제어: -우
     품사: 어미
     항목ID: 86113
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 우__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70048
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -113,13 +113,13 @@ imported:
     표제어: 우
     품사: 감탄사
     항목ID: 70048
-processed:
+result:
   맞춤법 검사:
     표제어: 우
     품사: 감탄사
 ---
 000_KEYWORD: 우__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68790
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -135,13 +135,13 @@ imported:
     표제어: 우
     품사: 명사
     항목ID: 68790
-processed:
+result:
   맞춤법 검사:
     표제어: 우
     품사: 명사
 ---
 000_KEYWORD: 우__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91714
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -208,13 +208,13 @@ imported:
     표제어: 우
     품사: 명사
     항목ID: 91714
-processed:
+result:
   맞춤법 검사:
     표제어: 우
     품사: 명사
 ---
 000_KEYWORD: 우__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69415
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -242,13 +242,13 @@ imported:
     표제어: 우
     품사: 명사
     항목ID: 69415
-processed:
+result:
   맞춤법 검사:
     표제어: 우
     품사: 명사
 ---
 000_KEYWORD: 우__명사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69416
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -273,13 +273,13 @@ imported:
     표제어: 우
     품사: 명사
     항목ID: 69416
-processed:
+result:
   맞춤법 검사:
     표제어: 우
     품사: 명사
 ---
 000_KEYWORD: 우간다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69912
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -298,13 +298,13 @@ imported:
     표제어: 우간다
     품사: 명사
     항목ID: 69912
-processed:
+result:
   맞춤법 검사:
     표제어: 우간다
     품사: 명사
 ---
 000_KEYWORD: 우거지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69417
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -334,13 +334,13 @@ imported:
     표제어: 우거지
     품사: 명사
     항목ID: 69417
-processed:
+result:
   맞춤법 검사:
     표제어: 우거지
     품사: 명사
 ---
 000_KEYWORD: 우거지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69418
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -381,7 +381,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69418_ugeojeo.wav
       형태: 우거져
     - 형태: 우거지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -389,7 +389,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 우거지상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69419
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -415,13 +415,13 @@ imported:
     표제어: 우거지상
     품사: 명사
     항목ID: 69419
-processed:
+result:
   맞춤법 검사:
     표제어: 우거지상
     품사: 명사
 ---
 000_KEYWORD: 우거짓국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69420
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -472,13 +472,13 @@ imported:
     - 발음: 우거짇꿍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69420_ugeojitkkungman.wav
       형태: 우거짓국만
-processed:
+result:
   맞춤법 검사:
     표제어: 우거짓국
     품사: 명사
 ---
 000_KEYWORD: 우걱우걱__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -488,13 +488,13 @@ imported:
     표제어: 우걱우걱
     품사: 부사
     항목ID: 19893
-processed:
+result:
   맞춤법 검사:
     표제어: 우걱우걱
     품사: 부사
 ---
 000_KEYWORD: 우격다짐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69422
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -519,13 +519,13 @@ imported:
     표제어: 우격다짐
     품사: 명사
     항목ID: 69422
-processed:
+result:
   맞춤법 검사:
     표제어: 우격다짐
     품사: 명사
 ---
 000_KEYWORD: 우격다짐하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69423
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -550,13 +550,13 @@ imported:
     표제어: 우격다짐하다
     품사: 동사
     항목ID: 69423
-processed:
+result:
   맞춤법 검사:
     표제어: 우격다짐하다
     품사: 동사
 ---
 000_KEYWORD: 우경화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69425
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -588,13 +588,13 @@ imported:
     표제어: 우경화
     품사: 명사
     항목ID: 69425
-processed:
+result:
   맞춤법 검사:
     표제어: 우경화
     품사: 명사
 ---
 000_KEYWORD: 우경화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69426
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -625,13 +625,13 @@ imported:
     표제어: 우경화되다
     품사: 동사
     항목ID: 69426
-processed:
+result:
   맞춤법 검사:
     표제어: 우경화되다
     품사: 동사
 ---
 000_KEYWORD: 우경화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69429
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -660,13 +660,13 @@ imported:
     표제어: 우경화하다
     품사: 동사
     항목ID: 69429
-processed:
+result:
   맞춤법 검사:
     표제어: 우경화하다
     품사: 동사
 ---
 000_KEYWORD: 우공이산__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -676,13 +676,13 @@ imported:
     표제어: 우공이산
     품사: 명사:보통:서술성
     항목ID: 19895
-processed:
+result:
   맞춤법 검사:
     표제어: 우공이산
     품사: 명사
 ---
 000_KEYWORD: 우국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69431
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -721,13 +721,13 @@ imported:
     - 발음: 우궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69431_ugungman.wav
       형태: 우국만
-processed:
+result:
   맞춤법 검사:
     표제어: 우국
     품사: 명사
 ---
 000_KEYWORD: 우국지사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69432
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -751,13 +751,13 @@ imported:
     표제어: 우국지사
     품사: 명사
     항목ID: 69432
-processed:
+result:
   맞춤법 검사:
     표제어: 우국지사
     품사: 명사
 ---
 000_KEYWORD: 우국충정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69433
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -786,13 +786,13 @@ imported:
     표제어: 우국충정
     품사: 명사
     항목ID: 69433
-processed:
+result:
   맞춤법 검사:
     표제어: 우국충정
     품사: 명사
 ---
 000_KEYWORD: 우군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69435
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -830,13 +830,13 @@ imported:
     표제어: 우군
     품사: 명사
     항목ID: 69435
-processed:
+result:
   맞춤법 검사:
     표제어: 우군
     품사: 명사
 ---
 000_KEYWORD: 우그러들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69438
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -912,13 +912,13 @@ imported:
     - 발음: 우그러듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69438_ugeureodeumnida.wav
       형태: 우그러듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우그러들다
     품사: 동사
 ---
 000_KEYWORD: 우그러뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69440
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -976,13 +976,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69440_ugeureotteuriyeo.wav
       형태: 우그러뜨리어
     - 형태: 우그러뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 우그러뜨리다
     품사: 동사
 ---
 000_KEYWORD: 우그러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69441
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1058,7 +1058,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69441_ugeureojeo.wav
       형태: 우그러져
     - 형태: 우그러지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -1066,7 +1066,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 우그르르__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1076,13 +1076,13 @@ imported:
     표제어: 우그르르
     품사: 부사
     항목ID: 19898
-processed:
+result:
   맞춤법 검사:
     표제어: 우그르르
     품사: 부사
 ---
 000_KEYWORD: 우글거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69443
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1119,13 +1119,13 @@ imported:
     표제어: 우글거리다
     품사: 동사
     항목ID: 69443
-processed:
+result:
   맞춤법 검사:
     표제어: 우글거리다
     품사: 동사
 ---
 000_KEYWORD: 우글대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91418
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1160,13 +1160,13 @@ imported:
     표제어: 우글대다
     품사: 동사
     항목ID: 91418
-processed:
+result:
   맞춤법 검사:
     표제어: 우글대다
     품사: 동사
 ---
 000_KEYWORD: 우글우글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69445
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1193,13 +1193,13 @@ imported:
     표제어: 우글우글
     품사: 부사
     항목ID: 69445
-processed:
+result:
   맞춤법 검사:
     표제어: 우글우글
     품사: 부사
 ---
 000_KEYWORD: 우글우글하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69447
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1234,13 +1234,13 @@ imported:
     표제어: 우글우글하다
     품사: 동사
     항목ID: 69447
-processed:
+result:
   맞춤법 검사:
     표제어: 우글우글하다
     품사: 동사
 ---
 000_KEYWORD: 우기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69448
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1276,13 +1276,13 @@ imported:
     표제어: 우기
     품사: 명사
     항목ID: 69448
-processed:
+result:
   맞춤법 검사:
     표제어: 우기
     품사: 명사
 ---
 000_KEYWORD: 우기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69449
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1322,13 +1322,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69449_ugiyeo.wav
       형태: 우기어
     - 형태: 우기니
-processed:
+result:
   맞춤법 검사:
     표제어: 우기다
     품사: 동사
 ---
 000_KEYWORD: 우뇌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93405
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1368,13 +1368,13 @@ imported:
     표제어: 우뇌
     품사: 명사
     항목ID: 93405
-processed:
+result:
   맞춤법 검사:
     표제어: 우뇌
     품사: 명사
 ---
 000_KEYWORD: 우는소리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1384,13 +1384,13 @@ imported:
     표제어: 우는소리
     품사: 명사:보통:서술성
     항목ID: 19905
-processed:
+result:
   맞춤법 검사:
     표제어: 우는소리
     품사: 명사
 ---
 000_KEYWORD: 우당탕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69450
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1422,13 +1422,13 @@ imported:
     표제어: 우당탕
     품사: 부사
     항목ID: 69450
-processed:
+result:
   맞춤법 검사:
     표제어: 우당탕
     품사: 부사
 ---
 000_KEYWORD: 우당탕거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69451
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1463,13 +1463,13 @@ imported:
     표제어: 우당탕거리다
     품사: 동사
     항목ID: 69451
-processed:
+result:
   맞춤법 검사:
     표제어: 우당탕거리다
     품사: 동사
 ---
 000_KEYWORD: 우당탕대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91419
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1504,13 +1504,13 @@ imported:
     표제어: 우당탕대다
     품사: 동사
     항목ID: 91419
-processed:
+result:
   맞춤법 검사:
     표제어: 우당탕대다
     품사: 동사
 ---
 000_KEYWORD: 우당탕우당탕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91420
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1536,13 +1536,13 @@ imported:
     표제어: 우당탕우당탕
     품사: 부사
     항목ID: 91420
-processed:
+result:
   맞춤법 검사:
     표제어: 우당탕우당탕
     품사: 부사
 ---
 000_KEYWORD: 우당탕우당탕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91421
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1576,13 +1576,13 @@ imported:
     표제어: 우당탕우당탕하다
     품사: 동사
     항목ID: 91421
-processed:
+result:
   맞춤법 검사:
     표제어: 우당탕우당탕하다
     품사: 동사
 ---
 000_KEYWORD: 우당탕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91422
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1609,13 +1609,13 @@ imported:
     표제어: 우당탕하다
     품사: 동사
     항목ID: 91422
-processed:
+result:
   맞춤법 검사:
     표제어: 우당탕하다
     품사: 동사
 ---
 000_KEYWORD: 우대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69452
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1652,13 +1652,13 @@ imported:
     표제어: 우대
     품사: 명사
     항목ID: 69452
-processed:
+result:
   맞춤법 검사:
     표제어: 우대
     품사: 명사
 ---
 000_KEYWORD: 우대하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69453
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1691,13 +1691,13 @@ imported:
     표제어: 우대하다
     품사: 동사
     항목ID: 69453
-processed:
+result:
   맞춤법 검사:
     표제어: 우대하다
     품사: 동사
 ---
 000_KEYWORD: 우동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69454
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1727,13 +1727,13 @@ imported:
     표제어: 우동
     품사: 명사
     항목ID: 69454
-processed:
+result:
   맞춤법 검사:
     표제어: 우동
     품사: 명사
 ---
 000_KEYWORD: 우두둑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69457
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1817,13 +1817,13 @@ imported:
     표제어: 우두둑
     품사: 부사
     항목ID: 69457
-processed:
+result:
   맞춤법 검사:
     표제어: 우두둑
     품사: 부사
 ---
 000_KEYWORD: 우두머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69458
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1855,13 +1855,13 @@ imported:
     표제어: 우두머리
     품사: 명사
     항목ID: 69458
-processed:
+result:
   맞춤법 검사:
     표제어: 우두머리
     품사: 명사
 ---
 000_KEYWORD: 우두커니__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69459
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1892,13 +1892,13 @@ imported:
     표제어: 우두커니
     품사: 부사
     항목ID: 69459
-processed:
+result:
   맞춤법 검사:
     표제어: 우두커니
     품사: 부사
 ---
 000_KEYWORD: 우둔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68944
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1926,13 +1926,13 @@ imported:
     표제어: 우둔
     품사: 명사
     항목ID: 68944
-processed:
+result:
   맞춤법 검사:
     표제어: 우둔
     품사: 명사
 ---
 000_KEYWORD: 우둔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68945
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1973,13 +1973,13 @@ imported:
       형태: 우둔하니
     - 발음: 우둔함니다
       형태: 우둔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우둔하다
     품사: 형용사
 ---
 000_KEYWORD: 우등__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68946
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2026,13 +2026,13 @@ imported:
     표제어: 우등
     품사: 명사
     항목ID: 68946
-processed:
+result:
   맞춤법 검사:
     표제어: 우등
     품사: 명사
 ---
 000_KEYWORD: 우등상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68947
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2062,13 +2062,13 @@ imported:
     표제어: 우등상
     품사: 명사
     항목ID: 68947
-processed:
+result:
   맞춤법 검사:
     표제어: 우등상
     품사: 명사
 ---
 000_KEYWORD: 우등상장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68948
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2097,13 +2097,13 @@ imported:
     표제어: 우등상장
     품사: 명사
     항목ID: 68948
-processed:
+result:
   맞춤법 검사:
     표제어: 우등상장
     품사: 명사
 ---
 000_KEYWORD: 우등생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68949
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2132,13 +2132,13 @@ imported:
     표제어: 우등생
     품사: 명사
     항목ID: 68949
-processed:
+result:
   맞춤법 검사:
     표제어: 우등생
     품사: 명사
 ---
 000_KEYWORD: 우등하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92416
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2167,13 +2167,13 @@ imported:
     표제어: 우등하다
     품사: 동사
     항목ID: 92416
-processed:
+result:
   맞춤법 검사:
     표제어: 우등하다
     품사: 동사
 ---
 000_KEYWORD: 우등하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91715
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2218,13 +2218,13 @@ imported:
       형태: 우등하니
     - 발음: 우등함니다
       형태: 우등합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우등하다
     품사: 형용사
 ---
 000_KEYWORD: 우뚝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68950
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2287,13 +2287,13 @@ imported:
     표제어: 우뚝
     품사: 부사
     항목ID: 68950
-processed:
+result:
   맞춤법 검사:
     표제어: 우뚝
     품사: 부사
 ---
 000_KEYWORD: 우뚝하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68951
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2351,13 +2351,13 @@ imported:
       형태: 우뚝하니
     - 발음: 우뚜캄니다
       형태: 우뚝합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우뚝하다
     품사: 형용사
 ---
 000_KEYWORD: 우라늄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68952
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2386,13 +2386,13 @@ imported:
     표제어: 우라늄
     품사: 명사
     항목ID: 68952
-processed:
+result:
   맞춤법 검사:
     표제어: 우라늄
     품사: 명사
 ---
 000_KEYWORD: 우라질__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68953
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2415,13 +2415,13 @@ imported:
     표제어: 우라질
     품사: 감탄사
     항목ID: 68953
-processed:
+result:
   맞춤법 검사:
     표제어: 우라질
     품사: 감탄사
 ---
 000_KEYWORD: 우락부락__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68954
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2461,13 +2461,13 @@ imported:
     표제어: 우락부락
     품사: 부사
     항목ID: 68954
-processed:
+result:
   맞춤법 검사:
     표제어: 우락부락
     품사: 부사
 ---
 000_KEYWORD: 우락부락하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68955
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2521,13 +2521,13 @@ imported:
       형태: 우락부락하니
     - 발음: 우락뿌라캄니다
       형태: 우락부락합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우락부락하다
     품사: 형용사
 ---
 000_KEYWORD: 우람스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68956
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2567,7 +2567,7 @@ imported:
       형태: 우람스러우니
     - 발음: 우람스럽씀니다
       형태: 우람스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -2575,7 +2575,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 우람하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68957
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2638,13 +2638,13 @@ imported:
       형태: 우람하니
     - 발음: 우람함니다
       형태: 우람합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우람하다
     품사: 형용사
 ---
 000_KEYWORD: 우량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68958
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2681,13 +2681,13 @@ imported:
     표제어: 우량
     품사: 명사
     항목ID: 68958
-processed:
+result:
   맞춤법 검사:
     표제어: 우량
     품사: 명사
 ---
 000_KEYWORD: 우량아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68959
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2716,13 +2716,13 @@ imported:
     표제어: 우량아
     품사: 명사
     항목ID: 68959
-processed:
+result:
   맞춤법 검사:
     표제어: 우량아
     품사: 명사
 ---
 000_KEYWORD: 우량주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68960
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2757,13 +2757,13 @@ imported:
     표제어: 우량주
     품사: 명사
     항목ID: 68960
-processed:
+result:
   맞춤법 검사:
     표제어: 우량주
     품사: 명사
 ---
 000_KEYWORD: 우량하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2773,13 +2773,13 @@ imported:
     표제어: 우량하다
     품사: 형용사
     항목ID: 19919
-processed:
+result:
   맞춤법 검사:
     표제어: 우량하다
     품사: 형용사
 ---
 000_KEYWORD: 우러나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68961
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2830,13 +2830,13 @@ imported:
     활용:
     - 형태: 우러나
     - 형태: 우러나니
-processed:
+result:
   맞춤법 검사:
     표제어: 우러나다
     품사: 동사
 ---
 000_KEYWORD: 우러나오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68962
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2873,17 +2873,17 @@ imported:
     활용:
     - 형태: 우러나와
     - 형태: 우러나오니
-processed:
+result:
   맞춤법 검사:
     표제어: 우러나오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 우러러보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68963
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2928,13 +2928,13 @@ imported:
     활용:
     - 형태: 우러러보아
     - 형태: 우러러보니
-processed:
+result:
   맞춤법 검사:
     표제어: 우러러보다
     품사: 동사
 ---
 000_KEYWORD: 우러러보이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68964
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2985,13 +2985,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68964_ureoreoboiyeo.wav
       형태: 우러러보이어
     - 형태: 우러러보이니
-processed:
+result:
   맞춤법 검사:
     표제어: 우러러보이다
     품사: 동사
 ---
 000_KEYWORD: 우러르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68965
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3037,7 +3037,7 @@ imported:
     활용:
     - 형태: 우러러
     - 형태: 우러르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -3045,7 +3045,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 우렁이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3055,13 +3055,13 @@ imported:
     표제어: 우렁이
     품사: 명사:보통:비서술성
     항목ID: 19924
-processed:
+result:
   맞춤법 검사:
     표제어: 우렁이
     품사: 명사
 ---
 000_KEYWORD: 우렁차다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70364
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3119,13 +3119,13 @@ imported:
       형태: 우렁차니
     - 발음: 우렁참니다
       형태: 우렁찹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우렁차다
     품사: 형용사
 ---
 000_KEYWORD: 우레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70365
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3156,13 +3156,13 @@ imported:
     표제어: 우레
     품사: 명사
     항목ID: 70365
-processed:
+result:
   맞춤법 검사:
     표제어: 우레
     품사: 명사
 ---
 000_KEYWORD: 우려__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26641
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3194,13 +3194,13 @@ imported:
     표제어: 우려
     품사: 명사
     항목ID: 26641
-processed:
+result:
   맞춤법 검사:
     표제어: 우려
     품사: 명사
 ---
 000_KEYWORD: 우려내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70366
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3249,17 +3249,17 @@ imported:
     활용:
     - 형태: 우려내어
     - 형태: 우려내니
-processed:
+result:
   맞춤법 검사:
     표제어: 우려내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 우려되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70367
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3290,13 +3290,13 @@ imported:
     표제어: 우려되다
     품사: 동사
     항목ID: 70367
-processed:
+result:
   맞춤법 검사:
     표제어: 우려되다
     품사: 동사
 ---
 000_KEYWORD: 우려먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70368
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3349,17 +3349,17 @@ imported:
     - 발음: 우려멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/70368_uryeomeongneun.wav
       형태: 우려먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 우려먹다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 우려스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70369
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3401,7 +3401,7 @@ imported:
       형태: 우려스러우니
     - 발음: 우려스럽씀니다
       형태: 우려스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -3409,7 +3409,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 우려하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70370
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3444,13 +3444,13 @@ imported:
     표제어: 우려하다
     품사: 동사
     항목ID: 70370
-processed:
+result:
   맞춤법 검사:
     표제어: 우려하다
     품사: 동사
 ---
 000_KEYWORD: 우롱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70371
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3487,13 +3487,13 @@ imported:
     표제어: 우롱
     품사: 명사
     항목ID: 70371
-processed:
+result:
   맞춤법 검사:
     표제어: 우롱
     품사: 명사
 ---
 000_KEYWORD: 우롱당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85391
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3520,13 +3520,13 @@ imported:
     표제어: 우롱당하다
     품사: 동사
     항목ID: 85391
-processed:
+result:
   맞춤법 검사:
     표제어: 우롱당하다
     품사: 동사
 ---
 000_KEYWORD: 우롱차__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3536,13 +3536,13 @@ imported:
     표제어: 우롱차
     품사: 명사:보통:서술성
     항목ID: 19931
-processed:
+result:
   맞춤법 검사:
     표제어: 우롱차
     품사: 명사
 ---
 000_KEYWORD: 우롱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70392
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3577,13 +3577,13 @@ imported:
     표제어: 우롱하다
     품사: 동사
     항목ID: 70392
-processed:
+result:
   맞춤법 검사:
     표제어: 우롱하다
     품사: 동사
 ---
 000_KEYWORD: 우뢰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92356
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3596,10 +3596,10 @@ imported:
     표제어: 우뢰
     품사: 명사
     항목ID: 92356
-processed: {}
+result: {}
 ---
 000_KEYWORD: 우루과이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69916
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3617,13 +3617,13 @@ imported:
     표제어: 우루과이
     품사: 명사
     항목ID: 69916
-processed:
+result:
   맞춤법 검사:
     표제어: 우루과이
     품사: 명사
 ---
 000_KEYWORD: 우루루__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92357
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3636,10 +3636,10 @@ imported:
     표제어: 우루루
     품사: 부사
     항목ID: 92357
-processed: {}
+result: {}
 ---
 000_KEYWORD: 우르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70394
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3709,13 +3709,13 @@ imported:
     표제어: 우르르
     품사: 부사
     항목ID: 70394
-processed:
+result:
   맞춤법 검사:
     표제어: 우르르
     품사: 부사
 ---
 000_KEYWORD: 우르릉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70396
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3760,13 +3760,13 @@ imported:
     표제어: 우르릉
     품사: 부사
     항목ID: 70396
-processed:
+result:
   맞춤법 검사:
     표제어: 우르릉
     품사: 부사
 ---
 000_KEYWORD: 우르릉거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70397
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3822,13 +3822,13 @@ imported:
     표제어: 우르릉거리다
     품사: 동사
     항목ID: 70397
-processed:
+result:
   맞춤법 검사:
     표제어: 우르릉거리다
     품사: 동사
 ---
 000_KEYWORD: 우르릉대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91423
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3884,13 +3884,13 @@ imported:
     표제어: 우르릉대다
     품사: 동사
     항목ID: 91423
-processed:
+result:
   맞춤법 검사:
     표제어: 우르릉대다
     품사: 동사
 ---
 000_KEYWORD: 우르릉우르릉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91424
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3925,13 +3925,13 @@ imported:
     표제어: 우르릉우르릉
     품사: 부사
     항목ID: 91424
-processed:
+result:
   맞춤법 검사:
     표제어: 우르릉우르릉
     품사: 부사
 ---
 000_KEYWORD: 우르릉우르릉하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91425
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3983,13 +3983,13 @@ imported:
     표제어: 우르릉우르릉하다
     품사: 동사
     항목ID: 91425
-processed:
+result:
   맞춤법 검사:
     표제어: 우르릉우르릉하다
     품사: 동사
 ---
 000_KEYWORD: 우리__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17182
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4059,17 +4059,17 @@ imported:
     표제어: 우리
     품사: 대명사
     항목ID: 17182
-processed:
+result:
   맞춤법 검사:
     표제어: 우리
     품사: 대명사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 가산명사
 ---
 000_KEYWORD: 우리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70398
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4101,13 +4101,13 @@ imported:
     표제어: 우리
     품사: 명사
     항목ID: 70398
-processed:
+result:
   맞춤법 검사:
     표제어: 우리
     품사: 명사
 ---
 000_KEYWORD: 우리글__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70399
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4140,13 +4140,13 @@ imported:
     표제어: 우리글
     품사: 명사
     항목ID: 70399
-processed:
+result:
   맞춤법 검사:
     표제어: 우리글
     품사: 명사
 ---
 000_KEYWORD: 우리나라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70403
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4180,13 +4180,13 @@ imported:
     표제어: 우리나라
     품사: 명사
     항목ID: 70403
-processed:
+result:
   맞춤법 검사:
     표제어: 우리나라
     품사: 명사
 ---
 000_KEYWORD: 우리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70411
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4236,13 +4236,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/70411_uriyeo.wav
       형태: 우리어
     - 형태: 우리니
-processed:
+result:
   맞춤법 검사:
     표제어: 우리다
     품사: 동사
 ---
 000_KEYWORD: 우리말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70413
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4282,13 +4282,13 @@ imported:
     표제어: 우리말
     품사: 명사
     항목ID: 70413
-processed:
+result:
   맞춤법 검사:
     표제어: 우리말
     품사: 명사
 ---
 000_KEYWORD: 우림__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4298,13 +4298,13 @@ imported:
     표제어: 우림
     품사: 명사:보통:서술성
     항목ID: 19939
-processed:
+result:
   맞춤법 검사:
     표제어: 우림
     품사: 명사
 ---
 000_KEYWORD: 우마차__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4314,13 +4314,13 @@ imported:
     표제어: 우마차
     품사: 명사:보통:서술성
     항목ID: 19940
-processed:
+result:
   맞춤법 검사:
     표제어: 우마차
     품사: 명사
 ---
 000_KEYWORD: 우매하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70414
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4362,13 +4362,13 @@ imported:
       형태: 우매하니
     - 발음: 우매함니다
       형태: 우매합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우매하다
     품사: 형용사
 ---
 000_KEYWORD: 우무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4378,13 +4378,13 @@ imported:
     표제어: 우무
     품사: 명사:보통:서술성
     항목ID: 19941
-processed:
+result:
   맞춤법 검사:
     표제어: 우무
     품사: 명사
 ---
 000_KEYWORD: 우묵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70420
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4418,13 +4418,13 @@ imported:
     표제어: 우묵
     품사: 부사
     항목ID: 70420
-processed:
+result:
   맞춤법 검사:
     표제어: 우묵
     품사: 부사
 ---
 000_KEYWORD: 우묵하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70421
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4469,13 +4469,13 @@ imported:
       형태: 우묵하니
     - 발음: 우무캄니다
       형태: 우묵합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우묵하다
     품사: 형용사
 ---
 000_KEYWORD: 우문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70423
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4505,13 +4505,13 @@ imported:
     표제어: 우문
     품사: 명사
     항목ID: 70423
-processed:
+result:
   맞춤법 검사:
     표제어: 우문
     품사: 명사
 ---
 000_KEYWORD: 우문현답__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70746
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4549,13 +4549,13 @@ imported:
     - 발음: 우문현담만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/70746_umunhyeondamman.wav
       형태: 우문현답만
-processed:
+result:
   맞춤법 검사:
     표제어: 우문현답
     품사: 명사
 ---
 000_KEYWORD: 우물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70763
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4589,13 +4589,13 @@ imported:
     표제어: 우물
     품사: 명사
     항목ID: 70763
-processed:
+result:
   맞춤법 검사:
     표제어: 우물
     품사: 명사
 ---
 000_KEYWORD: 우물가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71011
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4623,13 +4623,13 @@ imported:
     표제어: 우물가
     품사: 명사
     항목ID: 71011
-processed:
+result:
   맞춤법 검사:
     표제어: 우물가
     품사: 명사
 ---
 000_KEYWORD: 우물거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71014
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4743,13 +4743,13 @@ imported:
     표제어: 우물거리다
     품사: 동사
     항목ID: 71014
-processed:
+result:
   맞춤법 검사:
     표제어: 우물거리다
     품사: 동사
 ---
 000_KEYWORD: 우물대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91426
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4860,13 +4860,13 @@ imported:
     표제어: 우물대다
     품사: 동사
     항목ID: 91426
-processed:
+result:
   맞춤법 검사:
     표제어: 우물대다
     품사: 동사
 ---
 000_KEYWORD: 우물물__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4875,13 +4875,13 @@ imported:
     표제어: 우물물
     품사: 명사:보통:서술성
     항목ID: 19946
-processed:
+result:
   맞춤법 검사:
     표제어: 우물물
     품사: 명사
 ---
 000_KEYWORD: 우물우물__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71020
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4963,13 +4963,13 @@ imported:
     표제어: 우물우물
     품사: 부사
     항목ID: 71020
-processed:
+result:
   맞춤법 검사:
     표제어: 우물우물
     품사: 부사
 ---
 000_KEYWORD: 우물우물하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71024
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5082,13 +5082,13 @@ imported:
     표제어: 우물우물하다
     품사: 동사
     항목ID: 71024
-processed:
+result:
   맞춤법 검사:
     표제어: 우물우물하다
     품사: 동사
 ---
 000_KEYWORD: 우물쭈물__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71025
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5116,13 +5116,13 @@ imported:
     표제어: 우물쭈물
     품사: 부사
     항목ID: 71025
-processed:
+result:
   맞춤법 검사:
     표제어: 우물쭈물
     품사: 부사
 ---
 000_KEYWORD: 우물쭈물하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69427
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5147,13 +5147,13 @@ imported:
     표제어: 우물쭈물하다
     품사: 동사
     항목ID: 69427
-processed:
+result:
   맞춤법 검사:
     표제어: 우물쭈물하다
     품사: 동사
 ---
 000_KEYWORD: 우민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69507
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5192,13 +5192,13 @@ imported:
     표제어: 우민
     품사: 명사
     항목ID: 69507
-processed:
+result:
   맞춤법 검사:
     표제어: 우민
     품사: 명사
 ---
 000_KEYWORD: 우박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69428
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5237,13 +5237,13 @@ imported:
     - 발음: 우ː방만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69428_u-bangman.wav
       형태: 우박만
-processed:
+result:
   맞춤법 검사:
     표제어: 우박
     품사: 명사
 ---
 000_KEYWORD: 우발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69430
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5271,13 +5271,13 @@ imported:
     표제어: 우발
     품사: 명사
     항목ID: 69430
-processed:
+result:
   맞춤법 검사:
     표제어: 우발
     품사: 명사
 ---
 000_KEYWORD: 우발적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69434
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5308,13 +5308,13 @@ imported:
     표제어: 우발적
     품사: 관형사
     항목ID: 69434
-processed:
+result:
   맞춤법 검사:
     표제어: 우발적
     품사: 관형사
 ---
 000_KEYWORD: 우발적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69436
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5344,13 +5344,13 @@ imported:
     표제어: 우발적
     품사: 명사
     항목ID: 69436
-processed:
+result:
   맞춤법 검사:
     표제어: 우발적
     품사: 명사
 ---
 000_KEYWORD: 우방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69437
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5383,13 +5383,13 @@ imported:
     표제어: 우방
     품사: 명사
     항목ID: 69437
-processed:
+result:
   맞춤법 검사:
     표제어: 우방
     품사: 명사
 ---
 000_KEYWORD: 우방국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69439
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5431,13 +5431,13 @@ imported:
     - 발음: 우ː방궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69439_u-banggungman.wav
       형태: 우방국만
-processed:
+result:
   맞춤법 검사:
     표제어: 우방국
     품사: 명사
 ---
 000_KEYWORD: 우범__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69442
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5468,13 +5468,13 @@ imported:
     표제어: 우범
     품사: 명사
     항목ID: 69442
-processed:
+result:
   맞춤법 검사:
     표제어: 우범
     품사: 명사
 ---
 000_KEYWORD: 우범자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69444
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5502,13 +5502,13 @@ imported:
     표제어: 우범자
     품사: 명사
     항목ID: 69444
-processed:
+result:
   맞춤법 검사:
     표제어: 우범자
     품사: 명사
 ---
 000_KEYWORD: 우변__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5518,13 +5518,13 @@ imported:
     표제어: 우변
     품사: 명사:보통:서술성
     항목ID: 19954
-processed:
+result:
   맞춤법 검사:
     표제어: 우변
     품사: 명사
 ---
 000_KEYWORD: 우분투__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5534,13 +5534,13 @@ imported:
     표제어: 우분투
     품사: 명사:보통:서술성
     항목ID: 19955
-processed:
+result:
   맞춤법 검사:
     표제어: 우분투
     품사: 명사
 ---
 000_KEYWORD: 우비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69446
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5575,13 +5575,13 @@ imported:
     표제어: 우비
     품사: 명사
     항목ID: 69446
-processed:
+result:
   맞춤법 검사:
     표제어: 우비
     품사: 명사
 ---
 000_KEYWORD: 우비다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69455
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5649,13 +5649,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69455_ubiyeo.wav
       형태: 우비어
     - 형태: 우비니
-processed:
+result:
   맞춤법 검사:
     표제어: 우비다
     품사: 동사
 ---
 000_KEYWORD: 우산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71103
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5697,13 +5697,13 @@ imported:
     표제어: 우산
     품사: 명사
     항목ID: 71103
-processed:
+result:
   맞춤법 검사:
     표제어: 우산
     품사: 명사
 ---
 000_KEYWORD: 우산국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67946
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5730,13 +5730,13 @@ imported:
     - 발음: 우산궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/67946_usangungman.wav
       형태: 우산국만
-processed:
+result:
   맞춤법 검사:
     표제어: 우산국
     품사: 명사
 ---
 000_KEYWORD: 우산살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69456
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5768,13 +5768,13 @@ imported:
     표제어: 우산살
     품사: 명사
     항목ID: 69456
-processed:
+result:
   맞춤법 검사:
     표제어: 우산살
     품사: 명사
 ---
 000_KEYWORD: 우상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69460
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5823,13 +5823,13 @@ imported:
     표제어: 우상
     품사: 명사
     항목ID: 69460
-processed:
+result:
   맞춤법 검사:
     표제어: 우상
     품사: 명사
 ---
 000_KEYWORD: 우상숭배__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5839,13 +5839,13 @@ imported:
     표제어: 우상숭배
     품사: 명사:보통:서술성
     항목ID: 19958
-processed:
+result:
   맞춤법 검사:
     표제어: 우상숭배
     품사: 명사
 ---
 000_KEYWORD: 우상화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69462
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5872,13 +5872,13 @@ imported:
     표제어: 우상화
     품사: 명사
     항목ID: 69462
-processed:
+result:
   맞춤법 검사:
     표제어: 우상화
     품사: 명사
 ---
 000_KEYWORD: 우상화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69470
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5908,13 +5908,13 @@ imported:
     표제어: 우상화되다
     품사: 동사
     항목ID: 69470
-processed:
+result:
   맞춤법 검사:
     표제어: 우상화되다
     품사: 동사
 ---
 000_KEYWORD: 우상화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69463
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5941,13 +5941,13 @@ imported:
     표제어: 우상화하다
     품사: 동사
     항목ID: 69463
-processed:
+result:
   맞춤법 검사:
     표제어: 우상화하다
     품사: 동사
 ---
 000_KEYWORD: 우선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69469
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5976,13 +5976,13 @@ imported:
     표제어: 우선
     품사: 명사
     항목ID: 69469
-processed:
+result:
   맞춤법 검사:
     표제어: 우선
     품사: 명사
 ---
 000_KEYWORD: 우선__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69468
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6020,13 +6020,13 @@ imported:
     표제어: 우선
     품사: 부사
     항목ID: 69468
-processed:
+result:
   맞춤법 검사:
     표제어: 우선
     품사: 부사
 ---
 000_KEYWORD: 우선권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69472
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6055,13 +6055,13 @@ imported:
     표제어: 우선권
     품사: 명사
     항목ID: 69472
-processed:
+result:
   맞춤법 검사:
     표제어: 우선권
     품사: 명사
 ---
 000_KEYWORD: 우선순위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93473
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6091,13 +6091,13 @@ imported:
     표제어: 우선순위
     품사: 명사
     항목ID: 93473
-processed:
+result:
   맞춤법 검사:
     표제어: 우선순위
     품사: 명사
 ---
 000_KEYWORD: 우선시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69474
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6125,13 +6125,13 @@ imported:
     표제어: 우선시하다
     품사: 동사
     항목ID: 69474
-processed:
+result:
   맞춤법 검사:
     표제어: 우선시하다
     품사: 동사
 ---
 000_KEYWORD: 우선적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6140,13 +6140,13 @@ imported:
     표제어: 우선적
     품사: 명사:보통:서술성
     항목ID: 19964
-processed:
+result:
   맞춤법 검사:
     표제어: 우선적
     품사: 명사
 ---
 000_KEYWORD: 우선하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69475
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6186,13 +6186,13 @@ imported:
       형태: 우선하니
     - 발음: 우선함니다
       형태: 우선합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우선하다
     품사: 동사
 ---
 000_KEYWORD: 우성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69476
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6224,13 +6224,13 @@ imported:
     표제어: 우성
     품사: 명사
     항목ID: 69476
-processed:
+result:
   맞춤법 검사:
     표제어: 우성
     품사: 명사
 ---
 000_KEYWORD: 우세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69424
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6268,13 +6268,13 @@ imported:
     표제어: 우세
     품사: 명사
     항목ID: 69424
-processed:
+result:
   맞춤법 검사:
     표제어: 우세
     품사: 명사
 ---
 000_KEYWORD: 우세스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90250
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6323,7 +6323,7 @@ imported:
       형태: 우세스러우니
     - 발음: 우세스럽씀니다
       형태: 우세스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6331,7 +6331,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 우세하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69477
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6379,13 +6379,13 @@ imported:
       형태: 우세하니
     - 발음: 우세함니다
       형태: 우세합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우세하다
     품사: 형용사
 ---
 000_KEYWORD: 우송__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69479
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6421,13 +6421,13 @@ imported:
     표제어: 우송
     품사: 명사
     항목ID: 69479
-processed:
+result:
   맞춤법 검사:
     표제어: 우송
     품사: 명사
 ---
 000_KEYWORD: 우송되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69480
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6462,13 +6462,13 @@ imported:
     표제어: 우송되다
     품사: 동사
     항목ID: 69480
-processed:
+result:
   맞춤법 검사:
     표제어: 우송되다
     품사: 동사
 ---
 000_KEYWORD: 우송하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69481
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6500,13 +6500,13 @@ imported:
     표제어: 우송하다
     품사: 동사
     항목ID: 69481
-processed:
+result:
   맞춤법 검사:
     표제어: 우송하다
     품사: 동사
 ---
 000_KEYWORD: 우수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69036
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6523,13 +6523,13 @@ imported:
     표제어: 우수
     품사: 명사
     항목ID: 69036
-processed:
+result:
   맞춤법 검사:
     표제어: 우수
     품사: 명사
 ---
 000_KEYWORD: 우수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69482
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6559,13 +6559,13 @@ imported:
     표제어: 우수
     품사: 명사
     항목ID: 69482
-processed:
+result:
   맞춤법 검사:
     표제어: 우수
     품사: 명사
 ---
 000_KEYWORD: 우수__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69483
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6594,13 +6594,13 @@ imported:
     표제어: 우수
     품사: 명사
     항목ID: 69483
-processed:
+result:
   맞춤법 검사:
     표제어: 우수
     품사: 명사
 ---
 000_KEYWORD: 우수성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69486
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6629,13 +6629,13 @@ imported:
     표제어: 우수성
     품사: 명사
     항목ID: 69486
-processed:
+result:
   맞춤법 검사:
     표제어: 우수성
     품사: 명사
 ---
 000_KEYWORD: 우수수__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69487
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6664,13 +6664,13 @@ imported:
     표제어: 우수수
     품사: 부사
     항목ID: 69487
-processed:
+result:
   맞춤법 검사:
     표제어: 우수수
     품사: 부사
 ---
 000_KEYWORD: 우수하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26642
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6710,13 +6710,13 @@ imported:
       형태: 우수하니
     - 발음: 우수함니다
       형태: 우수합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우수하다
     품사: 형용사
 ---
 000_KEYWORD: 우수하다__형용사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69488
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6755,13 +6755,13 @@ imported:
       형태: 우수하니
     - 발음: 우수함니다
       형태: 우수합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우수하다
     품사: 형용사
 ---
 000_KEYWORD: 우스개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69490
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6788,13 +6788,13 @@ imported:
     표제어: 우스개
     품사: 명사
     항목ID: 69490
-processed:
+result:
   맞춤법 검사:
     표제어: 우스개
     품사: 명사
 ---
 000_KEYWORD: 우스갯말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69491
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6823,13 +6823,13 @@ imported:
     표제어: 우스갯말
     품사: 명사
     항목ID: 69491
-processed:
+result:
   맞춤법 검사:
     표제어: 우스갯말
     품사: 명사
 ---
 000_KEYWORD: 우스갯소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69492
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6861,13 +6861,13 @@ imported:
     표제어: 우스갯소리
     품사: 명사
     항목ID: 69492
-processed:
+result:
   맞춤법 검사:
     표제어: 우스갯소리
     품사: 명사
 ---
 000_KEYWORD: 우스꽝스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69494
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6921,7 +6921,7 @@ imported:
       형태: 우스꽝스러우니
     - 발음: 우스꽝스럽씀니다
       형태: 우스꽝스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6929,7 +6929,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 우습다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26643
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7012,7 +7012,7 @@ imported:
       형태: 우스우니
     - 발음: 우ː습씀니다
       형태: 우습습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -7020,7 +7020,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 우승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69495
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7052,13 +7052,13 @@ imported:
     표제어: 우승
     품사: 명사
     항목ID: 69495
-processed:
+result:
   맞춤법 검사:
     표제어: 우승
     품사: 명사
 ---
 000_KEYWORD: 우승권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69496
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7086,13 +7086,13 @@ imported:
     표제어: 우승권
     품사: 명사
     항목ID: 69496
-processed:
+result:
   맞춤법 검사:
     표제어: 우승권
     품사: 명사
 ---
 000_KEYWORD: 우승자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69498
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7126,13 +7126,13 @@ imported:
     표제어: 우승자
     품사: 명사
     항목ID: 69498
-processed:
+result:
   맞춤법 검사:
     표제어: 우승자
     품사: 명사
 ---
 000_KEYWORD: 우승컵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69499
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7162,13 +7162,13 @@ imported:
     표제어: 우승컵
     품사: 명사
     항목ID: 69499
-processed:
+result:
   맞춤법 검사:
     표제어: 우승컵
     품사: 명사
 ---
 000_KEYWORD: 우승팀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7177,13 +7177,13 @@ imported:
     표제어: 우승팀
     품사: 명사:보통:비서술성
     항목ID: 19980
-processed:
+result:
   맞춤법 검사:
     표제어: 우승팀
     품사: 명사
 ---
 000_KEYWORD: 우승하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66579
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7214,13 +7214,13 @@ imported:
     표제어: 우승하다
     품사: 동사
     항목ID: 66579
-processed:
+result:
   맞춤법 검사:
     표제어: 우승하다
     품사: 동사
 ---
 000_KEYWORD: 우시장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69500
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7247,13 +7247,13 @@ imported:
     표제어: 우시장
     품사: 명사
     항목ID: 69500
-processed:
+result:
   맞춤법 검사:
     표제어: 우시장
     품사: 명사
 ---
 000_KEYWORD: 우아__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91716
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7300,13 +7300,13 @@ imported:
     표제어: 우아
     품사: 감탄사
     항목ID: 91716
-processed:
+result:
   맞춤법 검사:
     표제어: 우아
     품사: 감탄사
 ---
 000_KEYWORD: 우아하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26651
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7351,13 +7351,13 @@ imported:
       형태: 우아하니
     - 발음: 우아함니다
       형태: 우아합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우아하다
     품사: 형용사
 ---
 000_KEYWORD: 우악스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69501
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7409,7 +7409,7 @@ imported:
       형태: 우악스러우니
     - 발음: 우악쓰럽씀니다
       형태: 우악스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -7417,7 +7417,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 우악하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69502
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7471,13 +7471,13 @@ imported:
       형태: 우악하니
     - 발음: 우아캄니다
       형태: 우악합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우악하다
     품사: 형용사
 ---
 000_KEYWORD: 우애__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69503
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7513,13 +7513,13 @@ imported:
     표제어: 우애
     품사: 명사
     항목ID: 69503
-processed:
+result:
   맞춤법 검사:
     표제어: 우애
     품사: 명사
 ---
 000_KEYWORD: 우애롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69504
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7558,7 +7558,7 @@ imported:
       형태: 우애로우니
     - 발음: 우ː애롭씀니다
       형태: 우애롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -7566,7 +7566,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 우애하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69505
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7592,13 +7592,13 @@ imported:
     표제어: 우애하다
     품사: 동사
     항목ID: 69505
-processed:
+result:
   맞춤법 검사:
     표제어: 우애하다
     품사: 동사
 ---
 000_KEYWORD: 우엉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69506
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7629,13 +7629,13 @@ imported:
     표제어: 우엉
     품사: 명사
     항목ID: 69506
-processed:
+result:
   맞춤법 검사:
     표제어: 우엉
     품사: 명사
 ---
 000_KEYWORD: 우여곡절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69339
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7670,13 +7670,13 @@ imported:
     표제어: 우여곡절
     품사: 명사
     항목ID: 69339
-processed:
+result:
   맞춤법 검사:
     표제어: 우여곡절
     품사: 명사
 ---
 000_KEYWORD: 우연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69343
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7711,13 +7711,13 @@ imported:
     표제어: 우연
     품사: 명사
     항목ID: 69343
-processed:
+result:
   맞춤법 검사:
     표제어: 우연
     품사: 명사
 ---
 000_KEYWORD: 우연성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69344
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7751,13 +7751,13 @@ imported:
     표제어: 우연성
     품사: 명사
     항목ID: 69344
-processed:
+result:
   맞춤법 검사:
     표제어: 우연성
     품사: 명사
 ---
 000_KEYWORD: 우연적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69346
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7791,13 +7791,13 @@ imported:
     표제어: 우연적
     품사: 관형사
     항목ID: 69346
-processed:
+result:
   맞춤법 검사:
     표제어: 우연적
     품사: 관형사
 ---
 000_KEYWORD: 우연적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69347
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7830,13 +7830,13 @@ imported:
     표제어: 우연적
     품사: 명사
     항목ID: 69347
-processed:
+result:
   맞춤법 검사:
     표제어: 우연적
     품사: 명사
 ---
 000_KEYWORD: 우연찮다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69350
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7882,13 +7882,13 @@ imported:
       형태: 우연찮고
     - 발음: 우연찬치
       형태: 우연찮지
-processed:
+result:
   맞춤법 검사:
     표제어: 우연찮다
     품사: 형용사
 ---
 000_KEYWORD: 우연하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69352
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7929,13 +7929,13 @@ imported:
       형태: 우연하니
     - 발음: 우연함니다
       형태: 우연합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우연하다
     품사: 형용사
 ---
 000_KEYWORD: 우연히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69354
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7965,13 +7965,13 @@ imported:
     표제어: 우연히
     품사: 부사
     항목ID: 69354
-processed:
+result:
   맞춤법 검사:
     표제어: 우연히
     품사: 부사
 ---
 000_KEYWORD: 우열__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93474
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8002,13 +8002,13 @@ imported:
     표제어: 우열
     품사: 명사
     항목ID: 93474
-processed:
+result:
   맞춤법 검사:
     표제어: 우열
     품사: 명사
 ---
 000_KEYWORD: 우완__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69356
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8043,13 +8043,13 @@ imported:
     표제어: 우완
     품사: 명사
     항목ID: 69356
-processed:
+result:
   맞춤법 검사:
     표제어: 우완
     품사: 명사
 ---
 000_KEYWORD: 우왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8060,13 +8060,13 @@ imported:
     표제어: 우왕
     품사: 명사:보통:서술성
     항목ID: 19993
-processed:
+result:
   맞춤법 검사:
     표제어: 우왕
     품사: 명사
 ---
 000_KEYWORD: 우왕좌왕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69357
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8109,13 +8109,13 @@ imported:
     표제어: 우왕좌왕
     품사: 명사
     항목ID: 69357
-processed:
+result:
   맞춤법 검사:
     표제어: 우왕좌왕
     품사: 명사
 ---
 000_KEYWORD: 우왕좌왕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69358
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8156,13 +8156,13 @@ imported:
     표제어: 우왕좌왕
     품사: 부사
     항목ID: 69358
-processed:
+result:
   맞춤법 검사:
     표제어: 우왕좌왕
     품사: 부사
 ---
 000_KEYWORD: 우왕좌왕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69359
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8206,13 +8206,13 @@ imported:
     표제어: 우왕좌왕하다
     품사: 동사
     항목ID: 69359
-processed:
+result:
   맞춤법 검사:
     표제어: 우왕좌왕하다
     품사: 동사
 ---
 000_KEYWORD: 우우__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87454
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8247,13 +8247,13 @@ imported:
     표제어: 우우
     품사: 감탄사
     항목ID: 87454
-processed:
+result:
   맞춤법 검사:
     표제어: 우우
     품사: 감탄사
 ---
 000_KEYWORD: 우우__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69360
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8293,13 +8293,13 @@ imported:
     표제어: 우우
     품사: 부사
     항목ID: 69360
-processed:
+result:
   맞춤법 검사:
     표제어: 우우
     품사: 부사
 ---
 000_KEYWORD: 우울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69362
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8330,13 +8330,13 @@ imported:
     표제어: 우울
     품사: 명사
     항목ID: 69362
-processed:
+result:
   맞춤법 검사:
     표제어: 우울
     품사: 명사
 ---
 000_KEYWORD: 우울증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69363
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8370,13 +8370,13 @@ imported:
     표제어: 우울증
     품사: 명사
     항목ID: 69363
-processed:
+result:
   맞춤법 검사:
     표제어: 우울증
     품사: 명사
 ---
 000_KEYWORD: 우울하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26654
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8419,13 +8419,13 @@ imported:
       형태: 우울하니
     - 발음: 우울함니다
       형태: 우울합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우울하다
     품사: 형용사
 ---
 000_KEYWORD: 우월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69364
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8461,13 +8461,13 @@ imported:
     표제어: 우월
     품사: 명사
     항목ID: 69364
-processed:
+result:
   맞춤법 검사:
     표제어: 우월
     품사: 명사
 ---
 000_KEYWORD: 우월감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69365
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8500,13 +8500,13 @@ imported:
     표제어: 우월감
     품사: 명사
     항목ID: 69365
-processed:
+result:
   맞춤법 검사:
     표제어: 우월감
     품사: 명사
 ---
 000_KEYWORD: 우월성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69366
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8536,13 +8536,13 @@ imported:
     표제어: 우월성
     품사: 명사
     항목ID: 69366
-processed:
+result:
   맞춤법 검사:
     표제어: 우월성
     품사: 명사
 ---
 000_KEYWORD: 우월적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8551,13 +8551,13 @@ imported:
     표제어: 우월적
     품사: 명사:보통:서술성
     항목ID: 20002
-processed:
+result:
   맞춤법 검사:
     표제어: 우월적
     품사: 명사
 ---
 000_KEYWORD: 우월하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69367
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8602,13 +8602,13 @@ imported:
       형태: 우월하니
     - 발음: 우월함니다
       형태: 우월합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우월하다
     품사: 형용사
 ---
 000_KEYWORD: 우위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69368
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8641,13 +8641,13 @@ imported:
     표제어: 우위
     품사: 명사
     항목ID: 69368
-processed:
+result:
   맞춤법 검사:
     표제어: 우위
     품사: 명사
 ---
 000_KEYWORD: 우유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26890
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8696,13 +8696,13 @@ imported:
     표제어: 우유
     품사: 명사
     항목ID: 26890
-processed:
+result:
   맞춤법 검사:
     표제어: 우유
     품사: 명사
 ---
 000_KEYWORD: 우유병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69369
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8756,13 +8756,13 @@ imported:
     표제어: 우유병
     품사: 명사
     항목ID: 69369
-processed:
+result:
   맞춤법 검사:
     표제어: 우유병
     품사: 명사
 ---
 000_KEYWORD: 우유부단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69370
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8793,13 +8793,13 @@ imported:
     표제어: 우유부단
     품사: 명사
     항목ID: 69370
-processed:
+result:
   맞춤법 검사:
     표제어: 우유부단
     품사: 명사
 ---
 000_KEYWORD: 우유부단하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69371
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8841,13 +8841,13 @@ imported:
       형태: 우유부단하니
     - 발음: 우유부단함니다
       형태: 우유부단합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우유부단하다
     품사: 형용사
 ---
 000_KEYWORD: 우윳빛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69372
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8897,13 +8897,13 @@ imported:
     - 발음: 우윧삔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69372_uyutppinman.wav
       형태: 우윳빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 우윳빛
     품사: 명사
 ---
 000_KEYWORD: 우의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69374
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8944,13 +8944,13 @@ imported:
     표제어: 우의
     품사: 명사
     항목ID: 69374
-processed:
+result:
   맞춤법 검사:
     표제어: 우의
     품사: 명사
 ---
 000_KEYWORD: 우의__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69376
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8990,13 +8990,13 @@ imported:
     표제어: 우의
     품사: 명사
     항목ID: 69376
-processed:
+result:
   맞춤법 검사:
     표제어: 우의
     품사: 명사
 ---
 000_KEYWORD: 우의정__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9006,13 +9006,13 @@ imported:
     표제어: 우의정
     품사: 명사:보통:서술성
     항목ID: 20010
-processed:
+result:
   맞춤법 검사:
     표제어: 우의정
     품사: 명사
 ---
 000_KEYWORD: 우익__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69377
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9131,13 +9131,13 @@ imported:
     - 발음: 우ː잉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69377_u-ingman.wav
       형태: 우익만
-processed:
+result:
   맞춤법 검사:
     표제어: 우익
     품사: 명사
 ---
 000_KEYWORD: 우익수__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9147,13 +9147,13 @@ imported:
     표제어: 우익수
     품사: 명사:보통:비서술성
     항목ID: 20012
-processed:
+result:
   맞춤법 검사:
     표제어: 우익수
     품사: 명사
 ---
 000_KEYWORD: 우적우적__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69379
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9190,13 +9190,13 @@ imported:
     표제어: 우적우적
     품사: 부사
     항목ID: 69379
-processed:
+result:
   맞춤법 검사:
     표제어: 우적우적
     품사: 부사
 ---
 000_KEYWORD: 우정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26662
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9237,13 +9237,13 @@ imported:
     표제어: 우정
     품사: 명사
     항목ID: 26662
-processed:
+result:
   맞춤법 검사:
     표제어: 우정
     품사: 명사
 ---
 000_KEYWORD: 우주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26665
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9284,13 +9284,13 @@ imported:
     표제어: 우주
     품사: 명사
     항목ID: 26665
-processed:
+result:
   맞춤법 검사:
     표제어: 우주
     품사: 명사
 ---
 000_KEYWORD: 우주복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69382
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9333,13 +9333,13 @@ imported:
     - 발음: 우ː주봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69382_u-jubongman.wav
       형태: 우주복만
-processed:
+result:
   맞춤법 검사:
     표제어: 우주복
     품사: 명사
 ---
 000_KEYWORD: 우주선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69383
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9374,13 +9374,13 @@ imported:
     표제어: 우주선
     품사: 명사
     항목ID: 69383
-processed:
+result:
   맞춤법 검사:
     표제어: 우주선
     품사: 명사
 ---
 000_KEYWORD: 우주여행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69385
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9409,13 +9409,13 @@ imported:
     표제어: 우주여행
     품사: 명사
     항목ID: 69385
-processed:
+result:
   맞춤법 검사:
     표제어: 우주여행
     품사: 명사
 ---
 000_KEYWORD: 우주왕복선__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9424,13 +9424,13 @@ imported:
     표제어: 우주왕복선
     품사: 명사:보통:비서술성
     항목ID: 20018
-processed:
+result:
   맞춤법 검사:
     표제어: 우주왕복선
     품사: 명사
 ---
 000_KEYWORD: 우주인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69387
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9478,13 +9478,13 @@ imported:
     표제어: 우주인
     품사: 명사
     항목ID: 69387
-processed:
+result:
   맞춤법 검사:
     표제어: 우주인
     품사: 명사
 ---
 000_KEYWORD: 우중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69391
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9516,13 +9516,13 @@ imported:
     표제어: 우중
     품사: 명사
     항목ID: 69391
-processed:
+result:
   맞춤법 검사:
     표제어: 우중
     품사: 명사
 ---
 000_KEYWORD: 우중충__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70612
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9568,13 +9568,13 @@ imported:
     표제어: 우중충
     품사: 부사
     항목ID: 70612
-processed:
+result:
   맞춤법 검사:
     표제어: 우중충
     품사: 부사
 ---
 000_KEYWORD: 우중충하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69393
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9639,13 +9639,13 @@ imported:
       형태: 우중충하니
     - 발음: 우중충함니다
       형태: 우중충합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우중충하다
     품사: 형용사
 ---
 000_KEYWORD: 우즈베키스탄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69984
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9664,13 +9664,13 @@ imported:
     표제어: 우즈베키스탄
     품사: 명사
     항목ID: 69984
-processed:
+result:
   맞춤법 검사:
     표제어: 우즈베키스탄
     품사: 명사
 ---
 000_KEYWORD: 우지끈__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69394
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9697,13 +9697,13 @@ imported:
     표제어: 우지끈
     품사: 부사
     항목ID: 69394
-processed:
+result:
   맞춤법 검사:
     표제어: 우지끈
     품사: 부사
 ---
 000_KEYWORD: 우지직__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69396
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9767,13 +9767,13 @@ imported:
     표제어: 우지직
     품사: 부사
     항목ID: 69396
-processed:
+result:
   맞춤법 검사:
     표제어: 우지직
     품사: 부사
 ---
 000_KEYWORD: 우직스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69397
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9814,7 +9814,7 @@ imported:
       형태: 우직스러우니
     - 발음: 우직쓰럽씀니다
       형태: 우직스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -9822,7 +9822,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 우직하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69398
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9867,13 +9867,13 @@ imported:
       형태: 우직하니
     - 발음: 우지캄니다
       형태: 우직합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우직하다
     품사: 형용사
 ---
 000_KEYWORD: 우짖다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69399
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9925,13 +9925,13 @@ imported:
     - 발음: 우진는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69399_ujinneun.wav
       형태: 우짖는
-processed:
+result:
   맞춤법 검사:
     표제어: 우짖다
     품사: 동사
 ---
 000_KEYWORD: 우쭐__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69401
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9968,13 +9968,13 @@ imported:
     표제어: 우쭐
     품사: 부사
     항목ID: 69401
-processed:
+result:
   맞춤법 검사:
     표제어: 우쭐
     품사: 부사
 ---
 000_KEYWORD: 우쭐거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69402
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10024,13 +10024,13 @@ imported:
     표제어: 우쭐거리다
     품사: 동사
     항목ID: 69402
-processed:
+result:
   맞춤법 검사:
     표제어: 우쭐거리다
     품사: 동사
 ---
 000_KEYWORD: 우쭐대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69403
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10081,13 +10081,13 @@ imported:
     표제어: 우쭐대다
     품사: 동사
     항목ID: 69403
-processed:
+result:
   맞춤법 검사:
     표제어: 우쭐대다
     품사: 동사
 ---
 000_KEYWORD: 우쭐하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69405
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10129,13 +10129,13 @@ imported:
     표제어: 우쭐하다
     품사: 동사
     항목ID: 69405
-processed:
+result:
   맞춤법 검사:
     표제어: 우쭐하다
     품사: 동사
 ---
 000_KEYWORD: 우체국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31486
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10180,13 +10180,13 @@ imported:
     - 발음: 우체궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/31486_uchegungman.wav
       형태: 우체국만
-processed:
+result:
   맞춤법 검사:
     표제어: 우체국
     품사: 명사
 ---
 000_KEYWORD: 우체부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69406
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10227,13 +10227,13 @@ imported:
     표제어: 우체부
     품사: 명사
     항목ID: 69406
-processed:
+result:
   맞춤법 검사:
     표제어: 우체부
     품사: 명사
 ---
 000_KEYWORD: 우체통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69407
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10266,13 +10266,13 @@ imported:
     표제어: 우체통
     품사: 명사
     항목ID: 69407
-processed:
+result:
   맞춤법 검사:
     표제어: 우체통
     품사: 명사
 ---
 000_KEYWORD: 우측__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68966
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10337,13 +10337,13 @@ imported:
     - 발음: 우ː층만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68966_u-cheungman.wav
       형태: 우측만
-processed:
+result:
   맞춤법 검사:
     표제어: 우측
     품사: 명사
 ---
 000_KEYWORD: 우크라이나__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69986
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10362,13 +10362,13 @@ imported:
     표제어: 우크라이나
     품사: 명사
     항목ID: 69986
-processed:
+result:
   맞춤법 검사:
     표제어: 우크라이나
     품사: 명사
 ---
 000_KEYWORD: 우크라이나어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10378,13 +10378,13 @@ imported:
     표제어: 우크라이나어
     품사: 명사:보통:서술성
     항목ID: 20031
-processed:
+result:
   맞춤법 검사:
     표제어: 우크라이나어
     품사: 명사
 ---
 000_KEYWORD: 우툴두툴__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68967
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10415,13 +10415,13 @@ imported:
     표제어: 우툴두툴
     품사: 부사
     항목ID: 68967
-processed:
+result:
   맞춤법 검사:
     표제어: 우툴두툴
     품사: 부사
 ---
 000_KEYWORD: 우툴두툴하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68968
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10461,13 +10461,13 @@ imported:
       형태: 우툴두툴하니
     - 발음: 우툴두툴함니다
       형태: 우툴두툴합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 우툴두툴하다
     품사: 형용사
 ---
 000_KEYWORD: 우파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68969
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10501,13 +10501,13 @@ imported:
     표제어: 우파
     품사: 명사
     항목ID: 68969
-processed:
+result:
   맞춤법 검사:
     표제어: 우파
     품사: 명사
 ---
 000_KEYWORD: 우편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68970
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10559,13 +10559,13 @@ imported:
     표제어: 우편
     품사: 명사
     항목ID: 68970
-processed:
+result:
   맞춤법 검사:
     표제어: 우편
     품사: 명사
 ---
 000_KEYWORD: 우편__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26676
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10613,13 +10613,13 @@ imported:
     표제어: 우편
     품사: 명사
     항목ID: 26676
-processed:
+result:
   맞춤법 검사:
     표제어: 우편
     품사: 명사
 ---
 000_KEYWORD: 우편물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68971
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10657,13 +10657,13 @@ imported:
     표제어: 우편물
     품사: 명사
     항목ID: 68971
-processed:
+result:
   맞춤법 검사:
     표제어: 우편물
     품사: 명사
 ---
 000_KEYWORD: 우편배달부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68972
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10703,13 +10703,13 @@ imported:
     표제어: 우편배달부
     품사: 명사
     항목ID: 68972
-processed:
+result:
   맞춤법 검사:
     표제어: 우편배달부
     품사: 명사
 ---
 000_KEYWORD: 우편번호__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10718,13 +10718,13 @@ imported:
     표제어: 우편번호
     품사: 명사:보통:비서술성
     항목ID: 20036
-processed:
+result:
   맞춤법 검사:
     표제어: 우편번호
     품사: 명사
 ---
 000_KEYWORD: 우편엽서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68974
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10759,13 +10759,13 @@ imported:
     표제어: 우편엽서
     품사: 명사
     항목ID: 68974
-processed:
+result:
   맞춤법 검사:
     표제어: 우편엽서
     품사: 명사
 ---
 000_KEYWORD: 우편집배원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89415
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10806,13 +10806,13 @@ imported:
     표제어: 우편집배원
     품사: 명사
     항목ID: 89415
-processed:
+result:
   맞춤법 검사:
     표제어: 우편집배원
     품사: 명사
 ---
 000_KEYWORD: 우편함__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68975
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10847,13 +10847,13 @@ imported:
     표제어: 우편함
     품사: 명사
     항목ID: 68975
-processed:
+result:
   맞춤법 검사:
     표제어: 우편함
     품사: 명사
 ---
 000_KEYWORD: 우표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26680
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10887,13 +10887,13 @@ imported:
     표제어: 우표
     품사: 명사
     항목ID: 26680
-processed:
+result:
   맞춤법 검사:
     표제어: 우표
     품사: 명사
 ---
 000_KEYWORD: 우향우__감탄사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10903,13 +10903,13 @@ imported:
     표제어: 우향우
     품사: 감탄사
     항목ID: 20039
-processed:
+result:
   맞춤법 검사:
     표제어: 우향우
     품사: 감탄사
 ---
 000_KEYWORD: 우현__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10920,13 +10920,13 @@ imported:
     표제어: 우현
     품사: 명사:보통:서술성
     항목ID: 20040
-processed:
+result:
   맞춤법 검사:
     표제어: 우현
     품사: 명사
 ---
 000_KEYWORD: 우호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68976
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10954,13 +10954,13 @@ imported:
     표제어: 우호
     품사: 명사
     항목ID: 68976
-processed:
+result:
   맞춤법 검사:
     표제어: 우호
     품사: 명사
 ---
 000_KEYWORD: 우호적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68977
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -10992,13 +10992,13 @@ imported:
     표제어: 우호적
     품사: 관형사
     항목ID: 68977
-processed:
+result:
   맞춤법 검사:
     표제어: 우호적
     품사: 관형사
 ---
 000_KEYWORD: 우호적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68978
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11034,13 +11034,13 @@ imported:
     표제어: 우호적
     품사: 명사
     항목ID: 68978
-processed:
+result:
   맞춤법 검사:
     표제어: 우호적
     품사: 명사
 ---
 000_KEYWORD: 우화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68979
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11069,13 +11069,13 @@ imported:
     표제어: 우화
     품사: 명사
     항목ID: 68979
-processed:
+result:
   맞춤법 검사:
     표제어: 우화
     품사: 명사
 ---
 000_KEYWORD: 우환__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69009
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11125,13 +11125,13 @@ imported:
     표제어: 우환
     품사: 명사
     항목ID: 69009
-processed:
+result:
   맞춤법 검사:
     표제어: 우환
     품사: 명사
 ---
 000_KEYWORD: 우회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69010
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11162,13 +11162,13 @@ imported:
     표제어: 우회
     품사: 명사
     항목ID: 69010
-processed:
+result:
   맞춤법 검사:
     표제어: 우회
     품사: 명사
 ---
 000_KEYWORD: 우회로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69011
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11199,13 +11199,13 @@ imported:
     표제어: 우회로
     품사: 명사
     항목ID: 69011
-processed:
+result:
   맞춤법 검사:
     표제어: 우회로
     품사: 명사
 ---
 000_KEYWORD: 우회적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69012
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11236,13 +11236,13 @@ imported:
     표제어: 우회적
     품사: 관형사
     항목ID: 69012
-processed:
+result:
   맞춤법 검사:
     표제어: 우회적
     품사: 관형사
 ---
 000_KEYWORD: 우회적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69013
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11272,13 +11272,13 @@ imported:
     표제어: 우회적
     품사: 명사
     항목ID: 69013
-processed:
+result:
   맞춤법 검사:
     표제어: 우회적
     품사: 명사
 ---
 000_KEYWORD: 우회전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69014
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11314,13 +11314,13 @@ imported:
     표제어: 우회전
     품사: 명사
     항목ID: 69014
-processed:
+result:
   맞춤법 검사:
     표제어: 우회전
     품사: 명사
 ---
 000_KEYWORD: 우회전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69015
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11355,13 +11355,13 @@ imported:
     표제어: 우회전하다
     품사: 동사
     항목ID: 69015
-processed:
+result:
   맞춤법 검사:
     표제어: 우회전하다
     품사: 동사
 ---
 000_KEYWORD: 우회하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69263
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11397,13 +11397,13 @@ imported:
     표제어: 우회하다
     품사: 동사
     항목ID: 69263
-processed:
+result:
   맞춤법 검사:
     표제어: 우회하다
     품사: 동사
 ---
 000_KEYWORD: 우후죽순__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69016
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11431,13 +11431,13 @@ imported:
     표제어: 우후죽순
     품사: 명사
     항목ID: 69016
-processed:
+result:
   맞춤법 검사:
     표제어: 우후죽순
     품사: 명사
 ---
 000_KEYWORD: 욱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69017
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11469,13 +11469,13 @@ imported:
     표제어: 욱
     품사: 부사
     항목ID: 69017
-processed:
+result:
   맞춤법 검사:
     표제어: 욱
     품사: 부사
 ---
 000_KEYWORD: 욱박지르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92358
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11488,11 +11488,10 @@ imported:
     표제어: 욱박지르다
     품사: 동사
     항목ID: 92358
-processed: {}
-processed_overrides: {}
+result: {}
 ---
 000_KEYWORD: 욱신거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69264
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11528,13 +11527,13 @@ imported:
     표제어: 욱신거리다
     품사: 동사
     항목ID: 69264
-processed:
+result:
   맞춤법 검사:
     표제어: 욱신거리다
     품사: 동사
 ---
 000_KEYWORD: 욱신대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89416
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11570,13 +11569,13 @@ imported:
     표제어: 욱신대다
     품사: 동사
     항목ID: 89416
-processed:
+result:
   맞춤법 검사:
     표제어: 욱신대다
     품사: 동사
 ---
 000_KEYWORD: 욱신욱신__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69265
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11602,13 +11601,13 @@ imported:
     표제어: 욱신욱신
     품사: 부사
     항목ID: 69265
-processed:
+result:
   맞춤법 검사:
     표제어: 욱신욱신
     품사: 부사
 ---
 000_KEYWORD: 욱신욱신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89417
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11643,13 +11642,13 @@ imported:
     표제어: 욱신욱신하다
     품사: 동사
     항목ID: 89417
-processed:
+result:
   맞춤법 검사:
     표제어: 욱신욱신하다
     품사: 동사
 ---
 000_KEYWORD: 욱여넣다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69020
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11690,7 +11689,7 @@ imported:
     - 발음: 우겨너씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69020_ugyeoneosseumnida.wav
       형태: 욱여넣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -11698,7 +11697,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 욱일승천__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11707,13 +11706,13 @@ imported:
     표제어: 욱일승천
     품사: 명사:보통:서술성
     항목ID: 20050
-processed:
+result:
   맞춤법 검사:
     표제어: 욱일승천
     품사: 명사
 ---
 000_KEYWORD: 욱일승천하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11722,13 +11721,13 @@ imported:
     표제어: 욱일승천하다
     품사: 동사
     항목ID: 20051
-processed:
+result:
   맞춤법 검사:
     표제어: 욱일승천하다
     품사: 동사
 ---
 000_KEYWORD: 욱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69018
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11756,13 +11755,13 @@ imported:
     표제어: 욱하다
     품사: 동사
     항목ID: 69018
-processed:
+result:
   맞춤법 검사:
     표제어: 욱하다
     품사: 동사
 ---
 000_KEYWORD: 운__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69019
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11810,13 +11809,13 @@ imported:
     표제어: 운
     품사: 명사
     항목ID: 69019
-processed:
+result:
   맞춤법 검사:
     표제어: 운
     품사: 명사
 ---
 000_KEYWORD: 운__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68980
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11851,13 +11850,13 @@ imported:
     표제어: 운
     품사: 명사
     항목ID: 68980
-processed:
+result:
   맞춤법 검사:
     표제어: 운
     품사: 명사
 ---
 000_KEYWORD: 운구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68765
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11884,13 +11883,13 @@ imported:
     표제어: 운구
     품사: 명사
     항목ID: 68765
-processed:
+result:
   맞춤법 검사:
     표제어: 운구
     품사: 명사
 ---
 000_KEYWORD: 운구하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68766
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -11929,13 +11928,13 @@ imported:
       형태: 운구하니
     - 발음: 운ː구함니다
       형태: 운구합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 운구하다
     품사: 동사
 ---
 000_KEYWORD: 운동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69521
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12010,13 +12009,13 @@ imported:
     표제어: 운동
     품사: 명사
     항목ID: 69521
-processed:
+result:
   맞춤법 검사:
     표제어: 운동
     품사: 명사
 ---
 000_KEYWORD: 운동가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68767
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12046,13 +12045,13 @@ imported:
     표제어: 운동가
     품사: 명사
     항목ID: 68767
-processed:
+result:
   맞춤법 검사:
     표제어: 운동가
     품사: 명사
 ---
 000_KEYWORD: 운동권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68799
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12082,13 +12081,13 @@ imported:
     표제어: 운동권
     품사: 명사
     항목ID: 68799
-processed:
+result:
   맞춤법 검사:
     표제어: 운동권
     품사: 명사
 ---
 000_KEYWORD: 운동량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68801
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12132,13 +12131,13 @@ imported:
     표제어: 운동량
     품사: 명사
     항목ID: 68801
-processed:
+result:
   맞춤법 검사:
     표제어: 운동량
     품사: 명사
 ---
 000_KEYWORD: 운동모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68802
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12169,13 +12168,13 @@ imported:
     표제어: 운동모
     품사: 명사
     항목ID: 68802
-processed:
+result:
   맞춤법 검사:
     표제어: 운동모
     품사: 명사
 ---
 000_KEYWORD: 운동모자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68803
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12207,13 +12206,13 @@ imported:
     표제어: 운동모자
     품사: 명사
     항목ID: 68803
-processed:
+result:
   맞춤법 검사:
     표제어: 운동모자
     품사: 명사
 ---
 000_KEYWORD: 운동복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26683
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12259,13 +12258,13 @@ imported:
     - 발음: 운ː동봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/26683_un-dongbongman.wav
       형태: 운동복만
-processed:
+result:
   맞춤법 검사:
     표제어: 운동복
     품사: 명사
 ---
 000_KEYWORD: 운동부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68809
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12294,13 +12293,13 @@ imported:
     표제어: 운동부
     품사: 명사
     항목ID: 68809
-processed:
+result:
   맞춤법 검사:
     표제어: 운동부
     품사: 명사
 ---
 000_KEYWORD: 운동선수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68810
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12336,13 +12335,13 @@ imported:
     표제어: 운동선수
     품사: 명사
     항목ID: 68810
-processed:
+result:
   맞춤법 검사:
     표제어: 운동선수
     품사: 명사
 ---
 000_KEYWORD: 운동에너지__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12352,13 +12351,13 @@ imported:
     표제어: 운동에너지
     품사: 명사:보통:서술성
     항목ID: 20061
-processed:
+result:
   맞춤법 검사:
     표제어: 운동에너지
     품사: 명사
 ---
 000_KEYWORD: 운동요법__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12368,13 +12367,13 @@ imported:
     표제어: 운동요법
     품사: 명사:보통:서술성
     항목ID: 20062
-processed:
+result:
   맞춤법 검사:
     표제어: 운동요법
     품사: 명사
 ---
 000_KEYWORD: 운동원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68812
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12403,13 +12402,13 @@ imported:
     표제어: 운동원
     품사: 명사
     항목ID: 68812
-processed:
+result:
   맞춤법 검사:
     표제어: 운동원
     품사: 명사
 ---
 000_KEYWORD: 운동장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26891
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12454,13 +12453,13 @@ imported:
     표제어: 운동장
     품사: 명사
     항목ID: 26891
-processed:
+result:
   맞춤법 검사:
     표제어: 운동장
     품사: 명사
 ---
 000_KEYWORD: 운동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69522
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12533,13 +12532,13 @@ imported:
     표제어: 운동하다
     품사: 동사
     항목ID: 69522
-processed:
+result:
   맞춤법 검사:
     표제어: 운동하다
     품사: 동사
 ---
 000_KEYWORD: 운동화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22460
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12578,13 +12577,13 @@ imported:
     표제어: 운동화
     품사: 명사
     항목ID: 22460
-processed:
+result:
   맞춤법 검사:
     표제어: 운동화
     품사: 명사
 ---
 000_KEYWORD: 운동회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68813
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12615,13 +12614,13 @@ imported:
     표제어: 운동회
     품사: 명사
     항목ID: 68813
-processed:
+result:
   맞춤법 검사:
     표제어: 운동회
     품사: 명사
 ---
 000_KEYWORD: 운명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26686
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12681,13 +12680,13 @@ imported:
     표제어: 운명
     품사: 명사
     항목ID: 26686
-processed:
+result:
   맞춤법 검사:
     표제어: 운명
     품사: 명사
 ---
 000_KEYWORD: 운명__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68814
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12721,13 +12720,13 @@ imported:
     표제어: 운명
     품사: 명사
     항목ID: 68814
-processed:
+result:
   맞춤법 검사:
     표제어: 운명
     품사: 명사
 ---
 000_KEYWORD: 운명론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68815
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12756,13 +12755,13 @@ imported:
     표제어: 운명론
     품사: 명사
     항목ID: 68815
-processed:
+result:
   맞춤법 검사:
     표제어: 운명론
     품사: 명사
 ---
 000_KEYWORD: 운명적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68817
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12792,13 +12791,13 @@ imported:
     표제어: 운명적
     품사: 관형사
     항목ID: 68817
-processed:
+result:
   맞춤법 검사:
     표제어: 운명적
     품사: 관형사
 ---
 000_KEYWORD: 운명적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68816
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12827,13 +12826,13 @@ imported:
     표제어: 운명적
     품사: 명사
     항목ID: 68816
-processed:
+result:
   맞춤법 검사:
     표제어: 운명적
     품사: 명사
 ---
 000_KEYWORD: 운명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68820
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12861,13 +12860,13 @@ imported:
     표제어: 운명하다
     품사: 동사
     항목ID: 68820
-processed:
+result:
   맞춤법 검사:
     표제어: 운명하다
     품사: 동사
 ---
 000_KEYWORD: 운무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68823
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12897,13 +12896,13 @@ imported:
     표제어: 운무
     품사: 명사
     항목ID: 68823
-processed:
+result:
   맞춤법 검사:
     표제어: 운무
     품사: 명사
 ---
 000_KEYWORD: 운문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68826
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12934,13 +12933,13 @@ imported:
     표제어: 운문
     품사: 명사
     항목ID: 68826
-processed:
+result:
   맞춤법 검사:
     표제어: 운문
     품사: 명사
 ---
 000_KEYWORD: 운반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26697
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -12972,13 +12971,13 @@ imported:
     표제어: 운반
     품사: 명사
     항목ID: 26697
-processed:
+result:
   맞춤법 검사:
     표제어: 운반
     품사: 명사
 ---
 000_KEYWORD: 운반되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68828
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13011,13 +13010,13 @@ imported:
     표제어: 운반되다
     품사: 동사
     항목ID: 68828
-processed:
+result:
   맞춤법 검사:
     표제어: 운반되다
     품사: 동사
 ---
 000_KEYWORD: 운반비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68830
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13046,13 +13045,13 @@ imported:
     표제어: 운반비
     품사: 명사
     항목ID: 68830
-processed:
+result:
   맞춤법 검사:
     표제어: 운반비
     품사: 명사
 ---
 000_KEYWORD: 운반선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68921
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13080,13 +13079,13 @@ imported:
     표제어: 운반선
     품사: 명사
     항목ID: 68921
-processed:
+result:
   맞춤법 검사:
     표제어: 운반선
     품사: 명사
 ---
 000_KEYWORD: 운반하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68924
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13117,13 +13116,13 @@ imported:
     표제어: 운반하다
     품사: 동사
     항목ID: 68924
-processed:
+result:
   맞춤법 검사:
     표제어: 운반하다
     품사: 동사
 ---
 000_KEYWORD: 운석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68926
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13164,13 +13163,13 @@ imported:
     - 발음: 운ː성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68926_un-seongman.wav
       형태: 운석만
-processed:
+result:
   맞춤법 검사:
     표제어: 운석
     품사: 명사
 ---
 000_KEYWORD: 운세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68931
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13200,13 +13199,13 @@ imported:
     표제어: 운세
     품사: 명사
     항목ID: 68931
-processed:
+result:
   맞춤법 검사:
     표제어: 운세
     품사: 명사
 ---
 000_KEYWORD: 운소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68933
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13233,13 +13232,13 @@ imported:
     표제어: 운소
     품사: 명사
     항목ID: 68933
-processed:
+result:
   맞춤법 검사:
     표제어: 운소
     품사: 명사
 ---
 000_KEYWORD: 운송__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69004
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13279,13 +13278,13 @@ imported:
     표제어: 운송
     품사: 명사
     항목ID: 69004
-processed:
+result:
   맞춤법 검사:
     표제어: 운송
     품사: 명사
 ---
 000_KEYWORD: 운송되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69005
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13317,13 +13316,13 @@ imported:
     표제어: 운송되다
     품사: 동사
     항목ID: 69005
-processed:
+result:
   맞춤법 검사:
     표제어: 운송되다
     품사: 동사
 ---
 000_KEYWORD: 운송료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69006
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13360,13 +13359,13 @@ imported:
     표제어: 운송료
     품사: 명사
     항목ID: 69006
-processed:
+result:
   맞춤법 검사:
     표제어: 운송료
     품사: 명사
 ---
 000_KEYWORD: 운송비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69007
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13402,13 +13401,13 @@ imported:
     표제어: 운송비
     품사: 명사
     항목ID: 69007
-processed:
+result:
   맞춤법 검사:
     표제어: 운송비
     품사: 명사
 ---
 000_KEYWORD: 운송업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69054
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13446,13 +13445,13 @@ imported:
     - 발음: 운ː송엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69054_un-songeomman.wav
       형태: 운송업만
-processed:
+result:
   맞춤법 검사:
     표제어: 운송업
     품사: 명사
 ---
 000_KEYWORD: 운송업자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69056
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13480,13 +13479,13 @@ imported:
     표제어: 운송업자
     품사: 명사
     항목ID: 69056
-processed:
+result:
   맞춤법 검사:
     표제어: 운송업자
     품사: 명사
 ---
 000_KEYWORD: 운송하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69059
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13518,13 +13517,13 @@ imported:
     표제어: 운송하다
     품사: 동사
     항목ID: 69059
-processed:
+result:
   맞춤법 검사:
     표제어: 운송하다
     품사: 동사
 ---
 000_KEYWORD: 운수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69060
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13558,13 +13557,13 @@ imported:
     표제어: 운수
     품사: 명사
     항목ID: 69060
-processed:
+result:
   맞춤법 검사:
     표제어: 운수
     품사: 명사
 ---
 000_KEYWORD: 운수업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69063
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13606,13 +13605,13 @@ imported:
     - 발음: 운ː수엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69063_un-sueomman.wav
       형태: 운수업만
-processed:
+result:
   맞춤법 검사:
     표제어: 운수업
     품사: 명사
 ---
 000_KEYWORD: 운수업자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69115
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13641,13 +13640,13 @@ imported:
     표제어: 운수업자
     품사: 명사
     항목ID: 69115
-processed:
+result:
   맞춤법 검사:
     표제어: 운수업자
     품사: 명사
 ---
 000_KEYWORD: 운신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69122
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13689,13 +13688,13 @@ imported:
     표제어: 운신
     품사: 명사
     항목ID: 69122
-processed:
+result:
   맞춤법 검사:
     표제어: 운신
     품사: 명사
 ---
 000_KEYWORD: 운신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69132
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13740,13 +13739,13 @@ imported:
     표제어: 운신하다
     품사: 동사
     항목ID: 69132
-processed:
+result:
   맞춤법 검사:
     표제어: 운신하다
     품사: 동사
 ---
 000_KEYWORD: 운영__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69143
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13781,13 +13780,13 @@ imported:
     표제어: 운영
     품사: 명사
     항목ID: 69143
-processed:
+result:
   맞춤법 검사:
     표제어: 운영
     품사: 명사
 ---
 000_KEYWORD: 운영난__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69144
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13816,13 +13815,13 @@ imported:
     표제어: 운영난
     품사: 명사
     항목ID: 69144
-processed:
+result:
   맞춤법 검사:
     표제어: 운영난
     품사: 명사
 ---
 000_KEYWORD: 운영되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69243
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13857,13 +13856,13 @@ imported:
     표제어: 운영되다
     품사: 동사
     항목ID: 69243
-processed:
+result:
   맞춤법 검사:
     표제어: 운영되다
     품사: 동사
 ---
 000_KEYWORD: 운영비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69247
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13893,13 +13892,13 @@ imported:
     표제어: 운영비
     품사: 명사
     항목ID: 69247
-processed:
+result:
   맞춤법 검사:
     표제어: 운영비
     품사: 명사
 ---
 000_KEYWORD: 운영자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13908,13 +13907,13 @@ imported:
     표제어: 운영자
     품사: 명사:보통:비서술성
     항목ID: 20084
-processed:
+result:
   맞춤법 검사:
     표제어: 운영자
     품사: 명사
 ---
 000_KEYWORD: 운영진__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13923,13 +13922,13 @@ imported:
     표제어: 운영진
     품사: 명사:보통:비서술성
     항목ID: 20085
-processed:
+result:
   맞춤법 검사:
     표제어: 운영진
     품사: 명사
 ---
 000_KEYWORD: 운영체제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13938,13 +13937,13 @@ imported:
     표제어: 운영체제
     품사: 명사:보통:서술성
     항목ID: 20086
-processed:
+result:
   맞춤법 검사:
     표제어: 운영체제
     품사: 명사
 ---
 000_KEYWORD: 운영하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26698
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -13973,13 +13972,13 @@ imported:
     표제어: 운영하다
     품사: 동사
     항목ID: 26698
-processed:
+result:
   맞춤법 검사:
     표제어: 운영하다
     품사: 동사
 ---
 000_KEYWORD: 운용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69252
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14012,13 +14011,13 @@ imported:
     표제어: 운용
     품사: 명사
     항목ID: 69252
-processed:
+result:
   맞춤법 검사:
     표제어: 운용
     품사: 명사
 ---
 000_KEYWORD: 운용되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69261
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14051,13 +14050,13 @@ imported:
     표제어: 운용되다
     품사: 동사
     항목ID: 69261
-processed:
+result:
   맞춤법 검사:
     표제어: 운용되다
     품사: 동사
 ---
 000_KEYWORD: 운용비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69262
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14086,13 +14085,13 @@ imported:
     표제어: 운용비
     품사: 명사
     항목ID: 69262
-processed:
+result:
   맞춤법 검사:
     표제어: 운용비
     품사: 명사
 ---
 000_KEYWORD: 운용사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14101,13 +14100,13 @@ imported:
     표제어: 운용사
     품사: 명사:보통:비서술성
     항목ID: 20091
-processed:
+result:
   맞춤법 검사:
     표제어: 운용사
     품사: 명사
 ---
 000_KEYWORD: 운용하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69298
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14138,13 +14137,13 @@ imported:
     표제어: 운용하다
     품사: 동사
     항목ID: 69298
-processed:
+result:
   맞춤법 검사:
     표제어: 운용하다
     품사: 동사
 ---
 000_KEYWORD: 운운__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69299
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14173,13 +14172,13 @@ imported:
     표제어: 운운
     품사: 명사
     항목ID: 69299
-processed:
+result:
   맞춤법 검사:
     표제어: 운운
     품사: 명사
 ---
 000_KEYWORD: 운운하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69300
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14208,13 +14207,13 @@ imported:
     표제어: 운운하다
     품사: 동사
     항목ID: 69300
-processed:
+result:
   맞춤법 검사:
     표제어: 운운하다
     품사: 동사
 ---
 000_KEYWORD: 운위하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69301
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14242,13 +14241,13 @@ imported:
     표제어: 운위하다
     품사: 동사
     항목ID: 69301
-processed:
+result:
   맞춤법 검사:
     표제어: 운위하다
     품사: 동사
 ---
 000_KEYWORD: 운율__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69302
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14278,13 +14277,13 @@ imported:
     표제어: 운율
     품사: 명사
     항목ID: 69302
-processed:
+result:
   맞춤법 검사:
     표제어: 운율
     품사: 명사
 ---
 000_KEYWORD: 운임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69303
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14320,13 +14319,13 @@ imported:
     표제어: 운임
     품사: 명사
     항목ID: 69303
-processed:
+result:
   맞춤법 검사:
     표제어: 운임
     품사: 명사
 ---
 000_KEYWORD: 운전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69304
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14360,13 +14359,13 @@ imported:
     표제어: 운전
     품사: 명사
     항목ID: 69304
-processed:
+result:
   맞춤법 검사:
     표제어: 운전
     품사: 명사
 ---
 000_KEYWORD: 운전기사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69306
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14400,13 +14399,13 @@ imported:
     표제어: 운전기사
     품사: 명사
     항목ID: 69306
-processed:
+result:
   맞춤법 검사:
     표제어: 운전기사
     품사: 명사
 ---
 000_KEYWORD: 운전대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69307
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14436,13 +14435,13 @@ imported:
     표제어: 운전대
     품사: 명사
     항목ID: 69307
-processed:
+result:
   맞춤법 검사:
     표제어: 운전대
     품사: 명사
 ---
 000_KEYWORD: 운전면허__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92454
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14477,13 +14476,13 @@ imported:
     표제어: 운전면허
     품사: 명사
     항목ID: 92454
-processed:
+result:
   맞춤법 검사:
     표제어: 운전면허
     품사: 명사
 ---
 000_KEYWORD: 운전면허증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70817
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14514,13 +14513,13 @@ imported:
     표제어: 운전면허증
     품사: 명사
     항목ID: 70817
-processed:
+result:
   맞춤법 검사:
     표제어: 운전면허증
     품사: 명사
 ---
 000_KEYWORD: 운전병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69308
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14548,13 +14547,13 @@ imported:
     표제어: 운전병
     품사: 명사
     항목ID: 69308
-processed:
+result:
   맞춤법 검사:
     표제어: 운전병
     품사: 명사
 ---
 000_KEYWORD: 운전사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26699
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14591,13 +14590,13 @@ imported:
     표제어: 운전사
     품사: 명사
     항목ID: 26699
-processed:
+result:
   맞춤법 검사:
     표제어: 운전사
     품사: 명사
 ---
 000_KEYWORD: 운전석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69309
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14634,13 +14633,13 @@ imported:
     - 발음: 운ː전성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69309_un-jeonseongman.wav
       형태: 운전석만
-processed:
+result:
   맞춤법 검사:
     표제어: 운전석
     품사: 명사
 ---
 000_KEYWORD: 운전수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69310
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14668,13 +14667,13 @@ imported:
     표제어: 운전수
     품사: 명사
     항목ID: 69310
-processed:
+result:
   맞춤법 검사:
     표제어: 운전수
     품사: 명사
 ---
 000_KEYWORD: 운전실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69311
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14702,13 +14701,13 @@ imported:
     표제어: 운전실
     품사: 명사
     항목ID: 69311
-processed:
+result:
   맞춤법 검사:
     표제어: 운전실
     품사: 명사
 ---
 000_KEYWORD: 운전자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69312
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14738,13 +14737,13 @@ imported:
     표제어: 운전자
     품사: 명사
     항목ID: 69312
-processed:
+result:
   맞춤법 검사:
     표제어: 운전자
     품사: 명사
 ---
 000_KEYWORD: 운전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69313
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14774,13 +14773,13 @@ imported:
     표제어: 운전하다
     품사: 동사
     항목ID: 69313
-processed:
+result:
   맞춤법 검사:
     표제어: 운전하다
     품사: 동사
 ---
 000_KEYWORD: 운집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69314
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14817,13 +14816,13 @@ imported:
     - 발음: 운짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69314_unjimman.wav
       형태: 운집만
-processed:
+result:
   맞춤법 검사:
     표제어: 운집
     품사: 명사
 ---
 000_KEYWORD: 운집하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69315
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14851,13 +14850,13 @@ imported:
     표제어: 운집하다
     품사: 동사
     항목ID: 69315
-processed:
+result:
   맞춤법 검사:
     표제어: 운집하다
     품사: 동사
 ---
 000_KEYWORD: 운치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69316
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14885,13 +14884,13 @@ imported:
     표제어: 운치
     품사: 명사
     항목ID: 69316
-processed:
+result:
   맞춤법 검사:
     표제어: 운치
     품사: 명사
 ---
 000_KEYWORD: 운하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69317
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14919,13 +14918,13 @@ imported:
     표제어: 운하
     품사: 명사
     항목ID: 69317
-processed:
+result:
   맞춤법 검사:
     표제어: 운하
     품사: 명사
 ---
 000_KEYWORD: 운항__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69318
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14958,13 +14957,13 @@ imported:
     표제어: 운항
     품사: 명사
     항목ID: 69318
-processed:
+result:
   맞춤법 검사:
     표제어: 운항
     품사: 명사
 ---
 000_KEYWORD: 운항하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69319
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -14997,13 +14996,13 @@ imported:
     표제어: 운항하다
     품사: 동사
     항목ID: 69319
-processed:
+result:
   맞춤법 검사:
     표제어: 운항하다
     품사: 동사
 ---
 000_KEYWORD: 운행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26701
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15054,13 +15053,13 @@ imported:
     표제어: 운행
     품사: 명사
     항목ID: 26701
-processed:
+result:
   맞춤법 검사:
     표제어: 운행
     품사: 명사
 ---
 000_KEYWORD: 운행되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69320
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15100,13 +15099,13 @@ imported:
     표제어: 운행되다
     품사: 동사
     항목ID: 69320
-processed:
+result:
   맞춤법 검사:
     표제어: 운행되다
     품사: 동사
 ---
 000_KEYWORD: 운행하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69321
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15159,13 +15158,13 @@ imported:
       형태: 운행하니
     - 발음: 운ː행함니다
       형태: 운행합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 운행하다
     품사: 동사
 ---
 000_KEYWORD: 운휴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69322
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15193,13 +15192,13 @@ imported:
     표제어: 운휴
     품사: 명사
     항목ID: 69322
-processed:
+result:
   맞춤법 검사:
     표제어: 운휴
     품사: 명사
 ---
 000_KEYWORD: 울__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69323
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15232,13 +15231,13 @@ imported:
     표제어: 울
     품사: 대명사
     항목ID: 69323
-processed:
+result:
   맞춤법 검사:
     표제어: 울
     품사: 대명사
 ---
 000_KEYWORD: 울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69324
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15273,13 +15272,13 @@ imported:
     표제어: 울
     품사: 명사
     항목ID: 69324
-processed:
+result:
   맞춤법 검사:
     표제어: 울
     품사: 명사
 ---
 000_KEYWORD: 울고불고__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69325
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15310,13 +15309,13 @@ imported:
     표제어: 울고불고
     품사: 부사
     항목ID: 69325
-processed:
+result:
   맞춤법 검사:
     표제어: 울고불고
     품사: 부사
 ---
 000_KEYWORD: 울고불고하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69326
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15344,13 +15343,13 @@ imported:
     표제어: 울고불고하다
     품사: 동사
     항목ID: 69326
-processed:
+result:
   맞춤법 검사:
     표제어: 울고불고하다
     품사: 동사
 ---
 000_KEYWORD: 울금__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -15361,13 +15360,13 @@ imported:
     표제어: 울금
     품사: 명사:보통:서술성
     항목ID: 20115
-processed:
+result:
   맞춤법 검사:
     표제어: 울금
     품사: 명사
 ---
 000_KEYWORD: 울긋불긋__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69327
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15395,13 +15394,13 @@ imported:
     표제어: 울긋불긋
     품사: 부사
     항목ID: 69327
-processed:
+result:
   맞춤법 검사:
     표제어: 울긋불긋
     품사: 부사
 ---
 000_KEYWORD: 울긋불긋하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69328
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15440,13 +15439,13 @@ imported:
       형태: 울긋불긋하니
     - 발음: 울귿뿔그탐니다
       형태: 울긋불긋합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 울긋불긋하다
     품사: 형용사
 ---
 000_KEYWORD: 울다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69523
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15575,13 +15574,13 @@ imported:
       형태: 우니
     - 발음: 움ː니다
       형태: 웁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 울다
     품사: 동사
 ---
 000_KEYWORD: 울다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69329
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15617,13 +15616,13 @@ imported:
       형태: 우니
     - 발음: 웁ː니다
       형태: 웁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 울다
     품사: 동사
 ---
 000_KEYWORD: 울렁거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69330
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15716,13 +15715,13 @@ imported:
     표제어: 울렁거리다
     품사: 동사
     항목ID: 69330
-processed:
+result:
   맞춤법 검사:
     표제어: 울렁거리다
     품사: 동사
 ---
 000_KEYWORD: 울렁대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89467
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15812,13 +15811,13 @@ imported:
     표제어: 울렁대다
     품사: 동사
     항목ID: 89467
-processed:
+result:
   맞춤법 검사:
     표제어: 울렁대다
     품사: 동사
 ---
 000_KEYWORD: 울렁울렁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69331
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15877,13 +15876,13 @@ imported:
     표제어: 울렁울렁
     품사: 부사
     항목ID: 69331
-processed:
+result:
   맞춤법 검사:
     표제어: 울렁울렁
     품사: 부사
 ---
 000_KEYWORD: 울렁울렁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69332
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -15975,13 +15974,13 @@ imported:
     표제어: 울렁울렁하다
     품사: 동사
     항목ID: 69332
-processed:
+result:
   맞춤법 검사:
     표제어: 울렁울렁하다
     품사: 동사
 ---
 000_KEYWORD: 울렁이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69333
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16045,13 +16044,13 @@ imported:
     표제어: 울렁이다
     품사: 동사
     항목ID: 69333
-processed:
+result:
   맞춤법 검사:
     표제어: 울렁이다
     품사: 동사
 ---
 000_KEYWORD: 울렁증__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16060,13 +16059,13 @@ imported:
     표제어: 울렁증
     품사: 명사:보통:서술성
     항목ID: 20119
-processed:
+result:
   맞춤법 검사:
     표제어: 울렁증
     품사: 명사
 ---
 000_KEYWORD: 울려오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69334
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16097,13 +16096,13 @@ imported:
     활용:
     - 형태: 울려와
     - 형태: 울려오니
-processed:
+result:
   맞춤법 검사:
     표제어: 울려오다
     품사: 동사
 ---
 000_KEYWORD: 울릉도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68382
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16123,13 +16122,13 @@ imported:
     표제어: 울릉도
     품사: 명사
     항목ID: 68382
-processed:
+result:
   맞춤법 검사:
     표제어: 울릉도
     품사: 명사
 ---
 000_KEYWORD: 울리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69525
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16193,13 +16192,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69525_ulliyeo.wav
       형태: 울리어
     - 형태: 울리니
-processed:
+result:
   맞춤법 검사:
     표제어: 울리다
     품사: 동사
 ---
 000_KEYWORD: 울리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26702
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16290,13 +16289,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69525_ulliyeo.wav
       형태: 울리어
     - 형태: 울리니
-processed:
+result:
   맞춤법 검사:
     표제어: 울리다
     품사: 동사
 ---
 000_KEYWORD: 울림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69335
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16323,13 +16322,13 @@ imported:
     표제어: 울림
     품사: 명사
     항목ID: 69335
-processed:
+result:
   맞춤법 검사:
     표제어: 울림
     품사: 명사
 ---
 000_KEYWORD: 울먹거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69336
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16364,13 +16363,13 @@ imported:
     표제어: 울먹거리다
     품사: 동사
     항목ID: 69336
-processed:
+result:
   맞춤법 검사:
     표제어: 울먹거리다
     품사: 동사
 ---
 000_KEYWORD: 울먹대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89469
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16404,13 +16403,13 @@ imported:
     표제어: 울먹대다
     품사: 동사
     항목ID: 89469
-processed:
+result:
   맞춤법 검사:
     표제어: 울먹대다
     품사: 동사
 ---
 000_KEYWORD: 울먹울먹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69337
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16436,13 +16435,13 @@ imported:
     표제어: 울먹울먹
     품사: 부사
     항목ID: 69337
-processed:
+result:
   맞춤법 검사:
     표제어: 울먹울먹
     품사: 부사
 ---
 000_KEYWORD: 울먹울먹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89470
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16478,13 +16477,13 @@ imported:
     표제어: 울먹울먹하다
     품사: 동사
     항목ID: 89470
-processed:
+result:
   맞춤법 검사:
     표제어: 울먹울먹하다
     품사: 동사
 ---
 000_KEYWORD: 울먹이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69338
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16514,13 +16513,13 @@ imported:
     표제어: 울먹이다
     품사: 동사
     항목ID: 69338
-processed:
+result:
   맞춤법 검사:
     표제어: 울먹이다
     품사: 동사
 ---
 000_KEYWORD: 울먹하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89471
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16548,13 +16547,13 @@ imported:
     표제어: 울먹하다
     품사: 동사
     항목ID: 89471
-processed:
+result:
   맞춤법 검사:
     표제어: 울먹하다
     품사: 동사
 ---
 000_KEYWORD: 울며불며__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69340
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16585,13 +16584,13 @@ imported:
     표제어: 울며불며
     품사: 부사
     항목ID: 69340
-processed:
+result:
   맞춤법 검사:
     표제어: 울며불며
     품사: 부사
 ---
 000_KEYWORD: 울보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69341
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16618,13 +16617,13 @@ imported:
     표제어: 울보
     품사: 명사
     항목ID: 69341
-processed:
+result:
   맞춤법 검사:
     표제어: 울보
     품사: 명사
 ---
 000_KEYWORD: 울부짖다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69342
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16677,17 +16676,17 @@ imported:
     - 발음: 울부진는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69342_ulbujinneun.wav
       형태: 울부짖는
-processed:
+result:
   맞춤법 검사:
     표제어: 울부짖다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 울분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69345
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16716,13 +16715,13 @@ imported:
     표제어: 울분
     품사: 명사
     항목ID: 69345
-processed:
+result:
   맞춤법 검사:
     표제어: 울분
     품사: 명사
 ---
 000_KEYWORD: 울산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68897
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16746,13 +16745,13 @@ imported:
     표제어: 울산
     품사: 명사
     항목ID: 68897
-processed:
+result:
   맞춤법 검사:
     표제어: 울산
     품사: 명사
 ---
 000_KEYWORD: 울산광역시__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16762,13 +16761,13 @@ imported:
     표제어: 울산광역시
     품사: 명사:보통:서술성
     항목ID: 20129
-processed:
+result:
   맞춤법 검사:
     표제어: 울산광역시
     품사: 명사
 ---
 000_KEYWORD: 울상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69348
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16796,13 +16795,13 @@ imported:
     표제어: 울상
     품사: 명사
     항목ID: 69348
-processed:
+result:
   맞춤법 검사:
     표제어: 울상
     품사: 명사
 ---
 000_KEYWORD: 울음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69526
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16839,13 +16838,13 @@ imported:
     표제어: 울음
     품사: 명사
     항목ID: 69526
-processed:
+result:
   맞춤법 검사:
     표제어: 울음
     품사: 명사
 ---
 000_KEYWORD: 울음바다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69349
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16876,13 +16875,13 @@ imported:
     표제어: 울음바다
     품사: 명사
     항목ID: 69349
-processed:
+result:
   맞춤법 검사:
     표제어: 울음바다
     품사: 명사
 ---
 000_KEYWORD: 울음보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69351
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16914,13 +16913,13 @@ imported:
     표제어: 울음보
     품사: 명사
     항목ID: 69351
-processed:
+result:
   맞춤법 검사:
     표제어: 울음보
     품사: 명사
 ---
 000_KEYWORD: 울음소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26707
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -16954,13 +16953,13 @@ imported:
     표제어: 울음소리
     품사: 명사
     항목ID: 26707
-processed:
+result:
   맞춤법 검사:
     표제어: 울음소리
     품사: 명사
 ---
 000_KEYWORD: 울적하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69353
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17000,13 +16999,13 @@ imported:
       형태: 울적하니
     - 발음: 울쩌캄니다
       형태: 울적합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 울적하다
     품사: 형용사
 ---
 000_KEYWORD: 울창하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69355
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17047,13 +17046,13 @@ imported:
       형태: 울창하니
     - 발음: 울창함니다
       형태: 울창합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 울창하다
     품사: 형용사
 ---
 000_KEYWORD: 울컥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71377
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17093,13 +17092,13 @@ imported:
     표제어: 울컥
     품사: 부사
     항목ID: 71377
-processed:
+result:
   맞춤법 검사:
     표제어: 울컥
     품사: 부사
 ---
 000_KEYWORD: 울컥하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71378
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17141,13 +17140,13 @@ imported:
     표제어: 울컥하다
     품사: 동사
     항목ID: 71378
-processed:
+result:
   맞춤법 검사:
     표제어: 울컥하다
     품사: 동사
 ---
 000_KEYWORD: 울타리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71379
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17179,13 +17178,13 @@ imported:
     표제어: 울타리
     품사: 명사
     항목ID: 71379
-processed:
+result:
   맞춤법 검사:
     표제어: 울타리
     품사: 명사
 ---
 000_KEYWORD: 울툭불툭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71380
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17210,13 +17209,13 @@ imported:
     표제어: 울툭불툭
     품사: 부사
     항목ID: 71380
-processed:
+result:
   맞춤법 검사:
     표제어: 울툭불툭
     품사: 부사
 ---
 000_KEYWORD: 울툭불툭하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71381
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17254,13 +17253,13 @@ imported:
       형태: 울툭불툭하니
     - 발음: 울툭뿔투캄니다
       형태: 울툭불툭합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 울툭불툭하다
     품사: 형용사
 ---
 000_KEYWORD: 울퉁불퉁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71382
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17288,13 +17287,13 @@ imported:
     표제어: 울퉁불퉁
     품사: 부사
     항목ID: 71382
-processed:
+result:
   맞춤법 검사:
     표제어: 울퉁불퉁
     품사: 부사
 ---
 000_KEYWORD: 울퉁불퉁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71383
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17336,13 +17335,13 @@ imported:
       형태: 울퉁불퉁하니
     - 발음: 울퉁불퉁함니다
       형태: 울퉁불퉁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 울퉁불퉁하다
     품사: 형용사
 ---
 000_KEYWORD: 울화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71384
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17371,13 +17370,13 @@ imported:
     표제어: 울화
     품사: 명사
     항목ID: 71384
-processed:
+result:
   맞춤법 검사:
     표제어: 울화
     품사: 명사
 ---
 000_KEYWORD: 울화병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71385
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17410,13 +17409,13 @@ imported:
     표제어: 울화병
     품사: 명사
     항목ID: 71385
-processed:
+result:
   맞춤법 검사:
     표제어: 울화병
     품사: 명사
 ---
 000_KEYWORD: 울화통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71386
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17445,13 +17444,13 @@ imported:
     표제어: 울화통
     품사: 명사
     항목ID: 71386
-processed:
+result:
   맞춤법 검사:
     표제어: 울화통
     품사: 명사
 ---
 000_KEYWORD: 움__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71387
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17484,13 +17483,13 @@ imported:
     표제어: 움
     품사: 명사
     항목ID: 71387
-processed:
+result:
   맞춤법 검사:
     표제어: 움
     품사: 명사
 ---
 000_KEYWORD: 움막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71388
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17535,13 +17534,13 @@ imported:
     - 발음: 움ː망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/71388_um-mangman.wav
       형태: 움막만
-processed:
+result:
   맞춤법 검사:
     표제어: 움막
     품사: 명사
 ---
 000_KEYWORD: 움막살이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71389
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17567,13 +17566,13 @@ imported:
     표제어: 움막살이
     품사: 명사
     항목ID: 71389
-processed:
+result:
   맞춤법 검사:
     표제어: 움막살이
     품사: 명사
 ---
 000_KEYWORD: 움막살이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71390
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17602,13 +17601,13 @@ imported:
     표제어: 움막살이하다
     품사: 동사
     항목ID: 71390
-processed:
+result:
   맞춤법 검사:
     표제어: 움막살이하다
     품사: 동사
 ---
 000_KEYWORD: 움막집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71391
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17653,13 +17652,13 @@ imported:
     - 발음: 움ː막찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/41000/71391_um-makjjimman.wav
       형태: 움막집만
-processed:
+result:
   맞춤법 검사:
     표제어: 움막집
     품사: 명사
 ---
 000_KEYWORD: 움직거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71393
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17694,13 +17693,13 @@ imported:
     표제어: 움직거리다
     품사: 동사
     항목ID: 71393
-processed:
+result:
   맞춤법 검사:
     표제어: 움직거리다
     품사: 동사
 ---
 000_KEYWORD: 움직대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89472
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17734,13 +17733,13 @@ imported:
     표제어: 움직대다
     품사: 동사
     항목ID: 89472
-processed:
+result:
   맞춤법 검사:
     표제어: 움직대다
     품사: 동사
 ---
 000_KEYWORD: 움직움직__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89473
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17765,13 +17764,13 @@ imported:
     표제어: 움직움직
     품사: 부사
     항목ID: 89473
-processed:
+result:
   맞춤법 검사:
     표제어: 움직움직
     품사: 부사
 ---
 000_KEYWORD: 움직움직하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89474
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17801,13 +17800,13 @@ imported:
     표제어: 움직움직하다
     품사: 동사
     항목ID: 89474
-processed:
+result:
   맞춤법 검사:
     표제어: 움직움직하다
     품사: 동사
 ---
 000_KEYWORD: 움직이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58166
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17909,13 +17908,13 @@ imported:
     표제어: 움직이다
     품사: 동사
     항목ID: 58166
-processed:
+result:
   맞춤법 검사:
     표제어: 움직이다
     품사: 동사
 ---
 000_KEYWORD: 움직임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26708
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -17977,13 +17976,13 @@ imported:
     표제어: 움직임
     품사: 명사
     항목ID: 26708
-processed:
+result:
   맞춤법 검사:
     표제어: 움직임
     품사: 명사
 ---
 000_KEYWORD: 움집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71395
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18020,13 +18019,13 @@ imported:
     - 발음: 움ː찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71395_um-jjimman.wav
       형태: 움집만
-processed:
+result:
   맞춤법 검사:
     표제어: 움집
     품사: 명사
 ---
 000_KEYWORD: 움찔__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71397
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18052,13 +18051,13 @@ imported:
     표제어: 움찔
     품사: 부사
     항목ID: 71397
-processed:
+result:
   맞춤법 검사:
     표제어: 움찔
     품사: 부사
 ---
 000_KEYWORD: 움찔거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71398
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18093,13 +18092,13 @@ imported:
     표제어: 움찔거리다
     품사: 동사
     항목ID: 71398
-processed:
+result:
   맞춤법 검사:
     표제어: 움찔거리다
     품사: 동사
 ---
 000_KEYWORD: 움찔움찔하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89475
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18145,13 +18144,13 @@ imported:
       형태: 움찔움찔하니
     - 발음: 움찌룸찔함니다
       형태: 움찔움찔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 움찔움찔하다
     품사: 동사
 ---
 000_KEYWORD: 움찔하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71399
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18186,13 +18185,13 @@ imported:
     표제어: 움찔하다
     품사: 동사
     항목ID: 71399
-processed:
+result:
   맞춤법 검사:
     표제어: 움찔하다
     품사: 동사
 ---
 000_KEYWORD: 움츠러들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71400
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18240,17 +18239,17 @@ imported:
     - 발음: 움츠러듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71400_umcheureodeumnida.wav
       형태: 움츠러듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 움츠러들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 움츠리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71403
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18308,13 +18307,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71403_umcheuriyeo.wav
       형태: 움츠리어
     - 형태: 움츠리니
-processed:
+result:
   맞춤법 검사:
     표제어: 움츠리다
     품사: 동사
 ---
 000_KEYWORD: 움켜잡다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71404
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18352,7 +18351,7 @@ imported:
     - 발음: 움켜잠는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71404_umkyeojamneun.wav
       형태: 움켜잡는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -18360,7 +18359,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 움켜쥐다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71408
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18411,13 +18410,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71408_umkyeojwiyeo.wav
       형태: 움켜쥐어
     - 형태: 움켜쥐니
-processed:
+result:
   맞춤법 검사:
     표제어: 움켜쥐다
     품사: 동사
 ---
 000_KEYWORD: 움큼__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71416
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18449,13 +18448,13 @@ imported:
     표제어: 움큼
     품사: 의존 명사
     항목ID: 71416
-processed:
+result:
   맞춤법 검사:
     표제어: 움큼
     품사: 의존 명사
 ---
 000_KEYWORD: 움트다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71420
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18504,13 +18503,13 @@ imported:
     - 발음: 움ː트니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71420_um-teuni.wav
       형태: 움트니
-processed:
+result:
   맞춤법 검사:
     표제어: 움트다
     품사: 동사
 ---
 000_KEYWORD: 움푹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71429
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18541,13 +18540,13 @@ imported:
     표제어: 움푹
     품사: 부사
     항목ID: 71429
-processed:
+result:
   맞춤법 검사:
     표제어: 움푹
     품사: 부사
 ---
 000_KEYWORD: 움푹하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71435
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18586,13 +18585,13 @@ imported:
       형태: 움푹하니
     - 발음: 움푸캄니다
       형태: 움푹합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 움푹하다
     품사: 형용사
 ---
 000_KEYWORD: 웃-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72698
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18611,11 +18610,11 @@ imported:
     표제어: 웃-
     품사: 접사
     항목ID: 72698
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 웃기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63516
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18675,13 +18674,13 @@ imported:
     - 발음: 욷ː끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/63516_ud-kkini.wav
       형태: 웃기니
-processed:
+result:
   맞춤법 검사:
     표제어: 웃기다
     품사: 동사
 ---
 000_KEYWORD: 웃다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71461
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18756,7 +18755,7 @@ imported:
     - 발음: 운ː는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71461_un-neun.wav
       형태: 웃는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -18764,7 +18763,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 웃도리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92359
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18777,10 +18776,10 @@ imported:
     표제어: 웃도리
     품사: 명사
     항목ID: 92359
-processed: {}
+result: {}
 ---
 000_KEYWORD: 웃돈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71436
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18814,13 +18813,13 @@ imported:
     표제어: 웃돈
     품사: 명사
     항목ID: 71436
-processed:
+result:
   맞춤법 검사:
     표제어: 웃돈
     품사: 명사
 ---
 000_KEYWORD: 웃돌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71437
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18863,13 +18862,13 @@ imported:
     - 발음: 욷똠니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71437_utttomnida.wav
       형태: 웃돕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 웃돌다
     품사: 동사
 ---
 000_KEYWORD: 웃목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92360
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18882,10 +18881,10 @@ imported:
     표제어: 웃목
     품사: 명사
     항목ID: 92360
-processed: {}
+result: {}
 ---
 000_KEYWORD: 웃몸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92361
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18898,10 +18897,10 @@ imported:
     표제어: 웃몸
     품사: 명사
     항목ID: 92361
-processed: {}
+result: {}
 ---
 000_KEYWORD: 웃물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92362
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18914,10 +18913,10 @@ imported:
     표제어: 웃물
     품사: 명사
     항목ID: 92362
-processed: {}
+result: {}
 ---
 000_KEYWORD: 웃방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92363
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18931,10 +18930,10 @@ imported:
     표제어: 웃방
     품사: 명사
     항목ID: 92363
-processed: {}
+result: {}
 ---
 000_KEYWORD: 웃사람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92364
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18947,10 +18946,10 @@ imported:
     표제어: 웃사람
     품사: 명사
     항목ID: 92364
-processed: {}
+result: {}
 ---
 000_KEYWORD: 웃어넘기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71438
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -18991,13 +18990,13 @@ imported:
     - 발음: 우서넘기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71438_useoneomgini.wav
       형태: 웃어넘기니
-processed:
+result:
   맞춤법 검사:
     표제어: 웃어넘기다
     품사: 동사
 ---
 000_KEYWORD: 웃어른__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71439
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19025,13 +19024,13 @@ imported:
     표제어: 웃어른
     품사: 명사
     항목ID: 71439
-processed:
+result:
   맞춤법 검사:
     표제어: 웃어른
     품사: 명사
 ---
 000_KEYWORD: 웃옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71440
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19068,13 +19067,13 @@ imported:
     - 발음: 우돈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71440_udonman.wav
       형태: 웃옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 웃옷
     품사: 명사
 ---
 000_KEYWORD: 웃음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49095
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19117,13 +19116,13 @@ imported:
     표제어: 웃음
     품사: 명사
     항목ID: 49095
-processed:
+result:
   맞춤법 검사:
     표제어: 웃음
     품사: 명사
 ---
 000_KEYWORD: 웃음거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71441
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19164,13 +19163,13 @@ imported:
     표제어: 웃음거리
     품사: 명사
     항목ID: 71441
-processed:
+result:
   맞춤법 검사:
     표제어: 웃음거리
     품사: 명사
 ---
 000_KEYWORD: 웃음기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71442
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19199,13 +19198,13 @@ imported:
     표제어: 웃음기
     품사: 명사
     항목ID: 71442
-processed:
+result:
   맞춤법 검사:
     표제어: 웃음기
     품사: 명사
 ---
 000_KEYWORD: 웃음꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71443
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19243,13 +19242,13 @@ imported:
     - 발음: 우슴꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/71443_useumkkonman.wav
       형태: 웃음꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 웃음꽃
     품사: 명사
 ---
 000_KEYWORD: 웃음바다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71444
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19280,13 +19279,13 @@ imported:
     표제어: 웃음바다
     품사: 명사
     항목ID: 71444
-processed:
+result:
   맞춤법 검사:
     표제어: 웃음바다
     품사: 명사
 ---
 000_KEYWORD: 웃음보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71445
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19318,13 +19317,13 @@ imported:
     표제어: 웃음보
     품사: 명사
     항목ID: 71445
-processed:
+result:
   맞춤법 검사:
     표제어: 웃음보
     품사: 명사
 ---
 000_KEYWORD: 웃음소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26709
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19359,13 +19358,13 @@ imported:
     표제어: 웃음소리
     품사: 명사
     항목ID: 26709
-processed:
+result:
   맞춤법 검사:
     표제어: 웃음소리
     품사: 명사
 ---
 000_KEYWORD: 웃통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71446
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19419,13 +19418,13 @@ imported:
     표제어: 웃통
     품사: 명사
     항목ID: 71446
-processed:
+result:
   맞춤법 검사:
     표제어: 웃통
     품사: 명사
 ---
 000_KEYWORD: 웃풍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71447
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19454,13 +19453,13 @@ imported:
     표제어: 웃풍
     품사: 명사
     항목ID: 71447
-processed:
+result:
   맞춤법 검사:
     표제어: 웃풍
     품사: 명사
 ---
 000_KEYWORD: 웅거하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71448
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19490,13 +19489,13 @@ imported:
     표제어: 웅거하다
     품사: 동사
     항목ID: 71448
-processed:
+result:
   맞춤법 검사:
     표제어: 웅거하다
     품사: 동사
 ---
 000_KEYWORD: 웅담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71449
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19524,13 +19523,13 @@ imported:
     표제어: 웅담
     품사: 명사
     항목ID: 71449
-processed:
+result:
   맞춤법 검사:
     표제어: 웅담
     품사: 명사
 ---
 000_KEYWORD: 웅대하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71450
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19571,13 +19570,13 @@ imported:
       형태: 웅대하니
     - 발음: 웅대함니다
       형태: 웅대합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 웅대하다
     품사: 형용사
 ---
 000_KEYWORD: 웅덩이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71451
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19607,13 +19606,13 @@ imported:
     표제어: 웅덩이
     품사: 명사
     항목ID: 71451
-processed:
+result:
   맞춤법 검사:
     표제어: 웅덩이
     품사: 명사
 ---
 000_KEYWORD: 웅변__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71452
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19659,13 +19658,13 @@ imported:
     표제어: 웅변
     품사: 명사
     항목ID: 71452
-processed:
+result:
   맞춤법 검사:
     표제어: 웅변
     품사: 명사
 ---
 000_KEYWORD: 웅변가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71453
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19693,13 +19692,13 @@ imported:
     표제어: 웅변가
     품사: 명사
     항목ID: 71453
-processed:
+result:
   맞춤법 검사:
     표제어: 웅변가
     품사: 명사
 ---
 000_KEYWORD: 웅변조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71454
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19727,13 +19726,13 @@ imported:
     표제어: 웅변조
     품사: 명사
     항목ID: 71454
-processed:
+result:
   맞춤법 검사:
     표제어: 웅변조
     품사: 명사
 ---
 000_KEYWORD: 웅변하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71455
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19776,13 +19775,13 @@ imported:
     표제어: 웅변하다
     품사: 동사
     항목ID: 71455
-processed:
+result:
   맞춤법 검사:
     표제어: 웅변하다
     품사: 동사
 ---
 000_KEYWORD: 웅비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71684
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19808,13 +19807,13 @@ imported:
     표제어: 웅비
     품사: 명사
     항목ID: 71684
-processed:
+result:
   맞춤법 검사:
     표제어: 웅비
     품사: 명사
 ---
 000_KEYWORD: 웅비하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71685
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19843,13 +19842,13 @@ imported:
     표제어: 웅비하다
     품사: 동사
     항목ID: 71685
-processed:
+result:
   맞춤법 검사:
     표제어: 웅비하다
     품사: 동사
 ---
 000_KEYWORD: 웅성거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69755
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19884,13 +19883,13 @@ imported:
     표제어: 웅성거리다
     품사: 동사
     항목ID: 69755
-processed:
+result:
   맞춤법 검사:
     표제어: 웅성거리다
     품사: 동사
 ---
 000_KEYWORD: 웅성대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69756
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19922,13 +19921,13 @@ imported:
     표제어: 웅성대다
     품사: 동사
     항목ID: 69756
-processed:
+result:
   맞춤법 검사:
     표제어: 웅성대다
     품사: 동사
 ---
 000_KEYWORD: 웅성웅성__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69757
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19956,13 +19955,13 @@ imported:
     표제어: 웅성웅성
     품사: 부사
     항목ID: 69757
-processed:
+result:
   맞춤법 검사:
     표제어: 웅성웅성
     품사: 부사
 ---
 000_KEYWORD: 웅성웅성하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69760
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -19997,13 +19996,13 @@ imported:
     표제어: 웅성웅성하다
     품사: 동사
     항목ID: 69760
-processed:
+result:
   맞춤법 검사:
     표제어: 웅성웅성하다
     품사: 동사
 ---
 000_KEYWORD: 웅얼거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69822
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20042,13 +20041,13 @@ imported:
     표제어: 웅얼거리다
     품사: 동사
     항목ID: 69822
-processed:
+result:
   맞춤법 검사:
     표제어: 웅얼거리다
     품사: 동사
 ---
 000_KEYWORD: 웅얼대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69823
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20087,13 +20086,13 @@ imported:
     표제어: 웅얼대다
     품사: 동사
     항목ID: 69823
-processed:
+result:
   맞춤법 검사:
     표제어: 웅얼대다
     품사: 동사
 ---
 000_KEYWORD: 웅얼웅얼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69824
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20124,13 +20123,13 @@ imported:
     표제어: 웅얼웅얼
     품사: 부사
     항목ID: 69824
-processed:
+result:
   맞춤법 검사:
     표제어: 웅얼웅얼
     품사: 부사
 ---
 000_KEYWORD: 웅얼웅얼하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69825
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20180,13 +20179,13 @@ imported:
       형태: 웅얼웅얼하니
     - 발음: 웅어룽얼함니다
       형태: 웅얼웅얼합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 웅얼웅얼하다
     품사: 동사
 ---
 000_KEYWORD: 웅장하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69826
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20229,13 +20228,13 @@ imported:
       형태: 웅장하니
     - 발음: 웅장함니다
       형태: 웅장합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 웅장하다
     품사: 형용사
 ---
 000_KEYWORD: 웅크리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69827
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -20272,7 +20271,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/69827_ungkeuriyeo.wav
       형태: 웅크리어
     - 형태: 웅크리니
-processed:
+result:
   맞춤법 검사:
     표제어: 웅크리다
     품사: 동사

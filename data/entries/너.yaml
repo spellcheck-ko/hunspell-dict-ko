@@ -1,5 +1,5 @@
 000_KEYWORD: -너라__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68835
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -23,11 +23,11 @@ imported:
     표제어: -너라
     품사: 어미
     항목ID: 68835
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 너__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92077
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -52,13 +52,13 @@ imported:
     표제어: 너
     품사: 관형사
     항목ID: 92077
-processed:
+result:
   맞춤법 검사:
     표제어: 너
     품사: 관형사
 ---
 000_KEYWORD: 너__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64390
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -112,13 +112,13 @@ imported:
       형태: 너에게
     - 발음: 네게
       형태: 네게
-processed:
+result:
   맞춤법 검사:
     표제어: 너
     품사: 대명사
 ---
 000_KEYWORD: 너구리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20498
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -157,13 +157,13 @@ imported:
     표제어: 너구리
     품사: 명사
     항목ID: 20498
-processed:
+result:
   맞춤법 검사:
     표제어: 너구리
     품사: 명사
 ---
 000_KEYWORD: 너그러이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40248
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -194,13 +194,13 @@ imported:
     표제어: 너그러이
     품사: 부사
     항목ID: 40248
-processed:
+result:
   맞춤법 검사:
     표제어: 너그러이
     품사: 부사
 ---
 000_KEYWORD: 너그럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40249
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -244,7 +244,7 @@ imported:
     - 발음: 너그럽씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40249_neogeureopsseumnida.wav
       형태: 너그럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -252,7 +252,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 너끈하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40250
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -292,13 +292,13 @@ imported:
     - 발음: 너끈함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40250_neokkeunhamnida.wav
       형태: 너끈합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너끈하다
     품사: 형용사
 ---
 000_KEYWORD: 너끈히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40251
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -325,13 +325,13 @@ imported:
     표제어: 너끈히
     품사: 부사
     항목ID: 40251
-processed:
+result:
   맞춤법 검사:
     표제어: 너끈히
     품사: 부사
 ---
 000_KEYWORD: 너나없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40252
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -358,13 +358,13 @@ imported:
     표제어: 너나없이
     품사: 부사
     항목ID: 40252
-processed:
+result:
   맞춤법 검사:
     표제어: 너나없이
     품사: 부사
 ---
 000_KEYWORD: 너댓__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40254
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -377,10 +377,10 @@ imported:
     표제어: 너댓
     품사: 수사
     항목ID: 40254
-processed: {}
+result: {}
 ---
 000_KEYWORD: 너더댓__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87363
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -421,13 +421,13 @@ imported:
     - 발음: 너더댄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/87363_neodeodaenman.wav
       형태: 너더댓만
-processed:
+result:
   맞춤법 검사:
     표제어: 너더댓
     품사: 수사
 ---
 000_KEYWORD: 너덜거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40255
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -477,13 +477,13 @@ imported:
     - 발음: 너덜거림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/40255_neodeolgeorimnida.wav
       형태: 너덜거립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너덜거리다
     품사: 동사
 ---
 000_KEYWORD: 너덜너덜__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40256
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -515,13 +515,13 @@ imported:
     표제어: 너덜너덜
     품사: 부사
     항목ID: 40256
-processed:
+result:
   맞춤법 검사:
     표제어: 너덜너덜
     품사: 부사
 ---
 000_KEYWORD: 너덜너덜하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40258
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -570,13 +570,13 @@ imported:
     - 발음: 너덜러덜함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40259_neodeolleodeolhamnida.wav
       형태: 너덜너덜합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너덜너덜하다
     품사: 동사
 ---
 000_KEYWORD: 너덜너덜하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40259
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -620,13 +620,13 @@ imported:
     - 발음: 너덜러덜함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40259_neodeolleodeolhamnida.wav
       형태: 너덜너덜합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너덜너덜하다
     품사: 형용사
 ---
 000_KEYWORD: 너덜대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40260
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -669,13 +669,13 @@ imported:
     - 발음: 너덜댐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/40260_neodeoldaemnida.wav
       형태: 너덜댑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너덜대다
     품사: 동사
 ---
 000_KEYWORD: 너덧__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40261
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -703,13 +703,13 @@ imported:
     표제어: 너덧
     품사: 관형사
     항목ID: 40261
-processed:
+result:
   맞춤법 검사:
     표제어: 너덧
     품사: 관형사
 ---
 000_KEYWORD: 너덧__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40262
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -750,13 +750,13 @@ imported:
     - 발음: 너던만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40261_neodeonman.wav
       형태: 너덧만
-processed:
+result:
   맞춤법 검사:
     표제어: 너덧
     품사: 수사
 ---
 000_KEYWORD: 너도나도__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40263
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -783,13 +783,13 @@ imported:
     표제어: 너도나도
     품사: 부사
     항목ID: 40263
-processed:
+result:
   맞춤법 검사:
     표제어: 너도나도
     품사: 부사
 ---
 000_KEYWORD: 너르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40266
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -843,7 +843,7 @@ imported:
     - 발음: 너름니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40266_neoreumnida.wav
       형태: 너릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -851,7 +851,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 너머__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40267
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -879,13 +879,13 @@ imported:
     표제어: 너머
     품사: 명사
     항목ID: 40267
-processed:
+result:
   맞춤법 검사:
     표제어: 너머
     품사: 명사
 ---
 000_KEYWORD: 너무__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28183
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -919,13 +919,13 @@ imported:
     표제어: 너무
     품사: 부사
     항목ID: 28183
-processed:
+result:
   맞춤법 검사:
     표제어: 너무
     품사: 부사
 ---
 000_KEYWORD: 너무나__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42326
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -955,13 +955,13 @@ imported:
     표제어: 너무나
     품사: 부사
     항목ID: 42326
-processed:
+result:
   맞춤법 검사:
     표제어: 너무나
     품사: 부사
 ---
 000_KEYWORD: 너무너무__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42327
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -990,13 +990,13 @@ imported:
     표제어: 너무너무
     품사: 부사
     항목ID: 42327
-processed:
+result:
   맞춤법 검사:
     표제어: 너무너무
     품사: 부사
 ---
 000_KEYWORD: 너무하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42328
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1026,13 +1026,13 @@ imported:
     - 발음: 너무함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/42329_neomuhamnida.wav
       형태: 너무합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너무하다
     품사: 동사
 ---
 000_KEYWORD: 너무하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42329
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1067,13 +1067,13 @@ imported:
     - 발음: 너무함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/42329_neomuhamnida.wav
       형태: 너무합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너무하다
     품사: 형용사
 ---
 000_KEYWORD: 너부데데하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42358
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1117,13 +1117,13 @@ imported:
     - 발음: 너부데데함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42358_neobudedehamnida.wav
       형태: 너부데데합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너부데데하다
     품사: 형용사
 ---
 000_KEYWORD: 너부죽하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42363
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1167,13 +1167,13 @@ imported:
     - 발음: 너부주캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42363_neobujukamnida.wav
       형태: 너부죽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너부죽하다
     품사: 형용사
 ---
 000_KEYWORD: 너비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42368
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1214,13 +1214,13 @@ imported:
     표제어: 너비
     품사: 명사
     항목ID: 42368
-processed:
+result:
   맞춤법 검사:
     표제어: 너비
     품사: 명사
 ---
 000_KEYWORD: 너비아니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42373
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1251,13 +1251,13 @@ imported:
     표제어: 너비아니
     품사: 명사
     항목ID: 42373
-processed:
+result:
   맞춤법 검사:
     표제어: 너비아니
     품사: 명사
 ---
 000_KEYWORD: 너스레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20499
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1284,13 +1284,13 @@ imported:
     표제어: 너스레
     품사: 명사
     항목ID: 20499
-processed:
+result:
   맞춤법 검사:
     표제어: 너스레
     품사: 명사
 ---
 000_KEYWORD: 너와__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42378
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1323,13 +1323,13 @@ imported:
     표제어: 너와
     품사: 명사
     항목ID: 42378
-processed:
+result:
   맞춤법 검사:
     표제어: 너와
     품사: 명사
 ---
 000_KEYWORD: 너와집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42400
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1363,13 +1363,13 @@ imported:
     - 발음: 너와짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42400_neowajimman.wav
       형태: 너와집만
-processed:
+result:
   맞춤법 검사:
     표제어: 너와집
     품사: 명사
 ---
 000_KEYWORD: 너울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91022
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1394,13 +1394,13 @@ imported:
     표제어: 너울
     품사: 명사
     항목ID: 91022
-processed:
+result:
   맞춤법 검사:
     표제어: 너울
     품사: 명사
 ---
 000_KEYWORD: 너울거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42413
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1468,13 +1468,13 @@ imported:
     - 발음: 너울거림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42413_neoulgeorimnida.wav
       형태: 너울거립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너울거리다
     품사: 동사
 ---
 000_KEYWORD: 너울너울__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42777
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1511,13 +1511,13 @@ imported:
     표제어: 너울너울
     품사: 부사
     항목ID: 42777
-processed:
+result:
   맞춤법 검사:
     표제어: 너울너울
     품사: 부사
 ---
 000_KEYWORD: 너울너울하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88195
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1585,13 +1585,13 @@ imported:
     - 발음: 너울러울함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/88195_neoulleoulhamnida.wav
       형태: 너울너울합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너울너울하다
     품사: 동사
 ---
 000_KEYWORD: 너울대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42781
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1653,13 +1653,13 @@ imported:
     - 발음: 너울댐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42781_neouldaemnida.wav
       형태: 너울댑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너울대다
     품사: 동사
 ---
 000_KEYWORD: 너울지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88196
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1709,13 +1709,13 @@ imported:
     - 발음: 너울짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/88196_neouljimnida.wav
       형태: 너울집니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너울지다
     품사: 동사
 ---
 000_KEYWORD: 너저분하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42783
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1769,13 +1769,13 @@ imported:
     - 발음: 너저분함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42783_neojeobunhamnida.wav
       형태: 너저분합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너저분하다
     품사: 형용사
 ---
 000_KEYWORD: 너저분히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90775
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1810,13 +1810,13 @@ imported:
     표제어: 너저분히
     품사: 부사
     항목ID: 90775
-processed:
+result:
   맞춤법 검사:
     표제어: 너저분히
     품사: 부사
 ---
 000_KEYWORD: 너절하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90891
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1871,13 +1871,13 @@ imported:
     - 발음: 너절함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/90891_neojeolhamnida.wav
       형태: 너절합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너절하다
     품사: 형용사
 ---
 000_KEYWORD: 너털거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42786
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1947,13 +1947,13 @@ imported:
     - 발음: 너털거림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42786_neoteolgeorimnida.wav
       형태: 너털거립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너털거리다
     품사: 동사
 ---
 000_KEYWORD: 너털너털__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42787
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1992,13 +1992,13 @@ imported:
     표제어: 너털너털
     품사: 부사
     항목ID: 42787
-processed:
+result:
   맞춤법 검사:
     표제어: 너털너털
     품사: 부사
 ---
 000_KEYWORD: 너털너털하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88197
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2069,13 +2069,13 @@ imported:
     - 발음: 너털러털함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/88197_neoteolleoteolhamnida.wav
       형태: 너털너털합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너털너털하다
     품사: 동사
 ---
 000_KEYWORD: 너털대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88198
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2131,13 +2131,13 @@ imported:
     - 발음: 너털댐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/88198_neoteoldaemnida.wav
       형태: 너털댑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너털대다
     품사: 동사
 ---
 000_KEYWORD: 너털웃음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20501
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2165,13 +2165,13 @@ imported:
     표제어: 너털웃음
     품사: 명사
     항목ID: 20501
-processed:
+result:
   맞춤법 검사:
     표제어: 너털웃음
     품사: 명사
 ---
 000_KEYWORD: 너트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42789
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2207,13 +2207,13 @@ imported:
     표제어: 너트
     품사: 명사
     항목ID: 42789
-processed:
+result:
   맞춤법 검사:
     표제어: 너트
     품사: 명사
 ---
 000_KEYWORD: 너풀거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42792
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2260,13 +2260,13 @@ imported:
     - 발음: 너풀거림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42792_neopulgeorimnida.wav
       형태: 너풀거립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너풀거리다
     품사: 동사
 ---
 000_KEYWORD: 너풀너풀__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42794
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2291,13 +2291,13 @@ imported:
     표제어: 너풀너풀
     품사: 부사
     항목ID: 42794
-processed:
+result:
   맞춤법 검사:
     표제어: 너풀너풀
     품사: 부사
 ---
 000_KEYWORD: 너풀너풀하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88199
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2347,13 +2347,13 @@ imported:
     - 발음: 너풀러풀함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/88199_neopulleopulhamnida.wav
       형태: 너풀너풀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너풀너풀하다
     품사: 동사
 ---
 000_KEYWORD: 너풀대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42796
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2395,13 +2395,13 @@ imported:
     - 발음: 너풀댐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42796_neopuldaemnida.wav
       형태: 너풀댑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 너풀대다
     품사: 동사
 ---
 000_KEYWORD: 너희__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61180
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2438,17 +2438,17 @@ imported:
     표제어: 너희
     품사: 대명사
     항목ID: 61180
-processed:
+result:
   맞춤법 검사:
     표제어: 너희
     품사: 대명사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 가산명사
 ---
 000_KEYWORD: 넉__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42799
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2478,13 +2478,13 @@ imported:
     표제어: 넉
     품사: 관형사
     항목ID: 42799
-processed:
+result:
   맞춤법 검사:
     표제어: 넉
     품사: 관형사
 ---
 000_KEYWORD: 넉넉잡다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42800
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2527,7 +2527,7 @@ imported:
     - 발음: 넝넉짭씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42800_neongneokjjapsseumnida.wav
       형태: 넉넉잡습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -2535,7 +2535,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 넉넉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28310
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2610,13 +2610,13 @@ imported:
     - 발음: 넝너캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/28310_neongneokamnida.wav
       형태: 넉넉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넉넉하다
     품사: 형용사
 ---
 000_KEYWORD: 넉넉히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42801
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2669,13 +2669,13 @@ imported:
     표제어: 넉넉히
     품사: 부사
     항목ID: 42801
-processed:
+result:
   맞춤법 검사:
     표제어: 넉넉히
     품사: 부사
 ---
 000_KEYWORD: 넉살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20502
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2701,13 +2701,13 @@ imported:
     표제어: 넉살
     품사: 명사
     항목ID: 20502
-processed:
+result:
   맞춤법 검사:
     표제어: 넉살
     품사: 명사
 ---
 000_KEYWORD: 넉살맞다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42802
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2749,13 +2749,13 @@ imported:
     - 발음: 넉쌀맏씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42802_neokssalmatsseumnida.wav
       형태: 넉살맞습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넉살맞다
     품사: 형용사
 ---
 000_KEYWORD: 넉살스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42803
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2797,7 +2797,7 @@ imported:
     - 발음: 넉쌀스럽씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42803_neokssalseureopsseumnida.wav
       형태: 넉살스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -2805,7 +2805,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 넉살스레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42804
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2832,13 +2832,13 @@ imported:
     표제어: 넉살스레
     품사: 부사
     항목ID: 42804
-processed:
+result:
   맞춤법 검사:
     표제어: 넉살스레
     품사: 부사
 ---
 000_KEYWORD: 넋__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42806
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2892,13 +2892,13 @@ imported:
     - 발음: 넝만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42806_neongman.wav
       형태: 넋만
-processed:
+result:
   맞춤법 검사:
     표제어: 넋
     품사: 명사
 ---
 000_KEYWORD: 넋두리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42807
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2926,13 +2926,13 @@ imported:
     표제어: 넋두리
     품사: 명사
     항목ID: 42807
-processed:
+result:
   맞춤법 검사:
     표제어: 넋두리
     품사: 명사
 ---
 000_KEYWORD: 넋두리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91027
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2975,13 +2975,13 @@ imported:
     - 발음: 넉뚜리함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/91027_neoktturihamnida.wav
       형태: 넋두리합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넋두리하다
     품사: 동사
 ---
 000_KEYWORD: 넌__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2990,13 +2990,13 @@ imported:
     표제어: 넌
     품사: 부사
     항목ID: 5297
-processed:
+result:
   맞춤법 검사:
     표제어: 넌
     품사: 부사
 ---
 000_KEYWORD: 넌더리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42808
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3021,13 +3021,13 @@ imported:
     표제어: 넌더리
     품사: 명사
     항목ID: 42808
-processed:
+result:
   맞춤법 검사:
     표제어: 넌더리
     품사: 명사
 ---
 000_KEYWORD: 넌덜머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42809
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3052,13 +3052,13 @@ imported:
     표제어: 넌덜머리
     품사: 명사
     항목ID: 42809
-processed:
+result:
   맞춤법 검사:
     표제어: 넌덜머리
     품사: 명사
 ---
 000_KEYWORD: 넌즈시__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92180
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3071,10 +3071,10 @@ imported:
     표제어: 넌즈시
     품사: 부사
     항목ID: 92180
-processed: {}
+result: {}
 ---
 000_KEYWORD: 넌지시__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42810
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3101,13 +3101,13 @@ imported:
     표제어: 넌지시
     품사: 부사
     항목ID: 42810
-processed:
+result:
   맞춤법 검사:
     표제어: 넌지시
     품사: 부사
 ---
 000_KEYWORD: 널__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20503
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3161,13 +3161,13 @@ imported:
     표제어: 널
     품사: 명사
     항목ID: 20503
-processed:
+result:
   맞춤법 검사:
     표제어: 널
     품사: 명사
 ---
 000_KEYWORD: 널다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42812
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3211,13 +3211,13 @@ imported:
     - 발음: 넘ː니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42812_neom-nida.wav
       형태: 넙니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널다
     품사: 동사
 ---
 000_KEYWORD: 널따랗다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42813
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3260,7 +3260,7 @@ imported:
     - 발음: 널따라씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42813_neolttarasseumnida.wav
       형태: 널따랗습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -3268,7 +3268,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 널뛰기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42816
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3299,13 +3299,13 @@ imported:
     표제어: 널뛰기
     품사: 명사
     항목ID: 42816
-processed:
+result:
   맞춤법 검사:
     표제어: 널뛰기
     품사: 명사
 ---
 000_KEYWORD: 널뛰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42817
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3349,13 +3349,13 @@ imported:
     - 발음: 널ː뜀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/42817_neor-ttwimnida.wav
       형태: 널뜁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널뛰다
     품사: 동사
 ---
 000_KEYWORD: 널름__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=43007
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3413,13 +3413,13 @@ imported:
     표제어: 널름
     품사: 부사
     항목ID: 43007
-processed:
+result:
   맞춤법 검사:
     표제어: 널름
     품사: 부사
 ---
 000_KEYWORD: 널름거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=43034
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3490,13 +3490,13 @@ imported:
     - 발음: 널름거림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/43034_neolleumgeorimnida.wav
       형태: 널름거립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널름거리다
     품사: 동사
 ---
 000_KEYWORD: 널름널름__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88200
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3578,13 +3578,13 @@ imported:
     표제어: 널름널름
     품사: 부사
     항목ID: 88200
-processed:
+result:
   맞춤법 검사:
     표제어: 널름널름
     품사: 부사
 ---
 000_KEYWORD: 널름널름하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88201
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3644,13 +3644,13 @@ imported:
     - 발음: 널름널름함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/88201_neolleumneolleumhamnida.wav
       형태: 널름널름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널름널름하다
     품사: 동사
 ---
 000_KEYWORD: 널름대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88202
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3710,13 +3710,13 @@ imported:
     - 발음: 널름댐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/88202_neolleumdaemnida.wav
       형태: 널름댑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널름대다
     품사: 동사
 ---
 000_KEYWORD: 널름하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88203
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3755,13 +3755,13 @@ imported:
     - 발음: 널름함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88203_neolleumhamnida.wav
       형태: 널름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널름하다
     품사: 동사
 ---
 000_KEYWORD: 널리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28560
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3800,13 +3800,13 @@ imported:
     표제어: 널리
     품사: 부사
     항목ID: 28560
-processed:
+result:
   맞춤법 검사:
     표제어: 널리
     품사: 부사
 ---
 000_KEYWORD: 널리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41103
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3860,13 +3860,13 @@ imported:
     - 발음: 널림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41103_neollimnida.wav
       형태: 널립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널리다
     품사: 동사
 ---
 000_KEYWORD: 널브러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41116
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3924,7 +3924,7 @@ imported:
     - 발음: 널브러짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41116_neolbeureojimnida.wav
       형태: 널브러집니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3932,7 +3932,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 널빤지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41123
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3976,13 +3976,13 @@ imported:
     표제어: 널빤지
     품사: 명사
     항목ID: 41123
-processed:
+result:
   맞춤법 검사:
     표제어: 널빤지
     품사: 명사
 ---
 000_KEYWORD: 널어놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41126
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4027,7 +4027,7 @@ imported:
     - 발음: 너러노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41126_neoreonosseumnida.wav
       형태: 널어놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -4036,7 +4036,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 널찍널찍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91032
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4061,13 +4061,13 @@ imported:
     표제어: 널찍널찍
     품사: 부사
     항목ID: 91032
-processed:
+result:
   맞춤법 검사:
     표제어: 널찍널찍
     품사: 부사
 ---
 000_KEYWORD: 널찍널찍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41129
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4109,13 +4109,13 @@ imported:
     - 발음: 널찡널찌캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41129_neoljjingneoljjikamnida.wav
       형태: 널찍널찍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널찍널찍하다
     품사: 형용사
 ---
 000_KEYWORD: 널찍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41132
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4161,13 +4161,13 @@ imported:
     - 발음: 널찌캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41132_neoljjikamnida.wav
       형태: 널찍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 널찍하다
     품사: 형용사
 ---
 000_KEYWORD: 널판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41136
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4201,13 +4201,13 @@ imported:
     표제어: 널판
     품사: 명사
     항목ID: 41136
-processed:
+result:
   맞춤법 검사:
     표제어: 널판
     품사: 명사
 ---
 000_KEYWORD: 널판자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41139
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4239,13 +4239,13 @@ imported:
     표제어: 널판자
     품사: 명사
     항목ID: 41139
-processed:
+result:
   맞춤법 검사:
     표제어: 널판자
     품사: 명사
 ---
 000_KEYWORD: 넓다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64511
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4413,13 +4413,13 @@ imported:
     - 발음: 널찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/64511_neoljji.wav
       형태: 넓지
-processed:
+result:
   맞춤법 검사:
     표제어: 넓다
     품사: 형용사
 ---
 000_KEYWORD: 넓다랗다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92181
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4432,11 +4432,10 @@ imported:
     표제어: 넓다랗다
     품사: 형용사
     항목ID: 92181
-processed: {}
-processed_overrides: {}
+result: {}
 ---
 000_KEYWORD: 넓디넓다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41140
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4487,13 +4486,13 @@ imported:
     - 발음: 널띠널찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41140_neolttineoljji.wav
       형태: 넓디넓지
-processed:
+result:
   맞춤법 검사:
     표제어: 넓디넓다
     품사: 형용사
 ---
 000_KEYWORD: 넓어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58194
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4546,7 +4545,7 @@ imported:
     - 발음: 널버짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/58194_neolbeojimnida.wav
       형태: 넓어집니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -4554,7 +4553,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 넓이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41120
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4591,13 +4590,13 @@ imported:
     표제어: 넓이
     품사: 명사
     항목ID: 41120
-processed:
+result:
   맞춤법 검사:
     표제어: 넓이
     품사: 명사
 ---
 000_KEYWORD: 넓적다리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41146
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4628,13 +4627,13 @@ imported:
     표제어: 넓적다리
     품사: 명사
     항목ID: 41146
-processed:
+result:
   맞춤법 검사:
     표제어: 넓적다리
     품사: 명사
 ---
 000_KEYWORD: 넓적하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41148
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4686,13 +4685,13 @@ imported:
     - 발음: 넙쩌캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41148_neopjjeokamnida.wav
       형태: 넓적합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넓적하다
     품사: 형용사
 ---
 000_KEYWORD: 넓죽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92182
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4705,10 +4704,10 @@ imported:
     표제어: 넓죽
     품사: 부사
     항목ID: 92182
-processed: {}
+result: {}
 ---
 000_KEYWORD: 넓직하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92183
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4721,10 +4720,10 @@ imported:
     표제어: 넓직하다
     품사: 형용사
     항목ID: 92183
-processed: {}
+result: {}
 ---
 000_KEYWORD: 넓히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62344
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4832,13 +4831,13 @@ imported:
     - 발음: 널핌니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/62344_neolpimnida.wav
       형태: 넓힙니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넓히다
     품사: 동사
 ---
 000_KEYWORD: 넘겨다보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41215
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4924,13 +4923,13 @@ imported:
     - 발음: 넘겨다봄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41215_neomgyeodabomnida.wav
       형태: 넘겨다봅니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘겨다보다
     품사: 동사
 ---
 000_KEYWORD: 넘겨받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41222
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4975,7 +4974,7 @@ imported:
     - 발음: 넘겨받씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41222_neomgyeobatsseumnida.wav
       형태: 넘겨받습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -4983,7 +4982,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 넘겨주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28561
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5022,17 +5021,17 @@ imported:
     - 발음: 넘겨줌니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28561_neomgyeojumnida.wav
       형태: 넘겨줍니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘겨주다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 넘겨짚다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41227
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5077,17 +5076,17 @@ imported:
     - 발음: 넘겨집씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/41227_neomgyeojipsseumnida.wav
       형태: 넘겨짚습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘겨짚다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 넘기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28562
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5267,13 +5266,13 @@ imported:
     - 발음: 넘김니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28562_neomgimnida.wav
       형태: 넘깁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘기다
     품사: 동사
 ---
 000_KEYWORD: 넘나들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41233
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5343,17 +5342,17 @@ imported:
     - 발음: 넘ː나듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41233_neom-nadeumnida.wav
       형태: 넘나듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘나들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 넘다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64524
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5498,13 +5497,13 @@ imported:
     - 발음: 넘ː씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/64524_neom-sseumnida.wav
       형태: 넘습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘다
     품사: 동사
 ---
 000_KEYWORD: 넘버__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41246
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5532,13 +5531,13 @@ imported:
     표제어: 넘버
     품사: 명사
     항목ID: 41246
-processed:
+result:
   맞춤법 검사:
     표제어: 넘버
     품사: 명사
 ---
 000_KEYWORD: 넘버원__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5549,13 +5548,13 @@ imported:
     표제어: 넘버원
     품사: 명사:보통:서술성
     항목ID: 5321
-processed:
+result:
   맞춤법 검사:
     표제어: 넘버원
     품사: 명사
 ---
 000_KEYWORD: 넘보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41253
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5635,13 +5634,13 @@ imported:
     - 발음: 넘ː봄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41253_neom-bomnida.wav
       형태: 넘봅니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘보다
     품사: 동사
 ---
 000_KEYWORD: 넘실거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41271
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5726,13 +5725,13 @@ imported:
     - 발음: 넘실거림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/41271_neomsilgeorimnida.wav
       형태: 넘실거립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘실거리다
     품사: 동사
 ---
 000_KEYWORD: 넘실넘실__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41264
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5779,13 +5778,13 @@ imported:
     표제어: 넘실넘실
     품사: 부사
     항목ID: 41264
-processed:
+result:
   맞춤법 검사:
     표제어: 넘실넘실
     품사: 부사
 ---
 000_KEYWORD: 넘실넘실하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88204
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5879,13 +5878,13 @@ imported:
     - 발음: 넘실럼실함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88204_neomsilleomsilhamnida.wav
       형태: 넘실넘실합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘실넘실하다
     품사: 동사
 ---
 000_KEYWORD: 넘실대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41295
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5971,13 +5970,13 @@ imported:
     - 발음: 넘실댐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41295_neomsildaemnida.wav
       형태: 넘실댑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘실대다
     품사: 동사
 ---
 000_KEYWORD: 넘실하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88205
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6021,13 +6020,13 @@ imported:
     - 발음: 넘실함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/88205_neomsilhamnida.wav
       형태: 넘실합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘실하다
     품사: 동사
 ---
 000_KEYWORD: 넘어가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65551
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6308,17 +6307,17 @@ imported:
     - 발음: 너머감니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/65551_neomeogamnida.wav
       형태: 넘어갑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘어가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 넘어다보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41307
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6389,13 +6388,13 @@ imported:
     - 발음: 너머다봄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41307_neomeodabomnida.wav
       형태: 넘어다봅니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘어다보다
     품사: 동사
 ---
 000_KEYWORD: 넘어뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28311
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6456,13 +6455,13 @@ imported:
     - 발음: 너머뜨림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28311_neomeotteurimnida.wav
       형태: 넘어뜨립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘어뜨리다
     품사: 동사
 ---
 000_KEYWORD: 넘어서다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64525
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6577,17 +6576,17 @@ imported:
     - 발음: 너머섬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/64525_neomeoseomnida.wav
       형태: 넘어섭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘어서다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 넘어오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28312
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6700,17 +6699,17 @@ imported:
     - 발음: 너머옴니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28312_neomeoomnida.wav
       형태: 넘어옵니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘어오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 넘어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62363
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6787,17 +6786,17 @@ imported:
       형태: 넘어지니
     - 발음: 넘어짐니다
       형태: 넘어집니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘어지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 넘쳐흐르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41330
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6876,19 +6875,19 @@ imported:
     - 발음: 넘처흐름니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41330_neomcheoheureumnida.wav
       형태: 넘쳐흐릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
     표제어: 넘쳐흐르다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 넘치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62327
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6997,13 +6996,13 @@ imported:
     - 발음: 넘ː침니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/62327_neom-chimnida.wav
       형태: 넘칩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넘치다
     품사: 동사
 ---
 000_KEYWORD: 넘치다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7012,13 +7011,13 @@ imported:
     표제어: 넘치다
     품사: 형용사
     항목ID: 5331
-processed:
+result:
   맞춤법 검사:
     표제어: 넘치다
     품사: 형용사
 ---
 000_KEYWORD: 넙데데하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91009
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7063,13 +7062,13 @@ imported:
     - 발음: 넙떼데함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/91009_neopttedehamnida.wav
       형태: 넙데데합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넙데데하다
     품사: 형용사
 ---
 000_KEYWORD: 넙적__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90682
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7124,13 +7123,13 @@ imported:
     표제어: 넙적
     품사: 부사
     항목ID: 90682
-processed:
+result:
   맞춤법 검사:
     표제어: 넙적
     품사: 부사
 ---
 000_KEYWORD: 넙적다리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92184
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7143,10 +7142,10 @@ imported:
     표제어: 넙적다리
     품사: 명사
     항목ID: 92184
-processed: {}
+result: {}
 ---
 000_KEYWORD: 넙적하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92185
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7159,10 +7158,10 @@ imported:
     표제어: 넙적하다
     품사: 형용사
     항목ID: 92185
-processed: {}
+result: {}
 ---
 000_KEYWORD: 넙죽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41344
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7213,13 +7212,13 @@ imported:
     표제어: 넙죽
     품사: 부사
     항목ID: 41344
-processed:
+result:
   맞춤법 검사:
     표제어: 넙죽
     품사: 부사
 ---
 000_KEYWORD: 넙죽거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41352
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7294,13 +7293,13 @@ imported:
     - 발음: 넙쭉꺼림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41352_neopjjukkkeorimnida.wav
       형태: 넙죽거립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넙죽거리다
     품사: 동사
 ---
 000_KEYWORD: 넙죽넙죽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41363
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7351,13 +7350,13 @@ imported:
     표제어: 넙죽넙죽
     품사: 부사
     항목ID: 41363
-processed:
+result:
   맞춤법 검사:
     표제어: 넙죽넙죽
     품사: 부사
 ---
 000_KEYWORD: 넙죽넙죽하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88352
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7430,13 +7429,13 @@ imported:
     - 발음: 넙쭝넙쭈캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88352_neopjjungneopjjukamnida.wav
       형태: 넙죽넙죽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넙죽넙죽하다
     품사: 동사
 ---
 000_KEYWORD: 넙죽대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88354
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7498,13 +7497,13 @@ imported:
     - 발음: 넙쭉땜니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88354_neopjjukttaemnida.wav
       형태: 넙죽댑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넙죽대다
     품사: 동사
 ---
 000_KEYWORD: 넙죽하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88355
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7559,13 +7558,13 @@ imported:
     - 발음: 넙쭈캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88355_neopjjukamnida.wav
       형태: 넙죽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 넙죽하다
     품사: 동사
 ---
 000_KEYWORD: 넙치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41374
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7599,13 +7598,13 @@ imported:
     표제어: 넙치
     품사: 명사
     항목ID: 41374
-processed:
+result:
   맞춤법 검사:
     표제어: 넙치
     품사: 명사
 ---
 000_KEYWORD: 넝마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20511
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7632,13 +7631,13 @@ imported:
     표제어: 넝마
     품사: 명사
     항목ID: 20511
-processed:
+result:
   맞춤법 검사:
     표제어: 넝마
     품사: 명사
 ---
 000_KEYWORD: 넝마주이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41398
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7665,13 +7664,13 @@ imported:
     표제어: 넝마주이
     품사: 명사
     항목ID: 41398
-processed:
+result:
   맞춤법 검사:
     표제어: 넝마주이
     품사: 명사
 ---
 000_KEYWORD: 넝쿨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41403
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7702,13 +7701,13 @@ imported:
     표제어: 넝쿨
     품사: 명사
     항목ID: 41403
-processed:
+result:
   맞춤법 검사:
     표제어: 넝쿨
     품사: 명사
 ---
 000_KEYWORD: 넣다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64509
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7957,7 +7956,7 @@ imported:
     - 발음: 너ː씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/64509_neo-sseumnida.wav
       형태: 넣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙

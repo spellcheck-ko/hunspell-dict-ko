@@ -12,8 +12,8 @@ def process_all(outdir):
 
 def process_file(filename):
     k = yaml.load(open(filename).read())
-    word = k['imported']['한국어기초사전']['표제어']
-    clue = k['imported']['한국어기초사전']['의미'][0]['의미 참고']
+    word = k['import']['한국어기초사전']['표제어']
+    clue = k['import']['한국어기초사전']['의미'][0]['의미 참고']
     props = []
 
     examples = []
@@ -40,15 +40,15 @@ def process_file(filename):
         print('*** UNKNOWN:' + clue)
         return
 
-    if '속성' not in k['processed']['맞춤법 검사']:
-        result_props = k['processed']['맞춤법 검사']['속성']
+    if '속성' not in k['import_derived']['맞춤법 검사']:
+        result_props = k['import_derived']['맞춤법 검사']['속성']
     else:
         result_props = []
 
     result_props = [k for p in result_props if not k.startswith('보조용언:')]
     result_props += props
     result_props.sort()
-    k['processed']['맞춤법 검사']['속성'] = result_props
+    k['import_derived']['맞춤법 검사']['속성'] = result_props
 
     with open(filename, 'w') as fp:
         fp.write(yaml.dump(k, allow_unicode=True, default_flow_style=False, indent=2))

@@ -1,5 +1,5 @@
 000_KEYWORD: 누__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24474
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -22,13 +22,13 @@ imported:
     표제어: 누
     품사: 명사
     항목ID: 24474
-processed:
+result:
   맞춤법 검사:
     표제어: 누
     품사: 명사
 ---
 000_KEYWORD: 누각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45529
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -71,13 +71,13 @@ imported:
     - 발음: 누강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/45529_nugangman.wav
       형태: 누각만
-processed:
+result:
   맞춤법 검사:
     표제어: 누각
     품사: 명사
 ---
 000_KEYWORD: 누계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24476
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -107,13 +107,13 @@ imported:
     표제어: 누계
     품사: 명사
     항목ID: 24476
-processed:
+result:
   맞춤법 검사:
     표제어: 누계
     품사: 명사
 ---
 000_KEYWORD: 누구__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62078
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -163,17 +163,17 @@ imported:
     표제어: 누구
     품사: 대명사
     항목ID: 62078
-processed:
+result:
   맞춤법 검사:
     표제어: 누구
     품사: 대명사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 가산명사
 ---
 000_KEYWORD: 누구누구__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45533
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -202,13 +202,13 @@ imported:
     표제어: 누구누구
     품사: 대명사
     항목ID: 45533
-processed:
+result:
   맞춤법 검사:
     표제어: 누구누구
     품사: 대명사
 ---
 000_KEYWORD: 누그러들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45541
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -269,13 +269,13 @@ imported:
     - 발음: 누그러듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/45541_nugeureodeumnida.wav
       형태: 누그러듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누그러들다
     품사: 동사
 ---
 000_KEYWORD: 누그러뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45551
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -326,13 +326,13 @@ imported:
     - 발음: 누그러뜨림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/45551_nugeureotteurimnida.wav
       형태: 누그러뜨립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누그러뜨리다
     품사: 동사
 ---
 000_KEYWORD: 누그러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45562
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -401,17 +401,17 @@ imported:
     - 발음: 누그러짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/45562_nugeureojimnida.wav
       형태: 누그러집니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누그러지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 누그러트리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90456
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -459,13 +459,13 @@ imported:
     - 발음: 누그러트림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90456_nugeureoteurimnida.wav
       형태: 누그러트립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누그러트리다
     품사: 동사
 ---
 000_KEYWORD: 누그리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90457
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -512,13 +512,13 @@ imported:
     - 발음: 누그림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90457_nugeurimnida.wav
       형태: 누그립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누그리다
     품사: 동사
 ---
 000_KEYWORD: 누나__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32205
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -595,13 +595,13 @@ imported:
     표제어: 누나
     품사: 명사
     항목ID: 32205
-processed:
+result:
   맞춤법 검사:
     표제어: 누나
     품사: 명사
 ---
 000_KEYWORD: 누누이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45577
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -629,13 +629,13 @@ imported:
     표제어: 누누이
     품사: 부사
     항목ID: 45577
-processed:
+result:
   맞춤법 검사:
     표제어: 누누이
     품사: 부사
 ---
 000_KEYWORD: 누님__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45579
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -677,13 +677,13 @@ imported:
     표제어: 누님
     품사: 명사
     항목ID: 45579
-processed:
+result:
   맞춤법 검사:
     표제어: 누님
     품사: 명사
 ---
 000_KEYWORD: 누다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45583
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -722,13 +722,13 @@ imported:
     - 발음: 눔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/45583_numnida.wav
       형태: 눕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누다
     품사: 동사
 ---
 000_KEYWORD: 누더기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45587
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -765,13 +765,13 @@ imported:
     표제어: 누더기
     품사: 명사
     항목ID: 45587
-processed:
+result:
   맞춤법 검사:
     표제어: 누더기
     품사: 명사
 ---
 000_KEYWORD: 누덕누덕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45590
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -796,13 +796,13 @@ imported:
     표제어: 누덕누덕
     품사: 부사
     항목ID: 45590
-processed:
+result:
   맞춤법 검사:
     표제어: 누덕누덕
     품사: 부사
 ---
 000_KEYWORD: 누드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24479
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -834,13 +834,13 @@ imported:
     표제어: 누드
     품사: 명사
     항목ID: 24479
-processed:
+result:
   맞춤법 검사:
     표제어: 누드
     품사: 명사
 ---
 000_KEYWORD: 누드화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -849,13 +849,13 @@ imported:
     표제어: 누드화
     품사: 명사:보통:비서술성
     항목ID: 5651
-processed:
+result:
   맞춤법 검사:
     표제어: 누드화
     품사: 명사
 ---
 000_KEYWORD: 누락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24480
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -893,13 +893,13 @@ imported:
     - 발음: 누ː랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/24480_nu-rangman.wav
       형태: 누락만
-processed:
+result:
   맞춤법 검사:
     표제어: 누락
     품사: 명사
 ---
 000_KEYWORD: 누락되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45593
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -961,13 +961,13 @@ imported:
     - 발음: 누ː락뛤니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/45593_nu-rakttwemnida.wav
       형태: 누락됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누락되다
     품사: 동사
 ---
 000_KEYWORD: 누락하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45595
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1014,13 +1014,13 @@ imported:
     - 발음: 누ː라캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/45595_nu-rakamnida.wav
       형태: 누락합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누락하다
     품사: 동사
 ---
 000_KEYWORD: 누란지세__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1030,13 +1030,13 @@ imported:
     표제어: 누란지세
     품사: 명사:보통:서술성
     항목ID: 5655
-processed:
+result:
   맞춤법 검사:
     표제어: 누란지세
     품사: 명사
 ---
 000_KEYWORD: 누란지위__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1047,13 +1047,13 @@ imported:
     표제어: 누란지위
     품사: 명사:보통:서술성
     항목ID: 5656
-processed:
+result:
   맞춤법 검사:
     표제어: 누란지위
     품사: 명사
 ---
 000_KEYWORD: 누래지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92188
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1066,10 +1066,10 @@ imported:
     표제어: 누래지다
     품사: 동사
     항목ID: 92188
-processed: {}
+result: {}
 ---
 000_KEYWORD: 누런색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24487
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1120,13 +1120,13 @@ imported:
     - 발음: 누런생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/24487_nureonsaengman.wav
       형태: 누런색만
-processed:
+result:
   맞춤법 검사:
     표제어: 누런색
     품사: 명사
 ---
 000_KEYWORD: 누렁소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45597
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1153,13 +1153,13 @@ imported:
     표제어: 누렁소
     품사: 명사
     항목ID: 45597
-processed:
+result:
   맞춤법 검사:
     표제어: 누렁소
     품사: 명사
 ---
 000_KEYWORD: 누렁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24490
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1191,13 +1191,13 @@ imported:
     표제어: 누렁이
     품사: 명사
     항목ID: 24490
-processed:
+result:
   맞춤법 검사:
     표제어: 누렁이
     품사: 명사
 ---
 000_KEYWORD: 누렇다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45598
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1263,7 +1263,7 @@ imported:
     - 발음: 누ː러씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/45598_nu-reosseumnida.wav
       형태: 누렇습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -1271,7 +1271,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 누레지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45600
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1322,7 +1322,7 @@ imported:
     - 발음: 누ː레짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/45600_nu-rejimnida.wav
       형태: 누레집니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -1330,7 +1330,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 누룩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45604
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1370,13 +1370,13 @@ imported:
     - 발음: 누룽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/45604_nurungman.wav
       형태: 누룩만
-processed:
+result:
   맞춤법 검사:
     표제어: 누룩
     품사: 명사
 ---
 000_KEYWORD: 누룽지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45606
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1408,13 +1408,13 @@ imported:
     표제어: 누룽지
     품사: 명사
     항목ID: 45606
-processed:
+result:
   맞춤법 검사:
     표제어: 누룽지
     품사: 명사
 ---
 000_KEYWORD: 누르께하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45607
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1462,13 +1462,13 @@ imported:
     - 발음: 누르께함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45607_nureukkehamnida.wav
       형태: 누르께합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누르께하다
     품사: 형용사
 ---
 000_KEYWORD: 누르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72239
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1612,7 +1612,7 @@ imported:
     - 발음: 누ː름니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/72239_nu-reumnida.wav
       형태: 누릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -1620,7 +1620,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 누르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45609
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1659,7 +1659,7 @@ imported:
     - 발음: 누름니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/72239_nureumnida.wav
       형태: 누릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 러불규칙
@@ -1667,7 +1667,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 누르무레하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45610
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1711,13 +1711,13 @@ imported:
     - 발음: 누르무레함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45610_nureumurehamnida.wav
       형태: 누르무레합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누르무레하다
     품사: 형용사
 ---
 000_KEYWORD: 누르스레하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91332
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1765,13 +1765,13 @@ imported:
     - 발음: 누르스레함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/91332_nureuseurehamnida.wav
       형태: 누르스레합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누르스레하다
     품사: 형용사
 ---
 000_KEYWORD: 누르스름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45611
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1822,13 +1822,13 @@ imported:
     - 발음: 누르스름함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45611_nureuseureumhamnida.wav
       형태: 누르스름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누르스름하다
     품사: 형용사
 ---
 000_KEYWORD: 누르죽죽하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45612
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1872,13 +1872,13 @@ imported:
     - 발음: 누르죽쭈캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45612_nureujukjjukamnida.wav
       형태: 누르죽죽합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누르죽죽하다
     품사: 형용사
 ---
 000_KEYWORD: 누르퉁퉁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45614
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1934,13 +1934,13 @@ imported:
     - 발음: 누르퉁퉁함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45614_nureutungtunghamnida.wav
       형태: 누르퉁퉁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누르퉁퉁하다
     품사: 형용사
 ---
 000_KEYWORD: 누름적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24494
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1978,13 +1978,13 @@ imported:
     - 발음: 누름정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/24494_nureumjeongman.wav
       형태: 누름적만
-processed:
+result:
   맞춤법 검사:
     표제어: 누름적
     품사: 명사
 ---
 000_KEYWORD: 누름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45622
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2033,13 +2033,13 @@ imported:
     - 발음: 누름함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45622_nureumhamnida.wav
       형태: 누름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누름하다
     품사: 형용사
 ---
 000_KEYWORD: 누릇누릇__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45626
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2070,13 +2070,13 @@ imported:
     표제어: 누릇누릇
     품사: 부사
     항목ID: 45626
-processed:
+result:
   맞춤법 검사:
     표제어: 누릇누릇
     품사: 부사
 ---
 000_KEYWORD: 누릇누릇하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45627
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2120,13 +2120,13 @@ imported:
     - 발음: 누른누르탐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45627_nureunnureutamnida.wav
       형태: 누릇누릇합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누릇누릇하다
     품사: 형용사
 ---
 000_KEYWORD: 누리꾼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83308
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2157,13 +2157,13 @@ imported:
     표제어: 누리꾼
     품사: 명사
     항목ID: 83308
-processed:
+result:
   맞춤법 검사:
     표제어: 누리꾼
     품사: 명사
 ---
 000_KEYWORD: 누리끼리하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45628
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2211,13 +2211,13 @@ imported:
     - 발음: 누리끼리함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45628_nurikkirihamnida.wav
       형태: 누리끼리합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누리끼리하다
     품사: 형용사
 ---
 000_KEYWORD: 누리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45629
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2261,13 +2261,13 @@ imported:
     - 발음: 누림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45632_nurimnida.wav
       형태: 누립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누리다
     품사: 동사
 ---
 000_KEYWORD: 누리다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45632
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2311,13 +2311,13 @@ imported:
     - 발음: 누림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45632_nurimnida.wav
       형태: 누립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누리다
     품사: 형용사
 ---
 000_KEYWORD: 누린내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45633
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2349,13 +2349,13 @@ imported:
     표제어: 누린내
     품사: 명사
     항목ID: 45633
-processed:
+result:
   맞춤법 검사:
     표제어: 누린내
     품사: 명사
 ---
 000_KEYWORD: 누릿하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45635
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2403,13 +2403,13 @@ imported:
     - 발음: 누리탐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45635_nuritamnida.wav
       형태: 누릿합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누릿하다
     품사: 형용사
 ---
 000_KEYWORD: 누명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24497
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2436,13 +2436,13 @@ imported:
     표제어: 누명
     품사: 명사
     항목ID: 24497
-processed:
+result:
   맞춤법 검사:
     표제어: 누명
     품사: 명사
 ---
 000_KEYWORD: 누비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45636
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2469,13 +2469,13 @@ imported:
     표제어: 누비
     품사: 명사
     항목ID: 45636
-processed:
+result:
   맞춤법 검사:
     표제어: 누비
     품사: 명사
 ---
 000_KEYWORD: 누비다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45637
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2527,13 +2527,13 @@ imported:
     - 발음: 누빔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45637_nubimnida.wav
       형태: 누빕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누비다
     품사: 동사
 ---
 000_KEYWORD: 누비옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45640
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2574,13 +2574,13 @@ imported:
     - 발음: 누비온만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45640_nubionman.wav
       형태: 누비옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 누비옷
     품사: 명사
 ---
 000_KEYWORD: 누비이불__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45641
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2614,13 +2614,13 @@ imported:
     표제어: 누비이불
     품사: 명사
     항목ID: 45641
-processed:
+result:
   맞춤법 검사:
     표제어: 누비이불
     품사: 명사
 ---
 000_KEYWORD: 누설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45643
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2670,13 +2670,13 @@ imported:
     표제어: 누설
     품사: 명사
     항목ID: 45643
-processed:
+result:
   맞춤법 검사:
     표제어: 누설
     품사: 명사
 ---
 000_KEYWORD: 누설되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45644
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2757,13 +2757,13 @@ imported:
     - 발음: 누ː설뒘니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/45644_nu-seoldwemnida.wav
       형태: 누설됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누설되다
     품사: 동사
 ---
 000_KEYWORD: 누설하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45647
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2830,13 +2830,13 @@ imported:
     - 발음: 누ː설함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/45647_nu-seolhamnida.wav
       형태: 누설합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누설하다
     품사: 동사
 ---
 000_KEYWORD: 누수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45648
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2865,13 +2865,13 @@ imported:
     표제어: 누수
     품사: 명사
     항목ID: 45648
-processed:
+result:
   맞춤법 검사:
     표제어: 누수
     품사: 명사
 ---
 000_KEYWORD: 누에__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45649
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2901,13 +2901,13 @@ imported:
     표제어: 누에
     품사: 명사
     항목ID: 45649
-processed:
+result:
   맞춤법 검사:
     표제어: 누에
     품사: 명사
 ---
 000_KEYWORD: 누에고치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24501
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2938,13 +2938,13 @@ imported:
     표제어: 누에고치
     품사: 명사
     항목ID: 24501
-processed:
+result:
   맞춤법 검사:
     표제어: 누에고치
     품사: 명사
 ---
 000_KEYWORD: 누에치기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45650
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2975,13 +2975,13 @@ imported:
     표제어: 누에치기
     품사: 명사
     항목ID: 45650
-processed:
+result:
   맞춤법 검사:
     표제어: 누에치기
     품사: 명사
 ---
 000_KEYWORD: 누이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45653
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3024,13 +3024,13 @@ imported:
     표제어: 누이
     품사: 명사
     항목ID: 45653
-processed:
+result:
   맞춤법 검사:
     표제어: 누이
     품사: 명사
 ---
 000_KEYWORD: 누이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45654
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3101,13 +3101,13 @@ imported:
     - 발음: 누임니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45654_nuimnida.wav
       형태: 누입니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누이다
     품사: 동사
 ---
 000_KEYWORD: 누이다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45655
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3150,13 +3150,13 @@ imported:
     - 발음: 누임니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45654_nuimnida.wav
       형태: 누입니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누이다
     품사: 동사
 ---
 000_KEYWORD: 누이동생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41495
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3187,13 +3187,13 @@ imported:
     표제어: 누이동생
     품사: 명사
     항목ID: 41495
-processed:
+result:
   맞춤법 검사:
     표제어: 누이동생
     품사: 명사
 ---
 000_KEYWORD: 누적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90458
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3233,13 +3233,13 @@ imported:
     - 발음: 누ː정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/90458_nu-jeongman.wav
       형태: 누적만
-processed:
+result:
   맞춤법 검사:
     표제어: 누적
     품사: 명사
 ---
 000_KEYWORD: 누적되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41498
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3299,13 +3299,13 @@ imported:
     - 발음: 누ː적뛤니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/41498_nu-jeokttwemnida.wav
       형태: 누적됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누적되다
     품사: 동사
 ---
 000_KEYWORD: 누적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85013
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3345,13 +3345,13 @@ imported:
       형태: 누적하니
     - 발음: 누ː저캄니다
       형태: 누적합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누적하다
     품사: 동사
 ---
 000_KEYWORD: 누적하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64689
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3393,13 +3393,13 @@ imported:
     - 발음: 누ː저캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/64689_nu-jeokamnida.wav
       형태: 누적합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누적하다
     품사: 동사
 ---
 000_KEYWORD: 누전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64690
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3428,13 +3428,13 @@ imported:
     표제어: 누전
     품사: 명사
     항목ID: 64690
-processed:
+result:
   맞춤법 검사:
     표제어: 누전
     품사: 명사
 ---
 000_KEYWORD: 누전되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41501
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3491,13 +3491,13 @@ imported:
     - 발음: 누ː전뒘니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/41501_nu-jeondwemnida.wav
       형태: 누전됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누전되다
     품사: 동사
 ---
 000_KEYWORD: 누전차단기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3507,13 +3507,13 @@ imported:
     표제어: 누전차단기
     품사: 명사:보통:비서술성
     항목ID: 5681
-processed:
+result:
   맞춤법 검사:
     표제어: 누전차단기
     품사: 명사
 ---
 000_KEYWORD: 누전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41504
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3556,13 +3556,13 @@ imported:
       형태: 누전하니
     - 발음: 누ː전합니다
       형태: 누전합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누전하다
     품사: 동사
 ---
 000_KEYWORD: 누지다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41505
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3608,13 +3608,13 @@ imported:
     - 발음: 누ː짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41505_nu-jimnida.wav
       형태: 누집니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누지다
     품사: 형용사
 ---
 000_KEYWORD: 누진세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24504
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3642,13 +3642,13 @@ imported:
     표제어: 누진세
     품사: 명사
     항목ID: 24504
-processed:
+result:
   맞춤법 검사:
     표제어: 누진세
     품사: 명사
 ---
 000_KEYWORD: 누진제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3657,13 +3657,13 @@ imported:
     표제어: 누진제
     품사: 명사:보통:서술성
     항목ID: 5684
-processed:
+result:
   맞춤법 검사:
     표제어: 누진제
     품사: 명사
 ---
 000_KEYWORD: 누차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41516
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3692,13 +3692,13 @@ imported:
     표제어: 누차
     품사: 명사
     항목ID: 41516
-processed:
+result:
   맞춤법 검사:
     표제어: 누차
     품사: 명사
 ---
 000_KEYWORD: 누차__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41524
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3727,13 +3727,13 @@ imported:
     표제어: 누차
     품사: 부사
     항목ID: 41524
-processed:
+result:
   맞춤법 검사:
     표제어: 누차
     품사: 부사
 ---
 000_KEYWORD: 누추하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41526
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3778,13 +3778,13 @@ imported:
     - 발음: 누ː추함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/41526_nu-chuhamnida.wav
       형태: 누추합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누추하다
     품사: 형용사
 ---
 000_KEYWORD: 누출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24505
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3837,13 +3837,13 @@ imported:
     표제어: 누출
     품사: 명사
     항목ID: 24505
-processed:
+result:
   맞춤법 검사:
     표제어: 누출
     품사: 명사
 ---
 000_KEYWORD: 누출되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41529
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3925,13 +3925,13 @@ imported:
     - 발음: 누ː출뒘니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/41529_nu-chuldwemnida.wav
       형태: 누출됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누출되다
     품사: 동사
 ---
 000_KEYWORD: 누출하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41531
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3998,13 +3998,13 @@ imported:
     - 발음: 누ː출함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/41531_nu-chulhamnida.wav
       형태: 누출합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 누출하다
     품사: 동사
 ---
 000_KEYWORD: 눅눅하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41535
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4059,13 +4059,13 @@ imported:
     - 발음: 눙누캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41535_nungnukamnida.wav
       형태: 눅눅합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눅눅하다
     품사: 형용사
 ---
 000_KEYWORD: 눅다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90594
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4115,13 +4115,13 @@ imported:
     - 발음: 눅씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/90595_nuksseumnida.wav
       형태: 눅습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눅다
     품사: 동사
 ---
 000_KEYWORD: 눅다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90595
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4204,13 +4204,13 @@ imported:
     - 발음: 눅씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/90595_nuksseumnida.wav
       형태: 눅습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눅다
     품사: 형용사
 ---
 000_KEYWORD: 눅이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41536
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4271,13 +4271,13 @@ imported:
     - 발음: 누김니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41536_nugimnida.wav
       형태: 눅입니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눅이다
     품사: 동사
 ---
 000_KEYWORD: 눅진눅진__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41539
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4317,13 +4317,13 @@ imported:
     표제어: 눅진눅진
     품사: 부사
     항목ID: 41539
-processed:
+result:
   맞춤법 검사:
     표제어: 눅진눅진
     품사: 부사
 ---
 000_KEYWORD: 눅진눅진하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90596
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4376,13 +4376,13 @@ imported:
     - 발음: 눅찐눅찐함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/90596_nukjjinnukjjinhamnida.wav
       형태: 눅진눅진합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눅진눅진하다
     품사: 형용사
 ---
 000_KEYWORD: 눅진하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41541
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4426,13 +4426,13 @@ imported:
     - 발음: 눅찐함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41541_nukjjinhamnida.wav
       형태: 눅진합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눅진하다
     품사: 형용사
 ---
 000_KEYWORD: 눈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72704
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4563,13 +4563,13 @@ imported:
     표제어: 눈
     품사: 명사
     항목ID: 72704
-processed:
+result:
   맞춤법 검사:
     표제어: 눈
     품사: 명사
 ---
 000_KEYWORD: 눈__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24508
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4601,13 +4601,13 @@ imported:
     표제어: 눈
     품사: 명사
     항목ID: 24508
-processed:
+result:
   맞춤법 검사:
     표제어: 눈
     품사: 명사
 ---
 000_KEYWORD: 눈__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41542
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4644,13 +4644,13 @@ imported:
     표제어: 눈
     품사: 명사
     항목ID: 41542
-processed:
+result:
   맞춤법 검사:
     표제어: 눈
     품사: 명사
 ---
 000_KEYWORD: 눈__명사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20198
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4696,13 +4696,13 @@ imported:
     표제어: 눈
     품사: 명사
     항목ID: 20198
-processed:
+result:
   맞춤법 검사:
     표제어: 눈
     품사: 명사
 ---
 000_KEYWORD: 눈__명사__005
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41543
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4732,13 +4732,13 @@ imported:
     표제어: 눈
     품사: 명사
     항목ID: 41543
-processed:
+result:
   맞춤법 검사:
     표제어: 눈
     품사: 명사
 ---
 000_KEYWORD: 눈가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23826
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4771,13 +4771,13 @@ imported:
     표제어: 눈가
     품사: 명사
     항목ID: 23826
-processed:
+result:
   맞춤법 검사:
     표제어: 눈가
     품사: 명사
 ---
 000_KEYWORD: 눈가루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24511
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4805,13 +4805,13 @@ imported:
     표제어: 눈가루
     품사: 명사
     항목ID: 24511
-processed:
+result:
   맞춤법 검사:
     표제어: 눈가루
     품사: 명사
 ---
 000_KEYWORD: 눈가리개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24513
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4839,13 +4839,13 @@ imported:
     표제어: 눈가리개
     품사: 명사
     항목ID: 24513
-processed:
+result:
   맞춤법 검사:
     표제어: 눈가리개
     품사: 명사
 ---
 000_KEYWORD: 눈가림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24514
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4872,13 +4872,13 @@ imported:
     표제어: 눈가림
     품사: 명사
     항목ID: 24514
-processed:
+result:
   맞춤법 검사:
     표제어: 눈가림
     품사: 명사
 ---
 000_KEYWORD: 눈가림하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90459
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4912,13 +4912,13 @@ imported:
     - 발음: 눈가림함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/90459_nungarimhamnida.wav
       형태: 눈가림합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눈가림하다
     품사: 동사
 ---
 000_KEYWORD: 눈감다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28327
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4972,13 +4972,13 @@ imported:
     - 발음: 눈감씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/28327_nungamsseumnida.wav
       형태: 눈감습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눈감다
     품사: 동사
 ---
 000_KEYWORD: 눈곱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41546
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5027,13 +5027,13 @@ imported:
     - 발음: 눈꼼만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41546_nunkkomman.wav
       형태: 눈곱만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈곱
     품사: 명사
 ---
 000_KEYWORD: 눈구덩이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24515
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5061,13 +5061,13 @@ imported:
     표제어: 눈구덩이
     품사: 명사
     항목ID: 24515
-processed:
+result:
   맞춤법 검사:
     표제어: 눈구덩이
     품사: 명사
 ---
 000_KEYWORD: 눈구멍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41547
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5105,13 +5105,13 @@ imported:
     표제어: 눈구멍
     품사: 명사
     항목ID: 41547
-processed:
+result:
   맞춤법 검사:
     표제어: 눈구멍
     품사: 명사
 ---
 000_KEYWORD: 눈금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41549
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5154,13 +5154,13 @@ imported:
     표제어: 눈금
     품사: 명사
     항목ID: 41549
-processed:
+result:
   맞춤법 검사:
     표제어: 눈금
     품사: 명사
 ---
 000_KEYWORD: 눈금자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5169,13 +5169,13 @@ imported:
     표제어: 눈금자
     품사: 명사:보통:비서술성
     항목ID: 5695
-processed:
+result:
   맞춤법 검사:
     표제어: 눈금자
     품사: 명사
 ---
 000_KEYWORD: 눈길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45036
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5227,13 +5227,13 @@ imported:
     표제어: 눈길
     품사: 명사
     항목ID: 45036
-processed:
+result:
   맞춤법 검사:
     표제어: 눈길
     품사: 명사
 ---
 000_KEYWORD: 눈길__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24516
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5261,13 +5261,13 @@ imported:
     표제어: 눈길
     품사: 명사
     항목ID: 24516
-processed:
+result:
   맞춤법 검사:
     표제어: 눈길
     품사: 명사
 ---
 000_KEYWORD: 눈까풀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90460
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5299,13 +5299,13 @@ imported:
     표제어: 눈까풀
     품사: 명사
     항목ID: 90460
-processed:
+result:
   맞춤법 검사:
     표제어: 눈까풀
     품사: 명사
 ---
 000_KEYWORD: 눈깔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41554
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5325,17 +5325,17 @@ imported:
     표제어: 눈깔
     품사: 명사
     항목ID: 41554
-processed:
+result:
   맞춤법 검사:
     표제어: 눈깔
     품사: 명사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 비속어
 ---
 000_KEYWORD: 눈깔사탕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24228
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5369,13 +5369,13 @@ imported:
     표제어: 눈깔사탕
     품사: 명사
     항목ID: 24228
-processed:
+result:
   맞춤법 검사:
     표제어: 눈깔사탕
     품사: 명사
 ---
 000_KEYWORD: 눈꺼풀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41556
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5408,13 +5408,13 @@ imported:
     표제어: 눈꺼풀
     품사: 명사
     항목ID: 41556
-processed:
+result:
   맞춤법 검사:
     표제어: 눈꺼풀
     품사: 명사
 ---
 000_KEYWORD: 눈꼬리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90461
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5445,13 +5445,13 @@ imported:
     표제어: 눈꼬리
     품사: 명사
     항목ID: 90461
-processed:
+result:
   맞춤법 검사:
     표제어: 눈꼬리
     품사: 명사
 ---
 000_KEYWORD: 눈꼴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24229
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5475,13 +5475,13 @@ imported:
     표제어: 눈꼴
     품사: 명사
     항목ID: 24229
-processed:
+result:
   맞춤법 검사:
     표제어: 눈꼴
     품사: 명사
 ---
 000_KEYWORD: 눈꼴사납다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91732
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5515,7 +5515,7 @@ imported:
     - 발음: 눈꼴사납씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/91732_nunkkolsanapsseumnida.wav
       형태: 눈꼴사납습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -5523,7 +5523,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 눈꼽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92189
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5536,10 +5536,10 @@ imported:
     표제어: 눈꼽
     품사: 명사
     항목ID: 92189
-processed: {}
+result: {}
 ---
 000_KEYWORD: 눈꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41559
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5579,13 +5579,13 @@ imported:
     - 발음: 눈ː꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41559_nun-kkonman.wav
       형태: 눈꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈꽃
     품사: 명사
 ---
 000_KEYWORD: 눈높이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24237
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5621,13 +5621,13 @@ imported:
     표제어: 눈높이
     품사: 명사
     항목ID: 24237
-processed:
+result:
   맞춤법 검사:
     표제어: 눈높이
     품사: 명사
 ---
 000_KEYWORD: 눈대중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24249
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5659,13 +5659,13 @@ imported:
     표제어: 눈대중
     품사: 명사
     항목ID: 24249
-processed:
+result:
   맞춤법 검사:
     표제어: 눈대중
     품사: 명사
 ---
 000_KEYWORD: 눈덩이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41560
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5692,13 +5692,13 @@ imported:
     표제어: 눈덩이
     품사: 명사
     항목ID: 41560
-processed:
+result:
   맞춤법 검사:
     표제어: 눈덩이
     품사: 명사
 ---
 000_KEYWORD: 눈독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41562
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5734,13 +5734,13 @@ imported:
     - 발음: 눈똥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/41562_nunttongman.wav
       형태: 눈독만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈독
     품사: 명사
 ---
 000_KEYWORD: 눈동냥__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5750,13 +5750,13 @@ imported:
     표제어: 눈동냥
     품사: 명사:보통:서술성
     항목ID: 5703
-processed:
+result:
   맞춤법 검사:
     표제어: 눈동냥
     품사: 명사
 ---
 000_KEYWORD: 눈동자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23410
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5795,13 +5795,13 @@ imported:
     표제어: 눈동자
     품사: 명사
     항목ID: 23410
-processed:
+result:
   맞춤법 검사:
     표제어: 눈동자
     품사: 명사
 ---
 000_KEYWORD: 눈두덩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41564
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5829,13 +5829,13 @@ imported:
     표제어: 눈두덩
     품사: 명사
     항목ID: 41564
-processed:
+result:
   맞춤법 검사:
     표제어: 눈두덩
     품사: 명사
 ---
 000_KEYWORD: 눈뜨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28328
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5886,13 +5886,13 @@ imported:
     - 발음: 눈뜸니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/28328_nuntteumnida.wav
       형태: 눈뜹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눈뜨다
     품사: 동사
 ---
 000_KEYWORD: 눈뜬장님__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91191
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5954,13 +5954,13 @@ imported:
     표제어: 눈뜬장님
     품사: 명사
     항목ID: 91191
-processed:
+result:
   맞춤법 검사:
     표제어: 눈뜬장님
     품사: 명사
 ---
 000_KEYWORD: 눈망울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41566
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6009,13 +6009,13 @@ imported:
     표제어: 눈망울
     품사: 명사
     항목ID: 41566
-processed:
+result:
   맞춤법 검사:
     표제어: 눈망울
     품사: 명사
 ---
 000_KEYWORD: 눈매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41568
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6051,13 +6051,13 @@ imported:
     표제어: 눈매
     품사: 명사
     항목ID: 41568
-processed:
+result:
   맞춤법 검사:
     표제어: 눈매
     품사: 명사
 ---
 000_KEYWORD: 눈맵시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24257
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6086,13 +6086,13 @@ imported:
     표제어: 눈맵시
     품사: 명사
     항목ID: 24257
-processed:
+result:
   맞춤법 검사:
     표제어: 눈맵시
     품사: 명사
 ---
 000_KEYWORD: 눈물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55290
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6128,13 +6128,13 @@ imported:
     표제어: 눈물
     품사: 명사
     항목ID: 55290
-processed:
+result:
   맞춤법 검사:
     표제어: 눈물
     품사: 명사
 ---
 000_KEYWORD: 눈물겹다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90893
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6173,7 +6173,7 @@ imported:
     - 발음: 눈물겹씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/90893_nunmulgyeopsseumnida.wav
       형태: 눈물겹습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6181,7 +6181,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 눈물바다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24266
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6206,13 +6206,13 @@ imported:
     표제어: 눈물바다
     품사: 명사
     항목ID: 24266
-processed:
+result:
   맞춤법 검사:
     표제어: 눈물바다
     품사: 명사
 ---
 000_KEYWORD: 눈물샘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41569
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6239,13 +6239,13 @@ imported:
     표제어: 눈물샘
     품사: 명사
     항목ID: 41569
-processed:
+result:
   맞춤법 검사:
     표제어: 눈물샘
     품사: 명사
 ---
 000_KEYWORD: 눈뭉치__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6254,13 +6254,13 @@ imported:
     표제어: 눈뭉치
     품사: 명사:보통:비서술성
     항목ID: 5712
-processed:
+result:
   맞춤법 검사:
     표제어: 눈뭉치
     품사: 명사
 ---
 000_KEYWORD: 눈바람__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6270,13 +6270,13 @@ imported:
     표제어: 눈바람
     품사: 명사:보통:서술성
     항목ID: 5713
-processed:
+result:
   맞춤법 검사:
     표제어: 눈바람
     품사: 명사
 ---
 000_KEYWORD: 눈발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41572
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6304,13 +6304,13 @@ imported:
     표제어: 눈발
     품사: 명사
     항목ID: 41572
-processed:
+result:
   맞춤법 검사:
     표제어: 눈발
     품사: 명사
 ---
 000_KEYWORD: 눈방울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24267
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6344,13 +6344,13 @@ imported:
     표제어: 눈방울
     품사: 명사
     항목ID: 24267
-processed:
+result:
   맞춤법 검사:
     표제어: 눈방울
     품사: 명사
 ---
 000_KEYWORD: 눈밭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41574
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6394,13 +6394,13 @@ imported:
     - 발음: 눈ː바틀
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41574_nun-bateul.wav
       형태: 눈밭을
-processed:
+result:
   맞춤법 검사:
     표제어: 눈밭
     품사: 명사
 ---
 000_KEYWORD: 눈병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23398
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6431,13 +6431,13 @@ imported:
     표제어: 눈병
     품사: 명사
     항목ID: 23398
-processed:
+result:
   맞춤법 검사:
     표제어: 눈병
     품사: 명사
 ---
 000_KEYWORD: 눈보라__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41580
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6465,13 +6465,13 @@ imported:
     표제어: 눈보라
     품사: 명사
     항목ID: 41580
-processed:
+result:
   맞춤법 검사:
     표제어: 눈보라
     품사: 명사
 ---
 000_KEYWORD: 눈부시다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23193
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6547,13 +6547,13 @@ imported:
     - 발음: 눈부심니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/23193_nunbusimnida.wav
       형태: 눈부십니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눈부시다
     품사: 형용사
 ---
 000_KEYWORD: 눈비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24269
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6578,13 +6578,13 @@ imported:
     표제어: 눈비
     품사: 명사
     항목ID: 24269
-processed:
+result:
   맞춤법 검사:
     표제어: 눈비
     품사: 명사
 ---
 000_KEYWORD: 눈빛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41584
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6638,13 +6638,13 @@ imported:
     - 발음: 눈삔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/24271_nunppinman.wav
       형태: 눈빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈빛
     품사: 명사
 ---
 000_KEYWORD: 눈빛__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24271
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6680,13 +6680,13 @@ imported:
     - 발음: 눈ː삔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/24271_nun-ppinman.wav
       형태: 눈빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈빛
     품사: 명사
 ---
 000_KEYWORD: 눈사람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41588
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6717,13 +6717,13 @@ imported:
     표제어: 눈사람
     품사: 명사
     항목ID: 41588
-processed:
+result:
   맞춤법 검사:
     표제어: 눈사람
     품사: 명사
 ---
 000_KEYWORD: 눈사태__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41590
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6754,13 +6754,13 @@ imported:
     표제어: 눈사태
     품사: 명사
     항목ID: 41590
-processed:
+result:
   맞춤법 검사:
     표제어: 눈사태
     품사: 명사
 ---
 000_KEYWORD: 눈살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41591
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6788,13 +6788,13 @@ imported:
     표제어: 눈살
     품사: 명사
     항목ID: 41591
-processed:
+result:
   맞춤법 검사:
     표제어: 눈살
     품사: 명사
 ---
 000_KEYWORD: 눈살__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41594
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6825,13 +6825,13 @@ imported:
     표제어: 눈살
     품사: 명사
     항목ID: 41594
-processed:
+result:
   맞춤법 검사:
     표제어: 눈살
     품사: 명사
 ---
 000_KEYWORD: 눈서리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24275
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6856,13 +6856,13 @@ imported:
     표제어: 눈서리
     품사: 명사
     항목ID: 24275
-processed:
+result:
   맞춤법 검사:
     표제어: 눈서리
     품사: 명사
 ---
 000_KEYWORD: 눈속임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24278
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6888,13 +6888,13 @@ imported:
     표제어: 눈속임
     품사: 명사
     항목ID: 24278
-processed:
+result:
   맞춤법 검사:
     표제어: 눈속임
     품사: 명사
 ---
 000_KEYWORD: 눈송이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41597
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6921,13 +6921,13 @@ imported:
     표제어: 눈송이
     품사: 명사
     항목ID: 41597
-processed:
+result:
   맞춤법 검사:
     표제어: 눈송이
     품사: 명사
 ---
 000_KEYWORD: 눈시울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41599
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6954,13 +6954,13 @@ imported:
     표제어: 눈시울
     품사: 명사
     항목ID: 41599
-processed:
+result:
   맞춤법 검사:
     표제어: 눈시울
     품사: 명사
 ---
 000_KEYWORD: 눈싸움__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24282
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6986,13 +6986,13 @@ imported:
     표제어: 눈싸움
     품사: 명사
     항목ID: 24282
-processed:
+result:
   맞춤법 검사:
     표제어: 눈싸움
     품사: 명사
 ---
 000_KEYWORD: 눈싸움__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24287
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7017,13 +7017,13 @@ imported:
     표제어: 눈싸움
     품사: 명사
     항목ID: 24287
-processed:
+result:
   맞춤법 검사:
     표제어: 눈싸움
     품사: 명사
 ---
 000_KEYWORD: 눈싸움하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7033,13 +7033,13 @@ imported:
     표제어: 눈싸움하다
     품사: 동사
     항목ID: 5725
-processed:
+result:
   맞춤법 검사:
     표제어: 눈싸움하다
     품사: 동사
 ---
 000_KEYWORD: 눈썰매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41601
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7064,13 +7064,13 @@ imported:
     표제어: 눈썰매
     품사: 명사
     항목ID: 41601
-processed:
+result:
   맞춤법 검사:
     표제어: 눈썰매
     품사: 명사
 ---
 000_KEYWORD: 눈썰매장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24291
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7101,13 +7101,13 @@ imported:
     표제어: 눈썰매장
     품사: 명사
     항목ID: 24291
-processed:
+result:
   맞춤법 검사:
     표제어: 눈썰매장
     품사: 명사
 ---
 000_KEYWORD: 눈썰미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41602
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7134,13 +7134,13 @@ imported:
     표제어: 눈썰미
     품사: 명사
     항목ID: 41602
-processed:
+result:
   맞춤법 검사:
     표제어: 눈썰미
     품사: 명사
 ---
 000_KEYWORD: 눈썹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41603
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7189,13 +7189,13 @@ imported:
     - 발음: 눈썸만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41603_nunsseomman.wav
       형태: 눈썹만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈썹
     품사: 명사
 ---
 000_KEYWORD: 눈썹연필__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41607
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7226,13 +7226,13 @@ imported:
     표제어: 눈썹연필
     품사: 명사
     항목ID: 41607
-processed:
+result:
   맞춤법 검사:
     표제어: 눈썹연필
     품사: 명사
 ---
 000_KEYWORD: 눈알__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41611
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7270,13 +7270,13 @@ imported:
     표제어: 눈알
     품사: 명사
     항목ID: 41611
-processed:
+result:
   맞춤법 검사:
     표제어: 눈알
     품사: 명사
 ---
 000_KEYWORD: 눈앞__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41619
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7336,13 +7336,13 @@ imported:
     - 발음: 누남만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41619_nunamman.wav
       형태: 눈앞만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈앞
     품사: 명사
 ---
 000_KEYWORD: 눈약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41621
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7384,13 +7384,13 @@ imported:
     - 발음: 눈냥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/41621_nunnyangman.wav
       형태: 눈약만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈약
     품사: 명사
 ---
 000_KEYWORD: 눈어림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41622
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7422,13 +7422,13 @@ imported:
     표제어: 눈어림
     품사: 명사
     항목ID: 41622
-processed:
+result:
   맞춤법 검사:
     표제어: 눈어림
     품사: 명사
 ---
 000_KEYWORD: 눈언저리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41623
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7459,13 +7459,13 @@ imported:
     표제어: 눈언저리
     품사: 명사
     항목ID: 41623
-processed:
+result:
   맞춤법 검사:
     표제어: 눈언저리
     품사: 명사
 ---
 000_KEYWORD: 눈엣가시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41625
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7494,13 +7494,13 @@ imported:
     표제어: 눈엣가시
     품사: 명사
     항목ID: 41625
-processed:
+result:
   맞춤법 검사:
     표제어: 눈엣가시
     품사: 명사
 ---
 000_KEYWORD: 눈여겨보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41626
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7545,17 +7545,17 @@ imported:
     - 발음: 눈녀겨봄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41626_nunnyeogyeobomnida.wav
       형태: 눈여겨봅니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눈여겨보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 눈요기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24294
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7580,13 +7580,13 @@ imported:
     표제어: 눈요기
     품사: 명사
     항목ID: 24294
-processed:
+result:
   맞춤법 검사:
     표제어: 눈요기
     품사: 명사
 ---
 000_KEYWORD: 눈웃음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24295
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7611,13 +7611,13 @@ imported:
     표제어: 눈웃음
     품사: 명사
     항목ID: 24295
-processed:
+result:
   맞춤법 검사:
     표제어: 눈웃음
     품사: 명사
 ---
 000_KEYWORD: 눈인사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24302
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7648,13 +7648,13 @@ imported:
     표제어: 눈인사
     품사: 명사
     항목ID: 24302
-processed:
+result:
   맞춤법 검사:
     표제어: 눈인사
     품사: 명사
 ---
 000_KEYWORD: 눈자위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41629
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7681,13 +7681,13 @@ imported:
     표제어: 눈자위
     품사: 명사
     항목ID: 41629
-processed:
+result:
   맞춤법 검사:
     표제어: 눈자위
     품사: 명사
 ---
 000_KEYWORD: 눈짐작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41634
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7730,13 +7730,13 @@ imported:
     - 발음: 눈찜장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/41634_nunjjimjangman.wav
       형태: 눈짐작만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈짐작
     품사: 명사
 ---
 000_KEYWORD: 눈짐작하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90462
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7781,13 +7781,13 @@ imported:
     - 발음: 눈찜자캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/10000/90462_nunjjimjakamnida.wav
       형태: 눈짐작합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눈짐작하다
     품사: 동사
 ---
 000_KEYWORD: 눈짓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41638
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7825,13 +7825,13 @@ imported:
     - 발음: 눈찐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41638_nunjjinman.wav
       형태: 눈짓만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈짓
     품사: 명사
 ---
 000_KEYWORD: 눈짓하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41639
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7875,13 +7875,13 @@ imported:
     - 발음: 눈찌탐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41639_nunjjitamnida.wav
       형태: 눈짓합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눈짓하다
     품사: 동사
 ---
 000_KEYWORD: 눈초리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42135
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7928,13 +7928,13 @@ imported:
     표제어: 눈초리
     품사: 명사
     항목ID: 42135
-processed:
+result:
   맞춤법 검사:
     표제어: 눈초리
     품사: 명사
 ---
 000_KEYWORD: 눈총__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41642
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7967,13 +7967,13 @@ imported:
     표제어: 눈총
     품사: 명사
     항목ID: 41642
-processed:
+result:
   맞춤법 검사:
     표제어: 눈총
     품사: 명사
 ---
 000_KEYWORD: 눈치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41644
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8026,13 +8026,13 @@ imported:
     표제어: 눈치
     품사: 명사
     항목ID: 41644
-processed:
+result:
   맞춤법 검사:
     표제어: 눈치
     품사: 명사
 ---
 000_KEYWORD: 눈치채다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92522
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8066,13 +8066,13 @@ imported:
     활용:
     - 형태: 눈치채어
     - 형태: 눈치채니
-processed:
+result:
   맞춤법 검사:
     표제어: 눈치채다
     품사: 동사
 ---
 000_KEYWORD: 눈치코치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24303
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8096,13 +8096,13 @@ imported:
     표제어: 눈치코치
     품사: 명사
     항목ID: 24303
-processed:
+result:
   맞춤법 검사:
     표제어: 눈치코치
     품사: 명사
 ---
 000_KEYWORD: 눈칫밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41646
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8147,13 +8147,13 @@ imported:
     - 발음: 눈칟빰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41646_nunchitppamman.wav
       형태: 눈칫밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 눈칫밥
     품사: 명사
 ---
 000_KEYWORD: 눋다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41647
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8194,7 +8194,7 @@ imported:
     - 발음: 눋ː씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41647_nud-sseumnida.wav
       형태: 눋습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -8202,7 +8202,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 눌러놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41650
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8258,7 +8258,7 @@ imported:
     - 발음: 눌ː러노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41650_nur-reonosseumnida.wav
       형태: 눌러놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -8267,7 +8267,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 눌러살다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8277,13 +8277,13 @@ imported:
     표제어: 눌러살다
     품사: 동사
     항목ID: 5739
-processed:
+result:
   맞춤법 검사:
     표제어: 눌러살다
     품사: 동사
 ---
 000_KEYWORD: 눌러쓰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41662
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8335,13 +8335,13 @@ imported:
     - 발음: 눌ː러씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41662_nur-reosseumnida.wav
       형태: 눌러씁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눌러쓰다
     품사: 동사
 ---
 000_KEYWORD: 눌러앉다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41664
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8398,13 +8398,13 @@ imported:
     - 발음: 눌ː러안씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41664_nur-reoansseumnida.wav
       형태: 눌러앉습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눌러앉다
     품사: 동사
 ---
 000_KEYWORD: 눌르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92190
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8417,10 +8417,10 @@ imported:
     표제어: 눌르다
     품사: 동사
     항목ID: 92190
-processed: {}
+result: {}
 ---
 000_KEYWORD: 눌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41669
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8497,13 +8497,13 @@ imported:
     - 발음: 눌ː림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41670_nur-rimnida.wav
       형태: 눌립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눌리다
     품사: 동사
 ---
 000_KEYWORD: 눌리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41670
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8544,13 +8544,13 @@ imported:
     - 발음: 눌림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41670_nullimnida.wav
       형태: 눌립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눌리다
     품사: 동사
 ---
 000_KEYWORD: 눌변__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41672
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8582,13 +8582,13 @@ imported:
     표제어: 눌변
     품사: 명사
     항목ID: 41672
-processed:
+result:
   맞춤법 검사:
     표제어: 눌변
     품사: 명사
 ---
 000_KEYWORD: 눌어붙다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41674
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8641,17 +8641,17 @@ imported:
     - 발음: 누러붇씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41674_nureobutsseumnida.wav
       형태: 눌어붙습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눌어붙다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 눌은밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41675
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8688,13 +8688,13 @@ imported:
     - 발음: 누른밤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41675_nureunbamman.wav
       형태: 눌은밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 눌은밥
     품사: 명사
 ---
 000_KEYWORD: 눌지왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8704,13 +8704,13 @@ imported:
     표제어: 눌지왕
     품사: 명사:보통:서술성
     항목ID: 5744
-processed:
+result:
   맞춤법 검사:
     표제어: 눌지왕
     품사: 명사
 ---
 000_KEYWORD: 눕다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62063
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8776,7 +8776,7 @@ imported:
     - 발음: 눕ː씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/62063_nub-sseumnida.wav
       형태: 눕습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -8784,7 +8784,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 눕히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41676
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8857,7 +8857,7 @@ imported:
     - 발음: 누핌니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41676_nupimnida.wav
       형태: 눕힙니다
-processed:
+result:
   맞춤법 검사:
     표제어: 눕히다
     품사: 동사

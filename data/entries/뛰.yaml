@@ -1,5 +1,5 @@
 000_KEYWORD: 뛰놀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14437
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -54,13 +54,13 @@ imported:
     - 발음: 뛰놈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14437_ttwinomnida.wav
       형태: 뛰놉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰놀다
     품사: 동사
 ---
 000_KEYWORD: 뛰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65532
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -188,13 +188,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/65532_ttwiyeo.wav
       형태: 뛰어
     - 형태: 뛰니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰다
     품사: 동사
 ---
 000_KEYWORD: 뛰다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74124
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -303,13 +303,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/65532_ttwiyeo.wav
       형태: 뛰어
     - 형태: 뛰니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰다
     품사: 동사
 ---
 000_KEYWORD: 뛰뛰빵빵__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -319,13 +319,13 @@ imported:
     표제어: 뛰뛰빵빵
     품사: 부사
     항목ID: 7980
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰뛰빵빵
     품사: 부사
 ---
 000_KEYWORD: 뛰어가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14439
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -390,17 +390,17 @@ imported:
     - 발음: 뛰여가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14439_ttwiyeogageora.wav
       형태: 뛰어가거라
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어나가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14442
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -457,17 +457,17 @@ imported:
     - 발음: 뛰여나가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14442_ttwiyeonagani.wav
       형태: 뛰어나가니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어나가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어나다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14445
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -521,17 +521,17 @@ imported:
       형태: 뛰어납니다
     - 발음: 뛰여남니다
       형태: 뛰어납니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어나다
     품사: 형용사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어나오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14448
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -591,17 +591,17 @@ imported:
     - 발음: 뛰여나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14448_ttwiyeonaoni.wav
       형태: 뛰어나오니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어나오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어내리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14452
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -679,17 +679,17 @@ imported:
     - 발음: 뛰여내리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14452_ttwiyeonaerini.wav
       형태: 뛰어내리니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어내리다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어넘다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15196
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -777,17 +777,17 @@ imported:
     - 발음: 뛰여너므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15196_ttwiyeoneomeuni.wav
       형태: 뛰어넘으니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어넘다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어놀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15206
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -841,17 +841,17 @@ imported:
     - 발음: 뛰여놈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15206_ttwiyeonomnida.wav
       형태: 뛰어놉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어놀다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어다니다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62374
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -922,17 +922,17 @@ imported:
     - 발음: 뛰여다니니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/62374_ttwiyeodanini.wav
       형태: 뛰어다니니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어다니다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59467
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1022,17 +1022,17 @@ imported:
     - 발음: 뛰여듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/59467_ttwiyeodeumnida.wav
       형태: 뛰어듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어들다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15210
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1097,17 +1097,17 @@ imported:
     - 발음: 뛰여오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15210_ttwiyeooneora.wav
       형태: 뛰어오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰어오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰어오르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15220
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1178,19 +1178,19 @@ imported:
     - 발음: 뛰여오르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15220_ttwiyeooreuni.wav
       형태: 뛰어오르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
     표제어: 뛰어오르다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰쳐나가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53915
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1241,17 +1241,17 @@ imported:
     - 발음: 뛰처나가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53915_ttwicheonagani.wav
       형태: 뛰쳐나가니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰쳐나가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰쳐나오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53916
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1302,17 +1302,17 @@ imported:
     - 발음: 뛰처나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53916_ttwicheonaoni.wav
       형태: 뛰쳐나오니
-processed:
+result:
   맞춤법 검사:
     표제어: 뛰쳐나오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뛰치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92217
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1325,10 +1325,10 @@ imported:
     표제어: 뛰치다
     품사: 동사
     항목ID: 92217
-processed: {}
+result: {}
 ---
 000_KEYWORD: 뜀뛰기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53918
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1356,13 +1356,13 @@ imported:
     표제어: 뜀뛰기
     품사: 명사
     항목ID: 53918
-processed:
+result:
   맞춤법 검사:
     표제어: 뜀뛰기
     품사: 명사
 ---
 000_KEYWORD: 뜀뛰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53920
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1398,13 +1398,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53920_ttwimttwiyeo.wav
       형태: 뜀뛰어
     - 형태: 뜀뛰니
-processed:
+result:
   맞춤법 검사:
     표제어: 뜀뛰다
     품사: 동사
 ---
 000_KEYWORD: 뜀박질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53922
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1451,13 +1451,13 @@ imported:
     표제어: 뜀박질
     품사: 명사
     항목ID: 53922
-processed:
+result:
   맞춤법 검사:
     표제어: 뜀박질
     품사: 명사
 ---
 000_KEYWORD: 뜀박질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53924
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1510,13 +1510,13 @@ imported:
     표제어: 뜀박질하다
     품사: 동사
     항목ID: 53924
-processed:
+result:
   맞춤법 검사:
     표제어: 뜀박질하다
     품사: 동사
 ---
 000_KEYWORD: 뜀질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53925
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1570,13 +1570,13 @@ imported:
     표제어: 뜀질
     품사: 명사
     항목ID: 53925
-processed:
+result:
   맞춤법 검사:
     표제어: 뜀질
     품사: 명사
 ---
 000_KEYWORD: 뜀질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90942
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1628,13 +1628,13 @@ imported:
     표제어: 뜀질하다
     품사: 동사
     항목ID: 90942
-processed:
+result:
   맞춤법 검사:
     표제어: 뜀질하다
     품사: 동사
 ---
 000_KEYWORD: 뜀틀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53926
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1663,7 +1663,7 @@ imported:
     표제어: 뜀틀
     품사: 명사
     항목ID: 53926
-processed:
+result:
   맞춤법 검사:
     표제어: 뜀틀
     품사: 명사

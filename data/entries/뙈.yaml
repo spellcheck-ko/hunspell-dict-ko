@@ -1,5 +1,5 @@
 000_KEYWORD: 뙈기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54160
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -26,13 +26,13 @@ imported:
     표제어: 뙈기
     품사: 명사
     항목ID: 54160
-processed:
+result:
   맞춤법 검사:
     표제어: 뙈기
     품사: 명사
 ---
 000_KEYWORD: 뙈기밭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53119
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -72,7 +72,7 @@ imported:
     - 발음: 뙈ː기바틀
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53119_ttwae-gibateul.wav
       형태: 뙈기밭을
-processed:
+result:
   맞춤법 검사:
     표제어: 뙈기밭
     품사: 명사

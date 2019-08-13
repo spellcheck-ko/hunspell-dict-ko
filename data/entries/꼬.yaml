@@ -1,5 +1,5 @@
 000_KEYWORD: -꼴__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73340
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17,11 +17,11 @@ imported:
     표제어: -꼴
     품사: 접사
     항목ID: 73340
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 꼬깃꼬깃__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39558
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -45,13 +45,13 @@ imported:
     표제어: 꼬깃꼬깃
     품사: 부사
     항목ID: 39558
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬깃꼬깃
     품사: 부사
 ---
 000_KEYWORD: 꼬깃꼬깃하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41663
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -90,13 +90,13 @@ imported:
       형태: 꼬깃꼬깃하니
     - 발음: 꼬긷꼬기탐니다
       형태: 꼬깃꼬깃합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬깃꼬깃하다
     품사: 동사
 ---
 000_KEYWORD: 꼬깃꼬깃하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41665
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -134,13 +134,13 @@ imported:
       형태: 꼬깃꼬깃하니
     - 발음: 꼬긷꼬기탐니다
       형태: 꼬깃꼬깃합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬깃꼬깃하다
     품사: 형용사
 ---
 000_KEYWORD: 꼬까__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41667
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -167,13 +167,13 @@ imported:
     표제어: 꼬까
     품사: 명사
     항목ID: 41667
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬까
     품사: 명사
 ---
 000_KEYWORD: 꼬까신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39552
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -201,13 +201,13 @@ imported:
     표제어: 꼬까신
     품사: 명사
     항목ID: 39552
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬까신
     품사: 명사
 ---
 000_KEYWORD: 꼬꼬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38472
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -238,13 +238,13 @@ imported:
     표제어: 꼬꼬
     품사: 명사
     항목ID: 38472
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬꼬
     품사: 명사
 ---
 000_KEYWORD: 꼬꼬__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41668
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -269,13 +269,13 @@ imported:
     표제어: 꼬꼬
     품사: 부사
     항목ID: 41668
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬꼬
     품사: 부사
 ---
 000_KEYWORD: 꼬꼬닭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39551
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -319,13 +319,13 @@ imported:
     - 발음: 꼬꼬당만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39551_kkokkodangman.wav
       형태: 꼬꼬닭만
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬꼬닭
     품사: 명사
 ---
 000_KEYWORD: 꼬꼬댁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40610
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -349,13 +349,13 @@ imported:
     표제어: 꼬꼬댁
     품사: 부사
     항목ID: 40610
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬꼬댁
     품사: 부사
 ---
 000_KEYWORD: 꼬꼬마__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -365,13 +365,13 @@ imported:
     표제어: 꼬꼬마
     품사: 명사:보통:서술성
     항목ID: 4469
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬꼬마
     품사: 명사
 ---
 000_KEYWORD: 꼬꾸라지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40612
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -431,7 +431,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/40612_kkokkurajeo.wav
       형태: 꼬꾸라져
     - 형태: 꼬꾸라지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -439,7 +439,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 꼬끼오__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40615
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -463,13 +463,13 @@ imported:
     표제어: 꼬끼오
     품사: 부사
     항목ID: 40615
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬끼오
     품사: 부사
 ---
 000_KEYWORD: 꼬나보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40617
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -500,13 +500,13 @@ imported:
     활용:
     - 형태: 꼬나보아
     - 형태: 꼬나보니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬나보다
     품사: 동사
 ---
 000_KEYWORD: 꼬느다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40620
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -534,13 +534,13 @@ imported:
     활용:
     - 형태: 꼬나
     - 형태: 꼬느니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬느다
     품사: 동사
 ---
 000_KEYWORD: 꼬다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40623
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -608,13 +608,13 @@ imported:
     - 발음: 꼬ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40623_kko-ni.wav
       형태: 꼬니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬다
     품사: 동사
 ---
 000_KEYWORD: 꼬드기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40631
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -650,13 +650,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40631_kkodeugiyeo.wav
       형태: 꼬드기어
     - 형태: 꼬드기니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬드기다
     품사: 동사
 ---
 000_KEYWORD: 꼬들꼬들__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40633
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -684,13 +684,13 @@ imported:
     표제어: 꼬들꼬들
     품사: 부사
     항목ID: 40633
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬들꼬들
     품사: 부사
 ---
 000_KEYWORD: 꼬들꼬들하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40635
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -728,13 +728,13 @@ imported:
       형태: 꼬들꼬들하니
     - 발음: 꼬들꼬들함니다
       형태: 꼬들꼬들합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬들꼬들하다
     품사: 형용사
 ---
 000_KEYWORD: 꼬라박다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -743,13 +743,13 @@ imported:
     표제어: 꼬라박다
     품사: 동사
     항목ID: 4473
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬라박다
     품사: 동사
 ---
 000_KEYWORD: 꼬락서니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26532
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -776,13 +776,13 @@ imported:
     표제어: 꼬락서니
     품사: 명사
     항목ID: 26532
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬락서니
     품사: 명사
 ---
 000_KEYWORD: 꼬랑지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26533
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -813,13 +813,13 @@ imported:
     표제어: 꼬랑지
     품사: 명사
     항목ID: 26533
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬랑지
     품사: 명사
 ---
 000_KEYWORD: 꼬르륵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40636
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -880,13 +880,13 @@ imported:
     표제어: 꼬르륵
     품사: 부사
     항목ID: 40636
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬르륵
     품사: 부사
 ---
 000_KEYWORD: 꼬르륵거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89900
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -962,13 +962,13 @@ imported:
       형태: 꼬르륵거리니
     - 발음: 꼬르륵꺼림니다
       형태: 꼬르륵거립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬르륵거리다
     품사: 동사
 ---
 000_KEYWORD: 꼬르륵대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89901
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1045,13 +1045,13 @@ imported:
       형태: 꼬르륵대니
     - 발음: 꼬르륵땜니다
       형태: 꼬르륵댑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬르륵대다
     품사: 동사
 ---
 000_KEYWORD: 꼬르륵하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89902
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1114,13 +1114,13 @@ imported:
       형태: 꼬르륵하니
     - 발음: 꼬르르캄니다
       형태: 꼬르륵합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬르륵하다
     품사: 동사
 ---
 000_KEYWORD: 꼬리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32577
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1197,13 +1197,13 @@ imported:
     표제어: 꼬리
     품사: 명사
     항목ID: 32577
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬리
     품사: 명사
 ---
 000_KEYWORD: 꼬리곰탕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40640
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1236,13 +1236,13 @@ imported:
     표제어: 꼬리곰탕
     품사: 명사
     항목ID: 40640
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬리곰탕
     품사: 명사
 ---
 000_KEYWORD: 꼬리말__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1251,13 +1251,13 @@ imported:
     표제어: 꼬리말
     품사: 명사:보통:비서술성
     항목ID: 4478
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬리말
     품사: 명사
 ---
 000_KEYWORD: 꼬리뼈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40642
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1287,13 +1287,13 @@ imported:
     표제어: 꼬리뼈
     품사: 명사
     항목ID: 40642
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬리뼈
     품사: 명사
 ---
 000_KEYWORD: 꼬리표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26534
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1337,13 +1337,13 @@ imported:
     표제어: 꼬리표
     품사: 명사
     항목ID: 26534
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬리표
     품사: 명사
 ---
 000_KEYWORD: 꼬마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32581
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1394,13 +1394,13 @@ imported:
     표제어: 꼬마
     품사: 명사
     항목ID: 32581
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬마
     품사: 명사
 ---
 000_KEYWORD: 꼬막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26535
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1442,13 +1442,13 @@ imported:
     - 발음: 꼬망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/26535_kkomangman.wav
       형태: 꼬막만
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬막
     품사: 명사
 ---
 000_KEYWORD: 꼬맹이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26536
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1475,13 +1475,13 @@ imported:
     표제어: 꼬맹이
     품사: 명사
     항목ID: 26536
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬맹이
     품사: 명사
 ---
 000_KEYWORD: 꼬물거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40645
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1570,13 +1570,13 @@ imported:
     표제어: 꼬물거리다
     품사: 동사
     항목ID: 40645
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬물거리다
     품사: 동사
 ---
 000_KEYWORD: 꼬물꼬물__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40650
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1636,13 +1636,13 @@ imported:
     표제어: 꼬물꼬물
     품사: 부사
     항목ID: 40650
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬물꼬물
     품사: 부사
 ---
 000_KEYWORD: 꼬물꼬물하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88734
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1714,13 +1714,13 @@ imported:
     표제어: 꼬물꼬물하다
     품사: 동사
     항목ID: 88734
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬물꼬물하다
     품사: 동사
 ---
 000_KEYWORD: 꼬물대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88735
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1788,13 +1788,13 @@ imported:
     표제어: 꼬물대다
     품사: 동사
     항목ID: 88735
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬물대다
     품사: 동사
 ---
 000_KEYWORD: 꼬박__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40651
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1825,13 +1825,13 @@ imported:
     표제어: 꼬박
     품사: 부사
     항목ID: 40651
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬박
     품사: 부사
 ---
 000_KEYWORD: 꼬박__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40654
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1883,13 +1883,13 @@ imported:
     표제어: 꼬박
     품사: 부사
     항목ID: 40654
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬박
     품사: 부사
 ---
 000_KEYWORD: 꼬박꼬박__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40655
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1917,13 +1917,13 @@ imported:
     표제어: 꼬박꼬박
     품사: 부사
     항목ID: 40655
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬박꼬박
     품사: 부사
 ---
 000_KEYWORD: 꼬부라지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40656
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1966,7 +1966,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/40656_kkoburajeo.wav
       형태: 꼬부라져
     - 형태: 꼬부라지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -1974,7 +1974,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 꼬부랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26537
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2002,13 +2002,13 @@ imported:
     표제어: 꼬부랑
     품사: 명사
     항목ID: 26537
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬부랑
     품사: 명사
 ---
 000_KEYWORD: 꼬부리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40657
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2044,13 +2044,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40657_kkoburiyeo.wav
       형태: 꼬부리어
     - 형태: 꼬부리니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬부리다
     품사: 동사
 ---
 000_KEYWORD: 꼬불거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88736
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2081,13 +2081,13 @@ imported:
     표제어: 꼬불거리다
     품사: 동사
     항목ID: 88736
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬불거리다
     품사: 동사
 ---
 000_KEYWORD: 꼬불꼬불__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40659
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2121,13 +2121,13 @@ imported:
     표제어: 꼬불꼬불
     품사: 부사
     항목ID: 40659
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬불꼬불
     품사: 부사
 ---
 000_KEYWORD: 꼬불꼬불하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40660
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2178,13 +2178,13 @@ imported:
       형태: 꼬불꼬불하니
     - 발음: 꼬불꼬불함니다
       형태: 꼬불꼬불합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬불꼬불하다
     품사: 형용사
 ---
 000_KEYWORD: 꼬불대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88737
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2215,13 +2215,13 @@ imported:
     표제어: 꼬불대다
     품사: 동사
     항목ID: 88737
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬불대다
     품사: 동사
 ---
 000_KEYWORD: 꼬불치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91055
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2264,13 +2264,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/91055_kkobulcheo.wav
       형태: 꼬불쳐
     - 형태: 꼬불치니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬불치다
     품사: 동사
 ---
 000_KEYWORD: 꼬불탕하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40661
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2313,13 +2313,13 @@ imported:
       형태: 꼬불탕하니
     - 발음: 꼬불탕함니다
       형태: 꼬불탕합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬불탕하다
     품사: 형용사
 ---
 000_KEYWORD: 꼬빡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40662
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2350,13 +2350,13 @@ imported:
     표제어: 꼬빡
     품사: 부사
     항목ID: 40662
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬빡
     품사: 부사
 ---
 000_KEYWORD: 꼬빡__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40663
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2400,13 +2400,13 @@ imported:
     표제어: 꼬빡
     품사: 부사
     항목ID: 40663
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬빡
     품사: 부사
 ---
 000_KEYWORD: 꼬이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40664
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2447,13 +2447,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40666_kkoiyeo.wav
       형태: 꼬이어
     - 형태: 꼬이니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬이다
     품사: 동사
 ---
 000_KEYWORD: 꼬이다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40665
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2505,13 +2505,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40666_kkoiyeo.wav
       형태: 꼬이어
     - 형태: 꼬이니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬이다
     품사: 동사
 ---
 000_KEYWORD: 꼬이다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40666
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2560,13 +2560,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40666_kkoiyeo.wav
       형태: 꼬이어
     - 형태: 꼬이니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬이다
     품사: 동사
 ---
 000_KEYWORD: 꼬이다__동사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40668
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2606,13 +2606,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40666_kkoiyeo.wav
       형태: 꼬이어
     - 형태: 꼬이니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬이다
     품사: 동사
 ---
 000_KEYWORD: 꼬임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40669
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2645,13 +2645,13 @@ imported:
     표제어: 꼬임
     품사: 명사
     항목ID: 40669
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬임
     품사: 명사
 ---
 000_KEYWORD: 꼬장꼬장__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40670
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2689,13 +2689,13 @@ imported:
     표제어: 꼬장꼬장
     품사: 부사
     항목ID: 40670
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬장꼬장
     품사: 부사
 ---
 000_KEYWORD: 꼬장꼬장하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40671
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2750,13 +2750,13 @@ imported:
       형태: 꼬장꼬장하니
     - 발음: 꼬장꼬장함니다
       형태: 꼬장꼬장합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬장꼬장하다
     품사: 형용사
 ---
 000_KEYWORD: 꼬질꼬질__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40672
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2783,13 +2783,13 @@ imported:
     표제어: 꼬질꼬질
     품사: 부사
     항목ID: 40672
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬질꼬질
     품사: 부사
 ---
 000_KEYWORD: 꼬질꼬질하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40674
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2829,13 +2829,13 @@ imported:
       형태: 꼬질꼬질하니
     - 발음: 꼬질꼬질함니다
       형태: 꼬질꼬질합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬질꼬질하다
     품사: 형용사
 ---
 000_KEYWORD: 꼬집다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40675
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2910,7 +2910,7 @@ imported:
       형태: 꼬집으니
     - 발음: 꼬집씀니다
       형태: 꼬집습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -2918,7 +2918,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 꼬집히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40677
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2971,13 +2971,13 @@ imported:
     - 발음: 꼬지피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40677_kkojipini.wav
       형태: 꼬집히니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬집히다
     품사: 동사
 ---
 000_KEYWORD: 꼬챙이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40679
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3008,13 +3008,13 @@ imported:
     표제어: 꼬챙이
     품사: 명사
     항목ID: 40679
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬챙이
     품사: 명사
 ---
 000_KEYWORD: 꼬치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40680
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3071,13 +3071,13 @@ imported:
     표제어: 꼬치
     품사: 명사
     항목ID: 40680
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬치
     품사: 명사
 ---
 000_KEYWORD: 꼬치구이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26538
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3105,13 +3105,13 @@ imported:
     표제어: 꼬치구이
     품사: 명사
     항목ID: 26538
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬치구이
     품사: 명사
 ---
 000_KEYWORD: 꼬치꼬치__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40681
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3139,13 +3139,13 @@ imported:
     표제어: 꼬치꼬치
     품사: 부사
     항목ID: 40681
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬치꼬치
     품사: 부사
 ---
 000_KEYWORD: 꼬투리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40682
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3186,13 +3186,13 @@ imported:
     표제어: 꼬투리
     품사: 명사
     항목ID: 40682
-processed:
+result:
   맞춤법 검사:
     표제어: 꼬투리
     품사: 명사
 ---
 000_KEYWORD: 꼭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28297
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3262,13 +3262,13 @@ imported:
     표제어: 꼭
     품사: 부사
     항목ID: 28297
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭
     품사: 부사
 ---
 000_KEYWORD: 꼭__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=48064
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3317,13 +3317,13 @@ imported:
     표제어: 꼭
     품사: 부사
     항목ID: 48064
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭
     품사: 부사
 ---
 000_KEYWORD: 꼭꼭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38155
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3386,13 +3386,13 @@ imported:
     표제어: 꼭꼭
     품사: 부사
     항목ID: 38155
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭꼭
     품사: 부사
 ---
 000_KEYWORD: 꼭꼭__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38165
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3419,13 +3419,13 @@ imported:
     표제어: 꼭꼭
     품사: 부사
     항목ID: 38165
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭꼭
     품사: 부사
 ---
 000_KEYWORD: 꼭대기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38163
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3484,13 +3484,13 @@ imported:
     표제어: 꼭대기
     품사: 명사
     항목ID: 38163
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭대기
     품사: 명사
 ---
 000_KEYWORD: 꼭두각시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26539
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3542,13 +3542,13 @@ imported:
     표제어: 꼭두각시
     품사: 명사
     항목ID: 26539
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭두각시
     품사: 명사
 ---
 000_KEYWORD: 꼭두각시놀음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38170
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3581,13 +3581,13 @@ imported:
     표제어: 꼭두각시놀음
     품사: 명사
     항목ID: 38170
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭두각시놀음
     품사: 명사
 ---
 000_KEYWORD: 꼭두새벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38166
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3624,13 +3624,13 @@ imported:
     - 발음: 꼭뚜새병만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38166_kkokttusaebyeongman.wav
       형태: 꼭두새벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭두새벽
     품사: 명사
 ---
 000_KEYWORD: 꼭지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38157
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3699,13 +3699,13 @@ imported:
     표제어: 꼭지
     품사: 명사
     항목ID: 38157
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭지
     품사: 명사
 ---
 000_KEYWORD: 꼭지__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38153
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3744,13 +3744,13 @@ imported:
     표제어: 꼭지
     품사: 의존 명사
     항목ID: 38153
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭지
     품사: 의존 명사
 ---
 000_KEYWORD: 꼭지점__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3759,13 +3759,13 @@ imported:
     표제어: 꼭지점
     품사: 명사:보통:비서술성
     항목ID: 4501
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭지점
     품사: 명사
 ---
 000_KEYWORD: 꼭짓점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38169
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3790,13 +3790,13 @@ imported:
     표제어: 꼭짓점
     품사: 명사
     항목ID: 38169
-processed:
+result:
   맞춤법 검사:
     표제어: 꼭짓점
     품사: 명사
 ---
 000_KEYWORD: 꼰대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3805,13 +3805,13 @@ imported:
     표제어: 꼰대
     품사: 명사:보통:비서술성
     항목ID: 4503
-processed:
+result:
   맞춤법 검사:
     표제어: 꼰대
     품사: 명사
 ---
 000_KEYWORD: 꼴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14182
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3865,13 +3865,13 @@ imported:
     표제어: 꼴
     품사: 명사
     항목ID: 14182
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴
     품사: 명사
 ---
 000_KEYWORD: 꼴__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26543
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3901,13 +3901,13 @@ imported:
     표제어: 꼴
     품사: 명사
     항목ID: 26543
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴
     품사: 명사
 ---
 000_KEYWORD: 꼴값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26544
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3951,13 +3951,13 @@ imported:
     - 발음: 꼴깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/26544_kkolkkamman.wav
       형태: 꼴값만
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴값
     품사: 명사
 ---
 000_KEYWORD: 꼴값하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38151
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3991,13 +3991,13 @@ imported:
     표제어: 꼴값하다
     품사: 동사
     항목ID: 38151
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴값하다
     품사: 동사
 ---
 000_KEYWORD: 꼴같잖다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38159
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4041,13 +4041,13 @@ imported:
       형태: 꼴같잖고
     - 발음: 꼴갇짠치
       형태: 꼴같잖지
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴같잖다
     품사: 형용사
 ---
 000_KEYWORD: 꼴까닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89903
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4097,13 +4097,13 @@ imported:
     표제어: 꼴까닥
     품사: 부사
     항목ID: 89903
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴까닥
     품사: 부사
 ---
 000_KEYWORD: 꼴깍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38181
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4153,13 +4153,13 @@ imported:
     표제어: 꼴깍
     품사: 부사
     항목ID: 38181
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴깍
     품사: 부사
 ---
 000_KEYWORD: 꼴깍하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38179
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4193,13 +4193,13 @@ imported:
     표제어: 꼴깍하다
     품사: 동사
     항목ID: 38179
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴깍하다
     품사: 동사
 ---
 000_KEYWORD: 꼴딱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38185
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4249,13 +4249,13 @@ imported:
     표제어: 꼴딱
     품사: 부사
     항목ID: 38185
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴딱
     품사: 부사
 ---
 000_KEYWORD: 꼴뚜기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38184
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4286,13 +4286,13 @@ imported:
     표제어: 꼴뚜기
     품사: 명사
     항목ID: 38184
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴뚜기
     품사: 명사
 ---
 000_KEYWORD: 꼴리다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4302,13 +4302,13 @@ imported:
     표제어: 꼴리다
     품사: 동사
     항목ID: 4506
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴리다
     품사: 동사
 ---
 000_KEYWORD: 꼴불견__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38173
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4338,13 +4338,13 @@ imported:
     표제어: 꼴불견
     품사: 명사
     항목ID: 38173
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴불견
     품사: 명사
 ---
 000_KEYWORD: 꼴사납다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38175
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4383,7 +4383,7 @@ imported:
       형태: 꼴사나우니
     - 발음: 꼴사납씀니다
       형태: 꼴사납습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -4391,7 +4391,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 꼴좋다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4401,13 +4401,13 @@ imported:
     표제어: 꼴좋다
     품사: 형용사
     항목ID: 4509
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴좋다
     품사: 형용사
 ---
 000_KEYWORD: 꼴찌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26546
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4435,13 +4435,13 @@ imported:
     표제어: 꼴찌
     품사: 명사
     항목ID: 26546
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴찌
     품사: 명사
 ---
 000_KEYWORD: 꼴통__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4451,13 +4451,13 @@ imported:
     표제어: 꼴통
     품사: 명사:보통:비서술성
     항목ID: 4511
-processed:
+result:
   맞춤법 검사:
     표제어: 꼴통
     품사: 명사
 ---
 000_KEYWORD: 꼼꼼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38192
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4488,13 +4488,13 @@ imported:
     표제어: 꼼꼼
     품사: 부사
     항목ID: 38192
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼꼼
     품사: 부사
 ---
 000_KEYWORD: 꼼꼼하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37863
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4537,13 +4537,13 @@ imported:
       형태: 꼼꼼하니
     - 발음: 꼼꼼함니다
       형태: 꼼꼼합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼꼼하다
     품사: 형용사
 ---
 000_KEYWORD: 꼼꼼히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38195
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4576,13 +4576,13 @@ imported:
     표제어: 꼼꼼히
     품사: 부사
     항목ID: 38195
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼꼼히
     품사: 부사
 ---
 000_KEYWORD: 꼼수__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4591,13 +4591,13 @@ imported:
     표제어: 꼼수
     품사: 명사:보통:비서술성
     항목ID: 4514
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼수
     품사: 명사
 ---
 000_KEYWORD: 꼼지락거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38191
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4639,13 +4639,13 @@ imported:
     표제어: 꼼지락거리다
     품사: 동사
     항목ID: 38191
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼지락거리다
     품사: 동사
 ---
 000_KEYWORD: 꼼지락꼼지락__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38188
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4677,13 +4677,13 @@ imported:
     표제어: 꼼지락꼼지락
     품사: 부사
     항목ID: 38188
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼지락꼼지락
     품사: 부사
 ---
 000_KEYWORD: 꼼지락꼼지락하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88738
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4721,13 +4721,13 @@ imported:
     표제어: 꼼지락꼼지락하다
     품사: 동사
     항목ID: 88738
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼지락꼼지락하다
     품사: 동사
 ---
 000_KEYWORD: 꼼지락대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88739
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4765,13 +4765,13 @@ imported:
     표제어: 꼼지락대다
     품사: 동사
     항목ID: 88739
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼지락대다
     품사: 동사
 ---
 000_KEYWORD: 꼼지락하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88740
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4799,13 +4799,13 @@ imported:
     표제어: 꼼지락하다
     품사: 동사
     항목ID: 88740
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼지락하다
     품사: 동사
 ---
 000_KEYWORD: 꼼짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14183
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4832,13 +4832,13 @@ imported:
     표제어: 꼼짝
     품사: 부사
     항목ID: 14183
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼짝
     품사: 부사
 ---
 000_KEYWORD: 꼼짝달싹__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38174
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4865,13 +4865,13 @@ imported:
     표제어: 꼼짝달싹
     품사: 부사
     항목ID: 38174
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼짝달싹
     품사: 부사
 ---
 000_KEYWORD: 꼼짝없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89904
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4919,13 +4919,13 @@ imported:
     - 발음: 꼼짜겁찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/89904_kkomjjageopjji.wav
       형태: 꼼짝없지
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼짝없다
     품사: 형용사
 ---
 000_KEYWORD: 꼼짝없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38198
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4952,13 +4952,13 @@ imported:
     표제어: 꼼짝없이
     품사: 부사
     항목ID: 38198
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼짝없이
     품사: 부사
 ---
 000_KEYWORD: 꼼짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38213
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4983,13 +4983,13 @@ imported:
     표제어: 꼼짝하다
     품사: 동사
     항목ID: 38213
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼짝하다
     품사: 동사
 ---
 000_KEYWORD: 꼼틀꼼틀__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38211
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5013,13 +5013,13 @@ imported:
     표제어: 꼼틀꼼틀
     품사: 부사
     항목ID: 38211
-processed:
+result:
   맞춤법 검사:
     표제어: 꼼틀꼼틀
     품사: 부사
 ---
 000_KEYWORD: 꼽다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38210
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5069,7 +5069,7 @@ imported:
     - 발음: 꼼는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38210_kkomneun.wav
       형태: 꼽는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -5077,7 +5077,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 꼽사리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5086,13 +5086,13 @@ imported:
     표제어: 꼽사리
     품사: 명사:보통:서술성
     항목ID: 4517
-processed:
+result:
   맞춤법 검사:
     표제어: 꼽사리
     품사: 명사
 ---
 000_KEYWORD: 꼽추__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38204
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5119,13 +5119,13 @@ imported:
     표제어: 꼽추
     품사: 명사
     항목ID: 38204
-processed:
+result:
   맞춤법 검사:
     표제어: 꼽추
     품사: 명사
 ---
 000_KEYWORD: 꼽히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14411
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5177,13 +5177,13 @@ imported:
     - 발음: 꼬피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14411_kkopini.wav
       형태: 꼽히니
-processed:
+result:
   맞춤법 검사:
     표제어: 꼽히다
     품사: 동사
 ---
 000_KEYWORD: 꼿꼿이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38209
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5224,13 +5224,13 @@ imported:
     표제어: 꼿꼿이
     품사: 부사
     항목ID: 38209
-processed:
+result:
   맞춤법 검사:
     표제어: 꼿꼿이
     품사: 부사
 ---
 000_KEYWORD: 꼿꼿하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38200
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5291,13 +5291,13 @@ imported:
       형태: 꼿꼿하니
     - 발음: 꼳꼬탐니다
       형태: 꼿꼿합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꼿꼿하다
     품사: 형용사
 ---
 000_KEYWORD: 꽁꽁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38208
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5338,13 +5338,13 @@ imported:
     표제어: 꽁꽁
     품사: 부사
     항목ID: 38208
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁꽁
     품사: 부사
 ---
 000_KEYWORD: 꽁무니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90887
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5390,13 +5390,13 @@ imported:
     표제어: 꽁무니
     품사: 명사
     항목ID: 90887
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁무니
     품사: 명사
 ---
 000_KEYWORD: 꽁보리밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26547
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5437,13 +5437,13 @@ imported:
     - 발음: 꽁보리밤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/26547_kkongboribamman.wav
       형태: 꽁보리밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁보리밥
     품사: 명사
 ---
 000_KEYWORD: 꽁생원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26548
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5471,13 +5471,13 @@ imported:
     표제어: 꽁생원
     품사: 명사
     항목ID: 26548
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁생원
     품사: 명사
 ---
 000_KEYWORD: 꽁지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38207
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5522,13 +5522,13 @@ imported:
     표제어: 꽁지
     품사: 명사
     항목ID: 38207
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁지
     품사: 명사
 ---
 000_KEYWORD: 꽁초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38205
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5559,13 +5559,13 @@ imported:
     표제어: 꽁초
     품사: 명사
     항목ID: 38205
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁초
     품사: 명사
 ---
 000_KEYWORD: 꽁치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26551
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5596,13 +5596,13 @@ imported:
     표제어: 꽁치
     품사: 명사
     항목ID: 26551
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁치
     품사: 명사
 ---
 000_KEYWORD: 꽁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38215
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5632,13 +5632,13 @@ imported:
     표제어: 꽁하다
     품사: 동사
     항목ID: 38215
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁하다
     품사: 동사
 ---
 000_KEYWORD: 꽁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38217
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5682,13 +5682,13 @@ imported:
       형태: 꽁하니
     - 발음: 꽁함니다
       형태: 꽁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 꽁하다
     품사: 형용사
 ---
 000_KEYWORD: 꽂다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14413
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5770,13 +5770,13 @@ imported:
     - 발음: 꼰는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14413_kkonneun.wav
       형태: 꽂는
-processed:
+result:
   맞춤법 검사:
     표제어: 꽂다
     품사: 동사
 ---
 000_KEYWORD: 꽂히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38216
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5840,13 +5840,13 @@ imported:
     - 발음: 꼬치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38216_kkochini.wav
       형태: 꽂히니
-processed:
+result:
   맞춤법 검사:
     표제어: 꽂히다
     품사: 동사
 ---
 000_KEYWORD: 꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62838
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5947,13 +5947,13 @@ imported:
     - 발음: 꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/62838_kkonman.wav
       형태: 꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃
     품사: 명사
 ---
 000_KEYWORD: 꽃가루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38214
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5979,13 +5979,13 @@ imported:
     표제어: 꽃가루
     품사: 명사
     항목ID: 38214
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃가루
     품사: 명사
 ---
 000_KEYWORD: 꽃가마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26554
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6014,13 +6014,13 @@ imported:
     표제어: 꽃가마
     품사: 명사
     항목ID: 26554
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃가마
     품사: 명사
 ---
 000_KEYWORD: 꽃가지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26555
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6047,13 +6047,13 @@ imported:
     표제어: 꽃가지
     품사: 명사
     항목ID: 26555
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃가지
     품사: 명사
 ---
 000_KEYWORD: 꽃게__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38212
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6083,13 +6083,13 @@ imported:
     표제어: 꽃게
     품사: 명사
     항목ID: 38212
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃게
     품사: 명사
 ---
 000_KEYWORD: 꽃구경__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6099,13 +6099,13 @@ imported:
     표제어: 꽃구경
     품사: 명사:보통:서술성
     항목ID: 4532
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃구경
     품사: 명사
 ---
 000_KEYWORD: 꽃길__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6115,13 +6115,13 @@ imported:
     표제어: 꽃길
     품사: 명사:보통:서술성
     항목ID: 4533
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃길
     품사: 명사
 ---
 000_KEYWORD: 꽃꽂이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38224
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6148,13 +6148,13 @@ imported:
     표제어: 꽃꽂이
     품사: 명사
     항목ID: 38224
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃꽂이
     품사: 명사
 ---
 000_KEYWORD: 꽃꽂이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89905
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6180,13 +6180,13 @@ imported:
     표제어: 꽃꽂이하다
     품사: 동사
     항목ID: 89905
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃꽂이하다
     품사: 동사
 ---
 000_KEYWORD: 꽃나무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26556
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6232,13 +6232,13 @@ imported:
     표제어: 꽃나무
     품사: 명사
     항목ID: 26556
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃나무
     품사: 명사
 ---
 000_KEYWORD: 꽃눈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38226
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6266,13 +6266,13 @@ imported:
     표제어: 꽃눈
     품사: 명사
     항목ID: 38226
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃눈
     품사: 명사
 ---
 000_KEYWORD: 꽃다발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38220
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6304,13 +6304,13 @@ imported:
     표제어: 꽃다발
     품사: 명사
     항목ID: 38220
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃다발
     품사: 명사
 ---
 000_KEYWORD: 꽃답다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38238
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6342,7 +6342,7 @@ imported:
     활용:
     - 발음: 꼳따운
       형태: 꽃다운
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -6350,7 +6350,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 꽃대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26559
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6376,13 +6376,13 @@ imported:
     표제어: 꽃대
     품사: 명사
     항목ID: 26559
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃대
     품사: 명사
 ---
 000_KEYWORD: 꽃동산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38234
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6426,13 +6426,13 @@ imported:
     표제어: 꽃동산
     품사: 명사
     항목ID: 38234
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃동산
     품사: 명사
 ---
 000_KEYWORD: 꽃등__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26560
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6462,13 +6462,13 @@ imported:
     표제어: 꽃등
     품사: 명사
     항목ID: 26560
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃등
     품사: 명사
 ---
 000_KEYWORD: 꽃말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38236
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6496,13 +6496,13 @@ imported:
     표제어: 꽃말
     품사: 명사
     항목ID: 38236
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃말
     품사: 명사
 ---
 000_KEYWORD: 꽃망울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17505
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6537,13 +6537,13 @@ imported:
     표제어: 꽃망울
     품사: 명사
     항목ID: 17505
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃망울
     품사: 명사
 ---
 000_KEYWORD: 꽃매미__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6553,13 +6553,13 @@ imported:
     표제어: 꽃매미
     품사: 명사:보통:비서술성
     항목ID: 4544
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃매미
     품사: 명사
 ---
 000_KEYWORD: 꽃모종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38230
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6591,13 +6591,13 @@ imported:
     표제어: 꽃모종
     품사: 명사
     항목ID: 38230
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃모종
     품사: 명사
 ---
 000_KEYWORD: 꽃무늬__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38232
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6631,13 +6631,13 @@ imported:
     표제어: 꽃무늬
     품사: 명사
     항목ID: 38232
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃무늬
     품사: 명사
 ---
 000_KEYWORD: 꽃물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38229
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6663,13 +6663,13 @@ imported:
     표제어: 꽃물
     품사: 명사
     항목ID: 38229
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃물
     품사: 명사
 ---
 000_KEYWORD: 꽃바구니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38223
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6699,13 +6699,13 @@ imported:
     표제어: 꽃바구니
     품사: 명사
     항목ID: 38223
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃바구니
     품사: 명사
 ---
 000_KEYWORD: 꽃바람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38219
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6732,13 +6732,13 @@ imported:
     표제어: 꽃바람
     품사: 명사
     항목ID: 38219
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃바람
     품사: 명사
 ---
 000_KEYWORD: 꽃받침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38243
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6765,13 +6765,13 @@ imported:
     표제어: 꽃받침
     품사: 명사
     항목ID: 38243
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃받침
     품사: 명사
 ---
 000_KEYWORD: 꽃밭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38241
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6823,13 +6823,13 @@ imported:
       형태: 꽃밭을
     - 발음: 꼳반만
       형태: 꽃밭만
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃밭
     품사: 명사
 ---
 000_KEYWORD: 꽃뱀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38258
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6872,13 +6872,13 @@ imported:
     표제어: 꽃뱀
     품사: 명사
     항목ID: 38258
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃뱀
     품사: 명사
 ---
 000_KEYWORD: 꽃병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38260
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6916,13 +6916,13 @@ imported:
     표제어: 꽃병
     품사: 명사
     항목ID: 38260
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃병
     품사: 명사
 ---
 000_KEYWORD: 꽃봉오리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17518
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6962,13 +6962,13 @@ imported:
     표제어: 꽃봉오리
     품사: 명사
     항목ID: 17518
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃봉오리
     품사: 명사
 ---
 000_KEYWORD: 꽃봉우리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38253
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6981,10 +6981,10 @@ imported:
     표제어: 꽃봉우리
     품사: 명사
     항목ID: 38253
-processed: {}
+result: {}
 ---
 000_KEYWORD: 꽃분홍색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38255
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7021,13 +7021,13 @@ imported:
     - 발음: 꼳뿐홍생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/07000/38255_kkotppunhongsaengman.wav
       형태: 꽃분홍색만
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃분홍색
     품사: 명사
 ---
 000_KEYWORD: 꽃비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38257
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7067,13 +7067,13 @@ imported:
     표제어: 꽃비
     품사: 명사
     항목ID: 38257
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃비
     품사: 명사
 ---
 000_KEYWORD: 꽃빵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38252
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7101,13 +7101,13 @@ imported:
     표제어: 꽃빵
     품사: 명사
     항목ID: 38252
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃빵
     품사: 명사
 ---
 000_KEYWORD: 꽃사슴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38250
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7134,13 +7134,13 @@ imported:
     표제어: 꽃사슴
     품사: 명사
     항목ID: 38250
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃사슴
     품사: 명사
 ---
 000_KEYWORD: 꽃삽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17522
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7181,13 +7181,13 @@ imported:
     - 발음: 꼳쌈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/17522_kkotssamman.wav
       형태: 꽃삽만
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃삽
     품사: 명사
 ---
 000_KEYWORD: 꽃상여__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17526
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7218,13 +7218,13 @@ imported:
     표제어: 꽃상여
     품사: 명사
     항목ID: 17526
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃상여
     품사: 명사
 ---
 000_KEYWORD: 꽃샘__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7234,13 +7234,13 @@ imported:
     표제어: 꽃샘
     품사: 명사:보통:서술성
     항목ID: 4552
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃샘
     품사: 명사
 ---
 000_KEYWORD: 꽃샘바람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38249
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7267,13 +7267,13 @@ imported:
     표제어: 꽃샘바람
     품사: 명사
     항목ID: 38249
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃샘바람
     품사: 명사
 ---
 000_KEYWORD: 꽃샘추위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38246
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7302,13 +7302,13 @@ imported:
     표제어: 꽃샘추위
     품사: 명사
     항목ID: 38246
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃샘추위
     품사: 명사
 ---
 000_KEYWORD: 꽃송이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38245
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7335,13 +7335,13 @@ imported:
     표제어: 꽃송이
     품사: 명사
     항목ID: 38245
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃송이
     품사: 명사
 ---
 000_KEYWORD: 꽃술__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38263
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7372,13 +7372,13 @@ imported:
     표제어: 꽃술
     품사: 명사
     항목ID: 38263
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃술
     품사: 명사
 ---
 000_KEYWORD: 꽃술__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38261
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7404,13 +7404,13 @@ imported:
     표제어: 꽃술
     품사: 명사
     항목ID: 38261
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃술
     품사: 명사
 ---
 000_KEYWORD: 꽃신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17531
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7437,13 +7437,13 @@ imported:
     표제어: 꽃신
     품사: 명사
     항목ID: 17531
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃신
     품사: 명사
 ---
 000_KEYWORD: 꽃씨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14646
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7471,13 +7471,13 @@ imported:
     표제어: 꽃씨
     품사: 명사
     항목ID: 14646
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃씨
     품사: 명사
 ---
 000_KEYWORD: 꽃잎__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38273
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7516,13 +7516,13 @@ imported:
     - 발음: 꼰님만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38273_kkonnimman.wav
       형태: 꽃잎만
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃잎
     품사: 명사
 ---
 000_KEYWORD: 꽃줄기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17533
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7549,13 +7549,13 @@ imported:
     표제어: 꽃줄기
     품사: 명사
     항목ID: 17533
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃줄기
     품사: 명사
 ---
 000_KEYWORD: 꽃집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38277
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7594,13 +7594,13 @@ imported:
     - 발음: 꼳찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38277_kkotjjimman.wav
       형태: 꽃집만
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃집
     품사: 명사
 ---
 000_KEYWORD: 꽃향기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38270
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7630,7 +7630,7 @@ imported:
     표제어: 꽃향기
     품사: 명사
     항목ID: 38270
-processed:
+result:
   맞춤법 검사:
     표제어: 꽃향기
     품사: 명사

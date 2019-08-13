@@ -1,5 +1,5 @@
 000_KEYWORD: -증__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91483
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -59,11 +59,11 @@ imported:
     표제어: -증
     품사: 접사
     항목ID: 91483
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -증__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88671
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -95,11 +95,11 @@ imported:
     표제어: -증
     품사: 접사
     항목ID: 88671
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 즈음__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76785
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -134,13 +134,13 @@ imported:
     표제어: 즈음
     품사: 의존 명사
     항목ID: 76785
-processed:
+result:
   맞춤법 검사:
     표제어: 즈음
     품사: 의존 명사
 ---
 000_KEYWORD: 즈음하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76793
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -174,13 +174,13 @@ imported:
     표제어: 즈음하다
     품사: 동사
     항목ID: 76793
-processed:
+result:
   맞춤법 검사:
     표제어: 즈음하다
     품사: 동사
 ---
 000_KEYWORD: 즉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91875
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -218,13 +218,13 @@ imported:
     표제어: 즉
     품사: 부사
     항목ID: 91875
-processed:
+result:
   맞춤법 검사:
     표제어: 즉
     품사: 부사
 ---
 000_KEYWORD: 즉각__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76794
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -256,13 +256,13 @@ imported:
     표제어: 즉각
     품사: 부사
     항목ID: 76794
-processed:
+result:
   맞춤법 검사:
     표제어: 즉각
     품사: 부사
 ---
 000_KEYWORD: 즉각적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76795
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -295,13 +295,13 @@ imported:
     표제어: 즉각적
     품사: 관형사
     항목ID: 76795
-processed:
+result:
   맞춤법 검사:
     표제어: 즉각적
     품사: 관형사
 ---
 000_KEYWORD: 즉각적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76796
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -332,13 +332,13 @@ imported:
     표제어: 즉각적
     품사: 명사
     항목ID: 76796
-processed:
+result:
   맞춤법 검사:
     표제어: 즉각적
     품사: 명사
 ---
 000_KEYWORD: 즉결__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76797
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -380,13 +380,13 @@ imported:
     표제어: 즉결
     품사: 명사
     항목ID: 76797
-processed:
+result:
   맞춤법 검사:
     표제어: 즉결
     품사: 명사
 ---
 000_KEYWORD: 즉결되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77257
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -417,13 +417,13 @@ imported:
     표제어: 즉결되다
     품사: 동사
     항목ID: 77257
-processed:
+result:
   맞춤법 검사:
     표제어: 즉결되다
     품사: 동사
 ---
 000_KEYWORD: 즉결하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77258
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -452,13 +452,13 @@ imported:
     표제어: 즉결하다
     품사: 동사
     항목ID: 77258
-processed:
+result:
   맞춤법 검사:
     표제어: 즉결하다
     품사: 동사
 ---
 000_KEYWORD: 즉답__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -467,13 +467,13 @@ imported:
     표제어: 즉답
     품사: 명사:보통:서술성
     항목ID: 24867
-processed:
+result:
   맞춤법 검사:
     표제어: 즉답
     품사: 명사
 ---
 000_KEYWORD: 즉답하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -483,13 +483,13 @@ imported:
     표제어: 즉답하다
     품사: 동사
     항목ID: 24868
-processed:
+result:
   맞춤법 검사:
     표제어: 즉답하다
     품사: 동사
 ---
 000_KEYWORD: 즉사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77259
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -517,13 +517,13 @@ imported:
     표제어: 즉사
     품사: 명사
     항목ID: 77259
-processed:
+result:
   맞춤법 검사:
     표제어: 즉사
     품사: 명사
 ---
 000_KEYWORD: 즉사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77260
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -552,13 +552,13 @@ imported:
     표제어: 즉사하다
     품사: 동사
     항목ID: 77260
-processed:
+result:
   맞춤법 검사:
     표제어: 즉사하다
     품사: 동사
 ---
 000_KEYWORD: 즉석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27740
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -613,13 +613,13 @@ imported:
     - 발음: 즉썽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/27740_jeuksseongman.wav
       형태: 즉석만
-processed:
+result:
   맞춤법 검사:
     표제어: 즉석
     품사: 명사
 ---
 000_KEYWORD: 즉석요리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77262
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -646,13 +646,13 @@ imported:
     표제어: 즉석요리
     품사: 명사
     항목ID: 77262
-processed:
+result:
   맞춤법 검사:
     표제어: 즉석요리
     품사: 명사
 ---
 000_KEYWORD: 즉시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91876
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -682,13 +682,13 @@ imported:
     표제어: 즉시
     품사: 명사
     항목ID: 91876
-processed:
+result:
   맞춤법 검사:
     표제어: 즉시
     품사: 명사
 ---
 000_KEYWORD: 즉위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77306
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -722,13 +722,13 @@ imported:
     표제어: 즉위
     품사: 명사
     항목ID: 77306
-processed:
+result:
   맞춤법 검사:
     표제어: 즉위
     품사: 명사
 ---
 000_KEYWORD: 즉위하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77307
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -761,13 +761,13 @@ imported:
     표제어: 즉위하다
     품사: 동사
     항목ID: 77307
-processed:
+result:
   맞춤법 검사:
     표제어: 즉위하다
     품사: 동사
 ---
 000_KEYWORD: 즉효__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77313
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -808,13 +808,13 @@ imported:
     표제어: 즉효
     품사: 명사
     항목ID: 77313
-processed:
+result:
   맞춤법 검사:
     표제어: 즉효
     품사: 명사
 ---
 000_KEYWORD: 즉흥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77318
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -843,13 +843,13 @@ imported:
     표제어: 즉흥
     품사: 명사
     항목ID: 77318
-processed:
+result:
   맞춤법 검사:
     표제어: 즉흥
     품사: 명사
 ---
 000_KEYWORD: 즉흥곡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77321
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -888,13 +888,13 @@ imported:
     - 발음: 즈킁공만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/77321_jeukeunggongman.wav
       형태: 즉흥곡만
-processed:
+result:
   맞춤법 검사:
     표제어: 즉흥곡
     품사: 명사
 ---
 000_KEYWORD: 즉흥적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77324
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -923,13 +923,13 @@ imported:
     표제어: 즉흥적
     품사: 관형사
     항목ID: 77324
-processed:
+result:
   맞춤법 검사:
     표제어: 즉흥적
     품사: 관형사
 ---
 000_KEYWORD: 즉흥적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77331
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -960,13 +960,13 @@ imported:
     표제어: 즉흥적
     품사: 명사
     항목ID: 77331
-processed:
+result:
   맞춤법 검사:
     표제어: 즉흥적
     품사: 명사
 ---
 000_KEYWORD: 즐거움__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91877
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1002,13 +1002,13 @@ imported:
     표제어: 즐거움
     품사: 명사
     항목ID: 91877
-processed:
+result:
   맞춤법 검사:
     표제어: 즐거움
     품사: 명사
 ---
 000_KEYWORD: 즐거워하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27742
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1045,17 +1045,17 @@ imported:
     활용:
     - 형태: 즐거워하여
     - 형태: 즐거워하니
-processed:
+result:
   맞춤법 검사:
     표제어: 즐거워하다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 즐거이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77337
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1083,13 +1083,13 @@ imported:
     표제어: 즐거이
     품사: 부사
     항목ID: 77337
-processed:
+result:
   맞춤법 검사:
     표제어: 즐거이
     품사: 부사
 ---
 000_KEYWORD: 즐겁다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62101
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1131,7 +1131,7 @@ imported:
       형태: 즐거우니
     - 발음: 즐겁씀니다
       형태: 즐겁습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1139,7 +1139,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 즐기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91878
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1195,13 +1195,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/91878_jeulgiyeo.wav
       형태: 즐기어
     - 형태: 즐기니
-processed:
+result:
   맞춤법 검사:
     표제어: 즐기다
     품사: 동사
 ---
 000_KEYWORD: 즐비하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77385
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1248,13 +1248,13 @@ imported:
       형태: 즐비하니
     - 발음: 즐비함니다
       형태: 즐비합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 즐비하다
     품사: 형용사
 ---
 000_KEYWORD: 즘__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77686
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1287,13 +1287,13 @@ imported:
     표제어: 즘
     품사: 의존 명사
     항목ID: 77686
-processed:
+result:
   맞춤법 검사:
     표제어: 즘
     품사: 의존 명사
 ---
 000_KEYWORD: 즙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77386
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1338,13 +1338,13 @@ imported:
     - 발음: 즘만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/77386_jeumman.wav
       형태: 즙만
-processed:
+result:
   맞춤법 검사:
     표제어: 즙
     품사: 명사
 ---
 000_KEYWORD: 증가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27743
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1379,13 +1379,13 @@ imported:
     표제어: 증가
     품사: 명사
     항목ID: 27743
-processed:
+result:
   맞춤법 검사:
     표제어: 증가
     품사: 명사
 ---
 000_KEYWORD: 증가되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77387
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1422,13 +1422,13 @@ imported:
     표제어: 증가되다
     품사: 동사
     항목ID: 77387
-processed:
+result:
   맞춤법 검사:
     표제어: 증가되다
     품사: 동사
 ---
 000_KEYWORD: 증가량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77388
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1458,13 +1458,13 @@ imported:
     표제어: 증가량
     품사: 명사
     항목ID: 77388
-processed:
+result:
   맞춤법 검사:
     표제어: 증가량
     품사: 명사
 ---
 000_KEYWORD: 증가세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77399
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1497,13 +1497,13 @@ imported:
     표제어: 증가세
     품사: 명사
     항목ID: 77399
-processed:
+result:
   맞춤법 검사:
     표제어: 증가세
     품사: 명사
 ---
 000_KEYWORD: 증가시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84756
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1532,13 +1532,13 @@ imported:
     표제어: 증가시키다
     품사: 동사
     항목ID: 84756
-processed:
+result:
   맞춤법 검사:
     표제어: 증가시키다
     품사: 동사
 ---
 000_KEYWORD: 증가율__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77400
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1570,13 +1570,13 @@ imported:
     표제어: 증가율
     품사: 명사
     항목ID: 77400
-processed:
+result:
   맞춤법 검사:
     표제어: 증가율
     품사: 명사
 ---
 000_KEYWORD: 증가하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27744
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1611,13 +1611,13 @@ imported:
     표제어: 증가하다
     품사: 동사
     항목ID: 27744
-processed:
+result:
   맞춤법 검사:
     표제어: 증가하다
     품사: 동사
 ---
 000_KEYWORD: 증감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77401
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1646,13 +1646,13 @@ imported:
     표제어: 증감
     품사: 명사
     항목ID: 77401
-processed:
+result:
   맞춤법 검사:
     표제어: 증감
     품사: 명사
 ---
 000_KEYWORD: 증감되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77402
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1683,13 +1683,13 @@ imported:
     표제어: 증감되다
     품사: 동사
     항목ID: 77402
-processed:
+result:
   맞춤법 검사:
     표제어: 증감되다
     품사: 동사
 ---
 000_KEYWORD: 증감하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77403
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1720,13 +1720,13 @@ imported:
     표제어: 증감하다
     품사: 동사
     항목ID: 77403
-processed:
+result:
   맞춤법 검사:
     표제어: 증감하다
     품사: 동사
 ---
 000_KEYWORD: 증강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77404
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1758,13 +1758,13 @@ imported:
     표제어: 증강
     품사: 명사
     항목ID: 77404
-processed:
+result:
   맞춤법 검사:
     표제어: 증강
     품사: 명사
 ---
 000_KEYWORD: 증강되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77405
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1797,13 +1797,13 @@ imported:
     표제어: 증강되다
     품사: 동사
     항목ID: 77405
-processed:
+result:
   맞춤법 검사:
     표제어: 증강되다
     품사: 동사
 ---
 000_KEYWORD: 증강하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77406
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1833,13 +1833,13 @@ imported:
     표제어: 증강하다
     품사: 동사
     항목ID: 77406
-processed:
+result:
   맞춤법 검사:
     표제어: 증강하다
     품사: 동사
 ---
 000_KEYWORD: 증강현실__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1848,13 +1848,13 @@ imported:
     표제어: 증강현실
     품사: 명사:보통:서술성
     항목ID: 31922
-processed:
+result:
   맞춤법 검사:
     표제어: 증강현실
     품사: 명사
 ---
 000_KEYWORD: 증거__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27745
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1902,13 +1902,13 @@ imported:
     표제어: 증거
     품사: 명사
     항목ID: 27745
-processed:
+result:
   맞춤법 검사:
     표제어: 증거
     품사: 명사
 ---
 000_KEYWORD: 증거물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77408
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1944,13 +1944,13 @@ imported:
     표제어: 증거물
     품사: 명사
     항목ID: 77408
-processed:
+result:
   맞춤법 검사:
     표제어: 증거물
     품사: 명사
 ---
 000_KEYWORD: 증거인멸__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1960,13 +1960,13 @@ imported:
     표제어: 증거인멸
     품사: 명사:보통:서술성
     항목ID: 24887
-processed:
+result:
   맞춤법 검사:
     표제어: 증거인멸
     품사: 명사
 ---
 000_KEYWORD: 증거품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77409
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2000,13 +2000,13 @@ imported:
     표제어: 증거품
     품사: 명사
     항목ID: 77409
-processed:
+result:
   맞춤법 검사:
     표제어: 증거품
     품사: 명사
 ---
 000_KEYWORD: 증권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27746
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2055,13 +2055,13 @@ imported:
     표제어: 증권
     품사: 명사
     항목ID: 27746
-processed:
+result:
   맞춤법 검사:
     표제어: 증권
     품사: 명사
 ---
 000_KEYWORD: 증권가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77411
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2093,13 +2093,13 @@ imported:
     표제어: 증권가
     품사: 명사
     항목ID: 77411
-processed:
+result:
   맞춤법 검사:
     표제어: 증권가
     품사: 명사
 ---
 000_KEYWORD: 증권사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27749
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2128,13 +2128,13 @@ imported:
     표제어: 증권사
     품사: 명사
     항목ID: 27749
-processed:
+result:
   맞춤법 검사:
     표제어: 증권사
     품사: 명사
 ---
 000_KEYWORD: 증권투자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2143,13 +2143,13 @@ imported:
     표제어: 증권투자
     품사: 명사:보통:서술성
     항목ID: 24890
-processed:
+result:
   맞춤법 검사:
     표제어: 증권투자
     품사: 명사
 ---
 000_KEYWORD: 증기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77412
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2183,13 +2183,13 @@ imported:
     표제어: 증기
     품사: 명사
     항목ID: 77412
-processed:
+result:
   맞춤법 검사:
     표제어: 증기
     품사: 명사
 ---
 000_KEYWORD: 증기기관__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2198,13 +2198,13 @@ imported:
     표제어: 증기기관
     품사: 명사:보통:비서술성
     항목ID: 24892
-processed:
+result:
   맞춤법 검사:
     표제어: 증기기관
     품사: 명사
 ---
 000_KEYWORD: 증기탕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2214,13 +2214,13 @@ imported:
     표제어: 증기탕
     품사: 명사:보통:서술성
     항목ID: 24893
-processed:
+result:
   맞춤법 검사:
     표제어: 증기탕
     품사: 명사
 ---
 000_KEYWORD: 증대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77413
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2254,13 +2254,13 @@ imported:
     표제어: 증대
     품사: 명사
     항목ID: 77413
-processed:
+result:
   맞춤법 검사:
     표제어: 증대
     품사: 명사
 ---
 000_KEYWORD: 증대되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77414
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2293,13 +2293,13 @@ imported:
     표제어: 증대되다
     품사: 동사
     항목ID: 77414
-processed:
+result:
   맞춤법 검사:
     표제어: 증대되다
     품사: 동사
 ---
 000_KEYWORD: 증대하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77453
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2331,13 +2331,13 @@ imported:
     표제어: 증대하다
     품사: 동사
     항목ID: 77453
-processed:
+result:
   맞춤법 검사:
     표제어: 증대하다
     품사: 동사
 ---
 000_KEYWORD: 증류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77462
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2366,13 +2366,13 @@ imported:
     표제어: 증류
     품사: 명사
     항목ID: 77462
-processed:
+result:
   맞춤법 검사:
     표제어: 증류
     품사: 명사
 ---
 000_KEYWORD: 증류수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77494
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2401,13 +2401,13 @@ imported:
     표제어: 증류수
     품사: 명사
     항목ID: 77494
-processed:
+result:
   맞춤법 검사:
     표제어: 증류수
     품사: 명사
 ---
 000_KEYWORD: 증류하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77470
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2437,13 +2437,13 @@ imported:
     표제어: 증류하다
     품사: 동사
     항목ID: 77470
-processed:
+result:
   맞춤법 검사:
     표제어: 증류하다
     품사: 동사
 ---
 000_KEYWORD: 증명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77514
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2511,13 +2511,13 @@ imported:
     표제어: 증명
     품사: 명사
     항목ID: 77514
-processed:
+result:
   맞춤법 검사:
     표제어: 증명
     품사: 명사
 ---
 000_KEYWORD: 증명되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77525
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2578,13 +2578,13 @@ imported:
     표제어: 증명되다
     품사: 동사
     항목ID: 77525
-processed:
+result:
   맞춤법 검사:
     표제어: 증명되다
     품사: 동사
 ---
 000_KEYWORD: 증명사진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77534
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2613,13 +2613,13 @@ imported:
     표제어: 증명사진
     품사: 명사
     항목ID: 77534
-processed:
+result:
   맞춤법 검사:
     표제어: 증명사진
     품사: 명사
 ---
 000_KEYWORD: 증명서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77537
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2660,13 +2660,13 @@ imported:
     표제어: 증명서
     품사: 명사
     항목ID: 77537
-processed:
+result:
   맞춤법 검사:
     표제어: 증명서
     품사: 명사
 ---
 000_KEYWORD: 증명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27750
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2719,13 +2719,13 @@ imported:
     표제어: 증명하다
     품사: 동사
     항목ID: 27750
-processed:
+result:
   맞춤법 검사:
     표제어: 증명하다
     품사: 동사
 ---
 000_KEYWORD: 증발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77640
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2770,13 +2770,13 @@ imported:
     표제어: 증발
     품사: 명사
     항목ID: 77640
-processed:
+result:
   맞춤법 검사:
     표제어: 증발
     품사: 명사
 ---
 000_KEYWORD: 증발되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77641
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2824,13 +2824,13 @@ imported:
     표제어: 증발되다
     품사: 동사
     항목ID: 77641
-processed:
+result:
   맞춤법 검사:
     표제어: 증발되다
     품사: 동사
 ---
 000_KEYWORD: 증발시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84757
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2859,13 +2859,13 @@ imported:
     표제어: 증발시키다
     품사: 동사
     항목ID: 84757
-processed:
+result:
   맞춤법 검사:
     표제어: 증발시키다
     품사: 동사
 ---
 000_KEYWORD: 증발하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77642
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2913,13 +2913,13 @@ imported:
     표제어: 증발하다
     품사: 동사
     항목ID: 77642
-processed:
+result:
   맞춤법 검사:
     표제어: 증발하다
     품사: 동사
 ---
 000_KEYWORD: 증보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77643
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2947,13 +2947,13 @@ imported:
     표제어: 증보
     품사: 명사
     항목ID: 77643
-processed:
+result:
   맞춤법 검사:
     표제어: 증보
     품사: 명사
 ---
 000_KEYWORD: 증보판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77644
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2984,13 +2984,13 @@ imported:
     표제어: 증보판
     품사: 명사
     항목ID: 77644
-processed:
+result:
   맞춤법 검사:
     표제어: 증보판
     품사: 명사
 ---
 000_KEYWORD: 증빙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77645
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3021,13 +3021,13 @@ imported:
     표제어: 증빙
     품사: 명사
     항목ID: 77645
-processed:
+result:
   맞춤법 검사:
     표제어: 증빙
     품사: 명사
 ---
 000_KEYWORD: 증빙되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77646
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3058,13 +3058,13 @@ imported:
     표제어: 증빙되다
     품사: 동사
     항목ID: 77646
-processed:
+result:
   맞춤법 검사:
     표제어: 증빙되다
     품사: 동사
 ---
 000_KEYWORD: 증빙하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77647
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3093,13 +3093,13 @@ imported:
     표제어: 증빙하다
     품사: 동사
     항목ID: 77647
-processed:
+result:
   맞춤법 검사:
     표제어: 증빙하다
     품사: 동사
 ---
 000_KEYWORD: 증산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77648
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3134,13 +3134,13 @@ imported:
     표제어: 증산
     품사: 명사
     항목ID: 77648
-processed:
+result:
   맞춤법 검사:
     표제어: 증산
     품사: 명사
 ---
 000_KEYWORD: 증산되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77649
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3171,13 +3171,13 @@ imported:
     표제어: 증산되다
     품사: 동사
     항목ID: 77649
-processed:
+result:
   맞춤법 검사:
     표제어: 증산되다
     품사: 동사
 ---
 000_KEYWORD: 증산하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77650
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3207,13 +3207,13 @@ imported:
     표제어: 증산하다
     품사: 동사
     항목ID: 77650
-processed:
+result:
   맞춤법 검사:
     표제어: 증산하다
     품사: 동사
 ---
 000_KEYWORD: 증상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91880
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3251,13 +3251,13 @@ imported:
     표제어: 증상
     품사: 명사
     항목ID: 91880
-processed:
+result:
   맞춤법 검사:
     표제어: 증상
     품사: 명사
 ---
 000_KEYWORD: 증서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77657
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3289,13 +3289,13 @@ imported:
     표제어: 증서
     품사: 명사
     항목ID: 77657
-processed:
+result:
   맞춤법 검사:
     표제어: 증서
     품사: 명사
 ---
 000_KEYWORD: 증설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77658
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3324,13 +3324,13 @@ imported:
     표제어: 증설
     품사: 명사
     항목ID: 77658
-processed:
+result:
   맞춤법 검사:
     표제어: 증설
     품사: 명사
 ---
 000_KEYWORD: 증설되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77659
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3362,13 +3362,13 @@ imported:
     표제어: 증설되다
     품사: 동사
     항목ID: 77659
-processed:
+result:
   맞춤법 검사:
     표제어: 증설되다
     품사: 동사
 ---
 000_KEYWORD: 증설하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77665
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3398,13 +3398,13 @@ imported:
     표제어: 증설하다
     품사: 동사
     항목ID: 77665
-processed:
+result:
   맞춤법 검사:
     표제어: 증설하다
     품사: 동사
 ---
 000_KEYWORD: 증세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91879
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3441,13 +3441,13 @@ imported:
     표제어: 증세
     품사: 명사
     항목ID: 91879
-processed:
+result:
   맞춤법 검사:
     표제어: 증세
     품사: 명사
 ---
 000_KEYWORD: 증세__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77666
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3480,13 +3480,13 @@ imported:
     표제어: 증세
     품사: 명사
     항목ID: 77666
-processed:
+result:
   맞춤법 검사:
     표제어: 증세
     품사: 명사
 ---
 000_KEYWORD: 증손__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77667
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3518,13 +3518,13 @@ imported:
     표제어: 증손
     품사: 명사
     항목ID: 77667
-processed:
+result:
   맞춤법 검사:
     표제어: 증손
     품사: 명사
 ---
 000_KEYWORD: 증손녀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77668
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3552,13 +3552,13 @@ imported:
     표제어: 증손녀
     품사: 명사
     항목ID: 77668
-processed:
+result:
   맞춤법 검사:
     표제어: 증손녀
     품사: 명사
 ---
 000_KEYWORD: 증손자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77669
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3590,13 +3590,13 @@ imported:
     표제어: 증손자
     품사: 명사
     항목ID: 77669
-processed:
+result:
   맞춤법 검사:
     표제어: 증손자
     품사: 명사
 ---
 000_KEYWORD: 증시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77670
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3627,13 +3627,13 @@ imported:
     표제어: 증시
     품사: 명사
     항목ID: 77670
-processed:
+result:
   맞춤법 검사:
     표제어: 증시
     품사: 명사
 ---
 000_KEYWORD: 증식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77671
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3672,13 +3672,13 @@ imported:
     - 발음: 증싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/77671_jeungsingman.wav
       형태: 증식만
-processed:
+result:
   맞춤법 검사:
     표제어: 증식
     품사: 명사
 ---
 000_KEYWORD: 증식되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77672
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3711,13 +3711,13 @@ imported:
     표제어: 증식되다
     품사: 동사
     항목ID: 77672
-processed:
+result:
   맞춤법 검사:
     표제어: 증식되다
     품사: 동사
 ---
 000_KEYWORD: 증식하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77673
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3748,13 +3748,13 @@ imported:
     표제어: 증식하다
     품사: 동사
     항목ID: 77673
-processed:
+result:
   맞춤법 검사:
     표제어: 증식하다
     품사: 동사
 ---
 000_KEYWORD: 증액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91620
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3797,13 +3797,13 @@ imported:
     - 발음: 증앵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/91620_jeungaengman.wav
       형태: 증액만
-processed:
+result:
   맞춤법 검사:
     표제어: 증액
     품사: 명사
 ---
 000_KEYWORD: 증액되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91621
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3834,13 +3834,13 @@ imported:
     표제어: 증액되다
     품사: 동사
     항목ID: 91621
-processed:
+result:
   맞춤법 검사:
     표제어: 증액되다
     품사: 동사
 ---
 000_KEYWORD: 증액하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91622
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3873,13 +3873,13 @@ imported:
     표제어: 증액하다
     품사: 동사
     항목ID: 91622
-processed:
+result:
   맞춤법 검사:
     표제어: 증액하다
     품사: 동사
 ---
 000_KEYWORD: 증언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91623
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3907,13 +3907,13 @@ imported:
     표제어: 증언
     품사: 명사
     항목ID: 91623
-processed:
+result:
   맞춤법 검사:
     표제어: 증언
     품사: 명사
 ---
 000_KEYWORD: 증언하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91624
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3942,13 +3942,13 @@ imported:
     표제어: 증언하다
     품사: 동사
     항목ID: 91624
-processed:
+result:
   맞춤법 검사:
     표제어: 증언하다
     품사: 동사
 ---
 000_KEYWORD: 증여__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91625
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3983,13 +3983,13 @@ imported:
     표제어: 증여
     품사: 명사
     항목ID: 91625
-processed:
+result:
   맞춤법 검사:
     표제어: 증여
     품사: 명사
 ---
 000_KEYWORD: 증여되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91626
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4027,13 +4027,13 @@ imported:
     표제어: 증여되다
     품사: 동사
     항목ID: 91626
-processed:
+result:
   맞춤법 검사:
     표제어: 증여되다
     품사: 동사
 ---
 000_KEYWORD: 증여세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91628
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4059,13 +4059,13 @@ imported:
     표제어: 증여세
     품사: 명사
     항목ID: 91628
-processed:
+result:
   맞춤법 검사:
     표제어: 증여세
     품사: 명사
 ---
 000_KEYWORD: 증여하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91627
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4101,13 +4101,13 @@ imported:
     표제어: 증여하다
     품사: 동사
     항목ID: 91627
-processed:
+result:
   맞춤법 검사:
     표제어: 증여하다
     품사: 동사
 ---
 000_KEYWORD: 증오__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91629
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4136,13 +4136,13 @@ imported:
     표제어: 증오
     품사: 명사
     항목ID: 91629
-processed:
+result:
   맞춤법 검사:
     표제어: 증오
     품사: 명사
 ---
 000_KEYWORD: 증오감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91630
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4171,13 +4171,13 @@ imported:
     표제어: 증오감
     품사: 명사
     항목ID: 91630
-processed:
+result:
   맞춤법 검사:
     표제어: 증오감
     품사: 명사
 ---
 000_KEYWORD: 증오스럽다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4189,14 +4189,14 @@ imported:
     표제어: 증오스럽다
     품사: 형용사
     항목ID: 24925
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 증오스럽다
     품사: 형용사
 ---
 000_KEYWORD: 증오심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91631
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4224,13 +4224,13 @@ imported:
     표제어: 증오심
     품사: 명사
     항목ID: 91631
-processed:
+result:
   맞춤법 검사:
     표제어: 증오심
     품사: 명사
 ---
 000_KEYWORD: 증오하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91632
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4259,13 +4259,13 @@ imported:
     표제어: 증오하다
     품사: 동사
     항목ID: 91632
-processed:
+result:
   맞춤법 검사:
     표제어: 증오하다
     품사: 동사
 ---
 000_KEYWORD: 증원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91633
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4298,13 +4298,13 @@ imported:
     표제어: 증원
     품사: 명사
     항목ID: 91633
-processed:
+result:
   맞춤법 검사:
     표제어: 증원
     품사: 명사
 ---
 000_KEYWORD: 증원되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91634
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4335,13 +4335,13 @@ imported:
     표제어: 증원되다
     품사: 동사
     항목ID: 91634
-processed:
+result:
   맞춤법 검사:
     표제어: 증원되다
     품사: 동사
 ---
 000_KEYWORD: 증원하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91635
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4374,13 +4374,13 @@ imported:
     표제어: 증원하다
     품사: 동사
     항목ID: 91635
-processed:
+result:
   맞춤법 검사:
     표제어: 증원하다
     품사: 동사
 ---
 000_KEYWORD: 증인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91636
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4408,13 +4408,13 @@ imported:
     표제어: 증인
     품사: 명사
     항목ID: 91636
-processed:
+result:
   맞춤법 검사:
     표제어: 증인
     품사: 명사
 ---
 000_KEYWORD: 증인석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91637
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4452,13 +4452,13 @@ imported:
     - 발음: 증인성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/91637_jeunginseongman.wav
       형태: 증인석만
-processed:
+result:
   맞춤법 검사:
     표제어: 증인석
     품사: 명사
 ---
 000_KEYWORD: 증자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91638
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4488,13 +4488,13 @@ imported:
     표제어: 증자
     품사: 명사
     항목ID: 91638
-processed:
+result:
   맞춤법 검사:
     표제어: 증자
     품사: 명사
 ---
 000_KEYWORD: 증자되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91639
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4523,13 +4523,13 @@ imported:
     표제어: 증자되다
     품사: 동사
     항목ID: 91639
-processed:
+result:
   맞춤법 검사:
     표제어: 증자되다
     품사: 동사
 ---
 000_KEYWORD: 증자하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91640
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4558,13 +4558,13 @@ imported:
     표제어: 증자하다
     품사: 동사
     항목ID: 91640
-processed:
+result:
   맞춤법 검사:
     표제어: 증자하다
     품사: 동사
 ---
 000_KEYWORD: 증정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91641
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4600,13 +4600,13 @@ imported:
     표제어: 증정
     품사: 명사
     항목ID: 91641
-processed:
+result:
   맞춤법 검사:
     표제어: 증정
     품사: 명사
 ---
 000_KEYWORD: 증정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91642
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4644,13 +4644,13 @@ imported:
     표제어: 증정되다
     품사: 동사
     항목ID: 91642
-processed:
+result:
   맞춤법 검사:
     표제어: 증정되다
     품사: 동사
 ---
 000_KEYWORD: 증정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91643
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4686,13 +4686,13 @@ imported:
     표제어: 증정하다
     품사: 동사
     항목ID: 91643
-processed:
+result:
   맞춤법 검사:
     표제어: 증정하다
     품사: 동사
 ---
 000_KEYWORD: 증조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91644
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4731,13 +4731,13 @@ imported:
     표제어: 증조
     품사: 명사
     항목ID: 91644
-processed:
+result:
   맞춤법 검사:
     표제어: 증조
     품사: 명사
 ---
 000_KEYWORD: 증조모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91645
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4776,13 +4776,13 @@ imported:
     표제어: 증조모
     품사: 명사
     항목ID: 91645
-processed:
+result:
   맞춤법 검사:
     표제어: 증조모
     품사: 명사
 ---
 000_KEYWORD: 증조부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91646
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4821,13 +4821,13 @@ imported:
     표제어: 증조부
     품사: 명사
     항목ID: 91646
-processed:
+result:
   맞춤법 검사:
     표제어: 증조부
     품사: 명사
 ---
 000_KEYWORD: 증조부모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91647
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4855,13 +4855,13 @@ imported:
     표제어: 증조부모
     품사: 명사
     항목ID: 91647
-processed:
+result:
   맞춤법 검사:
     표제어: 증조부모
     품사: 명사
 ---
 000_KEYWORD: 증조할머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91648
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4897,13 +4897,13 @@ imported:
     표제어: 증조할머니
     품사: 명사
     항목ID: 91648
-processed:
+result:
   맞춤법 검사:
     표제어: 증조할머니
     품사: 명사
 ---
 000_KEYWORD: 증조할아버지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91649
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4942,13 +4942,13 @@ imported:
     표제어: 증조할아버지
     품사: 명사
     항목ID: 91649
-processed:
+result:
   맞춤법 검사:
     표제어: 증조할아버지
     품사: 명사
 ---
 000_KEYWORD: 증진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91650
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -4982,13 +4982,13 @@ imported:
     표제어: 증진
     품사: 명사
     항목ID: 91650
-processed:
+result:
   맞춤법 검사:
     표제어: 증진
     품사: 명사
 ---
 000_KEYWORD: 증진되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91651
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5023,13 +5023,13 @@ imported:
     표제어: 증진되다
     품사: 동사
     항목ID: 91651
-processed:
+result:
   맞춤법 검사:
     표제어: 증진되다
     품사: 동사
 ---
 000_KEYWORD: 증진하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91652
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5063,13 +5063,13 @@ imported:
     표제어: 증진하다
     품사: 동사
     항목ID: 91652
-processed:
+result:
   맞춤법 검사:
     표제어: 증진하다
     품사: 동사
 ---
 000_KEYWORD: 증축__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91653
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5107,13 +5107,13 @@ imported:
     - 발음: 증충만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/91653_jeungchungman.wav
       형태: 증축만
-processed:
+result:
   맞춤법 검사:
     표제어: 증축
     품사: 명사
 ---
 000_KEYWORD: 증축되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91654
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5144,13 +5144,13 @@ imported:
     표제어: 증축되다
     품사: 동사
     항목ID: 91654
-processed:
+result:
   맞춤법 검사:
     표제어: 증축되다
     품사: 동사
 ---
 000_KEYWORD: 증축하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91655
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5179,13 +5179,13 @@ imported:
     표제어: 증축하다
     품사: 동사
     항목ID: 91655
-processed:
+result:
   맞춤법 검사:
     표제어: 증축하다
     품사: 동사
 ---
 000_KEYWORD: 증편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91656
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5213,13 +5213,13 @@ imported:
     표제어: 증편
     품사: 명사
     항목ID: 91656
-processed:
+result:
   맞춤법 검사:
     표제어: 증편
     품사: 명사
 ---
 000_KEYWORD: 증편되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91657
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5248,13 +5248,13 @@ imported:
     표제어: 증편되다
     품사: 동사
     항목ID: 91657
-processed:
+result:
   맞춤법 검사:
     표제어: 증편되다
     품사: 동사
 ---
 000_KEYWORD: 증편하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91658
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5281,13 +5281,13 @@ imported:
     표제어: 증편하다
     품사: 동사
     항목ID: 91658
-processed:
+result:
   맞춤법 검사:
     표제어: 증편하다
     품사: 동사
 ---
 000_KEYWORD: 증폭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91659
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5336,13 +5336,13 @@ imported:
     - 발음: 증퐁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/91659_jeungpongman.wav
       형태: 증폭만
-processed:
+result:
   맞춤법 검사:
     표제어: 증폭
     품사: 명사
 ---
 000_KEYWORD: 증폭되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91660
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5385,13 +5385,13 @@ imported:
     표제어: 증폭되다
     품사: 동사
     항목ID: 91660
-processed:
+result:
   맞춤법 검사:
     표제어: 증폭되다
     품사: 동사
 ---
 000_KEYWORD: 증폭하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91661
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5430,13 +5430,13 @@ imported:
     표제어: 증폭하다
     품사: 동사
     항목ID: 91661
-processed:
+result:
   맞춤법 검사:
     표제어: 증폭하다
     품사: 동사
 ---
 000_KEYWORD: 증표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91662
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5464,13 +5464,13 @@ imported:
     표제어: 증표
     품사: 명사
     항목ID: 91662
-processed:
+result:
   맞춤법 검사:
     표제어: 증표
     품사: 명사
 ---
 000_KEYWORD: 증후__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91663
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5506,13 +5506,13 @@ imported:
     표제어: 증후
     품사: 명사
     항목ID: 91663
-processed:
+result:
   맞춤법 검사:
     표제어: 증후
     품사: 명사
 ---
 000_KEYWORD: 증후__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91664
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5540,13 +5540,13 @@ imported:
     표제어: 증후
     품사: 명사
     항목ID: 91664
-processed:
+result:
   맞춤법 검사:
     표제어: 증후
     품사: 명사
 ---
 000_KEYWORD: 증후군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91665
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -5579,7 +5579,7 @@ imported:
     표제어: 증후군
     품사: 명사
     항목ID: 91665
-processed:
+result:
   맞춤법 검사:
     표제어: 증후군
     품사: 명사

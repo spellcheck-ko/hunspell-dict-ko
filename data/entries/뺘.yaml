@@ -1,5 +1,5 @@
 000_KEYWORD: 뺨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61605
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -32,13 +32,13 @@ imported:
     표제어: 뺨
     품사: 명사
     항목ID: 61605
-processed:
+result:
   맞춤법 검사:
     표제어: 뺨
     품사: 명사
 ---
 000_KEYWORD: 뺨따귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61633
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -69,13 +69,13 @@ imported:
     표제어: 뺨따귀
     품사: 명사
     항목ID: 61633
-processed:
+result:
   맞춤법 검사:
     표제어: 뺨따귀
     품사: 명사
 ---
 000_KEYWORD: 뺨치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61634
     가져온 시각: '2019-08-13T01:51:03+09:00'
@@ -114,7 +114,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/61634_ppyamcheo.wav
       형태: 뺨쳐
     - 형태: 뺨치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뺨치다
     품사: 동사

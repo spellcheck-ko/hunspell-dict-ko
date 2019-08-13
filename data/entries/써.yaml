@@ -1,5 +1,5 @@
 000_KEYWORD: 써내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66610
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -32,13 +32,13 @@ imported:
     활용:
     - 형태: 써내어
     - 형태: 써내니
-processed:
+result:
   맞춤법 검사:
     표제어: 써내다
     품사: 동사
 ---
 000_KEYWORD: 써늘하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66613
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -118,13 +118,13 @@ imported:
       형태: 써늘하니
     - 발음: 써늘함니다
       형태: 써늘합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 써늘하다
     품사: 형용사
 ---
 000_KEYWORD: 써먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66621
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -163,17 +163,17 @@ imported:
     - 발음: 써멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66621_sseomeongneun.wav
       형태: 써먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 써먹다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 썩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16485
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -207,13 +207,13 @@ imported:
     표제어: 썩
     품사: 부사
     항목ID: 16485
-processed:
+result:
   맞춤법 검사:
     표제어: 썩
     품사: 부사
 ---
 000_KEYWORD: 썩다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65171
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -356,13 +356,13 @@ imported:
     - 발음: 썽는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/65171_sseongneun.wav
       형태: 썩는
-processed:
+result:
   맞춤법 검사:
     표제어: 썩다
     품사: 동사
 ---
 000_KEYWORD: 썩이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66620
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -407,13 +407,13 @@ imported:
     - 발음: 써기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66620_sseogini.wav
       형태: 썩이니
-processed:
+result:
   맞춤법 검사:
     표제어: 썩이다
     품사: 동사
 ---
 000_KEYWORD: 썩히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66622
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -486,13 +486,13 @@ imported:
     - 발음: 써키니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66622_sseokini.wav
       형태: 썩히니
-processed:
+result:
   맞춤법 검사:
     표제어: 썩히다
     품사: 동사
 ---
 000_KEYWORD: 썰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=29774
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -540,13 +540,13 @@ imported:
     - 발음: 썸ː니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/29774_sseom-nida.wav
       형태: 썹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 썰다
     품사: 동사
 ---
 000_KEYWORD: 썰렁하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16487
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -611,13 +611,13 @@ imported:
       형태: 썰렁하니
     - 발음: 썰렁함니다
       형태: 썰렁합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 썰렁하다
     품사: 형용사
 ---
 000_KEYWORD: 썰리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91960
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -658,13 +658,13 @@ imported:
     - 발음: 썰ː리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/91960_sseor-rini.wav
       형태: 썰리니
-processed:
+result:
   맞춤법 검사:
     표제어: 썰리다
     품사: 동사
 ---
 000_KEYWORD: 썰매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66623
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -711,13 +711,13 @@ imported:
     표제어: 썰매
     품사: 명사
     항목ID: 66623
-processed:
+result:
   맞춤법 검사:
     표제어: 썰매
     품사: 명사
 ---
 000_KEYWORD: 썰물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66624
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -756,7 +756,7 @@ imported:
     표제어: 썰물
     품사: 명사
     항목ID: 66624
-processed:
+result:
   맞춤법 검사:
     표제어: 썰물
     품사: 명사

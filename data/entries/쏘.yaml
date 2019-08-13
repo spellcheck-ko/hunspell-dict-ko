@@ -1,5 +1,5 @@
 000_KEYWORD: 쏘가리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9,13 +9,13 @@ imported:
     표제어: 쏘가리
     품사: 명사:보통:비서술성
     항목ID: 17005
-processed:
+result:
   맞춤법 검사:
     표제어: 쏘가리
     품사: 명사
 ---
 000_KEYWORD: 쏘다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62596
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -109,13 +109,13 @@ imported:
     - 발음: 쏘ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/62596_sso-ni.wav
       형태: 쏘니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏘다
     품사: 동사
 ---
 000_KEYWORD: 쏘다니다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66625
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -158,13 +158,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66625_ssodaniyeo.wav
       형태: 쏘다니어
     - 형태: 쏘다니니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏘다니다
     품사: 동사
 ---
 000_KEYWORD: 쏘아보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66626
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -200,13 +200,13 @@ imported:
     활용:
     - 형태: 쏘아보아
     - 형태: 쏘아보니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏘아보다
     품사: 동사
 ---
 000_KEYWORD: 쏘아붙이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66627
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -254,17 +254,17 @@ imported:
     - 발음: 쏘아부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66627_ssoabuchini.wav
       형태: 쏘아붙이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏘아붙이다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 쏘이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66628
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -306,13 +306,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66628_ssoiyeo.wav
       형태: 쏘이어
     - 형태: 쏘이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏘이다
     품사: 동사
 ---
 000_KEYWORD: 쏘이다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66629
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -366,13 +366,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66628_ssoiyeo.wav
       형태: 쏘이어
     - 형태: 쏘이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏘이다
     품사: 동사
 ---
 000_KEYWORD: 쏙__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66848
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -566,13 +566,13 @@ imported:
     표제어: 쏙
     품사: 부사
     항목ID: 66848
-processed:
+result:
   맞춤법 검사:
     표제어: 쏙
     품사: 부사
 ---
 000_KEYWORD: 쏙닥쏙닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66630
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -604,13 +604,13 @@ imported:
     표제어: 쏙닥쏙닥
     품사: 부사
     항목ID: 66630
-processed:
+result:
   맞춤법 검사:
     표제어: 쏙닥쏙닥
     품사: 부사
 ---
 000_KEYWORD: 쏙쏙__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66855
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -769,13 +769,13 @@ imported:
     표제어: 쏙쏙
     품사: 부사
     항목ID: 66855
-processed:
+result:
   맞춤법 검사:
     표제어: 쏙쏙
     품사: 부사
 ---
 000_KEYWORD: 쏜살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66631
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -803,13 +803,13 @@ imported:
     표제어: 쏜살
     품사: 명사
     항목ID: 66631
-processed:
+result:
   맞춤법 검사:
     표제어: 쏜살
     품사: 명사
 ---
 000_KEYWORD: 쏜살같다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66632
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -848,13 +848,13 @@ imported:
       형태: 쏜살같으니
     - 발음: 쏜살갇씀니다
       형태: 쏜살같습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쏜살같다
     품사: 형용사
 ---
 000_KEYWORD: 쏜살같이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66633
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -884,13 +884,13 @@ imported:
     표제어: 쏜살같이
     품사: 부사
     항목ID: 66633
-processed:
+result:
   맞춤법 검사:
     표제어: 쏜살같이
     품사: 부사
 ---
 000_KEYWORD: 쏟다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62333
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1000,7 +1000,7 @@ imported:
     - 발음: 쏜는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/62333_ssonneun.wav
       형태: 쏟는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1008,7 +1008,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 쏟아붓다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1021,14 +1021,14 @@ imported:
     표제어: 쏟아붓다
     품사: 동사
     항목ID: 17015
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 쏟아붓다
     품사: 동사
 ---
 000_KEYWORD: 쏟아지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71284
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1112,17 +1112,17 @@ imported:
     - 발음: 쏘다지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/71284_ssodajini.wav
       형태: 쏟아지니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏟아지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 쏠리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66634
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1173,13 +1173,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66634_ssolliyeo.wav
       형태: 쏠리어
     - 형태: 쏠리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏠리다
     품사: 동사
 ---
 000_KEYWORD: 쏠쏠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66635
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -1220,7 +1220,7 @@ imported:
       형태: 쏠쏠하니
     - 발음: 쏠쏠함니다
       형태: 쏠쏠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쏠쏠하다
     품사: 형용사

@@ -1,5 +1,5 @@
 000_KEYWORD: 헤__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87030
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -32,13 +32,13 @@ imported:
     표제어: 헤
     품사: 부사
     항목ID: 87030
-processed:
+result:
   맞춤법 검사:
     표제어: 헤
     품사: 부사
 ---
 000_KEYWORD: 헤게모니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87045
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -69,13 +69,13 @@ imported:
     표제어: 헤게모니
     품사: 명사
     항목ID: 87045
-processed:
+result:
   맞춤법 검사:
     표제어: 헤게모니
     품사: 명사
 ---
 000_KEYWORD: 헤다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86998
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -134,13 +134,13 @@ imported:
     - 발음: 헤ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/86998_he-ni.wav
       형태: 헤니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤다
     품사: 동사
 ---
 000_KEYWORD: 헤더__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -150,13 +150,13 @@ imported:
     표제어: 헤더
     품사: 명사:보통:비서술성
     항목ID: 30494
-processed:
+result:
   맞춤법 검사:
     표제어: 헤더
     품사: 명사
 ---
 000_KEYWORD: 헤드라이트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86988
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -199,13 +199,13 @@ imported:
     표제어: 헤드라이트
     품사: 명사
     항목ID: 86988
-processed:
+result:
   맞춤법 검사:
     표제어: 헤드라이트
     품사: 명사
 ---
 000_KEYWORD: 헤드라인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -215,13 +215,13 @@ imported:
     표제어: 헤드라인
     품사: 명사:보통:비서술성
     항목ID: 30495
-processed:
+result:
   맞춤법 검사:
     표제어: 헤드라인
     품사: 명사
 ---
 000_KEYWORD: 헤드폰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86974
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -254,13 +254,13 @@ imported:
     표제어: 헤드폰
     품사: 명사
     항목ID: 86974
-processed:
+result:
   맞춤법 검사:
     표제어: 헤드폰
     품사: 명사
 ---
 000_KEYWORD: 헤딩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86987
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -285,13 +285,13 @@ imported:
     표제어: 헤딩
     품사: 명사
     항목ID: 86987
-processed:
+result:
   맞춤법 검사:
     표제어: 헤딩
     품사: 명사
 ---
 000_KEYWORD: 헤라__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -301,13 +301,13 @@ imported:
     표제어: 헤라
     품사: 명사:고유
     항목ID: 30498
-processed:
+result:
   맞춤법 검사:
     표제어: 헤라
     품사: 명사
 ---
 000_KEYWORD: 헤라클레스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -318,13 +318,13 @@ imported:
     표제어: 헤라클레스
     품사: 명사:보통:서술성
     항목ID: 30499
-processed:
+result:
   맞춤법 검사:
     표제어: 헤라클레스
     품사: 명사
 ---
 000_KEYWORD: 헤로인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -334,13 +334,13 @@ imported:
     표제어: 헤로인
     품사: 명사:보통:서술성
     항목ID: 30500
-processed:
+result:
   맞춤법 검사:
     표제어: 헤로인
     품사: 명사
 ---
 000_KEYWORD: 헤르메스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -350,13 +350,13 @@ imported:
     표제어: 헤르메스
     품사: 명사:고유
     항목ID: 30501
-processed:
+result:
   맞춤법 검사:
     표제어: 헤르메스
     품사: 명사
 ---
 000_KEYWORD: 헤르츠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87046
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -383,13 +383,13 @@ imported:
     표제어: 헤르츠
     품사: 명사
     항목ID: 87046
-processed:
+result:
   맞춤법 검사:
     표제어: 헤르츠
     품사: 명사
 ---
 000_KEYWORD: 헤르츠__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -399,13 +399,13 @@ imported:
     표제어: 헤르츠
     품사: 명사:의존:단위성
     항목ID: 30502
-processed:
+result:
   맞춤법 검사:
     표제어: 헤르츠
     품사: 명사
 ---
 000_KEYWORD: 헤매다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86999
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -462,13 +462,13 @@ imported:
     활용:
     - 형태: 헤매어
     - 형태: 헤매니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤매다
     품사: 동사
 ---
 000_KEYWORD: 헤모글로빈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -478,13 +478,13 @@ imported:
     표제어: 헤모글로빈
     품사: 명사:보통:비서술성
     항목ID: 30504
-processed:
+result:
   맞춤법 검사:
     표제어: 헤모글로빈
     품사: 명사
 ---
 000_KEYWORD: 헤벌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87036
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -521,13 +521,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87036_hebeolliyeo.wav
       형태: 헤벌리어
     - 형태: 헤벌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌리다
     품사: 동사
 ---
 000_KEYWORD: 헤벌어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87037
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -567,7 +567,7 @@ imported:
     - 발음: 헤버러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87037_hebeoreojini.wav
       형태: 헤벌어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -575,7 +575,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 헤벌어지다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87038
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -620,7 +620,7 @@ imported:
       형태: 헤벌어지니
     - 발음: 헤버러짐니다
       형태: 헤벌어집니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -628,7 +628,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 헤벌쭉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87023
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -655,13 +655,13 @@ imported:
     표제어: 헤벌쭉
     품사: 부사
     항목ID: 87023
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌쭉
     품사: 부사
 ---
 000_KEYWORD: 헤벌쭉거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87024
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -693,13 +693,13 @@ imported:
     표제어: 헤벌쭉거리다
     품사: 동사
     항목ID: 87024
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌쭉거리다
     품사: 동사
 ---
 000_KEYWORD: 헤벌쭉대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87025
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -731,13 +731,13 @@ imported:
     표제어: 헤벌쭉대다
     품사: 동사
     항목ID: 87025
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌쭉대다
     품사: 동사
 ---
 000_KEYWORD: 헤벌쭉하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87026
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -765,13 +765,13 @@ imported:
     표제어: 헤벌쭉하다
     품사: 동사
     항목ID: 87026
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌쭉하다
     품사: 동사
 ---
 000_KEYWORD: 헤벌쭉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87027
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -810,13 +810,13 @@ imported:
       형태: 헤벌쭉하니
     - 발음: 헤벌쭈캄니다
       형태: 헤벌쭉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌쭉하다
     품사: 형용사
 ---
 000_KEYWORD: 헤벌쭉헤벌쭉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91993
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -842,13 +842,13 @@ imported:
     표제어: 헤벌쭉헤벌쭉
     품사: 부사
     항목ID: 91993
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌쭉헤벌쭉
     품사: 부사
 ---
 000_KEYWORD: 헤벌쭉헤벌쭉하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91994
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -876,13 +876,13 @@ imported:
     표제어: 헤벌쭉헤벌쭉하다
     품사: 동사
     항목ID: 91994
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌쭉헤벌쭉하다
     품사: 동사
 ---
 000_KEYWORD: 헤벌쭉헤벌쭉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91995
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -921,13 +921,13 @@ imported:
       형태: 헤벌쭉헤벌쭉하니
     - 발음: 헤벌쭈케벌쭈캄니다
       형태: 헤벌쭉헤벌쭉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 헤벌쭉헤벌쭉하다
     품사: 형용사
 ---
 000_KEYWORD: 헤비급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87047
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -960,13 +960,13 @@ imported:
     표제어: 헤비급
     품사: 명사
     항목ID: 87047
-processed:
+result:
   맞춤법 검사:
     표제어: 헤비급
     품사: 명사
 ---
 000_KEYWORD: 헤비메탈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -976,13 +976,13 @@ imported:
     표제어: 헤비메탈
     품사: 명사:보통:서술성
     항목ID: 30508
-processed:
+result:
   맞춤법 검사:
     표제어: 헤비메탈
     품사: 명사
 ---
 000_KEYWORD: 헤아리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87000
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1047,13 +1047,13 @@ imported:
     - 발음: 헤ː아리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87000_he-arini.wav
       형태: 헤아리니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤아리다
     품사: 동사
 ---
 000_KEYWORD: 헤어나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87039
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1084,17 +1084,17 @@ imported:
     활용:
     - 형태: 헤어나
     - 형태: 헤어나니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤어나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 헤어드라이어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86980
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1129,13 +1129,13 @@ imported:
     표제어: 헤어드라이어
     품사: 명사
     항목ID: 86980
-processed:
+result:
   맞춤법 검사:
     표제어: 헤어드라이어
     품사: 명사
 ---
 000_KEYWORD: 헤어스타일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86979
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1161,13 +1161,13 @@ imported:
     표제어: 헤어스타일
     품사: 명사
     항목ID: 86979
-processed:
+result:
   맞춤법 검사:
     표제어: 헤어스타일
     품사: 명사
 ---
 000_KEYWORD: 헤어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58271
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1273,17 +1273,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/58271_heeojeo.wav
       형태: 헤어져
     - 형태: 헤어지니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤어지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 헤엄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86983
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1311,13 +1311,13 @@ imported:
     표제어: 헤엄
     품사: 명사
     항목ID: 86983
-processed:
+result:
   맞춤법 검사:
     표제어: 헤엄
     품사: 명사
 ---
 000_KEYWORD: 헤엄치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86984
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1359,13 +1359,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/86984_heeomcheo.wav
       형태: 헤엄쳐
     - 형태: 헤엄치니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤엄치다
     품사: 동사
 ---
 000_KEYWORD: 헤이그__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1375,13 +1375,13 @@ imported:
     표제어: 헤이그
     품사: 명사:고유
     항목ID: 30514
-processed:
+result:
   맞춤법 검사:
     표제어: 헤이그
     품사: 명사
 ---
 000_KEYWORD: 헤이세이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1392,13 +1392,13 @@ imported:
     표제어: 헤이세이
     품사: 명사:보통:서술성
     항목ID: 30515
-processed:
+result:
   맞춤법 검사:
     표제어: 헤이세이
     품사: 명사
 ---
 000_KEYWORD: 헤지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87040
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1491,13 +1491,13 @@ imported:
     - 발음: 헤ː지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87040_he-jini.wav
       형태: 헤지니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤지다
     품사: 동사
 ---
 000_KEYWORD: 헤집다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87042
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1557,7 +1557,7 @@ imported:
     - 발음: 헤짐는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87042_hejimneun.wav
       형태: 헤집는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1565,7 +1565,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 헤치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87001
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1650,13 +1650,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/87001_hecheo.wav
       형태: 헤쳐
     - 형태: 헤치니
-processed:
+result:
   맞춤법 검사:
     표제어: 헤치다
     품사: 동사
 ---
 000_KEYWORD: 헤프다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87002
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1719,17 +1719,17 @@ imported:
       형태: 헤프니
     - 발음: 헤ː픔니다
       형태: 헤픕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 헤프다
     품사: 형용사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 으불규칙
 ---
 000_KEYWORD: 헤헤__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87031
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1765,13 +1765,13 @@ imported:
     표제어: 헤헤
     품사: 부사
     항목ID: 87031
-processed:
+result:
   맞춤법 검사:
     표제어: 헤헤
     품사: 부사
 ---
 000_KEYWORD: 헤헤거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87032
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1823,13 +1823,13 @@ imported:
     표제어: 헤헤거리다
     품사: 동사
     항목ID: 87032
-processed:
+result:
   맞춤법 검사:
     표제어: 헤헤거리다
     품사: 동사
 ---
 000_KEYWORD: 헤헤대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87033
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1881,13 +1881,13 @@ imported:
     표제어: 헤헤대다
     품사: 동사
     항목ID: 87033
-processed:
+result:
   맞춤법 검사:
     표제어: 헤헤대다
     품사: 동사
 ---
 000_KEYWORD: 헤헤하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87034
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1939,13 +1939,13 @@ imported:
     표제어: 헤헤하다
     품사: 동사
     항목ID: 87034
-processed:
+result:
   맞춤법 검사:
     표제어: 헤헤하다
     품사: 동사
 ---
 000_KEYWORD: 헥토파스칼__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1955,13 +1955,13 @@ imported:
     표제어: 헥토파스칼
     품사: 명사:의존:단위성
     항목ID: 30520
-processed:
+result:
   맞춤법 검사:
     표제어: 헥토파스칼
     품사: 명사
 ---
 000_KEYWORD: 헬기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86982
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1999,13 +1999,13 @@ imported:
     표제어: 헬기
     품사: 명사
     항목ID: 86982
-processed:
+result:
   맞춤법 검사:
     표제어: 헬기
     품사: 명사
 ---
 000_KEYWORD: 헬기장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2015,13 +2015,13 @@ imported:
     표제어: 헬기장
     품사: 명사:보통:비서술성
     항목ID: 30522
-processed:
+result:
   맞춤법 검사:
     표제어: 헬기장
     품사: 명사
 ---
 000_KEYWORD: 헬렐레__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2031,13 +2031,13 @@ imported:
     표제어: 헬렐레
     품사: 부사
     항목ID: 30523
-processed:
+result:
   맞춤법 검사:
     표제어: 헬렐레
     품사: 부사
 ---
 000_KEYWORD: 헬렐레하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2047,13 +2047,13 @@ imported:
     표제어: 헬렐레하다
     품사: 동사
     항목ID: 30524
-processed:
+result:
   맞춤법 검사:
     표제어: 헬렐레하다
     품사: 동사
 ---
 000_KEYWORD: 헬륨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2063,13 +2063,13 @@ imported:
     표제어: 헬륨
     품사: 명사:보통:서술성
     항목ID: 30525
-processed:
+result:
   맞춤법 검사:
     표제어: 헬륨
     품사: 명사
 ---
 000_KEYWORD: 헬리콥터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86981
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2105,13 +2105,13 @@ imported:
     표제어: 헬리콥터
     품사: 명사
     항목ID: 86981
-processed:
+result:
   맞춤법 검사:
     표제어: 헬리콥터
     품사: 명사
 ---
 000_KEYWORD: 헬멧__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86975
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2140,13 +2140,13 @@ imported:
     표제어: 헬멧
     품사: 명사
     항목ID: 86975
-processed:
+result:
   맞춤법 검사:
     표제어: 헬멧
     품사: 명사
 ---
 000_KEYWORD: 헬스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2157,13 +2157,13 @@ imported:
     표제어: 헬스
     품사: 명사:보통:서술성
     항목ID: 30528
-processed:
+result:
   맞춤법 검사:
     표제어: 헬스
     품사: 명사
 ---
 000_KEYWORD: 헬스장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86977
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2200,13 +2200,13 @@ imported:
     표제어: 헬스장
     품사: 명사
     항목ID: 86977
-processed:
+result:
   맞춤법 검사:
     표제어: 헬스장
     품사: 명사
 ---
 000_KEYWORD: 헬스클럽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86978
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2248,13 +2248,13 @@ imported:
     표제어: 헬스클럽
     품사: 명사
     항목ID: 86978
-processed:
+result:
   맞춤법 검사:
     표제어: 헬스클럽
     품사: 명사
 ---
 000_KEYWORD: 헷갈리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87035
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2314,13 +2314,13 @@ imported:
     - 발음: 헫깔리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87035_hetkkallini.wav
       형태: 헷갈리니
-processed:
+result:
   맞춤법 검사:
     표제어: 헷갈리다
     품사: 동사
 ---
 000_KEYWORD: 헹가래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87041
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2348,13 +2348,13 @@ imported:
     표제어: 헹가래
     품사: 명사
     항목ID: 87041
-processed:
+result:
   맞춤법 검사:
     표제어: 헹가래
     품사: 명사
 ---
 000_KEYWORD: 헹구다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87020
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2388,7 +2388,7 @@ imported:
     활용:
     - 형태: 헹구어
     - 형태: 헹구니
-processed:
+result:
   맞춤법 검사:
     표제어: 헹구다
     품사: 동사

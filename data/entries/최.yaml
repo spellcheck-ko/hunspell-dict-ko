@@ -1,5 +1,5 @@
 000_KEYWORD: 최-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90267
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -32,11 +32,11 @@ imported:
     표제어: 최-
     품사: 접사
     항목ID: 90267
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 최강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82524
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -66,13 +66,13 @@ imported:
     표제어: 최강
     품사: 명사
     항목ID: 82524
-processed:
+result:
   맞춤법 검사:
     표제어: 최강
     품사: 명사
 ---
 000_KEYWORD: 최강자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -81,13 +81,13 @@ imported:
     표제어: 최강자
     품사: 명사:보통:비서술성
     항목ID: 26656
-processed:
+result:
   맞춤법 검사:
     표제어: 최강자
     품사: 명사
 ---
 000_KEYWORD: 최고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82525
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -121,13 +121,13 @@ imported:
     표제어: 최고
     품사: 명사
     항목ID: 82525
-processed:
+result:
   맞춤법 검사:
     표제어: 최고
     품사: 명사
 ---
 000_KEYWORD: 최고__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47976
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -179,13 +179,13 @@ imported:
     표제어: 최고
     품사: 명사
     항목ID: 47976
-processed:
+result:
   맞춤법 검사:
     표제어: 최고
     품사: 명사
 ---
 000_KEYWORD: 최고가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82526
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -219,13 +219,13 @@ imported:
     표제어: 최고가
     품사: 명사
     항목ID: 82526
-processed:
+result:
   맞춤법 검사:
     표제어: 최고가
     품사: 명사
 ---
 000_KEYWORD: 최고급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=25559
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -279,13 +279,13 @@ imported:
     - 발음: 췌ː고금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/25559_chwe-gogeumman.wav
       형태: 최고급만
-processed:
+result:
   맞춤법 검사:
     표제어: 최고급
     품사: 명사
 ---
 000_KEYWORD: 최고도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82527
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -315,13 +315,13 @@ imported:
     표제어: 최고도
     품사: 명사
     항목ID: 82527
-processed:
+result:
   맞춤법 검사:
     표제어: 최고도
     품사: 명사
 ---
 000_KEYWORD: 최고령__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82528
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -356,13 +356,13 @@ imported:
     표제어: 최고령
     품사: 명사
     항목ID: 82528
-processed:
+result:
   맞춤법 검사:
     표제어: 최고령
     품사: 명사
 ---
 000_KEYWORD: 최고봉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82529
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -406,13 +406,13 @@ imported:
     표제어: 최고봉
     품사: 명사
     항목ID: 82529
-processed:
+result:
   맞춤법 검사:
     표제어: 최고봉
     품사: 명사
 ---
 000_KEYWORD: 최고액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82530
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -461,13 +461,13 @@ imported:
     - 발음: 췌ː고앵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/82530_chwe-goaengman.wav
       형태: 최고액만
-processed:
+result:
   맞춤법 검사:
     표제어: 최고액
     품사: 명사
 ---
 000_KEYWORD: 최고위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82531
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -497,13 +497,13 @@ imported:
     표제어: 최고위
     품사: 명사
     항목ID: 82531
-processed:
+result:
   맞춤법 검사:
     표제어: 최고위
     품사: 명사
 ---
 000_KEYWORD: 최고위층__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -513,13 +513,13 @@ imported:
     표제어: 최고위층
     품사: 명사:보통:서술성
     항목ID: 26661
-processed:
+result:
   맞춤법 검사:
     표제어: 최고위층
     품사: 명사
 ---
 000_KEYWORD: 최고점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82532
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -558,13 +558,13 @@ imported:
     표제어: 최고점
     품사: 명사
     항목ID: 82532
-processed:
+result:
   맞춤법 검사:
     표제어: 최고점
     품사: 명사
 ---
 000_KEYWORD: 최고조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82534
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -592,13 +592,13 @@ imported:
     표제어: 최고조
     품사: 명사
     항목ID: 82534
-processed:
+result:
   맞춤법 검사:
     표제어: 최고조
     품사: 명사
 ---
 000_KEYWORD: 최고치__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -607,13 +607,13 @@ imported:
     표제어: 최고치
     품사: 명사:보통:서술성
     항목ID: 26663
-processed:
+result:
   맞춤법 검사:
     표제어: 최고치
     품사: 명사
 ---
 000_KEYWORD: 최규하__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -622,13 +622,13 @@ imported:
     표제어: 최규하
     품사: 명사:보통:서술성
     항목ID: 31799
-processed:
+result:
   맞춤법 검사:
     표제어: 최규하
     품사: 명사
 ---
 000_KEYWORD: 최근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89862
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -660,13 +660,13 @@ imported:
     표제어: 최근
     품사: 명사
     항목ID: 89862
-processed:
+result:
   맞춤법 검사:
     표제어: 최근
     품사: 명사
 ---
 000_KEYWORD: 최남단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82535
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -700,13 +700,13 @@ imported:
     표제어: 최남단
     품사: 명사
     항목ID: 82535
-processed:
+result:
   맞춤법 검사:
     표제어: 최남단
     품사: 명사
 ---
 000_KEYWORD: 최다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82537
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -741,13 +741,13 @@ imported:
     표제어: 최다
     품사: 명사
     항목ID: 82537
-processed:
+result:
   맞춤법 검사:
     표제어: 최다
     품사: 명사
 ---
 000_KEYWORD: 최단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82538
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -782,13 +782,13 @@ imported:
     표제어: 최단
     품사: 명사
     항목ID: 82538
-processed:
+result:
   맞춤법 검사:
     표제어: 최단
     품사: 명사
 ---
 000_KEYWORD: 최대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62484
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -845,13 +845,13 @@ imported:
     표제어: 최대
     품사: 명사
     항목ID: 62484
-processed:
+result:
   맞춤법 검사:
     표제어: 최대
     품사: 명사
 ---
 000_KEYWORD: 최대치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82540
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -881,13 +881,13 @@ imported:
     표제어: 최대치
     품사: 명사
     항목ID: 82540
-processed:
+result:
   맞춤법 검사:
     표제어: 최대치
     품사: 명사
 ---
 000_KEYWORD: 최대한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27773
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -925,13 +925,13 @@ imported:
     표제어: 최대한
     품사: 명사
     항목ID: 27773
-processed:
+result:
   맞춤법 검사:
     표제어: 최대한
     품사: 명사
 ---
 000_KEYWORD: 최대한__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92537
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -967,13 +967,13 @@ imported:
     표제어: 최대한
     품사: 부사
     항목ID: 92537
-processed:
+result:
   맞춤법 검사:
     표제어: 최대한
     품사: 부사
 ---
 000_KEYWORD: 최대한도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82542
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1010,13 +1010,13 @@ imported:
     표제어: 최대한도
     품사: 명사
     항목ID: 82542
-processed:
+result:
   맞춤법 검사:
     표제어: 최대한도
     품사: 명사
 ---
 000_KEYWORD: 최대화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82543
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1053,13 +1053,13 @@ imported:
     표제어: 최대화
     품사: 명사
     항목ID: 82543
-processed:
+result:
   맞춤법 검사:
     표제어: 최대화
     품사: 명사
 ---
 000_KEYWORD: 최대화되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1068,13 +1068,13 @@ imported:
     표제어: 최대화되다
     품사: 동사
     항목ID: 26671
-processed:
+result:
   맞춤법 검사:
     표제어: 최대화되다
     품사: 동사
 ---
 000_KEYWORD: 최대화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82544
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1109,13 +1109,13 @@ imported:
     표제어: 최대화하다
     품사: 동사
     항목ID: 82544
-processed:
+result:
   맞춤법 검사:
     표제어: 최대화하다
     품사: 동사
 ---
 000_KEYWORD: 최댓값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82546
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1166,13 +1166,13 @@ imported:
     - 발음: 췌ː댇깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/82546_chwe-daetkkamman.wav
       형태: 최댓값만
-processed:
+result:
   맞춤법 검사:
     표제어: 최댓값
     품사: 명사
 ---
 000_KEYWORD: 최루__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1182,13 +1182,13 @@ imported:
     표제어: 최루
     품사: 명사:보통:서술성
     항목ID: 26674
-processed:
+result:
   맞춤법 검사:
     표제어: 최루
     품사: 명사
 ---
 000_KEYWORD: 최루가스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1198,13 +1198,13 @@ imported:
     표제어: 최루가스
     품사: 명사:보통:서술성
     항목ID: 26675
-processed:
+result:
   맞춤법 검사:
     표제어: 최루가스
     품사: 명사
 ---
 000_KEYWORD: 최루탄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82548
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1234,13 +1234,13 @@ imported:
     표제어: 최루탄
     품사: 명사
     항목ID: 82548
-processed:
+result:
   맞춤법 검사:
     표제어: 최루탄
     품사: 명사
 ---
 000_KEYWORD: 최면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82549
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1270,13 +1270,13 @@ imported:
     표제어: 최면
     품사: 명사
     항목ID: 82549
-processed:
+result:
   맞춤법 검사:
     표제어: 최면
     품사: 명사
 ---
 000_KEYWORD: 최면술__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82551
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1305,13 +1305,13 @@ imported:
     표제어: 최면술
     품사: 명사
     항목ID: 82551
-processed:
+result:
   맞춤법 검사:
     표제어: 최면술
     품사: 명사
 ---
 000_KEYWORD: 최북단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82552
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1345,13 +1345,13 @@ imported:
     표제어: 최북단
     품사: 명사
     항목ID: 82552
-processed:
+result:
   맞춤법 검사:
     표제어: 최북단
     품사: 명사
 ---
 000_KEYWORD: 최빈값__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1361,13 +1361,13 @@ imported:
     표제어: 최빈값
     품사: 명사:보통:서술성
     항목ID: 26679
-processed:
+result:
   맞춤법 검사:
     표제어: 최빈값
     품사: 명사
 ---
 000_KEYWORD: 최빈국__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1376,13 +1376,13 @@ imported:
     표제어: 최빈국
     품사: 명사:보통:비서술성
     항목ID: 26680
-processed:
+result:
   맞춤법 검사:
     표제어: 최빈국
     품사: 명사
 ---
 000_KEYWORD: 최상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27776
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1438,13 +1438,13 @@ imported:
     표제어: 최상
     품사: 명사
     항목ID: 27776
-processed:
+result:
   맞춤법 검사:
     표제어: 최상
     품사: 명사
 ---
 000_KEYWORD: 최상급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82554
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1501,13 +1501,13 @@ imported:
     - 발음: 췌ː상금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/82554_chwe-sanggeumman.wav
       형태: 최상급만
-processed:
+result:
   맞춤법 검사:
     표제어: 최상급
     품사: 명사
 ---
 000_KEYWORD: 최상위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82555
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1541,13 +1541,13 @@ imported:
     표제어: 최상위
     품사: 명사
     항목ID: 82555
-processed:
+result:
   맞춤법 검사:
     표제어: 최상위
     품사: 명사
 ---
 000_KEYWORD: 최상층__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82556
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1596,13 +1596,13 @@ imported:
     표제어: 최상층
     품사: 명사
     항목ID: 82556
-processed:
+result:
   맞춤법 검사:
     표제어: 최상층
     품사: 명사
 ---
 000_KEYWORD: 최상품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79364
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1634,13 +1634,13 @@ imported:
     표제어: 최상품
     품사: 명사
     항목ID: 79364
-processed:
+result:
   맞춤법 검사:
     표제어: 최상품
     품사: 명사
 ---
 000_KEYWORD: 최선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72132
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1692,13 +1692,13 @@ imported:
     표제어: 최선
     품사: 명사
     항목ID: 72132
-processed:
+result:
   맞춤법 검사:
     표제어: 최선
     품사: 명사
 ---
 000_KEYWORD: 최선책__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79365
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1748,13 +1748,13 @@ imported:
     - 발음: 췌ː선챙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/79365_chwe-seonchaengman.wav
       형태: 최선책만
-processed:
+result:
   맞춤법 검사:
     표제어: 최선책
     품사: 명사
 ---
 000_KEYWORD: 최소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27785
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1789,13 +1789,13 @@ imported:
     표제어: 최소
     품사: 명사
     항목ID: 27785
-processed:
+result:
   맞춤법 검사:
     표제어: 최소
     품사: 명사
 ---
 000_KEYWORD: 최소__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79466
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1830,13 +1830,13 @@ imported:
     표제어: 최소
     품사: 명사
     항목ID: 79466
-processed:
+result:
   맞춤법 검사:
     표제어: 최소
     품사: 명사
 ---
 000_KEYWORD: 최소한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72133
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1883,13 +1883,13 @@ imported:
     표제어: 최소한
     품사: 명사
     항목ID: 72133
-processed:
+result:
   맞춤법 검사:
     표제어: 최소한
     품사: 명사
 ---
 000_KEYWORD: 최소한__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92538
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1925,13 +1925,13 @@ imported:
     표제어: 최소한
     품사: 부사
     항목ID: 92538
-processed:
+result:
   맞춤법 검사:
     표제어: 최소한
     품사: 부사
 ---
 000_KEYWORD: 최소한도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79368
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1970,13 +1970,13 @@ imported:
     표제어: 최소한도
     품사: 명사
     항목ID: 79368
-processed:
+result:
   맞춤법 검사:
     표제어: 최소한도
     품사: 명사
 ---
 000_KEYWORD: 최소화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79467
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2011,13 +2011,13 @@ imported:
     표제어: 최소화
     품사: 명사
     항목ID: 79467
-processed:
+result:
   맞춤법 검사:
     표제어: 최소화
     품사: 명사
 ---
 000_KEYWORD: 최소화__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79469
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2050,13 +2050,13 @@ imported:
     표제어: 최소화
     품사: 명사
     항목ID: 79469
-processed:
+result:
   맞춤법 검사:
     표제어: 최소화
     품사: 명사
 ---
 000_KEYWORD: 최소화되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2065,13 +2065,13 @@ imported:
     표제어: 최소화되다
     품사: 동사
     항목ID: 26689
-processed:
+result:
   맞춤법 검사:
     표제어: 최소화되다
     품사: 동사
 ---
 000_KEYWORD: 최소화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79470
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2106,13 +2106,13 @@ imported:
     표제어: 최소화하다
     품사: 동사
     항목ID: 79470
-processed:
+result:
   맞춤법 검사:
     표제어: 최소화하다
     품사: 동사
 ---
 000_KEYWORD: 최소화하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79471
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2147,13 +2147,13 @@ imported:
     표제어: 최소화하다
     품사: 동사
     항목ID: 79471
-processed:
+result:
   맞춤법 검사:
     표제어: 최소화하다
     품사: 동사
 ---
 000_KEYWORD: 최솟값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79472
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2206,13 +2206,13 @@ imported:
     - 발음: 췌ː솓깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/79472_chwe-sotkkamman.wav
       형태: 최솟값만
-processed:
+result:
   맞춤법 검사:
     표제어: 최솟값
     품사: 명사
 ---
 000_KEYWORD: 최순실__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2221,13 +2221,13 @@ imported:
     표제어: 최순실
     품사: 명사:보통:서술성
     항목ID: 31782
-processed:
+result:
   맞춤법 검사:
     표제어: 최순실
     품사: 명사
 ---
 000_KEYWORD: 최신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27777
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2262,13 +2262,13 @@ imported:
     표제어: 최신
     품사: 명사
     항목ID: 27777
-processed:
+result:
   맞춤법 검사:
     표제어: 최신
     품사: 명사
 ---
 000_KEYWORD: 최신식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79473
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2320,13 +2320,13 @@ imported:
     - 발음: 췌ː신싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/79473_chwe-sinsingman.wav
       형태: 최신식만
-processed:
+result:
   맞춤법 검사:
     표제어: 최신식
     품사: 명사
 ---
 000_KEYWORD: 최신예__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2335,13 +2335,13 @@ imported:
     표제어: 최신예
     품사: 명사:보통:서술성
     항목ID: 26694
-processed:
+result:
   맞춤법 검사:
     표제어: 최신예
     품사: 명사
 ---
 000_KEYWORD: 최신작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79474
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2391,13 +2391,13 @@ imported:
     - 발음: 췌ː신장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/79474_chwe-sinjangman.wav
       형태: 최신작만
-processed:
+result:
   맞춤법 검사:
     표제어: 최신작
     품사: 명사
 ---
 000_KEYWORD: 최신형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79475
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2431,13 +2431,13 @@ imported:
     표제어: 최신형
     품사: 명사
     항목ID: 79475
-processed:
+result:
   맞춤법 검사:
     표제어: 최신형
     품사: 명사
 ---
 000_KEYWORD: 최악__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27778
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2490,13 +2490,13 @@ imported:
     - 발음: 췌ː앙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/11000/27778_chwe-angman.wav
       형태: 최악만
-processed:
+result:
   맞춤법 검사:
     표제어: 최악
     품사: 명사
 ---
 000_KEYWORD: 최연소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79476
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2534,13 +2534,13 @@ imported:
     표제어: 최연소
     품사: 명사
     항목ID: 79476
-processed:
+result:
   맞춤법 검사:
     표제어: 최연소
     품사: 명사
 ---
 000_KEYWORD: 최우선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79477
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2574,13 +2574,13 @@ imported:
     표제어: 최우선
     품사: 명사
     항목ID: 79477
-processed:
+result:
   맞춤법 검사:
     표제어: 최우선
     품사: 명사
 ---
 000_KEYWORD: 최우수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79478
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2613,13 +2613,13 @@ imported:
     표제어: 최우수
     품사: 명사
     항목ID: 79478
-processed:
+result:
   맞춤법 검사:
     표제어: 최우수
     품사: 명사
 ---
 000_KEYWORD: 최익현__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2630,13 +2630,13 @@ imported:
     표제어: 최익현
     품사: 명사:보통:서술성
     항목ID: 26701
-processed:
+result:
   맞춤법 검사:
     표제어: 최익현
     품사: 명사
 ---
 000_KEYWORD: 최장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79479
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2671,13 +2671,13 @@ imported:
     표제어: 최장
     품사: 명사
     항목ID: 79479
-processed:
+result:
   맞춤법 검사:
     표제어: 최장
     품사: 명사
 ---
 000_KEYWORD: 최저__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27783
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2713,13 +2713,13 @@ imported:
     표제어: 최저
     품사: 명사
     항목ID: 27783
-processed:
+result:
   맞춤법 검사:
     표제어: 최저
     품사: 명사
 ---
 000_KEYWORD: 최저가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92534
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2753,13 +2753,13 @@ imported:
     표제어: 최저가
     품사: 명사
     항목ID: 92534
-processed:
+result:
   맞춤법 검사:
     표제어: 최저가
     품사: 명사
 ---
 000_KEYWORD: 최저임금__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2768,13 +2768,13 @@ imported:
     표제어: 최저임금
     품사: 명사:보통:서술성
     항목ID: 26705
-processed:
+result:
   맞춤법 검사:
     표제어: 최저임금
     품사: 명사
 ---
 000_KEYWORD: 최저임금제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2783,13 +2783,13 @@ imported:
     표제어: 최저임금제
     품사: 명사:보통:서술성
     항목ID: 26706
-processed:
+result:
   맞춤법 검사:
     표제어: 최저임금제
     품사: 명사
 ---
 000_KEYWORD: 최적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79480
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2840,13 +2840,13 @@ imported:
     - 발음: 췌ː정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/79480_chwe-jeongman.wav
       형태: 최적만
-processed:
+result:
   맞춤법 검사:
     표제어: 최적
     품사: 명사
 ---
 000_KEYWORD: 최적화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2855,13 +2855,13 @@ imported:
     표제어: 최적화
     품사: 명사:보통:서술성
     항목ID: 26708
-processed:
+result:
   맞춤법 검사:
     표제어: 최적화
     품사: 명사
 ---
 000_KEYWORD: 최적화되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2870,13 +2870,13 @@ imported:
     표제어: 최적화되다
     품사: 동사
     항목ID: 26709
-processed:
+result:
   맞춤법 검사:
     표제어: 최적화되다
     품사: 동사
 ---
 000_KEYWORD: 최전방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79481
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2933,13 +2933,13 @@ imported:
     표제어: 최전방
     품사: 명사
     항목ID: 79481
-processed:
+result:
   맞춤법 검사:
     표제어: 최전방
     품사: 명사
 ---
 000_KEYWORD: 최전선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79482
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -2998,13 +2998,13 @@ imported:
     표제어: 최전선
     품사: 명사
     항목ID: 79482
-processed:
+result:
   맞춤법 검사:
     표제어: 최전선
     품사: 명사
 ---
 000_KEYWORD: 최정예__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3013,13 +3013,13 @@ imported:
     표제어: 최정예
     품사: 명사:보통:서술성
     항목ID: 26712
-processed:
+result:
   맞춤법 검사:
     표제어: 최정예
     품사: 명사
 ---
 000_KEYWORD: 최종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27792
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3055,13 +3055,13 @@ imported:
     표제어: 최종
     품사: 명사
     항목ID: 27792
-processed:
+result:
   맞춤법 검사:
     표제어: 최종
     품사: 명사
 ---
 000_KEYWORD: 최종심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79483
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3107,13 +3107,13 @@ imported:
     표제어: 최종심
     품사: 명사
     항목ID: 79483
-processed:
+result:
   맞춤법 검사:
     표제어: 최종심
     품사: 명사
 ---
 000_KEYWORD: 최종일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79484
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3144,13 +3144,13 @@ imported:
     표제어: 최종일
     품사: 명사
     항목ID: 79484
-processed:
+result:
   맞춤법 검사:
     표제어: 최종일
     품사: 명사
 ---
 000_KEYWORD: 최종적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79486
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3180,13 +3180,13 @@ imported:
     표제어: 최종적
     품사: 관형사
     항목ID: 79486
-processed:
+result:
   맞춤법 검사:
     표제어: 최종적
     품사: 관형사
 ---
 000_KEYWORD: 최종적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79485
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3221,13 +3221,13 @@ imported:
     표제어: 최종적
     품사: 명사
     항목ID: 79485
-processed:
+result:
   맞춤법 검사:
     표제어: 최종적
     품사: 명사
 ---
 000_KEYWORD: 최첨단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79487
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3262,13 +3262,13 @@ imported:
     표제어: 최첨단
     품사: 명사
     항목ID: 79487
-processed:
+result:
   맞춤법 검사:
     표제어: 최첨단
     품사: 명사
 ---
 000_KEYWORD: 최초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62465
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3311,13 +3311,13 @@ imported:
     표제어: 최초
     품사: 명사
     항목ID: 62465
-processed:
+result:
   맞춤법 검사:
     표제어: 최초
     품사: 명사
 ---
 000_KEYWORD: 최하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79488
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3352,13 +3352,13 @@ imported:
     표제어: 최하
     품사: 명사
     항목ID: 79488
-processed:
+result:
   맞춤법 검사:
     표제어: 최하
     품사: 명사
 ---
 000_KEYWORD: 최하급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79489
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3412,13 +3412,13 @@ imported:
     - 발음: 췌ː하금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/79489_chwe-hageumman.wav
       형태: 최하급만
-processed:
+result:
   맞춤법 검사:
     표제어: 최하급
     품사: 명사
 ---
 000_KEYWORD: 최하위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79490
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3455,13 +3455,13 @@ imported:
     표제어: 최하위
     품사: 명사
     항목ID: 79490
-processed:
+result:
   맞춤법 검사:
     표제어: 최하위
     품사: 명사
 ---
 000_KEYWORD: 최하위권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79491
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3496,13 +3496,13 @@ imported:
     표제어: 최하위권
     품사: 명사
     항목ID: 79491
-processed:
+result:
   맞춤법 검사:
     표제어: 최하위권
     품사: 명사
 ---
 000_KEYWORD: 최하층__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79492
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3559,13 +3559,13 @@ imported:
     표제어: 최하층
     품사: 명사
     항목ID: 79492
-processed:
+result:
   맞춤법 검사:
     표제어: 최하층
     품사: 명사
 ---
 000_KEYWORD: 최혜국__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3575,13 +3575,13 @@ imported:
     표제어: 최혜국
     품사: 명사:보통:서술성
     항목ID: 26720
-processed:
+result:
   맞춤법 검사:
     표제어: 최혜국
     품사: 명사
 ---
 000_KEYWORD: 최후__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27789
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3624,13 +3624,13 @@ imported:
     표제어: 최후
     품사: 명사
     항목ID: 27789
-processed:
+result:
   맞춤법 검사:
     표제어: 최후
     품사: 명사
 ---
 000_KEYWORD: 최후통첩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79494
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -3698,7 +3698,7 @@ imported:
     - 발음: 췌ː후통첨만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/79494_chwe-hutongcheomman.wav
       형태: 최후통첩만
-processed:
+result:
   맞춤법 검사:
     표제어: 최후통첩
     품사: 명사

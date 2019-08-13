@@ -1,5 +1,5 @@
 000_KEYWORD: -필__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88468
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -17,11 +17,11 @@ imported:
     표제어: -필
     품사: 접사
     항목ID: 88468
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 피-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88466
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -42,11 +42,11 @@ imported:
     표제어: 피-
     품사: 접사
     항목ID: 88466
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73269
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -79,13 +79,13 @@ imported:
     표제어: 피
     품사: 명사
     항목ID: 73269
-processed:
+result:
   맞춤법 검사:
     표제어: 피
     품사: 명사
 ---
 000_KEYWORD: 피__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84522
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -117,13 +117,13 @@ imported:
     표제어: 피
     품사: 부사
     항목ID: 84522
-processed:
+result:
   맞춤법 검사:
     표제어: 피
     품사: 부사
 ---
 000_KEYWORD: 피겨__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -133,13 +133,13 @@ imported:
     표제어: 피겨
     품사: 명사:보통:서술성
     항목ID: 29404
-processed:
+result:
   맞춤법 검사:
     표제어: 피겨
     품사: 명사
 ---
 000_KEYWORD: 피격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83792
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -178,13 +178,13 @@ imported:
     - 발음: 피ː경만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83792_pi-gyeongman.wav
       형태: 피격만
-processed:
+result:
   맞춤법 검사:
     표제어: 피격
     품사: 명사
 ---
 000_KEYWORD: 피격되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83793
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -215,13 +215,13 @@ imported:
     표제어: 피격되다
     품사: 동사
     항목ID: 83793
-processed:
+result:
   맞춤법 검사:
     표제어: 피격되다
     품사: 동사
 ---
 000_KEYWORD: 피격하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83794
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -248,13 +248,13 @@ imported:
     표제어: 피격하다
     품사: 동사
     항목ID: 83794
-processed:
+result:
   맞춤법 검사:
     표제어: 피격하다
     품사: 동사
 ---
 000_KEYWORD: 피고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83795
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -287,13 +287,13 @@ imported:
     표제어: 피고
     품사: 명사
     항목ID: 83795
-processed:
+result:
   맞춤법 검사:
     표제어: 피고
     품사: 명사
 ---
 000_KEYWORD: 피고름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83796
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -321,13 +321,13 @@ imported:
     표제어: 피고름
     품사: 명사
     항목ID: 83796
-processed:
+result:
   맞춤법 검사:
     표제어: 피고름
     품사: 명사
 ---
 000_KEYWORD: 피고용인__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -336,13 +336,13 @@ imported:
     표제어: 피고용인
     품사: 명사:보통:비서술성
     항목ID: 29407
-processed:
+result:
   맞춤법 검사:
     표제어: 피고용인
     품사: 명사
 ---
 000_KEYWORD: 피고용자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -351,13 +351,13 @@ imported:
     표제어: 피고용자
     품사: 명사:보통:비서술성
     항목ID: 29408
-processed:
+result:
   맞춤법 검사:
     표제어: 피고용자
     품사: 명사
 ---
 000_KEYWORD: 피고인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83797
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -386,13 +386,13 @@ imported:
     표제어: 피고인
     품사: 명사
     항목ID: 83797
-processed:
+result:
   맞춤법 검사:
     표제어: 피고인
     품사: 명사
 ---
 000_KEYWORD: 피곤__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83798
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -424,13 +424,13 @@ imported:
     표제어: 피곤
     품사: 명사
     항목ID: 83798
-processed:
+result:
   맞춤법 검사:
     표제어: 피곤
     품사: 명사
 ---
 000_KEYWORD: 피곤하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60291
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -481,13 +481,13 @@ imported:
       형태: 피곤하니
     - 발음: 피곤함니다
       형태: 피곤합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 피곤하다
     품사: 형용사
 ---
 000_KEYWORD: 피골__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83799
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -513,13 +513,13 @@ imported:
     표제어: 피골
     품사: 명사
     항목ID: 83799
-processed:
+result:
   맞춤법 검사:
     표제어: 피골
     품사: 명사
 ---
 000_KEYWORD: 피구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83814
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -548,13 +548,13 @@ imported:
     표제어: 피구
     품사: 명사
     항목ID: 83814
-processed:
+result:
   맞춤법 검사:
     표제어: 피구
     품사: 명사
 ---
 000_KEYWORD: 피나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83815
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -585,13 +585,13 @@ imported:
     표제어: 피나다
     품사: 동사
     항목ID: 83815
-processed:
+result:
   맞춤법 검사:
     표제어: 피나다
     품사: 동사
 ---
 000_KEYWORD: 피나무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -601,13 +601,13 @@ imported:
     표제어: 피나무
     품사: 명사:보통:비서술성
     항목ID: 29413
-processed:
+result:
   맞춤법 검사:
     표제어: 피나무
     품사: 명사
 ---
 000_KEYWORD: 피난__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83816
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -640,13 +640,13 @@ imported:
     표제어: 피난
     품사: 명사
     항목ID: 83816
-processed:
+result:
   맞춤법 검사:
     표제어: 피난
     품사: 명사
 ---
 000_KEYWORD: 피난길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83817
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -675,13 +675,13 @@ imported:
     표제어: 피난길
     품사: 명사
     항목ID: 83817
-processed:
+result:
   맞춤법 검사:
     표제어: 피난길
     품사: 명사
 ---
 000_KEYWORD: 피난민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83818
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -710,13 +710,13 @@ imported:
     표제어: 피난민
     품사: 명사
     항목ID: 83818
-processed:
+result:
   맞춤법 검사:
     표제어: 피난민
     품사: 명사
 ---
 000_KEYWORD: 피난살이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83819
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -744,13 +744,13 @@ imported:
     표제어: 피난살이
     품사: 명사
     항목ID: 83819
-processed:
+result:
   맞춤법 검사:
     표제어: 피난살이
     품사: 명사
 ---
 000_KEYWORD: 피난지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83820
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -777,13 +777,13 @@ imported:
     표제어: 피난지
     품사: 명사
     항목ID: 83820
-processed:
+result:
   맞춤법 검사:
     표제어: 피난지
     품사: 명사
 ---
 000_KEYWORD: 피난처__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83821
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -822,13 +822,13 @@ imported:
     표제어: 피난처
     품사: 명사
     항목ID: 83821
-processed:
+result:
   맞춤법 검사:
     표제어: 피난처
     품사: 명사
 ---
 000_KEYWORD: 피난하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83823
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -856,13 +856,13 @@ imported:
     표제어: 피난하다
     품사: 동사
     항목ID: 83823
-processed:
+result:
   맞춤법 검사:
     표제어: 피난하다
     품사: 동사
 ---
 000_KEYWORD: 피날레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83860
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -892,13 +892,13 @@ imported:
     표제어: 피날레
     품사: 명사
     항목ID: 83860
-processed:
+result:
   맞춤법 검사:
     표제어: 피날레
     품사: 명사
 ---
 000_KEYWORD: 피눈물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83861
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -926,13 +926,13 @@ imported:
     표제어: 피눈물
     품사: 명사
     항목ID: 83861
-processed:
+result:
   맞춤법 검사:
     표제어: 피눈물
     품사: 명사
 ---
 000_KEYWORD: 피닉스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -943,13 +943,13 @@ imported:
     표제어: 피닉스
     품사: 명사:보통:서술성
     항목ID: 29420
-processed:
+result:
   맞춤법 검사:
     표제어: 피닉스
     품사: 명사
 ---
 000_KEYWORD: 피다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73270
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1085,13 +1085,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/73270_pyeo-.wav
       형태: 펴
     - 형태: 피니
-processed:
+result:
   맞춤법 검사:
     표제어: 피다
     품사: 동사
 ---
 000_KEYWORD: 피동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83862
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1142,13 +1142,13 @@ imported:
     표제어: 피동
     품사: 명사
     항목ID: 83862
-processed:
+result:
   맞춤법 검사:
     표제어: 피동
     품사: 명사
 ---
 000_KEYWORD: 피동문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83865
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1177,13 +1177,13 @@ imported:
     표제어: 피동문
     품사: 명사
     항목ID: 83865
-processed:
+result:
   맞춤법 검사:
     표제어: 피동문
     품사: 명사
 ---
 000_KEYWORD: 피동적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83863
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1210,13 +1210,13 @@ imported:
     표제어: 피동적
     품사: 관형사
     항목ID: 83863
-processed:
+result:
   맞춤법 검사:
     표제어: 피동적
     품사: 관형사
 ---
 000_KEYWORD: 피동적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83864
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1245,13 +1245,13 @@ imported:
     표제어: 피동적
     품사: 명사
     항목ID: 83864
-processed:
+result:
   맞춤법 검사:
     표제어: 피동적
     품사: 명사
 ---
 000_KEYWORD: 피둥피둥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83898
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1287,13 +1287,13 @@ imported:
     표제어: 피둥피둥
     품사: 부사
     항목ID: 83898
-processed:
+result:
   맞춤법 검사:
     표제어: 피둥피둥
     품사: 부사
 ---
 000_KEYWORD: 피둥피둥하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83899
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1333,13 +1333,13 @@ imported:
       형태: 피둥피둥하니
     - 발음: 피둥피둥함니다
       형태: 피둥피둥합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 피둥피둥하다
     품사: 형용사
 ---
 000_KEYWORD: 피드백__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83900
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1378,13 +1378,13 @@ imported:
     표제어: 피드백
     품사: 명사
     항목ID: 83900
-processed:
+result:
   맞춤법 검사:
     표제어: 피드백
     품사: 명사
 ---
 000_KEYWORD: 피디__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83901
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1417,13 +1417,13 @@ imported:
     표제어: 피디
     품사: 명사
     항목ID: 83901
-processed:
+result:
   맞춤법 검사:
     표제어: 피디
     품사: 명사
 ---
 000_KEYWORD: 피땀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83902
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1463,13 +1463,13 @@ imported:
     표제어: 피땀
     품사: 명사
     항목ID: 83902
-processed:
+result:
   맞춤법 검사:
     표제어: 피땀
     품사: 명사
 ---
 000_KEYWORD: 피떡__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1479,13 +1479,13 @@ imported:
     표제어: 피떡
     품사: 명사:보통:서술성
     항목ID: 29428
-processed:
+result:
   맞춤법 검사:
     표제어: 피떡
     품사: 명사
 ---
 000_KEYWORD: 피라미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83946
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1527,13 +1527,13 @@ imported:
     표제어: 피라미
     품사: 명사
     항목ID: 83946
-processed:
+result:
   맞춤법 검사:
     표제어: 피라미
     품사: 명사
 ---
 000_KEYWORD: 피라미드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83947
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1561,13 +1561,13 @@ imported:
     표제어: 피라미드
     품사: 명사
     항목ID: 83947
-processed:
+result:
   맞춤법 검사:
     표제어: 피라미드
     품사: 명사
 ---
 000_KEYWORD: 피란__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83948
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1598,13 +1598,13 @@ imported:
     표제어: 피란
     품사: 명사
     항목ID: 83948
-processed:
+result:
   맞춤법 검사:
     표제어: 피란
     품사: 명사
 ---
 000_KEYWORD: 피란민__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1614,13 +1614,13 @@ imported:
     표제어: 피란민
     품사: 명사:보통:비서술성
     항목ID: 29431
-processed:
+result:
   맞춤법 검사:
     표제어: 피란민
     품사: 명사
 ---
 000_KEYWORD: 피랍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83949
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1658,13 +1658,13 @@ imported:
     - 발음: 피ː람만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83949_pi-ramman.wav
       형태: 피랍만
-processed:
+result:
   맞춤법 검사:
     표제어: 피랍
     품사: 명사
 ---
 000_KEYWORD: 피랍되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83950
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1695,13 +1695,13 @@ imported:
     표제어: 피랍되다
     품사: 동사
     항목ID: 83950
-processed:
+result:
   맞춤법 검사:
     표제어: 피랍되다
     품사: 동사
 ---
 000_KEYWORD: 피력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83970
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1742,13 +1742,13 @@ imported:
     - 발음: 피령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/83970_piryeongman.wav
       형태: 피력만
-processed:
+result:
   맞춤법 검사:
     표제어: 피력
     품사: 명사
 ---
 000_KEYWORD: 피력되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83971
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1780,13 +1780,13 @@ imported:
     표제어: 피력되다
     품사: 동사
     항목ID: 83971
-processed:
+result:
   맞춤법 검사:
     표제어: 피력되다
     품사: 동사
 ---
 000_KEYWORD: 피력하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83972
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1818,13 +1818,13 @@ imported:
     표제어: 피력하다
     품사: 동사
     항목ID: 83972
-processed:
+result:
   맞춤법 검사:
     표제어: 피력하다
     품사: 동사
 ---
 000_KEYWORD: 피로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73271
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1857,13 +1857,13 @@ imported:
     표제어: 피로
     품사: 명사
     항목ID: 73271
-processed:
+result:
   맞춤법 검사:
     표제어: 피로
     품사: 명사
 ---
 000_KEYWORD: 피로감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83973
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1892,13 +1892,13 @@ imported:
     표제어: 피로감
     품사: 명사
     항목ID: 83973
-processed:
+result:
   맞춤법 검사:
     표제어: 피로감
     품사: 명사
 ---
 000_KEYWORD: 피로연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83974
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1929,13 +1929,13 @@ imported:
     표제어: 피로연
     품사: 명사
     항목ID: 83974
-processed:
+result:
   맞춤법 검사:
     표제어: 피로연
     품사: 명사
 ---
 000_KEYWORD: 피로하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83975
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1976,13 +1976,13 @@ imported:
       형태: 피로하니
     - 발음: 피로함니다
       형태: 피로합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 피로하다
     품사: 형용사
 ---
 000_KEYWORD: 피뢰침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84035
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2014,13 +2014,13 @@ imported:
     표제어: 피뢰침
     품사: 명사
     항목ID: 84035
-processed:
+result:
   맞춤법 검사:
     표제어: 피뢰침
     품사: 명사
 ---
 000_KEYWORD: 피륙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84037
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2057,13 +2057,13 @@ imported:
     - 발음: 피륭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/84037_piryungman.wav
       형태: 피륙만
-processed:
+result:
   맞춤법 검사:
     표제어: 피륙
     품사: 명사
 ---
 000_KEYWORD: 피리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84039
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2109,13 +2109,13 @@ imported:
     표제어: 피리
     품사: 명사
     항목ID: 84039
-processed:
+result:
   맞춤법 검사:
     표제어: 피리
     품사: 명사
 ---
 000_KEYWORD: 피막__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2125,13 +2125,13 @@ imported:
     표제어: 피막
     품사: 명사:보통:서술성
     항목ID: 29441
-processed:
+result:
   맞춤법 검사:
     표제어: 피막
     품사: 명사
 ---
 000_KEYWORD: 피망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84041
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2163,13 +2163,13 @@ imported:
     표제어: 피망
     품사: 명사
     항목ID: 84041
-processed:
+result:
   맞춤법 검사:
     표제어: 피망
     품사: 명사
 ---
 000_KEYWORD: 피맺히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84042
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2198,13 +2198,13 @@ imported:
     표제어: 피맺히다
     품사: 동사
     항목ID: 84042
-processed:
+result:
   맞춤법 검사:
     표제어: 피맺히다
     품사: 동사
 ---
 000_KEYWORD: 피멍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84044
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2242,13 +2242,13 @@ imported:
     표제어: 피멍
     품사: 명사
     항목ID: 84044
-processed:
+result:
   맞춤법 검사:
     표제어: 피멍
     품사: 명사
 ---
 000_KEYWORD: 피바다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91207
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2277,13 +2277,13 @@ imported:
     표제어: 피바다
     품사: 명사
     항목ID: 91207
-processed:
+result:
   맞춤법 검사:
     표제어: 피바다
     품사: 명사
 ---
 000_KEYWORD: 피범벅__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2293,13 +2293,13 @@ imported:
     표제어: 피범벅
     품사: 명사:보통:서술성
     항목ID: 29444
-processed:
+result:
   맞춤법 검사:
     표제어: 피범벅
     품사: 명사
 ---
 000_KEYWORD: 피보험자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84046
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2326,13 +2326,13 @@ imported:
     표제어: 피보험자
     품사: 명사
     항목ID: 84046
-processed:
+result:
   맞춤법 검사:
     표제어: 피보험자
     품사: 명사
 ---
 000_KEYWORD: 피복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84047
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2376,13 +2376,13 @@ imported:
     - 발음: 피ː봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/84047_pi-bongman.wav
       형태: 피복만
-processed:
+result:
   맞춤법 검사:
     표제어: 피복
     품사: 명사
 ---
 000_KEYWORD: 피부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66308
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2429,13 +2429,13 @@ imported:
     표제어: 피부
     품사: 명사
     항목ID: 66308
-processed:
+result:
   맞춤법 검사:
     표제어: 피부
     품사: 명사
 ---
 000_KEYWORD: 피부과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84051
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2465,13 +2465,13 @@ imported:
     표제어: 피부과
     품사: 명사
     항목ID: 84051
-processed:
+result:
   맞춤법 검사:
     표제어: 피부과
     품사: 명사
 ---
 000_KEYWORD: 피부병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84053
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2501,13 +2501,13 @@ imported:
     표제어: 피부병
     품사: 명사
     항목ID: 84053
-processed:
+result:
   맞춤법 검사:
     표제어: 피부병
     품사: 명사
 ---
 000_KEYWORD: 피부색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84055
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2545,13 +2545,13 @@ imported:
     - 발음: 피부생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/84055_pibusaengman.wav
       형태: 피부색만
-processed:
+result:
   맞춤법 검사:
     표제어: 피부색
     품사: 명사
 ---
 000_KEYWORD: 피부염__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2561,13 +2561,13 @@ imported:
     표제어: 피부염
     품사: 명사:보통:서술성
     항목ID: 29450
-processed:
+result:
   맞춤법 검사:
     표제어: 피부염
     품사: 명사
 ---
 000_KEYWORD: 피붙이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84058
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2604,13 +2604,13 @@ imported:
     표제어: 피붙이
     품사: 명사
     항목ID: 84058
-processed:
+result:
   맞춤법 검사:
     표제어: 피붙이
     품사: 명사
 ---
 000_KEYWORD: 피비린내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84059
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2647,13 +2647,13 @@ imported:
     표제어: 피비린내
     품사: 명사
     항목ID: 84059
-processed:
+result:
   맞춤법 검사:
     표제어: 피비린내
     품사: 명사
 ---
 000_KEYWORD: 피사체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84062
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2680,13 +2680,13 @@ imported:
     표제어: 피사체
     품사: 명사
     항목ID: 84062
-processed:
+result:
   맞춤법 검사:
     표제어: 피사체
     품사: 명사
 ---
 000_KEYWORD: 피살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84063
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2716,13 +2716,13 @@ imported:
     표제어: 피살
     품사: 명사
     항목ID: 84063
-processed:
+result:
   맞춤법 검사:
     표제어: 피살
     품사: 명사
 ---
 000_KEYWORD: 피살되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84065
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2752,13 +2752,13 @@ imported:
     표제어: 피살되다
     품사: 동사
     항목ID: 84065
-processed:
+result:
   맞춤법 검사:
     표제어: 피살되다
     품사: 동사
 ---
 000_KEYWORD: 피살자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84066
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2786,13 +2786,13 @@ imported:
     표제어: 피살자
     품사: 명사
     항목ID: 84066
-processed:
+result:
   맞춤법 검사:
     표제어: 피살자
     품사: 명사
 ---
 000_KEYWORD: 피상적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84068
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2821,13 +2821,13 @@ imported:
     표제어: 피상적
     품사: 관형사
     항목ID: 84068
-processed:
+result:
   맞춤법 검사:
     표제어: 피상적
     품사: 관형사
 ---
 000_KEYWORD: 피상적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84069
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2856,13 +2856,13 @@ imported:
     표제어: 피상적
     품사: 명사
     항목ID: 84069
-processed:
+result:
   맞춤법 검사:
     표제어: 피상적
     품사: 명사
 ---
 000_KEYWORD: 피상전력__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2872,13 +2872,13 @@ imported:
     표제어: 피상전력
     품사: 명사:보통:서술성
     항목ID: 29455
-processed:
+result:
   맞춤법 검사:
     표제어: 피상전력
     품사: 명사
 ---
 000_KEYWORD: 피서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84071
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2909,13 +2909,13 @@ imported:
     표제어: 피서
     품사: 명사
     항목ID: 84071
-processed:
+result:
   맞춤법 검사:
     표제어: 피서
     품사: 명사
 ---
 000_KEYWORD: 피서객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84072
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2954,13 +2954,13 @@ imported:
     - 발음: 피ː서갱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84072_pi-seogaengman.wav
       형태: 피서객만
-processed:
+result:
   맞춤법 검사:
     표제어: 피서객
     품사: 명사
 ---
 000_KEYWORD: 피서지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84073
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2989,13 +2989,13 @@ imported:
     표제어: 피서지
     품사: 명사
     항목ID: 84073
-processed:
+result:
   맞춤법 검사:
     표제어: 피서지
     품사: 명사
 ---
 000_KEYWORD: 피선거권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84107
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3027,13 +3027,13 @@ imported:
     표제어: 피선거권
     품사: 명사
     항목ID: 84107
-processed:
+result:
   맞춤법 검사:
     표제어: 피선거권
     품사: 명사
 ---
 000_KEYWORD: 피선되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84125
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3063,13 +3063,13 @@ imported:
     표제어: 피선되다
     품사: 동사
     항목ID: 84125
-processed:
+result:
   맞춤법 검사:
     표제어: 피선되다
     품사: 동사
 ---
 000_KEYWORD: 피소__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3079,13 +3079,13 @@ imported:
     표제어: 피소
     품사: 명사:보통:서술성
     항목ID: 29458
-processed:
+result:
   맞춤법 검사:
     표제어: 피소
     품사: 명사
 ---
 000_KEYWORD: 피스톤__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84126
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3112,13 +3112,13 @@ imported:
     표제어: 피스톤
     품사: 명사
     항목ID: 84126
-processed:
+result:
   맞춤법 검사:
     표제어: 피스톤
     품사: 명사
 ---
 000_KEYWORD: 피습__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84136
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3156,13 +3156,13 @@ imported:
     - 발음: 피ː슴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/84136_pi-seumman.wav
       형태: 피습만
-processed:
+result:
   맞춤법 검사:
     표제어: 피습
     품사: 명사
 ---
 000_KEYWORD: 피습되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84137
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3192,13 +3192,13 @@ imported:
     표제어: 피습되다
     품사: 동사
     항목ID: 84137
-processed:
+result:
   맞춤법 검사:
     표제어: 피습되다
     품사: 동사
 ---
 000_KEYWORD: 피습하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84138
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3226,13 +3226,13 @@ imported:
     표제어: 피습하다
     품사: 동사
     항목ID: 84138
-processed:
+result:
   맞춤법 검사:
     표제어: 피습하다
     품사: 동사
 ---
 000_KEYWORD: 피시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72403
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3260,13 +3260,13 @@ imported:
     표제어: 피시
     품사: 명사
     항목ID: 72403
-processed:
+result:
   맞춤법 검사:
     표제어: 피시
     품사: 명사
 ---
 000_KEYWORD: 피시방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84139
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3296,13 +3296,13 @@ imported:
     표제어: 피시방
     품사: 명사
     항목ID: 84139
-processed:
+result:
   맞춤법 검사:
     표제어: 피시방
     품사: 명사
 ---
 000_KEYWORD: 피식__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84179
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3327,13 +3327,13 @@ imported:
     표제어: 피식
     품사: 부사
     항목ID: 84179
-processed:
+result:
   맞춤법 검사:
     표제어: 피식
     품사: 부사
 ---
 000_KEYWORD: 피식피식__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84180
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3357,13 +3357,13 @@ imported:
     표제어: 피식피식
     품사: 부사
     항목ID: 84180
-processed:
+result:
   맞춤법 검사:
     표제어: 피식피식
     품사: 부사
 ---
 000_KEYWORD: 피신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84181
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3392,13 +3392,13 @@ imported:
     표제어: 피신
     품사: 명사
     항목ID: 84181
-processed:
+result:
   맞춤법 검사:
     표제어: 피신
     품사: 명사
 ---
 000_KEYWORD: 피신처__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84183
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3426,13 +3426,13 @@ imported:
     표제어: 피신처
     품사: 명사
     항목ID: 84183
-processed:
+result:
   맞춤법 검사:
     표제어: 피신처
     품사: 명사
 ---
 000_KEYWORD: 피신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84182
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3462,13 +3462,13 @@ imported:
     표제어: 피신하다
     품사: 동사
     항목ID: 84182
-processed:
+result:
   맞춤법 검사:
     표제어: 피신하다
     품사: 동사
 ---
 000_KEYWORD: 피실험자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3477,13 +3477,13 @@ imported:
     표제어: 피실험자
     품사: 명사:보통:비서술성
     항목ID: 29463
-processed:
+result:
   맞춤법 검사:
     표제어: 피실험자
     품사: 명사
 ---
 000_KEYWORD: 피싱__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3493,13 +3493,13 @@ imported:
     표제어: 피싱
     품사: 명사:보통:서술성
     항목ID: 29464
-processed:
+result:
   맞춤법 검사:
     표제어: 피싱
     품사: 명사
 ---
 000_KEYWORD: 피아노__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31505
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3538,13 +3538,13 @@ imported:
     표제어: 피아노
     품사: 명사
     항목ID: 31505
-processed:
+result:
   맞춤법 검사:
     표제어: 피아노
     품사: 명사
 ---
 000_KEYWORD: 피아니스트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85327
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3567,13 +3567,13 @@ imported:
     표제어: 피아니스트
     품사: 명사
     항목ID: 85327
-processed:
+result:
   맞춤법 검사:
     표제어: 피아니스트
     품사: 명사
 ---
 000_KEYWORD: 피어나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85882
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3671,17 +3671,17 @@ imported:
     - 발음: 피여나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/85882_piyeonani.wav
       형태: 피어나니
-processed:
+result:
   맞춤법 검사:
     표제어: 피어나다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 피어오르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85908
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3786,19 +3786,19 @@ imported:
     - 발음: 피여오르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/85908_piyeooreuni.wav
       형태: 피어오르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
     표제어: 피어오르다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 피에로__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3807,13 +3807,13 @@ imported:
     표제어: 피에로
     품사: 명사:보통:비서술성
     항목ID: 29469
-processed:
+result:
   맞춤법 검사:
     표제어: 피에로
     품사: 명사
 ---
 000_KEYWORD: 피엑스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85329
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3835,13 +3835,13 @@ imported:
     표제어: 피엑스
     품사: 명사
     항목ID: 85329
-processed:
+result:
   맞춤법 검사:
     표제어: 피엑스
     품사: 명사
 ---
 000_KEYWORD: 피우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73272
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3940,13 +3940,13 @@ imported:
     활용:
     - 형태: 피우어
     - 형태: 피우니
-processed:
+result:
   맞춤법 검사:
     표제어: 피우다
     품사: 동사
 ---
 000_KEYWORD: 피읖__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69105
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3966,13 +3966,13 @@ imported:
     - 형태: 피읖이[피으비]
     - 형태: 피읖도[피읍또]
     - 형태: 피읖만[피음만]
-processed:
+result:
   맞춤법 검사:
     표제어: 피읖
     품사: 명사
 ---
 000_KEYWORD: 피의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85330
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3999,13 +3999,13 @@ imported:
     표제어: 피의
     품사: 명사
     항목ID: 85330
-processed:
+result:
   맞춤법 검사:
     표제어: 피의
     품사: 명사
 ---
 000_KEYWORD: 피의자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85331
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4035,13 +4035,13 @@ imported:
     표제어: 피의자
     품사: 명사
     항목ID: 85331
-processed:
+result:
   맞춤법 검사:
     표제어: 피의자
     품사: 명사
 ---
 000_KEYWORD: 피인용__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4050,13 +4050,13 @@ imported:
     표제어: 피인용
     품사: 명사:보통:서술성
     항목ID: 29472
-processed:
+result:
   맞춤법 검사:
     표제어: 피인용
     품사: 명사
 ---
 000_KEYWORD: 피임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85332
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4086,13 +4086,13 @@ imported:
     표제어: 피임
     품사: 명사
     항목ID: 85332
-processed:
+result:
   맞춤법 검사:
     표제어: 피임
     품사: 명사
 ---
 000_KEYWORD: 피임약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85334
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4127,13 +4127,13 @@ imported:
     - 발음: 피ː임냥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/85334_pi-imnyangman.wav
       형태: 피임약만
-processed:
+result:
   맞춤법 검사:
     표제어: 피임약
     품사: 명사
 ---
 000_KEYWORD: 피임하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85333
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4157,13 +4157,13 @@ imported:
     표제어: 피임하다
     품사: 동사
     항목ID: 85333
-processed:
+result:
   맞춤법 검사:
     표제어: 피임하다
     품사: 동사
 ---
 000_KEYWORD: 피자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26909
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4209,13 +4209,13 @@ imported:
     표제어: 피자
     품사: 명사
     항목ID: 26909
-processed:
+result:
   맞춤법 검사:
     표제어: 피자
     품사: 명사
 ---
 000_KEYWORD: 피장파장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85413
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4237,13 +4237,13 @@ imported:
     표제어: 피장파장
     품사: 명사
     항목ID: 85413
-processed:
+result:
   맞춤법 검사:
     표제어: 피장파장
     품사: 명사
 ---
 000_KEYWORD: 피조물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85432
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4267,13 +4267,13 @@ imported:
     표제어: 피조물
     품사: 명사
     항목ID: 85432
-processed:
+result:
   맞춤법 검사:
     표제어: 피조물
     품사: 명사
 ---
 000_KEYWORD: 피지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85433
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4298,13 +4298,13 @@ imported:
     표제어: 피지
     품사: 명사
     항목ID: 85433
-processed:
+result:
   맞춤법 검사:
     표제어: 피지
     품사: 명사
 ---
 000_KEYWORD: 피지__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70009
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4321,13 +4321,13 @@ imported:
     표제어: 피지
     품사: 명사
     항목ID: 70009
-processed:
+result:
   맞춤법 검사:
     표제어: 피지
     품사: 명사
 ---
 000_KEYWORD: 피지배__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85434
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4356,13 +4356,13 @@ imported:
     표제어: 피지배
     품사: 명사
     항목ID: 85434
-processed:
+result:
   맞춤법 검사:
     표제어: 피지배
     품사: 명사
 ---
 000_KEYWORD: 피지배층__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85435
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4388,13 +4388,13 @@ imported:
     표제어: 피지배층
     품사: 명사
     항목ID: 85435
-processed:
+result:
   맞춤법 검사:
     표제어: 피지배층
     품사: 명사
 ---
 000_KEYWORD: 피질__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4404,13 +4404,13 @@ imported:
     표제어: 피질
     품사: 명사:보통:서술성
     항목ID: 29480
-processed:
+result:
   맞춤법 검사:
     표제어: 피질
     품사: 명사
 ---
 000_KEYWORD: 피차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85440
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4437,13 +4437,13 @@ imported:
     표제어: 피차
     품사: 명사
     항목ID: 85440
-processed:
+result:
   맞춤법 검사:
     표제어: 피차
     품사: 명사
 ---
 000_KEYWORD: 피치카토__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4454,13 +4454,13 @@ imported:
     표제어: 피치카토
     품사: 명사:보통:서술성
     항목ID: 29482
-processed:
+result:
   맞춤법 검사:
     표제어: 피치카토
     품사: 명사
 ---
 000_KEYWORD: 피칭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85485
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4484,13 +4484,13 @@ imported:
     표제어: 피칭
     품사: 명사
     항목ID: 85485
-processed:
+result:
   맞춤법 검사:
     표제어: 피칭
     품사: 명사
 ---
 000_KEYWORD: 피칭하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4500,13 +4500,13 @@ imported:
     표제어: 피칭하다
     품사: 동사
     항목ID: 29484
-processed:
+result:
   맞춤법 검사:
     표제어: 피칭하다
     품사: 동사
 ---
 000_KEYWORD: 피카소__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4517,13 +4517,13 @@ imported:
     표제어: 피카소
     품사: 명사:보통:서술성
     항목ID: 29485
-processed:
+result:
   맞춤법 검사:
     표제어: 피카소
     품사: 명사
 ---
 000_KEYWORD: 피켓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85499
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4546,13 +4546,13 @@ imported:
     표제어: 피켓
     품사: 명사
     항목ID: 85499
-processed:
+result:
   맞춤법 검사:
     표제어: 피켓
     품사: 명사
 ---
 000_KEYWORD: 피크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85537
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4594,13 +4594,13 @@ imported:
     표제어: 피크
     품사: 명사
     항목ID: 85537
-processed:
+result:
   맞춤법 검사:
     표제어: 피크
     품사: 명사
 ---
 000_KEYWORD: 피클__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85538
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4627,13 +4627,13 @@ imported:
     표제어: 피클
     품사: 명사
     항목ID: 85538
-processed:
+result:
   맞춤법 검사:
     표제어: 피클
     품사: 명사
 ---
 000_KEYWORD: 피타고라스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4644,13 +4644,13 @@ imported:
     표제어: 피타고라스
     품사: 명사:보통:서술성
     항목ID: 29488
-processed:
+result:
   맞춤법 검사:
     표제어: 피타고라스
     품사: 명사
 ---
 000_KEYWORD: 피투성이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85540
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4675,13 +4675,13 @@ imported:
     표제어: 피투성이
     품사: 명사
     항목ID: 85540
-processed:
+result:
   맞춤법 검사:
     표제어: 피투성이
     품사: 명사
 ---
 000_KEYWORD: 피트__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85541
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4704,13 +4704,13 @@ imported:
     표제어: 피트
     품사: 의존 명사
     항목ID: 85541
-processed:
+result:
   맞춤법 검사:
     표제어: 피트
     품사: 의존 명사
 ---
 000_KEYWORD: 피폐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85543
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4741,13 +4741,13 @@ imported:
     표제어: 피폐
     품사: 명사
     항목ID: 85543
-processed:
+result:
   맞춤법 검사:
     표제어: 피폐
     품사: 명사
 ---
 000_KEYWORD: 피폐하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85542
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4775,13 +4775,13 @@ imported:
     표제어: 피폐하다
     품사: 동사
     항목ID: 85542
-processed:
+result:
   맞춤법 검사:
     표제어: 피폐하다
     품사: 동사
 ---
 000_KEYWORD: 피폭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85544
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4816,13 +4816,13 @@ imported:
     - 발음: 피ː퐁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/85544_pi-pongman.wav
       형태: 피폭만
-processed:
+result:
   맞춤법 검사:
     표제어: 피폭
     품사: 명사
 ---
 000_KEYWORD: 피폭__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85545
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4855,13 +4855,13 @@ imported:
       형태: 피폭도
     - 발음: 피ː퐁만
       형태: 피폭만
-processed:
+result:
   맞춤법 검사:
     표제어: 피폭
     품사: 명사
 ---
 000_KEYWORD: 피하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85911
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4932,13 +4932,13 @@ imported:
     표제어: 피하다
     품사: 동사
     항목ID: 85911
-processed:
+result:
   맞춤법 검사:
     표제어: 피하다
     품사: 동사
 ---
 000_KEYWORD: 피해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85548
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4981,13 +4981,13 @@ imported:
     표제어: 피해
     품사: 명사
     항목ID: 85548
-processed:
+result:
   맞춤법 검사:
     표제어: 피해
     품사: 명사
 ---
 000_KEYWORD: 피해망상__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4996,13 +4996,13 @@ imported:
     표제어: 피해망상
     품사: 명사:보통:서술성
     항목ID: 29493
-processed:
+result:
   맞춤법 검사:
     표제어: 피해망상
     품사: 명사
 ---
 000_KEYWORD: 피해액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85549
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5037,13 +5037,13 @@ imported:
     - 발음: 피ː해앵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/85549_pi-haeaengman.wav
       형태: 피해액만
-processed:
+result:
   맞춤법 검사:
     표제어: 피해액
     품사: 명사
 ---
 000_KEYWORD: 피해자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85550
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5077,13 +5077,13 @@ imported:
     표제어: 피해자
     품사: 명사
     항목ID: 85550
-processed:
+result:
   맞춤법 검사:
     표제어: 피해자
     품사: 명사
 ---
 000_KEYWORD: 피험자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85551
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5110,13 +5110,13 @@ imported:
     표제어: 피험자
     품사: 명사
     항목ID: 85551
-processed:
+result:
   맞춤법 검사:
     표제어: 피험자
     품사: 명사
 ---
 000_KEYWORD: 피혁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85552
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5153,13 +5153,13 @@ imported:
     - 발음: 피형만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/85552_pihyeongman.wav
       형태: 피혁만
-processed:
+result:
   맞춤법 검사:
     표제어: 피혁
     품사: 명사
 ---
 000_KEYWORD: 픽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86851
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5225,13 +5225,13 @@ imported:
     표제어: 픽
     품사: 부사
     항목ID: 86851
-processed:
+result:
   맞춤법 검사:
     표제어: 픽
     품사: 부사
 ---
 000_KEYWORD: 픽셀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5241,13 +5241,13 @@ imported:
     표제어: 픽셀
     품사: 명사:보통:비서술성
     항목ID: 29496
-processed:
+result:
   맞춤법 검사:
     표제어: 픽셀
     품사: 명사
 ---
 000_KEYWORD: 픽셀__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5256,13 +5256,13 @@ imported:
     표제어: 픽셀
     품사: 명사:의존:단위성
     항목ID: 32171
-processed:
+result:
   맞춤법 검사:
     표제어: 픽셀
     품사: 명사
 ---
 000_KEYWORD: 픽션__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85553
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5290,13 +5290,13 @@ imported:
     표제어: 픽션
     품사: 명사
     항목ID: 85553
-processed:
+result:
   맞춤법 검사:
     표제어: 픽션
     품사: 명사
 ---
 000_KEYWORD: 픽픽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86852
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5348,13 +5348,13 @@ imported:
     표제어: 픽픽
     품사: 부사
     항목ID: 86852
-processed:
+result:
   맞춤법 검사:
     표제어: 픽픽
     품사: 부사
 ---
 000_KEYWORD: 핀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85556
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5392,13 +5392,13 @@ imported:
     표제어: 핀
     품사: 명사
     항목ID: 85556
-processed:
+result:
   맞춤법 검사:
     표제어: 핀
     품사: 명사
 ---
 000_KEYWORD: 핀란드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70013
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5416,13 +5416,13 @@ imported:
     표제어: 핀란드
     품사: 명사
     항목ID: 70013
-processed:
+result:
   맞춤법 검사:
     표제어: 핀란드
     품사: 명사
 ---
 000_KEYWORD: 핀란드어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5431,13 +5431,13 @@ imported:
     표제어: 핀란드어
     품사: 명사:보통:서술성
     항목ID: 29500
-processed:
+result:
   맞춤법 검사:
     표제어: 핀란드어
     품사: 명사
 ---
 000_KEYWORD: 핀셋__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85568
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5466,13 +5466,13 @@ imported:
     표제어: 핀셋
     품사: 명사
     항목ID: 85568
-processed:
+result:
   맞춤법 검사:
     표제어: 핀셋
     품사: 명사
 ---
 000_KEYWORD: 핀잔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85873
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5502,13 +5502,13 @@ imported:
     표제어: 핀잔
     품사: 명사
     항목ID: 85873
-processed:
+result:
   맞춤법 검사:
     표제어: 핀잔
     품사: 명사
 ---
 000_KEYWORD: 핀잔주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85875
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5536,13 +5536,13 @@ imported:
     활용:
     - 형태: 핀잔주어
     - 형태: 핀잔주니
-processed:
+result:
   맞춤법 검사:
     표제어: 핀잔주다
     품사: 동사
 ---
 000_KEYWORD: 핀잔하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85874
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5574,13 +5574,13 @@ imported:
     표제어: 핀잔하다
     품사: 동사
     항목ID: 85874
-processed:
+result:
   맞춤법 검사:
     표제어: 핀잔하다
     품사: 동사
 ---
 000_KEYWORD: 핀트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85876
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5616,13 +5616,13 @@ imported:
     표제어: 핀트
     품사: 명사
     항목ID: 85876
-processed:
+result:
   맞춤법 검사:
     표제어: 핀트
     품사: 명사
 ---
 000_KEYWORD: 필__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85878
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5646,13 +5646,13 @@ imported:
     표제어: 필
     품사: 명사
     항목ID: 85878
-processed:
+result:
   맞춤법 검사:
     표제어: 필
     품사: 명사
 ---
 000_KEYWORD: 필__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85877
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5677,13 +5677,13 @@ imported:
     표제어: 필
     품사: 의존 명사
     항목ID: 85877
-processed:
+result:
   맞춤법 검사:
     표제어: 필
     품사: 의존 명사
 ---
 000_KEYWORD: 필경__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85879
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5714,13 +5714,13 @@ imported:
     표제어: 필경
     품사: 부사
     항목ID: 85879
-processed:
+result:
   맞춤법 검사:
     표제어: 필경
     품사: 부사
 ---
 000_KEYWORD: 필기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85880
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5758,13 +5758,13 @@ imported:
     표제어: 필기
     품사: 명사
     항목ID: 85880
-processed:
+result:
   맞춤법 검사:
     표제어: 필기
     품사: 명사
 ---
 000_KEYWORD: 필기구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84316
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5798,13 +5798,13 @@ imported:
     표제어: 필기구
     품사: 명사
     항목ID: 84316
-processed:
+result:
   맞춤법 검사:
     표제어: 필기구
     품사: 명사
 ---
 000_KEYWORD: 필기도구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84323
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5842,13 +5842,13 @@ imported:
     표제어: 필기도구
     품사: 명사
     항목ID: 84323
-processed:
+result:
   맞춤법 검사:
     표제어: 필기도구
     품사: 명사
 ---
 000_KEYWORD: 필기시험__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84343
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5884,13 +5884,13 @@ imported:
     표제어: 필기시험
     품사: 명사
     항목ID: 84343
-processed:
+result:
   맞춤법 검사:
     표제어: 필기시험
     품사: 명사
 ---
 000_KEYWORD: 필기체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84355
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5918,13 +5918,13 @@ imported:
     표제어: 필기체
     품사: 명사
     항목ID: 84355
-processed:
+result:
   맞춤법 검사:
     표제어: 필기체
     품사: 명사
 ---
 000_KEYWORD: 필기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84358
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5964,13 +5964,13 @@ imported:
     표제어: 필기하다
     품사: 동사
     항목ID: 84358
-processed:
+result:
   맞춤법 검사:
     표제어: 필기하다
     품사: 동사
 ---
 000_KEYWORD: 필담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84369
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5999,13 +5999,13 @@ imported:
     표제어: 필담
     품사: 명사
     항목ID: 84369
-processed:
+result:
   맞춤법 검사:
     표제어: 필담
     품사: 명사
 ---
 000_KEYWORD: 필담하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84370
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6033,13 +6033,13 @@ imported:
     표제어: 필담하다
     품사: 동사
     항목ID: 84370
-processed:
+result:
   맞춤법 검사:
     표제어: 필담하다
     품사: 동사
 ---
 000_KEYWORD: 필독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84372
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6075,13 +6075,13 @@ imported:
     - 발음: 필똥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/84372_pilttongman.wav
       형태: 필독만
-processed:
+result:
   맞춤법 검사:
     표제어: 필독
     품사: 명사
 ---
 000_KEYWORD: 필독서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84374
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6108,13 +6108,13 @@ imported:
     표제어: 필독서
     품사: 명사
     항목ID: 84374
-processed:
+result:
   맞춤법 검사:
     표제어: 필독서
     품사: 명사
 ---
 000_KEYWORD: 필독하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84384
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6140,13 +6140,13 @@ imported:
     표제어: 필독하다
     품사: 동사
     항목ID: 84384
-processed:
+result:
   맞춤법 검사:
     표제어: 필독하다
     품사: 동사
 ---
 000_KEYWORD: 필두__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84424
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6187,13 +6187,13 @@ imported:
     표제어: 필두
     품사: 명사
     항목ID: 84424
-processed:
+result:
   맞춤법 검사:
     표제어: 필두
     품사: 명사
 ---
 000_KEYWORD: 필두로__특수:파생형__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6204,13 +6204,13 @@ imported:
     표제어: 필두로
     품사: 특수:파생형
     항목ID: 29505
-processed:
+result:
   맞춤법 검사:
     표제어: 필두로
     품사: 특수:파생형
 ---
 000_KEYWORD: 필드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84425
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6246,13 +6246,13 @@ imported:
     표제어: 필드
     품사: 명사
     항목ID: 84425
-processed:
+result:
   맞춤법 검사:
     표제어: 필드
     품사: 명사
 ---
 000_KEYWORD: 필드하키__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84466
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6284,13 +6284,13 @@ imported:
     표제어: 필드하키
     품사: 명사
     항목ID: 84466
-processed:
+result:
   맞춤법 검사:
     표제어: 필드하키
     품사: 명사
 ---
 000_KEYWORD: 필라델피아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6300,13 +6300,13 @@ imported:
     표제어: 필라델피아
     품사: 명사:고유
     항목ID: 29507
-processed:
+result:
   맞춤법 검사:
     표제어: 필라델피아
     품사: 명사
 ---
 000_KEYWORD: 필라멘트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6317,13 +6317,13 @@ imported:
     표제어: 필라멘트
     품사: 명사:보통:서술성
     항목ID: 29508
-processed:
+result:
   맞춤법 검사:
     표제어: 필라멘트
     품사: 명사
 ---
 000_KEYWORD: 필라테스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6333,13 +6333,13 @@ imported:
     표제어: 필라테스
     품사: 명사:보통:서술성
     항목ID: 29509
-processed:
+result:
   맞춤법 검사:
     표제어: 필라테스
     품사: 명사
 ---
 000_KEYWORD: 필력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86147
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6391,13 +6391,13 @@ imported:
     - 발음: 필령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/86147_pillyeongman.wav
       형태: 필력만
-processed:
+result:
   맞춤법 검사:
     표제어: 필력
     품사: 명사
 ---
 000_KEYWORD: 필로폰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86148
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6428,13 +6428,13 @@ imported:
     표제어: 필로폰
     품사: 명사
     항목ID: 86148
-processed:
+result:
   맞춤법 검사:
     표제어: 필로폰
     품사: 명사
 ---
 000_KEYWORD: 필름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73273
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6490,13 +6490,13 @@ imported:
     표제어: 필름
     품사: 명사
     항목ID: 73273
-processed:
+result:
   맞춤법 검사:
     표제어: 필름
     품사: 명사
 ---
 000_KEYWORD: 필리핀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70000
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6514,13 +6514,13 @@ imported:
     표제어: 필리핀
     품사: 명사
     항목ID: 70000
-processed:
+result:
   맞춤법 검사:
     표제어: 필리핀
     품사: 명사
 ---
 000_KEYWORD: 필명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86149
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6571,13 +6571,13 @@ imported:
     표제어: 필명
     품사: 명사
     항목ID: 86149
-processed:
+result:
   맞춤법 검사:
     표제어: 필명
     품사: 명사
 ---
 000_KEYWORD: 필법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86150
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6614,13 +6614,13 @@ imported:
     - 발음: 필뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/86150_pilppeomman.wav
       형태: 필법만
-processed:
+result:
   맞춤법 검사:
     표제어: 필법
     품사: 명사
 ---
 000_KEYWORD: 필부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86151
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6654,13 +6654,13 @@ imported:
     표제어: 필부
     품사: 명사
     항목ID: 86151
-processed:
+result:
   맞춤법 검사:
     표제어: 필부
     품사: 명사
 ---
 000_KEYWORD: 필부__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86152
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6693,13 +6693,13 @@ imported:
     표제어: 필부
     품사: 명사
     항목ID: 86152
-processed:
+result:
   맞춤법 검사:
     표제어: 필부
     품사: 명사
 ---
 000_KEYWORD: 필부필부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6709,13 +6709,13 @@ imported:
     표제어: 필부필부
     품사: 명사:보통:서술성
     항목ID: 29514
-processed:
+result:
   맞춤법 검사:
     표제어: 필부필부
     품사: 명사
 ---
 000_KEYWORD: 필사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86153
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6744,13 +6744,13 @@ imported:
     표제어: 필사
     품사: 명사
     항목ID: 86153
-processed:
+result:
   맞춤법 검사:
     표제어: 필사
     품사: 명사
 ---
 000_KEYWORD: 필사__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86157
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6778,13 +6778,13 @@ imported:
     표제어: 필사
     품사: 명사
     항목ID: 86157
-processed:
+result:
   맞춤법 검사:
     표제어: 필사
     품사: 명사
 ---
 000_KEYWORD: 필사되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86154
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6815,13 +6815,13 @@ imported:
     표제어: 필사되다
     품사: 동사
     항목ID: 86154
-processed:
+result:
   맞춤법 검사:
     표제어: 필사되다
     품사: 동사
 ---
 000_KEYWORD: 필사본__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86156
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6852,13 +6852,13 @@ imported:
     표제어: 필사본
     품사: 명사
     항목ID: 86156
-processed:
+result:
   맞춤법 검사:
     표제어: 필사본
     품사: 명사
 ---
 000_KEYWORD: 필사적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86158
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6889,13 +6889,13 @@ imported:
     표제어: 필사적
     품사: 관형사
     항목ID: 86158
-processed:
+result:
   맞춤법 검사:
     표제어: 필사적
     품사: 관형사
 ---
 000_KEYWORD: 필사적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86159
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6928,13 +6928,13 @@ imported:
     표제어: 필사적
     품사: 명사
     항목ID: 86159
-processed:
+result:
   맞춤법 검사:
     표제어: 필사적
     품사: 명사
 ---
 000_KEYWORD: 필사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86155
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6964,13 +6964,13 @@ imported:
     표제어: 필사하다
     품사: 동사
     항목ID: 86155
-processed:
+result:
   맞춤법 검사:
     표제어: 필사하다
     품사: 동사
 ---
 000_KEYWORD: 필살기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6979,13 +6979,13 @@ imported:
     표제어: 필살기
     품사: 명사:보통:비서술성
     항목ID: 29517
-processed:
+result:
   맞춤법 검사:
     표제어: 필살기
     품사: 명사
 ---
 000_KEYWORD: 필생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86160
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7033,13 +7033,13 @@ imported:
     표제어: 필생
     품사: 명사
     항목ID: 86160
-processed:
+result:
   맞춤법 검사:
     표제어: 필생
     품사: 명사
 ---
 000_KEYWORD: 필수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86162
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7068,13 +7068,13 @@ imported:
     표제어: 필수
     품사: 명사
     항목ID: 86162
-processed:
+result:
   맞춤법 검사:
     표제어: 필수
     품사: 명사
 ---
 000_KEYWORD: 필수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86163
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7112,13 +7112,13 @@ imported:
     표제어: 필수
     품사: 명사
     항목ID: 86163
-processed:
+result:
   맞춤법 검사:
     표제어: 필수
     품사: 명사
 ---
 000_KEYWORD: 필수__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86164
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7147,13 +7147,13 @@ imported:
     표제어: 필수
     품사: 명사
     항목ID: 86164
-processed:
+result:
   맞춤법 검사:
     표제어: 필수
     품사: 명사
 ---
 000_KEYWORD: 필수적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86165
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7182,13 +7182,13 @@ imported:
     표제어: 필수적
     품사: 관형사
     항목ID: 86165
-processed:
+result:
   맞춤법 검사:
     표제어: 필수적
     품사: 관형사
 ---
 000_KEYWORD: 필수적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86166
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7219,13 +7219,13 @@ imported:
     표제어: 필수적
     품사: 명사
     항목ID: 86166
-processed:
+result:
   맞춤법 검사:
     표제어: 필수적
     품사: 명사
 ---
 000_KEYWORD: 필수품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86167
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7255,13 +7255,13 @@ imported:
     표제어: 필수품
     품사: 명사
     항목ID: 86167
-processed:
+result:
   맞춤법 검사:
     표제어: 필수품
     품사: 명사
 ---
 000_KEYWORD: 필순__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86209
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7292,13 +7292,13 @@ imported:
     표제어: 필순
     품사: 명사
     항목ID: 86209
-processed:
+result:
   맞춤법 검사:
     표제어: 필순
     품사: 명사
 ---
 000_KEYWORD: 필승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86210
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7329,13 +7329,13 @@ imported:
     표제어: 필승
     품사: 명사
     항목ID: 86210
-processed:
+result:
   맞춤법 검사:
     표제어: 필승
     품사: 명사
 ---
 000_KEYWORD: 필시__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86211
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7363,13 +7363,13 @@ imported:
     표제어: 필시
     품사: 부사
     항목ID: 86211
-processed:
+result:
   맞춤법 검사:
     표제어: 필시
     품사: 부사
 ---
 000_KEYWORD: 필연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86212
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7414,13 +7414,13 @@ imported:
     표제어: 필연
     품사: 명사
     항목ID: 86212
-processed:
+result:
   맞춤법 검사:
     표제어: 필연
     품사: 명사
 ---
 000_KEYWORD: 필연__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86213
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7451,13 +7451,13 @@ imported:
     표제어: 필연
     품사: 부사
     항목ID: 86213
-processed:
+result:
   맞춤법 검사:
     표제어: 필연
     품사: 부사
 ---
 000_KEYWORD: 필연성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86214
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7503,13 +7503,13 @@ imported:
     표제어: 필연성
     품사: 명사
     항목ID: 86214
-processed:
+result:
   맞춤법 검사:
     표제어: 필연성
     품사: 명사
 ---
 000_KEYWORD: 필연적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86222
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7544,13 +7544,13 @@ imported:
     표제어: 필연적
     품사: 관형사
     항목ID: 86222
-processed:
+result:
   맞춤법 검사:
     표제어: 필연적
     품사: 관형사
 ---
 000_KEYWORD: 필연적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86224
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7590,13 +7590,13 @@ imported:
     표제어: 필연적
     품사: 명사
     항목ID: 86224
-processed:
+result:
   맞춤법 검사:
     표제어: 필연적
     품사: 명사
 ---
 000_KEYWORD: 필연코__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86231
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7631,13 +7631,13 @@ imported:
     표제어: 필연코
     품사: 부사
     항목ID: 86231
-processed:
+result:
   맞춤법 검사:
     표제어: 필연코
     품사: 부사
 ---
 000_KEYWORD: 필요__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72405
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7671,13 +7671,13 @@ imported:
     표제어: 필요
     품사: 명사
     항목ID: 72405
-processed:
+result:
   맞춤법 검사:
     표제어: 필요
     품사: 명사
 ---
 000_KEYWORD: 필요량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86233
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7710,13 +7710,13 @@ imported:
     표제어: 필요량
     품사: 명사
     항목ID: 86233
-processed:
+result:
   맞춤법 검사:
     표제어: 필요량
     품사: 명사
 ---
 000_KEYWORD: 필요성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86280
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7750,13 +7750,13 @@ imported:
     표제어: 필요성
     품사: 명사
     항목ID: 86280
-processed:
+result:
   맞춤법 검사:
     표제어: 필요성
     품사: 명사
 ---
 000_KEYWORD: 필요시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86287
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7783,13 +7783,13 @@ imported:
     표제어: 필요시
     품사: 명사
     항목ID: 86287
-processed:
+result:
   맞춤법 검사:
     표제어: 필요시
     품사: 명사
 ---
 000_KEYWORD: 필요악__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86345
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7828,13 +7828,13 @@ imported:
     - 발음: 피료앙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/86345_piryoangman.wav
       형태: 필요악만
-processed:
+result:
   맞춤법 검사:
     표제어: 필요악
     품사: 명사
 ---
 000_KEYWORD: 필요조건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86371
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7867,13 +7867,13 @@ imported:
     표제어: 필요조건
     품사: 명사
     항목ID: 86371
-processed:
+result:
   맞춤법 검사:
     표제어: 필요조건
     품사: 명사
 ---
 000_KEYWORD: 필요충분조건__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86372
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -7900,13 +7900,13 @@ imported:
     표제어: 필요충분조건
     품사: 명사
     항목ID: 86372
-processed:
+result:
   맞춤법 검사:
     표제어: 필요충분조건
     품사: 명사
 ---
 000_KEYWORD: 필요하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=46945
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8001,13 +8001,13 @@ imported:
       형태: 필요하니
     - 발음: 피료함니다
       형태: 필요합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 필요하다
     품사: 형용사
 ---
 000_KEYWORD: 필자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86427
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8044,13 +8044,13 @@ imported:
     표제어: 필자
     품사: 명사
     항목ID: 86427
-processed:
+result:
   맞춤법 검사:
     표제어: 필자
     품사: 명사
 ---
 000_KEYWORD: 필적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84655
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8088,13 +8088,13 @@ imported:
     - 발음: 필쩡만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84655_piljjeongman.wav
       형태: 필적만
-processed:
+result:
   맞춤법 검사:
     표제어: 필적
     품사: 명사
 ---
 000_KEYWORD: 필적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84656
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8123,13 +8123,13 @@ imported:
     표제어: 필적하다
     품사: 동사
     항목ID: 84656
-processed:
+result:
   맞춤법 검사:
     표제어: 필적하다
     품사: 동사
 ---
 000_KEYWORD: 필지__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84657
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8157,13 +8157,13 @@ imported:
     표제어: 필지
     품사: 의존 명사
     항목ID: 84657
-processed:
+result:
   맞춤법 검사:
     표제어: 필지
     품사: 의존 명사
 ---
 000_KEYWORD: 필체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84658
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8198,13 +8198,13 @@ imported:
     표제어: 필체
     품사: 명사
     항목ID: 84658
-processed:
+result:
   맞춤법 검사:
     표제어: 필체
     품사: 명사
 ---
 000_KEYWORD: 필치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84659
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8250,13 +8250,13 @@ imported:
     표제어: 필치
     품사: 명사
     항목ID: 84659
-processed:
+result:
   맞춤법 검사:
     표제어: 필치
     품사: 명사
 ---
 000_KEYWORD: 필터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84660
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8321,13 +8321,13 @@ imported:
     표제어: 필터
     품사: 명사
     항목ID: 84660
-processed:
+result:
   맞춤법 검사:
     표제어: 필터
     품사: 명사
 ---
 000_KEYWORD: 필터링__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8336,13 +8336,13 @@ imported:
     표제어: 필터링
     품사: 명사:보통:서술성
     항목ID: 29536
-processed:
+result:
   맞춤법 검사:
     표제어: 필터링
     품사: 명사
 ---
 000_KEYWORD: 필통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84661
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8390,13 +8390,13 @@ imported:
     표제어: 필통
     품사: 명사
     항목ID: 84661
-processed:
+result:
   맞춤법 검사:
     표제어: 필통
     품사: 명사
 ---
 000_KEYWORD: 필하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84662
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8426,13 +8426,13 @@ imported:
     표제어: 필하다
     품사: 동사
     항목ID: 84662
-processed:
+result:
   맞춤법 검사:
     표제어: 필하다
     품사: 동사
 ---
 000_KEYWORD: 필화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84663
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8464,13 +8464,13 @@ imported:
     표제어: 필화
     품사: 명사
     항목ID: 84663
-processed:
+result:
   맞춤법 검사:
     표제어: 필화
     품사: 명사
 ---
 000_KEYWORD: 필히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84664
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8502,13 +8502,13 @@ imported:
     표제어: 필히
     품사: 부사
     항목ID: 84664
-processed:
+result:
   맞춤법 검사:
     표제어: 필히
     품사: 부사
 ---
 000_KEYWORD: 핍박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84665
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8547,13 +8547,13 @@ imported:
     - 발음: 핍빵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/02000/84665_pipppangman.wav
       형태: 핍박만
-processed:
+result:
   맞춤법 검사:
     표제어: 핍박
     품사: 명사
 ---
 000_KEYWORD: 핍박하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84666
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8582,13 +8582,13 @@ imported:
     표제어: 핍박하다
     품사: 동사
     항목ID: 84666
-processed:
+result:
   맞춤법 검사:
     표제어: 핍박하다
     품사: 동사
 ---
 000_KEYWORD: 핏기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84668
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8618,13 +8618,13 @@ imported:
     표제어: 핏기
     품사: 명사
     항목ID: 84668
-processed:
+result:
   맞춤법 검사:
     표제어: 핏기
     품사: 명사
 ---
 000_KEYWORD: 핏대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=84669
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8663,13 +8663,13 @@ imported:
     표제어: 핏대
     품사: 명사
     항목ID: 84669
-processed:
+result:
   맞춤법 검사:
     표제어: 핏대
     품사: 명사
 ---
 000_KEYWORD: 핏덩어리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85198
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8716,13 +8716,13 @@ imported:
     표제어: 핏덩어리
     품사: 명사
     항목ID: 85198
-processed:
+result:
   맞춤법 검사:
     표제어: 핏덩어리
     품사: 명사
 ---
 000_KEYWORD: 핏덩이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85199
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8769,13 +8769,13 @@ imported:
     표제어: 핏덩이
     품사: 명사
     항목ID: 85199
-processed:
+result:
   맞춤법 검사:
     표제어: 핏덩이
     품사: 명사
 ---
 000_KEYWORD: 핏물__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8785,13 +8785,13 @@ imported:
     표제어: 핏물
     품사: 명사:보통:서술성
     항목ID: 29540
-processed:
+result:
   맞춤법 검사:
     표제어: 핏물
     품사: 명사
 ---
 000_KEYWORD: 핏발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85196
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8820,13 +8820,13 @@ imported:
     표제어: 핏발
     품사: 명사
     항목ID: 85196
-processed:
+result:
   맞춤법 검사:
     표제어: 핏발
     품사: 명사
 ---
 000_KEYWORD: 핏방울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85200
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8856,13 +8856,13 @@ imported:
     표제어: 핏방울
     품사: 명사
     항목ID: 85200
-processed:
+result:
   맞춤법 검사:
     표제어: 핏방울
     품사: 명사
 ---
 000_KEYWORD: 핏빛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85201
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8915,13 +8915,13 @@ imported:
     - 발음: 핃삔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/85201_pitppinman.wav
       형태: 핏빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 핏빛
     품사: 명사
 ---
 000_KEYWORD: 핏자국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85202
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -8969,13 +8969,13 @@ imported:
     - 발음: 핃짜궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/85202_pitjjagungman.wav
       형태: 핏자국만
-processed:
+result:
   맞춤법 검사:
     표제어: 핏자국
     품사: 명사
 ---
 000_KEYWORD: 핏줄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85204
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9033,13 +9033,13 @@ imported:
     표제어: 핏줄
     품사: 명사
     항목ID: 85204
-processed:
+result:
   맞춤법 검사:
     표제어: 핏줄
     품사: 명사
 ---
 000_KEYWORD: 핏줄기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85205
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9095,13 +9095,13 @@ imported:
     표제어: 핏줄기
     품사: 명사
     항목ID: 85205
-processed:
+result:
   맞춤법 검사:
     표제어: 핏줄기
     품사: 명사
 ---
 000_KEYWORD: 핑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85207
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9176,13 +9176,13 @@ imported:
     표제어: 핑
     품사: 부사
     항목ID: 85207
-processed:
+result:
   맞춤법 검사:
     표제어: 핑
     품사: 부사
 ---
 000_KEYWORD: 핑__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85209
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9207,13 +9207,13 @@ imported:
     표제어: 핑
     품사: 부사
     항목ID: 85209
-processed:
+result:
   맞춤법 검사:
     표제어: 핑
     품사: 부사
 ---
 000_KEYWORD: 핑계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85210
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9262,13 +9262,13 @@ imported:
     표제어: 핑계
     품사: 명사
     항목ID: 85210
-processed:
+result:
   맞춤법 검사:
     표제어: 핑계
     품사: 명사
 ---
 000_KEYWORD: 핑그르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85211
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9337,13 +9337,13 @@ imported:
     표제어: 핑그르르
     품사: 부사
     항목ID: 85211
-processed:
+result:
   맞춤법 검사:
     표제어: 핑그르르
     품사: 부사
 ---
 000_KEYWORD: 핑글핑글__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85212
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9375,13 +9375,13 @@ imported:
     표제어: 핑글핑글
     품사: 부사
     항목ID: 85212
-processed:
+result:
   맞춤법 검사:
     표제어: 핑글핑글
     품사: 부사
 ---
 000_KEYWORD: 핑크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85214
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -9433,7 +9433,7 @@ imported:
     표제어: 핑크
     품사: 명사
     항목ID: 85214
-processed:
+result:
   맞춤법 검사:
     표제어: 핑크
     품사: 명사

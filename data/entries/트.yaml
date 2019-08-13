@@ -1,5 +1,5 @@
 000_KEYWORD: -트리다__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83205
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -25,11 +25,11 @@ imported:
     표제어: -트리다
     품사: 접사
     항목ID: 83205
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 트기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92333
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -42,10 +42,10 @@ imported:
     표제어: 트기
     품사: 명사
     항목ID: 92333
-processed: {}
+result: {}
 ---
 000_KEYWORD: 트다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82420
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -121,13 +121,13 @@ imported:
     활용:
     - 형태: 터
     - 형태: 트니
-processed:
+result:
   맞춤법 검사:
     표제어: 트다
     품사: 동사
 ---
 000_KEYWORD: 트다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82422
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -220,13 +220,13 @@ imported:
     활용:
     - 형태: 터
     - 형태: 트니
-processed:
+result:
   맞춤법 검사:
     표제어: 트다
     품사: 동사
 ---
 000_KEYWORD: 트라이앵글__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82424
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -254,13 +254,13 @@ imported:
     표제어: 트라이앵글
     품사: 명사
     항목ID: 82424
-processed:
+result:
   맞춤법 검사:
     표제어: 트라이앵글
     품사: 명사
 ---
 000_KEYWORD: 트랙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82430
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -298,13 +298,13 @@ imported:
     표제어: 트랙
     품사: 명사
     항목ID: 82430
-processed:
+result:
   맞춤법 검사:
     표제어: 트랙
     품사: 명사
 ---
 000_KEYWORD: 트랙백__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -314,13 +314,13 @@ imported:
     표제어: 트랙백
     품사: 명사:보통:비서술성
     항목ID: 28366
-processed:
+result:
   맞춤법 검사:
     표제어: 트랙백
     품사: 명사
 ---
 000_KEYWORD: 트랙터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -330,13 +330,13 @@ imported:
     표제어: 트랙터
     품사: 명사:보통:비서술성
     항목ID: 28367
-processed:
+result:
   맞춤법 검사:
     표제어: 트랙터
     품사: 명사
 ---
 000_KEYWORD: 트랜스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82432
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -365,13 +365,13 @@ imported:
     표제어: 트랜스
     품사: 명사
     항목ID: 82432
-processed:
+result:
   맞춤법 검사:
     표제어: 트랜스
     품사: 명사
 ---
 000_KEYWORD: 트랜지스터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -381,13 +381,13 @@ imported:
     표제어: 트랜지스터
     품사: 명사:보통:비서술성
     항목ID: 28368
-processed:
+result:
   맞춤법 검사:
     표제어: 트랜지스터
     품사: 명사
 ---
 000_KEYWORD: 트램펄린__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -397,13 +397,13 @@ imported:
     표제어: 트램펄린
     품사: 명사:보통:비서술성
     항목ID: 28369
-processed:
+result:
   맞춤법 검사:
     표제어: 트램펄린
     품사: 명사
 ---
 000_KEYWORD: 트랩__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82435
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -433,13 +433,13 @@ imported:
     표제어: 트랩
     품사: 명사
     항목ID: 82435
-processed:
+result:
   맞춤법 검사:
     표제어: 트랩
     품사: 명사
 ---
 000_KEYWORD: 트럭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82436
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -471,13 +471,13 @@ imported:
     표제어: 트럭
     품사: 명사
     항목ID: 82436
-processed:
+result:
   맞춤법 검사:
     표제어: 트럭
     품사: 명사
 ---
 000_KEYWORD: 트럼펫__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82437
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -505,13 +505,13 @@ imported:
     표제어: 트럼펫
     품사: 명사
     항목ID: 82437
-processed:
+result:
   맞춤법 검사:
     표제어: 트럼펫
     품사: 명사
 ---
 000_KEYWORD: 트럼프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82438
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -539,13 +539,13 @@ imported:
     표제어: 트럼프
     품사: 명사
     항목ID: 82438
-processed:
+result:
   맞춤법 검사:
     표제어: 트럼프
     품사: 명사
 ---
 000_KEYWORD: 트렁크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82439
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -592,13 +592,13 @@ imported:
     표제어: 트렁크
     품사: 명사
     항목ID: 82439
-processed:
+result:
   맞춤법 검사:
     표제어: 트렁크
     품사: 명사
 ---
 000_KEYWORD: 트레이닝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82440
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -631,13 +631,13 @@ imported:
     표제어: 트레이닝
     품사: 명사
     항목ID: 82440
-processed:
+result:
   맞춤법 검사:
     표제어: 트레이닝
     품사: 명사
 ---
 000_KEYWORD: 트레이드__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82441
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -663,13 +663,13 @@ imported:
     표제어: 트레이드
     품사: 명사
     항목ID: 82441
-processed:
+result:
   맞춤법 검사:
     표제어: 트레이드
     품사: 명사
 ---
 000_KEYWORD: 트레이드하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -679,13 +679,13 @@ imported:
     표제어: 트레이드하다
     품사: 동사
     항목ID: 28378
-processed:
+result:
   맞춤법 검사:
     표제어: 트레이드하다
     품사: 동사
 ---
 000_KEYWORD: 트레일러__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82442
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -713,13 +713,13 @@ imported:
     표제어: 트레일러
     품사: 명사
     항목ID: 82442
-processed:
+result:
   맞춤법 검사:
     표제어: 트레일러
     품사: 명사
 ---
 000_KEYWORD: 트렌드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -728,13 +728,13 @@ imported:
     표제어: 트렌드
     품사: 명사:보통:서술성
     항목ID: 31806
-processed:
+result:
   맞춤법 검사:
     표제어: 트렌드
     품사: 명사
 ---
 000_KEYWORD: 트렌치코트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82443
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -763,13 +763,13 @@ imported:
     표제어: 트렌치코트
     품사: 명사
     항목ID: 82443
-processed:
+result:
   맞춤법 검사:
     표제어: 트렌치코트
     품사: 명사
 ---
 000_KEYWORD: 트로이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -780,13 +780,13 @@ imported:
     표제어: 트로이
     품사: 명사:보통:서술성
     항목ID: 28380
-processed:
+result:
   맞춤법 검사:
     표제어: 트로이
     품사: 명사
 ---
 000_KEYWORD: 트로이카__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90173
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -834,13 +834,13 @@ imported:
     표제어: 트로이카
     품사: 명사
     항목ID: 90173
-processed:
+result:
   맞춤법 검사:
     표제어: 트로이카
     품사: 명사
 ---
 000_KEYWORD: 트로트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82444
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -868,13 +868,13 @@ imported:
     표제어: 트로트
     품사: 명사
     항목ID: 82444
-processed:
+result:
   맞춤법 검사:
     표제어: 트로트
     품사: 명사
 ---
 000_KEYWORD: 트로피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82969
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -905,13 +905,13 @@ imported:
     표제어: 트로피
     품사: 명사
     항목ID: 82969
-processed:
+result:
   맞춤법 검사:
     표제어: 트로피
     품사: 명사
 ---
 000_KEYWORD: 트롤__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -922,13 +922,13 @@ imported:
     표제어: 트롤
     품사: 명사:보통:비서술성
     항목ID: 28383
-processed:
+result:
   맞춤법 검사:
     표제어: 트롤
     품사: 명사
 ---
 000_KEYWORD: 트롬본__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82970
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -957,13 +957,13 @@ imported:
     표제어: 트롬본
     품사: 명사
     항목ID: 82970
-processed:
+result:
   맞춤법 검사:
     표제어: 트롬본
     품사: 명사
 ---
 000_KEYWORD: 트리오__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90174
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1008,13 +1008,13 @@ imported:
     표제어: 트리오
     품사: 명사
     항목ID: 90174
-processed:
+result:
   맞춤법 검사:
     표제어: 트리오
     품사: 명사
 ---
 000_KEYWORD: 트리폴리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1025,13 +1025,13 @@ imported:
     표제어: 트리폴리
     품사: 명사:보통:서술성
     항목ID: 28386
-processed:
+result:
   맞춤법 검사:
     표제어: 트리폴리
     품사: 명사
 ---
 000_KEYWORD: 트릭__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1042,13 +1042,13 @@ imported:
     표제어: 트릭
     품사: 명사:보통:비서술성
     항목ID: 28387
-processed:
+result:
   맞춤법 검사:
     표제어: 트릭
     품사: 명사
 ---
 000_KEYWORD: 트림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82971
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1078,13 +1078,13 @@ imported:
     표제어: 트림
     품사: 명사
     항목ID: 82971
-processed:
+result:
   맞춤법 검사:
     표제어: 트림
     품사: 명사
 ---
 000_KEYWORD: 트림하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82972
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1111,13 +1111,13 @@ imported:
     표제어: 트림하다
     품사: 동사
     항목ID: 82972
-processed:
+result:
   맞춤법 검사:
     표제어: 트림하다
     품사: 동사
 ---
 000_KEYWORD: 트위스트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1127,13 +1127,13 @@ imported:
     표제어: 트위스트
     품사: 명사:보통:서술성
     항목ID: 28388
-processed:
+result:
   맞춤법 검사:
     표제어: 트위스트
     품사: 명사
 ---
 000_KEYWORD: 트이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82973
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1293,13 +1293,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82973_teuiyeo.wav
       형태: 트이어
     - 형태: 트이니
-processed:
+result:
   맞춤법 검사:
     표제어: 트이다
     품사: 동사
 ---
 000_KEYWORD: 트집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82974
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1337,13 +1337,13 @@ imported:
     - 발음: 트짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82974_teujimman.wav
       형태: 트집만
-processed:
+result:
   맞춤법 검사:
     표제어: 트집
     품사: 명사
 ---
 000_KEYWORD: 특강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82975
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1374,13 +1374,13 @@ imported:
     표제어: 특강
     품사: 명사
     항목ID: 82975
-processed:
+result:
   맞춤법 검사:
     표제어: 특강
     품사: 명사
 ---
 000_KEYWORD: 특검__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90672
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1408,13 +1408,13 @@ imported:
     표제어: 특검
     품사: 명사
     항목ID: 90672
-processed:
+result:
   맞춤법 검사:
     표제어: 특검
     품사: 명사
 ---
 000_KEYWORD: 특공대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82976
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1444,13 +1444,13 @@ imported:
     표제어: 특공대
     품사: 명사
     항목ID: 82976
-processed:
+result:
   맞춤법 검사:
     표제어: 특공대
     품사: 명사
 ---
 000_KEYWORD: 특권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82977
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1482,13 +1482,13 @@ imported:
     표제어: 특권
     품사: 명사
     항목ID: 82977
-processed:
+result:
   맞춤법 검사:
     표제어: 특권
     품사: 명사
 ---
 000_KEYWORD: 특권층__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82978
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1518,13 +1518,13 @@ imported:
     표제어: 특권층
     품사: 명사
     항목ID: 82978
-processed:
+result:
   맞춤법 검사:
     표제어: 특권층
     품사: 명사
 ---
 000_KEYWORD: 특근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82979
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1553,13 +1553,13 @@ imported:
     표제어: 특근
     품사: 명사
     항목ID: 82979
-processed:
+result:
   맞춤법 검사:
     표제어: 특근
     품사: 명사
 ---
 000_KEYWORD: 특급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82980
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1597,13 +1597,13 @@ imported:
     - 발음: 특끔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82980_teukkkeumman.wav
       형태: 특급만
-processed:
+result:
   맞춤법 검사:
     표제어: 특급
     품사: 명사
 ---
 000_KEYWORD: 특급__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92094
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1642,13 +1642,13 @@ imported:
     - 발음: 특끔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82980_teukkkeumman.wav
       형태: 특급만
-processed:
+result:
   맞춤법 검사:
     표제어: 특급
     품사: 명사
 ---
 000_KEYWORD: 특기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82981
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1682,13 +1682,13 @@ imported:
     표제어: 특기
     품사: 명사
     항목ID: 82981
-processed:
+result:
   맞춤법 검사:
     표제어: 특기
     품사: 명사
 ---
 000_KEYWORD: 특기__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82982
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1716,13 +1716,13 @@ imported:
     표제어: 특기
     품사: 명사
     항목ID: 82982
-processed:
+result:
   맞춤법 검사:
     표제어: 특기
     품사: 명사
 ---
 000_KEYWORD: 특기생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82983
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1750,13 +1750,13 @@ imported:
     표제어: 특기생
     품사: 명사
     항목ID: 82983
-processed:
+result:
   맞춤법 검사:
     표제어: 특기생
     품사: 명사
 ---
 000_KEYWORD: 특기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82984
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1785,13 +1785,13 @@ imported:
     표제어: 특기하다
     품사: 동사
     항목ID: 82984
-processed:
+result:
   맞춤법 검사:
     표제어: 특기하다
     품사: 동사
 ---
 000_KEYWORD: 특단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82985
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1825,13 +1825,13 @@ imported:
     표제어: 특단
     품사: 명사
     항목ID: 82985
-processed:
+result:
   맞춤법 검사:
     표제어: 특단
     품사: 명사
 ---
 000_KEYWORD: 특등__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82986
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1859,13 +1859,13 @@ imported:
     표제어: 특등
     품사: 명사
     항목ID: 82986
-processed:
+result:
   맞춤법 검사:
     표제어: 특등
     품사: 명사
 ---
 000_KEYWORD: 특례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82987
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1894,13 +1894,13 @@ imported:
     표제어: 특례
     품사: 명사
     항목ID: 82987
-processed:
+result:
   맞춤법 검사:
     표제어: 특례
     품사: 명사
 ---
 000_KEYWORD: 특례법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82988
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1944,13 +1944,13 @@ imported:
     - 발음: 틍녜뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82988_teungnyeppeomman.wav
       형태: 특례법만
-processed:
+result:
   맞춤법 검사:
     표제어: 특례법
     품사: 명사
 ---
 000_KEYWORD: 특명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82989
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1994,13 +1994,13 @@ imported:
     표제어: 특명
     품사: 명사
     항목ID: 82989
-processed:
+result:
   맞춤법 검사:
     표제어: 특명
     품사: 명사
 ---
 000_KEYWORD: 특무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82990
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2030,13 +2030,13 @@ imported:
     표제어: 특무
     품사: 명사
     항목ID: 82990
-processed:
+result:
   맞춤법 검사:
     표제어: 특무
     품사: 명사
 ---
 000_KEYWORD: 특별__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49420
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2070,13 +2070,13 @@ imported:
     표제어: 특별
     품사: 명사
     항목ID: 49420
-processed:
+result:
   맞춤법 검사:
     표제어: 특별
     품사: 명사
 ---
 000_KEYWORD: 특별나다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82991
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2125,13 +2125,13 @@ imported:
       형태: 특별나니
     - 발음: 특뼐람니다
       형태: 특별납니다
-processed:
+result:
   맞춤법 검사:
     표제어: 특별나다
     품사: 형용사
 ---
 000_KEYWORD: 특별법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82992
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2178,13 +2178,13 @@ imported:
     - 발음: 특뼐뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82992_teukppyeolppeomman.wav
       형태: 특별법만
-processed:
+result:
   맞춤법 검사:
     표제어: 특별법
     품사: 명사
 ---
 000_KEYWORD: 특별상__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2193,13 +2193,13 @@ imported:
     표제어: 특별상
     품사: 명사:보통:비서술성
     항목ID: 28403
-processed:
+result:
   맞춤법 검사:
     표제어: 특별상
     품사: 명사
 ---
 000_KEYWORD: 특별소비세__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2208,13 +2208,13 @@ imported:
     표제어: 특별소비세
     품사: 명사:보통:서술성
     항목ID: 28404
-processed:
+result:
   맞춤법 검사:
     표제어: 특별소비세
     품사: 명사
 ---
 000_KEYWORD: 특별시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82995
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2244,13 +2244,13 @@ imported:
     표제어: 특별시
     품사: 명사
     항목ID: 82995
-processed:
+result:
   맞춤법 검사:
     표제어: 특별시
     품사: 명사
 ---
 000_KEYWORD: 특별하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71297
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2296,13 +2296,13 @@ imported:
       형태: 특별하니
     - 발음: 특뼐함니다
       형태: 특별합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 특별하다
     품사: 형용사
 ---
 000_KEYWORD: 특별히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71298
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2336,13 +2336,13 @@ imported:
     표제어: 특별히
     품사: 부사
     항목ID: 71298
-processed:
+result:
   맞춤법 검사:
     표제어: 특별히
     품사: 부사
 ---
 000_KEYWORD: 특보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82997
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2371,13 +2371,13 @@ imported:
     표제어: 특보
     품사: 명사
     항목ID: 82997
-processed:
+result:
   맞춤법 검사:
     표제어: 특보
     품사: 명사
 ---
 000_KEYWORD: 특사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82998
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2405,13 +2405,13 @@ imported:
     표제어: 특사
     품사: 명사
     항목ID: 82998
-processed:
+result:
   맞춤법 검사:
     표제어: 특사
     품사: 명사
 ---
 000_KEYWORD: 특사__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82999
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2441,13 +2441,13 @@ imported:
     표제어: 특사
     품사: 명사
     항목ID: 82999
-processed:
+result:
   맞춤법 검사:
     표제어: 특사
     품사: 명사
 ---
 000_KEYWORD: 특산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83000
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2476,13 +2476,13 @@ imported:
     표제어: 특산
     품사: 명사
     항목ID: 83000
-processed:
+result:
   맞춤법 검사:
     표제어: 특산
     품사: 명사
 ---
 000_KEYWORD: 특산물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83001
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2512,13 +2512,13 @@ imported:
     표제어: 특산물
     품사: 명사
     항목ID: 83001
-processed:
+result:
   맞춤법 검사:
     표제어: 특산물
     품사: 명사
 ---
 000_KEYWORD: 특산품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83002
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2547,13 +2547,13 @@ imported:
     표제어: 특산품
     품사: 명사
     항목ID: 83002
-processed:
+result:
   맞춤법 검사:
     표제어: 특산품
     품사: 명사
 ---
 000_KEYWORD: 특색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83003
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2602,13 +2602,13 @@ imported:
     - 발음: 특쌩만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83003_teukssaengman.wav
       형태: 특색만
-processed:
+result:
   맞춤법 검사:
     표제어: 특색
     품사: 명사
 ---
 000_KEYWORD: 특석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83004
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2647,13 +2647,13 @@ imported:
     - 발음: 특썽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83004_teuksseongman.wav
       형태: 특석만
-processed:
+result:
   맞춤법 검사:
     표제어: 특석
     품사: 명사
 ---
 000_KEYWORD: 특선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83005
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2701,13 +2701,13 @@ imported:
     표제어: 특선
     품사: 명사
     항목ID: 83005
-processed:
+result:
   맞춤법 검사:
     표제어: 특선
     품사: 명사
 ---
 000_KEYWORD: 특설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83006
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2738,13 +2738,13 @@ imported:
     표제어: 특설
     품사: 명사
     항목ID: 83006
-processed:
+result:
   맞춤법 검사:
     표제어: 특설
     품사: 명사
 ---
 000_KEYWORD: 특성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83007
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2778,13 +2778,13 @@ imported:
     표제어: 특성
     품사: 명사
     항목ID: 83007
-processed:
+result:
   맞춤법 검사:
     표제어: 특성
     품사: 명사
 ---
 000_KEYWORD: 특소세__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2793,13 +2793,13 @@ imported:
     표제어: 특소세
     품사: 명사:보통:서술성
     항목ID: 28414
-processed:
+result:
   맞춤법 검사:
     표제어: 특소세
     품사: 명사
 ---
 000_KEYWORD: 특수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83008
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2841,13 +2841,13 @@ imported:
     표제어: 특수
     품사: 명사
     항목ID: 83008
-processed:
+result:
   맞춤법 검사:
     표제어: 특수
     품사: 명사
 ---
 000_KEYWORD: 특수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83009
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2877,13 +2877,13 @@ imported:
     표제어: 특수
     품사: 명사
     항목ID: 83009
-processed:
+result:
   맞춤법 검사:
     표제어: 특수
     품사: 명사
 ---
 000_KEYWORD: 특수부대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2892,13 +2892,13 @@ imported:
     표제어: 특수부대
     품사: 명사:보통:비서술성
     항목ID: 28416
-processed:
+result:
   맞춤법 검사:
     표제어: 특수부대
     품사: 명사
 ---
 000_KEYWORD: 특수성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83012
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2929,13 +2929,13 @@ imported:
     표제어: 특수성
     품사: 명사
     항목ID: 83012
-processed:
+result:
   맞춤법 검사:
     표제어: 특수성
     품사: 명사
 ---
 000_KEYWORD: 특수하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83013
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -2977,13 +2977,13 @@ imported:
       형태: 특수하니
     - 발음: 특쑤함니다
       형태: 특수합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 특수하다
     품사: 형용사
 ---
 000_KEYWORD: 특수하다__형용사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83014
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3031,13 +3031,13 @@ imported:
       형태: 특수하니
     - 발음: 특쑤함니다
       형태: 특수합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 특수하다
     품사: 형용사
 ---
 000_KEYWORD: 특수화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83015
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3065,13 +3065,13 @@ imported:
     표제어: 특수화
     품사: 명사
     항목ID: 83015
-processed:
+result:
   맞춤법 검사:
     표제어: 특수화
     품사: 명사
 ---
 000_KEYWORD: 특수화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83016
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3102,13 +3102,13 @@ imported:
     표제어: 특수화되다
     품사: 동사
     항목ID: 83016
-processed:
+result:
   맞춤법 검사:
     표제어: 특수화되다
     품사: 동사
 ---
 000_KEYWORD: 특수화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83017
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3138,13 +3138,13 @@ imported:
     표제어: 특수화하다
     품사: 동사
     항목ID: 83017
-processed:
+result:
   맞춤법 검사:
     표제어: 특수화하다
     품사: 동사
 ---
 000_KEYWORD: 특실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83018
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3176,13 +3176,13 @@ imported:
     표제어: 특실
     품사: 명사
     항목ID: 83018
-processed:
+result:
   맞춤법 검사:
     표제어: 특실
     품사: 명사
 ---
 000_KEYWORD: 특약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83019
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3234,13 +3234,13 @@ imported:
     - 발음: 트걍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83019_teugyangman.wav
       형태: 특약만
-processed:
+result:
   맞춤법 검사:
     표제어: 특약
     품사: 명사
 ---
 000_KEYWORD: 특유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83021
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3271,13 +3271,13 @@ imported:
     표제어: 특유
     품사: 명사
     항목ID: 83021
-processed:
+result:
   맞춤법 검사:
     표제어: 특유
     품사: 명사
 ---
 000_KEYWORD: 특유하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83022
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3319,13 +3319,13 @@ imported:
       형태: 특유하니
     - 발음: 트규함니다
       형태: 특유합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 특유하다
     품사: 형용사
 ---
 000_KEYWORD: 특이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83023
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3359,13 +3359,13 @@ imported:
     표제어: 특이
     품사: 명사
     항목ID: 83023
-processed:
+result:
   맞춤법 검사:
     표제어: 특이
     품사: 명사
 ---
 000_KEYWORD: 특이점__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3375,13 +3375,13 @@ imported:
     표제어: 특이점
     품사: 명사:보통:서술성
     항목ID: 28425
-processed:
+result:
   맞춤법 검사:
     표제어: 특이점
     품사: 명사
 ---
 000_KEYWORD: 특이하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83024
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3429,13 +3429,13 @@ imported:
       형태: 특이하니
     - 발음: 트기함니다
       형태: 특이합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 특이하다
     품사: 형용사
 ---
 000_KEYWORD: 특전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83025
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3466,13 +3466,13 @@ imported:
     표제어: 특전
     품사: 명사
     항목ID: 83025
-processed:
+result:
   맞춤법 검사:
     표제어: 특전
     품사: 명사
 ---
 000_KEYWORD: 특전사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3481,13 +3481,13 @@ imported:
     표제어: 특전사
     품사: 명사:보통:서술성
     항목ID: 31967
-processed:
+result:
   맞춤법 검사:
     표제어: 특전사
     품사: 명사
 ---
 000_KEYWORD: 특정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83026
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3521,13 +3521,13 @@ imported:
     표제어: 특정
     품사: 명사
     항목ID: 83026
-processed:
+result:
   맞춤법 검사:
     표제어: 특정
     품사: 명사
 ---
 000_KEYWORD: 특정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83027
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3560,13 +3560,13 @@ imported:
     표제어: 특정되다
     품사: 동사
     항목ID: 83027
-processed:
+result:
   맞춤법 검사:
     표제어: 특정되다
     품사: 동사
 ---
 000_KEYWORD: 특정인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83029
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3598,13 +3598,13 @@ imported:
     표제어: 특정인
     품사: 명사
     항목ID: 83029
-processed:
+result:
   맞춤법 검사:
     표제어: 특정인
     품사: 명사
 ---
 000_KEYWORD: 특정하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83028
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3646,13 +3646,13 @@ imported:
       형태: 특정하니
     - 발음: 특쩡함니다
       형태: 특정합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 특정하다
     품사: 형용사
 ---
 000_KEYWORD: 특제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82559
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3680,13 +3680,13 @@ imported:
     표제어: 특제
     품사: 명사
     항목ID: 82559
-processed:
+result:
   맞춤법 검사:
     표제어: 특제
     품사: 명사
 ---
 000_KEYWORD: 특종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82561
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3732,13 +3732,13 @@ imported:
     표제어: 특종
     품사: 명사
     항목ID: 82561
-processed:
+result:
   맞춤법 검사:
     표제어: 특종
     품사: 명사
 ---
 000_KEYWORD: 특진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82565
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3766,13 +3766,13 @@ imported:
     표제어: 특진
     품사: 명사
     항목ID: 82565
-processed:
+result:
   맞춤법 검사:
     표제어: 특진
     품사: 명사
 ---
 000_KEYWORD: 특진__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82566
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3801,13 +3801,13 @@ imported:
     표제어: 특진
     품사: 명사
     항목ID: 82566
-processed:
+result:
   맞춤법 검사:
     표제어: 특진
     품사: 명사
 ---
 000_KEYWORD: 특진하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82568
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3836,13 +3836,13 @@ imported:
     표제어: 특진하다
     품사: 동사
     항목ID: 82568
-processed:
+result:
   맞춤법 검사:
     표제어: 특진하다
     품사: 동사
 ---
 000_KEYWORD: 특진하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82569
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3867,13 +3867,13 @@ imported:
     표제어: 특진하다
     품사: 동사
     항목ID: 82569
-processed:
+result:
   맞춤법 검사:
     표제어: 특진하다
     품사: 동사
 ---
 000_KEYWORD: 특질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82571
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3903,13 +3903,13 @@ imported:
     표제어: 특질
     품사: 명사
     항목ID: 82571
-processed:
+result:
   맞춤법 검사:
     표제어: 특질
     품사: 명사
 ---
 000_KEYWORD: 특집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82577
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3948,13 +3948,13 @@ imported:
     - 발음: 특찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82577_teukjjimman.wav
       형태: 특집만
-processed:
+result:
   맞춤법 검사:
     표제어: 특집
     품사: 명사
 ---
 000_KEYWORD: 특집극__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82578
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -3993,13 +3993,13 @@ imported:
     - 발음: 특찝끙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82578_teukjjipkkeungman.wav
       형태: 특집극만
-processed:
+result:
   맞춤법 검사:
     표제어: 특집극
     품사: 명사
 ---
 000_KEYWORD: 특집호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82589
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4027,13 +4027,13 @@ imported:
     표제어: 특집호
     품사: 명사
     항목ID: 82589
-processed:
+result:
   맞춤법 검사:
     표제어: 특집호
     품사: 명사
 ---
 000_KEYWORD: 특징__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71299
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4068,13 +4068,13 @@ imported:
     표제어: 특징
     품사: 명사
     항목ID: 71299
-processed:
+result:
   맞춤법 검사:
     표제어: 특징
     품사: 명사
 ---
 000_KEYWORD: 특징적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82590
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4102,13 +4102,13 @@ imported:
     표제어: 특징적
     품사: 관형사
     항목ID: 82590
-processed:
+result:
   맞춤법 검사:
     표제어: 특징적
     품사: 관형사
 ---
 000_KEYWORD: 특징적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82592
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4136,13 +4136,13 @@ imported:
     표제어: 특징적
     품사: 명사
     항목ID: 82592
-processed:
+result:
   맞춤법 검사:
     표제어: 특징적
     품사: 명사
 ---
 000_KEYWORD: 특징짓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82594
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4181,7 +4181,7 @@ imported:
     - 발음: 특찡진는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82594_teukjjingjinneun.wav
       형태: 특징짓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -4189,7 +4189,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 특채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82596
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4218,13 +4218,13 @@ imported:
     표제어: 특채
     품사: 명사
     항목ID: 82596
-processed:
+result:
   맞춤법 검사:
     표제어: 특채
     품사: 명사
 ---
 000_KEYWORD: 특채되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82598
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4255,13 +4255,13 @@ imported:
     표제어: 특채되다
     품사: 동사
     항목ID: 82598
-processed:
+result:
   맞춤법 검사:
     표제어: 특채되다
     품사: 동사
 ---
 000_KEYWORD: 특채하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82599
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4290,13 +4290,13 @@ imported:
     표제어: 특채하다
     품사: 동사
     항목ID: 82599
-processed:
+result:
   맞춤법 검사:
     표제어: 특채하다
     품사: 동사
 ---
 000_KEYWORD: 특출하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82601
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4337,13 +4337,13 @@ imported:
       형태: 특출하니
     - 발음: 특출함니다
       형태: 특출합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 특출하다
     품사: 형용사
 ---
 000_KEYWORD: 특파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82603
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4371,13 +4371,13 @@ imported:
     표제어: 특파
     품사: 명사
     항목ID: 82603
-processed:
+result:
   맞춤법 검사:
     표제어: 특파
     품사: 명사
 ---
 000_KEYWORD: 특파되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82604
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4409,13 +4409,13 @@ imported:
     표제어: 특파되다
     품사: 동사
     항목ID: 82604
-processed:
+result:
   맞춤법 검사:
     표제어: 특파되다
     품사: 동사
 ---
 000_KEYWORD: 특파원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82605
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4456,13 +4456,13 @@ imported:
     표제어: 특파원
     품사: 명사
     항목ID: 82605
-processed:
+result:
   맞춤법 검사:
     표제어: 특파원
     품사: 명사
 ---
 000_KEYWORD: 특파하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82606
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4491,13 +4491,13 @@ imported:
     표제어: 특파하다
     품사: 동사
     항목ID: 82606
-processed:
+result:
   맞춤법 검사:
     표제어: 특파하다
     품사: 동사
 ---
 000_KEYWORD: 특허__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82609
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4548,13 +4548,13 @@ imported:
     표제어: 특허
     품사: 명사
     항목ID: 82609
-processed:
+result:
   맞춤법 검사:
     표제어: 특허
     품사: 명사
 ---
 000_KEYWORD: 특허권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82610
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4587,13 +4587,13 @@ imported:
     표제어: 특허권
     품사: 명사
     항목ID: 82610
-processed:
+result:
   맞춤법 검사:
     표제어: 특허권
     품사: 명사
 ---
 000_KEYWORD: 특허청__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4603,13 +4603,13 @@ imported:
     표제어: 특허청
     품사: 명사:고유
     항목ID: 28441
-processed:
+result:
   맞춤법 검사:
     표제어: 특허청
     품사: 명사
 ---
 000_KEYWORD: 특허청장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4618,13 +4618,13 @@ imported:
     표제어: 특허청장
     품사: 명사:보통:비서술성
     항목ID: 28442
-processed:
+result:
   맞춤법 검사:
     표제어: 특허청장
     품사: 명사
 ---
 000_KEYWORD: 특허하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4633,13 +4633,13 @@ imported:
     표제어: 특허하다
     품사: 동사
     항목ID: 32081
-processed:
+result:
   맞춤법 검사:
     표제어: 특허하다
     품사: 동사
 ---
 000_KEYWORD: 특혜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82611
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4671,13 +4671,13 @@ imported:
     표제어: 특혜
     품사: 명사
     항목ID: 82611
-processed:
+result:
   맞춤법 검사:
     표제어: 특혜
     품사: 명사
 ---
 000_KEYWORD: 특화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82613
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4707,13 +4707,13 @@ imported:
     표제어: 특화
     품사: 명사
     항목ID: 82613
-processed:
+result:
   맞춤법 검사:
     표제어: 특화
     품사: 명사
 ---
 000_KEYWORD: 특화되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4722,13 +4722,13 @@ imported:
     표제어: 특화되다
     품사: 동사
     항목ID: 28444
-processed:
+result:
   맞춤법 검사:
     표제어: 특화되다
     품사: 동사
 ---
 000_KEYWORD: 특화하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4737,13 +4737,13 @@ imported:
     표제어: 특화하다
     품사: 동사
     항목ID: 28445
-processed:
+result:
   맞춤법 검사:
     표제어: 특화하다
     품사: 동사
 ---
 000_KEYWORD: 특활__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82615
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4771,13 +4771,13 @@ imported:
     표제어: 특활
     품사: 명사
     항목ID: 82615
-processed:
+result:
   맞춤법 검사:
     표제어: 특활
     품사: 명사
 ---
 000_KEYWORD: 특효__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82617
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4802,13 +4802,13 @@ imported:
     표제어: 특효
     품사: 명사
     항목ID: 82617
-processed:
+result:
   맞춤법 검사:
     표제어: 특효
     품사: 명사
 ---
 000_KEYWORD: 특효약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82620
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4847,13 +4847,13 @@ imported:
     - 발음: 트쿄양만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82620_teukyoyangman.wav
       형태: 특효약만
-processed:
+result:
   맞춤법 검사:
     표제어: 특효약
     품사: 명사
 ---
 000_KEYWORD: 특훈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4864,13 +4864,13 @@ imported:
     표제어: 특훈
     품사: 명사:보통:비서술성
     항목ID: 28449
-processed:
+result:
   맞춤법 검사:
     표제어: 특훈
     품사: 명사
 ---
 000_KEYWORD: 특히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71300
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -4903,13 +4903,13 @@ imported:
     표제어: 특히
     품사: 부사
     항목ID: 71300
-processed:
+result:
   맞춤법 검사:
     표제어: 특히
     품사: 부사
 ---
 000_KEYWORD: 튼튼하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71480
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5003,13 +5003,13 @@ imported:
       형태: 튼튼하니
     - 발음: 튼튼함니다
       형태: 튼튼합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 튼튼하다
     품사: 형용사
 ---
 000_KEYWORD: 튼튼히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82621
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5075,13 +5075,13 @@ imported:
     표제어: 튼튼히
     품사: 부사
     항목ID: 82621
-processed:
+result:
   맞춤법 검사:
     표제어: 튼튼히
     품사: 부사
 ---
 000_KEYWORD: 틀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82623
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5152,13 +5152,13 @@ imported:
     표제어: 틀
     품사: 명사
     항목ID: 82623
-processed:
+result:
   맞춤법 검사:
     표제어: 틀
     품사: 명사
 ---
 000_KEYWORD: 틀니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82624
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5192,13 +5192,13 @@ imported:
     표제어: 틀니
     품사: 명사
     항목ID: 82624
-processed:
+result:
   맞춤법 검사:
     표제어: 틀니
     품사: 명사
 ---
 000_KEYWORD: 틀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89816
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5368,13 +5368,13 @@ imported:
     - 발음: 틈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/89816_teumnida.wav
       형태: 틉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 틀다
     품사: 동사
 ---
 000_KEYWORD: 틀려먹다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5386,7 +5386,7 @@ imported:
     표제어: 틀려먹다
     품사: 동사
     항목ID: 28456
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -5394,7 +5394,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 틀리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71481
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5456,13 +5456,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71481_teulliyeo.wav
       형태: 틀리어
     - 형태: 틀리니
-processed:
+result:
   맞춤법 검사:
     표제어: 틀리다
     품사: 동사
 ---
 000_KEYWORD: 틀리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82625
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5537,13 +5537,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71481_teulliyeo.wav
       형태: 틀리어
     - 형태: 틀리니
-processed:
+result:
   맞춤법 검사:
     표제어: 틀리다
     품사: 동사
 ---
 000_KEYWORD: 틀림없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71301
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5600,13 +5600,13 @@ imported:
     - 발음: 틀리멉찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71301_teullimeopjji.wav
       형태: 틀림없지
-processed:
+result:
   맞춤법 검사:
     표제어: 틀림없다
     품사: 형용사
 ---
 000_KEYWORD: 틀림없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82627
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5633,13 +5633,13 @@ imported:
     표제어: 틀림없이
     품사: 부사
     항목ID: 82627
-processed:
+result:
   맞춤법 검사:
     표제어: 틀림없이
     품사: 부사
 ---
 000_KEYWORD: 틀어넣다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82629
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5681,7 +5681,7 @@ imported:
     - 발음: 트러너씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82629_teureoneosseumnida.wav
       형태: 틀어넣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -5689,7 +5689,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 틀어막다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82631
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5738,13 +5738,13 @@ imported:
     - 발음: 트러망는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82631_teureomangneun.wav
       형태: 틀어막는
-processed:
+result:
   맞춤법 검사:
     표제어: 틀어막다
     품사: 동사
 ---
 000_KEYWORD: 틀어박다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82632
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5797,13 +5797,13 @@ imported:
     - 발음: 트러방는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82632_teureobangneun.wav
       형태: 틀어박는
-processed:
+result:
   맞춤법 검사:
     표제어: 틀어박다
     품사: 동사
 ---
 000_KEYWORD: 틀어박히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82634
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5890,17 +5890,17 @@ imported:
     - 발음: 트러바키니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82634_teureobakini.wav
       형태: 틀어박히니
-processed:
+result:
   맞춤법 검사:
     표제어: 틀어박히다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 틀어잡다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82636
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -5954,7 +5954,7 @@ imported:
     - 발음: 트러잠는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82636_teureojamneun.wav
       형태: 틀어잡는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -5962,7 +5962,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 틀어쥐다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82637
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6014,13 +6014,13 @@ imported:
     - 발음: 트러쥐니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82637_teureojwini.wav
       형태: 틀어쥐니
-processed:
+result:
   맞춤법 검사:
     표제어: 틀어쥐다
     품사: 동사
 ---
 000_KEYWORD: 틀어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82639
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6114,7 +6114,7 @@ imported:
     - 발음: 트러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82639_teureojini.wav
       형태: 틀어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -6122,7 +6122,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 틈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82641
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6220,13 +6220,13 @@ imported:
     표제어: 틈
     품사: 명사
     항목ID: 82641
-processed:
+result:
   맞춤법 검사:
     표제어: 틈
     품사: 명사
 ---
 000_KEYWORD: 틈__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82643
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6255,13 +6255,13 @@ imported:
     표제어: 틈
     품사: 의존 명사
     항목ID: 82643
-processed:
+result:
   맞춤법 검사:
     표제어: 틈
     품사: 의존 명사
 ---
 000_KEYWORD: 틈나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82645
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6290,13 +6290,13 @@ imported:
     활용:
     - 형태: 틈나
     - 형태: 틈나니
-processed:
+result:
   맞춤법 검사:
     표제어: 틈나다
     품사: 동사
 ---
 000_KEYWORD: 틈바구니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82647
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6398,13 +6398,13 @@ imported:
     표제어: 틈바구니
     품사: 명사
     항목ID: 82647
-processed:
+result:
   맞춤법 검사:
     표제어: 틈바구니
     품사: 명사
 ---
 000_KEYWORD: 틈바귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82648
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6480,13 +6480,13 @@ imported:
     표제어: 틈바귀
     품사: 명사
     항목ID: 82648
-processed:
+result:
   맞춤법 검사:
     표제어: 틈바귀
     품사: 명사
 ---
 000_KEYWORD: 틈새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82650
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6572,13 +6572,13 @@ imported:
     표제어: 틈새
     품사: 명사
     항목ID: 82650
-processed:
+result:
   맞춤법 검사:
     표제어: 틈새
     품사: 명사
 ---
 000_KEYWORD: 틈새시장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82651
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6605,13 +6605,13 @@ imported:
     표제어: 틈새시장
     품사: 명사
     항목ID: 82651
-processed:
+result:
   맞춤법 검사:
     표제어: 틈새시장
     품사: 명사
 ---
 000_KEYWORD: 틈서리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82652
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6645,13 +6645,13 @@ imported:
     표제어: 틈서리
     품사: 명사
     항목ID: 82652
-processed:
+result:
   맞춤법 검사:
     표제어: 틈서리
     품사: 명사
 ---
 000_KEYWORD: 틈타다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82654
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6677,13 +6677,13 @@ imported:
     활용:
     - 형태: 틈타
     - 형태: 틈타니
-processed:
+result:
   맞춤법 검사:
     표제어: 틈타다
     품사: 동사
 ---
 000_KEYWORD: 틈틈이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82656
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -6722,7 +6722,7 @@ imported:
     표제어: 틈틈이
     품사: 부사
     항목ID: 82656
-processed:
+result:
   맞춤법 검사:
     표제어: 틈틈이
     품사: 부사

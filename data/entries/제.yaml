@@ -1,5 +1,5 @@
 000_KEYWORD: -제__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88652
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -54,11 +54,11 @@ imported:
     표제어: -제
     품사: 접사
     항목ID: 88652
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -제__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88653
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -82,11 +82,11 @@ imported:
     표제어: -제
     품사: 접사
     항목ID: 88653
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -제__접사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88655
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -112,11 +112,11 @@ imported:
     표제어: -제
     품사: 접사
     항목ID: 88655
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -제__접사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88656
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -165,11 +165,11 @@ imported:
     표제어: -제
     품사: 접사
     항목ID: 88656
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 제-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88654
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -189,11 +189,11 @@ imported:
     표제어: 제-
     품사: 접사
     항목ID: 88654
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 제__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75823
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -223,13 +223,13 @@ imported:
     표제어: 제
     품사: 관형사
     항목ID: 75823
-processed:
+result:
   맞춤법 검사:
     표제어: 제
     품사: 관형사
 ---
 000_KEYWORD: 제__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75821
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -262,13 +262,13 @@ imported:
     표제어: 제
     품사: 대명사
     항목ID: 75821
-processed:
+result:
   맞춤법 검사:
     표제어: 제
     품사: 대명사
 ---
 000_KEYWORD: 제__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75822
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -300,13 +300,13 @@ imported:
     표제어: 제
     품사: 의존 명사
     항목ID: 75822
-processed:
+result:
   맞춤법 검사:
     표제어: 제
     품사: 의존 명사
 ---
 000_KEYWORD: 제가끔__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75831
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -346,13 +346,13 @@ imported:
     표제어: 제가끔
     품사: 부사
     항목ID: 75831
-processed:
+result:
   맞춤법 검사:
     표제어: 제가끔
     품사: 부사
 ---
 000_KEYWORD: 제각각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75834
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -400,13 +400,13 @@ imported:
     - 발음: 제각깡만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/45000/75843_jegakkkangman.wav
       형태: 제각각만
-processed:
+result:
   맞춤법 검사:
     표제어: 제각각
     품사: 명사
 ---
 000_KEYWORD: 제각각__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75843
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -445,13 +445,13 @@ imported:
     표제어: 제각각
     품사: 부사
     항목ID: 75843
-processed:
+result:
   맞춤법 검사:
     표제어: 제각각
     품사: 부사
 ---
 000_KEYWORD: 제각기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75846
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -489,13 +489,13 @@ imported:
     표제어: 제각기
     품사: 명사
     항목ID: 75846
-processed:
+result:
   맞춤법 검사:
     표제어: 제각기
     품사: 명사
 ---
 000_KEYWORD: 제각기__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75848
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -539,13 +539,13 @@ imported:
     표제어: 제각기
     품사: 부사
     항목ID: 75848
-processed:
+result:
   맞춤법 검사:
     표제어: 제각기
     품사: 부사
 ---
 000_KEYWORD: 제값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75852
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -587,13 +587,13 @@ imported:
     - 발음: 제감만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/75852_jegamman.wav
       형태: 제값만
-processed:
+result:
   맞춤법 검사:
     표제어: 제값
     품사: 명사
 ---
 000_KEYWORD: 제강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75853
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -623,13 +623,13 @@ imported:
     표제어: 제강
     품사: 명사
     항목ID: 75853
-processed:
+result:
   맞춤법 검사:
     표제어: 제강
     품사: 명사
 ---
 000_KEYWORD: 제거__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75855
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -666,13 +666,13 @@ imported:
     표제어: 제거
     품사: 명사
     항목ID: 75855
-processed:
+result:
   맞춤법 검사:
     표제어: 제거
     품사: 명사
 ---
 000_KEYWORD: 제거되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75859
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -708,13 +708,13 @@ imported:
     표제어: 제거되다
     품사: 동사
     항목ID: 75859
-processed:
+result:
   맞춤법 검사:
     표제어: 제거되다
     품사: 동사
 ---
 000_KEYWORD: 제거하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31771
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -743,13 +743,13 @@ imported:
     표제어: 제거하다
     품사: 동사
     항목ID: 31771
-processed:
+result:
   맞춤법 검사:
     표제어: 제거하다
     품사: 동사
 ---
 000_KEYWORD: 제격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75930
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -788,13 +788,13 @@ imported:
     - 발음: 제경만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/35000/75930_jegyeongman.wav
       형태: 제격만
-processed:
+result:
   맞춤법 검사:
     표제어: 제격
     품사: 명사
 ---
 000_KEYWORD: 제고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75931
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -833,13 +833,13 @@ imported:
     표제어: 제고
     품사: 명사
     항목ID: 75931
-processed:
+result:
   맞춤법 검사:
     표제어: 제고
     품사: 명사
 ---
 000_KEYWORD: 제고되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75985
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -881,13 +881,13 @@ imported:
     표제어: 제고되다
     품사: 동사
     항목ID: 75985
-processed:
+result:
   맞춤법 검사:
     표제어: 제고되다
     품사: 동사
 ---
 000_KEYWORD: 제고하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75987
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -926,13 +926,13 @@ imported:
     표제어: 제고하다
     품사: 동사
     항목ID: 75987
-processed:
+result:
   맞춤법 검사:
     표제어: 제고하다
     품사: 동사
 ---
 000_KEYWORD: 제곱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75011
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -967,13 +967,13 @@ imported:
     - 발음: 제곰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/75011_jegomman.wav
       형태: 제곱만
-processed:
+result:
   맞춤법 검사:
     표제어: 제곱
     품사: 명사
 ---
 000_KEYWORD: 제곱근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75012
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1001,13 +1001,13 @@ imported:
     표제어: 제곱근
     품사: 명사
     항목ID: 75012
-processed:
+result:
   맞춤법 검사:
     표제어: 제곱근
     품사: 명사
 ---
 000_KEYWORD: 제곱미터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75013
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1032,13 +1032,13 @@ imported:
     표제어: 제곱미터
     품사: 의존 명사
     항목ID: 75013
-processed:
+result:
   맞춤법 검사:
     표제어: 제곱미터
     품사: 의존 명사
 ---
 000_KEYWORD: 제곱센티미터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75014
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1063,13 +1063,13 @@ imported:
     표제어: 제곱센티미터
     품사: 의존 명사
     항목ID: 75014
-processed:
+result:
   맞춤법 검사:
     표제어: 제곱센티미터
     품사: 의존 명사
 ---
 000_KEYWORD: 제곱킬로미터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75015
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1094,13 +1094,13 @@ imported:
     표제어: 제곱킬로미터
     품사: 의존 명사
     항목ID: 75015
-processed:
+result:
   맞춤법 검사:
     표제어: 제곱킬로미터
     품사: 의존 명사
 ---
 000_KEYWORD: 제공__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31773
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1131,13 +1131,13 @@ imported:
     표제어: 제공
     품사: 명사
     항목ID: 31773
-processed:
+result:
   맞춤법 검사:
     표제어: 제공
     품사: 명사
 ---
 000_KEYWORD: 제공권__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1146,13 +1146,13 @@ imported:
     표제어: 제공권
     품사: 명사:보통:서술성
     항목ID: 23863
-processed:
+result:
   맞춤법 검사:
     표제어: 제공권
     품사: 명사
 ---
 000_KEYWORD: 제공되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75024
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1184,13 +1184,13 @@ imported:
     표제어: 제공되다
     품사: 동사
     항목ID: 75024
-processed:
+result:
   맞춤법 검사:
     표제어: 제공되다
     품사: 동사
 ---
 000_KEYWORD: 제공받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75025
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1230,7 +1230,7 @@ imported:
     - 발음: 제공반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75025_jegongbanneun.wav
       형태: 제공받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1238,7 +1238,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 제공하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62651
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1271,13 +1271,13 @@ imported:
     표제어: 제공하다
     품사: 동사
     항목ID: 62651
-processed:
+result:
   맞춤법 검사:
     표제어: 제공하다
     품사: 동사
 ---
 000_KEYWORD: 제과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75026
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1307,13 +1307,13 @@ imported:
     표제어: 제과
     품사: 명사
     항목ID: 75026
-processed:
+result:
   맞춤법 검사:
     표제어: 제과
     품사: 명사
 ---
 000_KEYWORD: 제과업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75030
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1351,13 +1351,13 @@ imported:
     - 발음: 제ː과엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75030_je-gwaeomman.wav
       형태: 제과업만
-processed:
+result:
   맞춤법 검사:
     표제어: 제과업
     품사: 명사
 ---
 000_KEYWORD: 제과점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31774
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1387,13 +1387,13 @@ imported:
     표제어: 제과점
     품사: 명사
     항목ID: 31774
-processed:
+result:
   맞춤법 검사:
     표제어: 제과점
     품사: 명사
 ---
 000_KEYWORD: 제구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75038
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1425,13 +1425,13 @@ imported:
     표제어: 제구
     품사: 명사
     항목ID: 75038
-processed:
+result:
   맞춤법 검사:
     표제어: 제구
     품사: 명사
 ---
 000_KEYWORD: 제구력__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1442,13 +1442,13 @@ imported:
     표제어: 제구력
     품사: 명사:보통:서술성
     항목ID: 23869
-processed:
+result:
   맞춤법 검사:
     표제어: 제구력
     품사: 명사
 ---
 000_KEYWORD: 제구실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75156
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1475,13 +1475,13 @@ imported:
     표제어: 제구실
     품사: 명사
     항목ID: 75156
-processed:
+result:
   맞춤법 검사:
     표제어: 제구실
     품사: 명사
 ---
 000_KEYWORD: 제국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75162
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1519,13 +1519,13 @@ imported:
     - 발음: 제ː궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75162_je-gungman.wav
       형태: 제국만
-processed:
+result:
   맞춤법 검사:
     표제어: 제국
     품사: 명사
 ---
 000_KEYWORD: 제국주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75176
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1555,13 +1555,13 @@ imported:
     표제어: 제국주의
     품사: 명사
     항목ID: 75176
-processed:
+result:
   맞춤법 검사:
     표제어: 제국주의
     품사: 명사
 ---
 000_KEYWORD: 제군__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75189
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1583,13 +1583,13 @@ imported:
     표제어: 제군
     품사: 대명사
     항목ID: 75189
-processed:
+result:
   맞춤법 검사:
     표제어: 제군
     품사: 대명사
 ---
 000_KEYWORD: 제군__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1599,13 +1599,13 @@ imported:
     표제어: 제군
     품사: 명사:보통:비서술성
     항목ID: 23874
-processed:
+result:
   맞춤법 검사:
     표제어: 제군
     품사: 명사
 ---
 000_KEYWORD: 제기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75197
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1635,13 +1635,13 @@ imported:
     표제어: 제기
     품사: 명사
     항목ID: 75197
-processed:
+result:
   맞춤법 검사:
     표제어: 제기
     품사: 명사
 ---
 000_KEYWORD: 제기__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75352
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1686,13 +1686,13 @@ imported:
     표제어: 제기
     품사: 명사
     항목ID: 75352
-processed:
+result:
   맞춤법 검사:
     표제어: 제기
     품사: 명사
 ---
 000_KEYWORD: 제기되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75353
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1739,13 +1739,13 @@ imported:
     표제어: 제기되다
     품사: 동사
     항목ID: 75353
-processed:
+result:
   맞춤법 검사:
     표제어: 제기되다
     품사: 동사
 ---
 000_KEYWORD: 제기랄__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75356
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1771,13 +1771,13 @@ imported:
     표제어: 제기랄
     품사: 감탄사
     항목ID: 75356
-processed:
+result:
   맞춤법 검사:
     표제어: 제기랄
     품사: 감탄사
 ---
 000_KEYWORD: 제기차기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75357
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1807,13 +1807,13 @@ imported:
     표제어: 제기차기
     품사: 명사
     항목ID: 75357
-processed:
+result:
   맞춤법 검사:
     표제어: 제기차기
     품사: 명사
 ---
 000_KEYWORD: 제기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75354
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1860,13 +1860,13 @@ imported:
     표제어: 제기하다
     품사: 동사
     항목ID: 75354
-processed:
+result:
   맞춤법 검사:
     표제어: 제기하다
     품사: 동사
 ---
 000_KEYWORD: 제길__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75382
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1892,13 +1892,13 @@ imported:
     표제어: 제길
     품사: 감탄사
     항목ID: 75382
-processed:
+result:
   맞춤법 검사:
     표제어: 제길
     품사: 감탄사
 ---
 000_KEYWORD: 제까짓__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75384
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1930,13 +1930,13 @@ imported:
     표제어: 제까짓
     품사: 관형사
     항목ID: 75384
-processed:
+result:
   맞춤법 검사:
     표제어: 제까짓
     품사: 관형사
 ---
 000_KEYWORD: 제깟__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75386
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1968,13 +1968,13 @@ imported:
     표제어: 제깟
     품사: 관형사
     항목ID: 75386
-processed:
+result:
   맞춤법 검사:
     표제어: 제깟
     품사: 관형사
 ---
 000_KEYWORD: 제꺽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75390
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2005,13 +2005,13 @@ imported:
     표제어: 제꺽
     품사: 부사
     항목ID: 75390
-processed:
+result:
   맞춤법 검사:
     표제어: 제꺽
     품사: 부사
 ---
 000_KEYWORD: 제끼다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92387
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2024,10 +2024,10 @@ imported:
     표제어: 제끼다
     품사: 동사
     항목ID: 92387
-processed: {}
+result: {}
 ---
 000_KEYWORD: 제날짜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75395
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2054,13 +2054,13 @@ imported:
     표제어: 제날짜
     품사: 명사
     항목ID: 75395
-processed:
+result:
   맞춤법 검사:
     표제어: 제날짜
     품사: 명사
 ---
 000_KEYWORD: 제네바__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2070,13 +2070,13 @@ imported:
     표제어: 제네바
     품사: 명사:고유
     항목ID: 23881
-processed:
+result:
   맞춤법 검사:
     표제어: 제네바
     품사: 명사
 ---
 000_KEYWORD: 제단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75462
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2118,13 +2118,13 @@ imported:
     표제어: 제단
     품사: 명사
     항목ID: 75462
-processed:
+result:
   맞춤법 검사:
     표제어: 제단
     품사: 명사
 ---
 000_KEYWORD: 제대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75463
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2157,13 +2157,13 @@ imported:
     표제어: 제대
     품사: 명사
     항목ID: 75463
-processed:
+result:
   맞춤법 검사:
     표제어: 제대
     품사: 명사
 ---
 000_KEYWORD: 제대로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70896
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2230,13 +2230,13 @@ imported:
     표제어: 제대로
     품사: 부사
     항목ID: 70896
-processed:
+result:
   맞춤법 검사:
     표제어: 제대로
     품사: 부사
 ---
 000_KEYWORD: 제대하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31775
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2270,13 +2270,13 @@ imported:
     표제어: 제대하다
     품사: 동사
     항목ID: 31775
-processed:
+result:
   맞춤법 검사:
     표제어: 제대하다
     품사: 동사
 ---
 000_KEYWORD: 제도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75464
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2309,13 +2309,13 @@ imported:
     표제어: 제도
     품사: 명사
     항목ID: 75464
-processed:
+result:
   맞춤법 검사:
     표제어: 제도
     품사: 명사
 ---
 000_KEYWORD: 제도__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75465
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2345,13 +2345,13 @@ imported:
     표제어: 제도
     품사: 명사
     항목ID: 75465
-processed:
+result:
   맞춤법 검사:
     표제어: 제도
     품사: 명사
 ---
 000_KEYWORD: 제도권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75530
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2380,13 +2380,13 @@ imported:
     표제어: 제도권
     품사: 명사
     항목ID: 75530
-processed:
+result:
   맞춤법 검사:
     표제어: 제도권
     품사: 명사
 ---
 000_KEYWORD: 제도적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31785
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2415,13 +2415,13 @@ imported:
     표제어: 제도적
     품사: 관형사
     항목ID: 31785
-processed:
+result:
   맞춤법 검사:
     표제어: 제도적
     품사: 관형사
 ---
 000_KEYWORD: 제도적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31786
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2451,13 +2451,13 @@ imported:
     표제어: 제도적
     품사: 명사
     항목ID: 31786
-processed:
+result:
   맞춤법 검사:
     표제어: 제도적
     품사: 명사
 ---
 000_KEYWORD: 제도하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75466
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2487,13 +2487,13 @@ imported:
     표제어: 제도하다
     품사: 동사
     항목ID: 75466
-processed:
+result:
   맞춤법 검사:
     표제어: 제도하다
     품사: 동사
 ---
 000_KEYWORD: 제도화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75533
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2521,13 +2521,13 @@ imported:
     표제어: 제도화
     품사: 명사
     항목ID: 75533
-processed:
+result:
   맞춤법 검사:
     표제어: 제도화
     품사: 명사
 ---
 000_KEYWORD: 제도화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75536
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2558,13 +2558,13 @@ imported:
     표제어: 제도화되다
     품사: 동사
     항목ID: 75536
-processed:
+result:
   맞춤법 검사:
     표제어: 제도화되다
     품사: 동사
 ---
 000_KEYWORD: 제도화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75537
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2593,13 +2593,13 @@ imported:
     표제어: 제도화하다
     품사: 동사
     항목ID: 75537
-processed:
+result:
   맞춤법 검사:
     표제어: 제도화하다
     품사: 동사
 ---
 000_KEYWORD: 제독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75538
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2637,13 +2637,13 @@ imported:
     - 발음: 제동만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75556_jedongman.wav
       형태: 제독만
-processed:
+result:
   맞춤법 검사:
     표제어: 제독
     품사: 명사
 ---
 000_KEYWORD: 제독__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75556
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2682,13 +2682,13 @@ imported:
     - 발음: 제동만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75556_jedongman.wav
       형태: 제독만
-processed:
+result:
   맞춤법 검사:
     표제어: 제독
     품사: 명사
 ---
 000_KEYWORD: 제동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75557
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2716,13 +2716,13 @@ imported:
     표제어: 제동
     품사: 명사
     항목ID: 75557
-processed:
+result:
   맞춤법 검사:
     표제어: 제동
     품사: 명사
 ---
 000_KEYWORD: 제때__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75558
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2777,13 +2777,13 @@ imported:
     표제어: 제때
     품사: 명사
     항목ID: 75558
-processed:
+result:
   맞춤법 검사:
     표제어: 제때
     품사: 명사
 ---
 000_KEYWORD: 제때제때__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75559
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2810,13 +2810,13 @@ imported:
     표제어: 제때제때
     품사: 부사
     항목ID: 75559
-processed:
+result:
   맞춤법 검사:
     표제어: 제때제때
     품사: 부사
 ---
 000_KEYWORD: 제련소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75560
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2845,13 +2845,13 @@ imported:
     표제어: 제련소
     품사: 명사
     항목ID: 75560
-processed:
+result:
   맞춤법 검사:
     표제어: 제련소
     품사: 명사
 ---
 000_KEYWORD: 제련하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75725
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2883,13 +2883,13 @@ imported:
     표제어: 제련하다
     품사: 동사
     항목ID: 75725
-processed:
+result:
   맞춤법 검사:
     표제어: 제련하다
     품사: 동사
 ---
 000_KEYWORD: 제례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75729
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2917,13 +2917,13 @@ imported:
     표제어: 제례
     품사: 명사
     항목ID: 75729
-processed:
+result:
   맞춤법 검사:
     표제어: 제례
     품사: 명사
 ---
 000_KEYWORD: 제로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91694
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2969,13 +2969,13 @@ imported:
     표제어: 제로
     품사: 명사
     항목ID: 91694
-processed:
+result:
   맞춤법 검사:
     표제어: 제로
     품사: 명사
 ---
 000_KEYWORD: 제막식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75730
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3018,13 +3018,13 @@ imported:
     - 발음: 제막씽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75730_jemakssingman.wav
       형태: 제막식만
-processed:
+result:
   맞춤법 검사:
     표제어: 제막식
     품사: 명사
 ---
 000_KEYWORD: 제맛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75731
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3074,13 +3074,13 @@ imported:
     - 발음: 제만만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/75731_jemanman.wav
       형태: 제맛만
-processed:
+result:
   맞춤법 검사:
     표제어: 제맛
     품사: 명사
 ---
 000_KEYWORD: 제멋__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75732
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3117,13 +3117,13 @@ imported:
     - 발음: 제먼만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/75732_jemeonman.wav
       형태: 제멋만
-processed:
+result:
   맞춤법 검사:
     표제어: 제멋
     품사: 명사
 ---
 000_KEYWORD: 제멋대로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76079
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3151,13 +3151,13 @@ imported:
     표제어: 제멋대로
     품사: 부사
     항목ID: 76079
-processed:
+result:
   맞춤법 검사:
     표제어: 제멋대로
     품사: 부사
 ---
 000_KEYWORD: 제명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76081
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3184,13 +3184,13 @@ imported:
     표제어: 제명
     품사: 명사
     항목ID: 76081
-processed:
+result:
   맞춤법 검사:
     표제어: 제명
     품사: 명사
 ---
 000_KEYWORD: 제명__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76080
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3218,13 +3218,13 @@ imported:
     표제어: 제명
     품사: 명사
     항목ID: 76080
-processed:
+result:
   맞춤법 검사:
     표제어: 제명
     품사: 명사
 ---
 000_KEYWORD: 제명되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76082
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3255,13 +3255,13 @@ imported:
     표제어: 제명되다
     품사: 동사
     항목ID: 76082
-processed:
+result:
   맞춤법 검사:
     표제어: 제명되다
     품사: 동사
 ---
 000_KEYWORD: 제명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=76083
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3290,13 +3290,13 @@ imported:
     표제어: 제명하다
     품사: 동사
     항목ID: 76083
-processed:
+result:
   맞춤법 검사:
     표제어: 제명하다
     품사: 동사
 ---
 000_KEYWORD: 제모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75678
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3325,13 +3325,13 @@ imported:
     표제어: 제모
     품사: 명사
     항목ID: 75678
-processed:
+result:
   맞춤법 검사:
     표제어: 제모
     품사: 명사
 ---
 000_KEYWORD: 제목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70897
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3371,13 +3371,13 @@ imported:
     - 발음: 제몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/70897_jemongman.wav
       형태: 제목만
-processed:
+result:
   맞춤법 검사:
     표제어: 제목
     품사: 명사
 ---
 000_KEYWORD: 제물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75679
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3435,13 +3435,13 @@ imported:
     표제어: 제물
     품사: 명사
     항목ID: 75679
-processed:
+result:
   맞춤법 검사:
     표제어: 제물
     품사: 명사
 ---
 000_KEYWORD: 제반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75681
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3472,13 +3472,13 @@ imported:
     표제어: 제반
     품사: 명사
     항목ID: 75681
-processed:
+result:
   맞춤법 검사:
     표제어: 제반
     품사: 명사
 ---
 000_KEYWORD: 제반사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75682
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3507,13 +3507,13 @@ imported:
     표제어: 제반사
     품사: 명사
     항목ID: 75682
-processed:
+result:
   맞춤법 검사:
     표제어: 제반사
     품사: 명사
 ---
 000_KEYWORD: 제발__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31788
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3536,13 +3536,13 @@ imported:
     표제어: 제발
     품사: 부사
     항목ID: 31788
-processed:
+result:
   맞춤법 검사:
     표제어: 제발
     품사: 부사
 ---
 000_KEYWORD: 제방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75683
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3577,13 +3577,13 @@ imported:
     표제어: 제방
     품사: 명사
     항목ID: 75683
-processed:
+result:
   맞춤법 검사:
     표제어: 제방
     품사: 명사
 ---
 000_KEYWORD: 제법__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3594,13 +3594,13 @@ imported:
     표제어: 제법
     품사: 명사:보통:서술성
     항목ID: 23900
-processed:
+result:
   맞춤법 검사:
     표제어: 제법
     품사: 명사
 ---
 000_KEYWORD: 제법__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31789
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3631,13 +3631,13 @@ imported:
     표제어: 제법
     품사: 부사
     항목ID: 31789
-processed:
+result:
   맞춤법 검사:
     표제어: 제법
     품사: 부사
 ---
 000_KEYWORD: 제보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75684
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3666,13 +3666,13 @@ imported:
     표제어: 제보
     품사: 명사
     항목ID: 75684
-processed:
+result:
   맞춤법 검사:
     표제어: 제보
     품사: 명사
 ---
 000_KEYWORD: 제보자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75685
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3700,13 +3700,13 @@ imported:
     표제어: 제보자
     품사: 명사
     항목ID: 75685
-processed:
+result:
   맞춤법 검사:
     표제어: 제보자
     품사: 명사
 ---
 000_KEYWORD: 제보하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75686
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3735,13 +3735,13 @@ imported:
     표제어: 제보하다
     품사: 동사
     항목ID: 75686
-processed:
+result:
   맞춤법 검사:
     표제어: 제보하다
     품사: 동사
 ---
 000_KEYWORD: 제복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75687
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3791,13 +3791,13 @@ imported:
     - 발음: 제ː봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75687_je-bongman.wav
       형태: 제복만
-processed:
+result:
   맞춤법 검사:
     표제어: 제복
     품사: 명사
 ---
 000_KEYWORD: 제본__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75688
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3825,13 +3825,13 @@ imported:
     표제어: 제본
     품사: 명사
     항목ID: 75688
-processed:
+result:
   맞춤법 검사:
     표제어: 제본
     품사: 명사
 ---
 000_KEYWORD: 제본되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75689
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3862,13 +3862,13 @@ imported:
     표제어: 제본되다
     품사: 동사
     항목ID: 75689
-processed:
+result:
   맞춤법 검사:
     표제어: 제본되다
     품사: 동사
 ---
 000_KEYWORD: 제본하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75691
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3897,13 +3897,13 @@ imported:
     표제어: 제본하다
     품사: 동사
     항목ID: 75691
-processed:
+result:
   맞춤법 검사:
     표제어: 제본하다
     품사: 동사
 ---
 000_KEYWORD: 제부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75692
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3935,13 +3935,13 @@ imported:
     표제어: 제부
     품사: 명사
     항목ID: 75692
-processed:
+result:
   맞춤법 검사:
     표제어: 제부
     품사: 명사
 ---
 000_KEYWORD: 제분소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75693
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3976,13 +3976,13 @@ imported:
     표제어: 제분소
     품사: 명사
     항목ID: 75693
-processed:
+result:
   맞춤법 검사:
     표제어: 제분소
     품사: 명사
 ---
 000_KEYWORD: 제비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31790
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4014,13 +4014,13 @@ imported:
     표제어: 제비
     품사: 명사
     항목ID: 31790
-processed:
+result:
   맞춤법 검사:
     표제어: 제비
     품사: 명사
 ---
 000_KEYWORD: 제비꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75694
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4060,13 +4060,13 @@ imported:
     - 발음: 제ː비꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/75694_je-bikkonman.wav
       형태: 제비꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 제비꽃
     품사: 명사
 ---
 000_KEYWORD: 제비뽑기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75695
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4100,13 +4100,13 @@ imported:
     표제어: 제비뽑기
     품사: 명사
     항목ID: 75695
-processed:
+result:
   맞춤법 검사:
     표제어: 제비뽑기
     품사: 명사
 ---
 000_KEYWORD: 제비족__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75696
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4144,13 +4144,13 @@ imported:
     - 발음: 제ː비종만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/08000/75696_je-bijongman.wav
       형태: 제비족만
-processed:
+result:
   맞춤법 검사:
     표제어: 제비족
     품사: 명사
 ---
 000_KEYWORD: 제빵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75697
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4178,13 +4178,13 @@ imported:
     표제어: 제빵
     품사: 명사
     항목ID: 75697
-processed:
+result:
   맞춤법 검사:
     표제어: 제빵
     품사: 명사
 ---
 000_KEYWORD: 제사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31792
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4214,13 +4214,13 @@ imported:
     표제어: 제사
     품사: 명사
     항목ID: 31792
-processed:
+result:
   맞춤법 검사:
     표제어: 제사
     품사: 명사
 ---
 000_KEYWORD: 제사상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75698
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4257,13 +4257,13 @@ imported:
     표제어: 제사상
     품사: 명사
     항목ID: 75698
-processed:
+result:
   맞춤법 검사:
     표제어: 제사상
     품사: 명사
 ---
 000_KEYWORD: 제사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75699
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4292,13 +4292,13 @@ imported:
     표제어: 제사하다
     품사: 동사
     항목ID: 75699
-processed:
+result:
   맞춤법 검사:
     표제어: 제사하다
     품사: 동사
 ---
 000_KEYWORD: 제삼자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75701
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4334,13 +4334,13 @@ imported:
     표제어: 제삼자
     품사: 명사
     항목ID: 75701
-processed:
+result:
   맞춤법 검사:
     표제어: 제삼자
     품사: 명사
 ---
 000_KEYWORD: 제삿날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31793
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4385,13 +4385,13 @@ imported:
     표제어: 제삿날
     품사: 명사
     항목ID: 31793
-processed:
+result:
   맞춤법 검사:
     표제어: 제삿날
     품사: 명사
 ---
 000_KEYWORD: 제삿밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75702
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4460,13 +4460,13 @@ imported:
     - 발음: 제ː삳빰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75702_je-satppamman.wav
       형태: 제삿밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 제삿밥
     품사: 명사
 ---
 000_KEYWORD: 제상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75703
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4503,13 +4503,13 @@ imported:
     표제어: 제상
     품사: 명사
     항목ID: 75703
-processed:
+result:
   맞춤법 검사:
     표제어: 제상
     품사: 명사
 ---
 000_KEYWORD: 제설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75704
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4537,13 +4537,13 @@ imported:
     표제어: 제설
     품사: 명사
     항목ID: 75704
-processed:
+result:
   맞춤법 검사:
     표제어: 제설
     품사: 명사
 ---
 000_KEYWORD: 제설기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75705
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4571,13 +4571,13 @@ imported:
     표제어: 제설기
     품사: 명사
     항목ID: 75705
-processed:
+result:
   맞춤법 검사:
     표제어: 제설기
     품사: 명사
 ---
 000_KEYWORD: 제소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75706
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4607,13 +4607,13 @@ imported:
     표제어: 제소
     품사: 명사
     항목ID: 75706
-processed:
+result:
   맞춤법 검사:
     표제어: 제소
     품사: 명사
 ---
 000_KEYWORD: 제소되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4622,13 +4622,13 @@ imported:
     표제어: 제소되다
     품사: 동사
     항목ID: 32064
-processed:
+result:
   맞춤법 검사:
     표제어: 제소되다
     품사: 동사
 ---
 000_KEYWORD: 제소하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75707
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4657,13 +4657,13 @@ imported:
     표제어: 제소하다
     품사: 동사
     항목ID: 75707
-processed:
+result:
   맞춤법 검사:
     표제어: 제소하다
     품사: 동사
 ---
 000_KEYWORD: 제수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75708
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4695,13 +4695,13 @@ imported:
     표제어: 제수
     품사: 명사
     항목ID: 75708
-processed:
+result:
   맞춤법 검사:
     표제어: 제수
     품사: 명사
 ---
 000_KEYWORD: 제수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75709
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4727,13 +4727,13 @@ imported:
     표제어: 제수
     품사: 명사
     항목ID: 75709
-processed:
+result:
   맞춤법 검사:
     표제어: 제수
     품사: 명사
 ---
 000_KEYWORD: 제수__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75710
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4779,13 +4779,13 @@ imported:
     표제어: 제수
     품사: 명사
     항목ID: 75710
-processed:
+result:
   맞춤법 검사:
     표제어: 제수
     품사: 명사
 ---
 000_KEYWORD: 제스처__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75711
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4824,13 +4824,13 @@ imported:
     표제어: 제스처
     품사: 명사
     항목ID: 75711
-processed:
+result:
   맞춤법 검사:
     표제어: 제스처
     품사: 명사
 ---
 000_KEYWORD: 제습__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91798
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4868,13 +4868,13 @@ imported:
     - 발음: 제슴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/91798_jeseumman.wav
       형태: 제습만
-processed:
+result:
   맞춤법 검사:
     표제어: 제습
     품사: 명사
 ---
 000_KEYWORD: 제습기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75712
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4907,13 +4907,13 @@ imported:
     표제어: 제습기
     품사: 명사
     항목ID: 75712
-processed:
+result:
   맞춤법 검사:
     표제어: 제습기
     품사: 명사
 ---
 000_KEYWORD: 제시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31794
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4954,13 +4954,13 @@ imported:
     표제어: 제시
     품사: 명사
     항목ID: 31794
-processed:
+result:
   맞춤법 검사:
     표제어: 제시
     품사: 명사
 ---
 000_KEYWORD: 제시간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75713
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4989,13 +4989,13 @@ imported:
     표제어: 제시간
     품사: 명사
     항목ID: 75713
-processed:
+result:
   맞춤법 검사:
     표제어: 제시간
     품사: 명사
 ---
 000_KEYWORD: 제시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31795
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5040,13 +5040,13 @@ imported:
     표제어: 제시되다
     품사: 동사
     항목ID: 31795
-processed:
+result:
   맞춤법 검사:
     표제어: 제시되다
     품사: 동사
 ---
 000_KEYWORD: 제시어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5055,13 +5055,13 @@ imported:
     표제어: 제시어
     품사: 명사:보통:비서술성
     항목ID: 23917
-processed:
+result:
   맞춤법 검사:
     표제어: 제시어
     품사: 명사
 ---
 000_KEYWORD: 제시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31796
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5104,13 +5104,13 @@ imported:
     표제어: 제시하다
     품사: 동사
     항목ID: 31796
-processed:
+result:
   맞춤법 검사:
     표제어: 제시하다
     품사: 동사
 ---
 000_KEYWORD: 제아무리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75714
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5132,13 +5132,13 @@ imported:
     표제어: 제아무리
     품사: 부사
     항목ID: 75714
-processed:
+result:
   맞춤법 검사:
     표제어: 제아무리
     품사: 부사
 ---
 000_KEYWORD: 제안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31797
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5168,13 +5168,13 @@ imported:
     표제어: 제안
     품사: 명사
     항목ID: 31797
-processed:
+result:
   맞춤법 검사:
     표제어: 제안
     품사: 명사
 ---
 000_KEYWORD: 제안되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75715
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5206,13 +5206,13 @@ imported:
     표제어: 제안되다
     품사: 동사
     항목ID: 75715
-processed:
+result:
   맞춤법 검사:
     표제어: 제안되다
     품사: 동사
 ---
 000_KEYWORD: 제안서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75716
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5240,13 +5240,13 @@ imported:
     표제어: 제안서
     품사: 명사
     항목ID: 75716
-processed:
+result:
   맞춤법 검사:
     표제어: 제안서
     품사: 명사
 ---
 000_KEYWORD: 제안자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75717
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5274,13 +5274,13 @@ imported:
     표제어: 제안자
     품사: 명사
     항목ID: 75717
-processed:
+result:
   맞춤법 검사:
     표제어: 제안자
     품사: 명사
 ---
 000_KEYWORD: 제안하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31798
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5309,13 +5309,13 @@ imported:
     표제어: 제안하다
     품사: 동사
     항목ID: 31798
-processed:
+result:
   맞춤법 검사:
     표제어: 제안하다
     품사: 동사
 ---
 000_KEYWORD: 제압__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75718
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5353,13 +5353,13 @@ imported:
     - 발음: 제ː암만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75718_je-amman.wav
       형태: 제압만
-processed:
+result:
   맞춤법 검사:
     표제어: 제압
     품사: 명사
 ---
 000_KEYWORD: 제압되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75719
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5390,13 +5390,13 @@ imported:
     표제어: 제압되다
     품사: 동사
     항목ID: 75719
-processed:
+result:
   맞춤법 검사:
     표제어: 제압되다
     품사: 동사
 ---
 000_KEYWORD: 제압하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75720
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5425,13 +5425,13 @@ imported:
     표제어: 제압하다
     품사: 동사
     항목ID: 75720
-processed:
+result:
   맞춤법 검사:
     표제어: 제압하다
     품사: 동사
 ---
 000_KEYWORD: 제야__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75721
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5459,13 +5459,13 @@ imported:
     표제어: 제야
     품사: 명사
     항목ID: 75721
-processed:
+result:
   맞춤법 검사:
     표제어: 제야
     품사: 명사
 ---
 000_KEYWORD: 제약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31799
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5504,13 +5504,13 @@ imported:
     - 발음: 제ː양만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/je-yangman.wav
       형태: 제약만
-processed:
+result:
   맞춤법 검사:
     표제어: 제약
     품사: 명사
 ---
 000_KEYWORD: 제약__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75722
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5550,13 +5550,13 @@ imported:
     - 발음: 제ː양만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75722_je-yangman.wav
       형태: 제약만
-processed:
+result:
   맞춤법 검사:
     표제어: 제약
     품사: 명사
 ---
 000_KEYWORD: 제약되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75723
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5587,13 +5587,13 @@ imported:
     표제어: 제약되다
     품사: 동사
     항목ID: 75723
-processed:
+result:
   맞춤법 검사:
     표제어: 제약되다
     품사: 동사
 ---
 000_KEYWORD: 제약하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75724
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5622,13 +5622,13 @@ imported:
     표제어: 제약하다
     품사: 동사
     항목ID: 75724
-processed:
+result:
   맞춤법 검사:
     표제어: 제약하다
     품사: 동사
 ---
 000_KEYWORD: 제어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75726
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5682,13 +5682,13 @@ imported:
     표제어: 제어
     품사: 명사
     항목ID: 75726
-processed:
+result:
   맞춤법 검사:
     표제어: 제어
     품사: 명사
 ---
 000_KEYWORD: 제어되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75727
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5747,13 +5747,13 @@ imported:
     표제어: 제어되다
     품사: 동사
     항목ID: 75727
-processed:
+result:
   맞춤법 검사:
     표제어: 제어되다
     품사: 동사
 ---
 000_KEYWORD: 제어하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75728
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5810,13 +5810,13 @@ imported:
     표제어: 제어하다
     품사: 동사
     항목ID: 75728
-processed:
+result:
   맞춤법 검사:
     표제어: 제어하다
     품사: 동사
 ---
 000_KEYWORD: 제언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83420
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5852,13 +5852,13 @@ imported:
     표제어: 제언
     품사: 명사
     항목ID: 83420
-processed:
+result:
   맞춤법 검사:
     표제어: 제언
     품사: 명사
 ---
 000_KEYWORD: 제언하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83421
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5894,13 +5894,13 @@ imported:
     표제어: 제언하다
     품사: 동사
     항목ID: 83421
-processed:
+result:
   맞춤법 검사:
     표제어: 제언하다
     품사: 동사
 ---
 000_KEYWORD: 제왕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83425
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5928,13 +5928,13 @@ imported:
     표제어: 제왕
     품사: 명사
     항목ID: 83425
-processed:
+result:
   맞춤법 검사:
     표제어: 제왕
     품사: 명사
 ---
 000_KEYWORD: 제왕적__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5943,13 +5943,13 @@ imported:
     표제어: 제왕적
     품사: 명사:보통:서술성
     항목ID: 32102
-processed:
+result:
   맞춤법 검사:
     표제어: 제왕적
     품사: 명사
 ---
 000_KEYWORD: 제외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83423
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5979,13 +5979,13 @@ imported:
     표제어: 제외
     품사: 명사
     항목ID: 83423
-processed:
+result:
   맞춤법 검사:
     표제어: 제외
     품사: 명사
 ---
 000_KEYWORD: 제외되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31800
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6017,13 +6017,13 @@ imported:
     표제어: 제외되다
     품사: 동사
     항목ID: 31800
-processed:
+result:
   맞춤법 검사:
     표제어: 제외되다
     품사: 동사
 ---
 000_KEYWORD: 제외하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31801
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6056,13 +6056,13 @@ imported:
     표제어: 제외하다
     품사: 동사
     항목ID: 31801
-processed:
+result:
   맞춤법 검사:
     표제어: 제외하다
     품사: 동사
 ---
 000_KEYWORD: 제우스__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6072,13 +6072,13 @@ imported:
     표제어: 제우스
     품사: 명사:고유
     항목ID: 23934
-processed:
+result:
   맞춤법 검사:
     표제어: 제우스
     품사: 명사
 ---
 000_KEYWORD: 제육볶음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83416
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6111,13 +6111,13 @@ imported:
     표제어: 제육볶음
     품사: 명사
     항목ID: 83416
-processed:
+result:
   맞춤법 검사:
     표제어: 제육볶음
     품사: 명사
 ---
 000_KEYWORD: 제의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31802
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6159,13 +6159,13 @@ imported:
     표제어: 제의
     품사: 명사
     항목ID: 31802
-processed:
+result:
   맞춤법 검사:
     표제어: 제의
     품사: 명사
 ---
 000_KEYWORD: 제의되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83424
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6200,13 +6200,13 @@ imported:
     표제어: 제의되다
     품사: 동사
     항목ID: 83424
-processed:
+result:
   맞춤법 검사:
     표제어: 제의되다
     품사: 동사
 ---
 000_KEYWORD: 제의하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31803
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6244,13 +6244,13 @@ imported:
     표제어: 제의하다
     품사: 동사
     항목ID: 31803
-processed:
+result:
   맞춤법 검사:
     표제어: 제의하다
     품사: 동사
 ---
 000_KEYWORD: 제일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83612
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6282,13 +6282,13 @@ imported:
     표제어: 제일
     품사: 명사
     항목ID: 83612
-processed:
+result:
   맞춤법 검사:
     표제어: 제일
     품사: 명사
 ---
 000_KEYWORD: 제일__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58278
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6327,13 +6327,13 @@ imported:
     표제어: 제일
     품사: 명사
     항목ID: 58278
-processed:
+result:
   맞춤법 검사:
     표제어: 제일
     품사: 명사
 ---
 000_KEYWORD: 제일__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92032
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6367,13 +6367,13 @@ imported:
     표제어: 제일
     품사: 부사
     항목ID: 92032
-processed:
+result:
   맞춤법 검사:
     표제어: 제일
     품사: 부사
 ---
 000_KEYWORD: 제일가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83615
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6413,13 +6413,13 @@ imported:
     - 발음: 제ː일가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/83615_je-ilgani.wav
       형태: 제일가니
-processed:
+result:
   맞춤법 검사:
     표제어: 제일가다
     품사: 동사
 ---
 000_KEYWORD: 제일선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83627
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6474,13 +6474,13 @@ imported:
     표제어: 제일선
     품사: 명사
     항목ID: 83627
-processed:
+result:
   맞춤법 검사:
     표제어: 제일선
     품사: 명사
 ---
 000_KEYWORD: 제일주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83638
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6512,13 +6512,13 @@ imported:
     표제어: 제일주의
     품사: 명사
     항목ID: 83638
-processed:
+result:
   맞춤법 검사:
     표제어: 제일주의
     품사: 명사
 ---
 000_KEYWORD: 제자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31804
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6553,13 +6553,13 @@ imported:
     표제어: 제자
     품사: 명사
     항목ID: 31804
-processed:
+result:
   맞춤법 검사:
     표제어: 제자
     품사: 명사
 ---
 000_KEYWORD: 제자리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31805
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6612,13 +6612,13 @@ imported:
     표제어: 제자리
     품사: 명사
     항목ID: 31805
-processed:
+result:
   맞춤법 검사:
     표제어: 제자리
     품사: 명사
 ---
 000_KEYWORD: 제자리걸음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90768
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6678,13 +6678,13 @@ imported:
     표제어: 제자리걸음
     품사: 명사
     항목ID: 90768
-processed:
+result:
   맞춤법 검사:
     표제어: 제자리걸음
     품사: 명사
 ---
 000_KEYWORD: 제자리표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83656
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6715,13 +6715,13 @@ imported:
     표제어: 제자리표
     품사: 명사
     항목ID: 83656
-processed:
+result:
   맞춤법 검사:
     표제어: 제자리표
     품사: 명사
 ---
 000_KEYWORD: 제자하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6730,13 +6730,13 @@ imported:
     표제어: 제자하다
     품사: 동사
     항목ID: 23944
-processed:
+result:
   맞춤법 검사:
     표제어: 제자하다
     품사: 동사
 ---
 000_KEYWORD: 제작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31806
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6778,13 +6778,13 @@ imported:
     - 발음: 제ː장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/31806_je-jangman.wav
       형태: 제작만
-processed:
+result:
   맞춤법 검사:
     표제어: 제작
     품사: 명사
 ---
 000_KEYWORD: 제작도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83657
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6813,13 +6813,13 @@ imported:
     표제어: 제작도
     품사: 명사
     항목ID: 83657
-processed:
+result:
   맞춤법 검사:
     표제어: 제작도
     품사: 명사
 ---
 000_KEYWORD: 제작되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83658
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6853,13 +6853,13 @@ imported:
     표제어: 제작되다
     품사: 동사
     항목ID: 83658
-processed:
+result:
   맞춤법 검사:
     표제어: 제작되다
     품사: 동사
 ---
 000_KEYWORD: 제작물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83660
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6889,13 +6889,13 @@ imported:
     표제어: 제작물
     품사: 명사
     항목ID: 83660
-processed:
+result:
   맞춤법 검사:
     표제어: 제작물
     품사: 명사
 ---
 000_KEYWORD: 제작비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83674
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6931,13 +6931,13 @@ imported:
     표제어: 제작비
     품사: 명사
     항목ID: 83674
-processed:
+result:
   맞춤법 검사:
     표제어: 제작비
     품사: 명사
 ---
 000_KEYWORD: 제작사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83678
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6967,13 +6967,13 @@ imported:
     표제어: 제작사
     품사: 명사
     항목ID: 83678
-processed:
+result:
   맞춤법 검사:
     표제어: 제작사
     품사: 명사
 ---
 000_KEYWORD: 제작소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83681
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7005,13 +7005,13 @@ imported:
     표제어: 제작소
     품사: 명사
     항목ID: 83681
-processed:
+result:
   맞춤법 검사:
     표제어: 제작소
     품사: 명사
 ---
 000_KEYWORD: 제작자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83684
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7048,13 +7048,13 @@ imported:
     표제어: 제작자
     품사: 명사
     항목ID: 83684
-processed:
+result:
   맞춤법 검사:
     표제어: 제작자
     품사: 명사
 ---
 000_KEYWORD: 제작진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83685
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7083,13 +7083,13 @@ imported:
     표제어: 제작진
     품사: 명사
     항목ID: 83685
-processed:
+result:
   맞춤법 검사:
     표제어: 제작진
     품사: 명사
 ---
 000_KEYWORD: 제작하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31807
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7119,13 +7119,13 @@ imported:
     표제어: 제작하다
     품사: 동사
     항목ID: 31807
-processed:
+result:
   맞춤법 검사:
     표제어: 제작하다
     품사: 동사
 ---
 000_KEYWORD: 제재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83688
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7170,13 +7170,13 @@ imported:
     표제어: 제재
     품사: 명사
     항목ID: 83688
-processed:
+result:
   맞춤법 검사:
     표제어: 제재
     품사: 명사
 ---
 000_KEYWORD: 제재__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83698
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7205,13 +7205,13 @@ imported:
     표제어: 제재
     품사: 명사
     항목ID: 83698
-processed:
+result:
   맞춤법 검사:
     표제어: 제재
     품사: 명사
 ---
 000_KEYWORD: 제재소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83699
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7239,13 +7239,13 @@ imported:
     표제어: 제재소
     품사: 명사
     항목ID: 83699
-processed:
+result:
   맞춤법 검사:
     표제어: 제재소
     품사: 명사
 ---
 000_KEYWORD: 제재하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83700
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7289,13 +7289,13 @@ imported:
     표제어: 제재하다
     품사: 동사
     항목ID: 83700
-processed:
+result:
   맞춤법 검사:
     표제어: 제재하다
     품사: 동사
 ---
 000_KEYWORD: 제적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83701
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7334,13 +7334,13 @@ imported:
     - 발음: 제정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/83701_jejeongman.wav
       형태: 제적만
-processed:
+result:
   맞춤법 검사:
     표제어: 제적
     품사: 명사
 ---
 000_KEYWORD: 제적되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83702
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7371,13 +7371,13 @@ imported:
     표제어: 제적되다
     품사: 동사
     항목ID: 83702
-processed:
+result:
   맞춤법 검사:
     표제어: 제적되다
     품사: 동사
 ---
 000_KEYWORD: 제적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83703
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7406,13 +7406,13 @@ imported:
     표제어: 제적하다
     품사: 동사
     항목ID: 83703
-processed:
+result:
   맞춤법 검사:
     표제어: 제적하다
     품사: 동사
 ---
 000_KEYWORD: 제전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83704
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7458,13 +7458,13 @@ imported:
     표제어: 제전
     품사: 명사
     항목ID: 83704
-processed:
+result:
   맞춤법 검사:
     표제어: 제전
     품사: 명사
 ---
 000_KEYWORD: 제정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83724
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7496,13 +7496,13 @@ imported:
     표제어: 제정
     품사: 명사
     항목ID: 83724
-processed:
+result:
   맞춤법 검사:
     표제어: 제정
     품사: 명사
 ---
 000_KEYWORD: 제정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83725
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7533,13 +7533,13 @@ imported:
     표제어: 제정되다
     품사: 동사
     항목ID: 83725
-processed:
+result:
   맞춤법 검사:
     표제어: 제정되다
     품사: 동사
 ---
 000_KEYWORD: 제정신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83729
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7570,13 +7570,13 @@ imported:
     표제어: 제정신
     품사: 명사
     항목ID: 83729
-processed:
+result:
   맞춤법 검사:
     표제어: 제정신
     품사: 명사
 ---
 000_KEYWORD: 제정일치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83742
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7604,13 +7604,13 @@ imported:
     표제어: 제정일치
     품사: 명사
     항목ID: 83742
-processed:
+result:
   맞춤법 검사:
     표제어: 제정일치
     품사: 명사
 ---
 000_KEYWORD: 제정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83728
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7639,13 +7639,13 @@ imported:
     표제어: 제정하다
     품사: 동사
     항목ID: 83728
-processed:
+result:
   맞춤법 검사:
     표제어: 제정하다
     품사: 동사
 ---
 000_KEYWORD: 제제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7656,13 +7656,13 @@ imported:
     표제어: 제제
     품사: 명사:보통:비서술성
     항목ID: 23959
-processed:
+result:
   맞춤법 검사:
     표제어: 제제
     품사: 명사
 ---
 000_KEYWORD: 제조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83750
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7694,13 +7694,13 @@ imported:
     표제어: 제조
     품사: 명사
     항목ID: 83750
-processed:
+result:
   맞춤법 검사:
     표제어: 제조
     품사: 명사
 ---
 000_KEYWORD: 제조기술__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7709,13 +7709,13 @@ imported:
     표제어: 제조기술
     품사: 명사:보통:서술성
     항목ID: 23961
-processed:
+result:
   맞춤법 검사:
     표제어: 제조기술
     품사: 명사
 ---
 000_KEYWORD: 제조되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83760
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7747,13 +7747,13 @@ imported:
     표제어: 제조되다
     품사: 동사
     항목ID: 83760
-processed:
+result:
   맞춤법 검사:
     표제어: 제조되다
     품사: 동사
 ---
 000_KEYWORD: 제조법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83761
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7796,13 +7796,13 @@ imported:
     - 발음: 제ː조뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/83761_je-joppeomman.wav
       형태: 제조법만
-processed:
+result:
   맞춤법 검사:
     표제어: 제조법
     품사: 명사
 ---
 000_KEYWORD: 제조비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83762
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7832,13 +7832,13 @@ imported:
     표제어: 제조비
     품사: 명사
     항목ID: 83762
-processed:
+result:
   맞춤법 검사:
     표제어: 제조비
     품사: 명사
 ---
 000_KEYWORD: 제조사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7847,13 +7847,13 @@ imported:
     표제어: 제조사
     품사: 명사:보통:비서술성
     항목ID: 23963
-processed:
+result:
   맞춤법 검사:
     표제어: 제조사
     품사: 명사
 ---
 000_KEYWORD: 제조업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83763
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7894,13 +7894,13 @@ imported:
     - 발음: 제ː조엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/83763_je-joeomman.wav
       형태: 제조업만
-processed:
+result:
   맞춤법 검사:
     표제어: 제조업
     품사: 명사
 ---
 000_KEYWORD: 제조업자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83764
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7929,13 +7929,13 @@ imported:
     표제어: 제조업자
     품사: 명사
     항목ID: 83764
-processed:
+result:
   맞춤법 검사:
     표제어: 제조업자
     품사: 명사
 ---
 000_KEYWORD: 제조업체__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7944,13 +7944,13 @@ imported:
     표제어: 제조업체
     품사: 명사:보통:비서술성
     항목ID: 23965
-processed:
+result:
   맞춤법 검사:
     표제어: 제조업체
     품사: 명사
 ---
 000_KEYWORD: 제조일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83765
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7980,13 +7980,13 @@ imported:
     표제어: 제조일
     품사: 명사
     항목ID: 83765
-processed:
+result:
   맞춤법 검사:
     표제어: 제조일
     품사: 명사
 ---
 000_KEYWORD: 제조하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83759
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8015,13 +8015,13 @@ imported:
     표제어: 제조하다
     품사: 동사
     항목ID: 83759
-processed:
+result:
   맞춤법 검사:
     표제어: 제조하다
     품사: 동사
 ---
 000_KEYWORD: 제주__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8030,13 +8030,13 @@ imported:
     표제어: 제주
     품사: 명사:보통:서술성
     항목ID: 23967
-processed:
+result:
   맞춤법 검사:
     표제어: 제주
     품사: 명사
 ---
 000_KEYWORD: 제주대학교__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8046,13 +8046,13 @@ imported:
     표제어: 제주대학교
     품사: 명사:보통:서술성
     항목ID: 23968
-processed:
+result:
   맞춤법 검사:
     표제어: 제주대학교
     품사: 명사
 ---
 000_KEYWORD: 제주도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31808
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8071,13 +8071,13 @@ imported:
     표제어: 제주도
     품사: 명사
     항목ID: 31808
-processed:
+result:
   맞춤법 검사:
     표제어: 제주도
     품사: 명사
 ---
 000_KEYWORD: 제주도__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68381
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8095,13 +8095,13 @@ imported:
     표제어: 제주도
     품사: 명사
     항목ID: 68381
-processed:
+result:
   맞춤법 검사:
     표제어: 제주도
     품사: 명사
 ---
 000_KEYWORD: 제주시__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8112,13 +8112,13 @@ imported:
     표제어: 제주시
     품사: 명사:고유
     항목ID: 23970
-processed:
+result:
   맞춤법 검사:
     표제어: 제주시
     품사: 명사
 ---
 000_KEYWORD: 제주특별자치도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68377
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8140,13 +8140,13 @@ imported:
     표제어: 제주특별자치도
     품사: 명사
     항목ID: 68377
-processed:
+result:
   맞춤법 검사:
     표제어: 제주특별자치도
     품사: 명사
 ---
 000_KEYWORD: 제주해협__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8156,13 +8156,13 @@ imported:
     표제어: 제주해협
     품사: 명사:보통:서술성
     항목ID: 23972
-processed:
+result:
   맞춤법 검사:
     표제어: 제주해협
     품사: 명사
 ---
 000_KEYWORD: 제지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83766
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8193,13 +8193,13 @@ imported:
     표제어: 제지
     품사: 명사
     항목ID: 83766
-processed:
+result:
   맞춤법 검사:
     표제어: 제지
     품사: 명사
 ---
 000_KEYWORD: 제지__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83767
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8227,13 +8227,13 @@ imported:
     표제어: 제지
     품사: 명사
     항목ID: 83767
-processed:
+result:
   맞춤법 검사:
     표제어: 제지
     품사: 명사
 ---
 000_KEYWORD: 제지하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83768
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8263,13 +8263,13 @@ imported:
     표제어: 제지하다
     품사: 동사
     항목ID: 83768
-processed:
+result:
   맞춤법 검사:
     표제어: 제지하다
     품사: 동사
 ---
 000_KEYWORD: 제창__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83770
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8310,13 +8310,13 @@ imported:
     표제어: 제창
     품사: 명사
     항목ID: 83770
-processed:
+result:
   맞춤법 검사:
     표제어: 제창
     품사: 명사
 ---
 000_KEYWORD: 제창하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75136
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8359,13 +8359,13 @@ imported:
     표제어: 제창하다
     품사: 동사
     항목ID: 75136
-processed:
+result:
   맞춤법 검사:
     표제어: 제창하다
     품사: 동사
 ---
 000_KEYWORD: 제철__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8374,13 +8374,13 @@ imported:
     표제어: 제철
     품사: 명사:보통:서술성
     항목ID: 23979
-processed:
+result:
   맞춤법 검사:
     표제어: 제철
     품사: 명사
 ---
 000_KEYWORD: 제철소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75137
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8408,13 +8408,13 @@ imported:
     표제어: 제철소
     품사: 명사
     항목ID: 75137
-processed:
+result:
   맞춤법 검사:
     표제어: 제철소
     품사: 명사
 ---
 000_KEYWORD: 제청__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75140
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8442,13 +8442,13 @@ imported:
     표제어: 제청
     품사: 명사
     항목ID: 75140
-processed:
+result:
   맞춤법 검사:
     표제어: 제청
     품사: 명사
 ---
 000_KEYWORD: 제청하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75141
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8477,13 +8477,13 @@ imported:
     표제어: 제청하다
     품사: 동사
     항목ID: 75141
-processed:
+result:
   맞춤법 검사:
     표제어: 제청하다
     품사: 동사
 ---
 000_KEYWORD: 제초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75143
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8511,13 +8511,13 @@ imported:
     표제어: 제초
     품사: 명사
     항목ID: 75143
-processed:
+result:
   맞춤법 검사:
     표제어: 제초
     품사: 명사
 ---
 000_KEYWORD: 제초제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75145
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8545,13 +8545,13 @@ imported:
     표제어: 제초제
     품사: 명사
     항목ID: 75145
-processed:
+result:
   맞춤법 검사:
     표제어: 제초제
     품사: 명사
 ---
 000_KEYWORD: 제초하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75147
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8580,13 +8580,13 @@ imported:
     표제어: 제초하다
     품사: 동사
     항목ID: 75147
-processed:
+result:
   맞춤법 검사:
     표제어: 제초하다
     품사: 동사
 ---
 000_KEYWORD: 제출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31811
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8617,13 +8617,13 @@ imported:
     표제어: 제출
     품사: 명사
     항목ID: 31811
-processed:
+result:
   맞춤법 검사:
     표제어: 제출
     품사: 명사
 ---
 000_KEYWORD: 제출되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75152
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8656,13 +8656,13 @@ imported:
     표제어: 제출되다
     품사: 동사
     항목ID: 75152
-processed:
+result:
   맞춤법 검사:
     표제어: 제출되다
     품사: 동사
 ---
 000_KEYWORD: 제출받다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8671,13 +8671,13 @@ imported:
     표제어: 제출받다
     품사: 동사
     항목ID: 23984
-processed:
+result:
   맞춤법 검사:
     표제어: 제출받다
     품사: 동사
 ---
 000_KEYWORD: 제출하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63604
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8712,13 +8712,13 @@ imported:
     표제어: 제출하다
     품사: 동사
     항목ID: 63604
-processed:
+result:
   맞춤법 검사:
     표제어: 제출하다
     품사: 동사
 ---
 000_KEYWORD: 제치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75195
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8803,13 +8803,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/75195_jecheo.wav
       형태: 제쳐
     - 형태: 제치니
-processed:
+result:
   맞춤법 검사:
     표제어: 제치다
     품사: 동사
 ---
 000_KEYWORD: 제트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8821,13 +8821,13 @@ imported:
     표제어: 제트
     품사: 명사:보통:서술성
     항목ID: 23987
-processed:
+result:
   맞춤법 검사:
     표제어: 제트
     품사: 명사
 ---
 000_KEYWORD: 제트기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75199
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8855,13 +8855,13 @@ imported:
     표제어: 제트기
     품사: 명사
     항목ID: 75199
-processed:
+result:
   맞춤법 검사:
     표제어: 제트기
     품사: 명사
 ---
 000_KEYWORD: 제트기류__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8870,13 +8870,13 @@ imported:
     표제어: 제트기류
     품사: 명사:보통:서술성
     항목ID: 23989
-processed:
+result:
   맞춤법 검사:
     표제어: 제트기류
     품사: 명사
 ---
 000_KEYWORD: 제트엔진__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8886,13 +8886,13 @@ imported:
     표제어: 제트엔진
     품사: 명사:보통:비서술성
     항목ID: 23990
-processed:
+result:
   맞춤법 검사:
     표제어: 제트엔진
     품사: 명사
 ---
 000_KEYWORD: 제패__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75204
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8935,13 +8935,13 @@ imported:
     표제어: 제패
     품사: 명사
     항목ID: 75204
-processed:
+result:
   맞춤법 검사:
     표제어: 제패
     품사: 명사
 ---
 000_KEYWORD: 제패하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75208
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -8984,13 +8984,13 @@ imported:
     표제어: 제패하다
     품사: 동사
     항목ID: 75208
-processed:
+result:
   맞춤법 검사:
     표제어: 제패하다
     품사: 동사
 ---
 000_KEYWORD: 제풀에__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75213
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9043,13 +9043,13 @@ imported:
     표제어: 제풀에
     품사: 부사
     항목ID: 75213
-processed:
+result:
   맞춤법 검사:
     표제어: 제풀에
     품사: 부사
 ---
 000_KEYWORD: 제품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70898
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9080,13 +9080,13 @@ imported:
     표제어: 제품
     품사: 명사
     항목ID: 70898
-processed:
+result:
   맞춤법 검사:
     표제어: 제품
     품사: 명사
 ---
 000_KEYWORD: 제품군__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9095,13 +9095,13 @@ imported:
     표제어: 제품군
     품사: 명사:보통:서술성
     항목ID: 23993
-processed:
+result:
   맞춤법 검사:
     표제어: 제품군
     품사: 명사
 ---
 000_KEYWORD: 제품성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9110,13 +9110,13 @@ imported:
     표제어: 제품성
     품사: 명사:보통:서술성
     항목ID: 23994
-processed:
+result:
   맞춤법 검사:
     표제어: 제품성
     품사: 명사
 ---
 000_KEYWORD: 제하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75766
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9145,13 +9145,13 @@ imported:
     표제어: 제하
     품사: 명사
     항목ID: 75766
-processed:
+result:
   맞춤법 검사:
     표제어: 제하
     품사: 명사
 ---
 000_KEYWORD: 제하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75216
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9197,13 +9197,13 @@ imported:
     표제어: 제하다
     품사: 동사
     항목ID: 75216
-processed:
+result:
   맞춤법 검사:
     표제어: 제하다
     품사: 동사
 ---
 000_KEYWORD: 제하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75218
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9239,13 +9239,13 @@ imported:
     표제어: 제하다
     품사: 동사
     항목ID: 75218
-processed:
+result:
   맞춤법 검사:
     표제어: 제하다
     품사: 동사
 ---
 000_KEYWORD: 제한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91695
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9276,13 +9276,13 @@ imported:
     표제어: 제한
     품사: 명사
     항목ID: 91695
-processed:
+result:
   맞춤법 검사:
     표제어: 제한
     품사: 명사
 ---
 000_KEYWORD: 제한구역__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9291,13 +9291,13 @@ imported:
     표제어: 제한구역
     품사: 명사:보통:비서술성
     항목ID: 23997
-processed:
+result:
   맞춤법 검사:
     표제어: 제한구역
     품사: 명사
 ---
 000_KEYWORD: 제한되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31812
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9331,13 +9331,13 @@ imported:
     표제어: 제한되다
     품사: 동사
     항목ID: 31812
-processed:
+result:
   맞춤법 검사:
     표제어: 제한되다
     품사: 동사
 ---
 000_KEYWORD: 제한성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75219
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9369,13 +9369,13 @@ imported:
     표제어: 제한성
     품사: 명사
     항목ID: 75219
-processed:
+result:
   맞춤법 검사:
     표제어: 제한성
     품사: 명사
 ---
 000_KEYWORD: 제한적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75220
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9405,13 +9405,13 @@ imported:
     표제어: 제한적
     품사: 관형사
     항목ID: 75220
-processed:
+result:
   맞춤법 검사:
     표제어: 제한적
     품사: 관형사
 ---
 000_KEYWORD: 제한적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75223
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9440,13 +9440,13 @@ imported:
     표제어: 제한적
     품사: 명사
     항목ID: 75223
-processed:
+result:
   맞춤법 검사:
     표제어: 제한적
     품사: 명사
 ---
 000_KEYWORD: 제한폭__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9455,13 +9455,13 @@ imported:
     표제어: 제한폭
     품사: 명사:보통:서술성
     항목ID: 24000
-processed:
+result:
   맞춤법 검사:
     표제어: 제한폭
     품사: 명사
 ---
 000_KEYWORD: 제한하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31813
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9495,13 +9495,13 @@ imported:
     표제어: 제한하다
     품사: 동사
     항목ID: 31813
-processed:
+result:
   맞춤법 검사:
     표제어: 제한하다
     품사: 동사
 ---
 000_KEYWORD: 제해권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75224
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9532,13 +9532,13 @@ imported:
     표제어: 제해권
     품사: 명사
     항목ID: 75224
-processed:
+result:
   맞춤법 검사:
     표제어: 제해권
     품사: 명사
 ---
 000_KEYWORD: 제헌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75225
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9566,13 +9566,13 @@ imported:
     표제어: 제헌
     품사: 명사
     항목ID: 75225
-processed:
+result:
   맞춤법 검사:
     표제어: 제헌
     품사: 명사
 ---
 000_KEYWORD: 제헌절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67920
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9589,13 +9589,13 @@ imported:
     표제어: 제헌절
     품사: 명사
     항목ID: 67920
-processed:
+result:
   맞춤법 검사:
     표제어: 제헌절
     품사: 명사
 ---
 000_KEYWORD: 제후__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75226
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9623,13 +9623,13 @@ imported:
     표제어: 제후
     품사: 명사
     항목ID: 75226
-processed:
+result:
   맞춤법 검사:
     표제어: 제후
     품사: 명사
 ---
 000_KEYWORD: 제휴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75227
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9663,13 +9663,13 @@ imported:
     표제어: 제휴
     품사: 명사
     항목ID: 75227
-processed:
+result:
   맞춤법 검사:
     표제어: 제휴
     품사: 명사
 ---
 000_KEYWORD: 제휴하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75228
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9699,13 +9699,13 @@ imported:
     표제어: 제휴하다
     품사: 동사
     항목ID: 75228
-processed:
+result:
   맞춤법 검사:
     표제어: 제휴하다
     품사: 동사
 ---
 000_KEYWORD: 젠장__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75229
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9724,13 +9724,13 @@ imported:
     표제어: 젠장
     품사: 감탄사
     항목ID: 75229
-processed:
+result:
   맞춤법 검사:
     표제어: 젠장
     품사: 감탄사
 ---
 000_KEYWORD: 젤__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75230
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9763,13 +9763,13 @@ imported:
     표제어: 젤
     품사: 명사
     항목ID: 75230
-processed:
+result:
   맞춤법 검사:
     표제어: 젤
     품사: 명사
 ---
 000_KEYWORD: 젤__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75231
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9801,13 +9801,13 @@ imported:
     표제어: 젤
     품사: 부사
     항목ID: 75231
-processed:
+result:
   맞춤법 검사:
     표제어: 젤
     품사: 부사
 ---
 000_KEYWORD: 젤라틴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75232
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9833,13 +9833,13 @@ imported:
     표제어: 젤라틴
     품사: 명사
     항목ID: 75232
-processed:
+result:
   맞춤법 검사:
     표제어: 젤라틴
     품사: 명사
 ---
 000_KEYWORD: 젤리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75233
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9884,13 +9884,13 @@ imported:
     표제어: 젤리
     품사: 명사
     항목ID: 75233
-processed:
+result:
   맞춤법 검사:
     표제어: 젤리
     품사: 명사
 ---
 000_KEYWORD: 젬병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75234
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9924,13 +9924,13 @@ imported:
     표제어: 젬병
     품사: 명사
     항목ID: 75234
-processed:
+result:
   맞춤법 검사:
     표제어: 젬병
     품사: 명사
 ---
 000_KEYWORD: 젯밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75235
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -9999,7 +9999,7 @@ imported:
     - 발음: 젣ː빰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/75235_jed-ppamman.wav
       형태: 젯밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 젯밥
     품사: 명사

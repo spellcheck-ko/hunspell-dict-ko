@@ -1,5 +1,5 @@
 000_KEYWORD: 떠가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53744
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -33,13 +33,13 @@ imported:
     활용:
     - 형태: 떠가
     - 형태: 떠가니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠가다
     품사: 동사
 ---
 000_KEYWORD: 떠꺼머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53732
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -66,13 +66,13 @@ imported:
     표제어: 떠꺼머리
     품사: 명사
     항목ID: 53732
-processed:
+result:
   맞춤법 검사:
     표제어: 떠꺼머리
     품사: 명사
 ---
 000_KEYWORD: 떠나가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28106
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -118,17 +118,17 @@ imported:
     활용:
     - 형태: 떠나가
     - 형태: 떠나가니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠나가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떠나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53746
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -227,13 +227,13 @@ imported:
     활용:
     - 형태: 떠나
     - 형태: 떠나니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠나다
     품사: 동사
 ---
 000_KEYWORD: 떠나보내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53771
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -264,17 +264,17 @@ imported:
     활용:
     - 형태: 떠나보내어
     - 형태: 떠나보내니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠나보내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떠나오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15156
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -305,17 +305,17 @@ imported:
     활용:
     - 형태: 떠나와
     - 형태: 떠나오니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠나오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떠내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53750
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -383,13 +383,13 @@ imported:
     활용:
     - 형태: 떠내어
     - 형태: 떠내니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠내다
     품사: 동사
 ---
 000_KEYWORD: 떠내려가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53770
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -422,17 +422,17 @@ imported:
     활용:
     - 형태: 떠내려가
     - 형태: 떠내려가니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠내려가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떠내려오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90934
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -465,13 +465,13 @@ imported:
     - 형태: 떠내려와
     - 형태: 떠내려오니
     - 형태: 떠내려오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 떠내려오다
     품사: 동사
 ---
 000_KEYWORD: 떠넘기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53762
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -507,13 +507,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53762_tteoneomgiyeo.wav
       형태: 떠넘기어
     - 형태: 떠넘기니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠넘기다
     품사: 동사
 ---
 000_KEYWORD: 떠다니다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53769
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -563,13 +563,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53769_tteodaniyeo.wav
       형태: 떠다니어
     - 형태: 떠다니니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠다니다
     품사: 동사
 ---
 000_KEYWORD: 떠다밀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53766
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -627,13 +627,13 @@ imported:
     - 발음: 떠다밈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/53766_tteodamimnida.wav
       형태: 떠다밉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떠다밀다
     품사: 동사
 ---
 000_KEYWORD: 떠돌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53763
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -701,13 +701,13 @@ imported:
     - 발음: 떠돔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53763_tteodomnida.wav
       형태: 떠돕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떠돌다
     품사: 동사
 ---
 000_KEYWORD: 떠돌아다니다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53751
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -775,17 +775,17 @@ imported:
     - 발음: 떠도라다니니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/53751_tteodoradanini.wav
       형태: 떠돌아다니니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠돌아다니다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떠돌이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53749
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -813,13 +813,13 @@ imported:
     표제어: 떠돌이
     품사: 명사
     항목ID: 53749
-processed:
+result:
   맞춤법 검사:
     표제어: 떠돌이
     품사: 명사
 ---
 000_KEYWORD: 떠들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64655
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -919,13 +919,13 @@ imported:
     - 발음: 떠ː듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/53772_tteo-deumnida.wav
       형태: 떠듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떠들다
     품사: 동사
 ---
 000_KEYWORD: 떠들다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53772
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -961,13 +961,13 @@ imported:
     - 발음: 떠듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53772_tteodeumnida.wav
       형태: 떠듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떠들다
     품사: 동사
 ---
 000_KEYWORD: 떠들썩하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90935
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -995,13 +995,13 @@ imported:
     표제어: 떠들썩하다
     품사: 동사
     항목ID: 90935
-processed:
+result:
   맞춤법 검사:
     표제어: 떠들썩하다
     품사: 동사
 ---
 000_KEYWORD: 떠들썩하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45104
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1054,13 +1054,13 @@ imported:
       형태: 떠들썩하니
     - 발음: 떠들써캄니다
       형태: 떠들썩합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떠들썩하다
     품사: 형용사
 ---
 000_KEYWORD: 떠듬거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53774
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1100,13 +1100,13 @@ imported:
     표제어: 떠듬거리다
     품사: 동사
     항목ID: 53774
-processed:
+result:
   맞춤법 검사:
     표제어: 떠듬거리다
     품사: 동사
 ---
 000_KEYWORD: 떠듬대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90225
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1145,13 +1145,13 @@ imported:
     표제어: 떠듬대다
     품사: 동사
     항목ID: 90225
-processed:
+result:
   맞춤법 검사:
     표제어: 떠듬대다
     품사: 동사
 ---
 000_KEYWORD: 떠듬떠듬__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53783
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1182,13 +1182,13 @@ imported:
     표제어: 떠듬떠듬
     품사: 부사
     항목ID: 53783
-processed:
+result:
   맞춤법 검사:
     표제어: 떠듬떠듬
     품사: 부사
 ---
 000_KEYWORD: 떠듬떠듬하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90227
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1227,13 +1227,13 @@ imported:
     표제어: 떠듬떠듬하다
     품사: 동사
     항목ID: 90227
-processed:
+result:
   맞춤법 검사:
     표제어: 떠듬떠듬하다
     품사: 동사
 ---
 000_KEYWORD: 떠름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53773
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1288,13 +1288,13 @@ imported:
     - 발음: 떠름함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53773_tteoreumhamnida.wav
       형태: 떠름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떠름하다
     품사: 형용사
 ---
 000_KEYWORD: 떠맡기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53779
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1335,13 +1335,13 @@ imported:
     - 발음: 떠맏끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53779_tteomatkkini.wav
       형태: 떠맡기니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠맡기다
     품사: 동사
 ---
 000_KEYWORD: 떠맡다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53781
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1381,13 +1381,13 @@ imported:
     - 발음: 떠만는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53781_tteomanneun.wav
       형태: 떠맡는
-processed:
+result:
   맞춤법 검사:
     표제어: 떠맡다
     품사: 동사
 ---
 000_KEYWORD: 떠먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53780
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1426,13 +1426,13 @@ imported:
     - 발음: 떠멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53780_tteomeongneun.wav
       형태: 떠먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 떠먹다
     품사: 동사
 ---
 000_KEYWORD: 떠먹이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53778
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1473,13 +1473,13 @@ imported:
     - 발음: 떠머기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/53778_tteomeogini.wav
       형태: 떠먹이니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠먹이다
     품사: 동사
 ---
 000_KEYWORD: 떠메다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53782
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1525,13 +1525,13 @@ imported:
     활용:
     - 형태: 떠메어
     - 형태: 떠메니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠메다
     품사: 동사
 ---
 000_KEYWORD: 떠밀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53775
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1590,13 +1590,13 @@ imported:
     - 발음: 떠밈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53775_tteomimnida.wav
       형태: 떠밉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떠밀다
     품사: 동사
 ---
 000_KEYWORD: 떠밀리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53799
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1632,13 +1632,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53799_tteomilliyeo.wav
       형태: 떠밀리어
     - 형태: 떠밀리니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠밀리다
     품사: 동사
 ---
 000_KEYWORD: 떠받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53787
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1678,7 +1678,7 @@ imported:
     - 발음: 떠반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/53787_tteobanneun.wav
       형태: 떠받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1686,7 +1686,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 떠받들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53793
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1754,13 +1754,13 @@ imported:
     - 발음: 떠받뜸니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53793_tteobattteumnida.wav
       형태: 떠받듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떠받들다
     품사: 동사
 ---
 000_KEYWORD: 떠받치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53796
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1813,13 +1813,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/53796_tteobatcheo.wav
       형태: 떠받쳐
     - 형태: 떠받치니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠받치다
     품사: 동사
 ---
 000_KEYWORD: 떠받히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90936
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1860,13 +1860,13 @@ imported:
     - 발음: 떠바치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/90936_tteobachini.wav
       형태: 떠받히니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠받히다
     품사: 동사
 ---
 000_KEYWORD: 떠벌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53789
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1904,13 +1904,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/53789_tteobeolliyeo.wav
       형태: 떠벌리어
     - 형태: 떠벌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠벌리다
     품사: 동사
 ---
 000_KEYWORD: 떠벌이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53795
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1951,13 +1951,13 @@ imported:
     - 발음: 떠버리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53795_tteobeorini.wav
       형태: 떠벌이니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠벌이다
     품사: 동사
 ---
 000_KEYWORD: 떠보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53792
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1989,13 +1989,13 @@ imported:
     활용:
     - 형태: 떠보아
     - 형태: 떠보니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠보다
     품사: 동사
 ---
 000_KEYWORD: 떠안기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90937
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2034,13 +2034,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/90937_tteoangiyeo.wav
       형태: 떠안기어
     - 형태: 떠안기니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠안기다
     품사: 동사
 ---
 000_KEYWORD: 떠안다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53794
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2075,13 +2075,13 @@ imported:
     - 발음: 떠아느니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/53794_tteoaneuni.wav
       형태: 떠안으니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠안다
     품사: 동사
 ---
 000_KEYWORD: 떠오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53790
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2117,13 +2117,13 @@ imported:
     활용:
     - 형태: 떠와
     - 형태: 떠오니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠오다
     품사: 동사
 ---
 000_KEYWORD: 떠오르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53785
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2202,19 +2202,19 @@ imported:
     활용:
     - 형태: 떠올라
     - 형태: 떠오르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
     표제어: 떠오르다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떠올리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62315
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2269,13 +2269,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/62315_tteoolliyeo.wav
       형태: 떠올리어
     - 형태: 떠올리니
-processed:
+result:
   맞춤법 검사:
     표제어: 떠올리다
     품사: 동사
 ---
 000_KEYWORD: 떡-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74912
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2292,11 +2292,11 @@ imported:
     표제어: 떡-
     품사: 접사
     항목ID: 74912
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 떡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20199
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2356,13 +2356,13 @@ imported:
     - 발음: 떵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/20199_tteongman.wav
       형태: 떡만
-processed:
+result:
   맞춤법 검사:
     표제어: 떡
     품사: 명사
 ---
 000_KEYWORD: 떡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54065
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2437,13 +2437,13 @@ imported:
     표제어: 떡
     품사: 부사
     항목ID: 54065
-processed:
+result:
   맞춤법 검사:
     표제어: 떡
     품사: 부사
 ---
 000_KEYWORD: 떡가루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54062
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2469,13 +2469,13 @@ imported:
     표제어: 떡가루
     품사: 명사
     항목ID: 54062
-processed:
+result:
   맞춤법 검사:
     표제어: 떡가루
     품사: 명사
 ---
 000_KEYWORD: 떡값__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54061
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2524,13 +2524,13 @@ imported:
     - 발음: 떡깜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/54061_tteokkkamman.wav
       형태: 떡값만
-processed:
+result:
   맞춤법 검사:
     표제어: 떡값
     품사: 명사
 ---
 000_KEYWORD: 떡고물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54070
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2569,13 +2569,13 @@ imported:
     표제어: 떡고물
     품사: 명사
     항목ID: 54070
-processed:
+result:
   맞춤법 검사:
     표제어: 떡고물
     품사: 명사
 ---
 000_KEYWORD: 떡국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15172
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2617,13 +2617,13 @@ imported:
     - 발음: 떡꿍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15172_tteokkkungman.wav
       형태: 떡국만
-processed:
+result:
   맞춤법 검사:
     표제어: 떡국
     품사: 명사
 ---
 000_KEYWORD: 떡두꺼비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54063
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2647,13 +2647,13 @@ imported:
     표제어: 떡두꺼비
     품사: 명사
     항목ID: 54063
-processed:
+result:
   맞춤법 검사:
     표제어: 떡두꺼비
     품사: 명사
 ---
 000_KEYWORD: 떡메__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54069
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2683,13 +2683,13 @@ imported:
     표제어: 떡메
     품사: 명사
     항목ID: 54069
-processed:
+result:
   맞춤법 검사:
     표제어: 떡메
     품사: 명사
 ---
 000_KEYWORD: 떡밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54068
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2743,13 +2743,13 @@ imported:
     - 발음: 떡빰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54068_tteokppamman.wav
       형태: 떡밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 떡밥
     품사: 명사
 ---
 000_KEYWORD: 떡방아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54064
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2772,13 +2772,13 @@ imported:
     표제어: 떡방아
     품사: 명사
     항목ID: 54064
-processed:
+result:
   맞춤법 검사:
     표제어: 떡방아
     품사: 명사
 ---
 000_KEYWORD: 떡볶이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15180
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2811,13 +2811,13 @@ imported:
     표제어: 떡볶이
     품사: 명사
     항목ID: 15180
-processed:
+result:
   맞춤법 검사:
     표제어: 떡볶이
     품사: 명사
 ---
 000_KEYWORD: 떡시루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54081
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2844,13 +2844,13 @@ imported:
     표제어: 떡시루
     품사: 명사
     항목ID: 54081
-processed:
+result:
   맞춤법 검사:
     표제어: 떡시루
     품사: 명사
 ---
 000_KEYWORD: 떡잎__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54071
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2887,13 +2887,13 @@ imported:
     - 발음: 떵님만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54071_tteongnimman.wav
       형태: 떡잎만
-processed:
+result:
   맞춤법 검사:
     표제어: 떡잎
     품사: 명사
 ---
 000_KEYWORD: 떨거지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54078
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2920,13 +2920,13 @@ imported:
     표제어: 떨거지
     품사: 명사
     항목ID: 54078
-processed:
+result:
   맞춤법 검사:
     표제어: 떨거지
     품사: 명사
 ---
 000_KEYWORD: 떨구다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90938
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3165,13 +3165,13 @@ imported:
     활용:
     - 형태: 떨구어
     - 형태: 떨구니
-processed:
+result:
   맞춤법 검사:
     표제어: 떨구다
     품사: 동사
 ---
 000_KEYWORD: 떨기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54074
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3212,13 +3212,13 @@ imported:
     표제어: 떨기
     품사: 명사
     항목ID: 54074
-processed:
+result:
   맞춤법 검사:
     표제어: 떨기
     품사: 명사
 ---
 000_KEYWORD: 떨꺼덕__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90939
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3249,13 +3249,13 @@ imported:
     표제어: 떨꺼덕
     품사: 부사
     항목ID: 90939
-processed:
+result:
   맞춤법 검사:
     표제어: 떨꺼덕
     품사: 부사
 ---
 000_KEYWORD: 떨꺽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54075
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3287,13 +3287,13 @@ imported:
     표제어: 떨꺽
     품사: 부사
     항목ID: 54075
-processed:
+result:
   맞춤법 검사:
     표제어: 떨꺽
     품사: 부사
 ---
 000_KEYWORD: 떨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65529
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3398,13 +3398,13 @@ imported:
       형태: 떠니
     - 발음: 떰ː니다
       형태: 떱니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떨다
     품사: 동사
 ---
 000_KEYWORD: 떨다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54073
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3495,13 +3495,13 @@ imported:
     - 발음: 떰ː니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54073_tteom-nida.wav
       형태: 떱니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떨다
     품사: 동사
 ---
 000_KEYWORD: 떨떠름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54076
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3554,13 +3554,13 @@ imported:
     - 발음: 떨떠름함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54076_tteoltteoreumhamnida.wav
       형태: 떨떠름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떨떠름하다
     품사: 형용사
 ---
 000_KEYWORD: 떨렁__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54077
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3600,13 +3600,13 @@ imported:
     표제어: 떨렁
     품사: 부사
     항목ID: 54077
-processed:
+result:
   맞춤법 검사:
     표제어: 떨렁
     품사: 부사
 ---
 000_KEYWORD: 떨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69293
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3664,13 +3664,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54084_tteolliyeo.wav
       형태: 떨리어
     - 형태: 떨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 떨리다
     품사: 동사
 ---
 000_KEYWORD: 떨리다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54084
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3706,13 +3706,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54084_tteolliyeo.wav
       형태: 떨리어
     - 형태: 떨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 떨리다
     품사: 동사
 ---
 000_KEYWORD: 떨어내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54087
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3750,7 +3750,7 @@ imported:
     - 발음: 떠러내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54087_tteoreonaeni.wav
       형태: 떨어내니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3758,7 +3758,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 떨어뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61508
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4030,13 +4030,13 @@ imported:
     - 발음: 떠러뜨리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/61508_tteoreotteurini.wav
       형태: 떨어뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 떨어뜨리다
     품사: 동사
 ---
 000_KEYWORD: 떨어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89796
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4541,17 +4541,17 @@ imported:
     - 발음: 떠러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/89796_tteoreojini.wav
       형태: 떨어지니
-processed:
+result:
   맞춤법 검사:
     표제어: 떨어지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 떨어트리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54091
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4822,13 +4822,13 @@ imported:
     - 발음: 떠러트리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54091_tteoreoteurini.wav
       형태: 떨어트리니
-processed:
+result:
   맞춤법 검사:
     표제어: 떨어트리다
     품사: 동사
 ---
 000_KEYWORD: 떨이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54082
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4858,13 +4858,13 @@ imported:
     표제어: 떨이
     품사: 명사
     항목ID: 54082
-processed:
+result:
   맞춤법 검사:
     표제어: 떨이
     품사: 명사
 ---
 000_KEYWORD: 떨이하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90940
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4893,13 +4893,13 @@ imported:
     표제어: 떨이하다
     품사: 동사
     항목ID: 90940
-processed:
+result:
   맞춤법 검사:
     표제어: 떨이하다
     품사: 동사
 ---
 000_KEYWORD: 떨치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54095
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4941,13 +4941,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/54095_tteolcheo.wav
       형태: 떨쳐
     - 형태: 떨치니
-processed:
+result:
   맞춤법 검사:
     표제어: 떨치다
     품사: 동사
 ---
 000_KEYWORD: 떨치다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54090
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5006,13 +5006,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/54095_tteolcheo.wav
       형태: 떨쳐
     - 형태: 떨치니
-processed:
+result:
   맞춤법 검사:
     표제어: 떨치다
     품사: 동사
 ---
 000_KEYWORD: 떫다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54086
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5072,13 +5072,13 @@ imported:
     - 발음: 떨ː찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54086_tteor-jji.wav
       형태: 떫지
-processed:
+result:
   맞춤법 검사:
     표제어: 떫다
     품사: 형용사
 ---
 000_KEYWORD: 떳떳이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54088
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5105,13 +5105,13 @@ imported:
     표제어: 떳떳이
     품사: 부사
     항목ID: 54088
-processed:
+result:
   맞춤법 검사:
     표제어: 떳떳이
     품사: 부사
 ---
 000_KEYWORD: 떳떳하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54083
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5158,13 +5158,13 @@ imported:
     - 발음: 떧떠탐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54083_tteottteotamnida.wav
       형태: 떳떳합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 떳떳하다
     품사: 형용사
 ---
 000_KEYWORD: 떵떵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54085
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5195,13 +5195,13 @@ imported:
     표제어: 떵떵
     품사: 부사
     항목ID: 54085
-processed:
+result:
   맞춤법 검사:
     표제어: 떵떵
     품사: 부사
 ---
 000_KEYWORD: 떵떵거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54094
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5231,13 +5231,13 @@ imported:
     표제어: 떵떵거리다
     품사: 동사
     항목ID: 54094
-processed:
+result:
   맞춤법 검사:
     표제어: 떵떵거리다
     품사: 동사
 ---
 000_KEYWORD: 떵떵대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90228
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5269,7 +5269,7 @@ imported:
     표제어: 떵떵대다
     품사: 동사
     항목ID: 90228
-processed:
+result:
   맞춤법 검사:
     표제어: 떵떵대다
     품사: 동사

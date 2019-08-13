@@ -1,5 +1,5 @@
 000_KEYWORD: -까짓__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92117
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -18,11 +18,11 @@ imported:
     표제어: -까짓
     품사: 접사
     항목ID: 92117
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -깔__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73338
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -40,11 +40,11 @@ imported:
     표제어: -깔
     품사: 접사
     항목ID: 73338
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 까까머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26512
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -78,13 +78,13 @@ imported:
     표제어: 까까머리
     품사: 명사
     항목ID: 26512
-processed:
+result:
   맞춤법 검사:
     표제어: 까까머리
     품사: 명사
 ---
 000_KEYWORD: 까까중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83302
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -110,13 +110,13 @@ imported:
     표제어: 까까중
     품사: 명사
     항목ID: 83302
-processed:
+result:
   맞춤법 검사:
     표제어: 까까중
     품사: 명사
 ---
 000_KEYWORD: 까꿍__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83303
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -137,13 +137,13 @@ imported:
     표제어: 까꿍
     품사: 감탄사
     항목ID: 83303
-processed:
+result:
   맞춤법 검사:
     표제어: 까꿍
     품사: 감탄사
 ---
 000_KEYWORD: 까끌까끌__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -153,13 +153,13 @@ imported:
     표제어: 까끌까끌
     품사: 부사
     항목ID: 4354
-processed:
+result:
   맞춤법 검사:
     표제어: 까끌까끌
     품사: 부사
 ---
 000_KEYWORD: 까나리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -169,13 +169,13 @@ imported:
     표제어: 까나리
     품사: 명사:보통:비서술성
     항목ID: 4355
-processed:
+result:
   맞춤법 검사:
     표제어: 까나리
     품사: 명사
 ---
 000_KEYWORD: 까놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83304
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -203,19 +203,19 @@ imported:
     표제어: 까놓다
     품사: 동사
     항목ID: 83304
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙 미확정
     표제어: 까놓다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 까다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32546
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -317,13 +317,13 @@ imported:
     활용:
     - 형태: 까
     - 형태: 까니
-processed:
+result:
   맞춤법 검사:
     표제어: 까다
     품사: 동사
 ---
 000_KEYWORD: 까다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45184
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -353,13 +353,13 @@ imported:
     활용:
     - 형태: 까
     - 형태: 까니
-processed:
+result:
   맞춤법 검사:
     표제어: 까다
     품사: 동사
 ---
 000_KEYWORD: 까다롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45185
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -418,7 +418,7 @@ imported:
       형태: 까다로우니
     - 발음: 까ː다롭씀니다
       형태: 까다롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -426,7 +426,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 까닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45187
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -473,13 +473,13 @@ imported:
     표제어: 까닥
     품사: 부사
     항목ID: 45187
-processed:
+result:
   맞춤법 검사:
     표제어: 까닥
     품사: 부사
 ---
 000_KEYWORD: 까닥거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45188
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -518,13 +518,13 @@ imported:
     표제어: 까닥거리다
     품사: 동사
     항목ID: 45188
-processed:
+result:
   맞춤법 검사:
     표제어: 까닥거리다
     품사: 동사
 ---
 000_KEYWORD: 까닥까닥__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45189
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -560,13 +560,13 @@ imported:
     표제어: 까닥까닥
     품사: 부사
     항목ID: 45189
-processed:
+result:
   맞춤법 검사:
     표제어: 까닥까닥
     품사: 부사
 ---
 000_KEYWORD: 까닥까닥하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91329
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -602,13 +602,13 @@ imported:
     표제어: 까닥까닥하다
     품사: 동사
     항목ID: 91329
-processed:
+result:
   맞춤법 검사:
     표제어: 까닥까닥하다
     품사: 동사
 ---
 000_KEYWORD: 까닥대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45192
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -644,13 +644,13 @@ imported:
     표제어: 까닥대다
     품사: 동사
     항목ID: 45192
-processed:
+result:
   맞춤법 검사:
     표제어: 까닥대다
     품사: 동사
 ---
 000_KEYWORD: 까닥이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45194
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -680,13 +680,13 @@ imported:
     표제어: 까닥이다
     품사: 동사
     항목ID: 45194
-processed:
+result:
   맞춤법 검사:
     표제어: 까닥이다
     품사: 동사
 ---
 000_KEYWORD: 까닥하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45196
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -736,13 +736,13 @@ imported:
     표제어: 까닥하다
     품사: 동사
     항목ID: 45196
-processed:
+result:
   맞춤법 검사:
     표제어: 까닥하다
     품사: 동사
 ---
 000_KEYWORD: 까닭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62453
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -784,13 +784,13 @@ imported:
     - 발음: 까당만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/62453_kkadangman.wav
       형태: 까닭만
-processed:
+result:
   맞춤법 검사:
     표제어: 까닭
     품사: 명사
 ---
 000_KEYWORD: 까뒤집다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45200
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -855,7 +855,7 @@ imported:
     - 발음: 까뒤짐는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45200_kkadwijimneun.wav
       형태: 까뒤집는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -863,7 +863,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 까딱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45201
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -908,13 +908,13 @@ imported:
     표제어: 까딱
     품사: 부사
     항목ID: 45201
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱
     품사: 부사
 ---
 000_KEYWORD: 까딱거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45202
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -973,13 +973,13 @@ imported:
     표제어: 까딱거리다
     품사: 동사
     항목ID: 45202
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱거리다
     품사: 동사
 ---
 000_KEYWORD: 까딱까딱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45203
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1010,13 +1010,13 @@ imported:
     표제어: 까딱까딱
     품사: 부사
     항목ID: 45203
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱까딱
     품사: 부사
 ---
 000_KEYWORD: 까딱까딱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88514
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1051,13 +1051,13 @@ imported:
     표제어: 까딱까딱하다
     품사: 동사
     항목ID: 88514
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱까딱하다
     품사: 동사
 ---
 000_KEYWORD: 까딱대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45204
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1112,13 +1112,13 @@ imported:
     표제어: 까딱대다
     품사: 동사
     항목ID: 45204
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱대다
     품사: 동사
 ---
 000_KEYWORD: 까딱없다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45206
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1168,13 +1168,13 @@ imported:
     - 발음: 까따겁찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45206_kkattageopjji.wav
       형태: 까딱없지
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱없다
     품사: 형용사
 ---
 000_KEYWORD: 까딱없이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89887
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1201,13 +1201,13 @@ imported:
     표제어: 까딱없이
     품사: 부사
     항목ID: 89887
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱없이
     품사: 부사
 ---
 000_KEYWORD: 까딱이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45210
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1246,13 +1246,13 @@ imported:
     표제어: 까딱이다
     품사: 동사
     항목ID: 45210
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱이다
     품사: 동사
 ---
 000_KEYWORD: 까딱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45212
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1303,13 +1303,13 @@ imported:
     표제어: 까딱하다
     품사: 동사
     항목ID: 45212
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱하다
     품사: 동사
 ---
 000_KEYWORD: 까딱하면__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45214
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1336,13 +1336,13 @@ imported:
     표제어: 까딱하면
     품사: 부사
     항목ID: 45214
-processed:
+result:
   맞춤법 검사:
     표제어: 까딱하면
     품사: 부사
 ---
 000_KEYWORD: 까라지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45216
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1381,7 +1381,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/45216_kkarajeo.wav
       형태: 까라져
     - 형태: 까라지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -1389,7 +1389,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 까랑까랑__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1399,13 +1399,13 @@ imported:
     표제어: 까랑까랑
     품사: 부사
     항목ID: 4361
-processed:
+result:
   맞춤법 검사:
     표제어: 까랑까랑
     품사: 부사
 ---
 000_KEYWORD: 까랑까랑하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1415,13 +1415,13 @@ imported:
     표제어: 까랑까랑하다
     품사: 형용사
     항목ID: 4362
-processed:
+result:
   맞춤법 검사:
     표제어: 까랑까랑하다
     품사: 형용사
 ---
 000_KEYWORD: 까르르__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38356
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1447,13 +1447,13 @@ imported:
     표제어: 까르르
     품사: 부사
     항목ID: 38356
-processed:
+result:
   맞춤법 검사:
     표제어: 까르르
     품사: 부사
 ---
 000_KEYWORD: 까르르거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89888
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1485,13 +1485,13 @@ imported:
     표제어: 까르르거리다
     품사: 동사
     항목ID: 89888
-processed:
+result:
   맞춤법 검사:
     표제어: 까르르거리다
     품사: 동사
 ---
 000_KEYWORD: 까르르대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89889
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1523,13 +1523,13 @@ imported:
     표제어: 까르르대다
     품사: 동사
     항목ID: 89889
-processed:
+result:
   맞춤법 검사:
     표제어: 까르르대다
     품사: 동사
 ---
 000_KEYWORD: 까르르하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89890
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1557,13 +1557,13 @@ imported:
     표제어: 까르르하다
     품사: 동사
     항목ID: 89890
-processed:
+result:
   맞춤법 검사:
     표제어: 까르르하다
     품사: 동사
 ---
 000_KEYWORD: 까르륵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38358
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1601,13 +1601,13 @@ imported:
     표제어: 까르륵
     품사: 부사
     항목ID: 38358
-processed:
+result:
   맞춤법 검사:
     표제어: 까르륵
     품사: 부사
 ---
 000_KEYWORD: 까르륵거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89891
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1656,13 +1656,13 @@ imported:
     표제어: 까르륵거리다
     품사: 동사
     항목ID: 89891
-processed:
+result:
   맞춤법 검사:
     표제어: 까르륵거리다
     품사: 동사
 ---
 000_KEYWORD: 까르륵대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89892
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1711,13 +1711,13 @@ imported:
     표제어: 까르륵대다
     품사: 동사
     항목ID: 89892
-processed:
+result:
   맞춤법 검사:
     표제어: 까르륵대다
     품사: 동사
 ---
 000_KEYWORD: 까르륵하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89893
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1757,13 +1757,13 @@ imported:
     표제어: 까르륵하다
     품사: 동사
     항목ID: 89893
-processed:
+result:
   맞춤법 검사:
     표제어: 까르륵하다
     품사: 동사
 ---
 000_KEYWORD: 까마귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38363
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1793,13 +1793,13 @@ imported:
     표제어: 까마귀
     품사: 명사
     항목ID: 38363
-processed:
+result:
   맞춤법 검사:
     표제어: 까마귀
     품사: 명사
 ---
 000_KEYWORD: 까마득하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38365
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1898,13 +1898,13 @@ imported:
       형태: 까마득하니
     - 발음: 까마드캄니다
       형태: 까마득합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까마득하다
     품사: 형용사
 ---
 000_KEYWORD: 까마득히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38642
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1970,13 +1970,13 @@ imported:
     표제어: 까마득히
     품사: 부사
     항목ID: 38642
-processed:
+result:
   맞춤법 검사:
     표제어: 까마득히
     품사: 부사
 ---
 000_KEYWORD: 까막까치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38367
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2003,13 +2003,13 @@ imported:
     표제어: 까막까치
     품사: 명사
     항목ID: 38367
-processed:
+result:
   맞춤법 검사:
     표제어: 까막까치
     품사: 명사
 ---
 000_KEYWORD: 까막눈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38368
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2059,13 +2059,13 @@ imported:
     표제어: 까막눈
     품사: 명사
     항목ID: 38368
-processed:
+result:
   맞춤법 검사:
     표제어: 까막눈
     품사: 명사
 ---
 000_KEYWORD: 까막눈이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38643
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2115,13 +2115,13 @@ imported:
     표제어: 까막눈이
     품사: 명사
     항목ID: 38643
-processed:
+result:
   맞춤법 검사:
     표제어: 까막눈이
     품사: 명사
 ---
 000_KEYWORD: 까만색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32548
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2168,13 +2168,13 @@ imported:
     - 발음: 까만생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/32548_kkamansaengman.wav
       형태: 까만색만
-processed:
+result:
   맞춤법 검사:
     표제어: 까만색
     품사: 명사
 ---
 000_KEYWORD: 까망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38369
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2187,10 +2187,10 @@ imported:
     표제어: 까망
     품사: 명사
     항목ID: 38369
-processed: {}
+result: {}
 ---
 000_KEYWORD: 까맣다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64358
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2312,7 +2312,7 @@ imported:
     - 발음: 까ː마씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64358_kka-masseumnida.wav
       형태: 까맣습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅎ불규칙
@@ -2320,7 +2320,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 까먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32549
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2398,13 +2398,13 @@ imported:
     - 발음: 까멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/32549_kkameongneun.wav
       형태: 까먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 까먹다
     품사: 동사
 ---
 000_KEYWORD: 까무러지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38370
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2443,7 +2443,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/38370_kkamureojeo.wav
       형태: 까무러져
     - 형태: 까무러지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -2451,7 +2451,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 까무러치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38371
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2492,7 +2492,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/38371_kkamureocheo.wav
       형태: 까무러쳐
     - 형태: 까무러치니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -2500,7 +2500,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 까무룩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38373
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2526,13 +2526,13 @@ imported:
     표제어: 까무룩
     품사: 부사
     항목ID: 38373
-processed:
+result:
   맞춤법 검사:
     표제어: 까무룩
     품사: 부사
 ---
 000_KEYWORD: 까무잡잡하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38375
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2579,13 +2579,13 @@ imported:
       형태: 까무잡잡하니
     - 발음: 까무잡짜팜니다
       형태: 까무잡잡합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까무잡잡하다
     품사: 형용사
 ---
 000_KEYWORD: 까무칙칙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38376
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2633,13 +2633,13 @@ imported:
       형태: 까무칙칙하니
     - 발음: 까무칙치캄니다
       형태: 까무칙칙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까무칙칙하다
     품사: 형용사
 ---
 000_KEYWORD: 까무퇴퇴하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38378
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2696,13 +2696,13 @@ imported:
       형태: 까무퇴퇴합니다
     - 발음: 까무퉤퉤함니다
       형태: 까무퇴퇴합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까무퇴퇴하다
     품사: 형용사
 ---
 000_KEYWORD: 까물거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38380
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2785,13 +2785,13 @@ imported:
     표제어: 까물거리다
     품사: 동사
     항목ID: 38380
-processed:
+result:
   맞춤법 검사:
     표제어: 까물거리다
     품사: 동사
 ---
 000_KEYWORD: 까물까물__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42136
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2848,13 +2848,13 @@ imported:
     표제어: 까물까물
     품사: 부사
     항목ID: 42136
-processed:
+result:
   맞춤법 검사:
     표제어: 까물까물
     품사: 부사
 ---
 000_KEYWORD: 까물까물하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64574
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2938,13 +2938,13 @@ imported:
     표제어: 까물까물하다
     품사: 동사
     항목ID: 64574
-processed:
+result:
   맞춤법 검사:
     표제어: 까물까물하다
     품사: 동사
 ---
 000_KEYWORD: 까물까물하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64575
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3012,13 +3012,13 @@ imported:
       형태: 까물까물하니
     - 발음: 까물까물함니다
       형태: 까물까물합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까물까물하다
     품사: 형용사
 ---
 000_KEYWORD: 까물대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88515
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3095,13 +3095,13 @@ imported:
     표제어: 까물대다
     품사: 동사
     항목ID: 88515
-processed:
+result:
   맞춤법 검사:
     표제어: 까물대다
     품사: 동사
 ---
 000_KEYWORD: 까뭇까뭇__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38384
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3127,13 +3127,13 @@ imported:
     표제어: 까뭇까뭇
     품사: 부사
     항목ID: 38384
-processed:
+result:
   맞춤법 검사:
     표제어: 까뭇까뭇
     품사: 부사
 ---
 000_KEYWORD: 까뭇까뭇하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38645
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3173,13 +3173,13 @@ imported:
       형태: 까뭇까뭇하니
     - 발음: 까묻까무탐니다
       형태: 까뭇까뭇합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까뭇까뭇하다
     품사: 형용사
 ---
 000_KEYWORD: 까발리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38385
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3227,13 +3227,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38385_kkaballiyeo.wav
       형태: 까발리어
     - 형태: 까발리니
-processed:
+result:
   맞춤법 검사:
     표제어: 까발리다
     품사: 동사
 ---
 000_KEYWORD: 까부라지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38388
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3270,7 +3270,7 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/38388_kkaburajeo.wav
       형태: 까부라져
     - 형태: 까부라지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3278,7 +3278,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 까부르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38648
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3325,7 +3325,7 @@ imported:
     활용:
     - 형태: 까불러
     - 형태: 까부르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -3333,7 +3333,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 까부수다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64581
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3363,13 +3363,13 @@ imported:
     활용:
     - 형태: 까부수어
     - 형태: 까부수니
-processed:
+result:
   맞춤법 검사:
     표제어: 까부수다
     품사: 동사
 ---
 000_KEYWORD: 까불거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38649
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3424,13 +3424,13 @@ imported:
     표제어: 까불거리다
     품사: 동사
     항목ID: 38649
-processed:
+result:
   맞춤법 검사:
     표제어: 까불거리다
     품사: 동사
 ---
 000_KEYWORD: 까불까불__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88516
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3468,13 +3468,13 @@ imported:
     표제어: 까불까불
     품사: 부사
     항목ID: 88516
-processed:
+result:
   맞춤법 검사:
     표제어: 까불까불
     품사: 부사
 ---
 000_KEYWORD: 까불까불하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88517
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3529,13 +3529,13 @@ imported:
     표제어: 까불까불하다
     품사: 동사
     항목ID: 88517
-processed:
+result:
   맞춤법 검사:
     표제어: 까불까불하다
     품사: 동사
 ---
 000_KEYWORD: 까불다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42138
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3571,13 +3571,13 @@ imported:
     - 발음: 까붐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/42138_kkabumnida.wav
       형태: 까붑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까불다
     품사: 동사
 ---
 000_KEYWORD: 까불다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38390
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3630,13 +3630,13 @@ imported:
     - 발음: 까붐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/42138_kkabumnida.wav
       형태: 까붑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까불다
     품사: 동사
 ---
 000_KEYWORD: 까불대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42139
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3693,13 +3693,13 @@ imported:
     표제어: 까불대다
     품사: 동사
     항목ID: 42139
-processed:
+result:
   맞춤법 검사:
     표제어: 까불대다
     품사: 동사
 ---
 000_KEYWORD: 까불이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38393
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3725,13 +3725,13 @@ imported:
     표제어: 까불이
     품사: 명사
     항목ID: 38393
-processed:
+result:
   맞춤법 검사:
     표제어: 까불이
     품사: 명사
 ---
 000_KEYWORD: 까슬까슬__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38395
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3758,13 +3758,13 @@ imported:
     표제어: 까슬까슬
     품사: 부사
     항목ID: 38395
-processed:
+result:
   맞춤법 검사:
     표제어: 까슬까슬
     품사: 부사
 ---
 000_KEYWORD: 까슬까슬하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38396
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3806,13 +3806,13 @@ imported:
       형태: 까슬까슬하니
     - 발음: 까슬까슬함니다
       형태: 까슬까슬합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까슬까슬하다
     품사: 형용사
 ---
 000_KEYWORD: 까옥거리다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3823,13 +3823,13 @@ imported:
     표제어: 까옥거리다
     품사: 동사
     항목ID: 4374
-processed:
+result:
   맞춤법 검사:
     표제어: 까옥거리다
     품사: 동사
 ---
 000_KEYWORD: 까옥까옥__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3838,13 +3838,13 @@ imported:
     표제어: 까옥까옥
     품사: 부사
     항목ID: 4375
-processed:
+result:
   맞춤법 검사:
     표제어: 까옥까옥
     품사: 부사
 ---
 000_KEYWORD: 까이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64359
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3880,13 +3880,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64359_kkaiyeo.wav
       형태: 까이어
     - 형태: 까이니
-processed:
+result:
   맞춤법 검사:
     표제어: 까이다
     품사: 동사
 ---
 000_KEYWORD: 까지__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69698
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3932,11 +3932,11 @@ imported:
     표제어: 까지
     품사: 조사
     항목ID: 69698
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 까짓__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38403
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3961,13 +3961,13 @@ imported:
     표제어: 까짓
     품사: 감탄사
     항목ID: 38403
-processed:
+result:
   맞춤법 검사:
     표제어: 까짓
     품사: 감탄사
 ---
 000_KEYWORD: 까짓__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38401
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3987,13 +3987,13 @@ imported:
     표제어: 까짓
     품사: 관형사
     항목ID: 38401
-processed:
+result:
   맞춤법 검사:
     표제어: 까짓
     품사: 관형사
 ---
 000_KEYWORD: 까짓것__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38407
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4018,13 +4018,13 @@ imported:
     표제어: 까짓것
     품사: 감탄사
     항목ID: 38407
-processed:
+result:
   맞춤법 검사:
     표제어: 까짓것
     품사: 감탄사
 ---
 000_KEYWORD: 까짓것__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38405
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4055,13 +4055,13 @@ imported:
     - 발음: 까짇껀만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38405_kkajitkkeonman.wav
       형태: 까짓것만
-processed:
+result:
   맞춤법 검사:
     표제어: 까짓것
     품사: 명사
 ---
 000_KEYWORD: 까치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32550
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4092,13 +4092,13 @@ imported:
     표제어: 까치
     품사: 명사
     항목ID: 32550
-processed:
+result:
   맞춤법 검사:
     표제어: 까치
     품사: 명사
 ---
 000_KEYWORD: 까치발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38408
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4126,13 +4126,13 @@ imported:
     표제어: 까치발
     품사: 명사
     항목ID: 38408
-processed:
+result:
   맞춤법 검사:
     표제어: 까치발
     품사: 명사
 ---
 000_KEYWORD: 까칠까칠__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64686
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4157,13 +4157,13 @@ imported:
     표제어: 까칠까칠
     품사: 부사
     항목ID: 64686
-processed:
+result:
   맞춤법 검사:
     표제어: 까칠까칠
     품사: 부사
 ---
 000_KEYWORD: 까칠까칠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38410
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4202,13 +4202,13 @@ imported:
       형태: 까칠까칠하니
     - 발음: 까칠까칠함니다
       형태: 까칠까칠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까칠까칠하다
     품사: 형용사
 ---
 000_KEYWORD: 까칠하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38414
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4261,13 +4261,13 @@ imported:
       형태: 까칠하니
     - 발음: 까칠함니다
       형태: 까칠합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 까칠하다
     품사: 형용사
 ---
 000_KEYWORD: 까탈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26514
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4313,13 +4313,13 @@ imported:
     표제어: 까탈
     품사: 명사
     항목ID: 26514
-processed:
+result:
   맞춤법 검사:
     표제어: 까탈
     품사: 명사
 ---
 000_KEYWORD: 까탈스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64687
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4370,7 +4370,7 @@ imported:
       형태: 까탈스러우니
     - 발음: 까탈스럽씀니다
       형태: 까탈스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -4378,7 +4378,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 까투리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38416
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4416,13 +4416,13 @@ imported:
     표제어: 까투리
     품사: 명사
     항목ID: 38416
-processed:
+result:
   맞춤법 검사:
     표제어: 까투리
     품사: 명사
 ---
 000_KEYWORD: 까풀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89894
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4470,13 +4470,13 @@ imported:
     표제어: 까풀
     품사: 명사
     항목ID: 89894
-processed:
+result:
   맞춤법 검사:
     표제어: 까풀
     품사: 명사
 ---
 000_KEYWORD: 깍깍__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38418
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4502,13 +4502,13 @@ imported:
     표제어: 깍깍
     품사: 부사
     항목ID: 38418
-processed:
+result:
   맞춤법 검사:
     표제어: 깍깍
     품사: 부사
 ---
 000_KEYWORD: 깍두기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32551
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4551,13 +4551,13 @@ imported:
     표제어: 깍두기
     품사: 명사
     항목ID: 32551
-processed:
+result:
   맞춤법 검사:
     표제어: 깍두기
     품사: 명사
 ---
 000_KEYWORD: 깍둑깍둑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38420
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4582,13 +4582,13 @@ imported:
     표제어: 깍둑깍둑
     품사: 부사
     항목ID: 38420
-processed:
+result:
   맞춤법 검사:
     표제어: 깍둑깍둑
     품사: 부사
 ---
 000_KEYWORD: 깍듯이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89895
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4618,13 +4618,13 @@ imported:
     표제어: 깍듯이
     품사: 부사
     항목ID: 89895
-processed:
+result:
   맞춤법 검사:
     표제어: 깍듯이
     품사: 부사
 ---
 000_KEYWORD: 깍듯하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38421
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4663,13 +4663,13 @@ imported:
       형태: 깍듯하니
     - 발음: 깍뜨탐니다
       형태: 깍듯합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깍듯하다
     품사: 형용사
 ---
 000_KEYWORD: 깍쟁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26517
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4708,13 +4708,13 @@ imported:
     표제어: 깍쟁이
     품사: 명사
     항목ID: 26517
-processed:
+result:
   맞춤법 검사:
     표제어: 깍쟁이
     품사: 명사
 ---
 000_KEYWORD: 깍지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26518
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4738,13 +4738,13 @@ imported:
     표제어: 깍지
     품사: 명사
     항목ID: 26518
-processed:
+result:
   맞춤법 검사:
     표제어: 깍지
     품사: 명사
 ---
 000_KEYWORD: 깍지__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26519
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4776,13 +4776,13 @@ imported:
     표제어: 깍지
     품사: 명사
     항목ID: 26519
-processed:
+result:
   맞춤법 검사:
     표제어: 깍지
     품사: 명사
 ---
 000_KEYWORD: 깎다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57278
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4881,13 +4881,13 @@ imported:
     - 발음: 깡는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/57278_kkangneun.wav
       형태: 깎는
-processed:
+result:
   맞춤법 검사:
     표제어: 깎다
     품사: 동사
 ---
 000_KEYWORD: 깎아내리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38426
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4940,17 +4940,17 @@ imported:
     - 발음: 까까내리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/38426_kkakkanaerini.wav
       형태: 깎아내리니
-processed:
+result:
   맞춤법 검사:
     표제어: 깎아내리다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 깎아지르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38430
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4981,20 +4981,20 @@ imported:
     활용:
     - 발음: 까까지른
       형태: 깎아지른
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르/러불규칙 미확정
     표제어: 깎아지르다
     품사: 형용사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 르불규칙
     - 용언합성
 ---
 000_KEYWORD: 깎이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64360
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5076,13 +5076,13 @@ imported:
     - 발음: 까끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64360_kkakkini.wav
       형태: 깎이니
-processed:
+result:
   맞춤법 검사:
     표제어: 깎이다
     품사: 동사
 ---
 000_KEYWORD: 깐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38432
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5112,13 +5112,13 @@ imported:
     표제어: 깐
     품사: 명사
     항목ID: 38432
-processed:
+result:
   맞춤법 검사:
     표제어: 깐
     품사: 명사
 ---
 000_KEYWORD: 깐깐하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38433
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5157,13 +5157,13 @@ imported:
       형태: 깐깐하니
     - 발음: 깐깐함니다
       형태: 깐깐합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깐깐하다
     품사: 형용사
 ---
 000_KEYWORD: 깐깐히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38435
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5190,13 +5190,13 @@ imported:
     표제어: 깐깐히
     품사: 부사
     항목ID: 38435
-processed:
+result:
   맞춤법 검사:
     표제어: 깐깐히
     품사: 부사
 ---
 000_KEYWORD: 깐풍기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38437
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5224,13 +5224,13 @@ imported:
     표제어: 깐풍기
     품사: 명사
     항목ID: 38437
-processed:
+result:
   맞춤법 검사:
     표제어: 깐풍기
     품사: 명사
 ---
 000_KEYWORD: 깔개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38438
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5257,13 +5257,13 @@ imported:
     표제어: 깔개
     품사: 명사
     항목ID: 38438
-processed:
+result:
   맞춤법 검사:
     표제어: 깔개
     품사: 명사
 ---
 000_KEYWORD: 깔깔__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38441
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5290,13 +5290,13 @@ imported:
     표제어: 깔깔
     품사: 부사
     항목ID: 38441
-processed:
+result:
   맞춤법 검사:
     표제어: 깔깔
     품사: 부사
 ---
 000_KEYWORD: 깔깔거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38442
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5331,13 +5331,13 @@ imported:
     표제어: 깔깔거리다
     품사: 동사
     항목ID: 38442
-processed:
+result:
   맞춤법 검사:
     표제어: 깔깔거리다
     품사: 동사
 ---
 000_KEYWORD: 깔깔대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38443
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5373,13 +5373,13 @@ imported:
     표제어: 깔깔대다
     품사: 동사
     항목ID: 38443
-processed:
+result:
   맞춤법 검사:
     표제어: 깔깔대다
     품사: 동사
 ---
 000_KEYWORD: 깔깔하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88518
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5411,13 +5411,13 @@ imported:
     표제어: 깔깔하다
     품사: 동사
     항목ID: 88518
-processed:
+result:
   맞춤법 검사:
     표제어: 깔깔하다
     품사: 동사
 ---
 000_KEYWORD: 깔깔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38444
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5473,13 +5473,13 @@ imported:
       형태: 깔깔하니
     - 발음: 깔깔함니다
       형태: 깔깔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깔깔하다
     품사: 형용사
 ---
 000_KEYWORD: 깔끔하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32552
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5533,13 +5533,13 @@ imported:
       형태: 깔끔하니
     - 발음: 깔끔함니다
       형태: 깔끔합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깔끔하다
     품사: 형용사
 ---
 000_KEYWORD: 깔끔히__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5549,13 +5549,13 @@ imported:
     표제어: 깔끔히
     품사: 부사
     항목ID: 4395
-processed:
+result:
   맞춤법 검사:
     표제어: 깔끔히
     품사: 부사
 ---
 000_KEYWORD: 깔다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32553
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5682,13 +5682,13 @@ imported:
     - 발음: 깜니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/32553_kkamnida.wav
       형태: 깝니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깔다
     품사: 동사
 ---
 000_KEYWORD: 깔딱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64688
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5727,13 +5727,13 @@ imported:
     표제어: 깔딱
     품사: 부사
     항목ID: 64688
-processed:
+result:
   맞춤법 검사:
     표제어: 깔딱
     품사: 부사
 ---
 000_KEYWORD: 깔딱거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38447
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5792,13 +5792,13 @@ imported:
     표제어: 깔딱거리다
     품사: 동사
     항목ID: 38447
-processed:
+result:
   맞춤법 검사:
     표제어: 깔딱거리다
     품사: 동사
 ---
 000_KEYWORD: 깔딱대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88519
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5858,13 +5858,13 @@ imported:
     표제어: 깔딱대다
     품사: 동사
     항목ID: 88519
-processed:
+result:
   맞춤법 검사:
     표제어: 깔딱대다
     품사: 동사
 ---
 000_KEYWORD: 깔딱이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88520
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5911,13 +5911,13 @@ imported:
     표제어: 깔딱이다
     품사: 동사
     항목ID: 88520
-processed:
+result:
   맞춤법 검사:
     표제어: 깔딱이다
     품사: 동사
 ---
 000_KEYWORD: 깔딱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88521
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5968,13 +5968,13 @@ imported:
     표제어: 깔딱하다
     품사: 동사
     항목ID: 88521
-processed:
+result:
   맞춤법 검사:
     표제어: 깔딱하다
     품사: 동사
 ---
 000_KEYWORD: 깔때기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38450
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6006,13 +6006,13 @@ imported:
     표제어: 깔때기
     품사: 명사
     항목ID: 38450
-processed:
+result:
   맞춤법 검사:
     표제어: 깔때기
     품사: 명사
 ---
 000_KEYWORD: 깔리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32554
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6122,13 +6122,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/32554_kkalliyeo.wav
       형태: 깔리어
     - 형태: 깔리니
-processed:
+result:
   맞춤법 검사:
     표제어: 깔리다
     품사: 동사
 ---
 000_KEYWORD: 깔보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38452
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6159,17 +6159,17 @@ imported:
     활용:
     - 형태: 깔보아
     - 형태: 깔보니
-processed:
+result:
   맞춤법 검사:
     표제어: 깔보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 깔아뭉개다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38453
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6235,17 +6235,17 @@ imported:
     - 발음: 까라뭉개니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38453_kkaramunggaeni.wav
       형태: 깔아뭉개니
-processed:
+result:
   맞춤법 검사:
     표제어: 깔아뭉개다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 깔짝거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38454
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6301,13 +6301,13 @@ imported:
     표제어: 깔짝거리다
     품사: 동사
     항목ID: 38454
-processed:
+result:
   맞춤법 검사:
     표제어: 깔짝거리다
     품사: 동사
 ---
 000_KEYWORD: 깔짝깔짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88522
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6347,13 +6347,13 @@ imported:
     표제어: 깔짝깔짝
     품사: 부사
     항목ID: 88522
-processed:
+result:
   맞춤법 검사:
     표제어: 깔짝깔짝
     품사: 부사
 ---
 000_KEYWORD: 깔짝깔짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88523
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6409,13 +6409,13 @@ imported:
     표제어: 깔짝깔짝하다
     품사: 동사
     항목ID: 88523
-processed:
+result:
   맞춤법 검사:
     표제어: 깔짝깔짝하다
     품사: 동사
 ---
 000_KEYWORD: 깔짝대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38456
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6471,13 +6471,13 @@ imported:
     표제어: 깔짝대다
     품사: 동사
     항목ID: 38456
-processed:
+result:
   맞춤법 검사:
     표제어: 깔짝대다
     품사: 동사
 ---
 000_KEYWORD: 깔짝이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88524
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6505,13 +6505,13 @@ imported:
     표제어: 깔짝이다
     품사: 동사
     항목ID: 88524
-processed:
+result:
   맞춤법 검사:
     표제어: 깔짝이다
     품사: 동사
 ---
 000_KEYWORD: 깜깜__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38457
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6550,13 +6550,13 @@ imported:
     표제어: 깜깜
     품사: 부사
     항목ID: 38457
-processed:
+result:
   맞춤법 검사:
     표제어: 깜깜
     품사: 부사
 ---
 000_KEYWORD: 깜깜절벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38460
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6603,13 +6603,13 @@ imported:
     - 발음: 깜깜절병만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38460_kkamkkamjeolbyeongman.wav
       형태: 깜깜절벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 깜깜절벽
     품사: 명사
 ---
 000_KEYWORD: 깜깜하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38462
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6695,13 +6695,13 @@ imported:
       형태: 깜깜하니
     - 발음: 깜깜함니다
       형태: 깜깜합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깜깜하다
     품사: 형용사
 ---
 000_KEYWORD: 깜냥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26520
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6733,13 +6733,13 @@ imported:
     표제어: 깜냥
     품사: 명사
     항목ID: 26520
-processed:
+result:
   맞춤법 검사:
     표제어: 깜냥
     품사: 명사
 ---
 000_KEYWORD: 깜둥이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38464
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6807,13 +6807,13 @@ imported:
     표제어: 깜둥이
     품사: 명사
     항목ID: 38464
-processed:
+result:
   맞춤법 검사:
     표제어: 깜둥이
     품사: 명사
 ---
 000_KEYWORD: 깜박__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37725
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6878,13 +6878,13 @@ imported:
     표제어: 깜박
     품사: 부사
     항목ID: 37725
-processed:
+result:
   맞춤법 검사:
     표제어: 깜박
     품사: 부사
 ---
 000_KEYWORD: 깜박거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37726
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6989,13 +6989,13 @@ imported:
     표제어: 깜박거리다
     품사: 동사
     항목ID: 37726
-processed:
+result:
   맞춤법 검사:
     표제어: 깜박거리다
     품사: 동사
 ---
 000_KEYWORD: 깜박깜박__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37727
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7065,13 +7065,13 @@ imported:
     표제어: 깜박깜박
     품사: 부사
     항목ID: 37727
-processed:
+result:
   맞춤법 검사:
     표제어: 깜박깜박
     품사: 부사
 ---
 000_KEYWORD: 깜박깜박하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37728
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7176,13 +7176,13 @@ imported:
     표제어: 깜박깜박하다
     품사: 동사
     항목ID: 37728
-processed:
+result:
   맞춤법 검사:
     표제어: 깜박깜박하다
     품사: 동사
 ---
 000_KEYWORD: 깜박대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37729
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7285,13 +7285,13 @@ imported:
     표제어: 깜박대다
     품사: 동사
     항목ID: 37729
-processed:
+result:
   맞춤법 검사:
     표제어: 깜박대다
     품사: 동사
 ---
 000_KEYWORD: 깜박이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37730
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7383,13 +7383,13 @@ imported:
       형태: 깜박이니
     - 발음: 깜바김니다
       형태: 깜박입니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깜박이다
     품사: 동사
 ---
 000_KEYWORD: 깜박하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37731
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7468,13 +7468,13 @@ imported:
     표제어: 깜박하다
     품사: 동사
     항목ID: 37731
-processed:
+result:
   맞춤법 검사:
     표제어: 깜박하다
     품사: 동사
 ---
 000_KEYWORD: 깜빡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32556
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7535,13 +7535,13 @@ imported:
     표제어: 깜빡
     품사: 부사
     항목ID: 32556
-processed:
+result:
   맞춤법 검사:
     표제어: 깜빡
     품사: 부사
 ---
 000_KEYWORD: 깜빡거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37733
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7631,13 +7631,13 @@ imported:
     표제어: 깜빡거리다
     품사: 동사
     항목ID: 37733
-processed:
+result:
   맞춤법 검사:
     표제어: 깜빡거리다
     품사: 동사
 ---
 000_KEYWORD: 깜빡깜빡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37734
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7693,13 +7693,13 @@ imported:
     표제어: 깜빡깜빡
     품사: 부사
     항목ID: 37734
-processed:
+result:
   맞춤법 검사:
     표제어: 깜빡깜빡
     품사: 부사
 ---
 000_KEYWORD: 깜빡깜빡하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37735
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7787,13 +7787,13 @@ imported:
     표제어: 깜빡깜빡하다
     품사: 동사
     항목ID: 37735
-processed:
+result:
   맞춤법 검사:
     표제어: 깜빡깜빡하다
     품사: 동사
 ---
 000_KEYWORD: 깜빡대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88525
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7881,13 +7881,13 @@ imported:
     표제어: 깜빡대다
     품사: 동사
     항목ID: 88525
-processed:
+result:
   맞춤법 검사:
     표제어: 깜빡대다
     품사: 동사
 ---
 000_KEYWORD: 깜빡이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26521
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7919,13 +7919,13 @@ imported:
     표제어: 깜빡이
     품사: 명사
     항목ID: 26521
-processed:
+result:
   맞춤법 검사:
     표제어: 깜빡이
     품사: 명사
 ---
 000_KEYWORD: 깜빡이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37736
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7992,13 +7992,13 @@ imported:
     표제어: 깜빡이다
     품사: 동사
     항목ID: 37736
-processed:
+result:
   맞춤법 검사:
     표제어: 깜빡이다
     품사: 동사
 ---
 000_KEYWORD: 깜빡하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37737
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8066,13 +8066,13 @@ imported:
     표제어: 깜빡하다
     품사: 동사
     항목ID: 37737
-processed:
+result:
   맞춤법 검사:
     표제어: 깜빡하다
     품사: 동사
 ---
 000_KEYWORD: 깜작__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37738
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8101,13 +8101,13 @@ imported:
     표제어: 깜작
     품사: 부사
     항목ID: 37738
-processed:
+result:
   맞춤법 검사:
     표제어: 깜작
     품사: 부사
 ---
 000_KEYWORD: 깜작거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37740
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8142,13 +8142,13 @@ imported:
     표제어: 깜작거리다
     품사: 동사
     항목ID: 37740
-processed:
+result:
   맞춤법 검사:
     표제어: 깜작거리다
     품사: 동사
 ---
 000_KEYWORD: 깜작깜작__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88528
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8176,13 +8176,13 @@ imported:
     표제어: 깜작깜작
     품사: 부사
     항목ID: 88528
-processed:
+result:
   맞춤법 검사:
     표제어: 깜작깜작
     품사: 부사
 ---
 000_KEYWORD: 깜작깜작하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88529
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8217,13 +8217,13 @@ imported:
     표제어: 깜작깜작하다
     품사: 동사
     항목ID: 88529
-processed:
+result:
   맞춤법 검사:
     표제어: 깜작깜작하다
     품사: 동사
 ---
 000_KEYWORD: 깜작대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88526
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8258,13 +8258,13 @@ imported:
     표제어: 깜작대다
     품사: 동사
     항목ID: 88526
-processed:
+result:
   맞춤법 검사:
     표제어: 깜작대다
     품사: 동사
 ---
 000_KEYWORD: 깜작이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88527
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8296,13 +8296,13 @@ imported:
     표제어: 깜작이다
     품사: 동사
     항목ID: 88527
-processed:
+result:
   맞춤법 검사:
     표제어: 깜작이다
     품사: 동사
 ---
 000_KEYWORD: 깜작하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37741
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8330,13 +8330,13 @@ imported:
     표제어: 깜작하다
     품사: 동사
     항목ID: 37741
-processed:
+result:
   맞춤법 검사:
     표제어: 깜작하다
     품사: 동사
 ---
 000_KEYWORD: 깜장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37742
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8368,13 +8368,13 @@ imported:
     표제어: 깜장
     품사: 명사
     항목ID: 37742
-processed:
+result:
   맞춤법 검사:
     표제어: 깜장
     품사: 명사
 ---
 000_KEYWORD: 깜짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37744
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8399,13 +8399,13 @@ imported:
     표제어: 깜짝
     품사: 부사
     항목ID: 37744
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝
     품사: 부사
 ---
 000_KEYWORD: 깜짝__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37743
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8432,13 +8432,13 @@ imported:
     표제어: 깜짝
     품사: 부사
     항목ID: 37743
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝
     품사: 부사
 ---
 000_KEYWORD: 깜짝거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37745
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8474,13 +8474,13 @@ imported:
     표제어: 깜짝거리다
     품사: 동사
     항목ID: 37745
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝거리다
     품사: 동사
 ---
 000_KEYWORD: 깜짝깜짝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37747
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8504,13 +8504,13 @@ imported:
     표제어: 깜짝깜짝
     품사: 부사
     항목ID: 37747
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝깜짝
     품사: 부사
 ---
 000_KEYWORD: 깜짝깜짝__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37746
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8538,13 +8538,13 @@ imported:
     표제어: 깜짝깜짝
     품사: 부사
     항목ID: 37746
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝깜짝
     품사: 부사
 ---
 000_KEYWORD: 깜짝깜짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89896
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8573,13 +8573,13 @@ imported:
     표제어: 깜짝깜짝하다
     품사: 동사
     항목ID: 89896
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝깜짝하다
     품사: 동사
 ---
 000_KEYWORD: 깜짝깜짝하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37748
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8616,13 +8616,13 @@ imported:
     표제어: 깜짝깜짝하다
     품사: 동사
     항목ID: 37748
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝깜짝하다
     품사: 동사
 ---
 000_KEYWORD: 깜짝대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88530
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8660,13 +8660,13 @@ imported:
     표제어: 깜짝대다
     품사: 동사
     항목ID: 88530
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝대다
     품사: 동사
 ---
 000_KEYWORD: 깜짝이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88531
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8697,13 +8697,13 @@ imported:
     표제어: 깜짝이다
     품사: 동사
     항목ID: 88531
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝이다
     품사: 동사
 ---
 000_KEYWORD: 깜짝이야__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37749
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8724,13 +8724,13 @@ imported:
     표제어: 깜짝이야
     품사: 감탄사
     항목ID: 37749
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝이야
     품사: 감탄사
 ---
 000_KEYWORD: 깜짝하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37751
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8754,13 +8754,13 @@ imported:
     표제어: 깜짝하다
     품사: 동사
     항목ID: 37751
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝하다
     품사: 동사
 ---
 000_KEYWORD: 깜짝하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37750
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8790,13 +8790,13 @@ imported:
     표제어: 깜짝하다
     품사: 동사
     항목ID: 37750
-processed:
+result:
   맞춤법 검사:
     표제어: 깜짝하다
     품사: 동사
 ---
 000_KEYWORD: 깜찍스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37753
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8849,7 +8849,7 @@ imported:
       형태: 깜찍스러우니
     - 발음: 깜찍쓰럽씀니다
       형태: 깜찍스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -8857,7 +8857,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 깜찍하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37755
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8910,13 +8910,13 @@ imported:
       형태: 깜찍하니
     - 발음: 깜찌캄니다
       형태: 깜찍합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 깜찍하다
     품사: 형용사
 ---
 000_KEYWORD: 깝죽거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37756
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8973,13 +8973,13 @@ imported:
     표제어: 깝죽거리다
     품사: 동사
     항목ID: 37756
-processed:
+result:
   맞춤법 검사:
     표제어: 깝죽거리다
     품사: 동사
 ---
 000_KEYWORD: 깝죽깝죽__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88533
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9017,13 +9017,13 @@ imported:
     표제어: 깝죽깝죽
     품사: 부사
     항목ID: 88533
-processed:
+result:
   맞춤법 검사:
     표제어: 깝죽깝죽
     품사: 부사
 ---
 000_KEYWORD: 깝죽깝죽하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88534
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9077,13 +9077,13 @@ imported:
     표제어: 깝죽깝죽하다
     품사: 동사
     항목ID: 88534
-processed:
+result:
   맞춤법 검사:
     표제어: 깝죽깝죽하다
     품사: 동사
 ---
 000_KEYWORD: 깝죽대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37758
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9140,13 +9140,13 @@ imported:
     표제어: 깝죽대다
     품사: 동사
     항목ID: 37758
-processed:
+result:
   맞춤법 검사:
     표제어: 깝죽대다
     품사: 동사
 ---
 000_KEYWORD: 깝죽이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88532
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9187,13 +9187,13 @@ imported:
     표제어: 깝죽이다
     품사: 동사
     항목ID: 88532
-processed:
+result:
   맞춤법 검사:
     표제어: 깝죽이다
     품사: 동사
 ---
 000_KEYWORD: 깡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26522
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9224,13 +9224,13 @@ imported:
     표제어: 깡
     품사: 명사
     항목ID: 26522
-processed:
+result:
   맞춤법 검사:
     표제어: 깡
     품사: 명사
 ---
 000_KEYWORD: 깡그리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37760
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9258,13 +9258,13 @@ imported:
     표제어: 깡그리
     품사: 부사
     항목ID: 37760
-processed:
+result:
   맞춤법 검사:
     표제어: 깡그리
     품사: 부사
 ---
 000_KEYWORD: 깡깡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37761
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9300,13 +9300,13 @@ imported:
     표제어: 깡깡
     품사: 부사
     항목ID: 37761
-processed:
+result:
   맞춤법 검사:
     표제어: 깡깡
     품사: 부사
 ---
 000_KEYWORD: 깡다구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26524
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9337,13 +9337,13 @@ imported:
     표제어: 깡다구
     품사: 명사
     항목ID: 26524
-processed:
+result:
   맞춤법 검사:
     표제어: 깡다구
     품사: 명사
 ---
 000_KEYWORD: 깡마르다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37765
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9407,7 +9407,7 @@ imported:
       형태: 깡마르니
     - 발음: 깡마름니다
       형태: 깡마릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -9415,7 +9415,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 깡술__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92168
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9428,10 +9428,10 @@ imported:
     표제어: 깡술
     품사: 명사
     항목ID: 92168
-processed: {}
+result: {}
 ---
 000_KEYWORD: 깡총깡총__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92169
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9444,10 +9444,10 @@ imported:
     표제어: 깡총깡총
     품사: 부사
     항목ID: 92169
-processed: {}
+result: {}
 ---
 000_KEYWORD: 깡충__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89897
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9471,13 +9471,13 @@ imported:
     표제어: 깡충
     품사: 부사
     항목ID: 89897
-processed:
+result:
   맞춤법 검사:
     표제어: 깡충
     품사: 부사
 ---
 000_KEYWORD: 깡충거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37769
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9512,13 +9512,13 @@ imported:
     표제어: 깡충거리다
     품사: 동사
     항목ID: 37769
-processed:
+result:
   맞춤법 검사:
     표제어: 깡충거리다
     품사: 동사
 ---
 000_KEYWORD: 깡충깡충__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37770
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9548,13 +9548,13 @@ imported:
     표제어: 깡충깡충
     품사: 부사
     항목ID: 37770
-processed:
+result:
   맞춤법 검사:
     표제어: 깡충깡충
     품사: 부사
 ---
 000_KEYWORD: 깡충깡충하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88536
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9589,13 +9589,13 @@ imported:
     표제어: 깡충깡충하다
     품사: 동사
     항목ID: 88536
-processed:
+result:
   맞춤법 검사:
     표제어: 깡충깡충하다
     품사: 동사
 ---
 000_KEYWORD: 깡충대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88535
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9630,13 +9630,13 @@ imported:
     표제어: 깡충대다
     품사: 동사
     항목ID: 88535
-processed:
+result:
   맞춤법 검사:
     표제어: 깡충대다
     품사: 동사
 ---
 000_KEYWORD: 깡통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41466
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9682,13 +9682,13 @@ imported:
     표제어: 깡통
     품사: 명사
     항목ID: 41466
-processed:
+result:
   맞춤법 검사:
     표제어: 깡통
     품사: 명사
 ---
 000_KEYWORD: 깡패__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32557
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9718,7 +9718,7 @@ imported:
     표제어: 깡패
     품사: 명사
     항목ID: 32557
-processed:
+result:
   맞춤법 검사:
     표제어: 깡패
     품사: 명사

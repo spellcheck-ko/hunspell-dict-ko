@@ -1,5 +1,5 @@
 000_KEYWORD: -며__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80253
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -36,11 +36,11 @@ imported:
     표제어: -며
     품사: 어미
     항목ID: 80253
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -면__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80259
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -100,11 +100,11 @@ imported:
     표제어: -면
     품사: 어미
     항목ID: 80259
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -면서__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80266
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -143,11 +143,11 @@ imported:
     표제어: -면서
     품사: 어미
     항목ID: 80266
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 며__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70328
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -171,11 +171,11 @@ imported:
     표제어: 며
     품사: 조사
     항목ID: 70328
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 며느리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55540
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -202,13 +202,13 @@ imported:
     표제어: 며느리
     품사: 명사
     항목ID: 55540
-processed:
+result:
   맞춤법 검사:
     표제어: 며느리
     품사: 명사
 ---
 000_KEYWORD: 며느릿감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55541
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -235,13 +235,13 @@ imported:
     표제어: 며느릿감
     품사: 명사
     항목ID: 55541
-processed:
+result:
   맞춤법 검사:
     표제어: 며느릿감
     품사: 명사
 ---
 000_KEYWORD: 며칟날__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -250,13 +250,13 @@ imported:
     표제어: 며칟날
     품사: 명사:보통:비서술성
     항목ID: 31983
-processed:
+result:
   맞춤법 검사:
     표제어: 며칟날
     품사: 명사
 ---
 000_KEYWORD: 며칠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=36676
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -292,13 +292,13 @@ imported:
     표제어: 며칠
     품사: 명사
     항목ID: 36676
-processed:
+result:
   맞춤법 검사:
     표제어: 며칠
     품사: 명사
 ---
 000_KEYWORD: 멱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55554
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -335,13 +335,13 @@ imported:
     - 발음: 명만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55554_myeongman.wav
       형태: 멱만
-processed:
+result:
   맞춤법 검사:
     표제어: 멱
     품사: 명사
 ---
 000_KEYWORD: 멱살__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55592
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -368,13 +368,13 @@ imported:
     표제어: 멱살
     품사: 명사
     항목ID: 55592
-processed:
+result:
   맞춤법 검사:
     표제어: 멱살
     품사: 명사
 ---
 000_KEYWORD: 면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16109
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -400,13 +400,13 @@ imported:
     표제어: 면
     품사: 명사
     항목ID: 16109
-processed:
+result:
   맞춤법 검사:
     표제어: 면
     품사: 명사
 ---
 000_KEYWORD: 면__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16110
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -506,13 +506,13 @@ imported:
     표제어: 면
     품사: 명사
     항목ID: 16110
-processed:
+result:
   맞춤법 검사:
     표제어: 면
     품사: 명사
 ---
 000_KEYWORD: 면__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16111
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -541,13 +541,13 @@ imported:
     표제어: 면
     품사: 명사
     항목ID: 16111
-processed:
+result:
   맞춤법 검사:
     표제어: 면
     품사: 명사
 ---
 000_KEYWORD: 면__명사__004
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55693
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -577,13 +577,13 @@ imported:
     표제어: 면
     품사: 명사
     항목ID: 55693
-processed:
+result:
   맞춤법 검사:
     표제어: 면
     품사: 명사
 ---
 000_KEYWORD: 면__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -593,13 +593,13 @@ imported:
     표제어: 면
     품사: 명사:의존:단위성
     항목ID: 8993
-processed:
+result:
   맞춤법 검사:
     표제어: 면
     품사: 명사
 ---
 000_KEYWORD: 면__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=80264
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -618,11 +618,11 @@ imported:
     표제어: 면
     품사: 조사
     항목ID: 80264
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 면구스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55694
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -667,7 +667,7 @@ imported:
       형태: 면구스러우니
     - 발음: 면ː구스럽씀니다
       형태: 면구스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -675,7 +675,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 면담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16118
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -709,13 +709,13 @@ imported:
     표제어: 면담
     품사: 명사
     항목ID: 16118
-processed:
+result:
   맞춤법 검사:
     표제어: 면담
     품사: 명사
 ---
 000_KEYWORD: 면담하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55696
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -746,13 +746,13 @@ imported:
     표제어: 면담하다
     품사: 동사
     항목ID: 55696
-processed:
+result:
   맞춤법 검사:
     표제어: 면담하다
     품사: 동사
 ---
 000_KEYWORD: 면도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55697
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -803,13 +803,13 @@ imported:
     표제어: 면도
     품사: 명사
     항목ID: 55697
-processed:
+result:
   맞춤법 검사:
     표제어: 면도
     품사: 명사
 ---
 000_KEYWORD: 면도기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55698
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -843,13 +843,13 @@ imported:
     표제어: 면도기
     품사: 명사
     항목ID: 55698
-processed:
+result:
   맞춤법 검사:
     표제어: 면도기
     품사: 명사
 ---
 000_KEYWORD: 면도날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55699
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -880,13 +880,13 @@ imported:
     표제어: 면도날
     품사: 명사
     항목ID: 55699
-processed:
+result:
   맞춤법 검사:
     표제어: 면도날
     품사: 명사
 ---
 000_KEYWORD: 면도칼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55700
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -921,13 +921,13 @@ imported:
     표제어: 면도칼
     품사: 명사
     항목ID: 55700
-processed:
+result:
   맞춤법 검사:
     표제어: 면도칼
     품사: 명사
 ---
 000_KEYWORD: 면도하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55701
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -957,13 +957,13 @@ imported:
     표제어: 면도하다
     품사: 동사
     항목ID: 55701
-processed:
+result:
   맞춤법 검사:
     표제어: 면도하다
     품사: 동사
 ---
 000_KEYWORD: 면면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55730
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1005,13 +1005,13 @@ imported:
     표제어: 면면
     품사: 명사
     항목ID: 55730
-processed:
+result:
   맞춤법 검사:
     표제어: 면면
     품사: 명사
 ---
 000_KEYWORD: 면면하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55733
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1057,13 +1057,13 @@ imported:
       형태: 면면하니
     - 발음: 면면함니다
       형태: 면면합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 면면하다
     품사: 형용사
 ---
 000_KEYWORD: 면면히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55734
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1098,13 +1098,13 @@ imported:
     표제어: 면면히
     품사: 부사
     항목ID: 55734
-processed:
+result:
   맞춤법 검사:
     표제어: 면면히
     품사: 부사
 ---
 000_KEYWORD: 면모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=56112
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1153,13 +1153,13 @@ imported:
     표제어: 면모
     품사: 명사
     항목ID: 56112
-processed:
+result:
   맞춤법 검사:
     표제어: 면모
     품사: 명사
 ---
 000_KEYWORD: 면목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=56113
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1220,13 +1220,13 @@ imported:
     - 발음: 면ː몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/56113_myeon-mongman.wav
       형태: 면목만
-processed:
+result:
   맞춤법 검사:
     표제어: 면목
     품사: 명사
 ---
 000_KEYWORD: 면밀하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=56100
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1267,13 +1267,13 @@ imported:
       형태: 면밀하니
     - 발음: 면밀함니다
       형태: 면밀합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 면밀하다
     품사: 형용사
 ---
 000_KEYWORD: 면밀히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=56101
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1302,13 +1302,13 @@ imported:
     표제어: 면밀히
     품사: 부사
     항목ID: 56101
-processed:
+result:
   맞춤법 검사:
     표제어: 면밀히
     품사: 부사
 ---
 000_KEYWORD: 면바지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55739
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1334,13 +1334,13 @@ imported:
     표제어: 면바지
     품사: 명사
     항목ID: 55739
-processed:
+result:
   맞춤법 검사:
     표제어: 면바지
     품사: 명사
 ---
 000_KEYWORD: 면박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=56110
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1378,13 +1378,13 @@ imported:
     - 발음: 면ː방만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/56110_myeon-bangman.wav
       형태: 면박만
-processed:
+result:
   맞춤법 검사:
     표제어: 면박
     품사: 명사
 ---
 000_KEYWORD: 면박하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=56111
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1413,13 +1413,13 @@ imported:
     표제어: 면박하다
     품사: 동사
     항목ID: 56111
-processed:
+result:
   맞춤법 검사:
     표제어: 면박하다
     품사: 동사
 ---
 000_KEYWORD: 면발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54823
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1448,13 +1448,13 @@ imported:
     표제어: 면발
     품사: 명사
     항목ID: 54823
-processed:
+result:
   맞춤법 검사:
     표제어: 면발
     품사: 명사
 ---
 000_KEYWORD: 면봉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54832
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1485,13 +1485,13 @@ imported:
     표제어: 면봉
     품사: 명사
     항목ID: 54832
-processed:
+result:
   맞춤법 검사:
     표제어: 면봉
     품사: 명사
 ---
 000_KEYWORD: 면사무소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54844
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1520,13 +1520,13 @@ imported:
     표제어: 면사무소
     품사: 명사
     항목ID: 54844
-processed:
+result:
   맞춤법 검사:
     표제어: 면사무소
     품사: 명사
 ---
 000_KEYWORD: 면사포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54850
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1556,13 +1556,13 @@ imported:
     표제어: 면사포
     품사: 명사
     항목ID: 54850
-processed:
+result:
   맞춤법 검사:
     표제어: 면사포
     품사: 명사
 ---
 000_KEYWORD: 면상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54853
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1590,13 +1590,13 @@ imported:
     표제어: 면상
     품사: 명사
     항목ID: 54853
-processed:
+result:
   맞춤법 검사:
     표제어: 면상
     품사: 명사
 ---
 000_KEYWORD: 면상__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54858
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1625,13 +1625,13 @@ imported:
     표제어: 면상
     품사: 명사
     항목ID: 54858
-processed:
+result:
   맞춤법 검사:
     표제어: 면상
     품사: 명사
 ---
 000_KEYWORD: 면세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54861
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1658,13 +1658,13 @@ imported:
     표제어: 면세
     품사: 명사
     항목ID: 54861
-processed:
+result:
   맞춤법 검사:
     표제어: 면세
     품사: 명사
 ---
 000_KEYWORD: 면세점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54862
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1700,13 +1700,13 @@ imported:
     표제어: 면세점
     품사: 명사
     항목ID: 54862
-processed:
+result:
   맞춤법 검사:
     표제어: 면세점
     품사: 명사
 ---
 000_KEYWORD: 면식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54864
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1747,13 +1747,13 @@ imported:
     - 발음: 면ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54864_myeon-singman.wav
       형태: 면식만
-processed:
+result:
   맞춤법 검사:
     표제어: 면식
     품사: 명사
 ---
 000_KEYWORD: 면식범__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1763,13 +1763,13 @@ imported:
     표제어: 면식범
     품사: 명사:보통:비서술성
     항목ID: 9013
-processed:
+result:
   맞춤법 검사:
     표제어: 면식범
     품사: 명사
 ---
 000_KEYWORD: 면역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54865
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1823,13 +1823,13 @@ imported:
     - 발음: 며ː녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54865_myeo-nyeongman.wav
       형태: 면역만
-processed:
+result:
   맞춤법 검사:
     표제어: 면역
     품사: 명사
 ---
 000_KEYWORD: 면역되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54871
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1874,13 +1874,13 @@ imported:
     표제어: 면역되다
     품사: 동사
     항목ID: 54871
-processed:
+result:
   맞춤법 검사:
     표제어: 면역되다
     품사: 동사
 ---
 000_KEYWORD: 면역력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54873
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1917,13 +1917,13 @@ imported:
     - 발음: 며ː녕녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54873_myeo-nyeongnyeongman.wav
       형태: 면역력만
-processed:
+result:
   맞춤법 검사:
     표제어: 면역력
     품사: 명사
 ---
 000_KEYWORD: 면역반응__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1933,13 +1933,13 @@ imported:
     표제어: 면역반응
     품사: 명사:보통:서술성
     항목ID: 9016
-processed:
+result:
   맞춤법 검사:
     표제어: 면역반응
     품사: 명사
 ---
 000_KEYWORD: 면역성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54875
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -1969,13 +1969,13 @@ imported:
     표제어: 면역성
     품사: 명사
     항목ID: 54875
-processed:
+result:
   맞춤법 검사:
     표제어: 면역성
     품사: 명사
 ---
 000_KEYWORD: 면역억제제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1985,13 +1985,13 @@ imported:
     표제어: 면역억제제
     품사: 명사:보통:서술성
     항목ID: 9017
-processed:
+result:
   맞춤법 검사:
     표제어: 면역억제제
     품사: 명사
 ---
 000_KEYWORD: 면역학__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2000,13 +2000,13 @@ imported:
     표제어: 면역학
     품사: 명사:보통:서술성
     항목ID: 9018
-processed:
+result:
   맞춤법 검사:
     표제어: 면역학
     품사: 명사
 ---
 000_KEYWORD: 면장갑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54878
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2046,13 +2046,13 @@ imported:
     - 발음: 면장감만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54878_myeonjanggamman.wav
       형태: 면장갑만
-processed:
+result:
   맞춤법 검사:
     표제어: 면장갑
     품사: 명사
 ---
 000_KEYWORD: 면적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16119
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2095,13 +2095,13 @@ imported:
     - 발음: 면ː정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/mieum_2005/myeon-jeongman.wav
       형태: 면적만
-processed:
+result:
   맞춤법 검사:
     표제어: 면적
     품사: 명사
 ---
 000_KEYWORD: 면전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54880
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2127,13 +2127,13 @@ imported:
     표제어: 면전
     품사: 명사
     항목ID: 54880
-processed:
+result:
   맞춤법 검사:
     표제어: 면전
     품사: 명사
 ---
 000_KEYWORD: 면접__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16121
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2191,13 +2191,13 @@ imported:
     - 발음: 면ː점만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/16121_myeon-jeomman.wav
       형태: 면접만
-processed:
+result:
   맞춤법 검사:
     표제어: 면접
     품사: 명사
 ---
 000_KEYWORD: 면접관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89222
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2225,13 +2225,13 @@ imported:
     표제어: 면접관
     품사: 명사
     항목ID: 89222
-processed:
+result:
   맞춤법 검사:
     표제어: 면접관
     품사: 명사
 ---
 000_KEYWORD: 면접시험__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54882
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2270,13 +2270,13 @@ imported:
     표제어: 면접시험
     품사: 명사
     항목ID: 54882
-processed:
+result:
   맞춤법 검사:
     표제어: 면접시험
     품사: 명사
 ---
 000_KEYWORD: 면접하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55072
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2319,13 +2319,13 @@ imported:
     표제어: 면접하다
     품사: 동사
     항목ID: 55072
-processed:
+result:
   맞춤법 검사:
     표제어: 면접하다
     품사: 동사
 ---
 000_KEYWORD: 면제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55073
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2354,13 +2354,13 @@ imported:
     표제어: 면제
     품사: 명사
     항목ID: 55073
-processed:
+result:
   맞춤법 검사:
     표제어: 면제
     품사: 명사
 ---
 000_KEYWORD: 면제되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55074
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2391,13 +2391,13 @@ imported:
     표제어: 면제되다
     품사: 동사
     항목ID: 55074
-processed:
+result:
   맞춤법 검사:
     표제어: 면제되다
     품사: 동사
 ---
 000_KEYWORD: 면제하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55075
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2426,13 +2426,13 @@ imported:
     표제어: 면제하다
     품사: 동사
     항목ID: 55075
-processed:
+result:
   맞춤법 검사:
     표제어: 면제하다
     품사: 동사
 ---
 000_KEYWORD: 면죄__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2443,13 +2443,13 @@ imported:
     표제어: 면죄
     품사: 명사:보통:서술성
     항목ID: 9027
-processed:
+result:
   맞춤법 검사:
     표제어: 면죄
     품사: 명사
 ---
 000_KEYWORD: 면죄부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55076
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2489,13 +2489,13 @@ imported:
     표제어: 면죄부
     품사: 명사
     항목ID: 55076
-processed:
+result:
   맞춤법 검사:
     표제어: 면죄부
     품사: 명사
 ---
 000_KEYWORD: 면직__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55077
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2533,13 +2533,13 @@ imported:
     - 발음: 면ː징만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55077_myeon-jingman.wav
       형태: 면직만
-processed:
+result:
   맞춤법 검사:
     표제어: 면직
     품사: 명사
 ---
 000_KEYWORD: 면직물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55078
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2567,13 +2567,13 @@ imported:
     표제어: 면직물
     품사: 명사
     항목ID: 55078
-processed:
+result:
   맞춤법 검사:
     표제어: 면직물
     품사: 명사
 ---
 000_KEYWORD: 면책__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55079
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2612,13 +2612,13 @@ imported:
     - 발음: 면ː챙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55079_myeon-chaengman.wav
       형태: 면책만
-processed:
+result:
   맞춤법 검사:
     표제어: 면책
     품사: 명사
 ---
 000_KEYWORD: 면책조항__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2628,13 +2628,13 @@ imported:
     표제어: 면책조항
     품사: 명사:보통:서술성
     항목ID: 9030
-processed:
+result:
   맞춤법 검사:
     표제어: 면책조항
     품사: 명사
 ---
 000_KEYWORD: 면하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16122
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2689,13 +2689,13 @@ imported:
     표제어: 면하다
     품사: 동사
     항목ID: 16122
-processed:
+result:
   맞춤법 검사:
     표제어: 면하다
     품사: 동사
 ---
 000_KEYWORD: 면하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55080
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2736,13 +2736,13 @@ imported:
     표제어: 면하다
     품사: 동사
     항목ID: 55080
-processed:
+result:
   맞춤법 검사:
     표제어: 면하다
     품사: 동사
 ---
 000_KEYWORD: 면학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55081
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2779,13 +2779,13 @@ imported:
     - 발음: 면ː항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55081_myeon-hangman.wav
       형태: 면학만
-processed:
+result:
   맞춤법 검사:
     표제어: 면학
     품사: 명사
 ---
 000_KEYWORD: 면허__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55082
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2828,13 +2828,13 @@ imported:
     표제어: 면허
     품사: 명사
     항목ID: 55082
-processed:
+result:
   맞춤법 검사:
     표제어: 면허
     품사: 명사
 ---
 000_KEYWORD: 면허정지__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2844,13 +2844,13 @@ imported:
     표제어: 면허정지
     품사: 명사:보통:서술성
     항목ID: 9033
-processed:
+result:
   맞춤법 검사:
     표제어: 면허정지
     품사: 명사
 ---
 000_KEYWORD: 면허증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55083
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2882,13 +2882,13 @@ imported:
     표제어: 면허증
     품사: 명사
     항목ID: 55083
-processed:
+result:
   맞춤법 검사:
     표제어: 면허증
     품사: 명사
 ---
 000_KEYWORD: 면허취소__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2898,13 +2898,13 @@ imported:
     표제어: 면허취소
     품사: 명사:보통:서술성
     항목ID: 9035
-processed:
+result:
   맞춤법 검사:
     표제어: 면허취소
     품사: 명사
 ---
 000_KEYWORD: 면회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55084
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2937,13 +2937,13 @@ imported:
     표제어: 면회
     품사: 명사
     항목ID: 55084
-processed:
+result:
   맞춤법 검사:
     표제어: 면회
     품사: 명사
 ---
 000_KEYWORD: 면회소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90974
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -2975,13 +2975,13 @@ imported:
     표제어: 면회소
     품사: 명사
     항목ID: 90974
-processed:
+result:
   맞춤법 검사:
     표제어: 면회소
     품사: 명사
 ---
 000_KEYWORD: 면회실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55085
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3011,13 +3011,13 @@ imported:
     표제어: 면회실
     품사: 명사
     항목ID: 55085
-processed:
+result:
   맞춤법 검사:
     표제어: 면회실
     품사: 명사
 ---
 000_KEYWORD: 면회하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55086
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3048,13 +3048,13 @@ imported:
     표제어: 면회하다
     품사: 동사
     항목ID: 55086
-processed:
+result:
   맞춤법 검사:
     표제어: 면회하다
     품사: 동사
 ---
 000_KEYWORD: 멸균__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55087
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3091,13 +3091,13 @@ imported:
     표제어: 멸균
     품사: 명사
     항목ID: 55087
-processed:
+result:
   맞춤법 검사:
     표제어: 멸균
     품사: 명사
 ---
 000_KEYWORD: 멸망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55088
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3127,13 +3127,13 @@ imported:
     표제어: 멸망
     품사: 명사
     항목ID: 55088
-processed:
+result:
   맞춤법 검사:
     표제어: 멸망
     품사: 명사
 ---
 000_KEYWORD: 멸망되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55089
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3166,13 +3166,13 @@ imported:
     표제어: 멸망되다
     품사: 동사
     항목ID: 55089
-processed:
+result:
   맞춤법 검사:
     표제어: 멸망되다
     품사: 동사
 ---
 000_KEYWORD: 멸망시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85436
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3201,13 +3201,13 @@ imported:
     표제어: 멸망시키다
     품사: 동사
     항목ID: 85436
-processed:
+result:
   맞춤법 검사:
     표제어: 멸망시키다
     품사: 동사
 ---
 000_KEYWORD: 멸망하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55090
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3237,13 +3237,13 @@ imported:
     표제어: 멸망하다
     품사: 동사
     항목ID: 55090
-processed:
+result:
   맞춤법 검사:
     표제어: 멸망하다
     품사: 동사
 ---
 000_KEYWORD: 멸문지화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3252,13 +3252,13 @@ imported:
     표제어: 멸문지화
     품사: 명사:보통:서술성
     항목ID: 9039
-processed:
+result:
   맞춤법 검사:
     표제어: 멸문지화
     품사: 명사
 ---
 000_KEYWORD: 멸시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55091
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3286,13 +3286,13 @@ imported:
     표제어: 멸시
     품사: 명사
     항목ID: 55091
-processed:
+result:
   맞춤법 검사:
     표제어: 멸시
     품사: 명사
 ---
 000_KEYWORD: 멸시당하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85369
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3321,13 +3321,13 @@ imported:
     표제어: 멸시당하다
     품사: 동사
     항목ID: 85369
-processed:
+result:
   맞춤법 검사:
     표제어: 멸시당하다
     품사: 동사
 ---
 000_KEYWORD: 멸시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55092
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3356,13 +3356,13 @@ imported:
     표제어: 멸시하다
     품사: 동사
     항목ID: 55092
-processed:
+result:
   맞춤법 검사:
     표제어: 멸시하다
     품사: 동사
 ---
 000_KEYWORD: 멸실__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3373,13 +3373,13 @@ imported:
     표제어: 멸실
     품사: 명사:보통:서술성
     항목ID: 9042
-processed:
+result:
   맞춤법 검사:
     표제어: 멸실
     품사: 명사
 ---
 000_KEYWORD: 멸종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55093
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3406,13 +3406,13 @@ imported:
     표제어: 멸종
     품사: 명사
     항목ID: 55093
-processed:
+result:
   맞춤법 검사:
     표제어: 멸종
     품사: 명사
 ---
 000_KEYWORD: 멸종되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55095
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3445,13 +3445,13 @@ imported:
     표제어: 멸종되다
     품사: 동사
     항목ID: 55095
-processed:
+result:
   맞춤법 검사:
     표제어: 멸종되다
     품사: 동사
 ---
 000_KEYWORD: 멸종하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55096
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3480,13 +3480,13 @@ imported:
     표제어: 멸종하다
     품사: 동사
     항목ID: 55096
-processed:
+result:
   맞춤법 검사:
     표제어: 멸종하다
     품사: 동사
 ---
 000_KEYWORD: 멸치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16124
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3517,13 +3517,13 @@ imported:
     표제어: 멸치
     품사: 명사
     항목ID: 16124
-processed:
+result:
   맞춤법 검사:
     표제어: 멸치
     품사: 명사
 ---
 000_KEYWORD: 멸치젓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55097
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3562,13 +3562,13 @@ imported:
     - 발음: 멸치전만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/55097_myeolchijeonman.wav
       형태: 멸치젓만
-processed:
+result:
   맞춤법 검사:
     표제어: 멸치젓
     품사: 명사
 ---
 000_KEYWORD: 멸치조림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55099
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3597,13 +3597,13 @@ imported:
     표제어: 멸치조림
     품사: 명사
     항목ID: 55099
-processed:
+result:
   맞춤법 검사:
     표제어: 멸치조림
     품사: 명사
 ---
 000_KEYWORD: 멸하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55098
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3632,13 +3632,13 @@ imported:
     표제어: 멸하다
     품사: 동사
     항목ID: 55098
-processed:
+result:
   맞춤법 검사:
     표제어: 멸하다
     품사: 동사
 ---
 000_KEYWORD: 명-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74936
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3661,11 +3661,11 @@ imported:
     표제어: 명-
     품사: 접사
     항목ID: 74936
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55100
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3690,13 +3690,13 @@ imported:
     표제어: 명
     품사: 명사
     항목ID: 55100
-processed:
+result:
   맞춤법 검사:
     표제어: 명
     품사: 명사
 ---
 000_KEYWORD: 명__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55101
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3747,13 +3747,13 @@ imported:
     표제어: 명
     품사: 명사
     항목ID: 55101
-processed:
+result:
   맞춤법 검사:
     표제어: 명
     품사: 명사
 ---
 000_KEYWORD: 명__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55102
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3785,13 +3785,13 @@ imported:
     표제어: 명
     품사: 명사
     항목ID: 55102
-processed:
+result:
   맞춤법 검사:
     표제어: 명
     품사: 명사
 ---
 000_KEYWORD: 명__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70812
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3825,13 +3825,13 @@ imported:
     표제어: 명
     품사: 의존 명사
     항목ID: 70812
-processed:
+result:
   맞춤법 검사:
     표제어: 명
     품사: 의존 명사
 ---
 000_KEYWORD: 명가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55254
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3882,13 +3882,13 @@ imported:
     표제어: 명가
     품사: 명사
     항목ID: 55254
-processed:
+result:
   맞춤법 검사:
     표제어: 명가
     품사: 명사
 ---
 000_KEYWORD: 명가수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55255
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3926,13 +3926,13 @@ imported:
     표제어: 명가수
     품사: 명사
     항목ID: 55255
-processed:
+result:
   맞춤법 검사:
     표제어: 명가수
     품사: 명사
 ---
 000_KEYWORD: 명감독__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55256
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -3970,13 +3970,13 @@ imported:
     - 발음: 명감동만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55256_myeonggamdongman.wav
       형태: 명감독만
-processed:
+result:
   맞춤법 검사:
     표제어: 명감독
     품사: 명사
 ---
 000_KEYWORD: 명경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55257
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4000,13 +4000,13 @@ imported:
     표제어: 명경
     품사: 명사
     항목ID: 55257
-processed:
+result:
   맞춤법 검사:
     표제어: 명경
     품사: 명사
 ---
 000_KEYWORD: 명경지수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55258
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4044,13 +4044,13 @@ imported:
     표제어: 명경지수
     품사: 명사
     항목ID: 55258
-processed:
+result:
   맞춤법 검사:
     표제어: 명경지수
     품사: 명사
 ---
 000_KEYWORD: 명곡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55259
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4088,13 +4088,13 @@ imported:
     - 발음: 명공만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55259_myeonggongman.wav
       형태: 명곡만
-processed:
+result:
   맞춤법 검사:
     표제어: 명곡
     품사: 명사
 ---
 000_KEYWORD: 명관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55260
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4120,13 +4120,13 @@ imported:
     표제어: 명관
     품사: 명사
     항목ID: 55260
-processed:
+result:
   맞춤법 검사:
     표제어: 명관
     품사: 명사
 ---
 000_KEYWORD: 명구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55261
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4165,13 +4165,13 @@ imported:
     표제어: 명구
     품사: 명사
     항목ID: 55261
-processed:
+result:
   맞춤법 검사:
     표제어: 명구
     품사: 명사
 ---
 000_KEYWORD: 명궁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55262
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4214,13 +4214,13 @@ imported:
     표제어: 명궁
     품사: 명사
     항목ID: 55262
-processed:
+result:
   맞춤법 검사:
     표제어: 명궁
     품사: 명사
 ---
 000_KEYWORD: 명기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55263
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4246,13 +4246,13 @@ imported:
     표제어: 명기
     품사: 명사
     항목ID: 55263
-processed:
+result:
   맞춤법 검사:
     표제어: 명기
     품사: 명사
 ---
 000_KEYWORD: 명기되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55264
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4283,13 +4283,13 @@ imported:
     표제어: 명기되다
     품사: 동사
     항목ID: 55264
-processed:
+result:
   맞춤법 검사:
     표제어: 명기되다
     품사: 동사
 ---
 000_KEYWORD: 명기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55265
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4318,13 +4318,13 @@ imported:
     표제어: 명기하다
     품사: 동사
     항목ID: 55265
-processed:
+result:
   맞춤법 검사:
     표제어: 명기하다
     품사: 동사
 ---
 000_KEYWORD: 명년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55266
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4355,13 +4355,13 @@ imported:
     표제어: 명년
     품사: 명사
     항목ID: 55266
-processed:
+result:
   맞춤법 검사:
     표제어: 명년
     품사: 명사
 ---
 000_KEYWORD: 명단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16125
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4389,13 +4389,13 @@ imported:
     표제어: 명단
     품사: 명사
     항목ID: 16125
-processed:
+result:
   맞춤법 검사:
     표제어: 명단
     품사: 명사
 ---
 000_KEYWORD: 명당__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55267
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4436,13 +4436,13 @@ imported:
     표제어: 명당
     품사: 명사
     항목ID: 55267
-processed:
+result:
   맞춤법 검사:
     표제어: 명당
     품사: 명사
 ---
 000_KEYWORD: 명당자리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4452,13 +4452,13 @@ imported:
     표제어: 명당자리
     품사: 명사:보통:서술성
     항목ID: 9055
-processed:
+result:
   맞춤법 검사:
     표제어: 명당자리
     품사: 명사
 ---
 000_KEYWORD: 명도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55268
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4495,13 +4495,13 @@ imported:
     표제어: 명도
     품사: 명사
     항목ID: 55268
-processed:
+result:
   맞춤법 검사:
     표제어: 명도
     품사: 명사
 ---
 000_KEYWORD: 명란__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55269
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4547,13 +4547,13 @@ imported:
     표제어: 명란
     품사: 명사
     항목ID: 55269
-processed:
+result:
   맞춤법 검사:
     표제어: 명란
     품사: 명사
 ---
 000_KEYWORD: 명란젓__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55270
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4597,13 +4597,13 @@ imported:
     - 발음: 명난전만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55270_myeongnanjeonman.wav
       형태: 명란젓만
-processed:
+result:
   맞춤법 검사:
     표제어: 명란젓
     품사: 명사
 ---
 000_KEYWORD: 명랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55271
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4633,13 +4633,13 @@ imported:
     표제어: 명랑
     품사: 명사
     항목ID: 55271
-processed:
+result:
   맞춤법 검사:
     표제어: 명랑
     품사: 명사
 ---
 000_KEYWORD: 명랑하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55272
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4684,13 +4684,13 @@ imported:
     - 발음: 명낭함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55272_myeongnanghamnida.wav
       형태: 명랑합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명랑하다
     품사: 형용사
 ---
 000_KEYWORD: 명랑히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90975
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4729,13 +4729,13 @@ imported:
     표제어: 명랑히
     품사: 부사
     항목ID: 90975
-processed:
+result:
   맞춤법 검사:
     표제어: 명랑히
     품사: 부사
 ---
 000_KEYWORD: 명령__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55273
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4811,13 +4811,13 @@ imported:
     표제어: 명령
     품사: 명사
     항목ID: 55273
-processed:
+result:
   맞춤법 검사:
     표제어: 명령
     품사: 명사
 ---
 000_KEYWORD: 명령문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55274
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4854,13 +4854,13 @@ imported:
     표제어: 명령문
     품사: 명사
     항목ID: 55274
-processed:
+result:
   맞춤법 검사:
     표제어: 명령문
     품사: 명사
 ---
 000_KEYWORD: 명령어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16126
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4887,13 +4887,13 @@ imported:
     표제어: 명령어
     품사: 명사
     항목ID: 16126
-processed:
+result:
   맞춤법 검사:
     표제어: 명령어
     품사: 명사
 ---
 000_KEYWORD: 명령조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55275
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4920,13 +4920,13 @@ imported:
     표제어: 명령조
     품사: 명사
     항목ID: 55275
-processed:
+result:
   맞춤법 검사:
     표제어: 명령조
     품사: 명사
 ---
 000_KEYWORD: 명령하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55276
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -4969,13 +4969,13 @@ imported:
     표제어: 명령하다
     품사: 동사
     항목ID: 55276
-processed:
+result:
   맞춤법 검사:
     표제어: 명령하다
     품사: 동사
 ---
 000_KEYWORD: 명령형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55277
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5004,13 +5004,13 @@ imported:
     표제어: 명령형
     품사: 명사
     항목ID: 55277
-processed:
+result:
   맞춤법 검사:
     표제어: 명령형
     품사: 명사
 ---
 000_KEYWORD: 명료성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55278
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5038,13 +5038,13 @@ imported:
     표제어: 명료성
     품사: 명사
     항목ID: 55278
-processed:
+result:
   맞춤법 검사:
     표제어: 명료성
     품사: 명사
 ---
 000_KEYWORD: 명료하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55279
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5085,13 +5085,13 @@ imported:
       형태: 명료하니
     - 발음: 명뇨함니다
       형태: 명료합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명료하다
     품사: 형용사
 ---
 000_KEYWORD: 명료히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55280
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5122,13 +5122,13 @@ imported:
     표제어: 명료히
     품사: 부사
     항목ID: 55280
-processed:
+result:
   맞춤법 검사:
     표제어: 명료히
     품사: 부사
 ---
 000_KEYWORD: 명리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55281
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5154,13 +5154,13 @@ imported:
     표제어: 명리
     품사: 명사
     항목ID: 55281
-processed:
+result:
   맞춤법 검사:
     표제어: 명리
     품사: 명사
 ---
 000_KEYWORD: 명망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55282
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5187,13 +5187,13 @@ imported:
     표제어: 명망
     품사: 명사
     항목ID: 55282
-processed:
+result:
   맞춤법 검사:
     표제어: 명망
     품사: 명사
 ---
 000_KEYWORD: 명망가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55283
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5220,13 +5220,13 @@ imported:
     표제어: 명망가
     품사: 명사
     항목ID: 55283
-processed:
+result:
   맞춤법 검사:
     표제어: 명망가
     품사: 명사
 ---
 000_KEYWORD: 명맥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55284
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5264,13 +5264,13 @@ imported:
     - 발음: 명ː맹만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55284_myeong-maengman.wav
       형태: 명맥만
-processed:
+result:
   맞춤법 검사:
     표제어: 명맥
     품사: 명사
 ---
 000_KEYWORD: 명멸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55285
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5310,13 +5310,13 @@ imported:
     표제어: 명멸
     품사: 명사
     항목ID: 55285
-processed:
+result:
   맞춤법 검사:
     표제어: 명멸
     품사: 명사
 ---
 000_KEYWORD: 명멸하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55286
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5358,13 +5358,13 @@ imported:
     표제어: 명멸하다
     품사: 동사
     항목ID: 55286
-processed:
+result:
   맞춤법 검사:
     표제어: 명멸하다
     품사: 동사
 ---
 000_KEYWORD: 명명되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55287
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5391,13 +5391,13 @@ imported:
     표제어: 명명되다
     품사: 동사
     항목ID: 55287
-processed:
+result:
   맞춤법 검사:
     표제어: 명명되다
     품사: 동사
 ---
 000_KEYWORD: 명명백백하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5406,13 +5406,13 @@ imported:
     표제어: 명명백백하다
     품사: 형용사
     항목ID: 9069
-processed:
+result:
   맞춤법 검사:
     표제어: 명명백백하다
     품사: 형용사
 ---
 000_KEYWORD: 명명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55288
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5446,13 +5446,13 @@ imported:
     표제어: 명명하다
     품사: 동사
     항목ID: 55288
-processed:
+result:
   맞춤법 검사:
     표제어: 명명하다
     품사: 동사
 ---
 000_KEYWORD: 명목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54399
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5508,13 +5508,13 @@ imported:
     - 발음: 명몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54399_myeongmongman.wav
       형태: 명목만
-processed:
+result:
   맞춤법 검사:
     표제어: 명목
     품사: 명사
 ---
 000_KEYWORD: 명문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54400
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5542,13 +5542,13 @@ imported:
     표제어: 명문
     품사: 명사
     항목ID: 54400
-processed:
+result:
   맞춤법 검사:
     표제어: 명문
     품사: 명사
 ---
 000_KEYWORD: 명문__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54401
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5594,13 +5594,13 @@ imported:
     표제어: 명문
     품사: 명사
     항목ID: 54401
-processed:
+result:
   맞춤법 검사:
     표제어: 명문
     품사: 명사
 ---
 000_KEYWORD: 명문가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90976
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5630,13 +5630,13 @@ imported:
     표제어: 명문가
     품사: 명사
     항목ID: 90976
-processed:
+result:
   맞춤법 검사:
     표제어: 명문가
     품사: 명사
 ---
 000_KEYWORD: 명문가__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54402
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5664,13 +5664,13 @@ imported:
     표제어: 명문가
     품사: 명사
     항목ID: 54402
-processed:
+result:
   맞춤법 검사:
     표제어: 명문가
     품사: 명사
 ---
 000_KEYWORD: 명문장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54403
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5699,13 +5699,13 @@ imported:
     표제어: 명문장
     품사: 명사
     항목ID: 54403
-processed:
+result:
   맞춤법 검사:
     표제어: 명문장
     품사: 명사
 ---
 000_KEYWORD: 명문화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5714,13 +5714,13 @@ imported:
     표제어: 명문화
     품사: 명사:보통:서술성
     항목ID: 9075
-processed:
+result:
   맞춤법 검사:
     표제어: 명문화
     품사: 명사
 ---
 000_KEYWORD: 명문화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54404
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5752,13 +5752,13 @@ imported:
     표제어: 명문화되다
     품사: 동사
     항목ID: 54404
-processed:
+result:
   맞춤법 검사:
     표제어: 명문화되다
     품사: 동사
 ---
 000_KEYWORD: 명문화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54405
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5787,13 +5787,13 @@ imported:
     표제어: 명문화하다
     품사: 동사
     항목ID: 54405
-processed:
+result:
   맞춤법 검사:
     표제어: 명문화하다
     품사: 동사
 ---
 000_KEYWORD: 명물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54406
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5838,13 +5838,13 @@ imported:
     표제어: 명물
     품사: 명사
     항목ID: 54406
-processed:
+result:
   맞춤법 검사:
     표제어: 명물
     품사: 명사
 ---
 000_KEYWORD: 명민하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54407
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5885,13 +5885,13 @@ imported:
       형태: 명민하니
     - 발음: 명민함니다
       형태: 명민합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명민하다
     품사: 형용사
 ---
 000_KEYWORD: 명배우__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54408
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5919,13 +5919,13 @@ imported:
     표제어: 명배우
     품사: 명사
     항목ID: 54408
-processed:
+result:
   맞춤법 검사:
     표제어: 명배우
     품사: 명사
 ---
 000_KEYWORD: 명백하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54409
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -5967,13 +5967,13 @@ imported:
       형태: 명백하니
     - 발음: 명배캄니다
       형태: 명백합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명백하다
     품사: 형용사
 ---
 000_KEYWORD: 명백히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54410
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6001,13 +6001,13 @@ imported:
     표제어: 명백히
     품사: 부사
     항목ID: 54410
-processed:
+result:
   맞춤법 검사:
     표제어: 명백히
     품사: 부사
 ---
 000_KEYWORD: 명복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54411
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6045,13 +6045,13 @@ imported:
     - 발음: 명봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54411_myeongbongman.wav
       형태: 명복만
-processed:
+result:
   맞춤법 검사:
     표제어: 명복
     품사: 명사
 ---
 000_KEYWORD: 명부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54412
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6079,13 +6079,13 @@ imported:
     표제어: 명부
     품사: 명사
     항목ID: 54412
-processed:
+result:
   맞춤법 검사:
     표제어: 명부
     품사: 명사
 ---
 000_KEYWORD: 명부__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54413
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6111,13 +6111,13 @@ imported:
     표제어: 명부
     품사: 명사
     항목ID: 54413
-processed:
+result:
   맞춤법 검사:
     표제어: 명부
     품사: 명사
 ---
 000_KEYWORD: 명분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54414
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6165,13 +6165,13 @@ imported:
     표제어: 명분
     품사: 명사
     항목ID: 54414
-processed:
+result:
   맞춤법 검사:
     표제어: 명분
     품사: 명사
 ---
 000_KEYWORD: 명분론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54415
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6194,13 +6194,13 @@ imported:
     표제어: 명분론
     품사: 명사
     항목ID: 54415
-processed:
+result:
   맞춤법 검사:
     표제어: 명분론
     품사: 명사
 ---
 000_KEYWORD: 명사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54416
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6229,13 +6229,13 @@ imported:
     표제어: 명사
     품사: 명사
     항목ID: 54416
-processed:
+result:
   맞춤법 검사:
     표제어: 명사
     품사: 명사
 ---
 000_KEYWORD: 명사__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54417
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6265,13 +6265,13 @@ imported:
     표제어: 명사
     품사: 명사
     항목ID: 54417
-processed:
+result:
   맞춤법 검사:
     표제어: 명사
     품사: 명사
 ---
 000_KEYWORD: 명사수__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6281,13 +6281,13 @@ imported:
     표제어: 명사수
     품사: 명사:보통:서술성
     항목ID: 9085
-processed:
+result:
   맞춤법 검사:
     표제어: 명사수
     품사: 명사
 ---
 000_KEYWORD: 명사절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54419
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6309,13 +6309,13 @@ imported:
     표제어: 명사절
     품사: 명사
     항목ID: 54419
-processed:
+result:
   맞춤법 검사:
     표제어: 명사절
     품사: 명사
 ---
 000_KEYWORD: 명사형__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6324,13 +6324,13 @@ imported:
     표제어: 명사형
     품사: 명사:보통:비서술성
     항목ID: 9087
-processed:
+result:
   맞춤법 검사:
     표제어: 명사형
     품사: 명사
 ---
 000_KEYWORD: 명산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54421
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6359,13 +6359,13 @@ imported:
     표제어: 명산
     품사: 명사
     항목ID: 54421
-processed:
+result:
   맞춤법 검사:
     표제어: 명산
     품사: 명사
 ---
 000_KEYWORD: 명산물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90977
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6397,13 +6397,13 @@ imported:
     표제어: 명산물
     품사: 명사
     항목ID: 90977
-processed:
+result:
   맞춤법 검사:
     표제어: 명산물
     품사: 명사
 ---
 000_KEYWORD: 명산지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54422
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6430,13 +6430,13 @@ imported:
     표제어: 명산지
     품사: 명사
     항목ID: 54422
-processed:
+result:
   맞춤법 검사:
     표제어: 명산지
     품사: 명사
 ---
 000_KEYWORD: 명상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54423
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6467,13 +6467,13 @@ imported:
     표제어: 명상
     품사: 명사
     항목ID: 54423
-processed:
+result:
   맞춤법 검사:
     표제어: 명상
     품사: 명사
 ---
 000_KEYWORD: 명상법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54426
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6507,13 +6507,13 @@ imported:
     - 발음: 명상뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54426_myeongsangppeomman.wav
       형태: 명상법만
-processed:
+result:
   맞춤법 검사:
     표제어: 명상법
     품사: 명사
 ---
 000_KEYWORD: 명상적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54418
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6541,13 +6541,13 @@ imported:
     표제어: 명상적
     품사: 관형사
     항목ID: 54418
-processed:
+result:
   맞춤법 검사:
     표제어: 명상적
     품사: 관형사
 ---
 000_KEYWORD: 명상적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54427
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6570,13 +6570,13 @@ imported:
     표제어: 명상적
     품사: 명사
     항목ID: 54427
-processed:
+result:
   맞춤법 검사:
     표제어: 명상적
     품사: 명사
 ---
 000_KEYWORD: 명상하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54428
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6606,13 +6606,13 @@ imported:
     표제어: 명상하다
     품사: 동사
     항목ID: 54428
-processed:
+result:
   맞춤법 검사:
     표제어: 명상하다
     품사: 동사
 ---
 000_KEYWORD: 명색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54429
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6664,13 +6664,13 @@ imported:
     - 발음: 명생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54429_myeongsaengman.wav
       형태: 명색만
-processed:
+result:
   맞춤법 검사:
     표제어: 명색
     품사: 명사
 ---
 000_KEYWORD: 명석하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54430
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6709,13 +6709,13 @@ imported:
       형태: 명석하니
     - 발음: 명서캄니다
       형태: 명석합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명석하다
     품사: 형용사
 ---
 000_KEYWORD: 명성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54431
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6742,13 +6742,13 @@ imported:
     표제어: 명성
     품사: 명사
     항목ID: 54431
-processed:
+result:
   맞춤법 검사:
     표제어: 명성
     품사: 명사
 ---
 000_KEYWORD: 명세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54432
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6778,13 +6778,13 @@ imported:
     표제어: 명세
     품사: 명사
     항목ID: 54432
-processed:
+result:
   맞춤법 검사:
     표제어: 명세
     품사: 명사
 ---
 000_KEYWORD: 명세서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54433
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6818,13 +6818,13 @@ imported:
     표제어: 명세서
     품사: 명사
     항목ID: 54433
-processed:
+result:
   맞춤법 검사:
     표제어: 명세서
     품사: 명사
 ---
 000_KEYWORD: 명소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54434
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6855,13 +6855,13 @@ imported:
     표제어: 명소
     품사: 명사
     항목ID: 54434
-processed:
+result:
   맞춤법 검사:
     표제어: 명소
     품사: 명사
 ---
 000_KEYWORD: 명수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54435
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6894,13 +6894,13 @@ imported:
     표제어: 명수
     품사: 명사
     항목ID: 54435
-processed:
+result:
   맞춤법 검사:
     표제어: 명수
     품사: 명사
 ---
 000_KEYWORD: 명수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91984
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6928,13 +6928,13 @@ imported:
     표제어: 명수
     품사: 명사
     항목ID: 91984
-processed:
+result:
   맞춤법 검사:
     표제어: 명수
     품사: 명사
 ---
 000_KEYWORD: 명승__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54438
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -6979,13 +6979,13 @@ imported:
     표제어: 명승
     품사: 명사
     항목ID: 54438
-processed:
+result:
   맞춤법 검사:
     표제어: 명승
     품사: 명사
 ---
 000_KEYWORD: 명승고적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54436
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7023,13 +7023,13 @@ imported:
     - 발음: 명승고정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/54436_myeongseunggojeongman.wav
       형태: 명승고적만
-processed:
+result:
   맞춤법 검사:
     표제어: 명승고적
     품사: 명사
 ---
 000_KEYWORD: 명승부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54437
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7057,13 +7057,13 @@ imported:
     표제어: 명승부
     품사: 명사
     항목ID: 54437
-processed:
+result:
   맞춤법 검사:
     표제어: 명승부
     품사: 명사
 ---
 000_KEYWORD: 명승지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55343
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7098,13 +7098,13 @@ imported:
     표제어: 명승지
     품사: 명사
     항목ID: 55343
-processed:
+result:
   맞춤법 검사:
     표제어: 명승지
     품사: 명사
 ---
 000_KEYWORD: 명시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55345
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7133,13 +7133,13 @@ imported:
     표제어: 명시
     품사: 명사
     항목ID: 55345
-processed:
+result:
   맞춤법 검사:
     표제어: 명시
     품사: 명사
 ---
 000_KEYWORD: 명시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55349
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7172,13 +7172,13 @@ imported:
     표제어: 명시되다
     품사: 동사
     항목ID: 55349
-processed:
+result:
   맞춤법 검사:
     표제어: 명시되다
     품사: 동사
 ---
 000_KEYWORD: 명시적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55348
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7207,13 +7207,13 @@ imported:
     표제어: 명시적
     품사: 관형사
     항목ID: 55348
-processed:
+result:
   맞춤법 검사:
     표제어: 명시적
     품사: 관형사
 ---
 000_KEYWORD: 명시적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55347
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7243,13 +7243,13 @@ imported:
     표제어: 명시적
     품사: 명사
     항목ID: 55347
-processed:
+result:
   맞춤법 검사:
     표제어: 명시적
     품사: 명사
 ---
 000_KEYWORD: 명시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55346
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7278,13 +7278,13 @@ imported:
     표제어: 명시하다
     품사: 동사
     항목ID: 55346
-processed:
+result:
   맞춤법 검사:
     표제어: 명시하다
     품사: 동사
 ---
 000_KEYWORD: 명실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55344
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7307,13 +7307,13 @@ imported:
     표제어: 명실
     품사: 명사
     항목ID: 55344
-processed:
+result:
   맞춤법 검사:
     표제어: 명실
     품사: 명사
 ---
 000_KEYWORD: 명실공히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55342
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7336,13 +7336,13 @@ imported:
     표제어: 명실공히
     품사: 부사
     항목ID: 55342
-processed:
+result:
   맞춤법 검사:
     표제어: 명실공히
     품사: 부사
 ---
 000_KEYWORD: 명실상부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7351,13 +7351,13 @@ imported:
     표제어: 명실상부
     품사: 명사:보통:서술성
     항목ID: 9101
-processed:
+result:
   맞춤법 검사:
     표제어: 명실상부
     품사: 명사
 ---
 000_KEYWORD: 명실상부하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55341
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7392,13 +7392,13 @@ imported:
       형태: 명실상부하니
     - 발음: 명실상부함니다
       형태: 명실상부합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명실상부하다
     품사: 형용사
 ---
 000_KEYWORD: 명심보감__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7408,13 +7408,13 @@ imported:
     표제어: 명심보감
     품사: 명사:보통:서술성
     항목ID: 9103
-processed:
+result:
   맞춤법 검사:
     표제어: 명심보감
     품사: 명사
 ---
 000_KEYWORD: 명심하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55339
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7444,13 +7444,13 @@ imported:
     표제어: 명심하다
     품사: 동사
     항목ID: 55339
-processed:
+result:
   맞춤법 검사:
     표제어: 명심하다
     품사: 동사
 ---
 000_KEYWORD: 명안__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7460,13 +7460,13 @@ imported:
     표제어: 명안
     품사: 명사:보통:서술성
     항목ID: 9105
-processed:
+result:
   맞춤법 검사:
     표제어: 명안
     품사: 명사
 ---
 000_KEYWORD: 명암__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55483
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7522,13 +7522,13 @@ imported:
     표제어: 명암
     품사: 명사
     항목ID: 55483
-processed:
+result:
   맞춤법 검사:
     표제어: 명암
     품사: 명사
 ---
 000_KEYWORD: 명약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55356
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7566,13 +7566,13 @@ imported:
     - 발음: 명양만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/55356_myeongyangman.wav
       형태: 명약만
-processed:
+result:
   맞춤법 검사:
     표제어: 명약
     품사: 명사
 ---
 000_KEYWORD: 명약관화하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55355
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7610,13 +7610,13 @@ imported:
       형태: 명약관화하니
     - 발음: 명약꽌화함니다
       형태: 명약관화합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명약관화하다
     품사: 형용사
 ---
 000_KEYWORD: 명언__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55352
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7643,13 +7643,13 @@ imported:
     표제어: 명언
     품사: 명사
     항목ID: 55352
-processed:
+result:
   맞춤법 검사:
     표제어: 명언
     품사: 명사
 ---
 000_KEYWORD: 명예__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16128
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7701,13 +7701,13 @@ imported:
     표제어: 명예
     품사: 명사
     항목ID: 16128
-processed:
+result:
   맞춤법 검사:
     표제어: 명예
     품사: 명사
 ---
 000_KEYWORD: 명예교수__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7716,13 +7716,13 @@ imported:
     표제어: 명예교수
     품사: 명사:보통:비서술성
     항목ID: 9110
-processed:
+result:
   맞춤법 검사:
     표제어: 명예교수
     품사: 명사
 ---
 000_KEYWORD: 명예로이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90980
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7750,13 +7750,13 @@ imported:
     표제어: 명예로이
     품사: 부사
     항목ID: 90980
-processed:
+result:
   맞춤법 검사:
     표제어: 명예로이
     품사: 부사
 ---
 000_KEYWORD: 명예롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55354
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7800,7 +7800,7 @@ imported:
       형태: 명예로우니
     - 발음: 명예롭씀니다
       형태: 명예롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -7808,7 +7808,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 명예박사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55351
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7835,13 +7835,13 @@ imported:
     표제어: 명예박사
     품사: 명사
     항목ID: 55351
-processed:
+result:
   맞춤법 검사:
     표제어: 명예박사
     품사: 명사
 ---
 000_KEYWORD: 명예스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55350
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7882,7 +7882,7 @@ imported:
       형태: 명예스러우니
     - 발음: 명예스럽씀니다
       형태: 명예스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -7890,7 +7890,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 명예심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55357
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7917,13 +7917,13 @@ imported:
     표제어: 명예심
     품사: 명사
     항목ID: 55357
-processed:
+result:
   맞춤법 검사:
     표제어: 명예심
     품사: 명사
 ---
 000_KEYWORD: 명예욕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55361
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -7961,13 +7961,13 @@ imported:
     - 발음: 명예용만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/55361_myeongyeyongman.wav
       형태: 명예욕만
-processed:
+result:
   맞춤법 검사:
     표제어: 명예욕
     품사: 명사
 ---
 000_KEYWORD: 명예직__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55434
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8004,13 +8004,13 @@ imported:
     - 발음: 명예징만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/55434_myeongyejingman.wav
       형태: 명예직만
-processed:
+result:
   맞춤법 검사:
     표제어: 명예직
     품사: 명사
 ---
 000_KEYWORD: 명예퇴직__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90978
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8068,13 +8068,13 @@ imported:
     - 발음: 명예퉤징만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/90978_myeongyetwejingman.wav
       형태: 명예퇴직만
-processed:
+result:
   맞춤법 검사:
     표제어: 명예퇴직
     품사: 명사
 ---
 000_KEYWORD: 명예퇴직하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55433
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8105,13 +8105,13 @@ imported:
     표제어: 명예퇴직하다
     품사: 동사
     항목ID: 55433
-processed:
+result:
   맞춤법 검사:
     표제어: 명예퇴직하다
     품사: 동사
 ---
 000_KEYWORD: 명예훼손__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8120,13 +8120,13 @@ imported:
     표제어: 명예훼손
     품사: 명사:보통:서술성
     항목ID: 9112
-processed:
+result:
   맞춤법 검사:
     표제어: 명예훼손
     품사: 명사
 ---
 000_KEYWORD: 명왕성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8135,13 +8135,13 @@ imported:
     표제어: 명왕성
     품사: 명사:보통:서술성
     항목ID: 9113
-processed:
+result:
   맞춤법 검사:
     표제어: 명왕성
     품사: 명사
 ---
 000_KEYWORD: 명운__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55363
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8196,13 +8196,13 @@ imported:
     표제어: 명운
     품사: 명사
     항목ID: 55363
-processed:
+result:
   맞춤법 검사:
     표제어: 명운
     품사: 명사
 ---
 000_KEYWORD: 명월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55362
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8226,13 +8226,13 @@ imported:
     표제어: 명월
     품사: 명사
     항목ID: 55362
-processed:
+result:
   맞춤법 검사:
     표제어: 명월
     품사: 명사
 ---
 000_KEYWORD: 명의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16130
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8281,13 +8281,13 @@ imported:
     표제어: 명의
     품사: 명사
     항목ID: 16130
-processed:
+result:
   맞춤법 검사:
     표제어: 명의
     품사: 명사
 ---
 000_KEYWORD: 명의__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55364
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8315,13 +8315,13 @@ imported:
     표제어: 명의
     품사: 명사
     항목ID: 55364
-processed:
+result:
   맞춤법 검사:
     표제어: 명의
     품사: 명사
 ---
 000_KEYWORD: 명의도용__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8330,13 +8330,13 @@ imported:
     표제어: 명의도용
     품사: 명사:보통:서술성
     항목ID: 9116
-processed:
+result:
   맞춤법 검사:
     표제어: 명의도용
     품사: 명사
 ---
 000_KEYWORD: 명인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55360
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8372,13 +8372,13 @@ imported:
     표제어: 명인
     품사: 명사
     항목ID: 55360
-processed:
+result:
   맞춤법 검사:
     표제어: 명인
     품사: 명사
 ---
 000_KEYWORD: 명일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55359
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8410,13 +8410,13 @@ imported:
     표제어: 명일
     품사: 명사
     항목ID: 55359
-processed:
+result:
   맞춤법 검사:
     표제어: 명일
     품사: 명사
 ---
 000_KEYWORD: 명작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55366
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8458,13 +8458,13 @@ imported:
     - 발음: 명장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/55366_myeongjangman.wav
       형태: 명작만
-processed:
+result:
   맞춤법 검사:
     표제어: 명작
     품사: 명사
 ---
 000_KEYWORD: 명장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55444
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8492,13 +8492,13 @@ imported:
     표제어: 명장
     품사: 명사
     항목ID: 55444
-processed:
+result:
   맞춤법 검사:
     표제어: 명장
     품사: 명사
 ---
 000_KEYWORD: 명장__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55435
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8524,13 +8524,13 @@ imported:
     표제어: 명장
     품사: 명사
     항목ID: 55435
-processed:
+result:
   맞춤법 검사:
     표제어: 명장
     품사: 명사
 ---
 000_KEYWORD: 명저__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55443
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8560,13 +8560,13 @@ imported:
     표제어: 명저
     품사: 명사
     항목ID: 55443
-processed:
+result:
   맞춤법 검사:
     표제어: 명저
     품사: 명사
 ---
 000_KEYWORD: 명절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55441
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8601,13 +8601,13 @@ imported:
     표제어: 명절
     품사: 명사
     항목ID: 55441
-processed:
+result:
   맞춤법 검사:
     표제어: 명절
     품사: 명사
 ---
 000_KEYWORD: 명절날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55439
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8636,13 +8636,13 @@ imported:
     표제어: 명절날
     품사: 명사
     항목ID: 55439
-processed:
+result:
   맞춤법 검사:
     표제어: 명절날
     품사: 명사
 ---
 000_KEYWORD: 명제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55438
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8668,13 +8668,13 @@ imported:
     표제어: 명제
     품사: 명사
     항목ID: 55438
-processed:
+result:
   맞춤법 검사:
     표제어: 명제
     품사: 명사
 ---
 000_KEYWORD: 명조체__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8683,13 +8683,13 @@ imported:
     표제어: 명조체
     품사: 명사:보통:서술성
     항목ID: 9121
-processed:
+result:
   맞춤법 검사:
     표제어: 명조체
     품사: 명사
 ---
 000_KEYWORD: 명종__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8700,13 +8700,13 @@ imported:
     표제어: 명종
     품사: 명사:보통:서술성
     항목ID: 9122
-processed:
+result:
   맞춤법 검사:
     표제어: 명종
     품사: 명사
 ---
 000_KEYWORD: 명주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55436
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8735,13 +8735,13 @@ imported:
     표제어: 명주
     품사: 명사
     항목ID: 55436
-processed:
+result:
   맞춤법 검사:
     표제어: 명주
     품사: 명사
 ---
 000_KEYWORD: 명주실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55442
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8778,13 +8778,13 @@ imported:
     표제어: 명주실
     품사: 명사
     항목ID: 55442
-processed:
+result:
   맞춤법 검사:
     표제어: 명주실
     품사: 명사
 ---
 000_KEYWORD: 명주옷__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55437
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8822,13 +8822,13 @@ imported:
     - 발음: 명주온만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/55437_myeongjuonman.wav
       형태: 명주옷만
-processed:
+result:
   맞춤법 검사:
     표제어: 명주옷
     품사: 명사
 ---
 000_KEYWORD: 명줄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55440
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8858,13 +8858,13 @@ imported:
     표제어: 명줄
     품사: 명사
     항목ID: 55440
-processed:
+result:
   맞춤법 검사:
     표제어: 명줄
     품사: 명사
 ---
 000_KEYWORD: 명중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55445
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8892,13 +8892,13 @@ imported:
     표제어: 명중
     품사: 명사
     항목ID: 55445
-processed:
+result:
   맞춤법 검사:
     표제어: 명중
     품사: 명사
 ---
 000_KEYWORD: 명중되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55450
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8930,13 +8930,13 @@ imported:
     표제어: 명중되다
     품사: 동사
     항목ID: 55450
-processed:
+result:
   맞춤법 검사:
     표제어: 명중되다
     품사: 동사
 ---
 000_KEYWORD: 명중시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85437
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -8965,13 +8965,13 @@ imported:
     표제어: 명중시키다
     품사: 동사
     항목ID: 85437
-processed:
+result:
   맞춤법 검사:
     표제어: 명중시키다
     품사: 동사
 ---
 000_KEYWORD: 명중하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55453
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9003,13 +9003,13 @@ imported:
     표제어: 명중하다
     품사: 동사
     항목ID: 55453
-processed:
+result:
   맞춤법 검사:
     표제어: 명중하다
     품사: 동사
 ---
 000_KEYWORD: 명증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55448
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9034,13 +9034,13 @@ imported:
     표제어: 명증
     품사: 명사
     항목ID: 55448
-processed:
+result:
   맞춤법 검사:
     표제어: 명증
     품사: 명사
 ---
 000_KEYWORD: 명증하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55446
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9069,13 +9069,13 @@ imported:
     표제어: 명증하다
     품사: 동사
     항목ID: 55446
-processed:
+result:
   맞춤법 검사:
     표제어: 명증하다
     품사: 동사
 ---
 000_KEYWORD: 명징하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55451
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9116,13 +9116,13 @@ imported:
     - 발음: 명징함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/55451_myeongjinghamnida.wav
       형태: 명징합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명징하다
     품사: 형용사
 ---
 000_KEYWORD: 명차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55452
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9151,13 +9151,13 @@ imported:
     표제어: 명차
     품사: 명사
     항목ID: 55452
-processed:
+result:
   맞춤법 검사:
     표제어: 명차
     품사: 명사
 ---
 000_KEYWORD: 명찰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55449
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9188,13 +9188,13 @@ imported:
     표제어: 명찰
     품사: 명사
     항목ID: 55449
-processed:
+result:
   맞춤법 검사:
     표제어: 명찰
     품사: 명사
 ---
 000_KEYWORD: 명찰__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55454
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9218,13 +9218,13 @@ imported:
     표제어: 명찰
     품사: 명사
     항목ID: 55454
-processed:
+result:
   맞춤법 검사:
     표제어: 명찰
     품사: 명사
 ---
 000_KEYWORD: 명창__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55447
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9248,13 +9248,13 @@ imported:
     표제어: 명창
     품사: 명사
     항목ID: 55447
-processed:
+result:
   맞춤법 검사:
     표제어: 명창
     품사: 명사
 ---
 000_KEYWORD: 명철하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55456
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9295,13 +9295,13 @@ imported:
     - 발음: 명철함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/55456_myeongcheolhamnida.wav
       형태: 명철합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명철하다
     품사: 형용사
 ---
 000_KEYWORD: 명치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55457
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9329,13 +9329,13 @@ imported:
     표제어: 명치
     품사: 명사
     항목ID: 55457
-processed:
+result:
   맞춤법 검사:
     표제어: 명치
     품사: 명사
 ---
 000_KEYWORD: 명칭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16132
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9365,13 +9365,13 @@ imported:
     표제어: 명칭
     품사: 명사
     항목ID: 16132
-processed:
+result:
   맞춤법 검사:
     표제어: 명칭
     품사: 명사
 ---
 000_KEYWORD: 명쾌하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55458
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9424,13 +9424,13 @@ imported:
     - 발음: 명쾌함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/43000/55458_myeongkwaehamnida.wav
       형태: 명쾌합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명쾌하다
     품사: 형용사
 ---
 000_KEYWORD: 명쾌히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55459
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9462,13 +9462,13 @@ imported:
     표제어: 명쾌히
     품사: 부사
     항목ID: 55459
-processed:
+result:
   맞춤법 검사:
     표제어: 명쾌히
     품사: 부사
 ---
 000_KEYWORD: 명탐정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55461
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9497,13 +9497,13 @@ imported:
     표제어: 명탐정
     품사: 명사
     항목ID: 55461
-processed:
+result:
   맞춤법 검사:
     표제어: 명탐정
     품사: 명사
 ---
 000_KEYWORD: 명태__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55462
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9543,13 +9543,13 @@ imported:
     표제어: 명태
     품사: 명사
     항목ID: 55462
-processed:
+result:
   맞춤법 검사:
     표제어: 명태
     품사: 명사
 ---
 000_KEYWORD: 명퇴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90979
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9581,13 +9581,13 @@ imported:
     표제어: 명퇴
     품사: 명사
     항목ID: 90979
-processed:
+result:
   맞춤법 검사:
     표제어: 명퇴
     품사: 명사
 ---
 000_KEYWORD: 명패__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55460
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9645,13 +9645,13 @@ imported:
     표제어: 명패
     품사: 명사
     항목ID: 55460
-processed:
+result:
   맞춤법 검사:
     표제어: 명패
     품사: 명사
 ---
 000_KEYWORD: 명품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55463
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9686,13 +9686,13 @@ imported:
     표제어: 명품
     품사: 명사
     항목ID: 55463
-processed:
+result:
   맞춤법 검사:
     표제어: 명품
     품사: 명사
 ---
 000_KEYWORD: 명필__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55464
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9739,13 +9739,13 @@ imported:
     표제어: 명필
     품사: 명사
     항목ID: 55464
-processed:
+result:
   맞춤법 검사:
     표제어: 명필
     품사: 명사
 ---
 000_KEYWORD: 명필가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55455
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9777,13 +9777,13 @@ imported:
     표제어: 명필가
     품사: 명사
     항목ID: 55455
-processed:
+result:
   맞춤법 검사:
     표제어: 명필가
     품사: 명사
 ---
 000_KEYWORD: 명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55468
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9818,13 +9818,13 @@ imported:
     표제어: 명하다
     품사: 동사
     항목ID: 55468
-processed:
+result:
   맞춤법 검사:
     표제어: 명하다
     품사: 동사
 ---
 000_KEYWORD: 명하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55465
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9881,13 +9881,13 @@ imported:
     표제어: 명하다
     품사: 동사
     항목ID: 55465
-processed:
+result:
   맞춤법 검사:
     표제어: 명하다
     품사: 동사
 ---
 000_KEYWORD: 명함__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55470
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9920,13 +9920,13 @@ imported:
     표제어: 명함
     품사: 명사
     항목ID: 55470
-processed:
+result:
   맞춤법 검사:
     표제어: 명함
     품사: 명사
 ---
 000_KEYWORD: 명화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55471
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -9966,13 +9966,13 @@ imported:
     표제어: 명화
     품사: 명사
     항목ID: 55471
-processed:
+result:
   맞춤법 검사:
     표제어: 명화
     품사: 명사
 ---
 000_KEYWORD: 명확__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9981,13 +9981,13 @@ imported:
     표제어: 명확
     품사: 명사:보통:서술성
     항목ID: 9139
-processed:
+result:
   맞춤법 검사:
     표제어: 명확
     품사: 명사
 ---
 000_KEYWORD: 명확성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55473
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10016,13 +10016,13 @@ imported:
     표제어: 명확성
     품사: 명사
     항목ID: 55473
-processed:
+result:
   맞춤법 검사:
     표제어: 명확성
     품사: 명사
 ---
 000_KEYWORD: 명확하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=16133
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10064,13 +10064,13 @@ imported:
       형태: 명확하니
     - 발음: 명화캄니다
       형태: 명확합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 명확하다
     품사: 형용사
 ---
 000_KEYWORD: 명확히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=55472
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10100,13 +10100,13 @@ imported:
     표제어: 명확히
     품사: 부사
     항목ID: 55472
-processed:
+result:
   맞춤법 검사:
     표제어: 명확히
     품사: 부사
 ---
 000_KEYWORD: 몇__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66236
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10145,13 +10145,13 @@ imported:
     표제어: 몇
     품사: 관형사
     항목ID: 66236
-processed:
+result:
   맞춤법 검사:
     표제어: 몇
     품사: 관형사
 ---
 000_KEYWORD: 몇__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66235
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10198,13 +10198,13 @@ imported:
     - 발음: 면만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/66235_myeonman.wav
       형태: 몇만
-processed:
+result:
   맞춤법 검사:
     표제어: 몇
     품사: 수사
 ---
 000_KEYWORD: 몇몇__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62626
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10232,13 +10232,13 @@ imported:
     표제어: 몇몇
     품사: 관형사
     항목ID: 62626
-processed:
+result:
   맞춤법 검사:
     표제어: 몇몇
     품사: 관형사
 ---
 000_KEYWORD: 몇몇__수사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62624
     가져온 시각: '2019-08-13T01:46:50+09:00'
@@ -10277,13 +10277,13 @@ imported:
     - 발음: 면면만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/62624_myeonmyeonman.wav
       형태: 몇몇만
-processed:
+result:
   맞춤법 검사:
     표제어: 몇몇
     품사: 수사
 ---
 000_KEYWORD: 몇십__관형사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10292,7 +10292,7 @@ imported:
     표제어: 몇십
     품사: 관형사
     항목ID: 9144
-processed:
+result:
   맞춤법 검사:
     표제어: 몇십
     품사: 관형사
@@ -10302,7 +10302,7 @@ manual:
   맞춤법 검사:
     표제어: 몇일
     품사: 특수:금지어
-processed:
+result:
   맞춤법 검사:
     표제어: 몇일
     품사: 특수:금지어

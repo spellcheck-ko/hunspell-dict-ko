@@ -1,5 +1,5 @@
 000_KEYWORD: -원__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72700
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -49,11 +49,11 @@ imported:
     표제어: -원
     품사: 접사
     항목ID: 72700
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -원__접사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72701
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -84,11 +84,11 @@ imported:
     표제어: -원
     품사: 접사
     항목ID: 72701
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -원__접사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72702
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -112,11 +112,11 @@ imported:
     표제어: -원
     품사: 접사
     항목ID: 72702
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 워__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68791
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -132,13 +132,13 @@ imported:
     표제어: 워
     품사: 명사
     항목ID: 68791
-processed:
+result:
   맞춤법 검사:
     표제어: 워
     품사: 명사
 ---
 000_KEYWORD: 워낙__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26711
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -182,13 +182,13 @@ imported:
     표제어: 워낙
     품사: 부사
     항목ID: 26711
-processed:
+result:
   맞춤법 검사:
     표제어: 워낙
     품사: 부사
 ---
 000_KEYWORD: 워드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -198,13 +198,13 @@ imported:
     표제어: 워드
     품사: 명사:보통:서술성
     항목ID: 20171
-processed:
+result:
   맞춤법 검사:
     표제어: 워드
     품사: 명사
 ---
 000_KEYWORD: 워드프로세서__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -214,13 +214,13 @@ imported:
     표제어: 워드프로세서
     품사: 명사:보통:비서술성
     항목ID: 20172
-processed:
+result:
   맞춤법 검사:
     표제어: 워드프로세서
     품사: 명사
 ---
 000_KEYWORD: 워싱턴__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -229,13 +229,13 @@ imported:
     표제어: 워싱턴
     품사: 명사:보통:서술성
     항목ID: 20173
-processed:
+result:
   맞춤법 검사:
     표제어: 워싱턴
     품사: 명사
 ---
 000_KEYWORD: 워워__감탄사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -245,13 +245,13 @@ imported:
     표제어: 워워
     품사: 감탄사
     항목ID: 20174
-processed:
+result:
   맞춤법 검사:
     표제어: 워워
     품사: 감탄사
 ---
 000_KEYWORD: 워치콘__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -261,13 +261,13 @@ imported:
     표제어: 워치콘
     품사: 명사:보통:서술성
     항목ID: 20175
-processed:
+result:
   맞춤법 검사:
     표제어: 워치콘
     품사: 명사
 ---
 000_KEYWORD: 워크숍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69871
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -295,13 +295,13 @@ imported:
     표제어: 워크숍
     품사: 명사
     항목ID: 69871
-processed:
+result:
   맞춤법 검사:
     표제어: 워크숍
     품사: 명사
 ---
 000_KEYWORD: 원-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72699
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -324,11 +324,11 @@ imported:
     표제어: 원-
     품사: 접사
     항목ID: 72699
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 원__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69828
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -353,13 +353,13 @@ imported:
     표제어: 원
     품사: 감탄사
     항목ID: 69828
-processed:
+result:
   맞춤법 검사:
     표제어: 원
     품사: 감탄사
 ---
 000_KEYWORD: 원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26713
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -385,13 +385,13 @@ imported:
     표제어: 원
     품사: 명사
     항목ID: 26713
-processed:
+result:
   맞춤법 검사:
     표제어: 원
     품사: 명사
 ---
 000_KEYWORD: 원__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91853
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -424,13 +424,13 @@ imported:
     표제어: 원
     품사: 명사
     항목ID: 91853
-processed:
+result:
   맞춤법 검사:
     표제어: 원
     품사: 명사
 ---
 000_KEYWORD: 원__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27771
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -460,13 +460,13 @@ imported:
     표제어: 원
     품사: 의존 명사
     항목ID: 27771
-processed:
+result:
   맞춤법 검사:
     표제어: 원
     품사: 의존 명사
 ---
 000_KEYWORD: 원가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69829
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -509,13 +509,13 @@ imported:
     표제어: 원가
     품사: 명사
     항목ID: 69829
-processed:
+result:
   맞춤법 검사:
     표제어: 원가
     품사: 명사
 ---
 000_KEYWORD: 원거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69830
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -557,13 +557,13 @@ imported:
     표제어: 원거리
     품사: 명사
     항목ID: 69830
-processed:
+result:
   맞춤법 검사:
     표제어: 원거리
     품사: 명사
 ---
 000_KEYWORD: 원격__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69831
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -603,13 +603,13 @@ imported:
     - 발음: 원ː경만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69831_won-gyeongman.wav
       형태: 원격만
-processed:
+result:
   맞춤법 검사:
     표제어: 원격
     품사: 명사
 ---
 000_KEYWORD: 원경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69832
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -657,13 +657,13 @@ imported:
     표제어: 원경
     품사: 명사
     항목ID: 69832
-processed:
+result:
   맞춤법 검사:
     표제어: 원경
     품사: 명사
 ---
 000_KEYWORD: 원고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26716
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -696,13 +696,13 @@ imported:
     표제어: 원고
     품사: 명사
     항목ID: 26716
-processed:
+result:
   맞춤법 검사:
     표제어: 원고
     품사: 명사
 ---
 000_KEYWORD: 원고__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91717
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -748,13 +748,13 @@ imported:
     표제어: 원고
     품사: 명사
     항목ID: 91717
-processed:
+result:
   맞춤법 검사:
     표제어: 원고
     품사: 명사
 ---
 000_KEYWORD: 원고료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69833
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -788,13 +788,13 @@ imported:
     표제어: 원고료
     품사: 명사
     항목ID: 69833
-processed:
+result:
   맞춤법 검사:
     표제어: 원고료
     품사: 명사
 ---
 000_KEYWORD: 원고지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69834
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -829,13 +829,13 @@ imported:
     표제어: 원고지
     품사: 명사
     항목ID: 69834
-processed:
+result:
   맞춤법 검사:
     표제어: 원고지
     품사: 명사
 ---
 000_KEYWORD: 원군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69835
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -870,13 +870,13 @@ imported:
     표제어: 원군
     품사: 명사
     항목ID: 69835
-processed:
+result:
   맞춤법 검사:
     표제어: 원군
     품사: 명사
 ---
 000_KEYWORD: 원귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69836
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -904,13 +904,13 @@ imported:
     표제어: 원귀
     품사: 명사
     항목ID: 69836
-processed:
+result:
   맞춤법 검사:
     표제어: 원귀
     품사: 명사
 ---
 000_KEYWORD: 원그래프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69837
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -948,13 +948,13 @@ imported:
     표제어: 원그래프
     품사: 명사
     항목ID: 69837
-processed:
+result:
   맞춤법 검사:
     표제어: 원그래프
     품사: 명사
 ---
 000_KEYWORD: 원근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69838
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -993,13 +993,13 @@ imported:
     표제어: 원근
     품사: 명사
     항목ID: 69838
-processed:
+result:
   맞춤법 검사:
     표제어: 원근
     품사: 명사
 ---
 000_KEYWORD: 원근감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69839
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1030,13 +1030,13 @@ imported:
     표제어: 원근감
     품사: 명사
     항목ID: 69839
-processed:
+result:
   맞춤법 검사:
     표제어: 원근감
     품사: 명사
 ---
 000_KEYWORD: 원근법__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69840
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1075,13 +1075,13 @@ imported:
     - 발음: 원ː근뻠만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69840_won-geunppeomman.wav
       형태: 원근법만
-processed:
+result:
   맞춤법 검사:
     표제어: 원근법
     품사: 명사
 ---
 000_KEYWORD: 원금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69841
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1120,13 +1120,13 @@ imported:
     표제어: 원금
     품사: 명사
     항목ID: 69841
-processed:
+result:
   맞춤법 검사:
     표제어: 원금
     품사: 명사
 ---
 000_KEYWORD: 원기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69842
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1168,13 +1168,13 @@ imported:
     표제어: 원기
     품사: 명사
     항목ID: 69842
-processed:
+result:
   맞춤법 검사:
     표제어: 원기
     품사: 명사
 ---
 000_KEYWORD: 원기둥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69843
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1210,13 +1210,13 @@ imported:
     표제어: 원기둥
     품사: 명사
     항목ID: 69843
-processed:
+result:
   맞춤법 검사:
     표제어: 원기둥
     품사: 명사
 ---
 000_KEYWORD: 원내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69844
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1250,13 +1250,13 @@ imported:
     표제어: 원내
     품사: 명사
     항목ID: 69844
-processed:
+result:
   맞춤법 검사:
     표제어: 원내
     품사: 명사
 ---
 000_KEYWORD: 원내대표__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1265,13 +1265,13 @@ imported:
     표제어: 원내대표
     품사: 명사:보통:비서술성
     항목ID: 20192
-processed:
+result:
   맞춤법 검사:
     표제어: 원내대표
     품사: 명사
 ---
 000_KEYWORD: 원년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69845
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1321,13 +1321,13 @@ imported:
     표제어: 원년
     품사: 명사
     항목ID: 69845
-processed:
+result:
   맞춤법 검사:
     표제어: 원년
     품사: 명사
 ---
 000_KEYWORD: 원단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69846
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1356,13 +1356,13 @@ imported:
     표제어: 원단
     품사: 명사
     항목ID: 69846
-processed:
+result:
   맞춤법 검사:
     표제어: 원단
     품사: 명사
 ---
 000_KEYWORD: 원대하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69847
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1404,13 +1404,13 @@ imported:
       형태: 원대하니
     - 발음: 원ː대함니다
       형태: 원대합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 원대하다
     품사: 형용사
 ---
 000_KEYWORD: 원동기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1420,13 +1420,13 @@ imported:
     표제어: 원동기
     품사: 명사:보통:비서술성
     항목ID: 20196
-processed:
+result:
   맞춤법 검사:
     표제어: 원동기
     품사: 명사
 ---
 000_KEYWORD: 원동력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69848
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1479,13 +1479,13 @@ imported:
     - 발음: 원동녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69848_wondongnyeongman.wav
       형태: 원동력만
-processed:
+result:
   맞춤법 검사:
     표제어: 원동력
     품사: 명사
 ---
 000_KEYWORD: 원두__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69849
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1520,13 +1520,13 @@ imported:
     표제어: 원두
     품사: 명사
     항목ID: 69849
-processed:
+result:
   맞춤법 검사:
     표제어: 원두
     품사: 명사
 ---
 000_KEYWORD: 원두막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69850
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1570,13 +1570,13 @@ imported:
     - 발음: 원두망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69850_wondumangman.wav
       형태: 원두막만
-processed:
+result:
   맞춤법 검사:
     표제어: 원두막
     품사: 명사
 ---
 000_KEYWORD: 원두커피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69851
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1606,13 +1606,13 @@ imported:
     표제어: 원두커피
     품사: 명사
     항목ID: 69851
-processed:
+result:
   맞춤법 검사:
     표제어: 원두커피
     품사: 명사
 ---
 000_KEYWORD: 원둘레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69852
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1644,13 +1644,13 @@ imported:
     표제어: 원둘레
     품사: 명사
     항목ID: 69852
-processed:
+result:
   맞춤법 검사:
     표제어: 원둘레
     품사: 명사
 ---
 000_KEYWORD: 원뜻__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69853
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1690,13 +1690,13 @@ imported:
     - 발음: 원뜬만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69853_wontteunman.wav
       형태: 원뜻만
-processed:
+result:
   맞춤법 검사:
     표제어: 원뜻
     품사: 명사
 ---
 000_KEYWORD: 원래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49297
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1734,13 +1734,13 @@ imported:
     표제어: 원래
     품사: 명사
     항목ID: 49297
-processed:
+result:
   맞춤법 검사:
     표제어: 원래
     품사: 명사
 ---
 000_KEYWORD: 원래__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53768
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1779,13 +1779,13 @@ imported:
     표제어: 원래
     품사: 부사
     항목ID: 53768
-processed:
+result:
   맞춤법 검사:
     표제어: 원래
     품사: 부사
 ---
 000_KEYWORD: 원로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69854
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1833,13 +1833,13 @@ imported:
     표제어: 원로
     품사: 명사
     항목ID: 69854
-processed:
+result:
   맞춤법 검사:
     표제어: 원로
     품사: 명사
 ---
 000_KEYWORD: 원론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69855
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1867,13 +1867,13 @@ imported:
     표제어: 원론
     품사: 명사
     항목ID: 69855
-processed:
+result:
   맞춤법 검사:
     표제어: 원론
     품사: 명사
 ---
 000_KEYWORD: 원론적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69856
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1902,13 +1902,13 @@ imported:
     표제어: 원론적
     품사: 관형사
     항목ID: 69856
-processed:
+result:
   맞춤법 검사:
     표제어: 원론적
     품사: 관형사
 ---
 000_KEYWORD: 원론적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69857
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1936,13 +1936,13 @@ imported:
     표제어: 원론적
     품사: 명사
     항목ID: 69857
-processed:
+result:
   맞춤법 검사:
     표제어: 원론적
     품사: 명사
 ---
 000_KEYWORD: 원료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69858
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -1972,13 +1972,13 @@ imported:
     표제어: 원료
     품사: 명사
     항목ID: 69858
-processed:
+result:
   맞춤법 검사:
     표제어: 원료
     품사: 명사
 ---
 000_KEYWORD: 원료비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69859
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2006,13 +2006,13 @@ imported:
     표제어: 원료비
     품사: 명사
     항목ID: 69859
-processed:
+result:
   맞춤법 검사:
     표제어: 원료비
     품사: 명사
 ---
 000_KEYWORD: 원룸__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69860
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2046,13 +2046,13 @@ imported:
     표제어: 원룸
     품사: 명사
     항목ID: 69860
-processed:
+result:
   맞춤법 검사:
     표제어: 원룸
     품사: 명사
 ---
 000_KEYWORD: 원리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69861
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2103,13 +2103,13 @@ imported:
     표제어: 원리
     품사: 명사
     항목ID: 69861
-processed:
+result:
   맞춤법 검사:
     표제어: 원리
     품사: 명사
 ---
 000_KEYWORD: 원리금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69862
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2139,13 +2139,13 @@ imported:
     표제어: 원리금
     품사: 명사
     항목ID: 69862
-processed:
+result:
   맞춤법 검사:
     표제어: 원리금
     품사: 명사
 ---
 000_KEYWORD: 원만하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69863
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2211,13 +2211,13 @@ imported:
       형태: 원만하니
     - 발음: 원만함니다
       형태: 원만합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 원만하다
     품사: 형용사
 ---
 000_KEYWORD: 원만히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69864
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2267,13 +2267,13 @@ imported:
     표제어: 원만히
     품사: 부사
     항목ID: 69864
-processed:
+result:
   맞춤법 검사:
     표제어: 원만히
     품사: 부사
 ---
 000_KEYWORD: 원망__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69866
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2305,13 +2305,13 @@ imported:
     표제어: 원망
     품사: 명사
     항목ID: 69866
-processed:
+result:
   맞춤법 검사:
     표제어: 원망
     품사: 명사
 ---
 000_KEYWORD: 원망스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69870
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2351,7 +2351,7 @@ imported:
       형태: 원망스러우니
     - 발음: 원ː망스럽씀니다
       형태: 원망스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -2359,7 +2359,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 원망스레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69794
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2387,13 +2387,13 @@ imported:
     표제어: 원망스레
     품사: 부사
     항목ID: 69794
-processed:
+result:
   맞춤법 검사:
     표제어: 원망스레
     품사: 부사
 ---
 000_KEYWORD: 원망하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69798
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2423,13 +2423,13 @@ imported:
     표제어: 원망하다
     품사: 동사
     항목ID: 69798
-processed:
+result:
   맞춤법 검사:
     표제어: 원망하다
     품사: 동사
 ---
 000_KEYWORD: 원맨쇼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2439,13 +2439,13 @@ imported:
     표제어: 원맨쇼
     품사: 명사:보통:비서술성
     항목ID: 20212
-processed:
+result:
   맞춤법 검사:
     표제어: 원맨쇼
     품사: 명사
 ---
 000_KEYWORD: 원목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69803
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2487,13 +2487,13 @@ imported:
     - 발음: 원몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69803_wonmongman.wav
       형태: 원목만
-processed:
+result:
   맞춤법 검사:
     표제어: 원목
     품사: 명사
 ---
 000_KEYWORD: 원문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69804
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2534,13 +2534,13 @@ imported:
     표제어: 원문
     품사: 명사
     항목ID: 69804
-processed:
+result:
   맞춤법 검사:
     표제어: 원문
     품사: 명사
 ---
 000_KEYWORD: 원반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69805
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2584,13 +2584,13 @@ imported:
     표제어: 원반
     품사: 명사
     항목ID: 69805
-processed:
+result:
   맞춤법 검사:
     표제어: 원반
     품사: 명사
 ---
 000_KEYWORD: 원반던지기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69806
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2617,13 +2617,13 @@ imported:
     표제어: 원반던지기
     품사: 명사
     항목ID: 69806
-processed:
+result:
   맞춤법 검사:
     표제어: 원반던지기
     품사: 명사
 ---
 000_KEYWORD: 원본__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69807
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2698,13 +2698,13 @@ imported:
     표제어: 원본
     품사: 명사
     항목ID: 69807
-processed:
+result:
   맞춤법 검사:
     표제어: 원본
     품사: 명사
 ---
 000_KEYWORD: 원불교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69808
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2733,13 +2733,13 @@ imported:
     표제어: 원불교
     품사: 명사
     항목ID: 69808
-processed:
+result:
   맞춤법 검사:
     표제어: 원불교
     품사: 명사
 ---
 000_KEYWORD: 원뿔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69809
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2768,13 +2768,13 @@ imported:
     표제어: 원뿔
     품사: 명사
     항목ID: 69809
-processed:
+result:
   맞춤법 검사:
     표제어: 원뿔
     품사: 명사
 ---
 000_KEYWORD: 원뿔형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69810
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2804,13 +2804,13 @@ imported:
     표제어: 원뿔형
     품사: 명사
     항목ID: 69810
-processed:
+result:
   맞춤법 검사:
     표제어: 원뿔형
     품사: 명사
 ---
 000_KEYWORD: 원사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69811
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2839,13 +2839,13 @@ imported:
     표제어: 원사
     품사: 명사
     항목ID: 69811
-processed:
+result:
   맞춤법 검사:
     표제어: 원사
     품사: 명사
 ---
 000_KEYWORD: 원산지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69812
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2885,13 +2885,13 @@ imported:
     표제어: 원산지
     품사: 명사
     항목ID: 69812
-processed:
+result:
   맞춤법 검사:
     표제어: 원산지
     품사: 명사
 ---
 000_KEYWORD: 원삼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69813
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2923,13 +2923,13 @@ imported:
     표제어: 원삼
     품사: 명사
     항목ID: 69813
-processed:
+result:
   맞춤법 검사:
     표제어: 원삼
     품사: 명사
 ---
 000_KEYWORD: 원상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69814
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -2955,13 +2955,13 @@ imported:
     표제어: 원상
     품사: 명사
     항목ID: 69814
-processed:
+result:
   맞춤법 검사:
     표제어: 원상
     품사: 명사
 ---
 000_KEYWORD: 원상복귀__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2970,13 +2970,13 @@ imported:
     표제어: 원상복귀
     품사: 명사:보통:서술성
     항목ID: 20222
-processed:
+result:
   맞춤법 검사:
     표제어: 원상복귀
     품사: 명사
 ---
 000_KEYWORD: 원상복귀하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2985,13 +2985,13 @@ imported:
     표제어: 원상복귀하다
     품사: 동사
     항목ID: 20223
-processed:
+result:
   맞춤법 검사:
     표제어: 원상복귀하다
     품사: 동사
 ---
 000_KEYWORD: 원상회복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69945
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3039,13 +3039,13 @@ imported:
     - 발음: 원상훼봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69945_wonsanghwebongman.wav
       형태: 원상회복만
-processed:
+result:
   맞춤법 검사:
     표제어: 원상회복
     품사: 명사
 ---
 000_KEYWORD: 원색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69816
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3109,13 +3109,13 @@ imported:
     - 발음: 원생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69816_wonsaengman.wav
       형태: 원색만
-processed:
+result:
   맞춤법 검사:
     표제어: 원색
     품사: 명사
 ---
 000_KEYWORD: 원색적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69817
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3155,13 +3155,13 @@ imported:
     표제어: 원색적
     품사: 관형사
     항목ID: 69817
-processed:
+result:
   맞춤법 검사:
     표제어: 원색적
     품사: 관형사
 ---
 000_KEYWORD: 원색적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69818
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3202,13 +3202,13 @@ imported:
     표제어: 원색적
     품사: 명사
     항목ID: 69818
-processed:
+result:
   맞춤법 검사:
     표제어: 원색적
     품사: 명사
 ---
 000_KEYWORD: 원생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69819
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3245,13 +3245,13 @@ imported:
     표제어: 원생
     품사: 명사
     항목ID: 69819
-processed:
+result:
   맞춤법 검사:
     표제어: 원생
     품사: 명사
 ---
 000_KEYWORD: 원서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69820
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3285,13 +3285,13 @@ imported:
     표제어: 원서
     품사: 명사
     항목ID: 69820
-processed:
+result:
   맞춤법 검사:
     표제어: 원서
     품사: 명사
 ---
 000_KEYWORD: 원서__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26718
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3319,13 +3319,13 @@ imported:
     표제어: 원서
     품사: 명사
     항목ID: 26718
-processed:
+result:
   맞춤법 검사:
     표제어: 원서
     품사: 명사
 ---
 000_KEYWORD: 원석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69949
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3373,13 +3373,13 @@ imported:
     - 발음: 원성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69949_wonseongman.wav
       형태: 원석만
-processed:
+result:
   맞춤법 검사:
     표제어: 원석
     품사: 명사
 ---
 000_KEYWORD: 원성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69950
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3405,13 +3405,13 @@ imported:
     표제어: 원성
     품사: 명사
     항목ID: 69950
-processed:
+result:
   맞춤법 검사:
     표제어: 원성
     품사: 명사
 ---
 000_KEYWORD: 원소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69951
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3459,13 +3459,13 @@ imported:
     표제어: 원소
     품사: 명사
     항목ID: 69951
-processed:
+result:
   맞춤법 검사:
     표제어: 원소
     품사: 명사
 ---
 000_KEYWORD: 원소기호__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3475,13 +3475,13 @@ imported:
     표제어: 원소기호
     품사: 명사:보통:서술성
     항목ID: 20230
-processed:
+result:
   맞춤법 검사:
     표제어: 원소기호
     품사: 명사
 ---
 000_KEYWORD: 원수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69953
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3508,13 +3508,13 @@ imported:
     표제어: 원수
     품사: 명사
     항목ID: 69953
-processed:
+result:
   맞춤법 검사:
     표제어: 원수
     품사: 명사
 ---
 000_KEYWORD: 원수__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69954
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3547,13 +3547,13 @@ imported:
     표제어: 원수
     품사: 명사
     항목ID: 69954
-processed:
+result:
   맞춤법 검사:
     표제어: 원수
     품사: 명사
 ---
 000_KEYWORD: 원수__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69955
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3580,13 +3580,13 @@ imported:
     표제어: 원수
     품사: 명사
     항목ID: 69955
-processed:
+result:
   맞춤법 검사:
     표제어: 원수
     품사: 명사
 ---
 000_KEYWORD: 원수지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69956
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3627,13 +3627,13 @@ imported:
     - 발음: 원ː수지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69956_won-sujini.wav
       형태: 원수지니
-processed:
+result:
   맞춤법 검사:
     표제어: 원수지다
     품사: 동사
 ---
 000_KEYWORD: 원숙기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69957
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3675,13 +3675,13 @@ imported:
     표제어: 원숙기
     품사: 명사
     항목ID: 69957
-processed:
+result:
   맞춤법 검사:
     표제어: 원숙기
     품사: 명사
 ---
 000_KEYWORD: 원숙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69958
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3733,13 +3733,13 @@ imported:
       형태: 원숙하니
     - 발음: 원수캄니다
       형태: 원숙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 원숙하다
     품사: 형용사
 ---
 000_KEYWORD: 원숭이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69959
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3772,13 +3772,13 @@ imported:
     표제어: 원숭이
     품사: 명사
     항목ID: 69959
-processed:
+result:
   맞춤법 검사:
     표제어: 원숭이
     품사: 명사
 ---
 000_KEYWORD: 원숭이띠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68727
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3805,13 +3805,13 @@ imported:
     표제어: 원숭이띠
     품사: 명사
     항목ID: 68727
-processed:
+result:
   맞춤법 검사:
     표제어: 원숭이띠
     품사: 명사
 ---
 000_KEYWORD: 원시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69960
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3853,13 +3853,13 @@ imported:
     표제어: 원시
     품사: 명사
     항목ID: 69960
-processed:
+result:
   맞춤법 검사:
     표제어: 원시
     품사: 명사
 ---
 000_KEYWORD: 원시__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69961
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3897,13 +3897,13 @@ imported:
     표제어: 원시
     품사: 명사
     항목ID: 69961
-processed:
+result:
   맞춤법 검사:
     표제어: 원시
     품사: 명사
 ---
 000_KEYWORD: 원시림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69962
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3929,13 +3929,13 @@ imported:
     표제어: 원시림
     품사: 명사
     항목ID: 69962
-processed:
+result:
   맞춤법 검사:
     표제어: 원시림
     품사: 명사
 ---
 000_KEYWORD: 원시생활__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69964
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -3961,13 +3961,13 @@ imported:
     표제어: 원시생활
     품사: 명사
     항목ID: 69964
-processed:
+result:
   맞춤법 검사:
     표제어: 원시생활
     품사: 명사
 ---
 000_KEYWORD: 원시인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69965
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4007,13 +4007,13 @@ imported:
     표제어: 원시인
     품사: 명사
     항목ID: 69965
-processed:
+result:
   맞춤법 검사:
     표제어: 원시인
     품사: 명사
 ---
 000_KEYWORD: 원시적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69966
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4039,13 +4039,13 @@ imported:
     표제어: 원시적
     품사: 관형사
     항목ID: 69966
-processed:
+result:
   맞춤법 검사:
     표제어: 원시적
     품사: 관형사
 ---
 000_KEYWORD: 원시적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69967
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4079,13 +4079,13 @@ imported:
     표제어: 원시적
     품사: 명사
     항목ID: 69967
-processed:
+result:
   맞춤법 검사:
     표제어: 원시적
     품사: 명사
 ---
 000_KEYWORD: 원심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69973
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4114,13 +4114,13 @@ imported:
     표제어: 원심
     품사: 명사
     항목ID: 69973
-processed:
+result:
   맞춤법 검사:
     표제어: 원심
     품사: 명사
 ---
 000_KEYWORD: 원심력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69974
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4166,13 +4166,13 @@ imported:
     - 발음: 원ː심녕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69974_won-simnyeongman.wav
       형태: 원심력만
-processed:
+result:
   맞춤법 검사:
     표제어: 원심력
     품사: 명사
 ---
 000_KEYWORD: 원심분리기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4182,13 +4182,13 @@ imported:
     표제어: 원심분리기
     품사: 명사:보통:비서술성
     항목ID: 20239
-processed:
+result:
   맞춤법 검사:
     표제어: 원심분리기
     품사: 명사
 ---
 000_KEYWORD: 원아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4198,13 +4198,13 @@ imported:
     표제어: 원아
     품사: 명사:보통:비서술성
     항목ID: 20240
-processed:
+result:
   맞춤법 검사:
     표제어: 원아
     품사: 명사
 ---
 000_KEYWORD: 원안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69976
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4234,13 +4234,13 @@ imported:
     표제어: 원안
     품사: 명사
     항목ID: 69976
-processed:
+result:
   맞춤법 검사:
     표제어: 원안
     품사: 명사
 ---
 000_KEYWORD: 원앙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69977
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4289,13 +4289,13 @@ imported:
     표제어: 원앙
     품사: 명사
     항목ID: 69977
-processed:
+result:
   맞춤법 검사:
     표제어: 원앙
     품사: 명사
 ---
 000_KEYWORD: 원앙금침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69978
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4333,13 +4333,13 @@ imported:
     표제어: 원앙금침
     품사: 명사
     항목ID: 69978
-processed:
+result:
   맞춤법 검사:
     표제어: 원앙금침
     품사: 명사
 ---
 000_KEYWORD: 원앙새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69979
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4376,13 +4376,13 @@ imported:
     표제어: 원앙새
     품사: 명사
     항목ID: 69979
-processed:
+result:
   맞춤법 검사:
     표제어: 원앙새
     품사: 명사
 ---
 000_KEYWORD: 원액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69980
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4423,13 +4423,13 @@ imported:
     - 발음: 워냉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69980_wonaengman.wav
       형태: 원액만
-processed:
+result:
   맞춤법 검사:
     표제어: 원액
     품사: 명사
 ---
 000_KEYWORD: 원양__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70253
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4457,13 +4457,13 @@ imported:
     표제어: 원양
     품사: 명사
     항목ID: 70253
-processed:
+result:
   맞춤법 검사:
     표제어: 원양
     품사: 명사
 ---
 000_KEYWORD: 원양어업__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4473,13 +4473,13 @@ imported:
     표제어: 원양어업
     품사: 명사:보통:서술성
     항목ID: 20245
-processed:
+result:
   맞춤법 검사:
     표제어: 원양어업
     품사: 명사
 ---
 000_KEYWORD: 원어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70256
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4508,13 +4508,13 @@ imported:
     표제어: 원어
     품사: 명사
     항목ID: 70256
-processed:
+result:
   맞춤법 검사:
     표제어: 원어
     품사: 명사
 ---
 000_KEYWORD: 원어민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70257
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4546,13 +4546,13 @@ imported:
     표제어: 원어민
     품사: 명사
     항목ID: 70257
-processed:
+result:
   맞춤법 검사:
     표제어: 원어민
     품사: 명사
 ---
 000_KEYWORD: 원예__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70259
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4580,13 +4580,13 @@ imported:
     표제어: 원예
     품사: 명사
     항목ID: 70259
-processed:
+result:
   맞춤법 검사:
     표제어: 원예
     품사: 명사
 ---
 000_KEYWORD: 원예사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70260
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4615,13 +4615,13 @@ imported:
     표제어: 원예사
     품사: 명사
     항목ID: 70260
-processed:
+result:
   맞춤법 검사:
     표제어: 원예사
     품사: 명사
 ---
 000_KEYWORD: 원예업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70261
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4659,13 +4659,13 @@ imported:
     - 발음: 워녜엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70261_wonyeeomman.wav
       형태: 원예업만
-processed:
+result:
   맞춤법 검사:
     표제어: 원예업
     품사: 명사
 ---
 000_KEYWORD: 원외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70262
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4698,13 +4698,13 @@ imported:
     표제어: 원외
     품사: 명사
     항목ID: 70262
-processed:
+result:
   맞춤법 검사:
     표제어: 원외
     품사: 명사
 ---
 000_KEYWORD: 원위치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70263
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4732,13 +4732,13 @@ imported:
     표제어: 원위치
     품사: 명사
     항목ID: 70263
-processed:
+result:
   맞춤법 검사:
     표제어: 원위치
     품사: 명사
 ---
 000_KEYWORD: 원유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70264
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4772,13 +4772,13 @@ imported:
     표제어: 원유
     품사: 명사
     항목ID: 70264
-processed:
+result:
   맞춤법 검사:
     표제어: 원유
     품사: 명사
 ---
 000_KEYWORD: 원음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70265
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4820,13 +4820,13 @@ imported:
     표제어: 원음
     품사: 명사
     항목ID: 70265
-processed:
+result:
   맞춤법 검사:
     표제어: 원음
     품사: 명사
 ---
 000_KEYWORD: 원이름__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70266
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4855,13 +4855,13 @@ imported:
     표제어: 원이름
     품사: 명사
     항목ID: 70266
-processed:
+result:
   맞춤법 검사:
     표제어: 원이름
     품사: 명사
 ---
 000_KEYWORD: 원인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70268
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4924,13 +4924,13 @@ imported:
     표제어: 원인
     품사: 명사
     항목ID: 70268
-processed:
+result:
   맞춤법 검사:
     표제어: 원인
     품사: 명사
 ---
 000_KEYWORD: 원자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70270
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -4967,13 +4967,13 @@ imported:
     표제어: 원자
     품사: 명사
     항목ID: 70270
-processed:
+result:
   맞춤법 검사:
     표제어: 원자
     품사: 명사
 ---
 000_KEYWORD: 원자가__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4984,13 +4984,13 @@ imported:
     표제어: 원자가
     품사: 명사:보통:서술성
     항목ID: 20251
-processed:
+result:
   맞춤법 검사:
     표제어: 원자가
     품사: 명사
 ---
 000_KEYWORD: 원자량__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5000,13 +5000,13 @@ imported:
     표제어: 원자량
     품사: 명사:보통:서술성
     항목ID: 20252
-processed:
+result:
   맞춤법 검사:
     표제어: 원자량
     품사: 명사
 ---
 000_KEYWORD: 원자력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70271
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5048,13 +5048,13 @@ imported:
     - 발음: 원자령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70271_wonjaryeongman.wav
       형태: 원자력만
-processed:
+result:
   맞춤법 검사:
     표제어: 원자력
     품사: 명사
 ---
 000_KEYWORD: 원자력발전__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5064,13 +5064,13 @@ imported:
     표제어: 원자력발전
     품사: 명사:보통:서술성
     항목ID: 20254
-processed:
+result:
   맞춤법 검사:
     표제어: 원자력발전
     품사: 명사
 ---
 000_KEYWORD: 원자력발전소__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5080,13 +5080,13 @@ imported:
     표제어: 원자력발전소
     품사: 명사:보통:비서술성
     항목ID: 20255
-processed:
+result:
   맞춤법 검사:
     표제어: 원자력발전소
     품사: 명사
 ---
 000_KEYWORD: 원자로__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5096,13 +5096,13 @@ imported:
     표제어: 원자로
     품사: 명사:보통:비서술성
     항목ID: 20256
-processed:
+result:
   맞춤법 검사:
     표제어: 원자로
     품사: 명사
 ---
 000_KEYWORD: 원자론__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5113,13 +5113,13 @@ imported:
     표제어: 원자론
     품사: 명사:보통:서술성
     항목ID: 20257
-processed:
+result:
   맞춤법 검사:
     표제어: 원자론
     품사: 명사
 ---
 000_KEYWORD: 원자번호__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5129,13 +5129,13 @@ imported:
     표제어: 원자번호
     품사: 명사:보통:서술성
     항목ID: 20258
-processed:
+result:
   맞춤법 검사:
     표제어: 원자번호
     품사: 명사
 ---
 000_KEYWORD: 원자재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70274
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5166,13 +5166,13 @@ imported:
     표제어: 원자재
     품사: 명사
     항목ID: 70274
-processed:
+result:
   맞춤법 검사:
     표제어: 원자재
     품사: 명사
 ---
 000_KEYWORD: 원자폭탄__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5182,13 +5182,13 @@ imported:
     표제어: 원자폭탄
     품사: 명사:보통:비서술성
     항목ID: 20260
-processed:
+result:
   맞춤법 검사:
     표제어: 원자폭탄
     품사: 명사
 ---
 000_KEYWORD: 원자핵__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5198,13 +5198,13 @@ imported:
     표제어: 원자핵
     품사: 명사:보통:비서술성
     항목ID: 20261
-processed:
+result:
   맞춤법 검사:
     표제어: 원자핵
     품사: 명사
 ---
 000_KEYWORD: 원작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70275
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5248,13 +5248,13 @@ imported:
     - 발음: 원장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70275_wonjangman.wav
       형태: 원작만
-processed:
+result:
   맞춤법 검사:
     표제어: 원작
     품사: 명사
 ---
 000_KEYWORD: 원작자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70276
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5287,13 +5287,13 @@ imported:
     표제어: 원작자
     품사: 명사
     항목ID: 70276
-processed:
+result:
   맞춤법 검사:
     표제어: 원작자
     품사: 명사
 ---
 000_KEYWORD: 원장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70277
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5340,13 +5340,13 @@ imported:
     표제어: 원장
     품사: 명사
     항목ID: 70277
-processed:
+result:
   맞춤법 검사:
     표제어: 원장
     품사: 명사
 ---
 000_KEYWORD: 원장__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70278
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5392,13 +5392,13 @@ imported:
     표제어: 원장
     품사: 명사
     항목ID: 70278
-processed:
+result:
   맞춤법 검사:
     표제어: 원장
     품사: 명사
 ---
 000_KEYWORD: 원재료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70279
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5427,13 +5427,13 @@ imported:
     표제어: 원재료
     품사: 명사
     항목ID: 70279
-processed:
+result:
   맞춤법 검사:
     표제어: 원재료
     품사: 명사
 ---
 000_KEYWORD: 원저자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70280
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5469,13 +5469,13 @@ imported:
     표제어: 원저자
     품사: 명사
     항목ID: 70280
-processed:
+result:
   맞춤법 검사:
     표제어: 원저자
     품사: 명사
 ---
 000_KEYWORD: 원적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70281
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5535,13 +5535,13 @@ imported:
     - 발음: 원정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70281_wonjeongman.wav
       형태: 원적만
-processed:
+result:
   맞춤법 검사:
     표제어: 원적
     품사: 명사
 ---
 000_KEYWORD: 원적외선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70282
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5571,13 +5571,13 @@ imported:
     표제어: 원적외선
     품사: 명사
     항목ID: 70282
-processed:
+result:
   맞춤법 검사:
     표제어: 원적외선
     품사: 명사
 ---
 000_KEYWORD: 원전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70284
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5627,13 +5627,13 @@ imported:
     표제어: 원전
     품사: 명사
     항목ID: 70284
-processed:
+result:
   맞춤법 검사:
     표제어: 원전
     품사: 명사
 ---
 000_KEYWORD: 원전__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70285
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5661,13 +5661,13 @@ imported:
     표제어: 원전
     품사: 명사
     항목ID: 70285
-processed:
+result:
   맞춤법 검사:
     표제어: 원전
     품사: 명사
 ---
 000_KEYWORD: 원점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70286
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5722,13 +5722,13 @@ imported:
     표제어: 원점
     품사: 명사
     항목ID: 70286
-processed:
+result:
   맞춤법 검사:
     표제어: 원점
     품사: 명사
 ---
 000_KEYWORD: 원정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70287
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5788,13 +5788,13 @@ imported:
     표제어: 원정
     품사: 명사
     항목ID: 70287
-processed:
+result:
   맞춤법 검사:
     표제어: 원정
     품사: 명사
 ---
 000_KEYWORD: 원정군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70288
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5836,13 +5836,13 @@ imported:
     표제어: 원정군
     품사: 명사
     항목ID: 70288
-processed:
+result:
   맞춤법 검사:
     표제어: 원정군
     품사: 명사
 ---
 000_KEYWORD: 원정대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70289
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5870,13 +5870,13 @@ imported:
     표제어: 원정대
     품사: 명사
     항목ID: 70289
-processed:
+result:
   맞춤법 검사:
     표제어: 원정대
     품사: 명사
 ---
 000_KEYWORD: 원제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70290
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5904,13 +5904,13 @@ imported:
     표제어: 원제
     품사: 명사
     항목ID: 70290
-processed:
+result:
   맞춤법 검사:
     표제어: 원제
     품사: 명사
 ---
 000_KEYWORD: 원조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70291
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -5981,13 +5981,13 @@ imported:
     표제어: 원조
     품사: 명사
     항목ID: 70291
-processed:
+result:
   맞춤법 검사:
     표제어: 원조
     품사: 명사
 ---
 000_KEYWORD: 원조__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70292
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6029,13 +6029,13 @@ imported:
     표제어: 원조
     품사: 명사
     항목ID: 70292
-processed:
+result:
   맞춤법 검사:
     표제어: 원조
     품사: 명사
 ---
 000_KEYWORD: 원조되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70293
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6066,13 +6066,13 @@ imported:
     표제어: 원조되다
     품사: 동사
     항목ID: 70293
-processed:
+result:
   맞춤법 검사:
     표제어: 원조되다
     품사: 동사
 ---
 000_KEYWORD: 원조하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70294
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6102,13 +6102,13 @@ imported:
     표제어: 원조하다
     품사: 동사
     항목ID: 70294
-processed:
+result:
   맞춤법 검사:
     표제어: 원조하다
     품사: 동사
 ---
 000_KEYWORD: 원종__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6119,13 +6119,13 @@ imported:
     표제어: 원종
     품사: 명사:보통:서술성
     항목ID: 20272
-processed:
+result:
   맞춤법 검사:
     표제어: 원종
     품사: 명사
 ---
 000_KEYWORD: 원죄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70295
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6170,13 +6170,13 @@ imported:
     표제어: 원죄
     품사: 명사
     항목ID: 70295
-processed:
+result:
   맞춤법 검사:
     표제어: 원죄
     품사: 명사
 ---
 000_KEYWORD: 원주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70296
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6208,13 +6208,13 @@ imported:
     표제어: 원주
     품사: 명사
     항목ID: 70296
-processed:
+result:
   맞춤법 검사:
     표제어: 원주
     품사: 명사
 ---
 000_KEYWORD: 원주민__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70297
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6250,13 +6250,13 @@ imported:
     표제어: 원주민
     품사: 명사
     항목ID: 70297
-processed:
+result:
   맞춤법 검사:
     표제어: 원주민
     품사: 명사
 ---
 000_KEYWORD: 원주율__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70298
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6285,13 +6285,13 @@ imported:
     표제어: 원주율
     품사: 명사
     항목ID: 70298
-processed:
+result:
   맞춤법 검사:
     표제어: 원주율
     품사: 명사
 ---
 000_KEYWORD: 원주인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70302
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6319,13 +6319,13 @@ imported:
     표제어: 원주인
     품사: 명사
     항목ID: 70302
-processed:
+result:
   맞춤법 검사:
     표제어: 원주인
     품사: 명사
 ---
 000_KEYWORD: 원천__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70303
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6371,13 +6371,13 @@ imported:
     표제어: 원천
     품사: 명사
     항목ID: 70303
-processed:
+result:
   맞춤법 검사:
     표제어: 원천
     품사: 명사
 ---
 000_KEYWORD: 원천적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70305
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6405,13 +6405,13 @@ imported:
     표제어: 원천적
     품사: 관형사
     항목ID: 70305
-processed:
+result:
   맞춤법 검사:
     표제어: 원천적
     품사: 관형사
 ---
 000_KEYWORD: 원천적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70304
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6443,13 +6443,13 @@ imported:
     표제어: 원천적
     품사: 명사
     항목ID: 70304
-processed:
+result:
   맞춤법 검사:
     표제어: 원천적
     품사: 명사
 ---
 000_KEYWORD: 원체__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70306
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6505,13 +6505,13 @@ imported:
     표제어: 원체
     품사: 부사
     항목ID: 70306
-processed:
+result:
   맞춤법 검사:
     표제어: 원체
     품사: 부사
 ---
 000_KEYWORD: 원초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70429
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6540,13 +6540,13 @@ imported:
     표제어: 원초
     품사: 명사
     항목ID: 70429
-processed:
+result:
   맞춤법 검사:
     표제어: 원초
     품사: 명사
 ---
 000_KEYWORD: 원초적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70430
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6576,13 +6576,13 @@ imported:
     표제어: 원초적
     품사: 관형사
     항목ID: 70430
-processed:
+result:
   맞춤법 검사:
     표제어: 원초적
     품사: 관형사
 ---
 000_KEYWORD: 원초적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70431
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6611,13 +6611,13 @@ imported:
     표제어: 원초적
     품사: 명사
     항목ID: 70431
-processed:
+result:
   맞춤법 검사:
     표제어: 원초적
     품사: 명사
 ---
 000_KEYWORD: 원칙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69552
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6659,13 +6659,13 @@ imported:
     - 발음: 원칭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69552_wonchingman.wav
       형태: 원칙만
-processed:
+result:
   맞춤법 검사:
     표제어: 원칙
     품사: 명사
 ---
 000_KEYWORD: 원칙적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69553
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6694,13 +6694,13 @@ imported:
     표제어: 원칙적
     품사: 관형사
     항목ID: 69553
-processed:
+result:
   맞춤법 검사:
     표제어: 원칙적
     품사: 관형사
 ---
 000_KEYWORD: 원칙적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69554
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6728,13 +6728,13 @@ imported:
     표제어: 원칙적
     품사: 명사
     항목ID: 69554
-processed:
+result:
   맞춤법 검사:
     표제어: 원칙적
     품사: 명사
 ---
 000_KEYWORD: 원컨대__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69555
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6757,13 +6757,13 @@ imported:
     표제어: 원컨대
     품사: 부사
     항목ID: 69555
-processed:
+result:
   맞춤법 검사:
     표제어: 원컨대
     품사: 부사
 ---
 000_KEYWORD: 원탁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69556
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6804,13 +6804,13 @@ imported:
     - 발음: 원탕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69556_wontangman.wav
       형태: 원탁만
-processed:
+result:
   맞춤법 검사:
     표제어: 원탁
     품사: 명사
 ---
 000_KEYWORD: 원탁회의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69557
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6840,13 +6840,13 @@ imported:
     표제어: 원탁회의
     품사: 명사
     항목ID: 69557
-processed:
+result:
   맞춤법 검사:
     표제어: 원탁회의
     품사: 명사
 ---
 000_KEYWORD: 원톱__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6856,13 +6856,13 @@ imported:
     표제어: 원톱
     품사: 명사:보통:비서술성
     항목ID: 20280
-processed:
+result:
   맞춤법 검사:
     표제어: 원톱
     품사: 명사
 ---
 000_KEYWORD: 원통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69560
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6890,13 +6890,13 @@ imported:
     표제어: 원통
     품사: 명사
     항목ID: 69560
-processed:
+result:
   맞춤법 검사:
     표제어: 원통
     품사: 명사
 ---
 000_KEYWORD: 원통하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69561
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6936,13 +6936,13 @@ imported:
       형태: 원통하니
     - 발음: 원통함니다
       형태: 원통합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 원통하다
     품사: 형용사
 ---
 000_KEYWORD: 원통형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69562
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -6972,13 +6972,13 @@ imported:
     표제어: 원통형
     품사: 명사
     항목ID: 69562
-processed:
+result:
   맞춤법 검사:
     표제어: 원통형
     품사: 명사
 ---
 000_KEYWORD: 원판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69563
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7029,13 +7029,13 @@ imported:
     표제어: 원판
     품사: 명사
     항목ID: 69563
-processed:
+result:
   맞춤법 검사:
     표제어: 원판
     품사: 명사
 ---
 000_KEYWORD: 원판__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69564
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7063,13 +7063,13 @@ imported:
     표제어: 원판
     품사: 명사
     항목ID: 69564
-processed:
+result:
   맞춤법 검사:
     표제어: 원판
     품사: 명사
 ---
 000_KEYWORD: 원폭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69568
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7109,13 +7109,13 @@ imported:
     - 발음: 원퐁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69568_wonpongman.wav
       형태: 원폭만
-processed:
+result:
   맞춤법 검사:
     표제어: 원폭
     품사: 명사
 ---
 000_KEYWORD: 원피스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26721
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7154,13 +7154,13 @@ imported:
     표제어: 원피스
     품사: 명사
     항목ID: 26721
-processed:
+result:
   맞춤법 검사:
     표제어: 원피스
     품사: 명사
 ---
 000_KEYWORD: 원하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69570
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7195,13 +7195,13 @@ imported:
     표제어: 원하다
     품사: 동사
     항목ID: 69570
-processed:
+result:
   맞춤법 검사:
     표제어: 원하다
     품사: 동사
 ---
 000_KEYWORD: 원한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69571
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7237,13 +7237,13 @@ imported:
     표제어: 원한
     품사: 명사
     항목ID: 69571
-processed:
+result:
   맞춤법 검사:
     표제어: 원한
     품사: 명사
 ---
 000_KEYWORD: 원행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69572
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7271,13 +7271,13 @@ imported:
     표제어: 원행
     품사: 명사
     항목ID: 69572
-processed:
+result:
   맞춤법 검사:
     표제어: 원행
     품사: 명사
 ---
 000_KEYWORD: 원형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69581
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7335,13 +7335,13 @@ imported:
     표제어: 원형
     품사: 명사
     항목ID: 69581
-processed:
+result:
   맞춤법 검사:
     표제어: 원형
     품사: 명사
 ---
 000_KEYWORD: 원형__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69582
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7371,13 +7371,13 @@ imported:
     표제어: 원형
     품사: 명사
     항목ID: 69582
-processed:
+result:
   맞춤법 검사:
     표제어: 원형
     품사: 명사
 ---
 000_KEYWORD: 원혼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69584
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7405,13 +7405,13 @@ imported:
     표제어: 원혼
     품사: 명사
     항목ID: 69584
-processed:
+result:
   맞춤법 검사:
     표제어: 원혼
     품사: 명사
 ---
 000_KEYWORD: 원화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69585
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7442,13 +7442,13 @@ imported:
     표제어: 원화
     품사: 명사
     항목ID: 69585
-processed:
+result:
   맞춤법 검사:
     표제어: 원화
     품사: 명사
 ---
 000_KEYWORD: 원활__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69586
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7491,13 +7491,13 @@ imported:
     표제어: 원활
     품사: 명사
     항목ID: 69586
-processed:
+result:
   맞춤법 검사:
     표제어: 원활
     품사: 명사
 ---
 000_KEYWORD: 원활하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69587
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7551,13 +7551,13 @@ imported:
       형태: 원활하니
     - 발음: 원활함니다
       형태: 원활합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 원활하다
     품사: 형용사
 ---
 000_KEYWORD: 원활히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69588
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7599,13 +7599,13 @@ imported:
     표제어: 원활히
     품사: 부사
     항목ID: 69588
-processed:
+result:
   맞춤법 검사:
     표제어: 원활히
     품사: 부사
 ---
 000_KEYWORD: 원효__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7616,13 +7616,13 @@ imported:
     표제어: 원효
     품사: 명사:보통:서술성
     항목ID: 20292
-processed:
+result:
   맞춤법 검사:
     표제어: 원효
     품사: 명사
 ---
 000_KEYWORD: 원흉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69601
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7658,13 +7658,13 @@ imported:
     표제어: 원흉
     품사: 명사
     항목ID: 69601
-processed:
+result:
   맞춤법 검사:
     표제어: 원흉
     품사: 명사
 ---
 000_KEYWORD: 월__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69602
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7703,13 +7703,13 @@ imported:
     표제어: 월
     품사: 명사
     항목ID: 69602
-processed:
+result:
   맞춤법 검사:
     표제어: 월
     품사: 명사
 ---
 000_KEYWORD: 월__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69604
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7743,13 +7743,13 @@ imported:
     표제어: 월
     품사: 명사
     항목ID: 69604
-processed:
+result:
   맞춤법 검사:
     표제어: 월
     품사: 명사
 ---
 000_KEYWORD: 월__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69603
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7781,13 +7781,13 @@ imported:
     표제어: 월
     품사: 의존 명사
     항목ID: 69603
-processed:
+result:
   맞춤법 검사:
     표제어: 월
     품사: 의존 명사
 ---
 000_KEYWORD: 월간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69605
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7854,13 +7854,13 @@ imported:
     표제어: 월간
     품사: 명사
     항목ID: 69605
-processed:
+result:
   맞춤법 검사:
     표제어: 월간
     품사: 명사
 ---
 000_KEYWORD: 월간__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69606
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7905,13 +7905,13 @@ imported:
     표제어: 월간
     품사: 명사
     항목ID: 69606
-processed:
+result:
   맞춤법 검사:
     표제어: 월간
     품사: 명사
 ---
 000_KEYWORD: 월간지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69607
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7950,13 +7950,13 @@ imported:
     표제어: 월간지
     품사: 명사
     항목ID: 69607
-processed:
+result:
   맞춤법 검사:
     표제어: 월간지
     품사: 명사
 ---
 000_KEYWORD: 월경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69608
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -7993,13 +7993,13 @@ imported:
     표제어: 월경
     품사: 명사
     항목ID: 69608
-processed:
+result:
   맞춤법 검사:
     표제어: 월경
     품사: 명사
 ---
 000_KEYWORD: 월계관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69609
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8045,13 +8045,13 @@ imported:
     표제어: 월계관
     품사: 명사
     항목ID: 69609
-processed:
+result:
   맞춤법 검사:
     표제어: 월계관
     품사: 명사
 ---
 000_KEYWORD: 월계수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69610
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8084,13 +8084,13 @@ imported:
     표제어: 월계수
     품사: 명사
     항목ID: 69610
-processed:
+result:
   맞춤법 검사:
     표제어: 월계수
     품사: 명사
 ---
 000_KEYWORD: 월광__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69611
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8123,13 +8123,13 @@ imported:
     표제어: 월광
     품사: 명사
     항목ID: 69611
-processed:
+result:
   맞춤법 검사:
     표제어: 월광
     품사: 명사
 ---
 000_KEYWORD: 월권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69616
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8158,13 +8158,13 @@ imported:
     표제어: 월권
     품사: 명사
     항목ID: 69616
-processed:
+result:
   맞춤법 검사:
     표제어: 월권
     품사: 명사
 ---
 000_KEYWORD: 월권하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69617
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8193,13 +8193,13 @@ imported:
     표제어: 월권하다
     품사: 동사
     항목ID: 69617
-processed:
+result:
   맞춤법 검사:
     표제어: 월권하다
     품사: 동사
 ---
 000_KEYWORD: 월권행위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69618
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8229,13 +8229,13 @@ imported:
     표제어: 월권행위
     품사: 명사
     항목ID: 69618
-processed:
+result:
   맞춤법 검사:
     표제어: 월권행위
     품사: 명사
 ---
 000_KEYWORD: 월급__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69619
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8288,13 +8288,13 @@ imported:
     - 발음: 월금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69619_wolgeumman.wav
       형태: 월급만
-processed:
+result:
   맞춤법 검사:
     표제어: 월급
     품사: 명사
 ---
 000_KEYWORD: 월급날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69620
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8322,13 +8322,13 @@ imported:
     표제어: 월급날
     품사: 명사
     항목ID: 69620
-processed:
+result:
   맞춤법 검사:
     표제어: 월급날
     품사: 명사
 ---
 000_KEYWORD: 월급봉투__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69621
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8356,13 +8356,13 @@ imported:
     표제어: 월급봉투
     품사: 명사
     항목ID: 69621
-processed:
+result:
   맞춤법 검사:
     표제어: 월급봉투
     품사: 명사
 ---
 000_KEYWORD: 월급쟁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69622
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8390,13 +8390,13 @@ imported:
     표제어: 월급쟁이
     품사: 명사
     항목ID: 69622
-processed:
+result:
   맞춤법 검사:
     표제어: 월급쟁이
     품사: 명사
 ---
 000_KEYWORD: 월급제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69624
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8425,13 +8425,13 @@ imported:
     표제어: 월급제
     품사: 명사
     항목ID: 69624
-processed:
+result:
   맞춤법 검사:
     표제어: 월급제
     품사: 명사
 ---
 000_KEYWORD: 월남__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69675
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8478,13 +8478,13 @@ imported:
     표제어: 월남
     품사: 명사
     항목ID: 69675
-processed:
+result:
   맞춤법 검사:
     표제어: 월남
     품사: 명사
 ---
 000_KEYWORD: 월남__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69676
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8505,13 +8505,13 @@ imported:
     표제어: 월남
     품사: 명사
     항목ID: 69676
-processed:
+result:
   맞춤법 검사:
     표제어: 월남
     품사: 명사
 ---
 000_KEYWORD: 월남하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69677
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8563,13 +8563,13 @@ imported:
     표제어: 월남하다
     품사: 동사
     항목ID: 69677
-processed:
+result:
   맞춤법 검사:
     표제어: 월남하다
     품사: 동사
 ---
 000_KEYWORD: 월내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69678
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8610,13 +8610,13 @@ imported:
     표제어: 월내
     품사: 명사
     항목ID: 69678
-processed:
+result:
   맞춤법 검사:
     표제어: 월내
     품사: 명사
 ---
 000_KEYWORD: 월동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69679
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8652,13 +8652,13 @@ imported:
     표제어: 월동
     품사: 명사
     항목ID: 69679
-processed:
+result:
   맞춤법 검사:
     표제어: 월동
     품사: 명사
 ---
 000_KEYWORD: 월동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69680
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8687,13 +8687,13 @@ imported:
     표제어: 월동하다
     품사: 동사
     항목ID: 69680
-processed:
+result:
   맞춤법 검사:
     표제어: 월동하다
     품사: 동사
 ---
 000_KEYWORD: 월드컵__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69987
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8723,13 +8723,13 @@ imported:
     표제어: 월드컵
     품사: 명사
     항목ID: 69987
-processed:
+result:
   맞춤법 검사:
     표제어: 월드컵
     품사: 명사
 ---
 000_KEYWORD: 월등__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69991
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8762,13 +8762,13 @@ imported:
     표제어: 월등
     품사: 부사
     항목ID: 69991
-processed:
+result:
   맞춤법 검사:
     표제어: 월등
     품사: 부사
 ---
 000_KEYWORD: 월등하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69993
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8810,13 +8810,13 @@ imported:
       형태: 월등하니
     - 발음: 월뜽함니다
       형태: 월등합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 월등하다
     품사: 형용사
 ---
 000_KEYWORD: 월등히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69994
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8853,13 +8853,13 @@ imported:
     표제어: 월등히
     품사: 부사
     항목ID: 69994
-processed:
+result:
   맞춤법 검사:
     표제어: 월등히
     품사: 부사
 ---
 000_KEYWORD: 월례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69998
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8892,13 +8892,13 @@ imported:
     표제어: 월례
     품사: 명사
     항목ID: 69998
-processed:
+result:
   맞춤법 검사:
     표제어: 월례
     품사: 명사
 ---
 000_KEYWORD: 월말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70003
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8939,13 +8939,13 @@ imported:
     표제어: 월말
     품사: 명사
     항목ID: 70003
-processed:
+result:
   맞춤법 검사:
     표제어: 월말
     품사: 명사
 ---
 000_KEYWORD: 월반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70012
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -8974,13 +8974,13 @@ imported:
     표제어: 월반
     품사: 명사
     항목ID: 70012
-processed:
+result:
   맞춤법 검사:
     표제어: 월반
     품사: 명사
 ---
 000_KEYWORD: 월반하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70016
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9009,13 +9009,13 @@ imported:
     표제어: 월반하다
     품사: 동사
     항목ID: 70016
-processed:
+result:
   맞춤법 검사:
     표제어: 월반하다
     품사: 동사
 ---
 000_KEYWORD: 월별__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70028
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9043,13 +9043,13 @@ imported:
     표제어: 월별
     품사: 명사
     항목ID: 70028
-processed:
+result:
   맞춤법 검사:
     표제어: 월별
     품사: 명사
 ---
 000_KEYWORD: 월부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70031
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9078,13 +9078,13 @@ imported:
     표제어: 월부
     품사: 명사
     항목ID: 70031
-processed:
+result:
   맞춤법 검사:
     표제어: 월부
     품사: 명사
 ---
 000_KEYWORD: 월부금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70034
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9112,13 +9112,13 @@ imported:
     표제어: 월부금
     품사: 명사
     항목ID: 70034
-processed:
+result:
   맞춤법 검사:
     표제어: 월부금
     품사: 명사
 ---
 000_KEYWORD: 월북__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70058
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9180,13 +9180,13 @@ imported:
     - 발음: 월붕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70058_wolbungman.wav
       형태: 월북만
-processed:
+result:
   맞춤법 검사:
     표제어: 월북
     품사: 명사
 ---
 000_KEYWORD: 월북자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9196,13 +9196,13 @@ imported:
     표제어: 월북자
     품사: 명사:보통:비서술성
     항목ID: 20306
-processed:
+result:
   맞춤법 검사:
     표제어: 월북자
     품사: 명사
 ---
 000_KEYWORD: 월북하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70059
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9255,13 +9255,13 @@ imported:
     표제어: 월북하다
     품사: 동사
     항목ID: 70059
-processed:
+result:
   맞춤법 검사:
     표제어: 월북하다
     품사: 동사
 ---
 000_KEYWORD: 월사금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70061
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9305,13 +9305,13 @@ imported:
     표제어: 월사금
     품사: 명사
     항목ID: 70061
-processed:
+result:
   맞춤법 검사:
     표제어: 월사금
     품사: 명사
 ---
 000_KEYWORD: 월색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70062
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9360,13 +9360,13 @@ imported:
     - 발음: 월쌩만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70062_wolssaengman.wav
       형태: 월색만
-processed:
+result:
   맞춤법 검사:
     표제어: 월색
     품사: 명사
 ---
 000_KEYWORD: 월세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26723
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9426,13 +9426,13 @@ imported:
     표제어: 월세
     품사: 명사
     항목ID: 26723
-processed:
+result:
   맞춤법 검사:
     표제어: 월세
     품사: 명사
 ---
 000_KEYWORD: 월세방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70063
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9468,13 +9468,13 @@ imported:
     표제어: 월세방
     품사: 명사
     항목ID: 70063
-processed:
+result:
   맞춤법 검사:
     표제어: 월세방
     품사: 명사
 ---
 000_KEYWORD: 월수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70064
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9528,13 +9528,13 @@ imported:
     표제어: 월수
     품사: 명사
     항목ID: 70064
-processed:
+result:
   맞춤법 검사:
     표제어: 월수
     품사: 명사
 ---
 000_KEYWORD: 월수입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70065
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9576,13 +9576,13 @@ imported:
     - 발음: 월쑤임만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70065_wolssuimman.wav
       형태: 월수입만
-processed:
+result:
   맞춤법 검사:
     표제어: 월수입
     품사: 명사
 ---
 000_KEYWORD: 월식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70066
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9627,13 +9627,13 @@ imported:
     - 발음: 월씽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70066_wolssingman.wav
       형태: 월식만
-processed:
+result:
   맞춤법 검사:
     표제어: 월식
     품사: 명사
 ---
 000_KEYWORD: 월요병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70068
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9661,13 +9661,13 @@ imported:
     표제어: 월요병
     품사: 명사
     항목ID: 70068
-processed:
+result:
   맞춤법 검사:
     표제어: 월요병
     품사: 명사
 ---
 000_KEYWORD: 월요일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70069
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9698,13 +9698,13 @@ imported:
     표제어: 월요일
     품사: 명사
     항목ID: 70069
-processed:
+result:
   맞춤법 검사:
     표제어: 월요일
     품사: 명사
 ---
 000_KEYWORD: 월중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70071
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9732,13 +9732,13 @@ imported:
     표제어: 월중
     품사: 명사
     항목ID: 70071
-processed:
+result:
   맞춤법 검사:
     표제어: 월중
     품사: 명사
 ---
 000_KEYWORD: 월차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70107
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9768,13 +9768,13 @@ imported:
     표제어: 월차
     품사: 명사
     항목ID: 70107
-processed:
+result:
   맞춤법 검사:
     표제어: 월차
     품사: 명사
 ---
 000_KEYWORD: 월척__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70108
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9813,13 +9813,13 @@ imported:
     - 발음: 월청만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70108_wolcheongman.wav
       형태: 월척만
-processed:
+result:
   맞춤법 검사:
     표제어: 월척
     품사: 명사
 ---
 000_KEYWORD: 월초__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70109
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9859,13 +9859,13 @@ imported:
     표제어: 월초
     품사: 명사
     항목ID: 70109
-processed:
+result:
   맞춤법 검사:
     표제어: 월초
     품사: 명사
 ---
 000_KEYWORD: 월출__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70110
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9893,13 +9893,13 @@ imported:
     표제어: 월출
     품사: 명사
     항목ID: 70110
-processed:
+result:
   맞춤법 검사:
     표제어: 월출
     품사: 명사
 ---
 000_KEYWORD: 월평균__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70111
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -9929,13 +9929,13 @@ imported:
     표제어: 월평균
     품사: 명사
     항목ID: 70111
-processed:
+result:
   맞춤법 검사:
     표제어: 월평균
     품사: 명사
 ---
 000_KEYWORD: 웜__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9946,7 +9946,7 @@ imported:
     표제어: 웜
     품사: 명사:보통:서술성
     항목ID: 20310
-processed:
+result:
   맞춤법 검사:
     표제어: 웜
     품사: 명사

@@ -1,5 +1,5 @@
 000_KEYWORD: 쏴__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66333
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -40,13 +40,13 @@ imported:
     표제어: 쏴
     품사: 부사
     항목ID: 66333
-processed:
+result:
   맞춤법 검사:
     표제어: 쏴
     품사: 부사
 ---
 000_KEYWORD: 쏴붙이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66358
     가져온 시각: '2019-08-13T01:55:04+09:00'
@@ -86,7 +86,7 @@ imported:
     - 발음: 쏴부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66358_sswabuchini.wav
       형태: 쏴붙이니
-processed:
+result:
   맞춤법 검사:
     표제어: 쏴붙이다
     품사: 동사

@@ -1,5 +1,5 @@
 000_KEYWORD: 꽈리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17536
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -30,13 +30,13 @@ imported:
     표제어: 꽈리
     품사: 명사
     항목ID: 17536
-processed:
+result:
   맞춤법 검사:
     표제어: 꽈리
     품사: 명사
 ---
 000_KEYWORD: 꽈리고추__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -46,13 +46,13 @@ imported:
     표제어: 꽈리고추
     품사: 명사:보통:비서술성
     항목ID: 4558
-processed:
+result:
   맞춤법 검사:
     표제어: 꽈리고추
     품사: 명사
 ---
 000_KEYWORD: 꽈배기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17537
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -93,13 +93,13 @@ imported:
     표제어: 꽈배기
     품사: 명사
     항목ID: 17537
-processed:
+result:
   맞춤법 검사:
     표제어: 꽈배기
     품사: 명사
 ---
 000_KEYWORD: 꽉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14647
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -152,13 +152,13 @@ imported:
     표제어: 꽉
     품사: 부사
     항목ID: 14647
-processed:
+result:
   맞춤법 검사:
     표제어: 꽉
     품사: 부사
 ---
 000_KEYWORD: 꽉꽉__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38280
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -196,13 +196,13 @@ imported:
     표제어: 꽉꽉
     품사: 부사
     항목ID: 38280
-processed:
+result:
   맞춤법 검사:
     표제어: 꽉꽉
     품사: 부사
 ---
 000_KEYWORD: 꽝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17540
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -237,13 +237,13 @@ imported:
     표제어: 꽝
     품사: 명사
     항목ID: 17540
-processed:
+result:
   맞춤법 검사:
     표제어: 꽝
     품사: 명사
 ---
 000_KEYWORD: 꽝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38267
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -291,13 +291,13 @@ imported:
     표제어: 꽝
     품사: 부사
     항목ID: 38267
-processed:
+result:
   맞춤법 검사:
     표제어: 꽝
     품사: 부사
 ---
 000_KEYWORD: 꽝꽝__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38265
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -357,13 +357,13 @@ imported:
     표제어: 꽝꽝
     품사: 부사
     항목ID: 38265
-processed:
+result:
   맞춤법 검사:
     표제어: 꽝꽝
     품사: 부사
 ---
 000_KEYWORD: 꽝꽝거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89856
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -414,13 +414,13 @@ imported:
     표제어: 꽝꽝거리다
     품사: 동사
     항목ID: 89856
-processed:
+result:
   맞춤법 검사:
     표제어: 꽝꽝거리다
     품사: 동사
 ---
 000_KEYWORD: 꽝꽝대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89857
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -469,7 +469,7 @@ imported:
     표제어: 꽝꽝대다
     품사: 동사
     항목ID: 89857
-processed:
+result:
   맞춤법 검사:
     표제어: 꽝꽝대다
     품사: 동사

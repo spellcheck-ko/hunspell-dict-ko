@@ -1,5 +1,5 @@
 000_KEYWORD: -회__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88501
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -55,11 +55,11 @@ imported:
     표제어: -회
     품사: 접사
     항목ID: 88501
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87810
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -94,13 +94,13 @@ imported:
     표제어: 회
     품사: 명사
     항목ID: 87810
-processed:
+result:
   맞춤법 검사:
     표제어: 회
     품사: 명사
 ---
 000_KEYWORD: 회__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73241
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -136,13 +136,13 @@ imported:
     표제어: 회
     품사: 의존 명사
     항목ID: 73241
-processed:
+result:
   맞춤법 검사:
     표제어: 회
     품사: 의존 명사
 ---
 000_KEYWORD: 회갑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87811
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -200,13 +200,13 @@ imported:
     - 발음: 훼감만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/87811_hwegamman.wav
       형태: 회갑만
-processed:
+result:
   맞춤법 검사:
     표제어: 회갑
     품사: 명사
 ---
 000_KEYWORD: 회갑연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87812
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -247,13 +247,13 @@ imported:
     표제어: 회갑연
     품사: 명사
     항목ID: 87812
-processed:
+result:
   맞춤법 검사:
     표제어: 회갑연
     품사: 명사
 ---
 000_KEYWORD: 회개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87813
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -284,13 +284,13 @@ imported:
     표제어: 회개
     품사: 명사
     항목ID: 87813
-processed:
+result:
   맞춤법 검사:
     표제어: 회개
     품사: 명사
 ---
 000_KEYWORD: 회개하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87814
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -323,13 +323,13 @@ imported:
     표제어: 회개하다
     품사: 동사
     항목ID: 87814
-processed:
+result:
   맞춤법 검사:
     표제어: 회개하다
     품사: 동사
 ---
 000_KEYWORD: 회견__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88153
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -362,13 +362,13 @@ imported:
     표제어: 회견
     품사: 명사
     항목ID: 88153
-processed:
+result:
   맞춤법 검사:
     표제어: 회견
     품사: 명사
 ---
 000_KEYWORD: 회견장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -377,13 +377,13 @@ imported:
     표제어: 회견장
     품사: 명사:보통:비서술성
     항목ID: 31241
-processed:
+result:
   맞춤법 검사:
     표제어: 회견장
     품사: 명사
 ---
 000_KEYWORD: 회견하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88154
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -414,13 +414,13 @@ imported:
     표제어: 회견하다
     품사: 동사
     항목ID: 88154
-processed:
+result:
   맞춤법 검사:
     표제어: 회견하다
     품사: 동사
 ---
 000_KEYWORD: 회계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88155
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -485,13 +485,13 @@ imported:
     표제어: 회계
     품사: 명사
     항목ID: 88155
-processed:
+result:
   맞춤법 검사:
     표제어: 회계
     품사: 명사
 ---
 000_KEYWORD: 회계사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88157
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -523,13 +523,13 @@ imported:
     표제어: 회계사
     품사: 명사
     항목ID: 88157
-processed:
+result:
   맞춤법 검사:
     표제어: 회계사
     품사: 명사
 ---
 000_KEYWORD: 회계하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88156
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -582,13 +582,13 @@ imported:
     표제어: 회계하다
     품사: 동사
     항목ID: 88156
-processed:
+result:
   맞춤법 검사:
     표제어: 회계하다
     품사: 동사
 ---
 000_KEYWORD: 회고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88158
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -617,13 +617,13 @@ imported:
     표제어: 회고
     품사: 명사
     항목ID: 88158
-processed:
+result:
   맞춤법 검사:
     표제어: 회고
     품사: 명사
 ---
 000_KEYWORD: 회고담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88162
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -653,13 +653,13 @@ imported:
     표제어: 회고담
     품사: 명사
     항목ID: 88162
-processed:
+result:
   맞춤법 검사:
     표제어: 회고담
     품사: 명사
 ---
 000_KEYWORD: 회고되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88160
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -689,13 +689,13 @@ imported:
     표제어: 회고되다
     품사: 동사
     항목ID: 88160
-processed:
+result:
   맞춤법 검사:
     표제어: 회고되다
     품사: 동사
 ---
 000_KEYWORD: 회고록__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88161
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -744,13 +744,13 @@ imported:
     - 발음: 훼고롱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/88161_hwegorongman.wav
       형태: 회고록만
-processed:
+result:
   맞춤법 검사:
     표제어: 회고록
     품사: 명사
 ---
 000_KEYWORD: 회고하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88159
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -781,13 +781,13 @@ imported:
     표제어: 회고하다
     품사: 동사
     항목ID: 88159
-processed:
+result:
   맞춤법 검사:
     표제어: 회고하다
     품사: 동사
 ---
 000_KEYWORD: 회관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88114
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -821,13 +821,13 @@ imported:
     표제어: 회관
     품사: 명사
     항목ID: 88114
-processed:
+result:
   맞춤법 검사:
     표제어: 회관
     품사: 명사
 ---
 000_KEYWORD: 회교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88115
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -861,13 +861,13 @@ imported:
     표제어: 회교
     품사: 명사
     항목ID: 88115
-processed:
+result:
   맞춤법 검사:
     표제어: 회교
     품사: 명사
 ---
 000_KEYWORD: 회군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88116
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -897,13 +897,13 @@ imported:
     표제어: 회군
     품사: 명사
     항목ID: 88116
-processed:
+result:
   맞춤법 검사:
     표제어: 회군
     품사: 명사
 ---
 000_KEYWORD: 회군하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88117
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -934,13 +934,13 @@ imported:
     표제어: 회군하다
     품사: 동사
     항목ID: 88117
-processed:
+result:
   맞춤법 검사:
     표제어: 회군하다
     품사: 동사
 ---
 000_KEYWORD: 회귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88118
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -971,13 +971,13 @@ imported:
     표제어: 회귀
     품사: 명사
     항목ID: 88118
-processed:
+result:
   맞춤법 검사:
     표제어: 회귀
     품사: 명사
 ---
 000_KEYWORD: 회귀되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88120
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1008,13 +1008,13 @@ imported:
     표제어: 회귀되다
     품사: 동사
     항목ID: 88120
-processed:
+result:
   맞춤법 검사:
     표제어: 회귀되다
     품사: 동사
 ---
 000_KEYWORD: 회귀선__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1023,13 +1023,13 @@ imported:
     표제어: 회귀선
     품사: 명사:보통:서술성
     항목ID: 31250
-processed:
+result:
   맞춤법 검사:
     표제어: 회귀선
     품사: 명사
 ---
 000_KEYWORD: 회귀하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88119
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1060,13 +1060,13 @@ imported:
     표제어: 회귀하다
     품사: 동사
     항목ID: 88119
-processed:
+result:
   맞춤법 검사:
     표제어: 회귀하다
     품사: 동사
 ---
 000_KEYWORD: 회기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88121
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1096,13 +1096,13 @@ imported:
     표제어: 회기
     품사: 명사
     항목ID: 88121
-processed:
+result:
   맞춤법 검사:
     표제어: 회기
     품사: 명사
 ---
 000_KEYWORD: 회담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88122
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1139,13 +1139,13 @@ imported:
     표제어: 회담
     품사: 명사
     항목ID: 88122
-processed:
+result:
   맞춤법 검사:
     표제어: 회담
     품사: 명사
 ---
 000_KEYWORD: 회담장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1154,13 +1154,13 @@ imported:
     표제어: 회담장
     품사: 명사:보통:비서술성
     항목ID: 31254
-processed:
+result:
   맞춤법 검사:
     표제어: 회담장
     품사: 명사
 ---
 000_KEYWORD: 회담하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88123
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1192,13 +1192,13 @@ imported:
     표제어: 회담하다
     품사: 동사
     항목ID: 88123
-processed:
+result:
   맞춤법 검사:
     표제어: 회담하다
     품사: 동사
 ---
 000_KEYWORD: 회답__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88124
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1251,13 +1251,13 @@ imported:
     - 발음: 훼담만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/88124_hwedamman.wav
       형태: 회답만
-processed:
+result:
   맞춤법 검사:
     표제어: 회답
     품사: 명사
 ---
 000_KEYWORD: 회답하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88125
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1292,13 +1292,13 @@ imported:
     표제어: 회답하다
     품사: 동사
     항목ID: 88125
-processed:
+result:
   맞춤법 검사:
     표제어: 회답하다
     품사: 동사
 ---
 000_KEYWORD: 회동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88127
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1329,13 +1329,13 @@ imported:
     표제어: 회동
     품사: 명사
     항목ID: 88127
-processed:
+result:
   맞춤법 검사:
     표제어: 회동
     품사: 명사
 ---
 000_KEYWORD: 회동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88128
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1367,13 +1367,13 @@ imported:
     표제어: 회동하다
     품사: 동사
     항목ID: 88128
-processed:
+result:
   맞춤법 검사:
     표제어: 회동하다
     품사: 동사
 ---
 000_KEYWORD: 회람하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1383,13 +1383,13 @@ imported:
     표제어: 회람하다
     품사: 동사
     항목ID: 31259
-processed:
+result:
   맞춤법 검사:
     표제어: 회람하다
     품사: 동사
 ---
 000_KEYWORD: 회로__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1399,13 +1399,13 @@ imported:
     표제어: 회로
     품사: 명사:보통:비서술성
     항목ID: 31260
-processed:
+result:
   맞춤법 검사:
     표제어: 회로
     품사: 명사
 ---
 000_KEYWORD: 회로도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1415,13 +1415,13 @@ imported:
     표제어: 회로도
     품사: 명사:보통:비서술성
     항목ID: 31261
-processed:
+result:
   맞춤법 검사:
     표제어: 회로도
     품사: 명사
 ---
 000_KEYWORD: 회보__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88129
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1451,13 +1451,13 @@ imported:
     표제어: 회보
     품사: 명사
     항목ID: 88129
-processed:
+result:
   맞춤법 검사:
     표제어: 회보
     품사: 명사
 ---
 000_KEYWORD: 회복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86927
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1521,13 +1521,13 @@ imported:
     - 발음: 훼봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/86927_hwebongman.wav
       형태: 회복만
-processed:
+result:
   맞춤법 검사:
     표제어: 회복
     품사: 명사
 ---
 000_KEYWORD: 회복기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86928
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1570,13 +1570,13 @@ imported:
     표제어: 회복기
     품사: 명사
     항목ID: 86928
-processed:
+result:
   맞춤법 검사:
     표제어: 회복기
     품사: 명사
 ---
 000_KEYWORD: 회복되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86929
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1622,13 +1622,13 @@ imported:
     표제어: 회복되다
     품사: 동사
     항목ID: 86929
-processed:
+result:
   맞춤법 검사:
     표제어: 회복되다
     품사: 동사
 ---
 000_KEYWORD: 회복세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86930
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1673,13 +1673,13 @@ imported:
     표제어: 회복세
     품사: 명사
     항목ID: 86930
-processed:
+result:
   맞춤법 검사:
     표제어: 회복세
     품사: 명사
 ---
 000_KEYWORD: 회복시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85742
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1724,13 +1724,13 @@ imported:
     표제어: 회복시키다
     품사: 동사
     항목ID: 85742
-processed:
+result:
   맞춤법 검사:
     표제어: 회복시키다
     품사: 동사
 ---
 000_KEYWORD: 회복실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86931
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1760,13 +1760,13 @@ imported:
     표제어: 회복실
     품사: 명사
     항목ID: 86931
-processed:
+result:
   맞춤법 검사:
     표제어: 회복실
     품사: 명사
 ---
 000_KEYWORD: 회복하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60170
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1812,13 +1812,13 @@ imported:
     표제어: 회복하다
     품사: 동사
     항목ID: 60170
-processed:
+result:
   맞춤법 검사:
     표제어: 회복하다
     품사: 동사
 ---
 000_KEYWORD: 회부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88130
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1848,13 +1848,13 @@ imported:
     표제어: 회부
     품사: 명사
     항목ID: 88130
-processed:
+result:
   맞춤법 검사:
     표제어: 회부
     품사: 명사
 ---
 000_KEYWORD: 회부되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88132
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1885,13 +1885,13 @@ imported:
     표제어: 회부되다
     품사: 동사
     항목ID: 88132
-processed:
+result:
   맞춤법 검사:
     표제어: 회부되다
     품사: 동사
 ---
 000_KEYWORD: 회부하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88131
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1922,13 +1922,13 @@ imported:
     표제어: 회부하다
     품사: 동사
     항목ID: 88131
-processed:
+result:
   맞춤법 검사:
     표제어: 회부하다
     품사: 동사
 ---
 000_KEYWORD: 회비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88133
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -1962,13 +1962,13 @@ imported:
     표제어: 회비
     품사: 명사
     항목ID: 88133
-processed:
+result:
   맞춤법 검사:
     표제어: 회비
     품사: 명사
 ---
 000_KEYWORD: 회사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31668
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2035,13 +2035,13 @@ imported:
     표제어: 회사
     품사: 명사
     항목ID: 31668
-processed:
+result:
   맞춤법 검사:
     표제어: 회사
     품사: 명사
 ---
 000_KEYWORD: 회사원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88134
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2078,13 +2078,13 @@ imported:
     표제어: 회사원
     품사: 명사
     항목ID: 88134
-processed:
+result:
   맞춤법 검사:
     표제어: 회사원
     품사: 명사
 ---
 000_KEYWORD: 회사채__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2093,13 +2093,13 @@ imported:
     표제어: 회사채
     품사: 명사:보통:비서술성
     항목ID: 31272
-processed:
+result:
   맞춤법 검사:
     표제어: 회사채
     품사: 명사
 ---
 000_KEYWORD: 회상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88135
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2131,13 +2131,13 @@ imported:
     표제어: 회상
     품사: 명사
     항목ID: 88135
-processed:
+result:
   맞춤법 검사:
     표제어: 회상
     품사: 명사
 ---
 000_KEYWORD: 회상되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88137
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2168,13 +2168,13 @@ imported:
     표제어: 회상되다
     품사: 동사
     항목ID: 88137
-processed:
+result:
   맞춤법 검사:
     표제어: 회상되다
     품사: 동사
 ---
 000_KEYWORD: 회상하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88136
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2206,13 +2206,13 @@ imported:
     표제어: 회상하다
     품사: 동사
     항목ID: 88136
-processed:
+result:
   맞춤법 검사:
     표제어: 회상하다
     품사: 동사
 ---
 000_KEYWORD: 회색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73242
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2282,13 +2282,13 @@ imported:
     - 발음: 훼생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/73242_hwesaengman.wav
       형태: 회색만
-processed:
+result:
   맞춤법 검사:
     표제어: 회색
     품사: 명사
 ---
 000_KEYWORD: 회색빛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88139
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2344,13 +2344,13 @@ imported:
     - 발음: 훼색삔만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/88139_hwesaekppinman.wav
       형태: 회색빛만
-processed:
+result:
   맞춤법 검사:
     표제어: 회색빛
     품사: 명사
 ---
 000_KEYWORD: 회생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86932
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2392,13 +2392,13 @@ imported:
     표제어: 회생
     품사: 명사
     항목ID: 86932
-processed:
+result:
   맞춤법 검사:
     표제어: 회생
     품사: 명사
 ---
 000_KEYWORD: 회생시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85743
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2429,13 +2429,13 @@ imported:
     표제어: 회생시키다
     품사: 동사
     항목ID: 85743
-processed:
+result:
   맞춤법 검사:
     표제어: 회생시키다
     품사: 동사
 ---
 000_KEYWORD: 회생하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86968
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2476,13 +2476,13 @@ imported:
     표제어: 회생하다
     품사: 동사
     항목ID: 86968
-processed:
+result:
   맞춤법 검사:
     표제어: 회생하다
     품사: 동사
 ---
 000_KEYWORD: 회선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88140
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2513,13 +2513,13 @@ imported:
     표제어: 회선
     품사: 명사
     항목ID: 88140
-processed:
+result:
   맞춤법 검사:
     표제어: 회선
     품사: 명사
 ---
 000_KEYWORD: 회수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88141
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2551,13 +2551,13 @@ imported:
     표제어: 회수
     품사: 명사
     항목ID: 88141
-processed:
+result:
   맞춤법 검사:
     표제어: 회수
     품사: 명사
 ---
 000_KEYWORD: 회수권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88163
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2587,13 +2587,13 @@ imported:
     표제어: 회수권
     품사: 명사
     항목ID: 88163
-processed:
+result:
   맞춤법 검사:
     표제어: 회수권
     품사: 명사
 ---
 000_KEYWORD: 회수되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88142
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2624,13 +2624,13 @@ imported:
     표제어: 회수되다
     품사: 동사
     항목ID: 88142
-processed:
+result:
   맞춤법 검사:
     표제어: 회수되다
     품사: 동사
 ---
 000_KEYWORD: 회수하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88143
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2661,13 +2661,13 @@ imported:
     표제어: 회수하다
     품사: 동사
     항목ID: 88143
-processed:
+result:
   맞춤법 검사:
     표제어: 회수하다
     품사: 동사
 ---
 000_KEYWORD: 회식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88144
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2719,13 +2719,13 @@ imported:
     - 발음: 훼ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/88144_hwe-singman.wav
       형태: 회식만
-processed:
+result:
   맞춤법 검사:
     표제어: 회식
     품사: 명사
 ---
 000_KEYWORD: 회신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88145
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2760,13 +2760,13 @@ imported:
     표제어: 회신
     품사: 명사
     항목ID: 88145
-processed:
+result:
   맞춤법 검사:
     표제어: 회신
     품사: 명사
 ---
 000_KEYWORD: 회신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88146
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2801,13 +2801,13 @@ imported:
     표제어: 회신하다
     품사: 동사
     항목ID: 88146
-processed:
+result:
   맞춤법 검사:
     표제어: 회신하다
     품사: 동사
 ---
 000_KEYWORD: 회심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88147
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2838,13 +2838,13 @@ imported:
     표제어: 회심
     품사: 명사
     항목ID: 88147
-processed:
+result:
   맞춤법 검사:
     표제어: 회심
     품사: 명사
 ---
 000_KEYWORD: 회오리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88148
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2874,13 +2874,13 @@ imported:
     표제어: 회오리
     품사: 명사
     항목ID: 88148
-processed:
+result:
   맞춤법 검사:
     표제어: 회오리
     품사: 명사
 ---
 000_KEYWORD: 회오리바람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88149
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2913,13 +2913,13 @@ imported:
     표제어: 회오리바람
     품사: 명사
     항목ID: 88149
-processed:
+result:
   맞춤법 검사:
     표제어: 회오리바람
     품사: 명사
 ---
 000_KEYWORD: 회오리치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88150
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -2965,13 +2965,13 @@ imported:
     - 발음: 훼오리치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88150_hweorichini.wav
       형태: 회오리치니
-processed:
+result:
   맞춤법 검사:
     표제어: 회오리치다
     품사: 동사
 ---
 000_KEYWORD: 회원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73243
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3002,13 +3002,13 @@ imported:
     표제어: 회원
     품사: 명사
     항목ID: 73243
-processed:
+result:
   맞춤법 검사:
     표제어: 회원
     품사: 명사
 ---
 000_KEYWORD: 회원국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88151
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3059,13 +3059,13 @@ imported:
     - 발음: 훼ː원궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/88151_hwe-wongungman.wav
       형태: 회원국만
-processed:
+result:
   맞춤법 검사:
     표제어: 회원국
     품사: 명사
 ---
 000_KEYWORD: 회원권__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88152
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3095,13 +3095,13 @@ imported:
     표제어: 회원권
     품사: 명사
     항목ID: 88152
-processed:
+result:
   맞춤법 검사:
     표제어: 회원권
     품사: 명사
 ---
 000_KEYWORD: 회유__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90021
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3132,13 +3132,13 @@ imported:
     표제어: 회유
     품사: 명사
     항목ID: 90021
-processed:
+result:
   맞춤법 검사:
     표제어: 회유
     품사: 명사
 ---
 000_KEYWORD: 회유되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90024
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3169,13 +3169,13 @@ imported:
     표제어: 회유되다
     품사: 동사
     항목ID: 90024
-processed:
+result:
   맞춤법 검사:
     표제어: 회유되다
     품사: 동사
 ---
 000_KEYWORD: 회유책__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90031
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3224,13 +3224,13 @@ imported:
     - 발음: 훼유챙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/90031_hweyuchaengman.wav
       형태: 회유책만
-processed:
+result:
   맞춤법 검사:
     표제어: 회유책
     품사: 명사
 ---
 000_KEYWORD: 회유하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90026
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3261,13 +3261,13 @@ imported:
     표제어: 회유하다
     품사: 동사
     항목ID: 90026
-processed:
+result:
   맞춤법 검사:
     표제어: 회유하다
     품사: 동사
 ---
 000_KEYWORD: 회의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73244
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3299,13 +3299,13 @@ imported:
     표제어: 회의
     품사: 명사
     항목ID: 73244
-processed:
+result:
   맞춤법 검사:
     표제어: 회의
     품사: 명사
 ---
 000_KEYWORD: 회의__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90034
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3337,13 +3337,13 @@ imported:
     표제어: 회의
     품사: 명사
     항목ID: 90034
-processed:
+result:
   맞춤법 검사:
     표제어: 회의
     품사: 명사
 ---
 000_KEYWORD: 회의감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90090
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3373,13 +3373,13 @@ imported:
     표제어: 회의감
     품사: 명사
     항목ID: 90090
-processed:
+result:
   맞춤법 검사:
     표제어: 회의감
     품사: 명사
 ---
 000_KEYWORD: 회의록__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90091
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3428,13 +3428,13 @@ imported:
     - 발음: 훼ː이롱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/90091_hwe-irongman.wav
       형태: 회의록만
-processed:
+result:
   맞춤법 검사:
     표제어: 회의록
     품사: 명사
 ---
 000_KEYWORD: 회의론__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3445,13 +3445,13 @@ imported:
     표제어: 회의론
     품사: 명사:보통:서술성
     항목ID: 31296
-processed:
+result:
   맞춤법 검사:
     표제어: 회의론
     품사: 명사
 ---
 000_KEYWORD: 회의실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90092
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3485,13 +3485,13 @@ imported:
     표제어: 회의실
     품사: 명사
     항목ID: 90092
-processed:
+result:
   맞춤법 검사:
     표제어: 회의실
     품사: 명사
 ---
 000_KEYWORD: 회의장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90093
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3526,13 +3526,13 @@ imported:
     표제어: 회의장
     품사: 명사
     항목ID: 90093
-processed:
+result:
   맞춤법 검사:
     표제어: 회의장
     품사: 명사
 ---
 000_KEYWORD: 회의적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90094
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3564,13 +3564,13 @@ imported:
     표제어: 회의적
     품사: 관형사
     항목ID: 90094
-processed:
+result:
   맞춤법 검사:
     표제어: 회의적
     품사: 관형사
 ---
 000_KEYWORD: 회의적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90095
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3602,13 +3602,13 @@ imported:
     표제어: 회의적
     품사: 명사
     항목ID: 90095
-processed:
+result:
   맞춤법 검사:
     표제어: 회의적
     품사: 명사
 ---
 000_KEYWORD: 회의주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90096
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3638,13 +3638,13 @@ imported:
     표제어: 회의주의
     품사: 명사
     항목ID: 90096
-processed:
+result:
   맞춤법 검사:
     표제어: 회의주의
     품사: 명사
 ---
 000_KEYWORD: 회의하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90097
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3676,13 +3676,13 @@ imported:
     표제어: 회의하다
     품사: 동사
     항목ID: 90097
-processed:
+result:
   맞춤법 검사:
     표제어: 회의하다
     품사: 동사
 ---
 000_KEYWORD: 회의하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90098
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3715,13 +3715,13 @@ imported:
     표제어: 회의하다
     품사: 동사
     항목ID: 90098
-processed:
+result:
   맞춤법 검사:
     표제어: 회의하다
     품사: 동사
 ---
 000_KEYWORD: 회자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90099
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3751,13 +3751,13 @@ imported:
     표제어: 회자
     품사: 명사
     항목ID: 90099
-processed:
+result:
   맞춤법 검사:
     표제어: 회자
     품사: 명사
 ---
 000_KEYWORD: 회자되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90100
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3788,13 +3788,13 @@ imported:
     표제어: 회자되다
     품사: 동사
     항목ID: 90100
-processed:
+result:
   맞춤법 검사:
     표제어: 회자되다
     품사: 동사
 ---
 000_KEYWORD: 회자정리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90102
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3824,13 +3824,13 @@ imported:
     표제어: 회자정리
     품사: 명사
     항목ID: 90102
-processed:
+result:
   맞춤법 검사:
     표제어: 회자정리
     품사: 명사
 ---
 000_KEYWORD: 회자하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90101
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3861,13 +3861,13 @@ imported:
     표제어: 회자하다
     품사: 동사
     항목ID: 90101
-processed:
+result:
   맞춤법 검사:
     표제어: 회자하다
     품사: 동사
 ---
 000_KEYWORD: 회장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62408
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3914,13 +3914,13 @@ imported:
     표제어: 회장
     품사: 명사
     항목ID: 62408
-processed:
+result:
   맞춤법 검사:
     표제어: 회장
     품사: 명사
 ---
 000_KEYWORD: 회장__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90103
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -3968,13 +3968,13 @@ imported:
     표제어: 회장
     품사: 명사
     항목ID: 90103
-processed:
+result:
   맞춤법 검사:
     표제어: 회장
     품사: 명사
 ---
 000_KEYWORD: 회장님__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3983,13 +3983,13 @@ imported:
     표제어: 회장님
     품사: 명사:보통:비서술성
     항목ID: 31306
-processed:
+result:
   맞춤법 검사:
     표제어: 회장님
     품사: 명사
 ---
 000_KEYWORD: 회장단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90104
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4019,13 +4019,13 @@ imported:
     표제어: 회장단
     품사: 명사
     항목ID: 90104
-processed:
+result:
   맞춤법 검사:
     표제어: 회장단
     품사: 명사
 ---
 000_KEYWORD: 회적화하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4034,13 +4034,13 @@ imported:
     표제어: 회적화하다
     품사: 동사
     항목ID: 31307
-processed:
+result:
   맞춤법 검사:
     표제어: 회적화하다
     품사: 동사
 ---
 000_KEYWORD: 회전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86969
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4109,13 +4109,13 @@ imported:
     표제어: 회전
     품사: 명사
     항목ID: 86969
-processed:
+result:
   맞춤법 검사:
     표제어: 회전
     품사: 명사
 ---
 000_KEYWORD: 회전되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86970
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4174,13 +4174,13 @@ imported:
     표제어: 회전되다
     품사: 동사
     항목ID: 86970
-processed:
+result:
   맞춤법 검사:
     표제어: 회전되다
     품사: 동사
 ---
 000_KEYWORD: 회전목마__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86971
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4213,13 +4213,13 @@ imported:
     표제어: 회전목마
     품사: 명사
     항목ID: 86971
-processed:
+result:
   맞춤법 검사:
     표제어: 회전목마
     품사: 명사
 ---
 000_KEYWORD: 회전수__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4229,13 +4229,13 @@ imported:
     표제어: 회전수
     품사: 명사:보통:서술성
     항목ID: 31310
-processed:
+result:
   맞춤법 검사:
     표제어: 회전수
     품사: 명사
 ---
 000_KEYWORD: 회전시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85744
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4308,13 +4308,13 @@ imported:
     표제어: 회전시키다
     품사: 동사
     항목ID: 85744
-processed:
+result:
   맞춤법 검사:
     표제어: 회전시키다
     품사: 동사
 ---
 000_KEYWORD: 회전의자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86972
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4347,13 +4347,13 @@ imported:
     표제어: 회전의자
     품사: 명사
     항목ID: 86972
-processed:
+result:
   맞춤법 검사:
     표제어: 회전의자
     품사: 명사
 ---
 000_KEYWORD: 회전축__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4363,13 +4363,13 @@ imported:
     표제어: 회전축
     품사: 명사:보통:비서술성
     항목ID: 31311
-processed:
+result:
   맞춤법 검사:
     표제어: 회전축
     품사: 명사
 ---
 000_KEYWORD: 회전하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87052
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4442,13 +4442,13 @@ imported:
     표제어: 회전하다
     품사: 동사
     항목ID: 87052
-processed:
+result:
   맞춤법 검사:
     표제어: 회전하다
     품사: 동사
 ---
 000_KEYWORD: 회중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90105
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4479,13 +4479,13 @@ imported:
     표제어: 회중
     품사: 명사
     항목ID: 90105
-processed:
+result:
   맞춤법 검사:
     표제어: 회중
     품사: 명사
 ---
 000_KEYWORD: 회중시계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90074
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4518,13 +4518,13 @@ imported:
     표제어: 회중시계
     품사: 명사
     항목ID: 90074
-processed:
+result:
   맞춤법 검사:
     표제어: 회중시계
     품사: 명사
 ---
 000_KEYWORD: 회중전등__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90075
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4564,13 +4564,13 @@ imported:
     표제어: 회중전등
     품사: 명사
     항목ID: 90075
-processed:
+result:
   맞춤법 검사:
     표제어: 회중전등
     품사: 명사
 ---
 000_KEYWORD: 회진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90076
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4600,13 +4600,13 @@ imported:
     표제어: 회진
     품사: 명사
     항목ID: 90076
-processed:
+result:
   맞춤법 검사:
     표제어: 회진
     품사: 명사
 ---
 000_KEYWORD: 회진하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90077
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4638,13 +4638,13 @@ imported:
     표제어: 회진하다
     품사: 동사
     항목ID: 90077
-processed:
+result:
   맞춤법 검사:
     표제어: 회진하다
     품사: 동사
 ---
 000_KEYWORD: 회초리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90078
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4673,13 +4673,13 @@ imported:
     표제어: 회초리
     품사: 명사
     항목ID: 90078
-processed:
+result:
   맞춤법 검사:
     표제어: 회초리
     품사: 명사
 ---
 000_KEYWORD: 회충__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90079
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4712,13 +4712,13 @@ imported:
     표제어: 회충
     품사: 명사
     항목ID: 90079
-processed:
+result:
   맞춤법 검사:
     표제어: 회충
     품사: 명사
 ---
 000_KEYWORD: 회충약__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4728,13 +4728,13 @@ imported:
     표제어: 회충약
     품사: 명사:보통:비서술성
     항목ID: 31316
-processed:
+result:
   맞춤법 검사:
     표제어: 회충약
     품사: 명사
 ---
 000_KEYWORD: 회칙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90080
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4783,13 +4783,13 @@ imported:
     - 발음: 훼ː칭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/90080_hwe-chingman.wav
       형태: 회칙만
-processed:
+result:
   맞춤법 검사:
     표제어: 회칙
     품사: 명사
 ---
 000_KEYWORD: 회칠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90081
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4819,13 +4819,13 @@ imported:
     표제어: 회칠
     품사: 명사
     항목ID: 90081
-processed:
+result:
   맞춤법 검사:
     표제어: 회칠
     품사: 명사
 ---
 000_KEYWORD: 회칠하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90082
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4856,13 +4856,13 @@ imported:
     표제어: 회칠하다
     품사: 동사
     항목ID: 90082
-processed:
+result:
   맞춤법 검사:
     표제어: 회칠하다
     품사: 동사
 ---
 000_KEYWORD: 회포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90083
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4892,13 +4892,13 @@ imported:
     표제어: 회포
     품사: 명사
     항목ID: 90083
-processed:
+result:
   맞춤법 검사:
     표제어: 회포
     품사: 명사
 ---
 000_KEYWORD: 회피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90084
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -4955,13 +4955,13 @@ imported:
     표제어: 회피
     품사: 명사
     항목ID: 90084
-processed:
+result:
   맞춤법 검사:
     표제어: 회피
     품사: 명사
 ---
 000_KEYWORD: 회피하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90085
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5021,13 +5021,13 @@ imported:
     표제어: 회피하다
     품사: 동사
     항목ID: 90085
-processed:
+result:
   맞춤법 검사:
     표제어: 회피하다
     품사: 동사
 ---
 000_KEYWORD: 회한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90086
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5058,13 +5058,13 @@ imported:
     표제어: 회한
     품사: 명사
     항목ID: 90086
-processed:
+result:
   맞춤법 검사:
     표제어: 회한
     품사: 명사
 ---
 000_KEYWORD: 회한하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90087
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5095,13 +5095,13 @@ imported:
     표제어: 회한하다
     품사: 동사
     항목ID: 90087
-processed:
+result:
   맞춤법 검사:
     표제어: 회한하다
     품사: 동사
 ---
 000_KEYWORD: 회합__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90088
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5150,13 +5150,13 @@ imported:
     - 발음: 훼ː함만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/90088_hwe-hamman.wav
       형태: 회합만
-processed:
+result:
   맞춤법 검사:
     표제어: 회합
     품사: 명사
 ---
 000_KEYWORD: 회합하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90089
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5188,13 +5188,13 @@ imported:
     표제어: 회합하다
     품사: 동사
     항목ID: 90089
-processed:
+result:
   맞춤법 검사:
     표제어: 회합하다
     품사: 동사
 ---
 000_KEYWORD: 회항__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90603
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5250,13 +5250,13 @@ imported:
     표제어: 회항
     품사: 명사
     항목ID: 90603
-processed:
+result:
   맞춤법 검사:
     표제어: 회항
     품사: 명사
 ---
 000_KEYWORD: 회항하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90604
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5315,13 +5315,13 @@ imported:
     표제어: 회항하다
     품사: 동사
     항목ID: 90604
-processed:
+result:
   맞춤법 검사:
     표제어: 회항하다
     품사: 동사
 ---
 000_KEYWORD: 회화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90605
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5366,13 +5366,13 @@ imported:
     표제어: 회화
     품사: 명사
     항목ID: 90605
-processed:
+result:
   맞춤법 검사:
     표제어: 회화
     품사: 명사
 ---
 000_KEYWORD: 회화__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73245
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5402,13 +5402,13 @@ imported:
     표제어: 회화
     품사: 명사
     항목ID: 73245
-processed:
+result:
   맞춤법 검사:
     표제어: 회화
     품사: 명사
 ---
 000_KEYWORD: 회화나무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5418,13 +5418,13 @@ imported:
     표제어: 회화나무
     품사: 명사:보통:비서술성
     항목ID: 31324
-processed:
+result:
   맞춤법 검사:
     표제어: 회화나무
     품사: 명사
 ---
 000_KEYWORD: 회화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90606
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5471,13 +5471,13 @@ imported:
     표제어: 회화하다
     품사: 동사
     항목ID: 90606
-processed:
+result:
   맞춤법 검사:
     표제어: 회화하다
     품사: 동사
 ---
 000_KEYWORD: 획__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90608
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5539,13 +5539,13 @@ imported:
     - 발음: 휑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/90607_hwengman.wav
       형태: 획만
-processed:
+result:
   맞춤법 검사:
     표제어: 획
     품사: 명사
 ---
 000_KEYWORD: 획__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90607
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5623,13 +5623,13 @@ imported:
     표제어: 획
     품사: 부사
     항목ID: 90607
-processed:
+result:
   맞춤법 검사:
     표제어: 획
     품사: 부사
 ---
 000_KEYWORD: 획__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5638,13 +5638,13 @@ imported:
     표제어: 획
     품사: 명사:의존:단위성
     항목ID: 32172
-processed:
+result:
   맞춤법 검사:
     표제어: 획
     품사: 명사
 ---
 000_KEYWORD: 획기적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93427
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5674,13 +5674,13 @@ imported:
     표제어: 획기적
     품사: 관형사
     항목ID: 93427
-processed:
+result:
   맞춤법 검사:
     표제어: 획기적
     품사: 관형사
 ---
 000_KEYWORD: 획기적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93426
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5710,13 +5710,13 @@ imported:
     표제어: 획기적
     품사: 명사
     항목ID: 93426
-processed:
+result:
   맞춤법 검사:
     표제어: 획기적
     품사: 명사
 ---
 000_KEYWORD: 획득__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90609
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5767,13 +5767,13 @@ imported:
     - 발음: 훽뜽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90609_hwektteungman.wav
       형태: 획득만
-processed:
+result:
   맞춤법 검사:
     표제어: 획득
     품사: 명사
 ---
 000_KEYWORD: 획득되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90610
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5805,13 +5805,13 @@ imported:
     표제어: 획득되다
     품사: 동사
     항목ID: 90610
-processed:
+result:
   맞춤법 검사:
     표제어: 획득되다
     품사: 동사
 ---
 000_KEYWORD: 획득하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90611
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5844,13 +5844,13 @@ imported:
     표제어: 획득하다
     품사: 동사
     항목ID: 90611
-processed:
+result:
   맞춤법 검사:
     표제어: 획득하다
     품사: 동사
 ---
 000_KEYWORD: 획수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90612
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5879,13 +5879,13 @@ imported:
     표제어: 획수
     품사: 명사
     항목ID: 90612
-processed:
+result:
   맞춤법 검사:
     표제어: 획수
     품사: 명사
 ---
 000_KEYWORD: 획일적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90613
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5916,13 +5916,13 @@ imported:
     표제어: 획일적
     품사: 관형사
     항목ID: 90613
-processed:
+result:
   맞춤법 검사:
     표제어: 획일적
     품사: 관형사
 ---
 000_KEYWORD: 획일적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90614
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5953,13 +5953,13 @@ imported:
     표제어: 획일적
     품사: 명사
     항목ID: 90614
-processed:
+result:
   맞춤법 검사:
     표제어: 획일적
     품사: 명사
 ---
 000_KEYWORD: 획일주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90615
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -5990,13 +5990,13 @@ imported:
     표제어: 획일주의
     품사: 명사
     항목ID: 90615
-processed:
+result:
   맞춤법 검사:
     표제어: 획일주의
     품사: 명사
 ---
 000_KEYWORD: 획일화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89064
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6026,13 +6026,13 @@ imported:
     표제어: 획일화
     품사: 명사
     항목ID: 89064
-processed:
+result:
   맞춤법 검사:
     표제어: 획일화
     품사: 명사
 ---
 000_KEYWORD: 획일화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89066
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6063,13 +6063,13 @@ imported:
     표제어: 획일화되다
     품사: 동사
     항목ID: 89066
-processed:
+result:
   맞춤법 검사:
     표제어: 획일화되다
     품사: 동사
 ---
 000_KEYWORD: 획일화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89067
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6100,13 +6100,13 @@ imported:
     표제어: 획일화하다
     품사: 동사
     항목ID: 89067
-processed:
+result:
   맞춤법 검사:
     표제어: 획일화하다
     품사: 동사
 ---
 000_KEYWORD: 획정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89068
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6137,13 +6137,13 @@ imported:
     표제어: 획정
     품사: 명사
     항목ID: 89068
-processed:
+result:
   맞춤법 검사:
     표제어: 획정
     품사: 명사
 ---
 000_KEYWORD: 획정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89069
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6174,13 +6174,13 @@ imported:
     표제어: 획정되다
     품사: 동사
     항목ID: 89069
-processed:
+result:
   맞춤법 검사:
     표제어: 획정되다
     품사: 동사
 ---
 000_KEYWORD: 획정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89070
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6211,13 +6211,13 @@ imported:
     표제어: 획정하다
     품사: 동사
     항목ID: 89070
-processed:
+result:
   맞춤법 검사:
     표제어: 획정하다
     품사: 동사
 ---
 000_KEYWORD: 획책__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89370
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6268,13 +6268,13 @@ imported:
     - 발음: 훽챙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/89370_hwekchaengman.wav
       형태: 획책만
-processed:
+result:
   맞춤법 검사:
     표제어: 획책
     품사: 명사
 ---
 000_KEYWORD: 횟가루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89371
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6304,13 +6304,13 @@ imported:
     표제어: 횟가루
     품사: 명사
     항목ID: 89371
-processed:
+result:
   맞춤법 검사:
     표제어: 횟가루
     품사: 명사
 ---
 000_KEYWORD: 횟감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89372
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6341,13 +6341,13 @@ imported:
     표제어: 횟감
     품사: 명사
     항목ID: 89372
-processed:
+result:
   맞춤법 검사:
     표제어: 횟감
     품사: 명사
 ---
 000_KEYWORD: 횟수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89373
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6378,13 +6378,13 @@ imported:
     표제어: 횟수
     품사: 명사
     항목ID: 89373
-processed:
+result:
   맞춤법 검사:
     표제어: 횟수
     품사: 명사
 ---
 000_KEYWORD: 횟집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89374
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6433,13 +6433,13 @@ imported:
     - 발음: 휃ː찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/89374_hwed-jjimman.wav
       형태: 횟집만
-processed:
+result:
   맞춤법 검사:
     표제어: 횟집
     품사: 명사
 ---
 000_KEYWORD: 횡__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89409
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6501,13 +6501,13 @@ imported:
     표제어: 횡
     품사: 부사
     항목ID: 89409
-processed:
+result:
   맞춤법 검사:
     표제어: 횡
     품사: 부사
 ---
 000_KEYWORD: 횡격막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89367
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6555,13 +6555,13 @@ imported:
     - 발음: 휑경망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/89367_hwenggyeongmangman.wav
       형태: 횡격막만
-processed:
+result:
   맞춤법 검사:
     표제어: 횡격막
     품사: 명사
 ---
 000_KEYWORD: 횡단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89512
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6622,13 +6622,13 @@ imported:
     표제어: 횡단
     품사: 명사
     항목ID: 89512
-processed:
+result:
   맞춤법 검사:
     표제어: 횡단
     품사: 명사
 ---
 000_KEYWORD: 횡단로__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89368
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6667,13 +6667,13 @@ imported:
     표제어: 횡단로
     품사: 명사
     항목ID: 89368
-processed:
+result:
   맞춤법 검사:
     표제어: 횡단로
     품사: 명사
 ---
 000_KEYWORD: 횡단면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89369
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6702,13 +6702,13 @@ imported:
     표제어: 횡단면
     품사: 명사
     항목ID: 89369
-processed:
+result:
   맞춤법 검사:
     표제어: 횡단면
     품사: 명사
 ---
 000_KEYWORD: 횡단보도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73246
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6749,13 +6749,13 @@ imported:
     표제어: 횡단보도
     품사: 명사
     항목ID: 73246
-processed:
+result:
   맞춤법 검사:
     표제어: 횡단보도
     품사: 명사
 ---
 000_KEYWORD: 횡단하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89513
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6810,13 +6810,13 @@ imported:
     표제어: 횡단하다
     품사: 동사
     항목ID: 89513
-processed:
+result:
   맞춤법 검사:
     표제어: 횡단하다
     품사: 동사
 ---
 000_KEYWORD: 횡대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89514
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6850,13 +6850,13 @@ imported:
     표제어: 횡대
     품사: 명사
     항목ID: 89514
-processed:
+result:
   맞춤법 검사:
     표제어: 횡대
     품사: 명사
 ---
 000_KEYWORD: 횡령__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89097
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6888,13 +6888,13 @@ imported:
     표제어: 횡령
     품사: 명사
     항목ID: 89097
-processed:
+result:
   맞춤법 검사:
     표제어: 횡령
     품사: 명사
 ---
 000_KEYWORD: 횡령되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89098
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6925,13 +6925,13 @@ imported:
     표제어: 횡령되다
     품사: 동사
     항목ID: 89098
-processed:
+result:
   맞춤법 검사:
     표제어: 횡령되다
     품사: 동사
 ---
 000_KEYWORD: 횡령하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89099
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -6961,13 +6961,13 @@ imported:
     표제어: 횡령하다
     품사: 동사
     항목ID: 89099
-processed:
+result:
   맞춤법 검사:
     표제어: 횡령하다
     품사: 동사
 ---
 000_KEYWORD: 횡사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89407
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7000,13 +7000,13 @@ imported:
     표제어: 횡사
     품사: 명사
     항목ID: 89407
-processed:
+result:
   맞춤법 검사:
     표제어: 횡사
     품사: 명사
 ---
 000_KEYWORD: 횡사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89408
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7037,13 +7037,13 @@ imported:
     표제어: 횡사하다
     품사: 동사
     항목ID: 89408
-processed:
+result:
   맞춤법 검사:
     표제어: 횡사하다
     품사: 동사
 ---
 000_KEYWORD: 횡설수설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89100
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7075,13 +7075,13 @@ imported:
     표제어: 횡설수설
     품사: 명사
     항목ID: 89100
-processed:
+result:
   맞춤법 검사:
     표제어: 횡설수설
     품사: 명사
 ---
 000_KEYWORD: 횡설수설하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89101
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7112,13 +7112,13 @@ imported:
     표제어: 횡설수설하다
     품사: 동사
     항목ID: 89101
-processed:
+result:
   맞춤법 검사:
     표제어: 횡설수설하다
     품사: 동사
 ---
 000_KEYWORD: 횡액__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89106
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7168,13 +7168,13 @@ imported:
     - 발음: 휑앵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/89106_hwengaengman.wav
       형태: 횡액만
-processed:
+result:
   맞춤법 검사:
     표제어: 횡액
     품사: 명사
 ---
 000_KEYWORD: 횡재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89104
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7204,13 +7204,13 @@ imported:
     표제어: 횡재
     품사: 명사
     항목ID: 89104
-processed:
+result:
   맞춤법 검사:
     표제어: 횡재
     품사: 명사
 ---
 000_KEYWORD: 횡재하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89105
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7240,13 +7240,13 @@ imported:
     표제어: 횡재하다
     품사: 동사
     항목ID: 89105
-processed:
+result:
   맞춤법 검사:
     표제어: 횡재하다
     품사: 동사
 ---
 000_KEYWORD: 횡적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89102
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7280,13 +7280,13 @@ imported:
     표제어: 횡적
     품사: 관형사
     항목ID: 89102
-processed:
+result:
   맞춤법 검사:
     표제어: 횡적
     품사: 관형사
 ---
 000_KEYWORD: 횡적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89103
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7320,13 +7320,13 @@ imported:
     표제어: 횡적
     품사: 명사
     항목ID: 89103
-processed:
+result:
   맞춤법 검사:
     표제어: 횡적
     품사: 명사
 ---
 000_KEYWORD: 횡포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89092
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7355,13 +7355,13 @@ imported:
     표제어: 횡포
     품사: 명사
     항목ID: 89092
-processed:
+result:
   맞춤법 검사:
     표제어: 횡포
     품사: 명사
 ---
 000_KEYWORD: 횡포하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89093
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7410,13 +7410,13 @@ imported:
       형태: 횡포합니다
     - 발음: 휑포함니다
       형태: 횡포합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 횡포하다
     품사: 형용사
 ---
 000_KEYWORD: 횡행__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89094
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7444,13 +7444,13 @@ imported:
     표제어: 횡행
     품사: 명사
     항목ID: 89094
-processed:
+result:
   맞춤법 검사:
     표제어: 횡행
     품사: 명사
 ---
 000_KEYWORD: 횡행하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89095
     가져온 시각: '2019-08-13T02:13:16+09:00'
@@ -7501,7 +7501,7 @@ imported:
       형태: 횡행합니다
     - 발음: 휑행함니다
       형태: 횡행합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 횡행하다
     품사: 동사

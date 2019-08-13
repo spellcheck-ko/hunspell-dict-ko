@@ -1,5 +1,5 @@
 000_KEYWORD: -층__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73133
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -67,11 +67,11 @@ imported:
     표제어: -층
     품사: 접사
     항목ID: 73133
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 측__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -80,13 +80,13 @@ imported:
     표제어: 측
     품사: 명사:보통:서술성
     항목ID: 27095
-processed:
+result:
   맞춤법 검사:
     표제어: 측
     품사: 명사
 ---
 000_KEYWORD: 측__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79012
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -123,13 +123,13 @@ imported:
     - 발음: 층만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/79012_cheungman.wav
       형태: 측만
-processed:
+result:
   맞춤법 검사:
     표제어: 측
     품사: 의존 명사
 ---
 000_KEYWORD: 측간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79013
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -162,13 +162,13 @@ imported:
     표제어: 측간
     품사: 명사
     항목ID: 79013
-processed:
+result:
   맞춤법 검사:
     표제어: 측간
     품사: 명사
 ---
 000_KEYWORD: 측근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79014
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -210,13 +210,13 @@ imported:
     표제어: 측근
     품사: 명사
     항목ID: 79014
-processed:
+result:
   맞춤법 검사:
     표제어: 측근
     품사: 명사
 ---
 000_KEYWORD: 측근자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79015
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -257,13 +257,13 @@ imported:
     표제어: 측근자
     품사: 명사
     항목ID: 79015
-processed:
+result:
   맞춤법 검사:
     표제어: 측근자
     품사: 명사
 ---
 000_KEYWORD: 측량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79016
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -317,13 +317,13 @@ imported:
     표제어: 측량
     품사: 명사
     항목ID: 79016
-processed:
+result:
   맞춤법 검사:
     표제어: 측량
     품사: 명사
 ---
 000_KEYWORD: 측량되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79017
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -386,13 +386,13 @@ imported:
     표제어: 측량되다
     품사: 동사
     항목ID: 79017
-processed:
+result:
   맞춤법 검사:
     표제어: 측량되다
     품사: 동사
 ---
 000_KEYWORD: 측량하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79018
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -443,13 +443,13 @@ imported:
     표제어: 측량하다
     품사: 동사
     항목ID: 79018
-processed:
+result:
   맞춤법 검사:
     표제어: 측량하다
     품사: 동사
 ---
 000_KEYWORD: 측면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79019
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -495,13 +495,13 @@ imported:
     표제어: 측면
     품사: 명사
     항목ID: 79019
-processed:
+result:
   맞춤법 검사:
     표제어: 측면
     품사: 명사
 ---
 000_KEYWORD: 측면도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79020
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -530,13 +530,13 @@ imported:
     표제어: 측면도
     품사: 명사
     항목ID: 79020
-processed:
+result:
   맞춤법 검사:
     표제어: 측면도
     품사: 명사
 ---
 000_KEYWORD: 측백나무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -546,13 +546,13 @@ imported:
     표제어: 측백나무
     품사: 명사:보통:비서술성
     항목ID: 27100
-processed:
+result:
   맞춤법 검사:
     표제어: 측백나무
     품사: 명사
 ---
 000_KEYWORD: 측우기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79021
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -575,13 +575,13 @@ imported:
     표제어: 측우기
     품사: 명사
     항목ID: 79021
-processed:
+result:
   맞춤법 검사:
     표제어: 측우기
     품사: 명사
 ---
 000_KEYWORD: 측은__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79022
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -607,13 +607,13 @@ imported:
     표제어: 측은
     품사: 명사
     항목ID: 79022
-processed:
+result:
   맞춤법 검사:
     표제어: 측은
     품사: 명사
 ---
 000_KEYWORD: 측은하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79023
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -659,13 +659,13 @@ imported:
       형태: 측은하니
     - 발음: 츠근함니다
       형태: 측은합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 측은하다
     품사: 형용사
 ---
 000_KEYWORD: 측은히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79024
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -692,13 +692,13 @@ imported:
     표제어: 측은히
     품사: 부사
     항목ID: 79024
-processed:
+result:
   맞춤법 검사:
     표제어: 측은히
     품사: 부사
 ---
 000_KEYWORD: 측정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79025
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -736,13 +736,13 @@ imported:
     표제어: 측정
     품사: 명사
     항목ID: 79025
-processed:
+result:
   맞춤법 검사:
     표제어: 측정
     품사: 명사
 ---
 000_KEYWORD: 측정기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79433
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -775,13 +775,13 @@ imported:
     표제어: 측정기
     품사: 명사
     항목ID: 79433
-processed:
+result:
   맞춤법 검사:
     표제어: 측정기
     품사: 명사
 ---
 000_KEYWORD: 측정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79026
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -810,13 +810,13 @@ imported:
     표제어: 측정되다
     품사: 동사
     항목ID: 79026
-processed:
+result:
   맞춤법 검사:
     표제어: 측정되다
     품사: 동사
 ---
 000_KEYWORD: 측정치__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -827,13 +827,13 @@ imported:
     표제어: 측정치
     품사: 명사:보통:비서술성
     항목ID: 27105
-processed:
+result:
   맞춤법 검사:
     표제어: 측정치
     품사: 명사
 ---
 000_KEYWORD: 측정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79027
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -866,13 +866,13 @@ imported:
     표제어: 측정하다
     품사: 동사
     항목ID: 79027
-processed:
+result:
   맞춤법 검사:
     표제어: 측정하다
     품사: 동사
 ---
 000_KEYWORD: 층__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20264
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -967,13 +967,13 @@ imported:
     표제어: 층
     품사: 명사
     항목ID: 20264
-processed:
+result:
   맞춤법 검사:
     표제어: 층
     품사: 명사
 ---
 000_KEYWORD: 층__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -982,13 +982,13 @@ imported:
     표제어: 층
     품사: 명사:의존:단위성
     항목ID: 32164
-processed:
+result:
   맞춤법 검사:
     표제어: 층
     품사: 명사
 ---
 000_KEYWORD: 층계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79029
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1025,13 +1025,13 @@ imported:
     표제어: 층계
     품사: 명사
     항목ID: 79029
-processed:
+result:
   맞춤법 검사:
     표제어: 층계
     품사: 명사
 ---
 000_KEYWORD: 층수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79030
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1060,13 +1060,13 @@ imported:
     표제어: 층수
     품사: 명사
     항목ID: 79030
-processed:
+result:
   맞춤법 검사:
     표제어: 층수
     품사: 명사
 ---
 000_KEYWORD: 층위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79418
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1109,13 +1109,13 @@ imported:
     표제어: 층위
     품사: 명사
     항목ID: 79418
-processed:
+result:
   맞춤법 검사:
     표제어: 층위
     품사: 명사
 ---
 000_KEYWORD: 층층__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79031
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1157,13 +1157,13 @@ imported:
     표제어: 층층
     품사: 명사
     항목ID: 79031
-processed:
+result:
   맞춤법 검사:
     표제어: 층층
     품사: 명사
 ---
 000_KEYWORD: 층층다리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79032
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1202,13 +1202,13 @@ imported:
     표제어: 층층다리
     품사: 명사
     항목ID: 79032
-processed:
+result:
   맞춤법 검사:
     표제어: 층층다리
     품사: 명사
 ---
 000_KEYWORD: 층층대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79048
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1247,13 +1247,13 @@ imported:
     표제어: 층층대
     품사: 명사
     항목ID: 79048
-processed:
+result:
   맞춤법 검사:
     표제어: 층층대
     품사: 명사
 ---
 000_KEYWORD: 층층시하__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79049
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1281,13 +1281,13 @@ imported:
     표제어: 층층시하
     품사: 명사
     항목ID: 79049
-processed:
+result:
   맞춤법 검사:
     표제어: 층층시하
     품사: 명사
 ---
 000_KEYWORD: 층층이__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79050
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -1328,7 +1328,7 @@ imported:
     표제어: 층층이
     품사: 부사
     항목ID: 79050
-processed:
+result:
   맞춤법 검사:
     표제어: 층층이
     품사: 부사

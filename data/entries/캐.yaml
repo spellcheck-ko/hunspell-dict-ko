@@ -1,5 +1,5 @@
 000_KEYWORD: 캐나다__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70040
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -20,13 +20,13 @@ imported:
     표제어: 캐나다
     품사: 명사
     항목ID: 70040
-processed:
+result:
   맞춤법 검사:
     표제어: 캐나다
     품사: 명사
 ---
 000_KEYWORD: 캐내다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -37,14 +37,14 @@ imported:
     표제어: 캐내다
     품사: 동사
     항목ID: 27376
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 캐내다
     품사: 동사
 ---
 000_KEYWORD: 캐노피__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -55,13 +55,13 @@ imported:
     표제어: 캐노피
     품사: 명사:보통:서술성
     항목ID: 27377
-processed:
+result:
   맞춤법 검사:
     표제어: 캐노피
     품사: 명사
 ---
 000_KEYWORD: 캐다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81755
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -113,13 +113,13 @@ imported:
     - 발음: 캐ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81755_kae-ni.wav
       형태: 캐니
-processed:
+result:
   맞춤법 검사:
     표제어: 캐다
     품사: 동사
 ---
 000_KEYWORD: 캐디__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -129,13 +129,13 @@ imported:
     표제어: 캐디
     품사: 명사:보통:비서술성
     항목ID: 27379
-processed:
+result:
   맞춤법 검사:
     표제어: 캐디
     품사: 명사
 ---
 000_KEYWORD: 캐러멜__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81757
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -164,13 +164,13 @@ imported:
     표제어: 캐러멜
     품사: 명사
     항목ID: 81757
-processed:
+result:
   맞춤법 검사:
     표제어: 캐러멜
     품사: 명사
 ---
 000_KEYWORD: 캐럴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81759
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -196,13 +196,13 @@ imported:
     표제어: 캐럴
     품사: 명사
     항목ID: 81759
-processed:
+result:
   맞춤법 검사:
     표제어: 캐럴
     품사: 명사
 ---
 000_KEYWORD: 캐럿__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81763
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -243,13 +243,13 @@ imported:
     표제어: 캐럿
     품사: 의존 명사
     항목ID: 81763
-processed:
+result:
   맞춤법 검사:
     표제어: 캐럿
     품사: 의존 명사
 ---
 000_KEYWORD: 캐릭터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28137
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -286,13 +286,13 @@ imported:
     표제어: 캐릭터
     품사: 명사
     항목ID: 28137
-processed:
+result:
   맞춤법 검사:
     표제어: 캐릭터
     품사: 명사
 ---
 000_KEYWORD: 캐묻다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81767
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -336,7 +336,7 @@ imported:
     - 발음: 캐ː문는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/81767_kae-munneun.wav
       형태: 캐묻는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -344,7 +344,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 캐미솔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83095
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -369,13 +369,13 @@ imported:
     표제어: 캐미솔
     품사: 명사
     항목ID: 83095
-processed:
+result:
   맞춤법 검사:
     표제어: 캐미솔
     품사: 명사
 ---
 000_KEYWORD: 캐비닛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83096
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -405,13 +405,13 @@ imported:
     표제어: 캐비닛
     품사: 명사
     항목ID: 83096
-processed:
+result:
   맞춤법 검사:
     표제어: 캐비닛
     품사: 명사
 ---
 000_KEYWORD: 캐스터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83097
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -442,13 +442,13 @@ imported:
     표제어: 캐스터
     품사: 명사
     항목ID: 83097
-processed:
+result:
   맞춤법 검사:
     표제어: 캐스터
     품사: 명사
 ---
 000_KEYWORD: 캐스터네츠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83099
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -475,13 +475,13 @@ imported:
     표제어: 캐스터네츠
     품사: 명사
     항목ID: 83099
-processed:
+result:
   맞춤법 검사:
     표제어: 캐스터네츠
     품사: 명사
 ---
 000_KEYWORD: 캐스팅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83100
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -508,13 +508,13 @@ imported:
     표제어: 캐스팅
     품사: 명사
     항목ID: 83100
-processed:
+result:
   맞춤법 검사:
     표제어: 캐스팅
     품사: 명사
 ---
 000_KEYWORD: 캐스팅되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83101
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -539,13 +539,13 @@ imported:
     표제어: 캐스팅되다
     품사: 동사
     항목ID: 83101
-processed:
+result:
   맞춤법 검사:
     표제어: 캐스팅되다
     품사: 동사
 ---
 000_KEYWORD: 캐스팅하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83102
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -571,13 +571,13 @@ imported:
     표제어: 캐스팅하다
     품사: 동사
     항목ID: 83102
-processed:
+result:
   맞춤법 검사:
     표제어: 캐스팅하다
     품사: 동사
 ---
 000_KEYWORD: 캐시미어__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -587,13 +587,13 @@ imported:
     표제어: 캐시미어
     품사: 명사:보통:비서술성
     항목ID: 27387
-processed:
+result:
   맞춤법 검사:
     표제어: 캐시미어
     품사: 명사
 ---
 000_KEYWORD: 캐어묻다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83103
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -635,7 +635,7 @@ imported:
     - 발음: 캐어문는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/83103_kaeeomunneun.wav
       형태: 캐어묻는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -643,7 +643,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 캐주얼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -653,13 +653,13 @@ imported:
     표제어: 캐주얼
     품사: 명사:보통:서술성
     항목ID: 27388
-processed:
+result:
   맞춤법 검사:
     표제어: 캐주얼
     품사: 명사
 ---
 000_KEYWORD: 캐치볼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -669,13 +669,13 @@ imported:
     표제어: 캐치볼
     품사: 명사:보통:서술성
     항목ID: 27389
-processed:
+result:
   맞춤법 검사:
     표제어: 캐치볼
     품사: 명사
 ---
 000_KEYWORD: 캑캑__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83104
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -703,13 +703,13 @@ imported:
     표제어: 캑캑
     품사: 부사
     항목ID: 83104
-processed:
+result:
   맞춤법 검사:
     표제어: 캑캑
     품사: 부사
 ---
 000_KEYWORD: 캑캑거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83105
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -745,13 +745,13 @@ imported:
     표제어: 캑캑거리다
     품사: 동사
     항목ID: 83105
-processed:
+result:
   맞춤법 검사:
     표제어: 캑캑거리다
     품사: 동사
 ---
 000_KEYWORD: 캑캑대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90022
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -786,13 +786,13 @@ imported:
     표제어: 캑캑대다
     품사: 동사
     항목ID: 90022
-processed:
+result:
   맞춤법 검사:
     표제어: 캑캑대다
     품사: 동사
 ---
 000_KEYWORD: 캑캑하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90023
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -827,13 +827,13 @@ imported:
     표제어: 캑캑하다
     품사: 동사
     항목ID: 90023
-processed:
+result:
   맞춤법 검사:
     표제어: 캑캑하다
     품사: 동사
 ---
 000_KEYWORD: 캔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83106
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -872,13 +872,13 @@ imported:
     표제어: 캔
     품사: 명사
     항목ID: 83106
-processed:
+result:
   맞춤법 검사:
     표제어: 캔
     품사: 명사
 ---
 000_KEYWORD: 캔디__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83107
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -912,13 +912,13 @@ imported:
     표제어: 캔디
     품사: 명사
     항목ID: 83107
-processed:
+result:
   맞춤법 검사:
     표제어: 캔디
     품사: 명사
 ---
 000_KEYWORD: 캔버스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83108
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -952,13 +952,13 @@ imported:
     표제어: 캔버스
     품사: 명사
     항목ID: 83108
-processed:
+result:
   맞춤법 검사:
     표제어: 캔버스
     품사: 명사
 ---
 000_KEYWORD: 캘리포니아__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -967,13 +967,13 @@ imported:
     표제어: 캘리포니아
     품사: 명사:보통:서술성
     항목ID: 27394
-processed:
+result:
   맞춤법 검사:
     표제어: 캘리포니아
     품사: 명사
 ---
 000_KEYWORD: 캘린더__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92342
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -988,10 +988,10 @@ imported:
     표제어: 캘린더
     품사: 명사
     항목ID: 92342
-processed: {}
+result: {}
 ---
 000_KEYWORD: 캠퍼스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72163
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1023,13 +1023,13 @@ imported:
     표제어: 캠퍼스
     품사: 명사
     항목ID: 72163
-processed:
+result:
   맞춤법 검사:
     표제어: 캠퍼스
     품사: 명사
 ---
 000_KEYWORD: 캠페인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28140
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1061,13 +1061,13 @@ imported:
     표제어: 캠페인
     품사: 명사
     항목ID: 28140
-processed:
+result:
   맞춤법 검사:
     표제어: 캠페인
     품사: 명사
 ---
 000_KEYWORD: 캠프__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83109
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1094,13 +1094,13 @@ imported:
     표제어: 캠프
     품사: 명사
     항목ID: 83109
-processed:
+result:
   맞춤법 검사:
     표제어: 캠프
     품사: 명사
 ---
 000_KEYWORD: 캠프파이어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83110
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1126,13 +1126,13 @@ imported:
     표제어: 캠프파이어
     품사: 명사
     항목ID: 83110
-processed:
+result:
   맞춤법 검사:
     표제어: 캠프파이어
     품사: 명사
 ---
 000_KEYWORD: 캠핑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83129
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1159,13 +1159,13 @@ imported:
     표제어: 캠핑
     품사: 명사
     항목ID: 83129
-processed:
+result:
   맞춤법 검사:
     표제어: 캠핑
     품사: 명사
 ---
 000_KEYWORD: 캡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83130
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1221,13 +1221,13 @@ imported:
     표제어: 캡
     품사: 명사
     항목ID: 83130
-processed:
+result:
   맞춤법 검사:
     표제어: 캡
     품사: 명사
 ---
 000_KEYWORD: 캡사이신__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1237,13 +1237,13 @@ imported:
     표제어: 캡사이신
     품사: 명사:보통:서술성
     항목ID: 27402
-processed:
+result:
   맞춤법 검사:
     표제어: 캡사이신
     품사: 명사
 ---
 000_KEYWORD: 캡슐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83131
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1283,13 +1283,13 @@ imported:
     표제어: 캡슐
     품사: 명사
     항목ID: 83131
-processed:
+result:
   맞춤법 검사:
     표제어: 캡슐
     품사: 명사
 ---
 000_KEYWORD: 캥거루__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83133
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -1319,7 +1319,7 @@ imported:
     표제어: 캥거루
     품사: 명사
     항목ID: 83133
-processed:
+result:
   맞춤법 검사:
     표제어: 캥거루
     품사: 명사

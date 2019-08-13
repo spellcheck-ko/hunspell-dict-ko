@@ -1,5 +1,5 @@
 000_KEYWORD: 뒤-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74903
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -29,11 +29,11 @@ imported:
     표제어: 뒤-
     품사: 접사
     항목ID: 74903
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 뒤__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67477
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -178,13 +178,13 @@ imported:
     표제어: 뒤
     품사: 명사
     항목ID: 67477
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤
     품사: 명사
 ---
 000_KEYWORD: 뒤꼍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50450
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -228,13 +228,13 @@ imported:
     - 발음: 뒤껴틀
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/50450_dwikkyeoteul.wav
       형태: 뒤꼍을
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤꼍
     품사: 명사
 ---
 000_KEYWORD: 뒤꽁무니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50461
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -264,13 +264,13 @@ imported:
     표제어: 뒤꽁무니
     품사: 명사
     항목ID: 50461
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤꽁무니
     품사: 명사
 ---
 000_KEYWORD: 뒤꿈치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51896
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -346,13 +346,13 @@ imported:
     표제어: 뒤꿈치
     품사: 명사
     항목ID: 51896
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤꿈치
     품사: 명사
 ---
 000_KEYWORD: 뒤끓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=51920
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -424,13 +424,13 @@ imported:
     - 발음: 뒤끌씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/51920_dwikkeulsseumnida.wav
       형태: 뒤끓습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤끓다
     품사: 동사
 ---
 000_KEYWORD: 뒤끝__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52515
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -494,13 +494,13 @@ imported:
     - 발음: 뒤ː끈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/52515_dwi-kkeunman.wav
       형태: 뒤끝만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤끝
     품사: 명사
 ---
 000_KEYWORD: 뒤늦다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14987
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -541,13 +541,13 @@ imported:
     - 발음: 뒤ː늗씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/14987_dwi-neutsseumnida.wav
       형태: 뒤늦습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤늦다
     품사: 형용사
 ---
 000_KEYWORD: 뒤덮다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52632
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -600,13 +600,13 @@ imported:
     - 발음: 뒤덤는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/52632_dwideomneun.wav
       형태: 뒤덮는
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤덮다
     품사: 동사
 ---
 000_KEYWORD: 뒤덮이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52685
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -659,13 +659,13 @@ imported:
     - 발음: 뒤더피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/52685_dwideopini.wav
       형태: 뒤덮이니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤덮이다
     품사: 동사
 ---
 000_KEYWORD: 뒤돌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58023
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -702,13 +702,13 @@ imported:
     - 발음: 뒤ː돔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58023_dwi-domnida.wav
       형태: 뒤돕니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤돌다
     품사: 동사
 ---
 000_KEYWORD: 뒤돌아보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58024
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -763,17 +763,17 @@ imported:
     - 발음: 뒤ː도라보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58024_dwi-doraboni.wav
       형태: 뒤돌아보니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤돌아보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뒤돌아서다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58025
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -821,17 +821,17 @@ imported:
     - 발음: 뒤ː도라서니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58025_dwi-doraseoni.wav
       형태: 뒤돌아서니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤돌아서다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뒤따라가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58026
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -875,7 +875,7 @@ imported:
     - 발음: 뒤ː따라가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58026_dwi-ttaragageora.wav
       형태: 뒤따라가거라
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -883,7 +883,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤따라오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58027
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -925,7 +925,7 @@ imported:
     - 발음: 뒤ː따라오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58027_dwi-ttaraoneora.wav
       형태: 뒤따라오너라
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -933,7 +933,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤따르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14991
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -992,7 +992,7 @@ imported:
     - 발음: 뒤ː따르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/14991_dwi-ttareuni.wav
       형태: 뒤따르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1000,7 +1000,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤떨어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58028
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1067,17 +1067,17 @@ imported:
     - 발음: 뒤ː떠러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58028_dwi-tteoreojini.wav
       형태: 뒤떨어지니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤떨어지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뒤뚱거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58002
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1113,13 +1113,13 @@ imported:
     표제어: 뒤뚱거리다
     품사: 동사
     항목ID: 58002
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤뚱거리다
     품사: 동사
 ---
 000_KEYWORD: 뒤뚱대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90290
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1154,13 +1154,13 @@ imported:
     표제어: 뒤뚱대다
     품사: 동사
     항목ID: 90290
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤뚱대다
     품사: 동사
 ---
 000_KEYWORD: 뒤뚱뒤뚱__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58003
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1185,13 +1185,13 @@ imported:
     표제어: 뒤뚱뒤뚱
     품사: 부사
     항목ID: 58003
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤뚱뒤뚱
     품사: 부사
 ---
 000_KEYWORD: 뒤뚱뒤뚱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90291
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1226,13 +1226,13 @@ imported:
     표제어: 뒤뚱뒤뚱하다
     품사: 동사
     항목ID: 90291
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤뚱뒤뚱하다
     품사: 동사
 ---
 000_KEYWORD: 뒤뚱이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90292
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1260,13 +1260,13 @@ imported:
     표제어: 뒤뚱이다
     품사: 동사
     항목ID: 90292
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤뚱이다
     품사: 동사
 ---
 000_KEYWORD: 뒤뚱하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90293
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1291,13 +1291,13 @@ imported:
     표제어: 뒤뚱하다
     품사: 동사
     항목ID: 90293
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤뚱하다
     품사: 동사
 ---
 000_KEYWORD: 뒤뜰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58029
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1330,13 +1330,13 @@ imported:
     표제어: 뒤뜰
     품사: 명사
     항목ID: 58029
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤뜰
     품사: 명사
 ---
 000_KEYWORD: 뒤로하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1345,13 +1345,13 @@ imported:
     표제어: 뒤로하다
     품사: 동사
     항목ID: 32098
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤로하다
     품사: 동사
 ---
 000_KEYWORD: 뒤룩뒤룩__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58004
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1376,13 +1376,13 @@ imported:
     표제어: 뒤룩뒤룩
     품사: 부사
     항목ID: 58004
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤룩뒤룩
     품사: 부사
 ---
 000_KEYWORD: 뒤룩뒤룩하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58005
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1419,13 +1419,13 @@ imported:
       형태: 뒤룩뒤룩하니
     - 발음: 뒤룩뛰루캄니다
       형태: 뒤룩뒤룩합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤룩뒤룩하다
     품사: 형용사
 ---
 000_KEYWORD: 뒤미치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58030
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1461,13 +1461,13 @@ imported:
     - 발음: 뒤ː미치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58030_dwi-michini.wav
       형태: 뒤미치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤미치다
     품사: 동사
 ---
 000_KEYWORD: 뒤바꾸다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58031
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1516,13 +1516,13 @@ imported:
     활용:
     - 형태: 뒤바꾸어
     - 형태: 뒤바꾸니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤바꾸다
     품사: 동사
 ---
 000_KEYWORD: 뒤바뀌다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58032
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1578,13 +1578,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58032_dwibakkwiyeo.wav
       형태: 뒤바뀌어
     - 형태: 뒤바뀌니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤바뀌다
     품사: 동사
 ---
 000_KEYWORD: 뒤받다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58033
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1628,7 +1628,7 @@ imported:
     - 발음: 뒤ː반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58033_dwi-banneun.wav
       형태: 뒤받는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1636,7 +1636,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤밟다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58034
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1674,13 +1674,13 @@ imported:
     - 발음: 뒤ː밥찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58034_dwi-bapjji.wav
       형태: 뒤밟지
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤밟다
     품사: 동사
 ---
 000_KEYWORD: 뒤범벅__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58006
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1714,13 +1714,13 @@ imported:
     - 발음: 뒤범벙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58006_dwibeombeongman.wav
       형태: 뒤범벅만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤범벅
     품사: 명사
 ---
 000_KEYWORD: 뒤범벅되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58007
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1752,13 +1752,13 @@ imported:
     표제어: 뒤범벅되다
     품사: 동사
     항목ID: 58007
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤범벅되다
     품사: 동사
 ---
 000_KEYWORD: 뒤서다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58035
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1803,13 +1803,13 @@ imported:
     - 발음: 뒤ː서니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58035_dwi-seoni.wav
       형태: 뒤서니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤서다
     품사: 동사
 ---
 000_KEYWORD: 뒤섞다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58036
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1849,13 +1849,13 @@ imported:
     - 발음: 뒤성는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58036_dwiseongneun.wav
       형태: 뒤섞는
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤섞다
     품사: 동사
 ---
 000_KEYWORD: 뒤섞이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58037
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1898,13 +1898,13 @@ imported:
     - 발음: 뒤서끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58037_dwiseokkini.wav
       형태: 뒤섞이니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤섞이다
     품사: 동사
 ---
 000_KEYWORD: 뒤숭숭__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58008
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1930,13 +1930,13 @@ imported:
     표제어: 뒤숭숭
     품사: 부사
     항목ID: 58008
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤숭숭
     품사: 부사
 ---
 000_KEYWORD: 뒤숭숭하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58009
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1989,13 +1989,13 @@ imported:
       형태: 뒤숭숭하니
     - 발음: 뒤숭숭함니다
       형태: 뒤숭숭합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤숭숭하다
     품사: 형용사
 ---
 000_KEYWORD: 뒤안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92211
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2008,10 +2008,10 @@ imported:
     표제어: 뒤안
     품사: 명사
     항목ID: 92211
-processed: {}
+result: {}
 ---
 000_KEYWORD: 뒤안길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58010
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2045,13 +2045,13 @@ imported:
     표제어: 뒤안길
     품사: 명사
     항목ID: 58010
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤안길
     품사: 명사
 ---
 000_KEYWORD: 뒤얽다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58038
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2091,13 +2091,13 @@ imported:
     - 발음: 뒤억찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58038_dwieokjji.wav
       형태: 뒤얽지
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤얽다
     품사: 동사
 ---
 000_KEYWORD: 뒤얽히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58039
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2139,13 +2139,13 @@ imported:
     - 발음: 뒤얼키니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58039_dwieolkini.wav
       형태: 뒤얽히니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤얽히다
     품사: 동사
 ---
 000_KEYWORD: 뒤엉키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58011
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2184,13 +2184,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58011_dwieongkiyeo.wav
       형태: 뒤엉키어
     - 형태: 뒤엉키니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤엉키다
     품사: 동사
 ---
 000_KEYWORD: 뒤엎다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58040
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2282,13 +2282,13 @@ imported:
     - 발음: 뒤엄는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58040_dwieomneun.wav
       형태: 뒤엎는
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤엎다
     품사: 동사
 ---
 000_KEYWORD: 뒤웅박__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58012
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2322,13 +2322,13 @@ imported:
     - 발음: 뒤웅방만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58012_dwiungbangman.wav
       형태: 뒤웅박만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤웅박
     품사: 명사
 ---
 000_KEYWORD: 뒤잇다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58042
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2367,7 +2367,7 @@ imported:
     - 발음: 뒤ː인는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58042_dwi-inneun.wav
       형태: 뒤잇는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -2375,7 +2375,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤적거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58013
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2447,13 +2447,13 @@ imported:
     표제어: 뒤적거리다
     품사: 동사
     항목ID: 58013
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤적거리다
     품사: 동사
 ---
 000_KEYWORD: 뒤적대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90294
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2519,13 +2519,13 @@ imported:
     표제어: 뒤적대다
     품사: 동사
     항목ID: 90294
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤적대다
     품사: 동사
 ---
 000_KEYWORD: 뒤적뒤적__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58014
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2566,13 +2566,13 @@ imported:
     표제어: 뒤적뒤적
     품사: 부사
     항목ID: 58014
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤적뒤적
     품사: 부사
 ---
 000_KEYWORD: 뒤적뒤적하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90295
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2637,13 +2637,13 @@ imported:
     표제어: 뒤적뒤적하다
     품사: 동사
     항목ID: 90295
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤적뒤적하다
     품사: 동사
 ---
 000_KEYWORD: 뒤적이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58015
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2702,13 +2702,13 @@ imported:
     표제어: 뒤적이다
     품사: 동사
     항목ID: 58015
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤적이다
     품사: 동사
 ---
 000_KEYWORD: 뒤져내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58016
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2748,13 +2748,13 @@ imported:
     - 발음: 뒤저내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58016_dwijeonaeni.wav
       형태: 뒤져내니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤져내다
     품사: 동사
 ---
 000_KEYWORD: 뒤좇다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58017
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2795,13 +2795,13 @@ imported:
     - 발음: 뒤ː존는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58017_dwi-jonneun.wav
       형태: 뒤좇는
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤좇다
     품사: 동사
 ---
 000_KEYWORD: 뒤주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58018
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2831,13 +2831,13 @@ imported:
     표제어: 뒤주
     품사: 명사
     항목ID: 58018
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤주
     품사: 명사
 ---
 000_KEYWORD: 뒤죽박죽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58019
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2874,13 +2874,13 @@ imported:
     - 발음: 뒤죽빡쭝만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58019_dwijukppakjjungman.wav
       형태: 뒤죽박죽만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤죽박죽
     품사: 명사
 ---
 000_KEYWORD: 뒤죽박죽되다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2890,13 +2890,13 @@ imported:
     표제어: 뒤죽박죽되다
     품사: 동사
     항목ID: 7492
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤죽박죽되다
     품사: 동사
 ---
 000_KEYWORD: 뒤지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58045
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -2961,13 +2961,13 @@ imported:
     - 발음: 뒤ː지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/14998_dwi-jini.wav
       형태: 뒤지니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤지다
     품사: 동사
 ---
 000_KEYWORD: 뒤지다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14998
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3035,13 +3035,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/14998_dwijeo.wav
       형태: 뒤져
     - 형태: 뒤지니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤지다
     품사: 동사
 ---
 000_KEYWORD: 뒤집개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58020
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3071,13 +3071,13 @@ imported:
     표제어: 뒤집개
     품사: 명사
     항목ID: 58020
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤집개
     품사: 명사
 ---
 000_KEYWORD: 뒤집다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66269
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3191,7 +3191,7 @@ imported:
     - 발음: 뒤짐는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/66269_dwijimneun.wav
       형태: 뒤집는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -3199,7 +3199,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤집어쓰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58099
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3309,18 +3309,18 @@ imported:
     - 발음: 뒤지버쓰니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58099_dwijibeosseuni.wav
       형태: 뒤집어쓰니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤집어쓰다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
     - 으불규칙
 ---
 000_KEYWORD: 뒤집어씌우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66943
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3403,17 +3403,17 @@ imported:
     - 발음: 뒤지버씨우니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/66943_dwijibeossiuni.wav
       형태: 뒤집어씌우니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤집어씌우다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 뒤집어엎다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66944
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3525,13 +3525,13 @@ imported:
     - 발음: 뒤지버엄는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/66944_dwijibeoeomneun.wav
       형태: 뒤집어엎는
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤집어엎다
     품사: 동사
 ---
 000_KEYWORD: 뒤집어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66945
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3574,7 +3574,7 @@ imported:
     - 발음: 뒤지버지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/66945_dwijibeojini.wav
       형태: 뒤집어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3582,7 +3582,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤집히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66946
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3706,13 +3706,13 @@ imported:
     - 발음: 뒤지피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/66946_dwijipini.wav
       형태: 뒤집히니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤집히다
     품사: 동사
 ---
 000_KEYWORD: 뒤쪽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66947
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3761,13 +3761,13 @@ imported:
     - 발음: 뒤ː쫑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/66947_dwi-jjongman.wav
       형태: 뒤쪽만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤쪽
     품사: 명사
 ---
 000_KEYWORD: 뒤쫓기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67020
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3820,13 +3820,13 @@ imported:
     - 발음: 뒤ː쫃끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67020_dwi-jjotkkini.wav
       형태: 뒤쫓기니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤쫓기다
     품사: 동사
 ---
 000_KEYWORD: 뒤쫓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66948
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3878,13 +3878,13 @@ imported:
     - 발음: 뒤ː쫀는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/66948_dwi-jjonneun.wav
       형태: 뒤쫓는
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤쫓다
     품사: 동사
 ---
 000_KEYWORD: 뒤처리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67021
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3913,13 +3913,13 @@ imported:
     표제어: 뒤처리
     품사: 명사
     항목ID: 67021
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤처리
     품사: 명사
 ---
 000_KEYWORD: 뒤처지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67022
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -3961,7 +3961,7 @@ imported:
     - 발음: 뒤ː처지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67022_dwi-cheojini.wav
       형태: 뒤처지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -3969,7 +3969,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤척거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67023
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4035,13 +4035,13 @@ imported:
     표제어: 뒤척거리다
     품사: 동사
     항목ID: 67023
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤척거리다
     품사: 동사
 ---
 000_KEYWORD: 뒤척대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90296
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4101,13 +4101,13 @@ imported:
     표제어: 뒤척대다
     품사: 동사
     항목ID: 90296
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤척대다
     품사: 동사
 ---
 000_KEYWORD: 뒤척뒤척__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90297
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4143,13 +4143,13 @@ imported:
     표제어: 뒤척뒤척
     품사: 부사
     항목ID: 90297
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤척뒤척
     품사: 부사
 ---
 000_KEYWORD: 뒤척뒤척하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90298
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4209,13 +4209,13 @@ imported:
     표제어: 뒤척뒤척하다
     품사: 동사
     항목ID: 90298
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤척뒤척하다
     품사: 동사
 ---
 000_KEYWORD: 뒤척이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67053
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4268,13 +4268,13 @@ imported:
     표제어: 뒤척이다
     품사: 동사
     항목ID: 67053
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤척이다
     품사: 동사
 ---
 000_KEYWORD: 뒤쳐지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67054
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4316,13 +4316,13 @@ imported:
     - 발음: 뒤처지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67054_dwicheojini.wav
       형태: 뒤쳐지니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤쳐지다
     품사: 동사
 ---
 000_KEYWORD: 뒤쳐지다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4333,14 +4333,14 @@ imported:
     표제어: 뒤쳐지다
     품사: 형용사
     항목ID: 7505
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 뒤쳐지다
     품사: 형용사
 ---
 000_KEYWORD: 뒤축__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67057
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4395,13 +4395,13 @@ imported:
     - 발음: 뒤ː충만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67057_dwi-chungman.wav
       형태: 뒤축만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤축
     품사: 명사
 ---
 000_KEYWORD: 뒤치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67055
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4441,13 +4441,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/67055_dwicheo.wav
       형태: 뒤쳐
     - 형태: 뒤치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤치다
     품사: 동사
 ---
 000_KEYWORD: 뒤치다꺼리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67058
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4499,13 +4499,13 @@ imported:
     표제어: 뒤치다꺼리
     품사: 명사
     항목ID: 67058
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤치다꺼리
     품사: 명사
 ---
 000_KEYWORD: 뒤치다꺼리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67059
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4550,13 +4550,13 @@ imported:
     표제어: 뒤치다꺼리하다
     품사: 동사
     항목ID: 67059
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤치다꺼리하다
     품사: 동사
 ---
 000_KEYWORD: 뒤치락거리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67056
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4588,13 +4588,13 @@ imported:
     표제어: 뒤치락거리다
     품사: 동사
     항목ID: 67056
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤치락거리다
     품사: 동사
 ---
 000_KEYWORD: 뒤치락대다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90299
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4626,13 +4626,13 @@ imported:
     표제어: 뒤치락대다
     품사: 동사
     항목ID: 90299
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤치락대다
     품사: 동사
 ---
 000_KEYWORD: 뒤탈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67060
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4663,13 +4663,13 @@ imported:
     표제어: 뒤탈
     품사: 명사
     항목ID: 67060
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤탈
     품사: 명사
 ---
 000_KEYWORD: 뒤태__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4678,13 +4678,13 @@ imported:
     표제어: 뒤태
     품사: 명사:보통:서술성
     항목ID: 7509
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤태
     품사: 명사
 ---
 000_KEYWORD: 뒤통수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67061
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4719,13 +4719,13 @@ imported:
     표제어: 뒤통수
     품사: 명사
     항목ID: 67061
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤통수
     품사: 명사
 ---
 000_KEYWORD: 뒤트임__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67063
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4755,13 +4755,13 @@ imported:
     표제어: 뒤트임
     품사: 명사
     항목ID: 67063
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤트임
     품사: 명사
 ---
 000_KEYWORD: 뒤틀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67064
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4815,13 +4815,13 @@ imported:
     - 발음: 뒤틈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67064_dwiteumnida.wav
       형태: 뒤틉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤틀다
     품사: 동사
 ---
 000_KEYWORD: 뒤틀리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67065
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4885,13 +4885,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67065_dwiteulliyeo.wav
       형태: 뒤틀리어
     - 형태: 뒤틀리니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤틀리다
     품사: 동사
 ---
 000_KEYWORD: 뒤틀림__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67067
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4918,13 +4918,13 @@ imported:
     표제어: 뒤틀림
     품사: 명사
     항목ID: 67067
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤틀림
     품사: 명사
 ---
 000_KEYWORD: 뒤틀어지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67066
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -4994,7 +4994,7 @@ imported:
     - 발음: 뒤트러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67066_dwiteureojini.wav
       형태: 뒤틀어지니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -5002,7 +5002,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 뒤판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67068
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5034,13 +5034,13 @@ imported:
     표제어: 뒤판
     품사: 명사
     항목ID: 67068
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤판
     품사: 명사
 ---
 000_KEYWORD: 뒤편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15006
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5069,13 +5069,13 @@ imported:
     표제어: 뒤편
     품사: 명사
     항목ID: 15006
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤편
     품사: 명사
 ---
 000_KEYWORD: 뒤표지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67069
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5107,13 +5107,13 @@ imported:
     표제어: 뒤표지
     품사: 명사
     항목ID: 67069
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤표지
     품사: 명사
 ---
 000_KEYWORD: 뒤풀이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67070
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5144,13 +5144,13 @@ imported:
     표제어: 뒤풀이
     품사: 명사
     항목ID: 67070
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤풀이
     품사: 명사
 ---
 000_KEYWORD: 뒤흔들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67071
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5215,13 +5215,13 @@ imported:
     - 발음: 뒤흔듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67071_dwiheundeumnida.wav
       형태: 뒤흔듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤흔들다
     품사: 동사
 ---
 000_KEYWORD: 뒤흔들리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67073
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5286,13 +5286,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67073_dwiheundeulliyeo.wav
       형태: 뒤흔들리어
     - 형태: 뒤흔들리니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒤흔들리다
     품사: 동사
 ---
 000_KEYWORD: 뒷간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67084
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5320,13 +5320,13 @@ imported:
     표제어: 뒷간
     품사: 명사
     항목ID: 67084
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷간
     품사: 명사
 ---
 000_KEYWORD: 뒷감당__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67088
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5356,13 +5356,13 @@ imported:
     표제어: 뒷감당
     품사: 명사
     항목ID: 67088
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷감당
     품사: 명사
 ---
 000_KEYWORD: 뒷거래__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67090
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5395,13 +5395,13 @@ imported:
     표제어: 뒷거래
     품사: 명사
     항목ID: 67090
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷거래
     품사: 명사
 ---
 000_KEYWORD: 뒷거리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5411,13 +5411,13 @@ imported:
     표제어: 뒷거리
     품사: 명사:보통:서술성
     항목ID: 7519
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷거리
     품사: 명사
 ---
 000_KEYWORD: 뒷걸음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67091
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5471,13 +5471,13 @@ imported:
     표제어: 뒷걸음
     품사: 명사
     항목ID: 67091
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷걸음
     품사: 명사
 ---
 000_KEYWORD: 뒷걸음질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67093
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5519,13 +5519,13 @@ imported:
     표제어: 뒷걸음질
     품사: 명사
     항목ID: 67093
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷걸음질
     품사: 명사
 ---
 000_KEYWORD: 뒷걸음질치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67095
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5586,13 +5586,13 @@ imported:
     - 발음: 뒫ː꺼름질치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67095_dwid-kkeoreumjilchini.wav
       형태: 뒷걸음질치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷걸음질치다
     품사: 동사
 ---
 000_KEYWORD: 뒷걸음질하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67094
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5635,13 +5635,13 @@ imported:
     표제어: 뒷걸음질하다
     품사: 동사
     항목ID: 67094
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷걸음질하다
     품사: 동사
 ---
 000_KEYWORD: 뒷걸음치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67092
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5699,13 +5699,13 @@ imported:
     - 발음: 뒫ː꺼름치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67092_dwid-kkeoreumchini.wav
       형태: 뒷걸음치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷걸음치다
     품사: 동사
 ---
 000_KEYWORD: 뒷골__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67146
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5741,13 +5741,13 @@ imported:
     표제어: 뒷골
     품사: 명사
     항목ID: 67146
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷골
     품사: 명사
 ---
 000_KEYWORD: 뒷골목__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15013
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5810,13 +5810,13 @@ imported:
     - 발음: 뒫ː꼴몽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15013_dwid-kkolmongman.wav
       형태: 뒷골목만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷골목
     품사: 명사
 ---
 000_KEYWORD: 뒷구멍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67147
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5859,13 +5859,13 @@ imported:
     표제어: 뒷구멍
     품사: 명사
     항목ID: 67147
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷구멍
     품사: 명사
 ---
 000_KEYWORD: 뒷굽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67154
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5917,13 +5917,13 @@ imported:
     - 발음: 뒫ː꿈만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67154_dwid-kkumman.wav
       형태: 뒷굽만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷굽
     품사: 명사
 ---
 000_KEYWORD: 뒷길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67155
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -5983,13 +5983,13 @@ imported:
     표제어: 뒷길
     품사: 명사
     항목ID: 67155
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷길
     품사: 명사
 ---
 000_KEYWORD: 뒷날__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67156
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6034,13 +6034,13 @@ imported:
     표제어: 뒷날
     품사: 명사
     항목ID: 67156
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷날
     품사: 명사
 ---
 000_KEYWORD: 뒷날개__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6049,13 +6049,13 @@ imported:
     표제어: 뒷날개
     품사: 명사:보통:비서술성
     항목ID: 7525
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷날개
     품사: 명사
 ---
 000_KEYWORD: 뒷다리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67172
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6125,13 +6125,13 @@ imported:
     표제어: 뒷다리
     품사: 명사
     항목ID: 67172
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷다리
     품사: 명사
 ---
 000_KEYWORD: 뒷담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67177
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6161,13 +6161,13 @@ imported:
     표제어: 뒷담
     품사: 명사
     항목ID: 67177
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷담
     품사: 명사
 ---
 000_KEYWORD: 뒷덜미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67236
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6201,13 +6201,13 @@ imported:
     표제어: 뒷덜미
     품사: 명사
     항목ID: 67236
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷덜미
     품사: 명사
 ---
 000_KEYWORD: 뒷돈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67245
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6263,13 +6263,13 @@ imported:
     표제어: 뒷돈
     품사: 명사
     항목ID: 67245
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷돈
     품사: 명사
 ---
 000_KEYWORD: 뒷동산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67377
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6303,13 +6303,13 @@ imported:
     표제어: 뒷동산
     품사: 명사
     항목ID: 67377
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷동산
     품사: 명사
 ---
 000_KEYWORD: 뒷마당__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67378
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6345,13 +6345,13 @@ imported:
     표제어: 뒷마당
     품사: 명사
     항목ID: 67378
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷마당
     품사: 명사
 ---
 000_KEYWORD: 뒷마무리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67379
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6378,13 +6378,13 @@ imported:
     표제어: 뒷마무리
     품사: 명사
     항목ID: 67379
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷마무리
     품사: 명사
 ---
 000_KEYWORD: 뒷말__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67380
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6439,13 +6439,13 @@ imported:
     표제어: 뒷말
     품사: 명사
     항목ID: 67380
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷말
     품사: 명사
 ---
 000_KEYWORD: 뒷맛__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67381
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6496,13 +6496,13 @@ imported:
     - 발음: 뒨ː만만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67381_dwin-manman.wav
       형태: 뒷맛만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷맛
     품사: 명사
 ---
 000_KEYWORD: 뒷머리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67382
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6577,13 +6577,13 @@ imported:
     표제어: 뒷머리
     품사: 명사
     항목ID: 67382
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷머리
     품사: 명사
 ---
 000_KEYWORD: 뒷면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67383
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6636,13 +6636,13 @@ imported:
     표제어: 뒷면
     품사: 명사
     항목ID: 67383
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷면
     품사: 명사
 ---
 000_KEYWORD: 뒷모습__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15018
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6687,13 +6687,13 @@ imported:
     - 발음: 뒨ː모슴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15018_dwin-moseumman.wav
       형태: 뒷모습만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷모습
     품사: 명사
 ---
 000_KEYWORD: 뒷모양__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67384
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6738,13 +6738,13 @@ imported:
     표제어: 뒷모양
     품사: 명사
     항목ID: 67384
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷모양
     품사: 명사
 ---
 000_KEYWORD: 뒷무릎__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67386
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6785,13 +6785,13 @@ imported:
     - 발음: 뒨ː무름만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67386_dwin-mureumman.wav
       형태: 뒷무릎만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷무릎
     품사: 명사
 ---
 000_KEYWORD: 뒷문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15020
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6842,13 +6842,13 @@ imported:
     표제어: 뒷문
     품사: 명사
     항목ID: 15020
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷문
     품사: 명사
 ---
 000_KEYWORD: 뒷물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67387
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6872,13 +6872,13 @@ imported:
     표제어: 뒷물
     품사: 명사
     항목ID: 67387
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷물
     품사: 명사
 ---
 000_KEYWORD: 뒷바라지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67388
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6917,13 +6917,13 @@ imported:
     표제어: 뒷바라지
     품사: 명사
     항목ID: 67388
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷바라지
     품사: 명사
 ---
 000_KEYWORD: 뒷바라지하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67389
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6957,13 +6957,13 @@ imported:
     표제어: 뒷바라지하다
     품사: 동사
     항목ID: 67389
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷바라지하다
     품사: 동사
 ---
 000_KEYWORD: 뒷바퀴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67390
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -6998,13 +6998,13 @@ imported:
     표제어: 뒷바퀴
     품사: 명사
     항목ID: 67390
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷바퀴
     품사: 명사
 ---
 000_KEYWORD: 뒷받침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67391
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7041,13 +7041,13 @@ imported:
     표제어: 뒷받침
     품사: 명사
     항목ID: 67391
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷받침
     품사: 명사
 ---
 000_KEYWORD: 뒷받침되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67392
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7077,13 +7077,13 @@ imported:
     표제어: 뒷받침되다
     품사: 동사
     항목ID: 67392
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷받침되다
     품사: 동사
 ---
 000_KEYWORD: 뒷받침하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67393
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7117,13 +7117,13 @@ imported:
     표제어: 뒷받침하다
     품사: 동사
     항목ID: 67393
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷받침하다
     품사: 동사
 ---
 000_KEYWORD: 뒷발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67394
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7174,13 +7174,13 @@ imported:
     표제어: 뒷발
     품사: 명사
     항목ID: 67394
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷발
     품사: 명사
 ---
 000_KEYWORD: 뒷발질__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7190,13 +7190,13 @@ imported:
     표제어: 뒷발질
     품사: 명사:보통:서술성
     항목ID: 7540
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷발질
     품사: 명사
 ---
 000_KEYWORD: 뒷방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67395
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7240,13 +7240,13 @@ imported:
     표제어: 뒷방
     품사: 명사
     항목ID: 67395
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷방
     품사: 명사
 ---
 000_KEYWORD: 뒷밭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67396
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7307,13 +7307,13 @@ imported:
     - 발음: 뒫ː빤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67396_dwid-ppanman.wav
       형태: 뒷밭만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷밭
     품사: 명사
 ---
 000_KEYWORD: 뒷벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67397
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7362,13 +7362,13 @@ imported:
     - 발음: 뒫ː뼝만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/35000/67397_dwid-ppyeongman.wav
       형태: 뒷벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷벽
     품사: 명사
 ---
 000_KEYWORD: 뒷부분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67398
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7416,13 +7416,13 @@ imported:
     표제어: 뒷부분
     품사: 명사
     항목ID: 67398
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷부분
     품사: 명사
 ---
 000_KEYWORD: 뒷북치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67399
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7468,13 +7468,13 @@ imported:
     - 발음: 뒫ː뿍치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67399_dwid-ppukchini.wav
       형태: 뒷북치니
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷북치다
     품사: 동사
 ---
 000_KEYWORD: 뒷사람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67400
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7541,13 +7541,13 @@ imported:
     표제어: 뒷사람
     품사: 명사
     항목ID: 67400
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷사람
     품사: 명사
 ---
 000_KEYWORD: 뒷산__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67401
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7590,13 +7590,13 @@ imported:
     표제어: 뒷산
     품사: 명사
     항목ID: 67401
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷산
     품사: 명사
 ---
 000_KEYWORD: 뒷설거지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67402
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7645,13 +7645,13 @@ imported:
     표제어: 뒷설거지
     품사: 명사
     항목ID: 67402
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷설거지
     품사: 명사
 ---
 000_KEYWORD: 뒷소리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67403
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7708,13 +7708,13 @@ imported:
     표제어: 뒷소리
     품사: 명사
     항목ID: 67403
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷소리
     품사: 명사
 ---
 000_KEYWORD: 뒷소문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67404
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7759,13 +7759,13 @@ imported:
     표제어: 뒷소문
     품사: 명사
     항목ID: 67404
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷소문
     품사: 명사
 ---
 000_KEYWORD: 뒷수습__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67405
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7816,13 +7816,13 @@ imported:
     - 발음: 뒫ː쑤슴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/67405_dwid-ssuseumman.wav
       형태: 뒷수습만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷수습
     품사: 명사
 ---
 000_KEYWORD: 뒷심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67406
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7862,13 +7862,13 @@ imported:
     표제어: 뒷심
     품사: 명사
     항목ID: 67406
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷심
     품사: 명사
 ---
 000_KEYWORD: 뒷얘기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67407
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7917,13 +7917,13 @@ imported:
     표제어: 뒷얘기
     품사: 명사
     항목ID: 67407
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷얘기
     품사: 명사
 ---
 000_KEYWORD: 뒷이야기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67408
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -7970,13 +7970,13 @@ imported:
     표제어: 뒷이야기
     품사: 명사
     항목ID: 67408
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷이야기
     품사: 명사
 ---
 000_KEYWORD: 뒷일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67409
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8007,13 +8007,13 @@ imported:
     표제어: 뒷일
     품사: 명사
     항목ID: 67409
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷일
     품사: 명사
 ---
 000_KEYWORD: 뒷자락__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67410
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8068,13 +8068,13 @@ imported:
     - 발음: 뒫ː짜랑만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67410_dwid-jjarangman.wav
       형태: 뒷자락만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷자락
     품사: 명사
 ---
 000_KEYWORD: 뒷자리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50910
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8138,13 +8138,13 @@ imported:
     표제어: 뒷자리
     품사: 명사
     항목ID: 50910
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷자리
     품사: 명사
 ---
 000_KEYWORD: 뒷장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50911
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8168,13 +8168,13 @@ imported:
     표제어: 뒷장
     품사: 명사
     항목ID: 50911
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷장
     품사: 명사
 ---
 000_KEYWORD: 뒷전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50913
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8225,13 +8225,13 @@ imported:
     표제어: 뒷전
     품사: 명사
     항목ID: 50913
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷전
     품사: 명사
 ---
 000_KEYWORD: 뒷정리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50915
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8255,13 +8255,13 @@ imported:
     표제어: 뒷정리
     품사: 명사
     항목ID: 50915
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷정리
     품사: 명사
 ---
 000_KEYWORD: 뒷정리하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50917
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8293,13 +8293,13 @@ imported:
     표제어: 뒷정리하다
     품사: 동사
     항목ID: 50917
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷정리하다
     품사: 동사
 ---
 000_KEYWORD: 뒷조사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50918
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8334,13 +8334,13 @@ imported:
     표제어: 뒷조사
     품사: 명사
     항목ID: 50918
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷조사
     품사: 명사
 ---
 000_KEYWORD: 뒷좌석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50919
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8387,13 +8387,13 @@ imported:
     - 발음: 뒫ː쫘성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/50919_dwid-jjwaseongman.wav
       형태: 뒷좌석만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷좌석
     품사: 명사
 ---
 000_KEYWORD: 뒷주머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50921
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8437,13 +8437,13 @@ imported:
     표제어: 뒷주머니
     품사: 명사
     항목ID: 50921
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷주머니
     품사: 명사
 ---
 000_KEYWORD: 뒷줄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50923
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8484,13 +8484,13 @@ imported:
     표제어: 뒷줄
     품사: 명사
     항목ID: 50923
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷줄
     품사: 명사
 ---
 000_KEYWORD: 뒷짐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50924
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8517,13 +8517,13 @@ imported:
     표제어: 뒷짐
     품사: 명사
     항목ID: 50924
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷짐
     품사: 명사
 ---
 000_KEYWORD: 뒷집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50925
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8573,13 +8573,13 @@ imported:
     - 발음: 뒫ː찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50925_dwid-jjimman.wav
       형태: 뒷집만
-processed:
+result:
   맞춤법 검사:
     표제어: 뒷집
     품사: 명사
 ---
 000_KEYWORD: 뒹굴다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50926
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8641,13 +8641,13 @@ imported:
     - 발음: 뒹굼니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50926_dwinggumnida.wav
       형태: 뒹굽니다
-processed:
+result:
   맞춤법 검사:
     표제어: 뒹굴다
     품사: 동사
 ---
 000_KEYWORD: 뒹굴뒹굴__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=50927
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -8681,7 +8681,7 @@ imported:
     표제어: 뒹굴뒹굴
     품사: 부사
     항목ID: 50927
-processed:
+result:
   맞춤법 검사:
     표제어: 뒹굴뒹굴
     품사: 부사

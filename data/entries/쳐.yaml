@@ -1,5 +1,5 @@
 000_KEYWORD: 쳐내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90330
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -36,13 +36,13 @@ imported:
     - 발음: 처내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/90330_cheonaeni.wav
       형태: 쳐내니
-processed:
+result:
   맞춤법 검사:
     표제어: 쳐내다
     품사: 동사
 ---
 000_KEYWORD: 쳐다보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72122
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -114,13 +114,13 @@ imported:
     - 발음: 처ː다보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/72122_cheo-daboni.wav
       형태: 쳐다보니
-processed:
+result:
   맞춤법 검사:
     표제어: 쳐다보다
     품사: 동사
 ---
 000_KEYWORD: 쳐들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79184
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -159,13 +159,13 @@ imported:
     - 발음: 처ː듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79184_cheo-deumnida.wav
       형태: 쳐듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 쳐들다
     품사: 동사
 ---
 000_KEYWORD: 쳐들어가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79185
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -199,17 +199,17 @@ imported:
     - 발음: 처드러가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79185_cheodeureogani.wav
       형태: 쳐들어가니
-processed:
+result:
   맞춤법 검사:
     표제어: 쳐들어가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 쳐들어오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79186
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -244,17 +244,17 @@ imported:
     - 발음: 처드러오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79186_cheodeureooni.wav
       형태: 쳐들어오니
-processed:
+result:
   맞춤법 검사:
     표제어: 쳐들어오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 쳐부수다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79187
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -289,13 +289,13 @@ imported:
     - 발음: 처부수니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79187_cheobusuni.wav
       형태: 쳐부수니
-processed:
+result:
   맞춤법 검사:
     표제어: 쳐부수다
     품사: 동사
 ---
 000_KEYWORD: 쳐올리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79189
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -332,13 +332,13 @@ imported:
     - 발음: 처올리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/79189_cheoollini.wav
       형태: 쳐올리니
-processed:
+result:
   맞춤법 검사:
     표제어: 쳐올리다
     품사: 동사
 ---
 000_KEYWORD: 쳐주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79190
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -386,7 +386,7 @@ imported:
     - 발음: 처주니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79190_cheojuni.wav
       형태: 쳐주니
-processed:
+result:
   맞춤법 검사:
     표제어: 쳐주다
     품사: 동사

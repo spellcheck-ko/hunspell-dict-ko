@@ -1,5 +1,5 @@
 000_KEYWORD: -께__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88843
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -27,11 +27,11 @@ imported:
     표제어: -께
     품사: 접사
     항목ID: 88843
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 께__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69701
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -67,11 +67,11 @@ imported:
     표제어: 께
     품사: 조사
     항목ID: 69701
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 께름칙하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39540
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -115,13 +115,13 @@ imported:
       형태: 께름칙하니
     - 발음: 께름치캄니다
       형태: 께름칙합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 께름칙하다
     품사: 형용사
 ---
 000_KEYWORD: 께름하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39538
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -164,13 +164,13 @@ imported:
       형태: 께름하니
     - 발음: 께름함니다
       형태: 께름합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 께름하다
     품사: 형용사
 ---
 000_KEYWORD: 께서__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73012
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -193,5 +193,5 @@ imported:
     표제어: 께서
     품사: 조사
     항목ID: 73012
-processed:
+result:
   맞춤법 검사: {}

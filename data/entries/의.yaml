@@ -1,5 +1,5 @@
 000_KEYWORD: 의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68818
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -15,13 +15,13 @@ imported:
     표제어: 의
     품사: 명사
     항목ID: 68818
-processed:
+result:
   맞춤법 검사:
     표제어: 의
     품사: 명사
 ---
 000_KEYWORD: 의__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71642
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -86,13 +86,13 @@ imported:
     표제어: 의
     품사: 명사
     항목ID: 71642
-processed:
+result:
   맞춤법 검사:
     표제어: 의
     품사: 명사
 ---
 000_KEYWORD: 의__조사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86290
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -155,11 +155,11 @@ imported:
     표제어: 의
     품사: 조사
     항목ID: 86290
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 의거__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71626
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -213,13 +213,13 @@ imported:
     표제어: 의거
     품사: 명사
     항목ID: 71626
-processed:
+result:
   맞춤법 검사:
     표제어: 의거
     품사: 명사
 ---
 000_KEYWORD: 의거__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71630
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -247,13 +247,13 @@ imported:
     표제어: 의거
     품사: 명사
     항목ID: 71630
-processed:
+result:
   맞춤법 검사:
     표제어: 의거
     품사: 명사
 ---
 000_KEYWORD: 의거하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71628
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -310,13 +310,13 @@ imported:
     표제어: 의거하다
     품사: 동사
     항목ID: 71628
-processed:
+result:
   맞춤법 검사:
     표제어: 의거하다
     품사: 동사
 ---
 000_KEYWORD: 의견__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71118
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -364,13 +364,13 @@ imported:
     표제어: 의견
     품사: 명사
     항목ID: 71118
-processed:
+result:
   맞춤법 검사:
     표제어: 의견
     품사: 명사
 ---
 000_KEYWORD: 의견서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71632
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -397,13 +397,13 @@ imported:
     표제어: 의견서
     품사: 명사
     항목ID: 71632
-processed:
+result:
   맞춤법 검사:
     표제어: 의견서
     품사: 명사
 ---
 000_KEYWORD: 의견차__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -412,13 +412,13 @@ imported:
     표제어: 의견차
     품사: 명사:보통:서술성
     항목ID: 20966
-processed:
+result:
   맞춤법 검사:
     표제어: 의견차
     품사: 명사
 ---
 000_KEYWORD: 의결__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71636
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -453,13 +453,13 @@ imported:
     표제어: 의결
     품사: 명사
     항목ID: 71636
-processed:
+result:
   맞춤법 검사:
     표제어: 의결
     품사: 명사
 ---
 000_KEYWORD: 의결권__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -468,13 +468,13 @@ imported:
     표제어: 의결권
     품사: 명사:보통:비서술성
     항목ID: 20968
-processed:
+result:
   맞춤법 검사:
     표제어: 의결권
     품사: 명사
 ---
 000_KEYWORD: 의결되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71637
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -509,13 +509,13 @@ imported:
     표제어: 의결되다
     품사: 동사
     항목ID: 71637
-processed:
+result:
   맞춤법 검사:
     표제어: 의결되다
     품사: 동사
 ---
 000_KEYWORD: 의결하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71638
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -548,13 +548,13 @@ imported:
     표제어: 의결하다
     품사: 동사
     항목ID: 71638
-processed:
+result:
   맞춤법 검사:
     표제어: 의결하다
     품사: 동사
 ---
 000_KEYWORD: 의경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71643
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -581,13 +581,13 @@ imported:
     표제어: 의경
     품사: 명사
     항목ID: 71643
-processed:
+result:
   맞춤법 검사:
     표제어: 의경
     품사: 명사
 ---
 000_KEYWORD: 의과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71644
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -617,13 +617,13 @@ imported:
     표제어: 의과
     품사: 명사
     항목ID: 71644
-processed:
+result:
   맞춤법 검사:
     표제어: 의과
     품사: 명사
 ---
 000_KEYWORD: 의관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71646
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -653,13 +653,13 @@ imported:
     표제어: 의관
     품사: 명사
     항목ID: 71646
-processed:
+result:
   맞춤법 검사:
     표제어: 의관
     품사: 명사
 ---
 000_KEYWORD: 의구심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71647
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -694,13 +694,13 @@ imported:
     표제어: 의구심
     품사: 명사
     항목ID: 71647
-processed:
+result:
   맞춤법 검사:
     표제어: 의구심
     품사: 명사
 ---
 000_KEYWORD: 의국__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -711,13 +711,13 @@ imported:
     표제어: 의국
     품사: 명사:보통:서술성
     항목ID: 20973
-processed:
+result:
   맞춤법 검사:
     표제어: 의국
     품사: 명사
 ---
 000_KEYWORD: 의기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71648
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -776,13 +776,13 @@ imported:
     표제어: 의기
     품사: 명사
     항목ID: 71648
-processed:
+result:
   맞춤법 검사:
     표제어: 의기
     품사: 명사
 ---
 000_KEYWORD: 의기소침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71649
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -809,13 +809,13 @@ imported:
     표제어: 의기소침
     품사: 명사
     항목ID: 71649
-processed:
+result:
   맞춤법 검사:
     표제어: 의기소침
     품사: 명사
 ---
 000_KEYWORD: 의기소침하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71650
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -854,13 +854,13 @@ imported:
       형태: 의기소침하니
     - 발음: 의ː기소침함니다
       형태: 의기소침합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 의기소침하다
     품사: 형용사
 ---
 000_KEYWORD: 의기양양__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71651
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -889,13 +889,13 @@ imported:
     표제어: 의기양양
     품사: 명사
     항목ID: 71651
-processed:
+result:
   맞춤법 검사:
     표제어: 의기양양
     품사: 명사
 ---
 000_KEYWORD: 의기양양하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71652
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -948,13 +948,13 @@ imported:
       형태: 의기양양합니다
     - 발음: 의ː기양냥함니다
       형태: 의기양양합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 의기양양하다
     품사: 형용사
 ---
 000_KEYWORD: 의기투합__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71653
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -988,13 +988,13 @@ imported:
     - 발음: 의ː기투함만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71653_ui-gituhamman.wav
       형태: 의기투합만
-processed:
+result:
   맞춤법 검사:
     표제어: 의기투합
     품사: 명사
 ---
 000_KEYWORD: 의기투합하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71654
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1024,13 +1024,13 @@ imported:
     표제어: 의기투합하다
     품사: 동사
     항목ID: 71654
-processed:
+result:
   맞춤법 검사:
     표제어: 의기투합하다
     품사: 동사
 ---
 000_KEYWORD: 의남매__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1040,13 +1040,13 @@ imported:
     표제어: 의남매
     품사: 명사:보통:비서술성
     항목ID: 20978
-processed:
+result:
   맞춤법 검사:
     표제어: 의남매
     품사: 명사
 ---
 000_KEYWORD: 의논__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24059
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1080,13 +1080,13 @@ imported:
     표제어: 의논
     품사: 명사
     항목ID: 24059
-processed:
+result:
   맞춤법 검사:
     표제어: 의논
     품사: 명사
 ---
 000_KEYWORD: 의논되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91718
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1120,13 +1120,13 @@ imported:
     표제어: 의논되다
     품사: 동사
     항목ID: 91718
-processed:
+result:
   맞춤법 검사:
     표제어: 의논되다
     품사: 동사
 ---
 000_KEYWORD: 의논하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24061
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1155,13 +1155,13 @@ imported:
     표제어: 의논하다
     품사: 동사
     항목ID: 24061
-processed:
+result:
   맞춤법 검사:
     표제어: 의논하다
     품사: 동사
 ---
 000_KEYWORD: 의당__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71655
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1189,13 +1189,13 @@ imported:
     표제어: 의당
     품사: 부사
     항목ID: 71655
-processed:
+result:
   맞춤법 검사:
     표제어: 의당
     품사: 부사
 ---
 000_KEYWORD: 의대__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1204,13 +1204,13 @@ imported:
     표제어: 의대
     품사: 명사:보통:비서술성
     항목ID: 20981
-processed:
+result:
   맞춤법 검사:
     표제어: 의대
     품사: 명사
 ---
 000_KEYWORD: 의도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24068
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1251,13 +1251,13 @@ imported:
     표제어: 의도
     품사: 명사
     항목ID: 24068
-processed:
+result:
   맞춤법 검사:
     표제어: 의도
     품사: 명사
 ---
 000_KEYWORD: 의도적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24070
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1285,13 +1285,13 @@ imported:
     표제어: 의도적
     품사: 관형사
     항목ID: 24070
-processed:
+result:
   맞춤법 검사:
     표제어: 의도적
     품사: 관형사
 ---
 000_KEYWORD: 의도적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24072
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1319,13 +1319,13 @@ imported:
     표제어: 의도적
     품사: 명사
     항목ID: 24072
-processed:
+result:
   맞춤법 검사:
     표제어: 의도적
     품사: 명사
 ---
 000_KEYWORD: 의도하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71657
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1353,13 +1353,13 @@ imported:
     표제어: 의도하다
     품사: 동사
     항목ID: 71657
-processed:
+result:
   맞춤법 검사:
     표제어: 의도하다
     품사: 동사
 ---
 000_KEYWORD: 의례__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71658
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1392,13 +1392,13 @@ imported:
     표제어: 의례
     품사: 명사
     항목ID: 71658
-processed:
+result:
   맞춤법 검사:
     표제어: 의례
     품사: 명사
 ---
 000_KEYWORD: 의례적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71659
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1439,13 +1439,13 @@ imported:
     표제어: 의례적
     품사: 관형사
     항목ID: 71659
-processed:
+result:
   맞춤법 검사:
     표제어: 의례적
     품사: 관형사
 ---
 000_KEYWORD: 의례적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71660
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1487,13 +1487,13 @@ imported:
     표제어: 의례적
     품사: 명사
     항목ID: 71660
-processed:
+result:
   맞춤법 검사:
     표제어: 의례적
     품사: 명사
 ---
 000_KEYWORD: 의례히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71661
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1521,13 +1521,13 @@ imported:
     표제어: 의례히
     품사: 부사
     항목ID: 71661
-processed:
+result:
   맞춤법 검사:
     표제어: 의례히
     품사: 부사
 ---
 000_KEYWORD: 의론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92407
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1541,10 +1541,10 @@ imported:
     표제어: 의론
     품사: 명사
     항목ID: 92407
-processed: {}
+result: {}
 ---
 000_KEYWORD: 의롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71662
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1583,7 +1583,7 @@ imported:
       형태: 의로우니
     - 발음: 의ː롭씀니다
       형태: 의롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1591,7 +1591,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 의뢰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71663
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1625,13 +1625,13 @@ imported:
     표제어: 의뢰
     품사: 명사
     항목ID: 71663
-processed:
+result:
   맞춤법 검사:
     표제어: 의뢰
     품사: 명사
 ---
 000_KEYWORD: 의뢰인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71665
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1661,13 +1661,13 @@ imported:
     표제어: 의뢰인
     품사: 명사
     항목ID: 71665
-processed:
+result:
   맞춤법 검사:
     표제어: 의뢰인
     품사: 명사
 ---
 000_KEYWORD: 의뢰하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71664
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1701,13 +1701,13 @@ imported:
     표제어: 의뢰하다
     품사: 동사
     항목ID: 71664
-processed:
+result:
   맞춤법 검사:
     표제어: 의뢰하다
     품사: 동사
 ---
 000_KEYWORD: 의료__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71666
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1740,13 +1740,13 @@ imported:
     표제어: 의료
     품사: 명사
     항목ID: 71666
-processed:
+result:
   맞춤법 검사:
     표제어: 의료
     품사: 명사
 ---
 000_KEYWORD: 의료_보험__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71669
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1776,13 +1776,13 @@ imported:
     표제어: 의료 보험
     품사: 명사
     항목ID: 71669
-processed:
+result:
   맞춤법 검사:
     표제어: 의료 보험
     품사: 명사
 ---
 000_KEYWORD: 의료계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71667
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1812,13 +1812,13 @@ imported:
     표제어: 의료계
     품사: 명사
     항목ID: 71667
-processed:
+result:
   맞춤법 검사:
     표제어: 의료계
     품사: 명사
 ---
 000_KEYWORD: 의료기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71668
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1846,13 +1846,13 @@ imported:
     표제어: 의료기
     품사: 명사
     항목ID: 71668
-processed:
+result:
   맞춤법 검사:
     표제어: 의료기
     품사: 명사
 ---
 000_KEYWORD: 의료보험__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1861,13 +1861,13 @@ imported:
     표제어: 의료보험
     품사: 명사:보통:서술성
     항목ID: 20992
-processed:
+result:
   맞춤법 검사:
     표제어: 의료보험
     품사: 명사
 ---
 000_KEYWORD: 의료비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71670
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1895,13 +1895,13 @@ imported:
     표제어: 의료비
     품사: 명사
     항목ID: 71670
-processed:
+result:
   맞춤법 검사:
     표제어: 의료비
     품사: 명사
 ---
 000_KEYWORD: 의료인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90660
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1929,13 +1929,13 @@ imported:
     표제어: 의료인
     품사: 명사
     항목ID: 90660
-processed:
+result:
   맞춤법 검사:
     표제어: 의료인
     품사: 명사
 ---
 000_KEYWORD: 의료진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71671
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -1963,13 +1963,13 @@ imported:
     표제어: 의료진
     품사: 명사
     항목ID: 71671
-processed:
+result:
   맞춤법 검사:
     표제어: 의료진
     품사: 명사
 ---
 000_KEYWORD: 의류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24063
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2001,13 +2001,13 @@ imported:
     표제어: 의류
     품사: 명사
     항목ID: 24063
-processed:
+result:
   맞춤법 검사:
     표제어: 의류
     품사: 명사
 ---
 000_KEYWORD: 의류업체__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2016,13 +2016,13 @@ imported:
     표제어: 의류업체
     품사: 명사:보통:비서술성
     항목ID: 20996
-processed:
+result:
   맞춤법 검사:
     표제어: 의류업체
     품사: 명사
 ---
 000_KEYWORD: 의리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71672
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2080,13 +2080,13 @@ imported:
     표제어: 의리
     품사: 명사
     항목ID: 71672
-processed:
+result:
   맞춤법 검사:
     표제어: 의리
     품사: 명사
 ---
 000_KEYWORD: 의무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24066
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2137,13 +2137,13 @@ imported:
     표제어: 의무
     품사: 명사
     항목ID: 24066
-processed:
+result:
   맞춤법 검사:
     표제어: 의무
     품사: 명사
 ---
 000_KEYWORD: 의무감__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71674
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2171,13 +2171,13 @@ imported:
     표제어: 의무감
     품사: 명사
     항목ID: 71674
-processed:
+result:
   맞춤법 검사:
     표제어: 의무감
     품사: 명사
 ---
 000_KEYWORD: 의무실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71676
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2205,13 +2205,13 @@ imported:
     표제어: 의무실
     품사: 명사
     항목ID: 71676
-processed:
+result:
   맞춤법 검사:
     표제어: 의무실
     품사: 명사
 ---
 000_KEYWORD: 의무적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71677
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2239,13 +2239,13 @@ imported:
     표제어: 의무적
     품사: 관형사
     항목ID: 71677
-processed:
+result:
   맞춤법 검사:
     표제어: 의무적
     품사: 관형사
 ---
 000_KEYWORD: 의무적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71678
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2277,13 +2277,13 @@ imported:
     표제어: 의무적
     품사: 명사
     항목ID: 71678
-processed:
+result:
   맞춤법 검사:
     표제어: 의무적
     품사: 명사
 ---
 000_KEYWORD: 의무화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71679
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2313,13 +2313,13 @@ imported:
     표제어: 의무화
     품사: 명사
     항목ID: 71679
-processed:
+result:
   맞춤법 검사:
     표제어: 의무화
     품사: 명사
 ---
 000_KEYWORD: 의무화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71680
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2350,13 +2350,13 @@ imported:
     표제어: 의무화되다
     품사: 동사
     항목ID: 71680
-processed:
+result:
   맞춤법 검사:
     표제어: 의무화되다
     품사: 동사
 ---
 000_KEYWORD: 의무화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71681
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2388,13 +2388,13 @@ imported:
     표제어: 의무화하다
     품사: 동사
     항목ID: 71681
-processed:
+result:
   맞춤법 검사:
     표제어: 의무화하다
     품사: 동사
 ---
 000_KEYWORD: 의문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24075
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2423,13 +2423,13 @@ imported:
     표제어: 의문
     품사: 명사
     항목ID: 24075
-processed:
+result:
   맞춤법 검사:
     표제어: 의문
     품사: 명사
 ---
 000_KEYWORD: 의문_부호__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71271
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2462,13 +2462,13 @@ imported:
     표제어: 의문 부호
     품사: 명사
     항목ID: 71271
-processed:
+result:
   맞춤법 검사:
     표제어: 의문 부호
     품사: 명사
 ---
 000_KEYWORD: 의문문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71683
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2497,13 +2497,13 @@ imported:
     표제어: 의문문
     품사: 명사
     항목ID: 71683
-processed:
+result:
   맞춤법 검사:
     표제어: 의문문
     품사: 명사
 ---
 000_KEYWORD: 의문사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71272
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2532,13 +2532,13 @@ imported:
     표제어: 의문사
     품사: 명사
     항목ID: 71272
-processed:
+result:
   맞춤법 검사:
     표제어: 의문사
     품사: 명사
 ---
 000_KEYWORD: 의문스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71410
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2580,7 +2580,7 @@ imported:
       형태: 의문스러우니
     - 발음: 의문스럽씀니다
       형태: 의문스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -2588,7 +2588,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 의문시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71413
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2620,13 +2620,13 @@ imported:
     표제어: 의문시되다
     품사: 동사
     항목ID: 71413
-processed:
+result:
   맞춤법 검사:
     표제어: 의문시되다
     품사: 동사
 ---
 000_KEYWORD: 의문시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71414
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2655,13 +2655,13 @@ imported:
     표제어: 의문시하다
     품사: 동사
     항목ID: 71414
-processed:
+result:
   맞춤법 검사:
     표제어: 의문시하다
     품사: 동사
 ---
 000_KEYWORD: 의문점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71415
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2694,13 +2694,13 @@ imported:
     표제어: 의문점
     품사: 명사
     항목ID: 71415
-processed:
+result:
   맞춤법 검사:
     표제어: 의문점
     품사: 명사
 ---
 000_KEYWORD: 의문형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71701
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2729,13 +2729,13 @@ imported:
     표제어: 의문형
     품사: 명사
     항목ID: 71701
-processed:
+result:
   맞춤법 검사:
     표제어: 의문형
     품사: 명사
 ---
 000_KEYWORD: 의뭉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71703
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2759,13 +2759,13 @@ imported:
     표제어: 의뭉
     품사: 명사
     항목ID: 71703
-processed:
+result:
   맞춤법 검사:
     표제어: 의뭉
     품사: 명사
 ---
 000_KEYWORD: 의뭉스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71930
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2804,7 +2804,7 @@ imported:
       형태: 의뭉스러우니
     - 발음: 의뭉스럽씀니다
       형태: 의뭉스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -2812,7 +2812,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 의뭉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71704
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2851,13 +2851,13 @@ imported:
       형태: 의뭉하니
     - 발음: 의뭉함니다
       형태: 의뭉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 의뭉하다
     품사: 형용사
 ---
 000_KEYWORD: 의미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62385
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2943,13 +2943,13 @@ imported:
     표제어: 의미
     품사: 명사
     항목ID: 62385
-processed:
+result:
   맞춤법 검사:
     표제어: 의미
     품사: 명사
 ---
 000_KEYWORD: 의미론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71705
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -2981,13 +2981,13 @@ imported:
     표제어: 의미론
     품사: 명사
     항목ID: 71705
-processed:
+result:
   맞춤법 검사:
     표제어: 의미론
     품사: 명사
 ---
 000_KEYWORD: 의미심장하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71706
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3031,13 +3031,13 @@ imported:
       형태: 의미심장하니
     - 발음: 의ː미심장함니다
       형태: 의미심장합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 의미심장하다
     품사: 형용사
 ---
 000_KEYWORD: 의미하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71119
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3083,13 +3083,13 @@ imported:
     표제어: 의미하다
     품사: 동사
     항목ID: 71119
-processed:
+result:
   맞춤법 검사:
     표제어: 의미하다
     품사: 동사
 ---
 000_KEYWORD: 의병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71707
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3121,13 +3121,13 @@ imported:
     표제어: 의병
     품사: 명사
     항목ID: 71707
-processed:
+result:
   맞춤법 검사:
     표제어: 의병
     품사: 명사
 ---
 000_KEYWORD: 의복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24076
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3175,13 +3175,13 @@ imported:
     - 발음: 의봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/24076_uibongman.wav
       형태: 의복만
-processed:
+result:
   맞춤법 검사:
     표제어: 의복
     품사: 명사
 ---
 000_KEYWORD: 의부증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71869
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3214,13 +3214,13 @@ imported:
     표제어: 의부증
     품사: 명사
     항목ID: 71869
-processed:
+result:
   맞춤법 검사:
     표제어: 의부증
     품사: 명사
 ---
 000_KEYWORD: 의분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71870
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3249,13 +3249,13 @@ imported:
     표제어: 의분
     품사: 명사
     항목ID: 71870
-processed:
+result:
   맞춤법 검사:
     표제어: 의분
     품사: 명사
 ---
 000_KEYWORD: 의붓아버지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71871
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3306,13 +3306,13 @@ imported:
     표제어: 의붓아버지
     품사: 명사
     항목ID: 71871
-processed:
+result:
   맞춤법 검사:
     표제어: 의붓아버지
     품사: 명사
 ---
 000_KEYWORD: 의붓어머니__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71872
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3364,13 +3364,13 @@ imported:
     표제어: 의붓어머니
     품사: 명사
     항목ID: 71872
-processed:
+result:
   맞춤법 검사:
     표제어: 의붓어머니
     품사: 명사
 ---
 000_KEYWORD: 의붓자식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71873
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3408,13 +3408,13 @@ imported:
     - 발음: 의ː붇짜싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/25000/71873_ui-butjjasingman.wav
       형태: 의붓자식만
-processed:
+result:
   맞춤법 검사:
     표제어: 의붓자식
     품사: 명사
 ---
 000_KEYWORD: 의사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24079
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3454,13 +3454,13 @@ imported:
     표제어: 의사
     품사: 명사
     항목ID: 24079
-processed:
+result:
   맞춤법 검사:
     표제어: 의사
     품사: 명사
 ---
 000_KEYWORD: 의사__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71875
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3486,13 +3486,13 @@ imported:
     표제어: 의사
     품사: 명사
     항목ID: 71875
-processed:
+result:
   맞춤법 검사:
     표제어: 의사
     품사: 명사
 ---
 000_KEYWORD: 의사__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20256
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3529,13 +3529,13 @@ imported:
     표제어: 의사
     품사: 명사
     항목ID: 20256
-processed:
+result:
   맞춤법 검사:
     표제어: 의사
     품사: 명사
 ---
 000_KEYWORD: 의사당__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71877
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3564,13 +3564,13 @@ imported:
     표제어: 의사당
     품사: 명사
     항목ID: 71877
-processed:
+result:
   맞춤법 검사:
     표제어: 의사당
     품사: 명사
 ---
 000_KEYWORD: 의사록__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71878
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3609,13 +3609,13 @@ imported:
     - 발음: 의사롱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71878_uisarongman.wav
       형태: 의사록만
-processed:
+result:
   맞춤법 검사:
     표제어: 의사록
     품사: 명사
 ---
 000_KEYWORD: 의사소통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71879
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3652,13 +3652,13 @@ imported:
     표제어: 의사소통
     품사: 명사
     항목ID: 71879
-processed:
+result:
   맞춤법 검사:
     표제어: 의사소통
     품사: 명사
 ---
 000_KEYWORD: 의사소통하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71880
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3687,13 +3687,13 @@ imported:
     표제어: 의사소통하다
     품사: 동사
     항목ID: 71880
-processed:
+result:
   맞춤법 검사:
     표제어: 의사소통하다
     품사: 동사
 ---
 000_KEYWORD: 의사표시__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3703,13 +3703,13 @@ imported:
     표제어: 의사표시
     품사: 명사:보통:서술성
     항목ID: 21022
-processed:
+result:
   맞춤법 검사:
     표제어: 의사표시
     품사: 명사
 ---
 000_KEYWORD: 의상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71881
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3756,13 +3756,13 @@ imported:
     표제어: 의상
     품사: 명사
     항목ID: 71881
-processed:
+result:
   맞춤법 검사:
     표제어: 의상
     품사: 명사
 ---
 000_KEYWORD: 의상실__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3771,13 +3771,13 @@ imported:
     표제어: 의상실
     품사: 명사:보통:비서술성
     항목ID: 21024
-processed:
+result:
   맞춤법 검사:
     표제어: 의상실
     품사: 명사
 ---
 000_KEYWORD: 의생활__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71882
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3813,13 +3813,13 @@ imported:
     표제어: 의생활
     품사: 명사
     항목ID: 71882
-processed:
+result:
   맞춤법 검사:
     표제어: 의생활
     품사: 명사
 ---
 000_KEYWORD: 의석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71883
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3869,13 +3869,13 @@ imported:
     - 발음: 의성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71883_uiseongman.wav
       형태: 의석만
-processed:
+result:
   맞춤법 검사:
     표제어: 의석
     품사: 명사
 ---
 000_KEYWORD: 의석수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71884
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3903,13 +3903,13 @@ imported:
     표제어: 의석수
     품사: 명사
     항목ID: 71884
-processed:
+result:
   맞춤법 검사:
     표제어: 의석수
     품사: 명사
 ---
 000_KEYWORD: 의성어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71885
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3942,13 +3942,13 @@ imported:
     표제어: 의성어
     품사: 명사
     항목ID: 71885
-processed:
+result:
   맞춤법 검사:
     표제어: 의성어
     품사: 명사
 ---
 000_KEYWORD: 의수__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3958,13 +3958,13 @@ imported:
     표제어: 의수
     품사: 명사:보통:비서술성
     항목ID: 21027
-processed:
+result:
   맞춤법 검사:
     표제어: 의수
     품사: 명사
 ---
 000_KEYWORD: 의술__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71886
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -3993,13 +3993,13 @@ imported:
     표제어: 의술
     품사: 명사
     항목ID: 71886
-processed:
+result:
   맞춤법 검사:
     표제어: 의술
     품사: 명사
 ---
 000_KEYWORD: 의식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24080
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4053,13 +4053,13 @@ imported:
     - 발음: 의ː싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/24080_ui-singman.wav
       형태: 의식만
-processed:
+result:
   맞춤법 검사:
     표제어: 의식
     품사: 명사
 ---
 000_KEYWORD: 의식__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24084
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4108,13 +4108,13 @@ imported:
     - 발음: 의싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/24080_uisingman.wav
       형태: 의식만
-processed:
+result:
   맞춤법 검사:
     표제어: 의식
     품사: 명사
 ---
 000_KEYWORD: 의식되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71889
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4145,13 +4145,13 @@ imported:
     표제어: 의식되다
     품사: 동사
     항목ID: 71889
-processed:
+result:
   맞춤법 검사:
     표제어: 의식되다
     품사: 동사
 ---
 000_KEYWORD: 의식불명__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4161,13 +4161,13 @@ imported:
     표제어: 의식불명
     품사: 명사:보통:서술성
     항목ID: 21030
-processed:
+result:
   맞춤법 검사:
     표제어: 의식불명
     품사: 명사
 ---
 000_KEYWORD: 의식적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71890
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4207,13 +4207,13 @@ imported:
     표제어: 의식적
     품사: 관형사
     항목ID: 71890
-processed:
+result:
   맞춤법 검사:
     표제어: 의식적
     품사: 관형사
 ---
 000_KEYWORD: 의식적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71891
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4255,13 +4255,13 @@ imported:
     표제어: 의식적
     품사: 명사
     항목ID: 71891
-processed:
+result:
   맞춤법 검사:
     표제어: 의식적
     품사: 명사
 ---
 000_KEYWORD: 의식주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71893
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4291,13 +4291,13 @@ imported:
     표제어: 의식주
     품사: 명사
     항목ID: 71893
-processed:
+result:
   맞춤법 검사:
     표제어: 의식주
     품사: 명사
 ---
 000_KEYWORD: 의식하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24086
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4339,13 +4339,13 @@ imported:
     표제어: 의식하다
     품사: 동사
     항목ID: 24086
-processed:
+result:
   맞춤법 검사:
     표제어: 의식하다
     품사: 동사
 ---
 000_KEYWORD: 의식화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71894
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4378,13 +4378,13 @@ imported:
     표제어: 의식화
     품사: 명사
     항목ID: 71894
-processed:
+result:
   맞춤법 검사:
     표제어: 의식화
     품사: 명사
 ---
 000_KEYWORD: 의식화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71895
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4414,13 +4414,13 @@ imported:
     표제어: 의식화되다
     품사: 동사
     항목ID: 71895
-processed:
+result:
   맞춤법 검사:
     표제어: 의식화되다
     품사: 동사
 ---
 000_KEYWORD: 의식화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71896
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4447,13 +4447,13 @@ imported:
     표제어: 의식화하다
     품사: 동사
     항목ID: 71896
-processed:
+result:
   맞춤법 검사:
     표제어: 의식화하다
     품사: 동사
 ---
 000_KEYWORD: 의심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24090
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4483,13 +4483,13 @@ imported:
     표제어: 의심
     품사: 명사
     항목ID: 24090
-processed:
+result:
   맞춤법 검사:
     표제어: 의심
     품사: 명사
 ---
 000_KEYWORD: 의심나다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71897
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4523,13 +4523,13 @@ imported:
     활용:
     - 형태: 의심나
     - 형태: 의심나니
-processed:
+result:
   맞춤법 검사:
     표제어: 의심나다
     품사: 동사
 ---
 000_KEYWORD: 의심되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71898
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4561,13 +4561,13 @@ imported:
     표제어: 의심되다
     품사: 동사
     항목ID: 71898
-processed:
+result:
   맞춤법 검사:
     표제어: 의심되다
     품사: 동사
 ---
 000_KEYWORD: 의심스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71899
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4613,7 +4613,7 @@ imported:
       형태: 의심스러우니
     - 발음: 의심스럽씀니다
       형태: 의심스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -4621,7 +4621,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 의심스레__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4630,13 +4630,13 @@ imported:
     표제어: 의심스레
     품사: 부사
     항목ID: 21038
-processed:
+result:
   맞춤법 검사:
     표제어: 의심스레
     품사: 부사
 ---
 000_KEYWORD: 의심쩍다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71900
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4682,13 +4682,13 @@ imported:
       형태: 의심쩍으니
     - 발음: 의심쩍씀니다
       형태: 의심쩍습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 의심쩍다
     품사: 형용사
 ---
 000_KEYWORD: 의심하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71120
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4720,13 +4720,13 @@ imported:
     표제어: 의심하다
     품사: 동사
     항목ID: 71120
-processed:
+result:
   맞춤법 검사:
     표제어: 의심하다
     품사: 동사
 ---
 000_KEYWORD: 의아__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71901
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4755,13 +4755,13 @@ imported:
     표제어: 의아
     품사: 명사
     항목ID: 71901
-processed:
+result:
   맞춤법 검사:
     표제어: 의아
     품사: 명사
 ---
 000_KEYWORD: 의아스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71902
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4804,7 +4804,7 @@ imported:
       형태: 의아스러우니
     - 발음: 의아스럽씀니다
       형태: 의아스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -4812,7 +4812,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 의아심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71903
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4841,13 +4841,13 @@ imported:
     표제어: 의아심
     품사: 명사
     항목ID: 71903
-processed:
+result:
   맞춤법 검사:
     표제어: 의아심
     품사: 명사
 ---
 000_KEYWORD: 의아하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71904
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4892,13 +4892,13 @@ imported:
       형태: 의아하니
     - 발음: 의아함니다
       형태: 의아합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 의아하다
     품사: 형용사
 ---
 000_KEYWORD: 의안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71905
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4931,13 +4931,13 @@ imported:
     표제어: 의안
     품사: 명사
     항목ID: 71905
-processed:
+result:
   맞춤법 검사:
     표제어: 의안
     품사: 명사
 ---
 000_KEYWORD: 의약품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71906
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -4971,13 +4971,13 @@ imported:
     표제어: 의약품
     품사: 명사
     항목ID: 71906
-processed:
+result:
   맞춤법 검사:
     표제어: 의약품
     품사: 명사
 ---
 000_KEYWORD: 의역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71907
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5024,13 +5024,13 @@ imported:
     - 발음: 의ː영만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71907_ui-yeongman.wav
       형태: 의역만
-processed:
+result:
   맞춤법 검사:
     표제어: 의역
     품사: 명사
 ---
 000_KEYWORD: 의역되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71909
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5061,13 +5061,13 @@ imported:
     표제어: 의역되다
     품사: 동사
     항목ID: 71909
-processed:
+result:
   맞춤법 검사:
     표제어: 의역되다
     품사: 동사
 ---
 000_KEYWORD: 의역하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71911
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5101,13 +5101,13 @@ imported:
     표제어: 의역하다
     품사: 동사
     항목ID: 71911
-processed:
+result:
   맞춤법 검사:
     표제어: 의역하다
     품사: 동사
 ---
 000_KEYWORD: 의연금__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71914
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5137,13 +5137,13 @@ imported:
     표제어: 의연금
     품사: 명사
     항목ID: 71914
-processed:
+result:
   맞춤법 검사:
     표제어: 의연금
     품사: 명사
 ---
 000_KEYWORD: 의연하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71915
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5185,13 +5185,13 @@ imported:
       형태: 의연하니
     - 발음: 의연함니다
       형태: 의연합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 의연하다
     품사: 형용사
 ---
 000_KEYWORD: 의연히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71917
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5220,13 +5220,13 @@ imported:
     표제어: 의연히
     품사: 부사
     항목ID: 71917
-processed:
+result:
   맞춤법 검사:
     표제어: 의연히
     품사: 부사
 ---
 000_KEYWORD: 의예과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71918
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5252,13 +5252,13 @@ imported:
     표제어: 의예과
     품사: 명사
     항목ID: 71918
-processed:
+result:
   맞춤법 검사:
     표제어: 의예과
     품사: 명사
 ---
 000_KEYWORD: 의외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71920
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5294,13 +5294,13 @@ imported:
     표제어: 의외
     품사: 명사
     항목ID: 71920
-processed:
+result:
   맞춤법 검사:
     표제어: 의외
     품사: 명사
 ---
 000_KEYWORD: 의외로__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24092
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5334,13 +5334,13 @@ imported:
     표제어: 의외로
     품사: 부사
     항목ID: 24092
-processed:
+result:
   맞춤법 검사:
     표제어: 의외로
     품사: 부사
 ---
 000_KEYWORD: 의외롭다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71923
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5392,7 +5392,7 @@ imported:
       형태: 의외롭습니다
     - 발음: 의ː웨롭씀니다
       형태: 의외롭습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -5400,7 +5400,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 의욕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24094
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5440,13 +5440,13 @@ imported:
     - 발음: 의ː용만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/24094_ui-yongman.wav
       형태: 의욕만
-processed:
+result:
   맞춤법 검사:
     표제어: 의욕
     품사: 명사
 ---
 000_KEYWORD: 의욕적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71924
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5476,13 +5476,13 @@ imported:
     표제어: 의욕적
     품사: 관형사
     항목ID: 71924
-processed:
+result:
   맞춤법 검사:
     표제어: 의욕적
     품사: 관형사
 ---
 000_KEYWORD: 의욕적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71926
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5513,13 +5513,13 @@ imported:
     표제어: 의욕적
     품사: 명사
     항목ID: 71926
-processed:
+result:
   맞춤법 검사:
     표제어: 의욕적
     품사: 명사
 ---
 000_KEYWORD: 의용군__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71853
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5547,13 +5547,13 @@ imported:
     표제어: 의용군
     품사: 명사
     항목ID: 71853
-processed:
+result:
   맞춤법 검사:
     표제어: 의용군
     품사: 명사
 ---
 000_KEYWORD: 의원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71854
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5582,13 +5582,13 @@ imported:
     표제어: 의원
     품사: 명사
     항목ID: 71854
-processed:
+result:
   맞춤법 검사:
     표제어: 의원
     품사: 명사
 ---
 000_KEYWORD: 의원__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24095
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5620,13 +5620,13 @@ imported:
     표제어: 의원
     품사: 명사
     항목ID: 24095
-processed:
+result:
   맞춤법 검사:
     표제어: 의원
     품사: 명사
 ---
 000_KEYWORD: 의원직__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5635,13 +5635,13 @@ imported:
     표제어: 의원직
     품사: 명사:보통:서술성
     항목ID: 21052
-processed:
+result:
   맞춤법 검사:
     표제어: 의원직
     품사: 명사
 ---
 000_KEYWORD: 의의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71856
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5710,13 +5710,13 @@ imported:
     표제어: 의의
     품사: 명사
     항목ID: 71856
-processed:
+result:
   맞춤법 검사:
     표제어: 의의
     품사: 명사
 ---
 000_KEYWORD: 의인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71857
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5745,13 +5745,13 @@ imported:
     표제어: 의인
     품사: 명사
     항목ID: 71857
-processed:
+result:
   맞춤법 검사:
     표제어: 의인
     품사: 명사
 ---
 000_KEYWORD: 의인화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71858
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5778,13 +5778,13 @@ imported:
     표제어: 의인화
     품사: 명사
     항목ID: 71858
-processed:
+result:
   맞춤법 검사:
     표제어: 의인화
     품사: 명사
 ---
 000_KEYWORD: 의인화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71859
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5814,13 +5814,13 @@ imported:
     표제어: 의인화되다
     품사: 동사
     항목ID: 71859
-processed:
+result:
   맞춤법 검사:
     표제어: 의인화되다
     품사: 동사
 ---
 000_KEYWORD: 의인화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71860
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5848,13 +5848,13 @@ imported:
     표제어: 의인화하다
     품사: 동사
     항목ID: 71860
-processed:
+result:
   맞춤법 검사:
     표제어: 의인화하다
     품사: 동사
 ---
 000_KEYWORD: 의자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71121
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5892,13 +5892,13 @@ imported:
     표제어: 의자
     품사: 명사
     항목ID: 71121
-processed:
+result:
   맞춤법 검사:
     표제어: 의자
     품사: 명사
 ---
 000_KEYWORD: 의장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71861
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5927,13 +5927,13 @@ imported:
     표제어: 의장
     품사: 명사
     항목ID: 71861
-processed:
+result:
   맞춤법 검사:
     표제어: 의장
     품사: 명사
 ---
 000_KEYWORD: 의장국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71862
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -5969,13 +5969,13 @@ imported:
     - 발음: 의장궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71862_uijanggungman.wav
       형태: 의장국만
-processed:
+result:
   맞춤법 검사:
     표제어: 의장국
     품사: 명사
 ---
 000_KEYWORD: 의장단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71863
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6003,13 +6003,13 @@ imported:
     표제어: 의장단
     품사: 명사
     항목ID: 71863
-processed:
+result:
   맞춤법 검사:
     표제어: 의장단
     품사: 명사
 ---
 000_KEYWORD: 의장대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71864
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6037,13 +6037,13 @@ imported:
     표제어: 의장대
     품사: 명사
     항목ID: 71864
-processed:
+result:
   맞춤법 검사:
     표제어: 의장대
     품사: 명사
 ---
 000_KEYWORD: 의적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71865
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6079,13 +6079,13 @@ imported:
     - 발음: 의ː정만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71865_ui-jeongman.wav
       형태: 의적만
-processed:
+result:
   맞춤법 검사:
     표제어: 의적
     품사: 명사
 ---
 000_KEYWORD: 의절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71866
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6126,13 +6126,13 @@ imported:
     표제어: 의절
     품사: 명사
     항목ID: 71866
-processed:
+result:
   맞춤법 검사:
     표제어: 의절
     품사: 명사
 ---
 000_KEYWORD: 의절하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71867
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6176,13 +6176,13 @@ imported:
     표제어: 의절하다
     품사: 동사
     항목ID: 71867
-processed:
+result:
   맞춤법 검사:
     표제어: 의절하다
     품사: 동사
 ---
 000_KEYWORD: 의젓하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71868
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6220,13 +6220,13 @@ imported:
       형태: 의젓하니
     - 발음: 의저탐니다
       형태: 의젓합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 의젓하다
     품사: 형용사
 ---
 000_KEYWORD: 의정부__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6237,13 +6237,13 @@ imported:
     표제어: 의정부
     품사: 명사:보통:서술성
     항목ID: 21061
-processed:
+result:
   맞춤법 검사:
     표제어: 의정부
     품사: 명사
 ---
 000_KEYWORD: 의정비__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6252,13 +6252,13 @@ imported:
     표제어: 의정비
     품사: 명사:보통:서술성
     항목ID: 21062
-processed:
+result:
   맞춤법 검사:
     표제어: 의정비
     품사: 명사
 ---
 000_KEYWORD: 의정서__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6267,13 +6267,13 @@ imported:
     표제어: 의정서
     품사: 명사:보통:비서술성
     항목ID: 21063
-processed:
+result:
   맞춤법 검사:
     표제어: 의정서
     품사: 명사
 ---
 000_KEYWORD: 의제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6282,13 +6282,13 @@ imported:
     표제어: 의제
     품사: 명사:보통:비서술성
     항목ID: 21064
-processed:
+result:
   맞춤법 검사:
     표제어: 의제
     품사: 명사
 ---
 000_KEYWORD: 의족__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71852
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6325,13 +6325,13 @@ imported:
     - 발음: 의ː종만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71852_ui-jongman.wav
       형태: 의족만
-processed:
+result:
   맞춤법 검사:
     표제어: 의족
     품사: 명사
 ---
 000_KEYWORD: 의존__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71392
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6356,13 +6356,13 @@ imported:
     표제어: 의존
     품사: 명사
     항목ID: 71392
-processed:
+result:
   맞춤법 검사:
     표제어: 의존
     품사: 명사
 ---
 000_KEYWORD: 의존도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71394
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6394,13 +6394,13 @@ imported:
     표제어: 의존도
     품사: 명사
     항목ID: 71394
-processed:
+result:
   맞춤법 검사:
     표제어: 의존도
     품사: 명사
 ---
 000_KEYWORD: 의존되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71396
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6434,13 +6434,13 @@ imported:
     표제어: 의존되다
     품사: 동사
     항목ID: 71396
-processed:
+result:
   맞춤법 검사:
     표제어: 의존되다
     품사: 동사
 ---
 000_KEYWORD: 의존성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71402
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6469,13 +6469,13 @@ imported:
     표제어: 의존성
     품사: 명사
     항목ID: 71402
-processed:
+result:
   맞춤법 검사:
     표제어: 의존성
     품사: 명사
 ---
 000_KEYWORD: 의존심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71405
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6508,13 +6508,13 @@ imported:
     표제어: 의존심
     품사: 명사
     항목ID: 71405
-processed:
+result:
   맞춤법 검사:
     표제어: 의존심
     품사: 명사
 ---
 000_KEYWORD: 의존적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71406
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6545,13 +6545,13 @@ imported:
     표제어: 의존적
     품사: 관형사
     항목ID: 71406
-processed:
+result:
   맞춤법 검사:
     표제어: 의존적
     품사: 관형사
 ---
 000_KEYWORD: 의존적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71407
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6586,13 +6586,13 @@ imported:
     표제어: 의존적
     품사: 명사
     항목ID: 71407
-processed:
+result:
   맞춤법 검사:
     표제어: 의존적
     품사: 명사
 ---
 000_KEYWORD: 의존하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24098
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6620,13 +6620,13 @@ imported:
     표제어: 의존하다
     품사: 동사
     항목ID: 24098
-processed:
+result:
   맞춤법 검사:
     표제어: 의존하다
     품사: 동사
 ---
 000_KEYWORD: 의종__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6637,13 +6637,13 @@ imported:
     표제어: 의종
     품사: 명사:보통:서술성
     항목ID: 21071
-processed:
+result:
   맞춤법 검사:
     표제어: 의종
     품사: 명사
 ---
 000_KEYWORD: 의좋다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71409
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6687,7 +6687,7 @@ imported:
     - 발음: 의ː조씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71409_ui-josseumnida.wav
       형태: 의좋습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -6695,7 +6695,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 의중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71411
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6739,13 +6739,13 @@ imported:
     표제어: 의중
     품사: 명사
     항목ID: 71411
-processed:
+result:
   맞춤법 검사:
     표제어: 의중
     품사: 명사
 ---
 000_KEYWORD: 의지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71412
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6783,13 +6783,13 @@ imported:
     표제어: 의지
     품사: 명사
     항목ID: 71412
-processed:
+result:
   맞춤법 검사:
     표제어: 의지
     품사: 명사
 ---
 000_KEYWORD: 의지__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24101
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6830,13 +6830,13 @@ imported:
     표제어: 의지
     품사: 명사
     항목ID: 24101
-processed:
+result:
   맞춤법 검사:
     표제어: 의지
     품사: 명사
 ---
 000_KEYWORD: 의지력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71417
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6871,13 +6871,13 @@ imported:
     - 발음: 의ː지령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71417_ui-jiryeongman.wav
       형태: 의지력만
-processed:
+result:
   맞춤법 검사:
     표제어: 의지력
     품사: 명사
 ---
 000_KEYWORD: 의지박약__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6887,13 +6887,13 @@ imported:
     표제어: 의지박약
     품사: 명사:보통:서술성
     항목ID: 21074
-processed:
+result:
   맞춤법 검사:
     표제어: 의지박약
     품사: 명사
 ---
 000_KEYWORD: 의지박약하다__형용사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6903,13 +6903,13 @@ imported:
     표제어: 의지박약하다
     품사: 형용사
     항목ID: 21075
-processed:
+result:
   맞춤법 검사:
     표제어: 의지박약하다
     품사: 형용사
 ---
 000_KEYWORD: 의지하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24102
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6949,13 +6949,13 @@ imported:
     표제어: 의지하다
     품사: 동사
     항목ID: 24102
-processed:
+result:
   맞춤법 검사:
     표제어: 의지하다
     품사: 동사
 ---
 000_KEYWORD: 의처증__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71418
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -6989,13 +6989,13 @@ imported:
     표제어: 의처증
     품사: 명사
     항목ID: 71418
-processed:
+result:
   맞춤법 검사:
     표제어: 의처증
     품사: 명사
 ---
 000_KEYWORD: 의천__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7006,13 +7006,13 @@ imported:
     표제어: 의천
     품사: 명사:보통:서술성
     항목ID: 21077
-processed:
+result:
   맞춤법 검사:
     표제어: 의천
     품사: 명사
 ---
 000_KEYWORD: 의치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71419
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7047,13 +7047,13 @@ imported:
     표제어: 의치
     품사: 명사
     항목ID: 71419
-processed:
+result:
   맞춤법 검사:
     표제어: 의치
     품사: 명사
 ---
 000_KEYWORD: 의타심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71421
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7082,13 +7082,13 @@ imported:
     표제어: 의타심
     품사: 명사
     항목ID: 71421
-processed:
+result:
   맞춤법 검사:
     표제어: 의타심
     품사: 명사
 ---
 000_KEYWORD: 의탁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71423
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7126,13 +7126,13 @@ imported:
     - 발음: 의탕만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71423_uitangman.wav
       형태: 의탁만
-processed:
+result:
   맞춤법 검사:
     표제어: 의탁
     품사: 명사
 ---
 000_KEYWORD: 의탁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71424
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7160,13 +7160,13 @@ imported:
     표제어: 의탁하다
     품사: 동사
     항목ID: 71424
-processed:
+result:
   맞춤법 검사:
     표제어: 의탁하다
     품사: 동사
 ---
 000_KEYWORD: 의태어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71426
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7195,13 +7195,13 @@ imported:
     표제어: 의태어
     품사: 명사
     항목ID: 71426
-processed:
+result:
   맞춤법 검사:
     표제어: 의태어
     품사: 명사
 ---
 000_KEYWORD: 의하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71122
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7235,13 +7235,13 @@ imported:
     표제어: 의하다
     품사: 동사
     항목ID: 71122
-processed:
+result:
   맞춤법 검사:
     표제어: 의하다
     품사: 동사
 ---
 000_KEYWORD: 의학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24104
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7283,13 +7283,13 @@ imported:
     - 발음: 의항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/24104_uihangman.wav
       형태: 의학만
-processed:
+result:
   맞춤법 검사:
     표제어: 의학
     품사: 명사
 ---
 000_KEYWORD: 의학계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71427
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7322,13 +7322,13 @@ imported:
     표제어: 의학계
     품사: 명사
     항목ID: 71427
-processed:
+result:
   맞춤법 검사:
     표제어: 의학계
     품사: 명사
 ---
 000_KEYWORD: 의학도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71428
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7359,13 +7359,13 @@ imported:
     표제어: 의학도
     품사: 명사
     항목ID: 71428
-processed:
+result:
   맞춤법 검사:
     표제어: 의학도
     품사: 명사
 ---
 000_KEYWORD: 의학자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71430
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7396,13 +7396,13 @@ imported:
     표제어: 의학자
     품사: 명사
     항목ID: 71430
-processed:
+result:
   맞춤법 검사:
     표제어: 의학자
     품사: 명사
 ---
 000_KEYWORD: 의학적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71431
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7437,13 +7437,13 @@ imported:
     표제어: 의학적
     품사: 관형사
     항목ID: 71431
-processed:
+result:
   맞춤법 검사:
     표제어: 의학적
     품사: 관형사
 ---
 000_KEYWORD: 의학적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71432
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7475,13 +7475,13 @@ imported:
     표제어: 의학적
     품사: 명사
     항목ID: 71432
-processed:
+result:
   맞춤법 검사:
     표제어: 의학적
     품사: 명사
 ---
 000_KEYWORD: 의향__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71433
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7527,13 +7527,13 @@ imported:
     표제어: 의향
     품사: 명사
     항목ID: 71433
-processed:
+result:
   맞춤법 검사:
     표제어: 의향
     품사: 명사
 ---
 000_KEYWORD: 의협심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71434
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7573,13 +7573,13 @@ imported:
     표제어: 의협심
     품사: 명사
     항목ID: 71434
-processed:
+result:
   맞춤법 검사:
     표제어: 의협심
     품사: 명사
 ---
 000_KEYWORD: 의형제__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71556
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7620,13 +7620,13 @@ imported:
     표제어: 의형제
     품사: 명사
     항목ID: 71556
-processed:
+result:
   맞춤법 검사:
     표제어: 의형제
     품사: 명사
 ---
 000_KEYWORD: 의혹__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71557
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7673,13 +7673,13 @@ imported:
     - 발음: 의홍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71557_uihongman.wav
       형태: 의혹만
-processed:
+result:
   맞춤법 검사:
     표제어: 의혹
     품사: 명사
 ---
 000_KEYWORD: 의회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71558
     가져온 시각: '2019-08-13T02:03:14+09:00'
@@ -7715,7 +7715,7 @@ imported:
     표제어: 의회
     품사: 명사
     항목ID: 71558
-processed:
+result:
   맞춤법 검사:
     표제어: 의회
     품사: 명사

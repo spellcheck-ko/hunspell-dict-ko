@@ -74,27 +74,6 @@ class ImportKrdict:
             s = s.replace('<système de chauffage par le sol>', '&lt;système de chauffage par le sol&gt;')
         return s
 
-    def find_entry_file(outdir, id, word, pos):
-        subdir = get_subdir(word)
-        dirname = os.path.join(outdir, subdir)
-        if not os.access(dirname, os.F_OK):
-            os.makedirs(dirname)
-        filename_prefix = (word + '__' + pos).replace(' ', '_')
-        pattern = os.path.join(outdir, subdir, filename_prefix + '__*.yaml')
-        filenames = glob.glob(pattern)
-        serial = 1
-        while True:
-            filename = os.path.join(outdir, subdir, filename_prefix + ('__%03d.yaml' % serial))
-            if os.access(filename, os.F_OK):
-                print('file: ' + filename)
-                k = yaml.load(open(filename).read())
-                if 'imported' in k and k['imported'] and '한국어기초사전' in k['imported']:
-                    if k['imported']['한국어기초사전']['항목ID'] == id:
-                        return filename
-            else:
-                return filename
-            serial += 1
-
     def yaml_cache_find_yaml_doc(self, krdict_id, word, pos):
         # 첫 음절에서 받침 제외
         if word[0] == '-':
@@ -111,13 +90,13 @@ class ImportKrdict:
 
         for i in range(0,len(docs)):
             doc = docs[i]
-            if 'imported' in doc and doc['imported'] and '한국어기초사전' in doc['imported']:
-                if doc['imported']['한국어기초사전']['항목ID'] == krdict_id:
+            if 'import' in doc and doc['import'] and '한국어기초사전' in doc['import']:
+                if doc['import']['한국어기초사전']['항목ID'] == krdict_id:
                     return doc
 
         for i in range(0,len(docs)):
             doc = docs[i]
-            if 'imported' in doc and doc['imported'] and '한국어기초사전' in doc['imported']:
+            if 'import' in doc and doc['import'] and '한국어기초사전' in doc['import']:
                 kw = doc['000_KEYWORD']
                 if kw_prefix == kw[:-5]:
                     last_serial = int(kw[-3:])
@@ -169,9 +148,9 @@ class ImportKrdict:
             self.yaml_cache_flush(filename)
 
     def insert_or_replace_entry(self, yaml_doc, entry):
-        if 'imported' not in yaml_doc:
-            yaml_doc['imported'] = {}
-        yaml_doc['imported']['한국어기초사전'] = entry
+        if 'import' not in yaml_doc:
+            yaml_doc['import'] = {}
+        yaml_doc['import']['한국어기초사전'] = entry
 
     def make_rec_from_xml_entry(self, entry, datetimestr):
         rec = {}

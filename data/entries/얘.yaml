@@ -1,5 +1,5 @@
 000_KEYWORD: 얘__감탄사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67257
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -37,13 +37,13 @@ imported:
     표제어: 얘
     품사: 감탄사
     항목ID: 67257
-processed:
+result:
   맞춤법 검사:
     표제어: 얘
     품사: 감탄사
 ---
 000_KEYWORD: 얘__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68779
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -59,13 +59,13 @@ imported:
     표제어: 얘
     품사: 명사
     항목ID: 68779
-processed:
+result:
   맞춤법 검사:
     표제어: 얘
     품사: 명사
 ---
 000_KEYWORD: 얘기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74194
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -185,13 +185,13 @@ imported:
     표제어: 얘기
     품사: 명사
     항목ID: 74194
-processed:
+result:
   맞춤법 검사:
     표제어: 얘기
     품사: 명사
 ---
 000_KEYWORD: 얘기꾼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26851
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -222,13 +222,13 @@ imported:
     표제어: 얘기꾼
     품사: 명사
     항목ID: 26851
-processed:
+result:
   맞춤법 검사:
     표제어: 얘기꾼
     품사: 명사
 ---
 000_KEYWORD: 얘기되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67259
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -314,13 +314,13 @@ imported:
     표제어: 얘기되다
     품사: 동사
     항목ID: 67259
-processed:
+result:
   맞춤법 검사:
     표제어: 얘기되다
     품사: 동사
 ---
 000_KEYWORD: 얘기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=74202
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -424,13 +424,13 @@ imported:
     표제어: 얘기하다
     품사: 동사
     항목ID: 74202
-processed:
+result:
   맞춤법 검사:
     표제어: 얘기하다
     품사: 동사
 ---
 000_KEYWORD: 얘깃거리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67260
     가져온 시각: '2019-08-13T01:59:10+09:00'
@@ -464,13 +464,13 @@ imported:
     표제어: 얘깃거리
     품사: 명사
     항목ID: 67260
-processed:
+result:
   맞춤법 검사:
     표제어: 얘깃거리
     품사: 명사
 ---
 000_KEYWORD: 얘네__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -479,7 +479,7 @@ imported:
     표제어: 얘네
     품사: 명사:보통:비서술성
     항목ID: 18024
-processed:
+result:
   맞춤법 검사:
     표제어: 얘네
     품사: 명사

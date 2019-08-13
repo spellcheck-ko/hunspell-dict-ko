@@ -1,5 +1,5 @@
 000_KEYWORD: -데__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77242
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -23,11 +23,11 @@ imported:
     표제어: -데
     품사: 어미
     항목ID: 77242
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -데기__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92137
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -45,11 +45,11 @@ imported:
     표제어: -데기
     품사: 접사
     항목ID: 92137
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -데요__어미__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86256
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -70,11 +70,11 @@ imported:
     표제어: -데요
     품사: 어미
     항목ID: 86256
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 데__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -83,13 +83,13 @@ imported:
     표제어: 데
     품사: 명사:보통:서술성
     항목ID: 6751
-processed:
+result:
   맞춤법 검사:
     표제어: 데
     품사: 명사
 ---
 000_KEYWORD: 데__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47455
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -141,13 +141,13 @@ imported:
     표제어: 데
     품사: 의존 명사
     항목ID: 47455
-processed:
+result:
   맞춤법 검사:
     표제어: 데
     품사: 의존 명사
 ---
 000_KEYWORD: 데구루루__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47456
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -178,13 +178,13 @@ imported:
     표제어: 데구루루
     품사: 부사
     항목ID: 47456
-processed:
+result:
   맞춤법 검사:
     표제어: 데구루루
     품사: 부사
 ---
 000_KEYWORD: 데굴데굴__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47457
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -219,13 +219,13 @@ imported:
     표제어: 데굴데굴
     품사: 부사
     항목ID: 47457
-processed:
+result:
   맞춤법 검사:
     표제어: 데굴데굴
     품사: 부사
 ---
 000_KEYWORD: 데네브__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -236,13 +236,13 @@ imported:
     표제어: 데네브
     품사: 명사:보통:서술성
     항목ID: 6754
-processed:
+result:
   맞춤법 검사:
     표제어: 데네브
     품사: 명사
 ---
 000_KEYWORD: 데님__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -252,13 +252,13 @@ imported:
     표제어: 데님
     품사: 명사:보통:서술성
     항목ID: 6755
-processed:
+result:
   맞춤법 검사:
     표제어: 데님
     품사: 명사
 ---
 000_KEYWORD: 데다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47458
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -311,13 +311,13 @@ imported:
     - 발음: 데ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/47458_de-ni.wav
       형태: 데니
-processed:
+result:
   맞춤법 검사:
     표제어: 데다
     품사: 동사
 ---
 000_KEYWORD: 데데하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47459
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -357,13 +357,13 @@ imported:
     - 발음: 데데함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/47459_dedehamnida.wav
       형태: 데데합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 데데하다
     품사: 형용사
 ---
 000_KEYWORD: 데려가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64541
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -406,17 +406,17 @@ imported:
     - 형태: 데려가
     - 형태: 데려가니
     - 형태: 데려가거라
-processed:
+result:
   맞춤법 검사:
     표제어: 데려가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 데려오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14379
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -454,17 +454,17 @@ imported:
     - 형태: 데려와
     - 형태: 데려오니
     - 형태: 데려오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 데려오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 데리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61342
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -501,13 +501,13 @@ imported:
     표제어: 데리다
     품사: 동사
     항목ID: 61342
-processed:
+result:
   맞춤법 검사:
     표제어: 데리다
     품사: 동사
 ---
 000_KEYWORD: 데릴사위__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47460
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -534,13 +534,13 @@ imported:
     표제어: 데릴사위
     품사: 명사
     항목ID: 47460
-processed:
+result:
   맞춤법 검사:
     표제어: 데릴사위
     품사: 명사
 ---
 000_KEYWORD: 데릴사위제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -550,13 +550,13 @@ imported:
     표제어: 데릴사위제
     품사: 명사:보통:서술성
     항목ID: 6761
-processed:
+result:
   맞춤법 검사:
     표제어: 데릴사위제
     품사: 명사
 ---
 000_KEYWORD: 데면데면__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -565,13 +565,13 @@ imported:
     표제어: 데면데면
     품사: 부사
     항목ID: 6762
-processed:
+result:
   맞춤법 검사:
     표제어: 데면데면
     품사: 부사
 ---
 000_KEYWORD: 데면데면하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47461
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -625,13 +625,13 @@ imported:
     - 발음: 데면데면함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/47461_demyeondemyeonhamnida.wav
       형태: 데면데면합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 데면데면하다
     품사: 형용사
 ---
 000_KEYWORD: 데모__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47462
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -677,13 +677,13 @@ imported:
     표제어: 데모
     품사: 명사
     항목ID: 47462
-processed:
+result:
   맞춤법 검사:
     표제어: 데모
     품사: 명사
 ---
 000_KEYWORD: 데모대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47463
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -712,13 +712,13 @@ imported:
     표제어: 데모대
     품사: 명사
     항목ID: 47463
-processed:
+result:
   맞춤법 검사:
     표제어: 데모대
     품사: 명사
 ---
 000_KEYWORD: 데모하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47464
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -748,13 +748,13 @@ imported:
     표제어: 데모하다
     품사: 동사
     항목ID: 47464
-processed:
+result:
   맞춤법 검사:
     표제어: 데모하다
     품사: 동사
 ---
 000_KEYWORD: 데뷔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47465
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -781,13 +781,13 @@ imported:
     표제어: 데뷔
     품사: 명사
     항목ID: 47465
-processed:
+result:
   맞춤법 검사:
     표제어: 데뷔
     품사: 명사
 ---
 000_KEYWORD: 데뷔작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47467
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -815,13 +815,13 @@ imported:
     표제어: 데뷔작
     품사: 명사
     항목ID: 47467
-processed:
+result:
   맞춤법 검사:
     표제어: 데뷔작
     품사: 명사
 ---
 000_KEYWORD: 데뷔하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47466
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -851,13 +851,13 @@ imported:
     표제어: 데뷔하다
     품사: 동사
     항목ID: 47466
-processed:
+result:
   맞춤법 검사:
     표제어: 데뷔하다
     품사: 동사
 ---
 000_KEYWORD: 데비안__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -868,13 +868,13 @@ imported:
     표제어: 데비안
     품사: 명사:고유
     항목ID: 6767
-processed:
+result:
   맞춤법 검사:
     표제어: 데비안
     품사: 명사
 ---
 000_KEYWORD: 데생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47472
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -904,13 +904,13 @@ imported:
     표제어: 데생
     품사: 명사
     항목ID: 47472
-processed:
+result:
   맞춤법 검사:
     표제어: 데생
     품사: 명사
 ---
 000_KEYWORD: 데스크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47473
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -948,13 +948,13 @@ imported:
     표제어: 데스크
     품사: 명사
     항목ID: 47473
-processed:
+result:
   맞춤법 검사:
     표제어: 데스크
     품사: 명사
 ---
 000_KEYWORD: 데스크톱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90481
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -987,13 +987,13 @@ imported:
     표제어: 데스크톱
     품사: 명사
     항목ID: 90481
-processed:
+result:
   맞춤법 검사:
     표제어: 데스크톱
     품사: 명사
 ---
 000_KEYWORD: 데시리터__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47475
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1027,13 +1027,13 @@ imported:
     표제어: 데시리터
     품사: 의존 명사
     항목ID: 47475
-processed:
+result:
   맞춤법 검사:
     표제어: 데시리터
     품사: 의존 명사
 ---
 000_KEYWORD: 데시벨__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47478
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1060,13 +1060,13 @@ imported:
     표제어: 데시벨
     품사: 의존 명사
     항목ID: 47478
-processed:
+result:
   맞춤법 검사:
     표제어: 데시벨
     품사: 의존 명사
 ---
 000_KEYWORD: 데우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14380
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1104,13 +1104,13 @@ imported:
     활용:
     - 형태: 데우어
     - 형태: 데우니
-processed:
+result:
   맞춤법 검사:
     표제어: 데우다
     품사: 동사
 ---
 000_KEYWORD: 데이터__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47484
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1157,13 +1157,13 @@ imported:
     표제어: 데이터
     품사: 명사
     항목ID: 47484
-processed:
+result:
   맞춤법 검사:
     표제어: 데이터
     품사: 명사
 ---
 000_KEYWORD: 데이터베이스__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47486
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1191,13 +1191,13 @@ imported:
     표제어: 데이터베이스
     품사: 명사
     항목ID: 47486
-processed:
+result:
   맞춤법 검사:
     표제어: 데이터베이스
     품사: 명사
 ---
 000_KEYWORD: 데이트__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=14381
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1224,13 +1224,13 @@ imported:
     표제어: 데이트
     품사: 명사
     항목ID: 14381
-processed:
+result:
   맞춤법 검사:
     표제어: 데이트
     품사: 명사
 ---
 000_KEYWORD: 데이트하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90688
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1257,13 +1257,13 @@ imported:
     표제어: 데이트하다
     품사: 동사
     항목ID: 90688
-processed:
+result:
   맞춤법 검사:
     표제어: 데이트하다
     품사: 동사
 ---
 000_KEYWORD: 데자뷔__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1273,13 +1273,13 @@ imported:
     표제어: 데자뷔
     품사: 명사:보통:서술성
     항목ID: 6775
-processed:
+result:
   맞춤법 검사:
     표제어: 데자뷔
     품사: 명사
 ---
 000_KEYWORD: 데치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=47487
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1323,13 +1323,13 @@ imported:
     - 발음: 데ː치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/47487_de-chini.wav
       형태: 데치니
-processed:
+result:
   맞춤법 검사:
     표제어: 데치다
     품사: 동사
 ---
 000_KEYWORD: 데카르트__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1340,13 +1340,13 @@ imported:
     표제어: 데카르트
     품사: 명사:보통:서술성
     항목ID: 6777
-processed:
+result:
   맞춤법 검사:
     표제어: 데카르트
     품사: 명사
 ---
 000_KEYWORD: 덴마크__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68328
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1363,13 +1363,13 @@ imported:
     표제어: 덴마크
     품사: 명사
     항목ID: 68328
-processed:
+result:
   맞춤법 검사:
     표제어: 덴마크
     품사: 명사
 ---
 000_KEYWORD: 덴마크어__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93461
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -1396,13 +1396,13 @@ imported:
     표제어: 덴마크어
     품사: 명사
     항목ID: 93461
-processed:
+result:
   맞춤법 검사:
     표제어: 덴마크어
     품사: 명사
 ---
 000_KEYWORD: 델타__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1413,13 +1413,13 @@ imported:
     표제어: 델타
     품사: 명사:보통:서술성
     항목ID: 6780
-processed:
+result:
   맞춤법 검사:
     표제어: 델타
     품사: 명사
 ---
 000_KEYWORD: 뎅기열__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -1429,7 +1429,7 @@ imported:
     표제어: 뎅기열
     품사: 명사:보통:서술성
     항목ID: 6781
-processed:
+result:
   맞춤법 검사:
     표제어: 뎅기열
     품사: 명사

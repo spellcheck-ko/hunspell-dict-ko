@@ -1,5 +1,5 @@
 000_KEYWORD: 띠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52757
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -51,13 +51,13 @@ imported:
     표제어: 띠
     품사: 명사
     항목ID: 52757
-processed:
+result:
   맞춤법 검사:
     표제어: 띠
     품사: 명사
 ---
 000_KEYWORD: 띠__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52761
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -82,13 +82,13 @@ imported:
     표제어: 띠
     품사: 명사
     항목ID: 52761
-processed:
+result:
   맞춤법 검사:
     표제어: 띠
     품사: 명사
 ---
 000_KEYWORD: 띠다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52762
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -188,13 +188,13 @@ imported:
     - 발음: 띠ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/tti-ni.wav
       형태: 띠니
-processed:
+result:
   맞춤법 검사:
     표제어: 띠다
     품사: 동사
 ---
 000_KEYWORD: 띵__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52635
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -216,13 +216,13 @@ imported:
     표제어: 띵
     품사: 부사
     항목ID: 52635
-processed:
+result:
   맞춤법 검사:
     표제어: 띵
     품사: 부사
 ---
 000_KEYWORD: 띵하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52631
     가져온 시각: '2019-08-13T01:42:31+09:00'
@@ -259,7 +259,7 @@ imported:
       형태: 띵하니
     - 발음: 띵함니다
       형태: 띵합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 띵하다
     품사: 형용사

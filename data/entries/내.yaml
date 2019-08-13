@@ -1,5 +1,5 @@
 000_KEYWORD: -내__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70313
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -28,11 +28,11 @@ imported:
     표제어: -내
     품사: 접사
     항목ID: 70313
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -내기__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73348
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -59,11 +59,11 @@ imported:
     표제어: -내기
     품사: 접사
     항목ID: 73348
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 내-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70319
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -84,11 +84,11 @@ imported:
     표제어: 내-
     품사: 접사
     항목ID: 70319
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 내__대명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41385
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -120,13 +120,13 @@ imported:
     - 발음: 내가
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/60931_naega.wav
       형태: 내가
-processed:
+result:
   맞춤법 검사:
     표제어: 내
     품사: 대명사
 ---
 000_KEYWORD: 내__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26475
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -160,13 +160,13 @@ imported:
     표제어: 내
     품사: 명사
     항목ID: 26475
-processed:
+result:
   맞춤법 검사:
     표제어: 내
     품사: 명사
 ---
 000_KEYWORD: 내__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41383
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -197,13 +197,13 @@ imported:
     표제어: 내
     품사: 명사
     항목ID: 41383
-processed:
+result:
   맞춤법 검사:
     표제어: 내
     품사: 명사
 ---
 000_KEYWORD: 내__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90782
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -242,13 +242,13 @@ imported:
     표제어: 내
     품사: 부사
     항목ID: 90782
-processed:
+result:
   맞춤법 검사:
     표제어: 내
     품사: 부사
 ---
 000_KEYWORD: 내__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41388
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -282,13 +282,13 @@ imported:
     표제어: 내
     품사: 의존 명사
     항목ID: 41388
-processed:
+result:
   맞춤법 검사:
     표제어: 내
     품사: 의존 명사
 ---
 000_KEYWORD: 내가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41390
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -324,13 +324,13 @@ imported:
     - 발음: 내ː가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41390_nae-gageora.wav
       형태: 내가거라
-processed:
+result:
   맞춤법 검사:
     표제어: 내가다
     품사: 동사
 ---
 000_KEYWORD: 내각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26477
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -372,13 +372,13 @@ imported:
     - 발음: 내ː강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/26477_nae-gangman.wav
       형태: 내각만
-processed:
+result:
   맞춤법 검사:
     표제어: 내각
     품사: 명사
 ---
 000_KEYWORD: 내각__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41397
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -416,13 +416,13 @@ imported:
     - 발음: 내ː강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nae-gangman.wav
       형태: 내각만
-processed:
+result:
   맞춤법 검사:
     표제어: 내각
     품사: 명사
 ---
 000_KEYWORD: 내각제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -432,13 +432,13 @@ imported:
     표제어: 내각제
     품사: 명사:보통:서술성
     항목ID: 5090
-processed:
+result:
   맞춤법 검사:
     표제어: 내각제
     품사: 명사
 ---
 000_KEYWORD: 내각책임제__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -448,13 +448,13 @@ imported:
     표제어: 내각책임제
     품사: 명사:보통:서술성
     항목ID: 5091
-processed:
+result:
   맞춤법 검사:
     표제어: 내각책임제
     품사: 명사
 ---
 000_KEYWORD: 내갈기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41406
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -542,13 +542,13 @@ imported:
     - 발음: 내ː갈기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41406_nae-galgini.wav
       형태: 내갈기니
-processed:
+result:
   맞춤법 검사:
     표제어: 내갈기다
     품사: 동사
 ---
 000_KEYWORD: 내걸다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41412
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -615,13 +615,13 @@ imported:
     - 발음: 내ː검니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41412_nae-geomnida.wav
       형태: 내겁니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내걸다
     품사: 동사
 ---
 000_KEYWORD: 내걸리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41422
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -694,13 +694,13 @@ imported:
       형태: 내걸리니
     - 발음: 내ː걸림니다
       형태: 내걸립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내걸리다
     품사: 동사
 ---
 000_KEYWORD: 내공__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -709,13 +709,13 @@ imported:
     표제어: 내공
     품사: 명사:보통:서술성
     항목ID: 5093
-processed:
+result:
   맞춤법 검사:
     표제어: 내공
     품사: 명사
 ---
 000_KEYWORD: 내과__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28417
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -750,13 +750,13 @@ imported:
     표제어: 내과
     품사: 명사
     항목ID: 28417
-processed:
+result:
   맞춤법 검사:
     표제어: 내과
     품사: 명사
 ---
 000_KEYWORD: 내과의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41432
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -791,13 +791,13 @@ imported:
     표제어: 내과의
     품사: 명사
     항목ID: 41432
-processed:
+result:
   맞춤법 검사:
     표제어: 내과의
     품사: 명사
 ---
 000_KEYWORD: 내관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41434
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -831,13 +831,13 @@ imported:
     표제어: 내관
     품사: 명사
     항목ID: 41434
-processed:
+result:
   맞춤법 검사:
     표제어: 내관
     품사: 명사
 ---
 000_KEYWORD: 내구성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26490
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -865,13 +865,13 @@ imported:
     표제어: 내구성
     품사: 명사
     항목ID: 26490
-processed:
+result:
   맞춤법 검사:
     표제어: 내구성
     품사: 명사
 ---
 000_KEYWORD: 내국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26491
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -911,13 +911,13 @@ imported:
     - 발음: 내ː궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/26491_nae-gungman.wav
       형태: 내국만
-processed:
+result:
   맞춤법 검사:
     표제어: 내국
     품사: 명사
 ---
 000_KEYWORD: 내국인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41443
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -949,13 +949,13 @@ imported:
     표제어: 내국인
     품사: 명사
     항목ID: 41443
-processed:
+result:
   맞춤법 검사:
     표제어: 내국인
     품사: 명사
 ---
 000_KEYWORD: 내규__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26603
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -984,13 +984,13 @@ imported:
     표제어: 내규
     품사: 명사
     항목ID: 26603
-processed:
+result:
   맞춤법 검사:
     표제어: 내규
     품사: 명사
 ---
 000_KEYWORD: 내근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41479
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1022,13 +1022,13 @@ imported:
     표제어: 내근
     품사: 명사
     항목ID: 41479
-processed:
+result:
   맞춤법 검사:
     표제어: 내근
     품사: 명사
 ---
 000_KEYWORD: 내기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41484
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1056,13 +1056,13 @@ imported:
     표제어: 내기
     품사: 명사
     항목ID: 41484
-processed:
+result:
   맞춤법 검사:
     표제어: 내기
     품사: 명사
 ---
 000_KEYWORD: 내기하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91505
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1091,13 +1091,13 @@ imported:
     표제어: 내기하다
     품사: 동사
     항목ID: 91505
-processed:
+result:
   맞춤법 검사:
     표제어: 내기하다
     품사: 동사
 ---
 000_KEYWORD: 내내__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60627
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1140,13 +1140,13 @@ imported:
     표제어: 내내
     품사: 부사
     항목ID: 60627
-processed:
+result:
   맞춤법 검사:
     표제어: 내내
     품사: 부사
 ---
 000_KEYWORD: 내년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64517
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1183,13 +1183,13 @@ imported:
     표제어: 내년
     품사: 명사
     항목ID: 64517
-processed:
+result:
   맞춤법 검사:
     표제어: 내년
     품사: 명사
 ---
 000_KEYWORD: 내년도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41496
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1218,13 +1218,13 @@ imported:
     표제어: 내년도
     품사: 명사
     항목ID: 41496
-processed:
+result:
   맞춤법 검사:
     표제어: 내년도
     품사: 명사
 ---
 000_KEYWORD: 내놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61013
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -1478,7 +1478,7 @@ imported:
     - 발음: 내ː노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/61013_nae-nosseumnida.wav
       형태: 내놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -1486,7 +1486,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89906
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2030,13 +2030,13 @@ imported:
     - 발음: 내ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/89906_nae-ni.wav
       형태: 내니
-processed:
+result:
   맞춤법 검사:
     표제어: 내다
     품사: 동사
 ---
 000_KEYWORD: 내다__보조_동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60625
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2074,7 +2074,7 @@ imported:
       형태: 내니
     - 발음: 냄ː니다
       형태: 냅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 보조용언:-어
@@ -2082,7 +2082,7 @@ processed:
     품사: 보조 동사
 ---
 000_KEYWORD: 내다버리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41500
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2123,13 +2123,13 @@ imported:
     - 발음: 내ː다버리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41500_nae-dabeorini.wav
       형태: 내다버리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내다버리다
     품사: 동사
 ---
 000_KEYWORD: 내다보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28419
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2194,17 +2194,17 @@ imported:
     - 발음: 내ː다보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/28419_nae-daboni.wav
       형태: 내다보니
-processed:
+result:
   맞춤법 검사:
     표제어: 내다보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내다보이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41699
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2287,13 +2287,13 @@ imported:
     - 발음: 내ː다보이니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41699_nae-daboini.wav
       형태: 내다보이니
-processed:
+result:
   맞춤법 검사:
     표제어: 내다보이다
     품사: 동사
 ---
 000_KEYWORD: 내닫다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41845
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2349,7 +2349,7 @@ imported:
     - 발음: 내ː단는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41845_nae-danneun.wav
       형태: 내닫는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
@@ -2357,7 +2357,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내달__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28423
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2392,13 +2392,13 @@ imported:
     표제어: 내달
     품사: 명사
     항목ID: 28423
-processed:
+result:
   맞춤법 검사:
     표제어: 내달
     품사: 명사
 ---
 000_KEYWORD: 내달리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41846
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2440,13 +2440,13 @@ imported:
     - 발음: 내ː달리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41846_nae-dallini.wav
       형태: 내달리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내달리다
     품사: 동사
 ---
 000_KEYWORD: 내던지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41847
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2535,13 +2535,13 @@ imported:
     - 발음: 내ː던지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41847_nae-deonjini.wav
       형태: 내던지니
-processed:
+result:
   맞춤법 검사:
     표제어: 내던지다
     품사: 동사
 ---
 000_KEYWORD: 내돌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41849
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2579,13 +2579,13 @@ imported:
     - 발음: 내ː돌리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41849_nae-dollini.wav
       형태: 내돌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내돌리다
     품사: 동사
 ---
 000_KEYWORD: 내동댕이치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41851
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2640,13 +2640,13 @@ imported:
     - 발음: 내ː동댕이치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41851_nae-dongdaengichini.wav
       형태: 내동댕이치니
-processed:
+result:
   맞춤법 검사:
     표제어: 내동댕이치다
     품사: 동사
 ---
 000_KEYWORD: 내두르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41855
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2697,19 +2697,19 @@ imported:
     - 발음: 내ː두르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41855_nae-dureuni.wav
       형태: 내두르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
     표제어: 내두르다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내드리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41858
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2762,13 +2762,13 @@ imported:
     - 발음: 내ː드리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41858_nae-deurini.wav
       형태: 내드리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내드리다
     품사: 동사
 ---
 000_KEYWORD: 내디디다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41860
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2834,13 +2834,13 @@ imported:
     - 발음: 내ː디디니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41860_nae-didini.wav
       형태: 내디디니
-processed:
+result:
   맞춤법 검사:
     표제어: 내디디다
     품사: 동사
 ---
 000_KEYWORD: 내딛다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41863
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2894,20 +2894,20 @@ imported:
     - 발음: 내ː딘는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41863_nae-dinneun.wav
       형태: 내딛는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙 미확정
     표제어: 내딛다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 규칙
     - 준말용언
 ---
 000_KEYWORD: 내뛰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41866
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -2961,13 +2961,13 @@ imported:
     - 발음: 내ː뛰니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41866_nae-ttwini.wav
       형태: 내뛰니
-processed:
+result:
   맞춤법 검사:
     표제어: 내뛰다
     품사: 동사
 ---
 000_KEYWORD: 내란__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26605
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3008,13 +3008,13 @@ imported:
     표제어: 내란
     품사: 명사
     항목ID: 26605
-processed:
+result:
   맞춤법 검사:
     표제어: 내란
     품사: 명사
 ---
 000_KEYWORD: 내란죄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41868
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3043,13 +3043,13 @@ imported:
     표제어: 내란죄
     품사: 명사
     항목ID: 41868
-processed:
+result:
   맞춤법 검사:
     표제어: 내란죄
     품사: 명사
 ---
 000_KEYWORD: 내레이션__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3060,13 +3060,13 @@ imported:
     표제어: 내레이션
     품사: 명사:보통:서술성
     항목ID: 5110
-processed:
+result:
   맞춤법 검사:
     표제어: 내레이션
     품사: 명사
 ---
 000_KEYWORD: 내레이터__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3076,13 +3076,13 @@ imported:
     표제어: 내레이터
     품사: 명사:보통:비서술성
     항목ID: 5111
-processed:
+result:
   맞춤법 검사:
     표제어: 내레이터
     품사: 명사
 ---
 000_KEYWORD: 내려가다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63723
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3259,17 +3259,17 @@ imported:
     - 형태: 내려가
     - 형태: 내려가니
     - 형태: 내려가거라
-processed:
+result:
   맞춤법 검사:
     표제어: 내려가다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내려놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=59468
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3346,19 +3346,19 @@ imported:
     - 발음: 내려노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/59468_naeryeonosseumnida.wav
       형태: 내려놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
     표제어: 내려놓다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내려다보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64372
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3414,17 +3414,17 @@ imported:
     활용:
     - 형태: 내려다보아
     - 형태: 내려다보니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려다보다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내려다보이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41870
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3476,13 +3476,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41870_naeryeodaboiyeo.wav
       형태: 내려다보이어
     - 형태: 내려다보이니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려다보이다
     품사: 동사
 ---
 000_KEYWORD: 내려뜨리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41872
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3538,13 +3538,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41872_naeryeotteuriyeo.wav
       형태: 내려뜨리어
     - 형태: 내려뜨리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려뜨리다
     품사: 동사
 ---
 000_KEYWORD: 내려받다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3556,14 +3556,14 @@ imported:
     표제어: 내려받다
     품사: 동사
     항목ID: 5115
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 내려받다
     품사: 동사
 ---
 000_KEYWORD: 내려보내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41875
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3605,17 +3605,17 @@ imported:
     활용:
     - 형태: 내려보내어
     - 형태: 내려보내니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려보내다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내려서다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41880
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3687,13 +3687,13 @@ imported:
     - 발음: 내려섬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/naeryeoseoda.wav
       형태: 내려섭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내려서다
     품사: 동사
 ---
 000_KEYWORD: 내려쓰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41883
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3723,18 +3723,18 @@ imported:
     활용:
     - 형태: 내려써
     - 형태: 내려쓰니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려쓰다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
     - 으불규칙
 ---
 000_KEYWORD: 내려앉다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41884
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3835,17 +3835,17 @@ imported:
     - 발음: 내려안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41884_naeryeoanjji.wav
       형태: 내려앉지
-processed:
+result:
   맞춤법 검사:
     표제어: 내려앉다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내려오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64559
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -3996,17 +3996,17 @@ imported:
     - 형태: 내려와
     - 형태: 내려오니
     - 형태: 내려오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 내려오다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내려지다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28424
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4084,17 +4084,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/28424_naeryeojeo.wav
       형태: 내려져
     - 형태: 내려지니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려지다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내려찍다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41887
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4137,13 +4137,13 @@ imported:
     - 발음: 내려찌그니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41887_naeryeojjigeuni.wav
       형태: 내려찍으니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려찍다
     품사: 동사
 ---
 000_KEYWORD: 내려치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41888
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4199,17 +4199,17 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/39515_naericheo.wav
       형태: 내리쳐
     - 형태: 내려치니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려치다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내려트리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90784
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4267,13 +4267,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/90784_naeryeoteuriyeo.wav
       형태: 내려트리어
     - 형태: 내려트리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내려트리다
     품사: 동사
 ---
 000_KEYWORD: 내력__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41897
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4337,13 +4337,13 @@ imported:
     - 발음: 내령만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/41897_naeryeongman.wav
       형태: 내력만
-processed:
+result:
   맞춤법 검사:
     표제어: 내력
     품사: 명사
 ---
 000_KEYWORD: 내로라하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41898
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4372,13 +4372,13 @@ imported:
     표제어: 내로라하다
     품사: 동사
     항목ID: 41898
-processed:
+result:
   맞춤법 검사:
     표제어: 내로라하다
     품사: 동사
 ---
 000_KEYWORD: 내륙__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41899
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4422,13 +4422,13 @@ imported:
     - 발음: 내ː륭만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/41899_nae-ryungman.wav
       형태: 내륙만
-processed:
+result:
   맞춤법 검사:
     표제어: 내륙
     품사: 명사
 ---
 000_KEYWORD: 내륙지방__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4437,13 +4437,13 @@ imported:
     표제어: 내륙지방
     품사: 명사:보통:비서술성
     항목ID: 5124
-processed:
+result:
   맞춤법 검사:
     표제어: 내륙지방
     품사: 명사
 ---
 000_KEYWORD: 내리__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41900
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4476,13 +4476,13 @@ imported:
     표제어: 내리
     품사: 부사
     항목ID: 41900
-processed:
+result:
   맞춤법 검사:
     표제어: 내리
     품사: 부사
 ---
 000_KEYWORD: 내리갈기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41901
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4544,13 +4544,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41901_naerigalgiyeo.wav
       형태: 내리갈기어
     - 형태: 내리갈기니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리갈기다
     품사: 동사
 ---
 000_KEYWORD: 내리긋다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41902
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4585,7 +4585,7 @@ imported:
     - 발음: 내리근는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41902_naerigeunneun.wav
       형태: 내리긋는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -4593,7 +4593,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내리깔다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41903
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4642,13 +4642,13 @@ imported:
     - 발음: 내리깜니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41903_naerikkamnida.wav
       형태: 내리깝니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내리깔다
     품사: 동사
 ---
 000_KEYWORD: 내리깔리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41904
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4713,13 +4713,13 @@ imported:
     - 발음: 내리깔림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/naerikkalrida.wav
       형태: 내리깔립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내리깔리다
     품사: 동사
 ---
 000_KEYWORD: 내리꽂다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41905
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4757,13 +4757,13 @@ imported:
     - 발음: 내리꼰는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41905_naerikkonneun.wav
       형태: 내리꽂는
-processed:
+result:
   맞춤법 검사:
     표제어: 내리꽂다
     품사: 동사
 ---
 000_KEYWORD: 내리꽂히다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41906
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4804,13 +4804,13 @@ imported:
     - 발음: 내리꼬치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41906_naerikkochini.wav
       형태: 내리꽂히니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리꽂히다
     품사: 동사
 ---
 000_KEYWORD: 내리누르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41907
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4856,7 +4856,7 @@ imported:
     활용:
     - 형태: 내리눌러
     - 형태: 내리누르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -4864,7 +4864,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내리눌리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90785
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -4915,13 +4915,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/90785_naerinulliyeo.wav
       형태: 내리눌리어
     - 형태: 내리눌리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리눌리다
     품사: 동사
 ---
 000_KEYWORD: 내리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73353
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5255,13 +5255,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/73353_naeriyeo.wav
       형태: 내리어
     - 형태: 내리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리다
     품사: 동사
 ---
 000_KEYWORD: 내리뜨다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41908
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5293,13 +5293,13 @@ imported:
     활용:
     - 형태: 내리떠
     - 형태: 내리뜨니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리뜨다
     품사: 동사
 ---
 000_KEYWORD: 내리막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41909
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5357,13 +5357,13 @@ imported:
     - 발음: 내리망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41909_naerimangman.wav
       형태: 내리막만
-processed:
+result:
   맞춤법 검사:
     표제어: 내리막
     품사: 명사
 ---
 000_KEYWORD: 내리막길__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41910
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5419,13 +5419,13 @@ imported:
     표제어: 내리막길
     품사: 명사
     항목ID: 41910
-processed:
+result:
   맞춤법 검사:
     표제어: 내리막길
     품사: 명사
 ---
 000_KEYWORD: 내리붓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39230
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5473,7 +5473,7 @@ imported:
     - 발음: 내리분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39230_naeribunneun.wav
       형태: 내리붓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -5481,7 +5481,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내리비추다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90867
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5513,13 +5513,13 @@ imported:
     활용:
     - 형태: 내리비추어
     - 형태: 내리비추니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리비추다
     품사: 동사
 ---
 000_KEYWORD: 내리비치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39234
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5556,13 +5556,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/39234_naeribicheo.wav
       형태: 내리비쳐
     - 형태: 내리비치니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리비치다
     품사: 동사
 ---
 000_KEYWORD: 내리사랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26606
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5595,13 +5595,13 @@ imported:
     표제어: 내리사랑
     품사: 명사
     항목ID: 26606
-processed:
+result:
   맞춤법 검사:
     표제어: 내리사랑
     품사: 명사
 ---
 000_KEYWORD: 내리지르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39238
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5646,7 +5646,7 @@ imported:
     활용:
     - 형태: 내리질러
     - 형태: 내리지르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -5654,7 +5654,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내리쪼이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39239
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5695,13 +5695,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39239_naerijjoiyeo.wav
       형태: 내리쪼이어
     - 형태: 내리쪼이니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리쪼이다
     품사: 동사
 ---
 000_KEYWORD: 내리쬐다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39242
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5748,13 +5748,13 @@ imported:
     - 발음: 내리쮀니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39242_naerijjweni.wav
       형태: 내리쬐니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리쬐다
     품사: 동사
 ---
 000_KEYWORD: 내리찍다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39514
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5792,13 +5792,13 @@ imported:
     - 발음: 내리찡는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39514_naerijjingneun.wav
       형태: 내리찍는
-processed:
+result:
   맞춤법 검사:
     표제어: 내리찍다
     품사: 동사
 ---
 000_KEYWORD: 내리치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39515
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5852,13 +5852,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/39515_naericheo.wav
       형태: 내리쳐
     - 형태: 내리치니
-processed:
+result:
   맞춤법 검사:
     표제어: 내리치다
     품사: 동사
 ---
 000_KEYWORD: 내리퍼붓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39516
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5902,7 +5902,7 @@ imported:
     - 발음: 내리퍼분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39516_naeripeobunneun.wav
       형태: 내리퍼붓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -5910,7 +5910,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내림세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39517
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -5947,13 +5947,13 @@ imported:
     표제어: 내림세
     품사: 명사
     항목ID: 39517
-processed:
+result:
   맞춤법 검사:
     표제어: 내림세
     품사: 명사
 ---
 000_KEYWORD: 내림차__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5962,13 +5962,13 @@ imported:
     표제어: 내림차
     품사: 명사:보통:서술성
     항목ID: 5132
-processed:
+result:
   맞춤법 검사:
     표제어: 내림차
     품사: 명사
 ---
 000_KEYWORD: 내림차순__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39518
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6000,13 +6000,13 @@ imported:
     표제어: 내림차순
     품사: 명사
     항목ID: 39518
-processed:
+result:
   맞춤법 검사:
     표제어: 내림차순
     품사: 명사
 ---
 000_KEYWORD: 내막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83306
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6050,13 +6050,13 @@ imported:
     - 발음: 내ː망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nae-mangman.wav
       형태: 내막만
-processed:
+result:
   맞춤법 검사:
     표제어: 내막
     품사: 명사
 ---
 000_KEYWORD: 내막__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26782
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6093,13 +6093,13 @@ imported:
     - 발음: 내ː망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/26782_nae-mangman.wav
       형태: 내막만
-processed:
+result:
   맞춤법 검사:
     표제어: 내막
     품사: 명사
 ---
 000_KEYWORD: 내맡기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39519
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6151,13 +6151,13 @@ imported:
     - 발음: 내ː맏끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39519_nae-matkkini.wav
       형태: 내맡기니
-processed:
+result:
   맞춤법 검사:
     표제어: 내맡기다
     품사: 동사
 ---
 000_KEYWORD: 내먹다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39520
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6195,13 +6195,13 @@ imported:
     - 발음: 내ː멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39520_nae-meongneun.wav
       형태: 내먹는
-processed:
+result:
   맞춤법 검사:
     표제어: 내먹다
     품사: 동사
 ---
 000_KEYWORD: 내면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39521
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6235,13 +6235,13 @@ imported:
     표제어: 내면
     품사: 명사
     항목ID: 39521
-processed:
+result:
   맞춤법 검사:
     표제어: 내면
     품사: 명사
 ---
 000_KEYWORD: 내면세계__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26801
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6272,13 +6272,13 @@ imported:
     표제어: 내면세계
     품사: 명사
     항목ID: 26801
-processed:
+result:
   맞춤법 검사:
     표제어: 내면세계
     품사: 명사
 ---
 000_KEYWORD: 내면적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39522
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6312,13 +6312,13 @@ imported:
     표제어: 내면적
     품사: 관형사
     항목ID: 39522
-processed:
+result:
   맞춤법 검사:
     표제어: 내면적
     품사: 관형사
 ---
 000_KEYWORD: 내면적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39523
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6352,13 +6352,13 @@ imported:
     표제어: 내면적
     품사: 명사
     항목ID: 39523
-processed:
+result:
   맞춤법 검사:
     표제어: 내면적
     품사: 명사
 ---
 000_KEYWORD: 내면화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39524
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6387,13 +6387,13 @@ imported:
     표제어: 내면화
     품사: 명사
     항목ID: 39524
-processed:
+result:
   맞춤법 검사:
     표제어: 내면화
     품사: 명사
 ---
 000_KEYWORD: 내면화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39525
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6424,13 +6424,13 @@ imported:
     표제어: 내면화되다
     품사: 동사
     항목ID: 39525
-processed:
+result:
   맞춤법 검사:
     표제어: 내면화되다
     품사: 동사
 ---
 000_KEYWORD: 내면화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39526
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6459,13 +6459,13 @@ imported:
     표제어: 내면화하다
     품사: 동사
     항목ID: 39526
-processed:
+result:
   맞춤법 검사:
     표제어: 내면화하다
     품사: 동사
 ---
 000_KEYWORD: 내몰다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39527
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6551,13 +6551,13 @@ imported:
     - 발음: 내ː몸니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39527_nae-momnida.wav
       형태: 내몹니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내몰다
     품사: 동사
 ---
 000_KEYWORD: 내몰리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39528
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6620,13 +6620,13 @@ imported:
     - 발음: 내ː몰리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39528_nae-mollini.wav
       형태: 내몰리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내몰리다
     품사: 동사
 ---
 000_KEYWORD: 내몽골__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6636,13 +6636,13 @@ imported:
     표제어: 내몽골
     품사: 명사:보통:서술성
     항목ID: 5138
-processed:
+result:
   맞춤법 검사:
     표제어: 내몽골
     품사: 명사
 ---
 000_KEYWORD: 내무반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39529
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6670,13 +6670,13 @@ imported:
     표제어: 내무반
     품사: 명사
     항목ID: 39529
-processed:
+result:
   맞춤법 검사:
     표제어: 내무반
     품사: 명사
 ---
 000_KEYWORD: 내물왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6686,13 +6686,13 @@ imported:
     표제어: 내물왕
     품사: 명사:보통:서술성
     항목ID: 5139
-processed:
+result:
   맞춤법 검사:
     표제어: 내물왕
     품사: 명사
 ---
 000_KEYWORD: 내밀다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85915
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6777,13 +6777,13 @@ imported:
     - 발음: 내ː밈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/85915_nae-mimnida.wav
       형태: 내밉니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내밀다
     품사: 동사
 ---
 000_KEYWORD: 내밀리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39530
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6854,13 +6854,13 @@ imported:
       형태: 내밀리니
     - 발음: 내ː밀림니다
       형태: 내밀립니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내밀리다
     품사: 동사
 ---
 000_KEYWORD: 내방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90868
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6888,13 +6888,13 @@ imported:
     표제어: 내방
     품사: 명사
     항목ID: 90868
-processed:
+result:
   맞춤법 검사:
     표제어: 내방
     품사: 명사
 ---
 000_KEYWORD: 내방자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26834
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6923,13 +6923,13 @@ imported:
     표제어: 내방자
     품사: 명사
     항목ID: 26834
-processed:
+result:
   맞춤법 검사:
     표제어: 내방자
     품사: 명사
 ---
 000_KEYWORD: 내방하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39531
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -6957,13 +6957,13 @@ imported:
     표제어: 내방하다
     품사: 동사
     항목ID: 39531
-processed:
+result:
   맞춤법 검사:
     표제어: 내방하다
     품사: 동사
 ---
 000_KEYWORD: 내뱉다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39532
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7018,13 +7018,13 @@ imported:
     - 발음: 내ː밴는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39532_nae-baenneun.wav
       형태: 내뱉는
-processed:
+result:
   맞춤법 검사:
     표제어: 내뱉다
     품사: 동사
 ---
 000_KEYWORD: 내버리다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28426
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7079,13 +7079,13 @@ imported:
     - 발음: 내ː버리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/28426_nae-beorini.wav
       형태: 내버리니
-processed:
+result:
   맞춤법 검사:
     표제어: 내버리다
     품사: 동사
 ---
 000_KEYWORD: 내벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26836
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7124,13 +7124,13 @@ imported:
     - 발음: 내ː병만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/26836_nae-byeongman.wav
       형태: 내벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 내벽
     품사: 명사
 ---
 000_KEYWORD: 내보내다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28428
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7222,13 +7222,13 @@ imported:
     - 발음: 내ː보내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/28428_nae-bonaeni.wav
       형태: 내보내니
-processed:
+result:
   맞춤법 검사:
     표제어: 내보내다
     품사: 동사
 ---
 000_KEYWORD: 내보다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39534
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7263,13 +7263,13 @@ imported:
     - 발음: 내ː보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39534_nae-boni.wav
       형태: 내보니
-processed:
+result:
   맞춤법 검사:
     표제어: 내보다
     품사: 동사
 ---
 000_KEYWORD: 내보이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40652
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7310,13 +7310,13 @@ imported:
     - 발음: 내보임니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40652_naeboimnida.wav
       형태: 내보입니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내보이다
     품사: 동사
 ---
 000_KEYWORD: 내보이다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40653
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7370,13 +7370,13 @@ imported:
     - 발음: 내보임니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40652_naeboimnida.wav
       형태: 내보입니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내보이다
     품사: 동사
 ---
 000_KEYWORD: 내복__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19532
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7428,13 +7428,13 @@ imported:
     - 발음: 내ː봉만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/19532_nae-bongman.wav
       형태: 내복만
-processed:
+result:
   맞춤법 검사:
     표제어: 내복
     품사: 명사
 ---
 000_KEYWORD: 내복약__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40649
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7476,13 +7476,13 @@ imported:
     - 발음: 내ː봉냥만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/40649_nae-bongnyangman.wav
       형태: 내복약만
-processed:
+result:
   맞춤법 검사:
     표제어: 내복약
     품사: 명사
 ---
 000_KEYWORD: 내부__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28431
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7534,13 +7534,13 @@ imported:
     표제어: 내부
     품사: 명사
     항목ID: 28431
-processed:
+result:
   맞춤법 검사:
     표제어: 내부
     품사: 명사
 ---
 000_KEYWORD: 내부자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7549,13 +7549,13 @@ imported:
     표제어: 내부자
     품사: 명사:보통:비서술성
     항목ID: 5147
-processed:
+result:
   맞춤법 검사:
     표제어: 내부자
     품사: 명사
 ---
 000_KEYWORD: 내부적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40644
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7587,13 +7587,13 @@ imported:
     표제어: 내부적
     품사: 관형사
     항목ID: 40644
-processed:
+result:
   맞춤법 검사:
     표제어: 내부적
     품사: 관형사
 ---
 000_KEYWORD: 내부적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40641
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7627,13 +7627,13 @@ imported:
     표제어: 내부적
     품사: 명사
     항목ID: 40641
-processed:
+result:
   맞춤법 검사:
     표제어: 내부적
     품사: 명사
 ---
 000_KEYWORD: 내분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40648
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7664,13 +7664,13 @@ imported:
     표제어: 내분
     품사: 명사
     항목ID: 40648
-processed:
+result:
   맞춤법 검사:
     표제어: 내분
     품사: 명사
 ---
 000_KEYWORD: 내분비선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40647
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7694,13 +7694,13 @@ imported:
     표제어: 내분비선
     품사: 명사
     항목ID: 40647
-processed:
+result:
   맞춤법 검사:
     표제어: 내분비선
     품사: 명사
 ---
 000_KEYWORD: 내불다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40646
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7742,13 +7742,13 @@ imported:
     - 발음: 내ː붐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40646_nae-bumnida.wav
       형태: 내붑니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내불다
     품사: 동사
 ---
 000_KEYWORD: 내붙이다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40658
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7790,13 +7790,13 @@ imported:
     - 발음: 내ː부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40658_nae-buchini.wav
       형태: 내붙이니
-processed:
+result:
   맞춤법 검사:
     표제어: 내붙이다
     품사: 동사
 ---
 000_KEYWORD: 내비게이션__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7806,13 +7806,13 @@ imported:
     표제어: 내비게이션
     품사: 명사:보통:비서술성
     항목ID: 5150
-processed:
+result:
   맞춤법 검사:
     표제어: 내비게이션
     품사: 명사
 ---
 000_KEYWORD: 내비치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40637
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7889,13 +7889,13 @@ imported:
     - 발음: 내ː비치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40637_nae-bichini.wav
       형태: 내비치니
-processed:
+result:
   맞춤법 검사:
     표제어: 내비치다
     품사: 동사
 ---
 000_KEYWORD: 내빈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40634
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7923,13 +7923,13 @@ imported:
     표제어: 내빈
     품사: 명사
     항목ID: 40634
-processed:
+result:
   맞춤법 검사:
     표제어: 내빈
     품사: 명사
 ---
 000_KEYWORD: 내빈석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40632
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -7967,13 +7967,13 @@ imported:
     - 발음: 내ː빈성만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/40632_nae-binseongman.wav
       형태: 내빈석만
-processed:
+result:
   맞춤법 검사:
     표제어: 내빈석
     품사: 명사
 ---
 000_KEYWORD: 내빼다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40629
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8012,13 +8012,13 @@ imported:
     - 발음: 내ː빼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40629_nae-ppaeni.wav
       형태: 내빼니
-processed:
+result:
   맞춤법 검사:
     표제어: 내빼다
     품사: 동사
 ---
 000_KEYWORD: 내뻗다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40628
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8070,7 +8070,7 @@ imported:
     - 발음: 내ː뻔는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40628_nae-ppeonneun.wav
       형태: 내뻗는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -8078,7 +8078,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내뻗치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40625
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8131,13 +8131,13 @@ imported:
     - 발음: 내ː뻗치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40625_nae-ppeotchini.wav
       형태: 내뻗치니
-processed:
+result:
   맞춤법 검사:
     표제어: 내뻗치다
     품사: 동사
 ---
 000_KEYWORD: 내뽑다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40622
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8186,7 +8186,7 @@ imported:
     - 발음: 내ː뽐는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40622_nae-ppomneun.wav
       형태: 내뽑는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -8194,7 +8194,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내뿜다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40618
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8277,13 +8277,13 @@ imported:
       형태: 내뿜으니
     - 발음: 내ː뿜씀니다
       형태: 내뿜습니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내뿜다
     품사: 동사
 ---
 000_KEYWORD: 내사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40613
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8327,13 +8327,13 @@ imported:
     표제어: 내사
     품사: 명사
     항목ID: 40613
-processed:
+result:
   맞춤법 검사:
     표제어: 내사
     품사: 명사
 ---
 000_KEYWORD: 내사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40611
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8370,13 +8370,13 @@ imported:
     표제어: 내사하다
     품사: 동사
     항목ID: 40611
-processed:
+result:
   맞춤법 검사:
     표제어: 내사하다
     품사: 동사
 ---
 000_KEYWORD: 내상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88826
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8406,13 +8406,13 @@ imported:
     표제어: 내상
     품사: 명사
     항목ID: 88826
-processed:
+result:
   맞춤법 검사:
     표제어: 내상
     품사: 명사
 ---
 000_KEYWORD: 내색__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40608
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8451,13 +8451,13 @@ imported:
     - 발음: 내ː생만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/08000/40608_nae-saengman.wav
       형태: 내색만
-processed:
+result:
   맞춤법 검사:
     표제어: 내색
     품사: 명사
 ---
 000_KEYWORD: 내색하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40607
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8488,13 +8488,13 @@ imported:
     표제어: 내색하다
     품사: 동사
     항목ID: 40607
-processed:
+result:
   맞춤법 검사:
     표제어: 내색하다
     품사: 동사
 ---
 000_KEYWORD: 내선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40606
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8528,13 +8528,13 @@ imported:
     표제어: 내선
     품사: 명사
     항목ID: 40606
-processed:
+result:
   맞춤법 검사:
     표제어: 내선
     품사: 명사
 ---
 000_KEYWORD: 내성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19543
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8575,13 +8575,13 @@ imported:
     표제어: 내성
     품사: 명사
     항목ID: 19543
-processed:
+result:
   맞춤법 검사:
     표제어: 내성
     품사: 명사
 ---
 000_KEYWORD: 내성적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40605
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8610,13 +8610,13 @@ imported:
     표제어: 내성적
     품사: 관형사
     항목ID: 40605
-processed:
+result:
   맞춤법 검사:
     표제어: 내성적
     품사: 관형사
 ---
 000_KEYWORD: 내성적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40601
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8645,13 +8645,13 @@ imported:
     표제어: 내성적
     품사: 명사
     항목ID: 40601
-processed:
+result:
   맞춤법 검사:
     표제어: 내성적
     품사: 명사
 ---
 000_KEYWORD: 내세__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40289
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8685,13 +8685,13 @@ imported:
     표제어: 내세
     품사: 명사
     항목ID: 40289
-processed:
+result:
   맞춤법 검사:
     표제어: 내세
     품사: 명사
 ---
 000_KEYWORD: 내세관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40288
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8720,13 +8720,13 @@ imported:
     표제어: 내세관
     품사: 명사
     항목ID: 40288
-processed:
+result:
   맞춤법 검사:
     표제어: 내세관
     품사: 명사
 ---
 000_KEYWORD: 내세우다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40287
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8818,13 +8818,13 @@ imported:
     - 발음: 내ː세우니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40287_nae-seuni.wav
       형태: 내세우니
-processed:
+result:
   맞춤법 검사:
     표제어: 내세우다
     품사: 동사
 ---
 000_KEYWORD: 내솟다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40286
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8882,7 +8882,7 @@ imported:
     - 발음: 내ː손는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40286_nae-sonneun.wav
       형태: 내솟는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -8890,7 +8890,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40285
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8920,13 +8920,13 @@ imported:
     표제어: 내수
     품사: 명사
     항목ID: 40285
-processed:
+result:
   맞춤법 검사:
     표제어: 내수
     품사: 명사
 ---
 000_KEYWORD: 내수면__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8935,13 +8935,13 @@ imported:
     표제어: 내수면
     품사: 명사:보통:서술성
     항목ID: 5162
-processed:
+result:
   맞춤법 검사:
     표제어: 내수면
     품사: 명사
 ---
 000_KEYWORD: 내숭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40282
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -8966,13 +8966,13 @@ imported:
     표제어: 내숭
     품사: 명사
     항목ID: 40282
-processed:
+result:
   맞춤법 검사:
     표제어: 내숭
     품사: 명사
 ---
 000_KEYWORD: 내숭쟁이__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8982,13 +8982,13 @@ imported:
     표제어: 내숭쟁이
     품사: 명사:보통:비서술성
     항목ID: 5164
-processed:
+result:
   맞춤법 검사:
     표제어: 내숭쟁이
     품사: 명사
 ---
 000_KEYWORD: 내쉬다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28432
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9032,13 +9032,13 @@ imported:
     - 발음: 내ː쉬니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/28432_nae-swini.wav
       형태: 내쉬니
-processed:
+result:
   맞춤법 검사:
     표제어: 내쉬다
     품사: 동사
 ---
 000_KEYWORD: 내습__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19545
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9091,13 +9091,13 @@ imported:
     - 발음: 내ː슴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/19545_nae-seumman.wav
       형태: 내습만
-processed:
+result:
   맞춤법 검사:
     표제어: 내습
     품사: 명사
 ---
 000_KEYWORD: 내습하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40281
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9138,13 +9138,13 @@ imported:
     표제어: 내습하다
     품사: 동사
     항목ID: 40281
-processed:
+result:
   맞춤법 검사:
     표제어: 내습하다
     품사: 동사
 ---
 000_KEYWORD: 내시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40280
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9177,13 +9177,13 @@ imported:
     표제어: 내시
     품사: 명사
     항목ID: 40280
-processed:
+result:
   맞춤법 검사:
     표제어: 내시
     품사: 명사
 ---
 000_KEYWORD: 내시경__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19546
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9210,13 +9210,13 @@ imported:
     표제어: 내시경
     품사: 명사
     항목ID: 19546
-processed:
+result:
   맞춤법 검사:
     표제어: 내시경
     품사: 명사
 ---
 000_KEYWORD: 내신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39946
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9246,13 +9246,13 @@ imported:
     표제어: 내신
     품사: 명사
     항목ID: 39946
-processed:
+result:
   맞춤법 검사:
     표제어: 내신
     품사: 명사
 ---
 000_KEYWORD: 내실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19547
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9292,13 +9292,13 @@ imported:
     표제어: 내실
     품사: 명사
     항목ID: 19547
-processed:
+result:
   맞춤법 검사:
     표제어: 내실
     품사: 명사
 ---
 000_KEYWORD: 내실__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39944
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9333,13 +9333,13 @@ imported:
     표제어: 내실
     품사: 명사
     항목ID: 39944
-processed:
+result:
   맞춤법 검사:
     표제어: 내실
     품사: 명사
 ---
 000_KEYWORD: 내실화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19549
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9367,13 +9367,13 @@ imported:
     표제어: 내실화
     품사: 명사
     항목ID: 19549
-processed:
+result:
   맞춤법 검사:
     표제어: 내실화
     품사: 명사
 ---
 000_KEYWORD: 내심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39943
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9401,13 +9401,13 @@ imported:
     표제어: 내심
     품사: 명사
     항목ID: 39943
-processed:
+result:
   맞춤법 검사:
     표제어: 내심
     품사: 명사
 ---
 000_KEYWORD: 내쏘다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39939
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9469,13 +9469,13 @@ imported:
     - 발음: 내ː쏘니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39939_nae-ssoni.wav
       형태: 내쏘니
-processed:
+result:
   맞춤법 검사:
     표제어: 내쏘다
     품사: 동사
 ---
 000_KEYWORD: 내쏟다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39936
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9523,7 +9523,7 @@ imported:
     - 발음: 내ː쏜는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/39936_nae-ssonneun.wav
       형태: 내쏟는
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -9531,7 +9531,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내야__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39932
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9585,13 +9585,13 @@ imported:
     표제어: 내야
     품사: 명사
     항목ID: 39932
-processed:
+result:
   맞춤법 검사:
     표제어: 내야
     품사: 명사
 ---
 000_KEYWORD: 내야수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39929
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9626,13 +9626,13 @@ imported:
     표제어: 내야수
     품사: 명사
     항목ID: 39929
-processed:
+result:
   맞춤법 검사:
     표제어: 내야수
     품사: 명사
 ---
 000_KEYWORD: 내어놓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90783
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9768,7 +9768,7 @@ imported:
     - 발음: 내ː어노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/90783_nae-eonosseumnida.wav
       형태: 내어놓습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 규칙
@@ -9777,7 +9777,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내역__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39925
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9824,13 +9824,13 @@ imported:
     - 발음: 내ː영만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/39925_nae-yeongman.wav
       형태: 내역만
-processed:
+result:
   맞춤법 검사:
     표제어: 내역
     품사: 명사
 ---
 000_KEYWORD: 내역서__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19555
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9872,13 +9872,13 @@ imported:
     표제어: 내역서
     품사: 명사
     항목ID: 19555
-processed:
+result:
   맞춤법 검사:
     표제어: 내역서
     품사: 명사
 ---
 000_KEYWORD: 내연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19561
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9906,13 +9906,13 @@ imported:
     표제어: 내연
     품사: 명사
     항목ID: 19561
-processed:
+result:
   맞춤법 검사:
     표제어: 내연
     품사: 명사
 ---
 000_KEYWORD: 내연기관__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -9921,13 +9921,13 @@ imported:
     표제어: 내연기관
     품사: 명사:보통:비서술성
     항목ID: 5174
-processed:
+result:
   맞춤법 검사:
     표제어: 내연기관
     품사: 명사
 ---
 000_KEYWORD: 내열__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19564
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9956,13 +9956,13 @@ imported:
     표제어: 내열
     품사: 명사
     항목ID: 19564
-processed:
+result:
   맞춤법 검사:
     표제어: 내열
     품사: 명사
 ---
 000_KEYWORD: 내열성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39918
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -9990,13 +9990,13 @@ imported:
     표제어: 내열성
     품사: 명사
     항목ID: 39918
-processed:
+result:
   맞춤법 검사:
     표제어: 내열성
     품사: 명사
 ---
 000_KEYWORD: 내오다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39913
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10050,13 +10050,13 @@ imported:
     - 발음: 내ː오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39913_nae-oneora.wav
       형태: 내오너라
-processed:
+result:
   맞춤법 검사:
     표제어: 내오다
     품사: 동사
 ---
 000_KEYWORD: 내왕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19565
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10106,13 +10106,13 @@ imported:
     표제어: 내왕
     품사: 명사
     항목ID: 19565
-processed:
+result:
   맞춤법 검사:
     표제어: 내왕
     품사: 명사
 ---
 000_KEYWORD: 내왕하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39908
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10171,13 +10171,13 @@ imported:
     표제어: 내왕하다
     품사: 동사
     항목ID: 39908
-processed:
+result:
   맞춤법 검사:
     표제어: 내왕하다
     품사: 동사
 ---
 000_KEYWORD: 내외__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28545
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10229,13 +10229,13 @@ imported:
     표제어: 내외
     품사: 명사
     항목ID: 28545
-processed:
+result:
   맞춤법 검사:
     표제어: 내외
     품사: 명사
 ---
 000_KEYWORD: 내외__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28547
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10288,13 +10288,13 @@ imported:
     표제어: 내외
     품사: 명사
     항목ID: 28547
-processed:
+result:
   맞춤법 검사:
     표제어: 내외
     품사: 명사
 ---
 000_KEYWORD: 내외간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39906
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10334,13 +10334,13 @@ imported:
     표제어: 내외간
     품사: 명사
     항목ID: 39906
-processed:
+result:
   맞춤법 검사:
     표제어: 내외간
     품사: 명사
 ---
 000_KEYWORD: 내외분__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19569
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10372,13 +10372,13 @@ imported:
     표제어: 내외분
     품사: 명사
     항목ID: 19569
-processed:
+result:
   맞춤법 검사:
     표제어: 내외분
     품사: 명사
 ---
 000_KEYWORD: 내외지간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90871
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10415,13 +10415,13 @@ imported:
     표제어: 내외지간
     품사: 명사
     항목ID: 90871
-processed:
+result:
   맞춤법 검사:
     표제어: 내외지간
     품사: 명사
 ---
 000_KEYWORD: 내외하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39904
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10449,13 +10449,13 @@ imported:
     표제어: 내외하다
     품사: 동사
     항목ID: 39904
-processed:
+result:
   맞춤법 검사:
     표제어: 내외하다
     품사: 동사
 ---
 000_KEYWORD: 내용__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72573
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10543,13 +10543,13 @@ imported:
     표제어: 내용
     품사: 명사
     항목ID: 72573
-processed:
+result:
   맞춤법 검사:
     표제어: 내용
     품사: 명사
 ---
 000_KEYWORD: 내용물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28548
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10578,13 +10578,13 @@ imported:
     표제어: 내용물
     품사: 명사
     항목ID: 28548
-processed:
+result:
   맞춤법 검사:
     표제어: 내용물
     품사: 명사
 ---
 000_KEYWORD: 내우외환__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19570
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10615,13 +10615,13 @@ imported:
     표제어: 내우외환
     품사: 명사
     항목ID: 19570
-processed:
+result:
   맞춤법 검사:
     표제어: 내우외환
     품사: 명사
 ---
 000_KEYWORD: 내원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90873
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10649,13 +10649,13 @@ imported:
     표제어: 내원
     품사: 명사
     항목ID: 90873
-processed:
+result:
   맞춤법 검사:
     표제어: 내원
     품사: 명사
 ---
 000_KEYWORD: 내원하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39902
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10681,13 +10681,13 @@ imported:
     표제어: 내원하다
     품사: 동사
     항목ID: 39902
-processed:
+result:
   맞춤법 검사:
     표제어: 내원하다
     품사: 동사
 ---
 000_KEYWORD: 내음__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10697,13 +10697,13 @@ imported:
     표제어: 내음
     품사: 명사:보통:서술성
     항목ID: 5180
-processed:
+result:
   맞춤법 검사:
     표제어: 내음
     품사: 명사
 ---
 000_KEYWORD: 내의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39896
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10758,13 +10758,13 @@ imported:
     표제어: 내의
     품사: 명사
     항목ID: 39896
-processed:
+result:
   맞춤법 검사:
     표제어: 내의
     품사: 명사
 ---
 000_KEYWORD: 내일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30193
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10839,13 +10839,13 @@ imported:
     표제어: 내일
     품사: 명사
     항목ID: 30193
-processed:
+result:
   맞춤법 검사:
     표제어: 내일
     품사: 명사
 ---
 000_KEYWORD: 내일__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=30194
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10891,13 +10891,13 @@ imported:
     표제어: 내일
     품사: 부사
     항목ID: 30194
-processed:
+result:
   맞춤법 검사:
     표제어: 내일
     품사: 부사
 ---
 000_KEYWORD: 내일모레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39894
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10945,13 +10945,13 @@ imported:
     표제어: 내일모레
     품사: 명사
     항목ID: 39894
-processed:
+result:
   맞춤법 검사:
     표제어: 내일모레
     품사: 명사
 ---
 000_KEYWORD: 내일모레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83730
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -10987,13 +10987,13 @@ imported:
     표제어: 내일모레
     품사: 부사
     항목ID: 83730
-processed:
+result:
   맞춤법 검사:
     표제어: 내일모레
     품사: 부사
 ---
 000_KEYWORD: 내장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19575
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11028,13 +11028,13 @@ imported:
     표제어: 내장
     품사: 명사
     항목ID: 19575
-processed:
+result:
   맞춤법 검사:
     표제어: 내장
     품사: 명사
 ---
 000_KEYWORD: 내장__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19576
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11063,13 +11063,13 @@ imported:
     표제어: 내장
     품사: 명사
     항목ID: 19576
-processed:
+result:
   맞춤법 검사:
     표제어: 내장
     품사: 명사
 ---
 000_KEYWORD: 내장__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92471
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11100,13 +11100,13 @@ imported:
     표제어: 내장
     품사: 명사
     항목ID: 92471
-processed:
+result:
   맞춤법 검사:
     표제어: 내장
     품사: 명사
 ---
 000_KEYWORD: 내장객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19577
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11146,13 +11146,13 @@ imported:
     - 발음: 내장갱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/19577_naejanggaengman.wav
       형태: 내장객만
-processed:
+result:
   맞춤법 검사:
     표제어: 내장객
     품사: 명사
 ---
 000_KEYWORD: 내장되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39890
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11182,13 +11182,13 @@ imported:
     표제어: 내장되다
     품사: 동사
     항목ID: 39890
-processed:
+result:
   맞춤법 검사:
     표제어: 내장되다
     품사: 동사
 ---
 000_KEYWORD: 내장재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39889
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11222,13 +11222,13 @@ imported:
     표제어: 내장재
     품사: 명사
     항목ID: 39889
-processed:
+result:
   맞춤법 검사:
     표제어: 내장재
     품사: 명사
 ---
 000_KEYWORD: 내장하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=39885
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11258,13 +11258,13 @@ imported:
     표제어: 내장하다
     품사: 동사
     항목ID: 39885
-processed:
+result:
   맞춤법 검사:
     표제어: 내장하다
     품사: 동사
 ---
 000_KEYWORD: 내장형__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11273,13 +11273,13 @@ imported:
     표제어: 내장형
     품사: 명사:보통:서술성
     항목ID: 5189
-processed:
+result:
   맞춤법 검사:
     표제어: 내장형
     품사: 명사
 ---
 000_KEYWORD: 내재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90874
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11305,13 +11305,13 @@ imported:
     표제어: 내재
     품사: 명사
     항목ID: 90874
-processed:
+result:
   맞춤법 검사:
     표제어: 내재
     품사: 명사
 ---
 000_KEYWORD: 내재되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41106
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11342,13 +11342,13 @@ imported:
     표제어: 내재되다
     품사: 동사
     항목ID: 41106
-processed:
+result:
   맞춤법 검사:
     표제어: 내재되다
     품사: 동사
 ---
 000_KEYWORD: 내재적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41107
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11378,13 +11378,13 @@ imported:
     표제어: 내재적
     품사: 관형사
     항목ID: 41107
-processed:
+result:
   맞춤법 검사:
     표제어: 내재적
     품사: 관형사
 ---
 000_KEYWORD: 내재적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41108
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11413,13 +11413,13 @@ imported:
     표제어: 내재적
     품사: 명사
     항목ID: 41108
-processed:
+result:
   맞춤법 검사:
     표제어: 내재적
     품사: 명사
 ---
 000_KEYWORD: 내재하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41109
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11448,13 +11448,13 @@ imported:
     표제어: 내재하다
     품사: 동사
     항목ID: 41109
-processed:
+result:
   맞춤법 검사:
     표제어: 내재하다
     품사: 동사
 ---
 000_KEYWORD: 내적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28308
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11503,13 +11503,13 @@ imported:
     표제어: 내적
     품사: 관형사
     항목ID: 28308
-processed:
+result:
   맞춤법 검사:
     표제어: 내적
     품사: 관형사
 ---
 000_KEYWORD: 내적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28309
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11559,13 +11559,13 @@ imported:
     표제어: 내적
     품사: 명사
     항목ID: 28309
-processed:
+result:
   맞춤법 검사:
     표제어: 내적
     품사: 명사
 ---
 000_KEYWORD: 내전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=19579
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11595,13 +11595,13 @@ imported:
     표제어: 내전
     품사: 명사
     항목ID: 19579
-processed:
+result:
   맞춤법 검사:
     표제어: 내전
     품사: 명사
 ---
 000_KEYWORD: 내전__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41110
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11633,13 +11633,13 @@ imported:
     표제어: 내전
     품사: 명사
     항목ID: 41110
-processed:
+result:
   맞춤법 검사:
     표제어: 내전
     품사: 명사
 ---
 000_KEYWORD: 내젓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41111
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11702,7 +11702,7 @@ imported:
     - 발음: 내ː전는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41111_nae-jeonneun.wav
       형태: 내젓는
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -11710,7 +11710,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41113
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11746,13 +11746,13 @@ imported:
     표제어: 내정
     품사: 명사
     항목ID: 41113
-processed:
+result:
   맞춤법 검사:
     표제어: 내정
     품사: 명사
 ---
 000_KEYWORD: 내정__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90888
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11780,13 +11780,13 @@ imported:
     표제어: 내정
     품사: 명사
     항목ID: 90888
-processed:
+result:
   맞춤법 검사:
     표제어: 내정
     품사: 명사
 ---
 000_KEYWORD: 내정__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90899
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11813,13 +11813,13 @@ imported:
     표제어: 내정
     품사: 명사
     항목ID: 90899
-processed:
+result:
   맞춤법 검사:
     표제어: 내정
     품사: 명사
 ---
 000_KEYWORD: 내정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41114
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11860,13 +11860,13 @@ imported:
     표제어: 내정되다
     품사: 동사
     항목ID: 41114
-processed:
+result:
   맞춤법 검사:
     표제어: 내정되다
     품사: 동사
 ---
 000_KEYWORD: 내정자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11875,13 +11875,13 @@ imported:
     표제어: 내정자
     품사: 명사:보통:비서술성
     항목ID: 5198
-processed:
+result:
   맞춤법 검사:
     표제어: 내정자
     품사: 명사
 ---
 000_KEYWORD: 내정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41115
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11919,13 +11919,13 @@ imported:
     표제어: 내정하다
     품사: 동사
     항목ID: 41115
-processed:
+result:
   맞춤법 검사:
     표제어: 내정하다
     품사: 동사
 ---
 000_KEYWORD: 내조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20340
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11958,13 +11958,13 @@ imported:
     표제어: 내조
     품사: 명사
     항목ID: 20340
-processed:
+result:
   맞춤법 검사:
     표제어: 내조
     품사: 명사
 ---
 000_KEYWORD: 내조자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41117
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -11993,13 +11993,13 @@ imported:
     표제어: 내조자
     품사: 명사
     항목ID: 41117
-processed:
+result:
   맞춤법 검사:
     표제어: 내조자
     품사: 명사
 ---
 000_KEYWORD: 내조하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41119
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12028,13 +12028,13 @@ imported:
     표제어: 내조하다
     품사: 동사
     항목ID: 41119
-processed:
+result:
   맞춤법 검사:
     표제어: 내조하다
     품사: 동사
 ---
 000_KEYWORD: 내주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41121
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12063,13 +12063,13 @@ imported:
     표제어: 내주
     품사: 명사
     항목ID: 41121
-processed:
+result:
   맞춤법 검사:
     표제어: 내주
     품사: 명사
 ---
 000_KEYWORD: 내주다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28550
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12143,17 +12143,17 @@ imported:
     - 발음: 내ː주니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/28550_nae-juni.wav
       형태: 내주니
-processed:
+result:
   맞춤법 검사:
     표제어: 내주다
     품사: 동사
-processed_overrides:
+manual:
   맞춤법 검사:
     속성:
     - 용언합성
 ---
 000_KEYWORD: 내지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69189
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12213,13 +12213,13 @@ imported:
     표제어: 내지
     품사: 명사
     항목ID: 69189
-processed:
+result:
   맞춤법 검사:
     표제어: 내지
     품사: 명사
 ---
 000_KEYWORD: 내지__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41124
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12266,13 +12266,13 @@ imported:
     표제어: 내지
     품사: 부사
     항목ID: 41124
-processed:
+result:
   맞춤법 검사:
     표제어: 내지
     품사: 부사
 ---
 000_KEYWORD: 내지르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41125
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12323,7 +12323,7 @@ imported:
     - 발음: 내ː지르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41125_nae-jireuni.wav
       형태: 내지르니
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -12331,7 +12331,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91000
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12359,13 +12359,13 @@ imported:
     표제어: 내진
     품사: 명사
     항목ID: 91000
-processed:
+result:
   맞춤법 검사:
     표제어: 내진
     품사: 명사
 ---
 000_KEYWORD: 내쫓기다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41128
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12419,13 +12419,13 @@ imported:
     - 발음: 내ː쫃끼니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41128_nae-jjotkkini.wav
       형태: 내쫓기니
-processed:
+result:
   맞춤법 검사:
     표제어: 내쫓기다
     품사: 동사
 ---
 000_KEYWORD: 내쫓다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41131
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12478,13 +12478,13 @@ imported:
     - 발음: 내ː쫀는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41131_nae-jjonneun.wav
       형태: 내쫓는
-processed:
+result:
   맞춤법 검사:
     표제어: 내쫓다
     품사: 동사
 ---
 000_KEYWORD: 내차다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41133
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12519,13 +12519,13 @@ imported:
     - 발음: 내ː차니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41133_nae-chani.wav
       형태: 내차니
-processed:
+result:
   맞춤법 검사:
     표제어: 내차다
     품사: 동사
 ---
 000_KEYWORD: 내출혈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83307
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12556,13 +12556,13 @@ imported:
     표제어: 내출혈
     품사: 명사
     항목ID: 83307
-processed:
+result:
   맞춤법 검사:
     표제어: 내출혈
     품사: 명사
 ---
 000_KEYWORD: 내치__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41135
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12590,13 +12590,13 @@ imported:
     표제어: 내치
     품사: 명사
     항목ID: 41135
-processed:
+result:
   맞춤법 검사:
     표제어: 내치
     품사: 명사
 ---
 000_KEYWORD: 내치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41138
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12654,13 +12654,13 @@ imported:
     - 발음: 내ː치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41138_nae-chini.wav
       형태: 내치니
-processed:
+result:
   맞춤법 검사:
     표제어: 내치다
     품사: 동사
 ---
 000_KEYWORD: 내침__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41141
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12689,13 +12689,13 @@ imported:
     표제어: 내침
     품사: 명사
     항목ID: 41141
-processed:
+result:
   맞춤법 검사:
     표제어: 내침
     품사: 명사
 ---
 000_KEYWORD: 내침하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41143
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12724,13 +12724,13 @@ imported:
     표제어: 내침하다
     품사: 동사
     항목ID: 41143
-processed:
+result:
   맞춤법 검사:
     표제어: 내침하다
     품사: 동사
 ---
 000_KEYWORD: 내키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41145
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12772,13 +12772,13 @@ imported:
     - 발음: 내ː키니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41145_nae-kini.wav
       형태: 내키니
-processed:
+result:
   맞춤법 검사:
     표제어: 내키다
     품사: 동사
 ---
 000_KEYWORD: 내통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41147
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12827,13 +12827,13 @@ imported:
     표제어: 내통
     품사: 명사
     항목ID: 41147
-processed:
+result:
   맞춤법 검사:
     표제어: 내통
     품사: 명사
 ---
 000_KEYWORD: 내통하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41149
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12905,13 +12905,13 @@ imported:
       형태: 내통하니
     - 발음: 내ː통합니다
       형태: 내통합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내통하다
     품사: 동사
 ---
 000_KEYWORD: 내팽개치다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41150
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -12976,7 +12976,7 @@ imported:
     - 발음: 내ː팽개침니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41150_nae-paenggaechimnida.wav
       형태: 내팽개칩니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -12984,7 +12984,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내포__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41151
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13012,13 +13012,13 @@ imported:
     표제어: 내포
     품사: 명사
     항목ID: 41151
-processed:
+result:
   맞춤법 검사:
     표제어: 내포
     품사: 명사
 ---
 000_KEYWORD: 내포되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41152
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13079,13 +13079,13 @@ imported:
     - 발음: 내ː포뒘니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/41152_nae-podwemnida.wav
       형태: 내포됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내포되다
     품사: 동사
 ---
 000_KEYWORD: 내포하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41153
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13130,13 +13130,13 @@ imported:
     - 발음: 내ː포함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/41153_nae-pohamnida.wav
       형태: 내포합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내포하다
     품사: 동사
 ---
 000_KEYWORD: 내피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41154
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13168,13 +13168,13 @@ imported:
     표제어: 내피
     품사: 명사
     항목ID: 41154
-processed:
+result:
   맞춤법 검사:
     표제어: 내피
     품사: 명사
 ---
 000_KEYWORD: 내핍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20344
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13211,13 +13211,13 @@ imported:
     - 발음: 내ː핌만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/20344_nae-pimman.wav
       형태: 내핍만
-processed:
+result:
   맞춤법 검사:
     표제어: 내핍
     품사: 명사
 ---
 000_KEYWORD: 내한__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20345
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13249,13 +13249,13 @@ imported:
     표제어: 내한
     품사: 명사
     항목ID: 20345
-processed:
+result:
   맞춤법 검사:
     표제어: 내한
     품사: 명사
 ---
 000_KEYWORD: 내한하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41155
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13303,13 +13303,13 @@ imported:
       형태: 내한하니
     - 발음: 내ː한합니다
       형태: 내한합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내한하다
     품사: 동사
 ---
 000_KEYWORD: 내항__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91004
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13337,13 +13337,13 @@ imported:
     표제어: 내항
     품사: 명사
     항목ID: 91004
-processed:
+result:
   맞춤법 검사:
     표제어: 내항
     품사: 명사
 ---
 000_KEYWORD: 내항__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20346
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13373,13 +13373,13 @@ imported:
     표제어: 내항
     품사: 명사
     항목ID: 20346
-processed:
+result:
   맞춤법 검사:
     표제어: 내항
     품사: 명사
 ---
 000_KEYWORD: 내핵__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13389,13 +13389,13 @@ imported:
     표제어: 내핵
     품사: 명사:보통:서술성
     항목ID: 5215
-processed:
+result:
   맞춤법 검사:
     표제어: 내핵
     품사: 명사
 ---
 000_KEYWORD: 내행성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13405,13 +13405,13 @@ imported:
     표제어: 내행성
     품사: 명사:보통:비서술성
     항목ID: 5216
-processed:
+result:
   맞춤법 검사:
     표제어: 내행성
     품사: 명사
 ---
 000_KEYWORD: 내향__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20348
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13455,13 +13455,13 @@ imported:
     표제어: 내향
     품사: 명사
     항목ID: 20348
-processed:
+result:
   맞춤법 검사:
     표제어: 내향
     품사: 명사
 ---
 000_KEYWORD: 내향성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41156
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13494,13 +13494,13 @@ imported:
     표제어: 내향성
     품사: 명사
     항목ID: 41156
-processed:
+result:
   맞춤법 검사:
     표제어: 내향성
     품사: 명사
 ---
 000_KEYWORD: 내향적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92412
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13545,13 +13545,13 @@ imported:
     표제어: 내향적
     품사: 관형사
     항목ID: 92412
-processed:
+result:
   맞춤법 검사:
     표제어: 내향적
     품사: 관형사
 ---
 000_KEYWORD: 내향적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92413
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13597,13 +13597,13 @@ imported:
     표제어: 내향적
     품사: 명사
     항목ID: 92413
-processed:
+result:
   맞춤법 검사:
     표제어: 내향적
     품사: 명사
 ---
 000_KEYWORD: 내홍__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13612,13 +13612,13 @@ imported:
     표제어: 내홍
     품사: 명사:보통:비서술성
     항목ID: 5217
-processed:
+result:
   맞춤법 검사:
     표제어: 내홍
     품사: 명사
 ---
 000_KEYWORD: 내후년__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28552
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13647,13 +13647,13 @@ imported:
     표제어: 내후년
     품사: 명사
     항목ID: 28552
-processed:
+result:
   맞춤법 검사:
     표제어: 내후년
     품사: 명사
 ---
 000_KEYWORD: 내훈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41157
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13697,13 +13697,13 @@ imported:
     표제어: 내훈
     품사: 명사
     항목ID: 41157
-processed:
+result:
   맞춤법 검사:
     표제어: 내훈
     품사: 명사
 ---
 000_KEYWORD: 내휘두르다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41158
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13756,7 +13756,7 @@ imported:
     - 발음: 내ː휘두름니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41158_nae-hwidureumnida.wav
       형태: 내휘두릅니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -13764,7 +13764,7 @@ processed:
     품사: 동사
 ---
 000_KEYWORD: 내흔들다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41160
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13805,13 +13805,13 @@ imported:
     - 발음: 내ː흔듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41160_nae-heundeumnida.wav
       형태: 내흔듭니다
-processed:
+result:
   맞춤법 검사:
     표제어: 내흔들다
     품사: 동사
 ---
 000_KEYWORD: 낸드__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -13822,13 +13822,13 @@ imported:
     표제어: 낸드
     품사: 명사:보통:서술성
     항목ID: 5220
-processed:
+result:
   맞춤법 검사:
     표제어: 낸드
     품사: 명사
 ---
 000_KEYWORD: 낼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41161
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13860,13 +13860,13 @@ imported:
     표제어: 낼
     품사: 명사
     항목ID: 41161
-processed:
+result:
   맞춤법 검사:
     표제어: 낼
     품사: 명사
 ---
 000_KEYWORD: 낼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41162
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13897,13 +13897,13 @@ imported:
     표제어: 낼
     품사: 부사
     항목ID: 41162
-processed:
+result:
   맞춤법 검사:
     표제어: 낼
     품사: 부사
 ---
 000_KEYWORD: 낼모레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20350
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13942,13 +13942,13 @@ imported:
     표제어: 낼모레
     품사: 명사
     항목ID: 20350
-processed:
+result:
   맞춤법 검사:
     표제어: 낼모레
     품사: 명사
 ---
 000_KEYWORD: 낼모레__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20391
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -13981,13 +13981,13 @@ imported:
     표제어: 낼모레
     품사: 부사
     항목ID: 20391
-processed:
+result:
   맞춤법 검사:
     표제어: 낼모레
     품사: 부사
 ---
 000_KEYWORD: 냄비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41163
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14021,13 +14021,13 @@ imported:
     표제어: 냄비
     품사: 명사
     항목ID: 41163
-processed:
+result:
   맞춤법 검사:
     표제어: 냄비
     품사: 명사
 ---
 000_KEYWORD: 냄새__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58180
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14116,13 +14116,13 @@ imported:
     표제어: 냄새
     품사: 명사
     항목ID: 58180
-processed:
+result:
   맞춤법 검사:
     표제어: 냄새
     품사: 명사
 ---
 000_KEYWORD: 냄새나다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14131,13 +14131,13 @@ imported:
     표제어: 냄새나다
     품사: 동사
     항목ID: 5223
-processed:
+result:
   맞춤법 검사:
     표제어: 냄새나다
     품사: 동사
 ---
 000_KEYWORD: 냅다__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41164
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14165,13 +14165,13 @@ imported:
     표제어: 냅다
     품사: 부사
     항목ID: 41164
-processed:
+result:
   맞춤법 검사:
     표제어: 냅다
     품사: 부사
 ---
 000_KEYWORD: 냅킨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41165
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14205,13 +14205,13 @@ imported:
     표제어: 냅킨
     품사: 명사
     항목ID: 41165
-processed:
+result:
   맞춤법 검사:
     표제어: 냅킨
     품사: 명사
 ---
 000_KEYWORD: 냇가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41167
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14243,13 +14243,13 @@ imported:
     표제어: 냇가
     품사: 명사
     항목ID: 41167
-processed:
+result:
   맞춤법 검사:
     표제어: 냇가
     품사: 명사
 ---
 000_KEYWORD: 냇둑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20353
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14297,13 +14297,13 @@ imported:
     - 발음: 낻ː뚱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/20353_naed-ttungman.wav
       형태: 냇둑만
-processed:
+result:
   맞춤법 검사:
     표제어: 냇둑
     품사: 명사
 ---
 000_KEYWORD: 냇물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28554
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14332,13 +14332,13 @@ imported:
     표제어: 냇물
     품사: 명사
     항목ID: 28554
-processed:
+result:
   맞춤법 검사:
     표제어: 냇물
     품사: 명사
 ---
 000_KEYWORD: 냉-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88845
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14358,11 +14358,11 @@ imported:
     표제어: 냉-
     품사: 접사
     항목ID: 88845
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 냉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20355
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14393,13 +14393,13 @@ imported:
     표제어: 냉
     품사: 명사
     항목ID: 20355
-processed:
+result:
   맞춤법 검사:
     표제어: 냉
     품사: 명사
 ---
 000_KEYWORD: 냉가슴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41168
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14423,13 +14423,13 @@ imported:
     표제어: 냉가슴
     품사: 명사
     항목ID: 41168
-processed:
+result:
   맞춤법 검사:
     표제어: 냉가슴
     품사: 명사
 ---
 000_KEYWORD: 냉각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20356
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14482,13 +14482,13 @@ imported:
     - 발음: 냉ː강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/20356_naeng-gangman.wav
       형태: 냉각만
-processed:
+result:
   맞춤법 검사:
     표제어: 냉각
     품사: 명사
 ---
 000_KEYWORD: 냉각기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41169
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14521,13 +14521,13 @@ imported:
     표제어: 냉각기
     품사: 명사
     항목ID: 41169
-processed:
+result:
   맞춤법 검사:
     표제어: 냉각기
     품사: 명사
 ---
 000_KEYWORD: 냉각기__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41170
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14555,13 +14555,13 @@ imported:
     표제어: 냉각기
     품사: 명사
     항목ID: 41170
-processed:
+result:
   맞춤법 검사:
     표제어: 냉각기
     품사: 명사
 ---
 000_KEYWORD: 냉각기간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41171
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14594,13 +14594,13 @@ imported:
     표제어: 냉각기간
     품사: 명사
     항목ID: 41171
-processed:
+result:
   맞춤법 검사:
     표제어: 냉각기간
     품사: 명사
 ---
 000_KEYWORD: 냉각되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41173
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14674,13 +14674,13 @@ imported:
     - 발음: 냉ː각뛤니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/41173_naeng-gakttwemnida.wav
       형태: 냉각됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉각되다
     품사: 동사
 ---
 000_KEYWORD: 냉각수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20359
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14710,13 +14710,13 @@ imported:
     표제어: 냉각수
     품사: 명사
     항목ID: 20359
-processed:
+result:
   맞춤법 검사:
     표제어: 냉각수
     품사: 명사
 ---
 000_KEYWORD: 냉각재__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14726,13 +14726,13 @@ imported:
     표제어: 냉각재
     품사: 명사:보통:비서술성
     항목ID: 5231
-processed:
+result:
   맞춤법 검사:
     표제어: 냉각재
     품사: 명사
 ---
 000_KEYWORD: 냉각하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41174
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14789,13 +14789,13 @@ imported:
     - 발음: 냉ː가캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/41174_naeng-gakamnida.wav
       형태: 냉각합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉각하다
     품사: 동사
 ---
 000_KEYWORD: 냉국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41175
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14838,13 +14838,13 @@ imported:
     - 발음: 냉ː꿍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/41175_naeng-kkungman.wav
       형태: 냉국만
-processed:
+result:
   맞춤법 검사:
     표제어: 냉국
     품사: 명사
 ---
 000_KEYWORD: 냉기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41177
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14898,13 +14898,13 @@ imported:
     표제어: 냉기
     품사: 명사
     항목ID: 41177
-processed:
+result:
   맞춤법 검사:
     표제어: 냉기
     품사: 명사
 ---
 000_KEYWORD: 냉기류__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20394
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14947,13 +14947,13 @@ imported:
     표제어: 냉기류
     품사: 명사
     항목ID: 20394
-processed:
+result:
   맞춤법 검사:
     표제어: 냉기류
     품사: 명사
 ---
 000_KEYWORD: 냉난방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20399
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -14981,13 +14981,13 @@ imported:
     표제어: 냉난방
     품사: 명사
     항목ID: 20399
-processed:
+result:
   맞춤법 검사:
     표제어: 냉난방
     품사: 명사
 ---
 000_KEYWORD: 냉담__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20402
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15014,13 +15014,13 @@ imported:
     표제어: 냉담
     품사: 명사
     항목ID: 20402
-processed:
+result:
   맞춤법 검사:
     표제어: 냉담
     품사: 명사
 ---
 000_KEYWORD: 냉담하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41179
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15075,13 +15075,13 @@ imported:
     - 발음: 냉ː담함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/41179_naeng-damhamnida.wav
       형태: 냉담합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉담하다
     품사: 형용사
 ---
 000_KEYWORD: 냉담히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91006
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15112,13 +15112,13 @@ imported:
     표제어: 냉담히
     품사: 부사
     항목ID: 91006
-processed:
+result:
   맞춤법 검사:
     표제어: 냉담히
     품사: 부사
 ---
 000_KEYWORD: 냉대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20405
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15155,13 +15155,13 @@ imported:
     표제어: 냉대
     품사: 명사
     항목ID: 20405
-processed:
+result:
   맞춤법 검사:
     표제어: 냉대
     품사: 명사
 ---
 000_KEYWORD: 냉대__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20410
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15191,13 +15191,13 @@ imported:
     표제어: 냉대
     품사: 명사
     항목ID: 20410
-processed:
+result:
   맞춤법 검사:
     표제어: 냉대
     품사: 명사
 ---
 000_KEYWORD: 냉대하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41183
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15249,13 +15249,13 @@ imported:
     - 발음: 냉ː대함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/41183_naeng-daehamnida.wav
       형태: 냉대합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉대하다
     품사: 동사
 ---
 000_KEYWORD: 냉동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28556
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15290,13 +15290,13 @@ imported:
     표제어: 냉동
     품사: 명사
     항목ID: 28556
-processed:
+result:
   맞춤법 검사:
     표제어: 냉동
     품사: 명사
 ---
 000_KEYWORD: 냉동고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41185
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15324,13 +15324,13 @@ imported:
     표제어: 냉동고
     품사: 명사
     항목ID: 41185
-processed:
+result:
   맞춤법 검사:
     표제어: 냉동고
     품사: 명사
 ---
 000_KEYWORD: 냉동되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41187
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15389,13 +15389,13 @@ imported:
     - 발음: 냉ː동뒘니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/41187_naeng-dongdwemnida.wav
       형태: 냉동됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉동되다
     품사: 동사
 ---
 000_KEYWORD: 냉동식품__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41190
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15423,13 +15423,13 @@ imported:
     표제어: 냉동식품
     품사: 명사
     항목ID: 41190
-processed:
+result:
   맞춤법 검사:
     표제어: 냉동식품
     품사: 명사
 ---
 000_KEYWORD: 냉동실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41194
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15461,13 +15461,13 @@ imported:
     표제어: 냉동실
     품사: 명사
     항목ID: 41194
-processed:
+result:
   맞춤법 검사:
     표제어: 냉동실
     품사: 명사
 ---
 000_KEYWORD: 냉동하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41197
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15512,13 +15512,13 @@ imported:
     - 발음: 냉ː동함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/41197_naeng-donghamnida.wav
       형태: 냉동합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉동하다
     품사: 동사
 ---
 000_KEYWORD: 냉랭하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41200
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15589,13 +15589,13 @@ imported:
     - 발음: 냉ː냉함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/41200_naeng-naenghamnida.wav
       형태: 냉랭합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉랭하다
     품사: 형용사
 ---
 000_KEYWORD: 냉랭히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41208
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15638,13 +15638,13 @@ imported:
     표제어: 냉랭히
     품사: 부사
     항목ID: 41208
-processed:
+result:
   맞춤법 검사:
     표제어: 냉랭히
     품사: 부사
 ---
 000_KEYWORD: 냉매__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20430
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15672,13 +15672,13 @@ imported:
     표제어: 냉매
     품사: 명사
     항목ID: 20430
-processed:
+result:
   맞춤법 검사:
     표제어: 냉매
     품사: 명사
 ---
 000_KEYWORD: 냉면__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32777
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15712,13 +15712,13 @@ imported:
     표제어: 냉면
     품사: 명사
     항목ID: 32777
-processed:
+result:
   맞춤법 검사:
     표제어: 냉면
     품사: 명사
 ---
 000_KEYWORD: 냉방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28558
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15765,13 +15765,13 @@ imported:
     표제어: 냉방
     품사: 명사
     항목ID: 28558
-processed:
+result:
   맞춤법 검사:
     표제어: 냉방
     품사: 명사
 ---
 000_KEYWORD: 냉방기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41214
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15803,13 +15803,13 @@ imported:
     표제어: 냉방기
     품사: 명사
     항목ID: 41214
-processed:
+result:
   맞춤법 검사:
     표제어: 냉방기
     품사: 명사
 ---
 000_KEYWORD: 냉방병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20431
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15838,13 +15838,13 @@ imported:
     표제어: 냉방병
     품사: 명사
     항목ID: 20431
-processed:
+result:
   맞춤법 검사:
     표제어: 냉방병
     품사: 명사
 ---
 000_KEYWORD: 냉병__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20433
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15876,13 +15876,13 @@ imported:
     표제어: 냉병
     품사: 명사
     항목ID: 20433
-processed:
+result:
   맞춤법 검사:
     표제어: 냉병
     품사: 명사
 ---
 000_KEYWORD: 냉소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41216
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15910,13 +15910,13 @@ imported:
     표제어: 냉소
     품사: 명사
     항목ID: 41216
-processed:
+result:
   맞춤법 검사:
     표제어: 냉소
     품사: 명사
 ---
 000_KEYWORD: 냉소적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41219
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15945,13 +15945,13 @@ imported:
     표제어: 냉소적
     품사: 관형사
     항목ID: 41219
-processed:
+result:
   맞춤법 검사:
     표제어: 냉소적
     품사: 관형사
 ---
 000_KEYWORD: 냉소적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41221
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -15982,13 +15982,13 @@ imported:
     표제어: 냉소적
     품사: 명사
     항목ID: 41221
-processed:
+result:
   맞춤법 검사:
     표제어: 냉소적
     품사: 명사
 ---
 000_KEYWORD: 냉소주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20438
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16020,13 +16020,13 @@ imported:
     표제어: 냉소주의
     품사: 명사
     항목ID: 20438
-processed:
+result:
   맞춤법 검사:
     표제어: 냉소주의
     품사: 명사
 ---
 000_KEYWORD: 냉소하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41223
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16071,13 +16071,13 @@ imported:
     - 발음: 냉ː소함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/41223_naeng-sohamnida.wav
       형태: 냉소합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉소하다
     품사: 동사
 ---
 000_KEYWORD: 냉수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20442
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16113,13 +16113,13 @@ imported:
     표제어: 냉수
     품사: 명사
     항목ID: 20442
-processed:
+result:
   맞춤법 검사:
     표제어: 냉수
     품사: 명사
 ---
 000_KEYWORD: 냉습하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40193
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16164,13 +16164,13 @@ imported:
     - 발음: 냉ː스팜니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/40193_naeng-seupamnida.wav
       형태: 냉습합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉습하다
     품사: 형용사
 ---
 000_KEYWORD: 냉엄하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40197
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16229,13 +16229,13 @@ imported:
     - 발음: 냉ː엄함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/40197_naeng-eomhamnida.wav
       형태: 냉엄합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉엄하다
     품사: 형용사
 ---
 000_KEYWORD: 냉온수기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16246,13 +16246,13 @@ imported:
     표제어: 냉온수기
     품사: 명사:보통:비서술성
     항목ID: 5250
-processed:
+result:
   맞춤법 검사:
     표제어: 냉온수기
     품사: 명사
 ---
 000_KEYWORD: 냉온풍기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20459
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16295,13 +16295,13 @@ imported:
     표제어: 냉온풍기
     품사: 명사
     항목ID: 20459
-processed:
+result:
   맞춤법 검사:
     표제어: 냉온풍기
     품사: 명사
 ---
 000_KEYWORD: 냉이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40201
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16331,13 +16331,13 @@ imported:
     표제어: 냉이
     품사: 명사
     항목ID: 40201
-processed:
+result:
   맞춤법 검사:
     표제어: 냉이
     품사: 명사
 ---
 000_KEYWORD: 냉장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20480
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16371,13 +16371,13 @@ imported:
     표제어: 냉장
     품사: 명사
     항목ID: 20480
-processed:
+result:
   맞춤법 검사:
     표제어: 냉장
     품사: 명사
 ---
 000_KEYWORD: 냉장고__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31524
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16425,13 +16425,13 @@ imported:
     표제어: 냉장고
     품사: 명사
     항목ID: 31524
-processed:
+result:
   맞춤법 검사:
     표제어: 냉장고
     품사: 명사
 ---
 000_KEYWORD: 냉장실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40204
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16463,13 +16463,13 @@ imported:
     표제어: 냉장실
     품사: 명사
     항목ID: 40204
-processed:
+result:
   맞춤법 검사:
     표제어: 냉장실
     품사: 명사
 ---
 000_KEYWORD: 냉전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40208
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16510,13 +16510,13 @@ imported:
     표제어: 냉전
     품사: 명사
     항목ID: 40208
-processed:
+result:
   맞춤법 검사:
     표제어: 냉전
     품사: 명사
 ---
 000_KEYWORD: 냉정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20486
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16546,13 +16546,13 @@ imported:
     표제어: 냉정
     품사: 명사
     항목ID: 20486
-processed:
+result:
   맞춤법 검사:
     표제어: 냉정
     품사: 명사
 ---
 000_KEYWORD: 냉정하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90816
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16610,13 +16610,13 @@ imported:
     - 발음: 냉ː정함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/90816_naeng-jeonghamnida.wav
       형태: 냉정합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉정하다
     품사: 형용사
 ---
 000_KEYWORD: 냉정하다__형용사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40209
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16661,13 +16661,13 @@ imported:
     - 발음: 냉ː정함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/90816_naeng-jeonghamnida.wav
       형태: 냉정합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉정하다
     품사: 형용사
 ---
 000_KEYWORD: 냉정히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90817
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16702,13 +16702,13 @@ imported:
     표제어: 냉정히
     품사: 부사
     항목ID: 90817
-processed:
+result:
   맞춤법 검사:
     표제어: 냉정히
     품사: 부사
 ---
 000_KEYWORD: 냉정히__부사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40211
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16736,13 +16736,13 @@ imported:
     표제어: 냉정히
     품사: 부사
     항목ID: 40211
-processed:
+result:
   맞춤법 검사:
     표제어: 냉정히
     품사: 부사
 ---
 000_KEYWORD: 냉증__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -16752,13 +16752,13 @@ imported:
     표제어: 냉증
     품사: 명사:보통:서술성
     항목ID: 5258
-processed:
+result:
   맞춤법 검사:
     표제어: 냉증
     품사: 명사
 ---
 000_KEYWORD: 냉찜질__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20491
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16786,13 +16786,13 @@ imported:
     표제어: 냉찜질
     품사: 명사
     항목ID: 20491
-processed:
+result:
   맞춤법 검사:
     표제어: 냉찜질
     품사: 명사
 ---
 000_KEYWORD: 냉차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40212
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16818,13 +16818,13 @@ imported:
     표제어: 냉차
     품사: 명사
     항목ID: 40212
-processed:
+result:
   맞춤법 검사:
     표제어: 냉차
     품사: 명사
 ---
 000_KEYWORD: 냉채__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40213
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16857,13 +16857,13 @@ imported:
     표제어: 냉채
     품사: 명사
     항목ID: 40213
-processed:
+result:
   맞춤법 검사:
     표제어: 냉채
     품사: 명사
 ---
 000_KEYWORD: 냉철하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40214
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16908,13 +16908,13 @@ imported:
     - 발음: 냉ː철함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/40214_naeng-cheolhamnida.wav
       형태: 냉철합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉철하다
     품사: 형용사
 ---
 000_KEYWORD: 냉철히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40216
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16940,13 +16940,13 @@ imported:
     표제어: 냉철히
     품사: 부사
     항목ID: 40216
-processed:
+result:
   맞춤법 검사:
     표제어: 냉철히
     품사: 부사
 ---
 000_KEYWORD: 냉커피__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40217
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -16975,13 +16975,13 @@ imported:
     표제어: 냉커피
     품사: 명사
     항목ID: 40217
-processed:
+result:
   맞춤법 검사:
     표제어: 냉커피
     품사: 명사
 ---
 000_KEYWORD: 냉큼__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40218
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17008,13 +17008,13 @@ imported:
     표제어: 냉큼
     품사: 부사
     항목ID: 40218
-processed:
+result:
   맞춤법 검사:
     표제어: 냉큼
     품사: 부사
 ---
 000_KEYWORD: 냉탕__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40219
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17045,13 +17045,13 @@ imported:
     표제어: 냉탕
     품사: 명사
     항목ID: 40219
-processed:
+result:
   맞춤법 검사:
     표제어: 냉탕
     품사: 명사
 ---
 000_KEYWORD: 냉하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40220
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17110,13 +17110,13 @@ imported:
     - 발음: 냉ː함니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/40220_naeng-hamnida.wav
       형태: 냉합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉하다
     품사: 형용사
 ---
 000_KEYWORD: 냉해__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20497
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17148,13 +17148,13 @@ imported:
     표제어: 냉해
     품사: 명사
     항목ID: 20497
-processed:
+result:
   맞춤법 검사:
     표제어: 냉해
     품사: 명사
 ---
 000_KEYWORD: 냉혈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40222
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17178,13 +17178,13 @@ imported:
     표제어: 냉혈
     품사: 명사
     항목ID: 40222
-processed:
+result:
   맞춤법 검사:
     표제어: 냉혈
     품사: 명사
 ---
 000_KEYWORD: 냉혈한__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -17194,13 +17194,13 @@ imported:
     표제어: 냉혈한
     품사: 명사:보통:비서술성
     항목ID: 5265
-processed:
+result:
   맞춤법 검사:
     표제어: 냉혈한
     품사: 명사
 ---
 000_KEYWORD: 냉혹하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40225
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17251,13 +17251,13 @@ imported:
     - 발음: 냉ː호캄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/40225_naeng-hokamnida.wav
       형태: 냉혹합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 냉혹하다
     품사: 형용사
 ---
 000_KEYWORD: 냉혹히__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=40230
     가져온 시각: '2019-08-13T01:37:57+09:00'
@@ -17285,7 +17285,7 @@ imported:
     표제어: 냉혹히
     품사: 부사
     항목ID: 40230
-processed:
+result:
   맞춤법 검사:
     표제어: 냉혹히
     품사: 부사

@@ -1,5 +1,5 @@
 000_KEYWORD: 혜성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86395
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -41,13 +41,13 @@ imported:
     표제어: 혜성
     품사: 명사
     항목ID: 86395
-processed:
+result:
   맞춤법 검사:
     표제어: 혜성
     품사: 명사
 ---
 000_KEYWORD: 혜안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86396
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -77,13 +77,13 @@ imported:
     표제어: 혜안
     품사: 명사
     항목ID: 86396
-processed:
+result:
   맞춤법 검사:
     표제어: 혜안
     품사: 명사
 ---
 000_KEYWORD: 혜택__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86397
     가져온 시각: '2019-08-13T02:11:37+09:00'
@@ -135,7 +135,7 @@ imported:
     - 발음: 헤ː탱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/86397_he-taengman.wav
       형태: 혜택만
-processed:
+result:
   맞춤법 검사:
     표제어: 혜택
     품사: 명사

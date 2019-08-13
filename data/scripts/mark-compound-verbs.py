@@ -29,17 +29,17 @@ def process_all(outdir):
 
 def process_file(outdir, filename):
     k = yaml.load(open(filename).read())
-    if  '속성' in k['processed']['맞춤법 검사'] and '용언합성' in k['processed']['맞춤법 검사']['속성']:
+    if  '속성' in k['import_derived']['맞춤법 검사'] and '용언합성' in k['import_derived']['맞춤법 검사']['속성']:
         return
     if check_compounds(k):
-        if '속성' not in k['processed']['맞춤법 검사']:
-            k['processed']['맞춤법 검사']['속성'] = []
-        k['processed']['맞춤법 검사']['속성'].append('용언합성')
+        if '속성' not in k['import_derived']['맞춤법 검사']:
+            k['import_derived']['맞춤법 검사']['속성'] = []
+        k['import_derived']['맞춤법 검사']['속성'].append('용언합성')
         with open(filename, 'w') as fp:
             fp.write(yaml.dump(k, allow_unicode=True, default_flow_style=False, indent=2))
 
 def check_compounds(k):
-    word = k['processed']['맞춤법 검사']['표제어']
+    word = k['import_derived']['맞춤법 검사']['표제어']
     if len(word) < 4:
         return False
     if word.endswith('가다') or word.endswith('오다') or word.endswith('지다') or word.endswith('보내다') or word.endswith('치다') or word.endswith('놓다') or word.endswith('내다'):

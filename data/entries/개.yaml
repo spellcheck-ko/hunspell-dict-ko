@@ -1,5 +1,5 @@
 000_KEYWORD: -개__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92095
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -30,11 +30,11 @@ imported:
     표제어: -개
     품사: 접사
     항목ID: 92095
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: -객__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72350
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -75,11 +75,11 @@ imported:
     표제어: -객
     품사: 접사
     항목ID: 72350
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 개-__접사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92110
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -121,11 +121,11 @@ imported:
     표제어: 개-
     품사: 접사
     항목ID: 92110
-processed:
+result:
   맞춤법 검사: {}
 ---
 000_KEYWORD: 개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64115
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -193,13 +193,13 @@ imported:
     표제어: 개
     품사: 명사
     항목ID: 64115
-processed:
+result:
   맞춤법 검사:
     표제어: 개
     품사: 명사
 ---
 000_KEYWORD: 개__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21836
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -241,13 +241,13 @@ imported:
     표제어: 개
     품사: 명사
     항목ID: 21836
-processed:
+result:
   맞춤법 검사:
     표제어: 개
     품사: 명사
 ---
 000_KEYWORD: 개__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22784
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -277,13 +277,13 @@ imported:
     표제어: 개
     품사: 의존 명사
     항목ID: 22784
-processed:
+result:
   맞춤법 검사:
     표제어: 개
     품사: 의존 명사
 ---
 000_KEYWORD: 개가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22794
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -315,13 +315,13 @@ imported:
     표제어: 개가
     품사: 명사
     항목ID: 22794
-processed:
+result:
   맞춤법 검사:
     표제어: 개가
     품사: 명사
 ---
 000_KEYWORD: 개가__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23212
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -346,13 +346,13 @@ imported:
     표제어: 개가
     품사: 명사
     항목ID: 23212
-processed:
+result:
   맞춤법 검사:
     표제어: 개가
     품사: 명사
 ---
 000_KEYWORD: 개가식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23206
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -388,13 +388,13 @@ imported:
     - 발음: 개가싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/23206_gaegasingman.wav
       형태: 개가식만
-processed:
+result:
   맞춤법 검사:
     표제어: 개가식
     품사: 명사
 ---
 000_KEYWORD: 개가하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22816
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -427,13 +427,13 @@ imported:
     표제어: 개가하다
     품사: 동사
     항목ID: 22816
-processed:
+result:
   맞춤법 검사:
     표제어: 개가하다
     품사: 동사
 ---
 000_KEYWORD: 개각__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23204
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -471,13 +471,13 @@ imported:
     - 발음: 개ː강만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/23204_gae-gangman.wav
       형태: 개각만
-processed:
+result:
   맞춤법 검사:
     표제어: 개각
     품사: 명사
 ---
 000_KEYWORD: 개각하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22813
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -503,13 +503,13 @@ imported:
     표제어: 개각하다
     품사: 동사
     항목ID: 22813
-processed:
+result:
   맞춤법 검사:
     표제어: 개각하다
     품사: 동사
 ---
 000_KEYWORD: 개간__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22834
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -543,13 +543,13 @@ imported:
     표제어: 개간
     품사: 명사
     항목ID: 22834
-processed:
+result:
   맞춤법 검사:
     표제어: 개간
     품사: 명사
 ---
 000_KEYWORD: 개간되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22806
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -585,13 +585,13 @@ imported:
     표제어: 개간되다
     품사: 동사
     항목ID: 22806
-processed:
+result:
   맞춤법 검사:
     표제어: 개간되다
     품사: 동사
 ---
 000_KEYWORD: 개간지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22799
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -620,13 +620,13 @@ imported:
     표제어: 개간지
     품사: 명사
     항목ID: 22799
-processed:
+result:
   맞춤법 검사:
     표제어: 개간지
     품사: 명사
 ---
 000_KEYWORD: 개간하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22802
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -659,13 +659,13 @@ imported:
     표제어: 개간하다
     품사: 동사
     항목ID: 22802
-processed:
+result:
   맞춤법 검사:
     표제어: 개간하다
     품사: 동사
 ---
 000_KEYWORD: 개강__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22809
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -700,13 +700,13 @@ imported:
     표제어: 개강
     품사: 명사
     항목ID: 22809
-processed:
+result:
   맞춤법 검사:
     표제어: 개강
     품사: 명사
 ---
 000_KEYWORD: 개강하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22810
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -739,13 +739,13 @@ imported:
     표제어: 개강하다
     품사: 동사
     항목ID: 22810
-processed:
+result:
   맞춤법 검사:
     표제어: 개강하다
     품사: 동사
 ---
 000_KEYWORD: 개개__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22821
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -780,13 +780,13 @@ imported:
     표제어: 개개
     품사: 명사
     항목ID: 22821
-processed:
+result:
   맞춤법 검사:
     표제어: 개개
     품사: 명사
 ---
 000_KEYWORD: 개개__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22824
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -814,13 +814,13 @@ imported:
     표제어: 개개
     품사: 부사
     항목ID: 22824
-processed:
+result:
   맞춤법 검사:
     표제어: 개개
     품사: 부사
 ---
 000_KEYWORD: 개개인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15730
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -850,13 +850,13 @@ imported:
     표제어: 개개인
     품사: 명사
     항목ID: 15730
-processed:
+result:
   맞춤법 검사:
     표제어: 개개인
     품사: 명사
 ---
 000_KEYWORD: 개고기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22827
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -883,13 +883,13 @@ imported:
     표제어: 개고기
     품사: 명사
     항목ID: 22827
-processed:
+result:
   맞춤법 검사:
     표제어: 개고기
     품사: 명사
 ---
 000_KEYWORD: 개고생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22829
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -917,13 +917,13 @@ imported:
     표제어: 개고생
     품사: 명사
     항목ID: 22829
-processed:
+result:
   맞춤법 검사:
     표제어: 개고생
     품사: 명사
 ---
 000_KEYWORD: 개골개골__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22832
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -952,13 +952,13 @@ imported:
     표제어: 개골개골
     품사: 부사
     항목ID: 22832
-processed:
+result:
   맞춤법 검사:
     표제어: 개골개골
     품사: 부사
 ---
 000_KEYWORD: 개과천선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23726
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -986,13 +986,13 @@ imported:
     표제어: 개과천선
     품사: 명사
     항목ID: 23726
-processed:
+result:
   맞춤법 검사:
     표제어: 개과천선
     품사: 명사
 ---
 000_KEYWORD: 개과천선하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23711
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1021,13 +1021,13 @@ imported:
     표제어: 개과천선하다
     품사: 동사
     항목ID: 23711
-processed:
+result:
   맞춤법 검사:
     표제어: 개과천선하다
     품사: 동사
 ---
 000_KEYWORD: 개관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23686
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1071,13 +1071,13 @@ imported:
     표제어: 개관
     품사: 명사
     항목ID: 23686
-processed:
+result:
   맞춤법 검사:
     표제어: 개관
     품사: 명사
 ---
 000_KEYWORD: 개관__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23689
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1110,13 +1110,13 @@ imported:
     표제어: 개관
     품사: 명사
     항목ID: 23689
-processed:
+result:
   맞춤법 검사:
     표제어: 개관
     품사: 명사
 ---
 000_KEYWORD: 개관되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23714
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1161,13 +1161,13 @@ imported:
     표제어: 개관되다
     품사: 동사
     항목ID: 23714
-processed:
+result:
   맞춤법 검사:
     표제어: 개관되다
     품사: 동사
 ---
 000_KEYWORD: 개관식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23746
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1208,13 +1208,13 @@ imported:
     - 발음: 개관싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/23746_gaegwansingman.wav
       형태: 개관식만
-processed:
+result:
   맞춤법 검사:
     표제어: 개관식
     품사: 명사
 ---
 000_KEYWORD: 개관하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23693
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1258,13 +1258,13 @@ imported:
     표제어: 개관하다
     품사: 동사
     항목ID: 23693
-processed:
+result:
   맞춤법 검사:
     표제어: 개관하다
     품사: 동사
 ---
 000_KEYWORD: 개관하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23692
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1293,13 +1293,13 @@ imported:
     표제어: 개관하다
     품사: 동사
     항목ID: 23692
-processed:
+result:
   맞춤법 검사:
     표제어: 개관하다
     품사: 동사
 ---
 000_KEYWORD: 개괄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23729
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1333,13 +1333,13 @@ imported:
     표제어: 개괄
     품사: 명사
     항목ID: 23729
-processed:
+result:
   맞춤법 검사:
     표제어: 개괄
     품사: 명사
 ---
 000_KEYWORD: 개괄적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23719
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1368,13 +1368,13 @@ imported:
     표제어: 개괄적
     품사: 관형사
     항목ID: 23719
-processed:
+result:
   맞춤법 검사:
     표제어: 개괄적
     품사: 관형사
 ---
 000_KEYWORD: 개괄적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23722
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1404,13 +1404,13 @@ imported:
     표제어: 개괄적
     품사: 명사
     항목ID: 23722
-processed:
+result:
   맞춤법 검사:
     표제어: 개괄적
     품사: 명사
 ---
 000_KEYWORD: 개괄하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23718
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1440,13 +1440,13 @@ imported:
     표제어: 개괄하다
     품사: 동사
     항목ID: 23718
-processed:
+result:
   맞춤법 검사:
     표제어: 개괄하다
     품사: 동사
 ---
 000_KEYWORD: 개교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23121
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1483,13 +1483,13 @@ imported:
     표제어: 개교
     품사: 명사
     항목ID: 23121
-processed:
+result:
   맞춤법 검사:
     표제어: 개교
     품사: 명사
 ---
 000_KEYWORD: 개교기념일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23751
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1517,13 +1517,13 @@ imported:
     표제어: 개교기념일
     품사: 명사
     항목ID: 23751
-processed:
+result:
   맞춤법 검사:
     표제어: 개교기념일
     품사: 명사
 ---
 000_KEYWORD: 개교식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23731
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1562,13 +1562,13 @@ imported:
     - 발음: 개교싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/23731_gaegyosingman.wav
       형태: 개교식만
-processed:
+result:
   맞춤법 검사:
     표제어: 개교식
     품사: 명사
 ---
 000_KEYWORD: 개교하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23698
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1601,13 +1601,13 @@ imported:
     표제어: 개교하다
     품사: 동사
     항목ID: 23698
-processed:
+result:
   맞춤법 검사:
     표제어: 개교하다
     품사: 동사
 ---
 000_KEYWORD: 개구리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64364
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1642,13 +1642,13 @@ imported:
     표제어: 개구리
     품사: 명사
     항목ID: 64364
-processed:
+result:
   맞춤법 검사:
     표제어: 개구리
     품사: 명사
 ---
 000_KEYWORD: 개구리밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23752
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1693,13 +1693,13 @@ imported:
     - 발음: 개구리밤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/23752_gaeguribamman.wav
       형태: 개구리밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 개구리밥
     품사: 명사
 ---
 000_KEYWORD: 개구리헤엄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23727
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1730,13 +1730,13 @@ imported:
     표제어: 개구리헤엄
     품사: 명사
     항목ID: 23727
-processed:
+result:
   맞춤법 검사:
     표제어: 개구리헤엄
     품사: 명사
 ---
 000_KEYWORD: 개구멍__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23118
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1766,13 +1766,13 @@ imported:
     표제어: 개구멍
     품사: 명사
     항목ID: 23118
-processed:
+result:
   맞춤법 검사:
     표제어: 개구멍
     품사: 명사
 ---
 000_KEYWORD: 개구쟁이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23753
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1808,13 +1808,13 @@ imported:
     표제어: 개구쟁이
     품사: 명사
     항목ID: 23753
-processed:
+result:
   맞춤법 검사:
     표제어: 개구쟁이
     품사: 명사
 ---
 000_KEYWORD: 개국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23112
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1855,13 +1855,13 @@ imported:
     - 발음: 개궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/23086_gaegungman.wav
       형태: 개국만
-processed:
+result:
   맞춤법 검사:
     표제어: 개국
     품사: 명사
 ---
 000_KEYWORD: 개국__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23086
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1922,13 +1922,13 @@ imported:
     - 발음: 개궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/23086_gaegungman.wav
       형태: 개국만
-processed:
+result:
   맞춤법 검사:
     표제어: 개국
     품사: 명사
 ---
 000_KEYWORD: 개국__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64518
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1960,13 +1960,13 @@ imported:
     - 발음: 개궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/32000/23086_gaegungman.wav
       형태: 개국만
-processed:
+result:
   맞춤법 검사:
     표제어: 개국
     품사: 의존 명사
 ---
 000_KEYWORD: 개국되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23717
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -1997,13 +1997,13 @@ imported:
     표제어: 개국되다
     품사: 동사
     항목ID: 23717
-processed:
+result:
   맞춤법 검사:
     표제어: 개국되다
     품사: 동사
 ---
 000_KEYWORD: 개국하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23702
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2032,13 +2032,13 @@ imported:
     표제어: 개국하다
     품사: 동사
     항목ID: 23702
-processed:
+result:
   맞춤법 검사:
     표제어: 개국하다
     품사: 동사
 ---
 000_KEYWORD: 개국하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23700
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2085,13 +2085,13 @@ imported:
     표제어: 개국하다
     품사: 동사
     항목ID: 23700
-processed:
+result:
   맞춤법 검사:
     표제어: 개국하다
     품사: 동사
 ---
 000_KEYWORD: 개굴개굴__부사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15396
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2120,13 +2120,13 @@ imported:
     표제어: 개굴개굴
     품사: 부사
     항목ID: 15396
-processed:
+result:
   맞춤법 검사:
     표제어: 개굴개굴
     품사: 부사
 ---
 000_KEYWORD: 개그__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23902
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2161,13 +2161,13 @@ imported:
     표제어: 개그
     품사: 명사
     항목ID: 23902
-processed:
+result:
   맞춤법 검사:
     표제어: 개그
     품사: 명사
 ---
 000_KEYWORD: 개그맨__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23756
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2199,13 +2199,13 @@ imported:
     표제어: 개그맨
     품사: 명사
     항목ID: 23756
-processed:
+result:
   맞춤법 검사:
     표제어: 개그맨
     품사: 명사
 ---
 000_KEYWORD: 개그우먼__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23081
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2236,13 +2236,13 @@ imported:
     표제어: 개그우먼
     품사: 명사
     항목ID: 23081
-processed:
+result:
   맞춤법 검사:
     표제어: 개그우먼
     품사: 명사
 ---
 000_KEYWORD: 개근__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23758
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2270,13 +2270,13 @@ imported:
     표제어: 개근
     품사: 명사
     항목ID: 23758
-processed:
+result:
   맞춤법 검사:
     표제어: 개근
     품사: 명사
 ---
 000_KEYWORD: 개근상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23760
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2305,13 +2305,13 @@ imported:
     표제어: 개근상
     품사: 명사
     항목ID: 23760
-processed:
+result:
   맞춤법 검사:
     표제어: 개근상
     품사: 명사
 ---
 000_KEYWORD: 개기름__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2320,13 +2320,13 @@ imported:
     표제어: 개기름
     품사: 명사:보통:서술성
     항목ID: 817
-processed:
+result:
   맞춤법 검사:
     표제어: 개기름
     품사: 명사
 ---
 000_KEYWORD: 개꼴__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23705
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2353,13 +2353,13 @@ imported:
     표제어: 개꼴
     품사: 명사
     항목ID: 23705
-processed:
+result:
   맞춤법 검사:
     표제어: 개꼴
     품사: 명사
 ---
 000_KEYWORD: 개꿈__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23765
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2388,13 +2388,13 @@ imported:
     표제어: 개꿈
     품사: 명사
     항목ID: 23765
-processed:
+result:
   맞춤법 검사:
     표제어: 개꿈
     품사: 명사
 ---
 000_KEYWORD: 개나리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64519
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2426,13 +2426,13 @@ imported:
     표제어: 개나리
     품사: 명사
     항목ID: 64519
-processed:
+result:
   맞춤법 검사:
     표제어: 개나리
     품사: 명사
 ---
 000_KEYWORD: 개나리꽃__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23077
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2473,13 +2473,13 @@ imported:
     - 발음: 개ː나리꼰만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/23077_gae-narikkonman.wav
       형태: 개나리꽃만
-processed:
+result:
   맞춤법 검사:
     표제어: 개나리꽃
     품사: 명사
 ---
 000_KEYWORD: 개나발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23767
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2507,13 +2507,13 @@ imported:
     표제어: 개나발
     품사: 명사
     항목ID: 23767
-processed:
+result:
   맞춤법 검사:
     표제어: 개나발
     품사: 명사
 ---
 000_KEYWORD: 개년__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2525,14 +2525,14 @@ imported:
     표제어: 개년
     품사: 명사:보통:비서술성
     항목ID: 820
-processed:
+result:
   맞춤법 검사:
     속성: *id001
     표제어: 개년
     품사: 명사
 ---
 000_KEYWORD: 개년__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23706
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2561,13 +2561,13 @@ imported:
     표제어: 개년
     품사: 의존 명사
     항목ID: 23706
-processed:
+result:
   맞춤법 검사:
     표제어: 개년
     품사: 의존 명사
 ---
 000_KEYWORD: 개념__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23768
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2612,13 +2612,13 @@ imported:
     표제어: 개념
     품사: 명사
     항목ID: 23768
-processed:
+result:
   맞춤법 검사:
     표제어: 개념
     품사: 명사
 ---
 000_KEYWORD: 개념적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58577
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2647,13 +2647,13 @@ imported:
     표제어: 개념적
     품사: 관형사
     항목ID: 58577
-processed:
+result:
   맞춤법 검사:
     표제어: 개념적
     품사: 관형사
 ---
 000_KEYWORD: 개념적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23072
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2681,13 +2681,13 @@ imported:
     표제어: 개념적
     품사: 명사
     항목ID: 23072
-processed:
+result:
   맞춤법 검사:
     표제어: 개념적
     품사: 명사
 ---
 000_KEYWORD: 개놈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2696,13 +2696,13 @@ imported:
     표제어: 개놈
     품사: 명사:보통:비서술성
     항목ID: 823
-processed:
+result:
   맞춤법 검사:
     표제어: 개놈
     품사: 명사
 ---
 000_KEYWORD: 개다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15732
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2743,13 +2743,13 @@ imported:
     - 발음: 개ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/15732_gae-ni.wav
       형태: 개니
-processed:
+result:
   맞춤법 검사:
     표제어: 개다
     품사: 동사
 ---
 000_KEYWORD: 개다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23413
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2790,13 +2790,13 @@ imported:
     - 발음: 개ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/gae-ni.wav
       형태: 개니
-processed:
+result:
   맞춤법 검사:
     표제어: 개다
     품사: 동사
 ---
 000_KEYWORD: 개다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23416
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2843,13 +2843,13 @@ imported:
     - 발음: 개ː니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/gae-ni.wav
       형태: 개니
-processed:
+result:
   맞춤법 검사:
     표제어: 개다
     품사: 동사
 ---
 000_KEYWORD: 개다래__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2859,13 +2859,13 @@ imported:
     표제어: 개다래
     품사: 명사:보통:서술성
     항목ID: 825
-processed:
+result:
   맞춤법 검사:
     표제어: 개다래
     품사: 명사
 ---
 000_KEYWORD: 개다래나무__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -2875,13 +2875,13 @@ imported:
     표제어: 개다래나무
     품사: 명사:보통:비서술성
     항목ID: 826
-processed:
+result:
   맞춤법 검사:
     표제어: 개다래나무
     품사: 명사
 ---
 000_KEYWORD: 개도국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90879
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2918,13 +2918,13 @@ imported:
     - 발음: 개도궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/90879_gaedogungman.wav
       형태: 개도국만
-processed:
+result:
   맞춤법 검사:
     표제어: 개도국
     품사: 명사
 ---
 000_KEYWORD: 개떡__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23425
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -2986,13 +2986,13 @@ imported:
     - 발음: 개ː떵만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/23425_gae-tteongman.wav
       형태: 개떡만
-processed:
+result:
   맞춤법 검사:
     표제어: 개떡
     품사: 명사
 ---
 000_KEYWORD: 개똥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23427
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3045,13 +3045,13 @@ imported:
     표제어: 개똥
     품사: 명사
     항목ID: 23427
-processed:
+result:
   맞춤법 검사:
     표제어: 개똥
     품사: 명사
 ---
 000_KEYWORD: 개똥벌레__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23431
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3092,13 +3092,13 @@ imported:
     표제어: 개똥벌레
     품사: 명사
     항목ID: 23431
-processed:
+result:
   맞춤법 검사:
     표제어: 개똥벌레
     품사: 명사
 ---
 000_KEYWORD: 개띠__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68729
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3119,13 +3119,13 @@ imported:
     표제어: 개띠
     품사: 명사
     항목ID: 68729
-processed:
+result:
   맞춤법 검사:
     표제어: 개띠
     품사: 명사
 ---
 000_KEYWORD: 개략__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23432
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3168,13 +3168,13 @@ imported:
     - 발음: 개ː량만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/23432_gae-ryangman.wav
       형태: 개략만
-processed:
+result:
   맞춤법 검사:
     표제어: 개략
     품사: 명사
 ---
 000_KEYWORD: 개략적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23434
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3208,13 +3208,13 @@ imported:
     표제어: 개략적
     품사: 관형사
     항목ID: 23434
-processed:
+result:
   맞춤법 검사:
     표제어: 개략적
     품사: 관형사
 ---
 000_KEYWORD: 개략적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23435
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3249,13 +3249,13 @@ imported:
     표제어: 개략적
     품사: 명사
     항목ID: 23435
-processed:
+result:
   맞춤법 검사:
     표제어: 개략적
     품사: 명사
 ---
 000_KEYWORD: 개량__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23437
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3294,13 +3294,13 @@ imported:
     표제어: 개량
     품사: 명사
     항목ID: 23437
-processed:
+result:
   맞춤법 검사:
     표제어: 개량
     품사: 명사
 ---
 000_KEYWORD: 개량되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23438
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3331,13 +3331,13 @@ imported:
     표제어: 개량되다
     품사: 동사
     항목ID: 23438
-processed:
+result:
   맞춤법 검사:
     표제어: 개량되다
     품사: 동사
 ---
 000_KEYWORD: 개량종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23440
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3374,13 +3374,13 @@ imported:
     표제어: 개량종
     품사: 명사
     항목ID: 23440
-processed:
+result:
   맞춤법 검사:
     표제어: 개량종
     품사: 명사
 ---
 000_KEYWORD: 개량하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23441
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3411,13 +3411,13 @@ imported:
     표제어: 개량하다
     품사: 동사
     항목ID: 23441
-processed:
+result:
   맞춤법 검사:
     표제어: 개량하다
     품사: 동사
 ---
 000_KEYWORD: 개량형__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23071
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3447,13 +3447,13 @@ imported:
     표제어: 개량형
     품사: 명사
     항목ID: 23071
-processed:
+result:
   맞춤법 검사:
     표제어: 개량형
     품사: 명사
 ---
 000_KEYWORD: 개량화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23068
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3483,13 +3483,13 @@ imported:
     표제어: 개량화
     품사: 명사
     항목ID: 23068
-processed:
+result:
   맞춤법 검사:
     표제어: 개량화
     품사: 명사
 ---
 000_KEYWORD: 개런티__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23059
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3522,13 +3522,13 @@ imported:
     표제어: 개런티
     품사: 명사
     항목ID: 23059
-processed:
+result:
   맞춤법 검사:
     표제어: 개런티
     품사: 명사
 ---
 000_KEYWORD: 개로왕__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3538,13 +3538,13 @@ imported:
     표제어: 개로왕
     품사: 명사:보통:서술성
     항목ID: 836
-processed:
+result:
   맞춤법 검사:
     표제어: 개로왕
     품사: 명사
 ---
 000_KEYWORD: 개론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23442
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3579,13 +3579,13 @@ imported:
     표제어: 개론
     품사: 명사
     항목ID: 23442
-processed:
+result:
   맞춤법 검사:
     표제어: 개론
     품사: 명사
 ---
 000_KEYWORD: 개마고원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68710
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3603,13 +3603,13 @@ imported:
     표제어: 개마고원
     품사: 명사
     항목ID: 68710
-processed:
+result:
   맞춤법 검사:
     표제어: 개마고원
     품사: 명사
 ---
 000_KEYWORD: 개막__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23443
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3671,13 +3671,13 @@ imported:
     - 발음: 개망만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/23443_gaemangman.wav
       형태: 개막만
-processed:
+result:
   맞춤법 검사:
     표제어: 개막
     품사: 명사
 ---
 000_KEYWORD: 개막되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23444
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3729,13 +3729,13 @@ imported:
     표제어: 개막되다
     품사: 동사
     항목ID: 23444
-processed:
+result:
   맞춤법 검사:
     표제어: 개막되다
     품사: 동사
 ---
 000_KEYWORD: 개막식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23445
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3782,13 +3782,13 @@ imported:
     - 발음: 개막씽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/23445_gaemakssingman.wav
       형태: 개막식만
-processed:
+result:
   맞춤법 검사:
     표제어: 개막식
     품사: 명사
 ---
 000_KEYWORD: 개막전__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -3797,13 +3797,13 @@ imported:
     표제어: 개막전
     품사: 명사:보통:서술성
     항목ID: 841
-processed:
+result:
   맞춤법 검사:
     표제어: 개막전
     품사: 명사
 ---
 000_KEYWORD: 개막하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23450
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3852,13 +3852,13 @@ imported:
     표제어: 개막하다
     품사: 동사
     항목ID: 23450
-processed:
+result:
   맞춤법 검사:
     표제어: 개막하다
     품사: 동사
 ---
 000_KEYWORD: 개망신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23452
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3887,13 +3887,13 @@ imported:
     표제어: 개망신
     품사: 명사
     항목ID: 23452
-processed:
+result:
   맞춤법 검사:
     표제어: 개망신
     품사: 명사
 ---
 000_KEYWORD: 개머리판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23058
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3923,13 +3923,13 @@ imported:
     표제어: 개머리판
     품사: 명사
     항목ID: 23058
-processed:
+result:
   맞춤법 검사:
     표제어: 개머리판
     품사: 명사
 ---
 000_KEYWORD: 개명__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23453
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -3963,13 +3963,13 @@ imported:
     표제어: 개명
     품사: 명사
     항목ID: 23453
-processed:
+result:
   맞춤법 검사:
     표제어: 개명
     품사: 명사
 ---
 000_KEYWORD: 개명__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23057
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4006,13 +4006,13 @@ imported:
     표제어: 개명
     품사: 명사
     항목ID: 23057
-processed:
+result:
   맞춤법 검사:
     표제어: 개명
     품사: 명사
 ---
 000_KEYWORD: 개명하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23454
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4041,13 +4041,13 @@ imported:
     표제어: 개명하다
     품사: 동사
     항목ID: 23454
-processed:
+result:
   맞춤법 검사:
     표제어: 개명하다
     품사: 동사
 ---
 000_KEYWORD: 개명하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90241
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4083,13 +4083,13 @@ imported:
     표제어: 개명하다
     품사: 동사
     항목ID: 90241
-processed:
+result:
   맞춤법 검사:
     표제어: 개명하다
     품사: 동사
 ---
 000_KEYWORD: 개미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15737
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4121,13 +4121,13 @@ imported:
     표제어: 개미
     품사: 명사
     항목ID: 15737
-processed:
+result:
   맞춤법 검사:
     표제어: 개미
     품사: 명사
 ---
 000_KEYWORD: 개미산__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4137,13 +4137,13 @@ imported:
     표제어: 개미산
     품사: 명사:보통:서술성
     항목ID: 847
-processed:
+result:
   맞춤법 검사:
     표제어: 개미산
     품사: 명사
 ---
 000_KEYWORD: 개미집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23456
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4182,13 +4182,13 @@ imported:
     - 발음: 개ː미짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/23456_gae-mijimman.wav
       형태: 개미집만
-processed:
+result:
   맞춤법 검사:
     표제어: 개미집
     품사: 명사
 ---
 000_KEYWORD: 개미핥기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4197,13 +4197,13 @@ imported:
     표제어: 개미핥기
     품사: 명사:보통:비서술성
     항목ID: 848
-processed:
+result:
   맞춤법 검사:
     표제어: 개미핥기
     품사: 명사
 ---
 000_KEYWORD: 개미허리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23457
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4230,13 +4230,13 @@ imported:
     표제어: 개미허리
     품사: 명사
     항목ID: 23457
-processed:
+result:
   맞춤법 검사:
     표제어: 개미허리
     품사: 명사
 ---
 000_KEYWORD: 개발__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23460
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4312,13 +4312,13 @@ imported:
     표제어: 개발
     품사: 명사
     항목ID: 23460
-processed:
+result:
   맞춤법 검사:
     표제어: 개발
     품사: 명사
 ---
 000_KEYWORD: 개발도상국__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4327,13 +4327,13 @@ imported:
     표제어: 개발도상국
     품사: 명사:보통:비서술성
     항목ID: 850
-processed:
+result:
   맞춤법 검사:
     표제어: 개발도상국
     품사: 명사
 ---
 000_KEYWORD: 개발되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15747
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4409,13 +4409,13 @@ imported:
     표제어: 개발되다
     품사: 동사
     항목ID: 15747
-processed:
+result:
   맞춤법 검사:
     표제어: 개발되다
     품사: 동사
 ---
 000_KEYWORD: 개발비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23463
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4447,13 +4447,13 @@ imported:
     표제어: 개발비
     품사: 명사
     항목ID: 23463
-processed:
+result:
   맞춤법 검사:
     표제어: 개발비
     품사: 명사
 ---
 000_KEYWORD: 개발사__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4463,13 +4463,13 @@ imported:
     표제어: 개발사
     품사: 명사:보통:비서술성
     항목ID: 853
-processed:
+result:
   맞춤법 검사:
     표제어: 개발사
     품사: 명사
 ---
 000_KEYWORD: 개발새발__부사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4479,13 +4479,13 @@ imported:
     표제어: 개발새발
     품사: 부사
     항목ID: 854
-processed:
+result:
   맞춤법 검사:
     표제어: 개발새발
     품사: 부사
 ---
 000_KEYWORD: 개발실장__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4494,13 +4494,13 @@ imported:
     표제어: 개발실장
     품사: 명사:보통:비서술성
     항목ID: 855
-processed:
+result:
   맞춤법 검사:
     표제어: 개발실장
     품사: 명사
 ---
 000_KEYWORD: 개발자__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4509,13 +4509,13 @@ imported:
     표제어: 개발자
     품사: 명사:보통:비서술성
     항목ID: 856
-processed:
+result:
   맞춤법 검사:
     표제어: 개발자
     품사: 명사
 ---
 000_KEYWORD: 개발진__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4524,13 +4524,13 @@ imported:
     표제어: 개발진
     품사: 명사:보통:비서술성
     항목ID: 857
-processed:
+result:
   맞춤법 검사:
     표제어: 개발진
     품사: 명사
 ---
 000_KEYWORD: 개발하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62257
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4617,13 +4617,13 @@ imported:
     표제어: 개발하다
     품사: 동사
     항목ID: 62257
-processed:
+result:
   맞춤법 검사:
     표제어: 개발하다
     품사: 동사
 ---
 000_KEYWORD: 개밥__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23464
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4660,13 +4660,13 @@ imported:
     - 발음: 개ː밤만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/23464_gae-bamman.wav
       형태: 개밥만
-processed:
+result:
   맞춤법 검사:
     표제어: 개밥
     품사: 명사
 ---
 000_KEYWORD: 개밥바라기__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4677,13 +4677,13 @@ imported:
     표제어: 개밥바라기
     품사: 명사:보통:서술성
     항목ID: 860
-processed:
+result:
   맞춤법 검사:
     표제어: 개밥바라기
     품사: 명사
 ---
 000_KEYWORD: 개방__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15753
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4731,13 +4731,13 @@ imported:
     표제어: 개방
     품사: 명사
     항목ID: 15753
-processed:
+result:
   맞춤법 검사:
     표제어: 개방
     품사: 명사
 ---
 000_KEYWORD: 개방되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15755
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4792,13 +4792,13 @@ imported:
     표제어: 개방되다
     품사: 동사
     항목ID: 15755
-processed:
+result:
   맞춤법 검사:
     표제어: 개방되다
     품사: 동사
 ---
 000_KEYWORD: 개방성__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4807,13 +4807,13 @@ imported:
     표제어: 개방성
     품사: 명사:보통:서술성
     항목ID: 863
-processed:
+result:
   맞춤법 검사:
     표제어: 개방성
     품사: 명사
 ---
 000_KEYWORD: 개방적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23465
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4864,13 +4864,13 @@ imported:
     표제어: 개방적
     품사: 관형사
     항목ID: 23465
-processed:
+result:
   맞춤법 검사:
     표제어: 개방적
     품사: 관형사
 ---
 000_KEYWORD: 개방적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23466
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4921,13 +4921,13 @@ imported:
     표제어: 개방적
     품사: 명사
     항목ID: 23466
-processed:
+result:
   맞춤법 검사:
     표제어: 개방적
     품사: 명사
 ---
 000_KEYWORD: 개방하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15761
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -4977,13 +4977,13 @@ imported:
     표제어: 개방하다
     품사: 동사
     항목ID: 15761
-processed:
+result:
   맞춤법 검사:
     표제어: 개방하다
     품사: 동사
 ---
 000_KEYWORD: 개방형__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -4992,13 +4992,13 @@ imported:
     표제어: 개방형
     품사: 명사:보통:서술성
     항목ID: 866
-processed:
+result:
   맞춤법 검사:
     표제어: 개방형
     품사: 명사
 ---
 000_KEYWORD: 개방화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23468
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5032,13 +5032,13 @@ imported:
     표제어: 개방화
     품사: 명사
     항목ID: 23468
-processed:
+result:
   맞춤법 검사:
     표제어: 개방화
     품사: 명사
 ---
 000_KEYWORD: 개방화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23472
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5070,13 +5070,13 @@ imported:
     표제어: 개방화되다
     품사: 동사
     항목ID: 23472
-processed:
+result:
   맞춤법 검사:
     표제어: 개방화되다
     품사: 동사
 ---
 000_KEYWORD: 개방화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23477
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5106,13 +5106,13 @@ imported:
     표제어: 개방화하다
     품사: 동사
     항목ID: 23477
-processed:
+result:
   맞춤법 검사:
     표제어: 개방화하다
     품사: 동사
 ---
 000_KEYWORD: 개벽__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23479
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5175,13 +5175,13 @@ imported:
     - 발음: 개병만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/23479_gaebyeongman.wav
       형태: 개벽만
-processed:
+result:
   맞춤법 검사:
     표제어: 개벽
     품사: 명사
 ---
 000_KEYWORD: 개벽하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23493
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5238,13 +5238,13 @@ imported:
     표제어: 개벽하다
     품사: 동사
     항목ID: 23493
-processed:
+result:
   맞춤법 검사:
     표제어: 개벽하다
     품사: 동사
 ---
 000_KEYWORD: 개변__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23489
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5282,13 +5282,13 @@ imported:
     표제어: 개변
     품사: 명사
     항목ID: 23489
-processed:
+result:
   맞춤법 검사:
     표제어: 개변
     품사: 명사
 ---
 000_KEYWORD: 개별__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15770
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5319,13 +5319,13 @@ imported:
     표제어: 개별
     품사: 명사
     항목ID: 15770
-processed:
+result:
   맞춤법 검사:
     표제어: 개별
     품사: 명사
 ---
 000_KEYWORD: 개별적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23499
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5356,13 +5356,13 @@ imported:
     표제어: 개별적
     품사: 관형사
     항목ID: 23499
-processed:
+result:
   맞춤법 검사:
     표제어: 개별적
     품사: 관형사
 ---
 000_KEYWORD: 개별적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23502
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5398,13 +5398,13 @@ imported:
     표제어: 개별적
     품사: 명사
     항목ID: 23502
-processed:
+result:
   맞춤법 검사:
     표제어: 개별적
     품사: 명사
 ---
 000_KEYWORD: 개복치__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5414,13 +5414,13 @@ imported:
     표제어: 개복치
     품사: 명사:보통:비서술성
     항목ID: 870
-processed:
+result:
   맞춤법 검사:
     표제어: 개복치
     품사: 명사
 ---
 000_KEYWORD: 개봉__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23510
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5465,13 +5465,13 @@ imported:
     표제어: 개봉
     품사: 명사
     항목ID: 23510
-processed:
+result:
   맞춤법 검사:
     표제어: 개봉
     품사: 명사
 ---
 000_KEYWORD: 개봉관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23516
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5496,13 +5496,13 @@ imported:
     표제어: 개봉관
     품사: 명사
     항목ID: 23516
-processed:
+result:
   맞춤법 검사:
     표제어: 개봉관
     품사: 명사
 ---
 000_KEYWORD: 개봉되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23518
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5547,13 +5547,13 @@ imported:
     표제어: 개봉되다
     품사: 동사
     항목ID: 23518
-processed:
+result:
   맞춤법 검사:
     표제어: 개봉되다
     품사: 동사
 ---
 000_KEYWORD: 개봉영화__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5562,13 +5562,13 @@ imported:
     표제어: 개봉영화
     품사: 명사:보통:비서술성
     항목ID: 874
-processed:
+result:
   맞춤법 검사:
     표제어: 개봉영화
     품사: 명사
 ---
 000_KEYWORD: 개봉작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23523
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5607,13 +5607,13 @@ imported:
     - 발음: 개봉장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/23523_gaebongjangman.wav
       형태: 개봉작만
-processed:
+result:
   맞춤법 검사:
     표제어: 개봉작
     품사: 명사
 ---
 000_KEYWORD: 개봉하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23526
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5657,13 +5657,13 @@ imported:
     표제어: 개봉하다
     품사: 동사
     항목ID: 23526
-processed:
+result:
   맞춤법 검사:
     표제어: 개봉하다
     품사: 동사
 ---
 000_KEYWORD: 개비__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23528
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5704,13 +5704,13 @@ imported:
     표제어: 개비
     품사: 명사
     항목ID: 23528
-processed:
+result:
   맞춤법 검사:
     표제어: 개비
     품사: 명사
 ---
 000_KEYWORD: 개비__의존_명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5720,13 +5720,13 @@ imported:
     표제어: 개비
     품사: 명사:의존:단위성
     항목ID: 877
-processed:
+result:
   맞춤법 검사:
     표제어: 개비
     품사: 명사
 ---
 000_KEYWORD: 개비되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23532
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5757,13 +5757,13 @@ imported:
     표제어: 개비되다
     품사: 동사
     항목ID: 23532
-processed:
+result:
   맞춤법 검사:
     표제어: 개비되다
     품사: 동사
 ---
 000_KEYWORD: 개비하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23534
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5794,13 +5794,13 @@ imported:
     표제어: 개비하다
     품사: 동사
     항목ID: 23534
-processed:
+result:
   맞춤법 검사:
     표제어: 개비하다
     품사: 동사
 ---
 000_KEYWORD: 개뿔__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23536
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5823,13 +5823,13 @@ imported:
     표제어: 개뿔
     품사: 명사
     항목ID: 23536
-processed:
+result:
   맞춤법 검사:
     표제어: 개뿔
     품사: 명사
 ---
 000_KEYWORD: 개살구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23540
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5878,13 +5878,13 @@ imported:
     표제어: 개살구
     품사: 명사
     항목ID: 23540
-processed:
+result:
   맞춤법 검사:
     표제어: 개살구
     품사: 명사
 ---
 000_KEYWORD: 개새끼__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -5893,13 +5893,13 @@ imported:
     표제어: 개새끼
     품사: 명사:보통:비서술성
     항목ID: 880
-processed:
+result:
   맞춤법 검사:
     표제어: 개새끼
     품사: 명사
 ---
 000_KEYWORD: 개선__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15780
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5942,13 +5942,13 @@ imported:
     표제어: 개선
     품사: 명사
     항목ID: 15780
-processed:
+result:
   맞춤법 검사:
     표제어: 개선
     품사: 명사
 ---
 000_KEYWORD: 개선__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23545
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -5977,13 +5977,13 @@ imported:
     표제어: 개선
     품사: 명사
     항목ID: 23545
-processed:
+result:
   맞춤법 검사:
     표제어: 개선
     품사: 명사
 ---
 000_KEYWORD: 개선되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15784
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6014,13 +6014,13 @@ imported:
     표제어: 개선되다
     품사: 동사
     항목ID: 15784
-processed:
+result:
   맞춤법 검사:
     표제어: 개선되다
     품사: 동사
 ---
 000_KEYWORD: 개선문__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23547
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6049,13 +6049,13 @@ imported:
     표제어: 개선문
     품사: 명사
     항목ID: 23547
-processed:
+result:
   맞춤법 검사:
     표제어: 개선문
     품사: 명사
 ---
 000_KEYWORD: 개선안__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6064,13 +6064,13 @@ imported:
     표제어: 개선안
     품사: 명사:보통:비서술성
     항목ID: 884
-processed:
+result:
   맞춤법 검사:
     표제어: 개선안
     품사: 명사
 ---
 000_KEYWORD: 개선책__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26562
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6113,13 +6113,13 @@ imported:
     - 발음: 개ː선챙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/26562_gae-seonchaengman.wav
       형태: 개선책만
-processed:
+result:
   맞춤법 검사:
     표제어: 개선책
     품사: 명사
 ---
 000_KEYWORD: 개선하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15787
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6150,13 +6150,13 @@ imported:
     표제어: 개선하다
     품사: 동사
     항목ID: 15787
-processed:
+result:
   맞춤법 검사:
     표제어: 개선하다
     품사: 동사
 ---
 000_KEYWORD: 개선하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26563
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6185,13 +6185,13 @@ imported:
     표제어: 개선하다
     품사: 동사
     항목ID: 26563
-processed:
+result:
   맞춤법 검사:
     표제어: 개선하다
     품사: 동사
 ---
 000_KEYWORD: 개설__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26564
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6236,13 +6236,13 @@ imported:
     표제어: 개설
     품사: 명사
     항목ID: 26564
-processed:
+result:
   맞춤법 검사:
     표제어: 개설
     품사: 명사
 ---
 000_KEYWORD: 개설되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26565
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6288,13 +6288,13 @@ imported:
     표제어: 개설되다
     품사: 동사
     항목ID: 26565
-processed:
+result:
   맞춤법 검사:
     표제어: 개설되다
     품사: 동사
 ---
 000_KEYWORD: 개설하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26566
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6341,13 +6341,13 @@ imported:
     표제어: 개설하다
     품사: 동사
     항목ID: 26566
-processed:
+result:
   맞춤법 검사:
     표제어: 개설하다
     품사: 동사
 ---
 000_KEYWORD: 개성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15788
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6381,13 +6381,13 @@ imported:
     표제어: 개성
     품사: 명사
     항목ID: 15788
-processed:
+result:
   맞춤법 검사:
     표제어: 개성
     품사: 명사
 ---
 000_KEYWORD: 개성공단__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6396,13 +6396,13 @@ imported:
     표제어: 개성공단
     품사: 명사:보통:서술성
     항목ID: 31920
-processed:
+result:
   맞춤법 검사:
     표제어: 개성공단
     품사: 명사
 ---
 000_KEYWORD: 개성미__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26568
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6434,13 +6434,13 @@ imported:
     표제어: 개성미
     품사: 명사
     항목ID: 26568
-processed:
+result:
   맞춤법 검사:
     표제어: 개성미
     품사: 명사
 ---
 000_KEYWORD: 개성적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26569
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6472,13 +6472,13 @@ imported:
     표제어: 개성적
     품사: 관형사
     항목ID: 26569
-processed:
+result:
   맞춤법 검사:
     표제어: 개성적
     품사: 관형사
 ---
 000_KEYWORD: 개성적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26570
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6510,13 +6510,13 @@ imported:
     표제어: 개성적
     품사: 명사
     항목ID: 26570
-processed:
+result:
   맞춤법 검사:
     표제어: 개성적
     품사: 명사
 ---
 000_KEYWORD: 개소__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26571
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6548,13 +6548,13 @@ imported:
     표제어: 개소
     품사: 의존 명사
     항목ID: 26571
-processed:
+result:
   맞춤법 검사:
     표제어: 개소
     품사: 의존 명사
 ---
 000_KEYWORD: 개소리__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6563,13 +6563,13 @@ imported:
     표제어: 개소리
     품사: 명사:보통:비서술성
     항목ID: 892
-processed:
+result:
   맞춤법 검사:
     표제어: 개소리
     품사: 명사
 ---
 000_KEYWORD: 개소리하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6578,13 +6578,13 @@ imported:
     표제어: 개소리하다
     품사: 동사
     항목ID: 893
-processed:
+result:
   맞춤법 검사:
     표제어: 개소리하다
     품사: 동사
 ---
 000_KEYWORD: 개소주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26572
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6612,13 +6612,13 @@ imported:
     표제어: 개소주
     품사: 명사
     항목ID: 26572
-processed:
+result:
   맞춤법 검사:
     표제어: 개소주
     품사: 명사
 ---
 000_KEYWORD: 개소하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -6629,13 +6629,13 @@ imported:
     표제어: 개소하다
     품사: 동사
     항목ID: 894
-processed:
+result:
   맞춤법 검사:
     표제어: 개소하다
     품사: 동사
 ---
 000_KEYWORD: 개수__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26573
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6665,13 +6665,13 @@ imported:
     표제어: 개수
     품사: 명사
     항목ID: 26573
-processed:
+result:
   맞춤법 검사:
     표제어: 개수
     품사: 명사
 ---
 000_KEYWORD: 개수대__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26575
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6703,13 +6703,13 @@ imported:
     표제어: 개수대
     품사: 명사
     항목ID: 26575
-processed:
+result:
   맞춤법 검사:
     표제어: 개수대
     품사: 명사
 ---
 000_KEYWORD: 개숫물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26578
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6736,13 +6736,13 @@ imported:
     표제어: 개숫물
     품사: 명사
     항목ID: 26578
-processed:
+result:
   맞춤법 검사:
     표제어: 개숫물
     품사: 명사
 ---
 000_KEYWORD: 개시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26579
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6791,13 +6791,13 @@ imported:
     표제어: 개시
     품사: 명사
     항목ID: 26579
-processed:
+result:
   맞춤법 검사:
     표제어: 개시
     품사: 명사
 ---
 000_KEYWORD: 개시__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91802
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6828,13 +6828,13 @@ imported:
     표제어: 개시
     품사: 명사
     항목ID: 91802
-processed:
+result:
   맞춤법 검사:
     표제어: 개시
     품사: 명사
 ---
 000_KEYWORD: 개시되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26646
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6869,13 +6869,13 @@ imported:
     표제어: 개시되다
     품사: 동사
     항목ID: 26646
-processed:
+result:
   맞춤법 검사:
     표제어: 개시되다
     품사: 동사
 ---
 000_KEYWORD: 개시일__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26647
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6906,13 +6906,13 @@ imported:
     표제어: 개시일
     품사: 명사
     항목ID: 26647
-processed:
+result:
   맞춤법 검사:
     표제어: 개시일
     품사: 명사
 ---
 000_KEYWORD: 개시하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26648
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -6963,13 +6963,13 @@ imported:
     표제어: 개시하다
     품사: 동사
     항목ID: 26648
-processed:
+result:
   맞춤법 검사:
     표제어: 개시하다
     품사: 동사
 ---
 000_KEYWORD: 개시하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26650
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7005,13 +7005,13 @@ imported:
     표제어: 개시하다
     품사: 동사
     항목ID: 26650
-processed:
+result:
   맞춤법 검사:
     표제어: 개시하다
     품사: 동사
 ---
 000_KEYWORD: 개신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26652
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7039,13 +7039,13 @@ imported:
     표제어: 개신
     품사: 명사
     항목ID: 26652
-processed:
+result:
   맞춤법 검사:
     표제어: 개신
     품사: 명사
 ---
 000_KEYWORD: 개신교__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26653
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7080,13 +7080,13 @@ imported:
     표제어: 개신교
     품사: 명사
     항목ID: 26653
-processed:
+result:
   맞춤법 검사:
     표제어: 개신교
     품사: 명사
 ---
 000_KEYWORD: 개신교도__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -7095,13 +7095,13 @@ imported:
     표제어: 개신교도
     품사: 명사:보통:비서술성
     항목ID: 899
-processed:
+result:
   맞춤법 검사:
     표제어: 개신교도
     품사: 명사
 ---
 000_KEYWORD: 개심__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26655
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7133,13 +7133,13 @@ imported:
     표제어: 개심
     품사: 명사
     항목ID: 26655
-processed:
+result:
   맞춤법 검사:
     표제어: 개심
     품사: 명사
 ---
 000_KEYWORD: 개악__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26656
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7181,13 +7181,13 @@ imported:
     - 발음: 개ː앙만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/26656_gae-angman.wav
       형태: 개악만
-processed:
+result:
   맞춤법 검사:
     표제어: 개악
     품사: 명사
 ---
 000_KEYWORD: 개암__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26658
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7214,13 +7214,13 @@ imported:
     표제어: 개암
     품사: 명사
     항목ID: 26658
-processed:
+result:
   맞춤법 검사:
     표제어: 개암
     품사: 명사
 ---
 000_KEYWORD: 개암나무__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26659
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7252,13 +7252,13 @@ imported:
     표제어: 개암나무
     품사: 명사
     항목ID: 26659
-processed:
+result:
   맞춤법 검사:
     표제어: 개암나무
     품사: 명사
 ---
 000_KEYWORD: 개업__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26660
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7341,13 +7341,13 @@ imported:
     - 발음: 개엄만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/26660_gaeeomman.wav
       형태: 개업만
-processed:
+result:
   맞춤법 검사:
     표제어: 개업
     품사: 명사
 ---
 000_KEYWORD: 개업식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26661
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7385,13 +7385,13 @@ imported:
     - 발음: 개업씽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/26661_gaeeopssingman.wav
       형태: 개업식만
-processed:
+result:
   맞춤법 검사:
     표제어: 개업식
     품사: 명사
 ---
 000_KEYWORD: 개업의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26663
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7422,13 +7422,13 @@ imported:
     표제어: 개업의
     품사: 명사
     항목ID: 26663
-processed:
+result:
   맞춤법 검사:
     표제어: 개업의
     품사: 명사
 ---
 000_KEYWORD: 개업하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26664
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7497,13 +7497,13 @@ imported:
     표제어: 개업하다
     품사: 동사
     항목ID: 26664
-processed:
+result:
   맞춤법 검사:
     표제어: 개업하다
     품사: 동사
 ---
 000_KEYWORD: 개연__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26666
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7535,13 +7535,13 @@ imported:
     표제어: 개연
     품사: 명사
     항목ID: 26666
-processed:
+result:
   맞춤법 검사:
     표제어: 개연
     품사: 명사
 ---
 000_KEYWORD: 개연성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26667
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7575,13 +7575,13 @@ imported:
     표제어: 개연성
     품사: 명사
     항목ID: 26667
-processed:
+result:
   맞춤법 검사:
     표제어: 개연성
     품사: 명사
 ---
 000_KEYWORD: 개연적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26668
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7611,13 +7611,13 @@ imported:
     표제어: 개연적
     품사: 관형사
     항목ID: 26668
-processed:
+result:
   맞춤법 검사:
     표제어: 개연적
     품사: 관형사
 ---
 000_KEYWORD: 개연적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26669
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7646,13 +7646,13 @@ imported:
     표제어: 개연적
     품사: 명사
     항목ID: 26669
-processed:
+result:
   맞춤법 검사:
     표제어: 개연적
     품사: 명사
 ---
 000_KEYWORD: 개요__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26670
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7686,13 +7686,13 @@ imported:
     표제어: 개요
     품사: 명사
     항목ID: 26670
-processed:
+result:
   맞춤법 검사:
     표제어: 개요
     품사: 명사
 ---
 000_KEYWORD: 개운하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26673
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7748,13 +7748,13 @@ imported:
       형태: 개운하니
     - 발음: 개운함니다
       형태: 개운합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 개운하다
     품사: 형용사
 ---
 000_KEYWORD: 개울__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26674
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7795,13 +7795,13 @@ imported:
     표제어: 개울
     품사: 명사
     항목ID: 26674
-processed:
+result:
   맞춤법 검사:
     표제어: 개울
     품사: 명사
 ---
 000_KEYWORD: 개울가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26677
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7828,13 +7828,13 @@ imported:
     표제어: 개울가
     품사: 명사
     항목ID: 26677
-processed:
+result:
   맞춤법 검사:
     표제어: 개울가
     품사: 명사
 ---
 000_KEYWORD: 개울물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26678
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7863,13 +7863,13 @@ imported:
     표제어: 개울물
     품사: 명사
     항목ID: 26678
-processed:
+result:
   맞춤법 검사:
     표제어: 개울물
     품사: 명사
 ---
 000_KEYWORD: 개원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26679
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7911,13 +7911,13 @@ imported:
     표제어: 개원
     품사: 명사
     항목ID: 26679
-processed:
+result:
   맞춤법 검사:
     표제어: 개원
     품사: 명사
 ---
 000_KEYWORD: 개원하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26681
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7959,13 +7959,13 @@ imported:
     표제어: 개원하다
     품사: 동사
     항목ID: 26681
-processed:
+result:
   맞춤법 검사:
     표제어: 개원하다
     품사: 동사
 ---
 000_KEYWORD: 개월__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17304
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -7998,13 +7998,13 @@ imported:
     표제어: 개월
     품사: 의존 명사
     항목ID: 17304
-processed:
+result:
   맞춤법 검사:
     표제어: 개월
     품사: 의존 명사
 ---
 000_KEYWORD: 개의하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26682
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8036,13 +8036,13 @@ imported:
     표제어: 개의하다
     품사: 동사
     항목ID: 26682
-processed:
+result:
   맞춤법 검사:
     표제어: 개의하다
     품사: 동사
 ---
 000_KEYWORD: 개인__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60089
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8072,13 +8072,13 @@ imported:
     표제어: 개인
     품사: 명사
     항목ID: 60089
-processed:
+result:
   맞춤법 검사:
     표제어: 개인
     품사: 명사
 ---
 000_KEYWORD: 개인기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26685
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8108,13 +8108,13 @@ imported:
     표제어: 개인기
     품사: 명사
     항목ID: 26685
-processed:
+result:
   맞춤법 검사:
     표제어: 개인기
     품사: 명사
 ---
 000_KEYWORD: 개인용__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8123,13 +8123,13 @@ imported:
     표제어: 개인용
     품사: 명사:보통:서술성
     항목ID: 913
-processed:
+result:
   맞춤법 검사:
     표제어: 개인용
     품사: 명사
 ---
 000_KEYWORD: 개인위생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88178
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8162,13 +8162,13 @@ imported:
     표제어: 개인위생
     품사: 명사
     항목ID: 88178
-processed:
+result:
   맞춤법 검사:
     표제어: 개인위생
     품사: 명사
 ---
 000_KEYWORD: 개인적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26690
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8205,13 +8205,13 @@ imported:
     표제어: 개인적
     품사: 관형사
     항목ID: 26690
-processed:
+result:
   맞춤법 검사:
     표제어: 개인적
     품사: 관형사
 ---
 000_KEYWORD: 개인적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26691
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8240,13 +8240,13 @@ imported:
     표제어: 개인적
     품사: 명사
     항목ID: 26691
-processed:
+result:
   맞춤법 검사:
     표제어: 개인적
     품사: 명사
 ---
 000_KEYWORD: 개인전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26692
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8274,13 +8274,13 @@ imported:
     표제어: 개인전
     품사: 명사
     항목ID: 26692
-processed:
+result:
   맞춤법 검사:
     표제어: 개인전
     품사: 명사
 ---
 000_KEYWORD: 개인전__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26693
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8314,13 +8314,13 @@ imported:
     표제어: 개인전
     품사: 명사
     항목ID: 26693
-processed:
+result:
   맞춤법 검사:
     표제어: 개인전
     품사: 명사
 ---
 000_KEYWORD: 개인정보__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8329,13 +8329,13 @@ imported:
     표제어: 개인정보
     품사: 명사:보통:비서술성
     항목ID: 917
-processed:
+result:
   맞춤법 검사:
     표제어: 개인정보
     품사: 명사
 ---
 000_KEYWORD: 개인주의__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26694
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8379,13 +8379,13 @@ imported:
     표제어: 개인주의
     품사: 명사
     항목ID: 26694
-processed:
+result:
   맞춤법 검사:
     표제어: 개인주의
     품사: 명사
 ---
 000_KEYWORD: 개인차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26695
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8414,13 +8414,13 @@ imported:
     표제어: 개인차
     품사: 명사
     항목ID: 26695
-processed:
+result:
   맞춤법 검사:
     표제어: 개인차
     품사: 명사
 ---
 000_KEYWORD: 개인택시__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26696
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8448,13 +8448,13 @@ imported:
     표제어: 개인택시
     품사: 명사
     항목ID: 26696
-processed:
+result:
   맞춤법 검사:
     표제어: 개인택시
     품사: 명사
 ---
 000_KEYWORD: 개인플레이__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18518
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8496,13 +8496,13 @@ imported:
     표제어: 개인플레이
     품사: 명사
     항목ID: 18518
-processed:
+result:
   맞춤법 검사:
     표제어: 개인플레이
     품사: 명사
 ---
 000_KEYWORD: 개인행동__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18519
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8530,13 +8530,13 @@ imported:
     표제어: 개인행동
     품사: 명사
     항목ID: 18519
-processed:
+result:
   맞춤법 검사:
     표제어: 개인행동
     품사: 명사
 ---
 000_KEYWORD: 개입__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18523
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8582,13 +8582,13 @@ imported:
     - 발음: 개ː임만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/18523_gae-imman.wav
       형태: 개입만
-processed:
+result:
   맞춤법 검사:
     표제어: 개입
     품사: 명사
 ---
 000_KEYWORD: 개입되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18524
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8620,13 +8620,13 @@ imported:
     표제어: 개입되다
     품사: 동사
     항목ID: 18524
-processed:
+result:
   맞춤법 검사:
     표제어: 개입되다
     품사: 동사
 ---
 000_KEYWORD: 개입시키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85414
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8655,13 +8655,13 @@ imported:
     표제어: 개입시키다
     품사: 동사
     항목ID: 85414
-processed:
+result:
   맞춤법 검사:
     표제어: 개입시키다
     품사: 동사
 ---
 000_KEYWORD: 개입하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18525
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8690,13 +8690,13 @@ imported:
     표제어: 개입하다
     품사: 동사
     항목ID: 18525
-processed:
+result:
   맞춤법 검사:
     표제어: 개입하다
     품사: 동사
 ---
 000_KEYWORD: 개자식__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -8705,13 +8705,13 @@ imported:
     표제어: 개자식
     품사: 명사:보통:비서술성
     항목ID: 923
-processed:
+result:
   맞춤법 검사:
     표제어: 개자식
     품사: 명사
 ---
 000_KEYWORD: 개작__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18527
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8751,13 +8751,13 @@ imported:
     - 발음: 개ː장만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/18527_gae-jangman.wav
       형태: 개작만
-processed:
+result:
   맞춤법 검사:
     표제어: 개작
     품사: 명사
 ---
 000_KEYWORD: 개작되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18528
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8788,13 +8788,13 @@ imported:
     표제어: 개작되다
     품사: 동사
     항목ID: 18528
-processed:
+result:
   맞춤법 검사:
     표제어: 개작되다
     품사: 동사
 ---
 000_KEYWORD: 개작하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18537
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8823,13 +8823,13 @@ imported:
     표제어: 개작하다
     품사: 동사
     항목ID: 18537
-processed:
+result:
   맞춤법 검사:
     표제어: 개작하다
     품사: 동사
 ---
 000_KEYWORD: 개장__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18541
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8869,13 +8869,13 @@ imported:
     표제어: 개장
     품사: 명사
     항목ID: 18541
-processed:
+result:
   맞춤법 검사:
     표제어: 개장
     품사: 명사
 ---
 000_KEYWORD: 개장국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18543
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8918,13 +8918,13 @@ imported:
     - 발음: 개ː장꿍만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/25000/18543_gae-jangkkungman.wav
       형태: 개장국만
-processed:
+result:
   맞춤법 검사:
     표제어: 개장국
     품사: 명사
 ---
 000_KEYWORD: 개장되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18547
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -8960,13 +8960,13 @@ imported:
     표제어: 개장되다
     품사: 동사
     항목ID: 18547
-processed:
+result:
   맞춤법 검사:
     표제어: 개장되다
     품사: 동사
 ---
 000_KEYWORD: 개장하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18548
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9000,13 +9000,13 @@ imported:
     표제어: 개장하다
     품사: 동사
     항목ID: 18548
-processed:
+result:
   맞춤법 검사:
     표제어: 개장하다
     품사: 동사
 ---
 000_KEYWORD: 개재__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18549
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9038,13 +9038,13 @@ imported:
     표제어: 개재
     품사: 명사
     항목ID: 18549
-processed:
+result:
   맞춤법 검사:
     표제어: 개재
     품사: 명사
 ---
 000_KEYWORD: 개재되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18552
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9073,13 +9073,13 @@ imported:
     표제어: 개재되다
     품사: 동사
     항목ID: 18552
-processed:
+result:
   맞춤법 검사:
     표제어: 개재되다
     품사: 동사
 ---
 000_KEYWORD: 개재하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18553
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9105,13 +9105,13 @@ imported:
     표제어: 개재하다
     품사: 동사
     항목ID: 18553
-processed:
+result:
   맞춤법 검사:
     표제어: 개재하다
     품사: 동사
 ---
 000_KEYWORD: 개전__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18554
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9143,13 +9143,13 @@ imported:
     표제어: 개전
     품사: 명사
     항목ID: 18554
-processed:
+result:
   맞춤법 검사:
     표제어: 개전
     품사: 명사
 ---
 000_KEYWORD: 개점__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18564
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9202,13 +9202,13 @@ imported:
     표제어: 개점
     품사: 명사
     항목ID: 18564
-processed:
+result:
   맞춤법 검사:
     표제어: 개점
     품사: 명사
 ---
 000_KEYWORD: 개점하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18567
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9263,13 +9263,13 @@ imported:
     표제어: 개점하다
     품사: 동사
     항목ID: 18567
-processed:
+result:
   맞춤법 검사:
     표제어: 개점하다
     품사: 동사
 ---
 000_KEYWORD: 개정__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18571
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9300,13 +9300,13 @@ imported:
     표제어: 개정
     품사: 명사
     항목ID: 18571
-processed:
+result:
   맞춤법 검사:
     표제어: 개정
     품사: 명사
 ---
 000_KEYWORD: 개정__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18573
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9334,13 +9334,13 @@ imported:
     표제어: 개정
     품사: 명사
     항목ID: 18573
-processed:
+result:
   맞춤법 검사:
     표제어: 개정
     품사: 명사
 ---
 000_KEYWORD: 개정__명사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18575
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9370,13 +9370,13 @@ imported:
     표제어: 개정
     품사: 명사
     항목ID: 18575
-processed:
+result:
   맞춤법 검사:
     표제어: 개정
     품사: 명사
 ---
 000_KEYWORD: 개정되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18576
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9407,13 +9407,13 @@ imported:
     표제어: 개정되다
     품사: 동사
     항목ID: 18576
-processed:
+result:
   맞춤법 검사:
     표제어: 개정되다
     품사: 동사
 ---
 000_KEYWORD: 개정되다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18585
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9444,13 +9444,13 @@ imported:
     표제어: 개정되다
     품사: 동사
     항목ID: 18585
-processed:
+result:
   맞춤법 검사:
     표제어: 개정되다
     품사: 동사
 ---
 000_KEYWORD: 개정되다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85059
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9480,13 +9480,13 @@ imported:
     표제어: 개정되다
     품사: 동사
     항목ID: 85059
-processed:
+result:
   맞춤법 검사:
     표제어: 개정되다
     품사: 동사
 ---
 000_KEYWORD: 개정안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18587
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9517,13 +9517,13 @@ imported:
     표제어: 개정안
     품사: 명사
     항목ID: 18587
-processed:
+result:
   맞춤법 검사:
     표제어: 개정안
     품사: 명사
 ---
 000_KEYWORD: 개정판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18589
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9551,13 +9551,13 @@ imported:
     표제어: 개정판
     품사: 명사
     항목ID: 18589
-processed:
+result:
   맞춤법 검사:
     표제어: 개정판
     품사: 명사
 ---
 000_KEYWORD: 개정하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18591
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9586,13 +9586,13 @@ imported:
     표제어: 개정하다
     품사: 동사
     항목ID: 18591
-processed:
+result:
   맞춤법 검사:
     표제어: 개정하다
     품사: 동사
 ---
 000_KEYWORD: 개정하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18592
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9621,13 +9621,13 @@ imported:
     표제어: 개정하다
     품사: 동사
     항목ID: 18592
-processed:
+result:
   맞춤법 검사:
     표제어: 개정하다
     품사: 동사
 ---
 000_KEYWORD: 개정하다__동사__003
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18596
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9656,13 +9656,13 @@ imported:
     표제어: 개정하다
     품사: 동사
     항목ID: 18596
-processed:
+result:
   맞춤법 검사:
     표제어: 개정하다
     품사: 동사
 ---
 000_KEYWORD: 개조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18599
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9698,13 +9698,13 @@ imported:
     표제어: 개조
     품사: 명사
     항목ID: 18599
-processed:
+result:
   맞춤법 검사:
     표제어: 개조
     품사: 명사
 ---
 000_KEYWORD: 개조__의존_명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18602
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9726,13 +9726,13 @@ imported:
     표제어: 개조
     품사: 의존 명사
     항목ID: 18602
-processed:
+result:
   맞춤법 검사:
     표제어: 개조
     품사: 의존 명사
 ---
 000_KEYWORD: 개조되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18604
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9782,13 +9782,13 @@ imported:
       형태: 개조됩니다
     - 발음: 개ː조뒘니다
       형태: 개조됩니다
-processed:
+result:
   맞춤법 검사:
     표제어: 개조되다
     품사: 동사
 ---
 000_KEYWORD: 개조하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18607
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9829,13 +9829,13 @@ imported:
       형태: 개조하니
     - 발음: 개ː조함니다
       형태: 개조합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 개조하다
     품사: 동사
 ---
 000_KEYWORD: 개종__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18609
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9866,13 +9866,13 @@ imported:
     표제어: 개종
     품사: 명사
     항목ID: 18609
-processed:
+result:
   맞춤법 검사:
     표제어: 개종
     품사: 명사
 ---
 000_KEYWORD: 개종하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18611
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9901,13 +9901,13 @@ imported:
     표제어: 개종하다
     품사: 동사
     항목ID: 18611
-processed:
+result:
   맞춤법 검사:
     표제어: 개종하다
     품사: 동사
 ---
 000_KEYWORD: 개죽음__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18614
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9934,13 +9934,13 @@ imported:
     표제어: 개죽음
     품사: 명사
     항목ID: 18614
-processed:
+result:
   맞춤법 검사:
     표제어: 개죽음
     품사: 명사
 ---
 000_KEYWORD: 개중__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18617
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -9969,13 +9969,13 @@ imported:
     표제어: 개중
     품사: 명사
     항목ID: 18617
-processed:
+result:
   맞춤법 검사:
     표제어: 개중
     품사: 명사
 ---
 000_KEYWORD: 개진__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18623
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10006,13 +10006,13 @@ imported:
     표제어: 개진
     품사: 명사
     항목ID: 18623
-processed:
+result:
   맞춤법 검사:
     표제어: 개진
     품사: 명사
 ---
 000_KEYWORD: 개진되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18626
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10044,13 +10044,13 @@ imported:
     표제어: 개진되다
     품사: 동사
     항목ID: 18626
-processed:
+result:
   맞춤법 검사:
     표제어: 개진되다
     품사: 동사
 ---
 000_KEYWORD: 개진하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18631
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10080,13 +10080,13 @@ imported:
     표제어: 개진하다
     품사: 동사
     항목ID: 18631
-processed:
+result:
   맞춤법 검사:
     표제어: 개진하다
     품사: 동사
 ---
 000_KEYWORD: 개집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18634
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10124,13 +10124,13 @@ imported:
     - 발음: 개ː짐만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/18634_gae-jimman.wav
       형태: 개집만
-processed:
+result:
   맞춤법 검사:
     표제어: 개집
     품사: 명사
 ---
 000_KEYWORD: 개차반__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18639
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10155,13 +10155,13 @@ imported:
     표제어: 개차반
     품사: 명사
     항목ID: 18639
-processed:
+result:
   맞춤법 검사:
     표제어: 개차반
     품사: 명사
 ---
 000_KEYWORD: 개찰__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18642
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10192,13 +10192,13 @@ imported:
     표제어: 개찰
     품사: 명사
     항목ID: 18642
-processed:
+result:
   맞춤법 검사:
     표제어: 개찰
     품사: 명사
 ---
 000_KEYWORD: 개찰구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18646
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10227,13 +10227,13 @@ imported:
     표제어: 개찰구
     품사: 명사
     항목ID: 18646
-processed:
+result:
   맞춤법 검사:
     표제어: 개찰구
     품사: 명사
 ---
 000_KEYWORD: 개찰원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18647
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10260,13 +10260,13 @@ imported:
     표제어: 개찰원
     품사: 명사
     항목ID: 18647
-processed:
+result:
   맞춤법 검사:
     표제어: 개찰원
     품사: 명사
 ---
 000_KEYWORD: 개창__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18649
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10295,13 +10295,13 @@ imported:
     표제어: 개창
     품사: 명사
     항목ID: 18649
-processed:
+result:
   맞춤법 검사:
     표제어: 개창
     품사: 명사
 ---
 000_KEYWORD: 개창하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18650
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10330,13 +10330,13 @@ imported:
     표제어: 개창하다
     품사: 동사
     항목ID: 18650
-processed:
+result:
   맞춤법 검사:
     표제어: 개창하다
     품사: 동사
 ---
 000_KEYWORD: 개척__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18652
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10399,13 +10399,13 @@ imported:
     - 발음: 개청만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/18652_gaecheongman.wav
       형태: 개척만
-processed:
+result:
   맞춤법 검사:
     표제어: 개척
     품사: 명사
 ---
 000_KEYWORD: 개척되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18662
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10454,13 +10454,13 @@ imported:
     표제어: 개척되다
     품사: 동사
     항목ID: 18662
-processed:
+result:
   맞춤법 검사:
     표제어: 개척되다
     품사: 동사
 ---
 000_KEYWORD: 개척자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18668
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10498,13 +10498,13 @@ imported:
     표제어: 개척자
     품사: 명사
     항목ID: 18668
-processed:
+result:
   맞춤법 검사:
     표제어: 개척자
     품사: 명사
 ---
 000_KEYWORD: 개척하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18672
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10552,13 +10552,13 @@ imported:
     표제어: 개척하다
     품사: 동사
     항목ID: 18672
-processed:
+result:
   맞춤법 검사:
     표제어: 개척하다
     품사: 동사
 ---
 000_KEYWORD: 개천__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18679
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10596,13 +10596,13 @@ imported:
     표제어: 개천
     품사: 명사
     항목ID: 18679
-processed:
+result:
   맞춤법 검사:
     표제어: 개천
     품사: 명사
 ---
 000_KEYWORD: 개천절__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67870
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10619,13 +10619,13 @@ imported:
     표제어: 개천절
     품사: 명사
     항목ID: 67870
-processed:
+result:
   맞춤법 검사:
     표제어: 개천절
     품사: 명사
 ---
 000_KEYWORD: 개체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18682
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10667,13 +10667,13 @@ imported:
     표제어: 개체
     품사: 명사
     항목ID: 18682
-processed:
+result:
   맞춤법 검사:
     표제어: 개체
     품사: 명사
 ---
 000_KEYWORD: 개체주의__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10683,13 +10683,13 @@ imported:
     표제어: 개체주의
     품사: 명사:보통:서술성
     항목ID: 949
-processed:
+result:
   맞춤법 검사:
     표제어: 개체주의
     품사: 명사
 ---
 000_KEYWORD: 개최__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18684
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10724,13 +10724,13 @@ imported:
     표제어: 개최
     품사: 명사
     항목ID: 18684
-processed:
+result:
   맞춤법 검사:
     표제어: 개최
     품사: 명사
 ---
 000_KEYWORD: 개최국__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18685
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10779,13 +10779,13 @@ imported:
     - 발음: 개췌궁만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/18685_gaechwegungman.wav
       형태: 개최국만
-processed:
+result:
   맞춤법 검사:
     표제어: 개최국
     품사: 명사
 ---
 000_KEYWORD: 개최되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18687
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10816,13 +10816,13 @@ imported:
     표제어: 개최되다
     품사: 동사
     항목ID: 18687
-processed:
+result:
   맞춤법 검사:
     표제어: 개최되다
     품사: 동사
 ---
 000_KEYWORD: 개최일__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -10831,13 +10831,13 @@ imported:
     표제어: 개최일
     품사: 명사:보통:서술성
     항목ID: 953
-processed:
+result:
   맞춤법 검사:
     표제어: 개최일
     품사: 명사
 ---
 000_KEYWORD: 개최지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18691
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10867,13 +10867,13 @@ imported:
     표제어: 개최지
     품사: 명사
     항목ID: 18691
-processed:
+result:
   맞춤법 검사:
     표제어: 개최지
     품사: 명사
 ---
 000_KEYWORD: 개최하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18693
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10905,13 +10905,13 @@ imported:
     표제어: 개최하다
     품사: 동사
     항목ID: 18693
-processed:
+result:
   맞춤법 검사:
     표제어: 개최하다
     품사: 동사
 ---
 000_KEYWORD: 개축__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18696
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10950,13 +10950,13 @@ imported:
     - 발음: 개ː충만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/18696_gae-chungman.wav
       형태: 개축만
-processed:
+result:
   맞춤법 검사:
     표제어: 개축
     품사: 명사
 ---
 000_KEYWORD: 개축되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18699
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -10988,13 +10988,13 @@ imported:
     표제어: 개축되다
     품사: 동사
     항목ID: 18699
-processed:
+result:
   맞춤법 검사:
     표제어: 개축되다
     품사: 동사
 ---
 000_KEYWORD: 개축하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18702
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11023,13 +11023,13 @@ imported:
     표제어: 개축하다
     품사: 동사
     항목ID: 18702
-processed:
+result:
   맞춤법 검사:
     표제어: 개축하다
     품사: 동사
 ---
 000_KEYWORD: 개칭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18705
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11061,13 +11061,13 @@ imported:
     표제어: 개칭
     품사: 명사
     항목ID: 18705
-processed:
+result:
   맞춤법 검사:
     표제어: 개칭
     품사: 명사
 ---
 000_KEYWORD: 개칭되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18709
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11099,13 +11099,13 @@ imported:
     표제어: 개칭되다
     품사: 동사
     항목ID: 18709
-processed:
+result:
   맞춤법 검사:
     표제어: 개칭되다
     품사: 동사
 ---
 000_KEYWORD: 개칭하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18711
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11135,13 +11135,13 @@ imported:
     표제어: 개칭하다
     품사: 동사
     항목ID: 18711
-processed:
+result:
   맞춤법 검사:
     표제어: 개칭하다
     품사: 동사
 ---
 000_KEYWORD: 개키다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18713
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11182,13 +11182,13 @@ imported:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/18713_gaekiyeo.wav
       형태: 개키어
     - 형태: 개키니
-processed:
+result:
   맞춤법 검사:
     표제어: 개키다
     품사: 동사
 ---
 000_KEYWORD: 개탄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18715
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11217,13 +11217,13 @@ imported:
     표제어: 개탄
     품사: 명사
     항목ID: 18715
-processed:
+result:
   맞춤법 검사:
     표제어: 개탄
     품사: 명사
 ---
 000_KEYWORD: 개탄스럽다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18716
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11262,7 +11262,7 @@ imported:
       형태: 개탄스러우니
     - 발음: 개ː탄스럽씀니다
       형태: 개탄스럽습니다
-processed:
+result:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -11270,7 +11270,7 @@ processed:
     품사: 형용사
 ---
 000_KEYWORD: 개탄조__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18718
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11295,13 +11295,13 @@ imported:
     표제어: 개탄조
     품사: 명사
     항목ID: 18718
-processed:
+result:
   맞춤법 검사:
     표제어: 개탄조
     품사: 명사
 ---
 000_KEYWORD: 개탄하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18719
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11330,13 +11330,13 @@ imported:
     표제어: 개탄하다
     품사: 동사
     항목ID: 18719
-processed:
+result:
   맞춤법 검사:
     표제어: 개탄하다
     품사: 동사
 ---
 000_KEYWORD: 개털__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18721
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11387,13 +11387,13 @@ imported:
     표제어: 개털
     품사: 명사
     항목ID: 18721
-processed:
+result:
   맞춤법 검사:
     표제어: 개털
     품사: 명사
 ---
 000_KEYWORD: 개통__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18723
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11427,13 +11427,13 @@ imported:
     표제어: 개통
     품사: 명사
     항목ID: 18723
-processed:
+result:
   맞춤법 검사:
     표제어: 개통
     품사: 명사
 ---
 000_KEYWORD: 개통되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18724
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11470,13 +11470,13 @@ imported:
     표제어: 개통되다
     품사: 동사
     항목ID: 18724
-processed:
+result:
   맞춤법 검사:
     표제어: 개통되다
     품사: 동사
 ---
 000_KEYWORD: 개통식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18725
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11514,13 +11514,13 @@ imported:
     - 발음: 개통싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/18725_gaetongsingman.wav
       형태: 개통식만
-processed:
+result:
   맞춤법 검사:
     표제어: 개통식
     품사: 명사
 ---
 000_KEYWORD: 개통하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18727
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11549,13 +11549,13 @@ imported:
     표제어: 개통하다
     품사: 동사
     항목ID: 18727
-processed:
+result:
   맞춤법 검사:
     표제어: 개통하다
     품사: 동사
 ---
 000_KEYWORD: 개판__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18728
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11582,13 +11582,13 @@ imported:
     표제어: 개판
     품사: 명사
     항목ID: 18728
-processed:
+result:
   맞춤법 검사:
     표제어: 개판
     품사: 명사
 ---
 000_KEYWORD: 개펄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=18729
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11631,13 +11631,13 @@ imported:
     표제어: 개펄
     품사: 명사
     항목ID: 18729
-processed:
+result:
   맞춤법 검사:
     표제어: 개펄
     품사: 명사
 ---
 000_KEYWORD: 개편__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23390
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11668,13 +11668,13 @@ imported:
     표제어: 개편
     품사: 명사
     항목ID: 23390
-processed:
+result:
   맞춤법 검사:
     표제어: 개편
     품사: 명사
 ---
 000_KEYWORD: 개편되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23411
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11706,13 +11706,13 @@ imported:
     표제어: 개편되다
     품사: 동사
     항목ID: 23411
-processed:
+result:
   맞춤법 검사:
     표제어: 개편되다
     품사: 동사
 ---
 000_KEYWORD: 개편안__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -11721,13 +11721,13 @@ imported:
     표제어: 개편안
     품사: 명사:보통:비서술성
     항목ID: 965
-processed:
+result:
   맞춤법 검사:
     표제어: 개편안
     품사: 명사
 ---
 000_KEYWORD: 개편하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23415
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11757,13 +11757,13 @@ imported:
     표제어: 개편하다
     품사: 동사
     항목ID: 23415
-processed:
+result:
   맞춤법 검사:
     표제어: 개편하다
     품사: 동사
 ---
 000_KEYWORD: 개평__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23422
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11790,13 +11790,13 @@ imported:
     표제어: 개평
     품사: 명사
     항목ID: 23422
-processed:
+result:
   맞춤법 검사:
     표제어: 개평
     품사: 명사
 ---
 000_KEYWORD: 개폐__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23587
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11826,13 +11826,13 @@ imported:
     표제어: 개폐
     품사: 명사
     항목ID: 23587
-processed:
+result:
   맞춤법 검사:
     표제어: 개폐
     품사: 명사
 ---
 000_KEYWORD: 개폐되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23630
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11863,13 +11863,13 @@ imported:
     표제어: 개폐되다
     품사: 동사
     항목ID: 23630
-processed:
+result:
   맞춤법 검사:
     표제어: 개폐되다
     품사: 동사
 ---
 000_KEYWORD: 개폐하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23633
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11900,13 +11900,13 @@ imported:
     표제어: 개폐하다
     품사: 동사
     항목ID: 23633
-processed:
+result:
   맞춤법 검사:
     표제어: 개폐하다
     품사: 동사
 ---
 000_KEYWORD: 개표__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23634
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11937,13 +11937,13 @@ imported:
     표제어: 개표
     품사: 명사
     항목ID: 23634
-processed:
+result:
   맞춤법 검사:
     표제어: 개표
     품사: 명사
 ---
 000_KEYWORD: 개표__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23635
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -11972,13 +11972,13 @@ imported:
     표제어: 개표
     품사: 명사
     항목ID: 23635
-processed:
+result:
   맞춤법 검사:
     표제어: 개표
     품사: 명사
 ---
 000_KEYWORD: 개표소__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24691
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12006,13 +12006,13 @@ imported:
     표제어: 개표소
     품사: 명사
     항목ID: 24691
-processed:
+result:
   맞춤법 검사:
     표제어: 개표소
     품사: 명사
 ---
 000_KEYWORD: 개표소__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24694
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12042,13 +12042,13 @@ imported:
     표제어: 개표소
     품사: 명사
     항목ID: 24694
-processed:
+result:
   맞춤법 검사:
     표제어: 개표소
     품사: 명사
 ---
 000_KEYWORD: 개표하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23636
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12076,13 +12076,13 @@ imported:
     표제어: 개표하다
     품사: 동사
     항목ID: 23636
-processed:
+result:
   맞춤법 검사:
     표제어: 개표하다
     품사: 동사
 ---
 000_KEYWORD: 개표하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23644
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12109,13 +12109,13 @@ imported:
     표제어: 개표하다
     품사: 동사
     항목ID: 23644
-processed:
+result:
   맞춤법 검사:
     표제어: 개표하다
     품사: 동사
 ---
 000_KEYWORD: 개학__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23676
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12157,13 +12157,13 @@ imported:
     - 발음: 개항만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/23676_gaehangman.wav
       형태: 개학만
-processed:
+result:
   맞춤법 검사:
     표제어: 개학
     품사: 명사
 ---
 000_KEYWORD: 개학식__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -12173,13 +12173,13 @@ imported:
     표제어: 개학식
     품사: 명사:보통:비서술성
     항목ID: 973
-processed:
+result:
   맞춤법 검사:
     표제어: 개학식
     품사: 명사
 ---
 000_KEYWORD: 개학하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23709
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12211,13 +12211,13 @@ imported:
     표제어: 개학하다
     품사: 동사
     항목ID: 23709
-processed:
+result:
   맞춤법 검사:
     표제어: 개학하다
     품사: 동사
 ---
 000_KEYWORD: 개항__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23713
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12256,13 +12256,13 @@ imported:
     표제어: 개항
     품사: 명사
     항목ID: 23713
-processed:
+result:
   맞춤법 검사:
     표제어: 개항
     품사: 명사
 ---
 000_KEYWORD: 개항하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23728
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12300,13 +12300,13 @@ imported:
     표제어: 개항하다
     품사: 동사
     항목ID: 23728
-processed:
+result:
   맞춤법 검사:
     표제어: 개항하다
     품사: 동사
 ---
 000_KEYWORD: 개헌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23739
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12332,13 +12332,13 @@ imported:
     표제어: 개헌
     품사: 명사
     항목ID: 23739
-processed:
+result:
   맞춤법 검사:
     표제어: 개헌
     품사: 명사
 ---
 000_KEYWORD: 개헌되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23895
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12365,13 +12365,13 @@ imported:
     표제어: 개헌되다
     품사: 동사
     항목ID: 23895
-processed:
+result:
   맞춤법 검사:
     표제어: 개헌되다
     품사: 동사
 ---
 000_KEYWORD: 개헌하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23901
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12396,13 +12396,13 @@ imported:
     표제어: 개헌하다
     품사: 동사
     항목ID: 23901
-processed:
+result:
   맞춤법 검사:
     표제어: 개헌하다
     품사: 동사
 ---
 000_KEYWORD: 개헤엄__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23903
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12427,13 +12427,13 @@ imported:
     표제어: 개헤엄
     품사: 명사
     항목ID: 23903
-processed:
+result:
   맞춤법 검사:
     표제어: 개헤엄
     품사: 명사
 ---
 000_KEYWORD: 개혁__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23905
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12475,13 +12475,13 @@ imported:
     - 발음: 개ː형만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/23905_gae-hyeongman.wav
       형태: 개혁만
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁
     품사: 명사
 ---
 000_KEYWORD: 개혁되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23913
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12511,13 +12511,13 @@ imported:
     표제어: 개혁되다
     품사: 동사
     항목ID: 23913
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁되다
     품사: 동사
 ---
 000_KEYWORD: 개혁론__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23915
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12546,13 +12546,13 @@ imported:
     표제어: 개혁론
     품사: 명사
     항목ID: 23915
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁론
     품사: 명사
 ---
 000_KEYWORD: 개혁안__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23916
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12581,13 +12581,13 @@ imported:
     표제어: 개혁안
     품사: 명사
     항목ID: 23916
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁안
     품사: 명사
 ---
 000_KEYWORD: 개혁자__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23918
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12615,13 +12615,13 @@ imported:
     표제어: 개혁자
     품사: 명사
     항목ID: 23918
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁자
     품사: 명사
 ---
 000_KEYWORD: 개혁적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24609
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12648,13 +12648,13 @@ imported:
     표제어: 개혁적
     품사: 관형사
     항목ID: 24609
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁적
     품사: 관형사
 ---
 000_KEYWORD: 개혁적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24610
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12681,13 +12681,13 @@ imported:
     표제어: 개혁적
     품사: 명사
     항목ID: 24610
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁적
     품사: 명사
 ---
 000_KEYWORD: 개혁파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24618
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12714,13 +12714,13 @@ imported:
     표제어: 개혁파
     품사: 명사
     항목ID: 24618
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁파
     품사: 명사
 ---
 000_KEYWORD: 개혁하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24621
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12749,13 +12749,13 @@ imported:
     표제어: 개혁하다
     품사: 동사
     항목ID: 24621
-processed:
+result:
   맞춤법 검사:
     표제어: 개혁하다
     품사: 동사
 ---
 000_KEYWORD: 개화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24640
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12799,13 +12799,13 @@ imported:
     표제어: 개화
     품사: 명사
     항목ID: 24640
-processed:
+result:
   맞춤법 검사:
     표제어: 개화
     품사: 명사
 ---
 000_KEYWORD: 개화__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24650
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12844,13 +12844,13 @@ imported:
     표제어: 개화
     품사: 명사
     항목ID: 24650
-processed:
+result:
   맞춤법 검사:
     표제어: 개화
     품사: 명사
 ---
 000_KEYWORD: 개화기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24673
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12876,13 +12876,13 @@ imported:
     표제어: 개화기
     품사: 명사
     항목ID: 24673
-processed:
+result:
   맞춤법 검사:
     표제어: 개화기
     품사: 명사
 ---
 000_KEYWORD: 개화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24680
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12917,13 +12917,13 @@ imported:
     표제어: 개화되다
     품사: 동사
     항목ID: 24680
-processed:
+result:
   맞춤법 검사:
     표제어: 개화되다
     품사: 동사
 ---
 000_KEYWORD: 개화사상__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24683
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12952,13 +12952,13 @@ imported:
     표제어: 개화사상
     품사: 명사
     항목ID: 24683
-processed:
+result:
   맞춤법 검사:
     표제어: 개화사상
     품사: 명사
 ---
 000_KEYWORD: 개화파__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22298
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -12990,13 +12990,13 @@ imported:
     표제어: 개화파
     품사: 명사
     항목ID: 22298
-processed:
+result:
   맞춤법 검사:
     표제어: 개화파
     품사: 명사
 ---
 000_KEYWORD: 개화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22303
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13031,13 +13031,13 @@ imported:
     표제어: 개화하다
     품사: 동사
     항목ID: 22303
-processed:
+result:
   맞춤법 검사:
     표제어: 개화하다
     품사: 동사
 ---
 000_KEYWORD: 개화하다__동사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22309
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13078,13 +13078,13 @@ imported:
     표제어: 개화하다
     품사: 동사
     항목ID: 22309
-processed:
+result:
   맞춤법 검사:
     표제어: 개화하다
     품사: 동사
 ---
 000_KEYWORD: 개활지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22380
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13110,13 +13110,13 @@ imported:
     표제어: 개활지
     품사: 명사
     항목ID: 22380
-processed:
+result:
   맞춤법 검사:
     표제어: 개활지
     품사: 명사
 ---
 000_KEYWORD: 개활하다__형용사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22387
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13158,13 +13158,13 @@ imported:
       형태: 개활하니
     - 발음: 개활함니다
       형태: 개활합니다
-processed:
+result:
   맞춤법 검사:
     표제어: 개활하다
     품사: 형용사
 ---
 000_KEYWORD: 개회__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22393
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13200,13 +13200,13 @@ imported:
     표제어: 개회
     품사: 명사
     항목ID: 22393
-processed:
+result:
   맞춤법 검사:
     표제어: 개회
     품사: 명사
 ---
 000_KEYWORD: 개회되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22400
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13242,13 +13242,13 @@ imported:
     표제어: 개회되다
     품사: 동사
     항목ID: 22400
-processed:
+result:
   맞춤법 검사:
     표제어: 개회되다
     품사: 동사
 ---
 000_KEYWORD: 개회사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22408
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13279,13 +13279,13 @@ imported:
     표제어: 개회사
     품사: 명사
     항목ID: 22408
-processed:
+result:
   맞춤법 검사:
     표제어: 개회사
     품사: 명사
 ---
 000_KEYWORD: 개회식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22412
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13339,13 +13339,13 @@ imported:
     - 발음: 개훼싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/22412_gaehwesingman.wav
       형태: 개회식만
-processed:
+result:
   맞춤법 검사:
     표제어: 개회식
     품사: 명사
 ---
 000_KEYWORD: 개회하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22421
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13382,13 +13382,13 @@ imported:
     표제어: 개회하다
     품사: 동사
     항목ID: 22421
-processed:
+result:
   맞춤법 검사:
     표제어: 개회하다
     품사: 동사
 ---
 000_KEYWORD: 객__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22424
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13434,13 +13434,13 @@ imported:
     - 발음: 갱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/22424_gaengman.wav
       형태: 객만
-processed:
+result:
   맞춤법 검사:
     표제어: 객
     품사: 명사
 ---
 000_KEYWORD: 객관__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22430
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13471,13 +13471,13 @@ imported:
     표제어: 객관
     품사: 명사
     항목ID: 22430
-processed:
+result:
   맞춤법 검사:
     표제어: 객관
     품사: 명사
 ---
 000_KEYWORD: 객관성__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22432
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13514,13 +13514,13 @@ imported:
     표제어: 객관성
     품사: 명사
     항목ID: 22432
-processed:
+result:
   맞춤법 검사:
     표제어: 객관성
     품사: 명사
 ---
 000_KEYWORD: 객관식__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22434
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13563,13 +13563,13 @@ imported:
     - 발음: 객꽌싱만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/22434_gaekkkwansingman.wav
       형태: 객관식만
-processed:
+result:
   맞춤법 검사:
     표제어: 객관식
     품사: 명사
 ---
 000_KEYWORD: 객관적__관형사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15793
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13603,13 +13603,13 @@ imported:
     표제어: 객관적
     품사: 관형사
     항목ID: 15793
-processed:
+result:
   맞춤법 검사:
     표제어: 객관적
     품사: 관형사
 ---
 000_KEYWORD: 객관적__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15801
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13642,13 +13642,13 @@ imported:
     표제어: 객관적
     품사: 명사
     항목ID: 15801
-processed:
+result:
   맞춤법 검사:
     표제어: 객관적
     품사: 명사
 ---
 000_KEYWORD: 객관화__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22448
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13681,13 +13681,13 @@ imported:
     표제어: 객관화
     품사: 명사
     항목ID: 22448
-processed:
+result:
   맞춤법 검사:
     표제어: 객관화
     품사: 명사
 ---
 000_KEYWORD: 객관화되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22451
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13719,13 +13719,13 @@ imported:
     표제어: 객관화되다
     품사: 동사
     항목ID: 22451
-processed:
+result:
   맞춤법 검사:
     표제어: 객관화되다
     품사: 동사
 ---
 000_KEYWORD: 객관화하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22463
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13754,13 +13754,13 @@ imported:
     표제어: 객관화하다
     품사: 동사
     항목ID: 22463
-processed:
+result:
   맞춤법 검사:
     표제어: 객관화하다
     품사: 동사
 ---
 000_KEYWORD: 객귀__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22467
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13788,13 +13788,13 @@ imported:
     표제어: 객귀
     품사: 명사
     항목ID: 22467
-processed:
+result:
   맞춤법 검사:
     표제어: 객귀
     품사: 명사
 ---
 000_KEYWORD: 객기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22470
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13822,13 +13822,13 @@ imported:
     표제어: 객기
     품사: 명사
     항목ID: 22470
-processed:
+result:
   맞춤법 검사:
     표제어: 객기
     품사: 명사
 ---
 000_KEYWORD: 객사__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22476
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13855,13 +13855,13 @@ imported:
     표제어: 객사
     품사: 명사
     항목ID: 22476
-processed:
+result:
   맞춤법 검사:
     표제어: 객사
     품사: 명사
 ---
 000_KEYWORD: 객사하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22480
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13891,13 +13891,13 @@ imported:
     표제어: 객사하다
     품사: 동사
     항목ID: 22480
-processed:
+result:
   맞춤법 검사:
     표제어: 객사하다
     품사: 동사
 ---
 000_KEYWORD: 객석__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22484
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13950,13 +13950,13 @@ imported:
     - 발음: 객썽만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/22484_gaeksseongman.wav
       형태: 객석만
-processed:
+result:
   맞춤법 검사:
     표제어: 객석
     품사: 명사
 ---
 000_KEYWORD: 객식구__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89242
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -13986,13 +13986,13 @@ imported:
     표제어: 객식구
     품사: 명사
     항목ID: 89242
-processed:
+result:
   맞춤법 검사:
     표제어: 객식구
     품사: 명사
 ---
 000_KEYWORD: 객실__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22487
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14061,13 +14061,13 @@ imported:
     표제어: 객실
     품사: 명사
     항목ID: 22487
-processed:
+result:
   맞춤법 검사:
     표제어: 객실
     품사: 명사
 ---
 000_KEYWORD: 객원__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22492
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14112,13 +14112,13 @@ imported:
     표제어: 객원
     품사: 명사
     항목ID: 22492
-processed:
+result:
   맞춤법 검사:
     표제어: 객원
     품사: 명사
 ---
 000_KEYWORD: 객주__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22497
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14147,13 +14147,13 @@ imported:
     표제어: 객주
     품사: 명사
     항목ID: 22497
-processed:
+result:
   맞춤법 검사:
     표제어: 객주
     품사: 명사
 ---
 000_KEYWORD: 객줏집__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22504
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14203,13 +14203,13 @@ imported:
     - 발음: 객쭏찜만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/22504_gaekjjutjjimman.wav
       형태: 객줏집만
-processed:
+result:
   맞춤법 검사:
     표제어: 객줏집
     품사: 명사
 ---
 000_KEYWORD: 객지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22507
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14247,13 +14247,13 @@ imported:
     표제어: 객지
     품사: 명사
     항목ID: 22507
-processed:
+result:
   맞춤법 검사:
     표제어: 객지
     품사: 명사
 ---
 000_KEYWORD: 객차__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22503
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14288,13 +14288,13 @@ imported:
     표제어: 객차
     품사: 명사
     항목ID: 22503
-processed:
+result:
   맞춤법 검사:
     표제어: 객차
     품사: 명사
 ---
 000_KEYWORD: 객체__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22509
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14343,13 +14343,13 @@ imported:
     표제어: 객체
     품사: 명사
     항목ID: 22509
-processed:
+result:
   맞춤법 검사:
     표제어: 객체
     품사: 명사
 ---
 000_KEYWORD: 객혈__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14359,13 +14359,13 @@ imported:
     표제어: 객혈
     품사: 명사:보통:서술성
     항목ID: 994
-processed:
+result:
   맞춤법 검사:
     표제어: 객혈
     품사: 명사
 ---
 000_KEYWORD: 객혈하다__동사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14376,13 +14376,13 @@ imported:
     표제어: 객혈하다
     품사: 동사
     항목ID: 995
-processed:
+result:
   맞춤법 검사:
     표제어: 객혈하다
     품사: 동사
 ---
 000_KEYWORD: 갤러리__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22513
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14428,13 +14428,13 @@ imported:
     표제어: 갤러리
     품사: 명사
     항목ID: 22513
-processed:
+result:
   맞춤법 검사:
     표제어: 갤러리
     품사: 명사
 ---
 000_KEYWORD: 갤런__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22515
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14462,13 +14462,13 @@ imported:
     표제어: 갤런
     품사: 명사
     항목ID: 22515
-processed:
+result:
   맞춤법 검사:
     표제어: 갤런
     품사: 명사
 ---
 000_KEYWORD: 갭__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22519
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14509,13 +14509,13 @@ imported:
     표제어: 갭
     품사: 명사
     항목ID: 22519
-processed:
+result:
   맞춤법 검사:
     표제어: 갭
     품사: 명사
 ---
 000_KEYWORD: 갯가__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22524
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14549,13 +14549,13 @@ imported:
     표제어: 갯가
     품사: 명사
     항목ID: 22524
-processed:
+result:
   맞춤법 검사:
     표제어: 갯가
     품사: 명사
 ---
 000_KEYWORD: 갯고랑__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=22528
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14597,13 +14597,13 @@ imported:
     표제어: 갯고랑
     품사: 명사
     항목ID: 22528
-processed:
+result:
   맞춤법 검사:
     표제어: 갯고랑
     품사: 명사
 ---
 000_KEYWORD: 갯골__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21044
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14635,13 +14635,13 @@ imported:
     표제어: 갯골
     품사: 명사
     항목ID: 21044
-processed:
+result:
   맞춤법 검사:
     표제어: 갯골
     품사: 명사
 ---
 000_KEYWORD: 갯마을__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21049
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14676,13 +14676,13 @@ imported:
     표제어: 갯마을
     품사: 명사
     항목ID: 21049
-processed:
+result:
   맞춤법 검사:
     표제어: 갯마을
     품사: 명사
 ---
 000_KEYWORD: 갯물__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21052
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14707,13 +14707,13 @@ imported:
     표제어: 갯물
     품사: 명사
     항목ID: 21052
-processed:
+result:
   맞춤법 검사:
     표제어: 갯물
     품사: 명사
 ---
 000_KEYWORD: 갯바람__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21056
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14742,13 +14742,13 @@ imported:
     표제어: 갯바람
     품사: 명사
     항목ID: 21056
-processed:
+result:
   맞춤법 검사:
     표제어: 갯바람
     품사: 명사
 ---
 000_KEYWORD: 갯바위__명사__001
-imported:
+import:
   갈퀴 Django:
     가져온 시각: '2017-10-20T21:46:15.309170+09:00'
     기여자:
@@ -14758,13 +14758,13 @@ imported:
     표제어: 갯바위
     품사: 명사:보통:비서술성
     항목ID: 997
-processed:
+result:
   맞춤법 검사:
     표제어: 갯바위
     품사: 명사
 ---
 000_KEYWORD: 갯버들__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21062
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14793,13 +14793,13 @@ imported:
     표제어: 갯버들
     품사: 명사
     항목ID: 21062
-processed:
+result:
   맞춤법 검사:
     표제어: 갯버들
     품사: 명사
 ---
 000_KEYWORD: 갯벌__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21069
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14844,13 +14844,13 @@ imported:
     표제어: 갯벌
     품사: 명사
     항목ID: 21069
-processed:
+result:
   맞춤법 검사:
     표제어: 갯벌
     품사: 명사
 ---
 000_KEYWORD: 갱__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21075
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14882,13 +14882,13 @@ imported:
     표제어: 갱
     품사: 명사
     항목ID: 21075
-processed:
+result:
   맞춤법 검사:
     표제어: 갱
     품사: 명사
 ---
 000_KEYWORD: 갱__명사__002
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21077
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14916,13 +14916,13 @@ imported:
     표제어: 갱
     품사: 명사
     항목ID: 21077
-processed:
+result:
   맞춤법 검사:
     표제어: 갱
     품사: 명사
 ---
 000_KEYWORD: 갱년기__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21079
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14950,13 +14950,13 @@ imported:
     표제어: 갱년기
     품사: 명사
     항목ID: 21079
-processed:
+result:
   맞춤법 검사:
     표제어: 갱년기
     품사: 명사
 ---
 000_KEYWORD: 갱단__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93518
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -14982,13 +14982,13 @@ imported:
     표제어: 갱단
     품사: 명사
     항목ID: 93518
-processed:
+result:
   맞춤법 검사:
     표제어: 갱단
     품사: 명사
 ---
 000_KEYWORD: 갱도__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21082
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -15021,13 +15021,13 @@ imported:
     표제어: 갱도
     품사: 명사
     항목ID: 21082
-processed:
+result:
   맞춤법 검사:
     표제어: 갱도
     품사: 명사
 ---
 000_KEYWORD: 갱생__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21084
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -15076,13 +15076,13 @@ imported:
     표제어: 갱생
     품사: 명사
     항목ID: 21084
-processed:
+result:
   맞춤법 검사:
     표제어: 갱생
     품사: 명사
 ---
 000_KEYWORD: 갱생하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21088
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -15135,13 +15135,13 @@ imported:
     표제어: 갱생하다
     품사: 동사
     항목ID: 21088
-processed:
+result:
   맞춤법 검사:
     표제어: 갱생하다
     품사: 동사
 ---
 000_KEYWORD: 갱신__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21093
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -15199,13 +15199,13 @@ imported:
     표제어: 갱신
     품사: 명사
     항목ID: 21093
-processed:
+result:
   맞춤법 검사:
     표제어: 갱신
     품사: 명사
 ---
 000_KEYWORD: 갱신되다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21103
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -15269,13 +15269,13 @@ imported:
     표제어: 갱신되다
     품사: 동사
     항목ID: 21103
-processed:
+result:
   맞춤법 검사:
     표제어: 갱신되다
     품사: 동사
 ---
 000_KEYWORD: 갱신하다__동사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21108
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -15336,13 +15336,13 @@ imported:
     표제어: 갱신하다
     품사: 동사
     항목ID: 21108
-processed:
+result:
   맞춤법 검사:
     표제어: 갱신하다
     품사: 동사
 ---
 000_KEYWORD: 갱지__명사__001
-imported:
+import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21114
     가져온 시각: '2019-08-13T01:33:33+09:00'
@@ -15373,7 +15373,7 @@ imported:
     표제어: 갱지
     품사: 명사
     항목ID: 21114
-processed:
+result:
   맞춤법 검사:
     표제어: 갱지
     품사: 명사
