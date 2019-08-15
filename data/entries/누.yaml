@@ -163,7 +163,7 @@ import:
     표제어: 누구
     품사: 대명사
     항목ID: 62078
-result:
+import_derived:
   맞춤법 검사:
     표제어: 누구
     품사: 대명사
@@ -171,6 +171,12 @@ manual:
   맞춤법 검사:
     속성:
     - 가산명사
+result:
+  맞춤법 검사:
+    속성:
+    - 가산명사
+    표제어: 누구
+    품사: 대명사
 ---
 000_KEYWORD: 누구누구__대명사__001
 import:
@@ -401,14 +407,22 @@ import:
     - 발음: 누그러짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/45562_nugeureojimnida.wav
       형태: 누그러집니다
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 누그러지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 누그러지다
+    품사: 동사
 ---
 000_KEYWORD: 누그러트리다__동사__001
 import:
@@ -1066,7 +1080,9 @@ import:
     표제어: 누래지다
     품사: 동사
     항목ID: 92188
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 누런색__명사__001
 import:
@@ -5325,7 +5341,7 @@ import:
     표제어: 눈깔
     품사: 명사
     항목ID: 41554
-result:
+import_derived:
   맞춤법 검사:
     표제어: 눈깔
     품사: 명사
@@ -5333,6 +5349,12 @@ manual:
   맞춤법 검사:
     속성:
     - 비속어
+result:
+  맞춤법 검사:
+    속성:
+    - 비속어
+    표제어: 눈깔
+    품사: 명사
 ---
 000_KEYWORD: 눈깔사탕__명사__001
 import:
@@ -5536,7 +5558,9 @@ import:
     표제어: 눈꼽
     품사: 명사
     항목ID: 92189
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 눈꽃__명사__001
 import:
@@ -7545,7 +7569,7 @@ import:
     - 발음: 눈녀겨봄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41626_nunnyeogyeobomnida.wav
       형태: 눈여겨봅니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 눈여겨보다
     품사: 동사
@@ -7553,6 +7577,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 눈여겨보다
+    품사: 동사
 ---
 000_KEYWORD: 눈요기__명사__001
 import:
@@ -8261,7 +8291,6 @@ import:
 result:
   맞춤법 검사:
     속성:
-    - 규칙
     - 용언합성
     표제어: 눌러놓다
     품사: 동사
@@ -8417,7 +8446,9 @@ import:
     표제어: 눌르다
     품사: 동사
     항목ID: 92190
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 눌리다__동사__001
 import:
@@ -8641,7 +8672,7 @@ import:
     - 발음: 누러붇씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/41674_nureobutsseumnida.wav
       형태: 눌어붙습니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 눌어붙다
     품사: 동사
@@ -8649,6 +8680,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 눌어붙다
+    품사: 동사
 ---
 000_KEYWORD: 눌은밥__명사__001
 import:

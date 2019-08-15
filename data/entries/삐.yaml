@@ -975,14 +975,22 @@ import:
     - 발음: 삐뚜러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61983_ppittureojini.wav
       형태: 삐뚤어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 삐뚤어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 삐뚤어지다
+    품사: 동사
 ---
 000_KEYWORD: 삐라__명사__001
 import:
@@ -999,7 +1007,9 @@ import:
     표제어: 삐라
     품사: 명사
     항목ID: 61978
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 삐리__명사__001
 import:
@@ -1239,14 +1249,22 @@ import:
     - 발음: 삐저나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61981_ppijeonaoni.wav
       형태: 삐져나오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 삐져나오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 삐져나오다
+    품사: 동사
 ---
 000_KEYWORD: 삐죽__부사__001
 import:

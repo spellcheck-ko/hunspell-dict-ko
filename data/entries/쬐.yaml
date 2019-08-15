@@ -12,7 +12,9 @@ import:
     표제어: 쬐금
     품사: 명사
     항목ID: 92369
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 쬐금__부사__001
 import:
@@ -28,7 +30,9 @@ import:
     표제어: 쬐금
     품사: 부사
     항목ID: 92370
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 쬐끔__명사__001
 import:
@@ -44,7 +48,9 @@ import:
     표제어: 쬐끔
     품사: 명사
     항목ID: 92367
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 쬐끔__부사__001
 import:
@@ -60,7 +66,9 @@ import:
     표제어: 쬐끔
     품사: 부사
     항목ID: 92368
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 쬐다__동사__001
 import:

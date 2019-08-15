@@ -36,7 +36,8 @@ import:
     품사: 어미
     항목ID: 66346
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -거니__어미__001
 import:
@@ -85,7 +86,8 @@ import:
     품사: 어미
     항목ID: 66489
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -거니와__어미__001
 import:
@@ -131,7 +133,8 @@ import:
     품사: 어미
     항목ID: 66495
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -거든__어미__001
 import:
@@ -193,7 +196,8 @@ import:
     품사: 어미
     항목ID: 66501
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -거들랑__어미__001
 import:
@@ -257,7 +261,8 @@ import:
     품사: 어미
     항목ID: 66511
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -거라__어미__001
 import:
@@ -286,7 +291,8 @@ import:
     품사: 어미
     항목ID: 66953
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -거리__접사__001
 import:
@@ -308,7 +314,8 @@ import:
     품사: 접사
     항목ID: 91775
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -거리__접사__002
 import:
@@ -331,7 +338,8 @@ import:
     품사: 접사
     항목ID: 91776
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -거리다__접사__001
 import:
@@ -358,7 +366,8 @@ import:
     품사: 접사
     항목ID: 92111
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -건__어미__001
 import:
@@ -388,7 +397,8 @@ import:
     품사: 어미
     항목ID: 78515
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -건대__어미__001
 import:
@@ -412,7 +422,8 @@ import:
     품사: 어미
     항목ID: 78410
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -건마는__어미__001
 import:
@@ -441,7 +452,8 @@ import:
     품사: 어미
     항목ID: 66935
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -건만__어미__001
 import:
@@ -469,7 +481,8 @@ import:
     품사: 어미
     항목ID: 66934
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -걸랑__어미__001
 import:
@@ -521,7 +534,8 @@ import:
     품사: 어미
     항목ID: 66936
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -것다__어미__001
 import:
@@ -552,7 +566,8 @@ import:
     품사: 어미
     항목ID: 79269
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 거__대명사__001
 import:
@@ -1322,14 +1337,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/26356_geokkureojeo.wav
       형태: 거꾸러져
     - 형태: 거꾸러지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 거꾸러지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 거꾸러지다
+    품사: 동사
 ---
 000_KEYWORD: 거꾸러트리다__동사__001
 import:
@@ -1477,7 +1500,8 @@ import:
     품사: 조사
     항목ID: 66462
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 거나하다__형용사__001
 import:
@@ -2271,7 +2295,7 @@ import:
     - 발음: 거두어드리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/26415_geodueodeurini.wav
       형태: 거두어들이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 거두어들이다
     품사: 동사
@@ -2279,6 +2303,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 거두어들이다
+    품사: 동사
 ---
 000_KEYWORD: 거두절미__명사__001
 import:
@@ -2553,7 +2583,7 @@ import:
     - 발음: 거둬드리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/26476_geodwodeurini.wav
       형태: 거둬들이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 거둬들이다
     품사: 동사
@@ -2561,6 +2591,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 거둬들이다
+    품사: 동사
 ---
 000_KEYWORD: 거드럭거드럭__부사__001
 import:
@@ -2862,7 +2898,7 @@ import:
     - 발음: 거들떠봄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/geodeultteoboda.wav
       형태: 거들떠봅니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 거들떠보다
     품사: 동사
@@ -2870,6 +2906,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 거들떠보다
+    품사: 동사
 ---
 000_KEYWORD: 거들뜨다__동사__001
 import:
@@ -2879,14 +2921,15 @@ import:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - 으불규칙
     표제어: 거들뜨다
     품사: 동사
     항목ID: 1031
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - 으불규칙
     표제어: 거들뜨다
     품사: 동사
 ---
@@ -4767,8 +4810,6 @@ import:
       형태: 거머잡는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 거머잡다
     품사: 동사
 ---
@@ -5408,7 +5449,9 @@ import:
     표제어: 거무틱틱하다
     품사: 형용사
     항목ID: 92159
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 거문고__명사__001
 import:
@@ -11058,7 +11101,8 @@ import:
     품사: 접사
     항목ID: 92112
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 건__의존_명사__001
 import:
@@ -11806,14 +11850,22 @@ import:
     - 발음: 건ː너가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/60092_geon-neogageora.wav
       형태: 건너가거라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 건너가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 건너가다
+    품사: 동사
 ---
 000_KEYWORD: 건너다__동사__001
 import:
@@ -12094,7 +12146,7 @@ import:
     - 발음: 건ː너뛰니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/21838_geon-neottwini.wav
       형태: 건너뛰니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 건너뛰다
     품사: 동사
@@ -12102,6 +12154,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 건너뛰다
+    품사: 동사
 ---
 000_KEYWORD: 건너보다__동사__001
 import:
@@ -12213,14 +12271,22 @@ import:
     - 발음: 건ː너오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/54905_geon-neooneora.wav
       형태: 건너오너라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 건너오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 건너오다
+    품사: 동사
 ---
 000_KEYWORD: 건너지르다__동사__001
 import:
@@ -12681,8 +12747,6 @@ import:
       형태: 건네받는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 건네받다
     품사: 동사
 ---
@@ -12731,7 +12795,7 @@ import:
     - 발음: 건ː네주니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/15884_geon-nejuni.wav
       형태: 건네주니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 건네주다
     품사: 동사
@@ -12739,6 +12803,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 건네주다
+    품사: 동사
 ---
 000_KEYWORD: 건달__명사__001
 import:
@@ -16739,8 +16809,6 @@ import:
       형태: 걷는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 걷다
     품사: 동사
 ---
@@ -16910,8 +16978,6 @@ import:
       형태: 걷는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 걷다
     품사: 동사
 ---
@@ -16991,8 +17057,6 @@ import:
       형태: 걷는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 걷다
     품사: 동사
 ---
@@ -17038,7 +17102,7 @@ import:
     - 발음: 거더부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/25370_geodeobuchini.wav
       형태: 걷어붙이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 걷어붙이다
     품사: 동사
@@ -17046,6 +17110,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 걷어붙이다
+    품사: 동사
 ---
 000_KEYWORD: 걷어차다__동사__001
 import:
@@ -17102,7 +17172,7 @@ import:
     - 발음: 거더차니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/25378_geodeochani.wav
       형태: 걷어차니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 걷어차다
     품사: 동사
@@ -17110,6 +17180,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 걷어차다
+    품사: 동사
 ---
 000_KEYWORD: 걷어채다__동사__001
 import:
@@ -17290,8 +17366,6 @@ import:
       형태: 걷잡는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 걷잡다
     품사: 동사
 ---
@@ -18218,7 +18292,7 @@ import:
     - 발음: 걸려듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/25495_geollyeodeumnida.wav
       형태: 걸려듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 걸려들다
     품사: 동사
@@ -18226,6 +18300,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 걸려들다
+    품사: 동사
 ---
 000_KEYWORD: 걸리다__동사__001
 import:
@@ -19118,14 +19198,22 @@ import:
     - 발음: 거러가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/32042_georeogageora.wav
       형태: 걸어가거라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 걸어가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 걸어가다
+    품사: 동사
 ---
 000_KEYWORD: 걸어오다__동사__001
 import:
@@ -19218,14 +19306,22 @@ import:
     - 발음: 거러오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/25551_georeooneora.wav
       형태: 걸어오너라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 걸어오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 걸어오다
+    품사: 동사
 ---
 000_KEYWORD: 걸어오다__동사__002
 import:
@@ -19263,14 +19359,22 @@ import:
     - 발음: 거러오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/25551_georeooni.wav
       형태: 걸어오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 걸어오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 걸어오다
+    품사: 동사
 ---
 000_KEYWORD: 걸음__명사__001
 import:
@@ -19669,7 +19773,9 @@ import:
     표제어: 걸직하다
     품사: 형용사
     항목ID: 92160
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 걸쭉하다__형용사__001
 import:
@@ -20003,7 +20109,7 @@ import:
     - 발음: 걸ː터안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/18000/31511_geor-teoanjji.wav
       형태: 걸터앉지
-result:
+import_derived:
   맞춤법 검사:
     표제어: 걸터앉다
     품사: 동사
@@ -20011,6 +20117,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 걸터앉다
+    품사: 동사
 ---
 000_KEYWORD: 걸터타다__동사__001
 import:
@@ -24542,7 +24654,8 @@ import:
     품사: 접사
     항목ID: 92113
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 겉__명사__001
 import:
@@ -25287,8 +25400,6 @@ import:
       형태: 겉잡습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 겉잡다
     품사: 동사
 ---

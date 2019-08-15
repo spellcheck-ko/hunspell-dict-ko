@@ -33,7 +33,8 @@ import:
     품사: 접사
     항목ID: 88503
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 휘__부사__001
 import:
@@ -1055,7 +1056,9 @@ import:
     표제어: 휘둥그래지다
     품사: 동사
     항목ID: 92306
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 휘둥그렇다__형용사__001
 import:
@@ -1144,14 +1147,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/87782_hwidunggeurejeo.wav
       형태: 휘둥그레져
     - 형태: 휘둥그레지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 휘둥그레지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 휘둥그레지다
+    품사: 동사
 ---
 000_KEYWORD: 휘둥글다__형용사__001
 import:
@@ -1506,14 +1517,22 @@ import:
     - 발음: 휘모라치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87790_hwimorachini.wav
       형태: 휘몰아치니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 휘몰아치다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 휘몰아치다
+    품사: 동사
 ---
 000_KEYWORD: 휘발성__명사__001
 import:
@@ -1744,8 +1763,6 @@ import:
       형태: 휘어잡는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 휘어잡다
     품사: 동사
 ---
@@ -1797,14 +1814,22 @@ import:
     - 발음: 휘여지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/87793_hwiyeojini.wav
       형태: 휘어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 휘어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 휘어지다
+    품사: 동사
 ---
 000_KEYWORD: 휘영청__부사__001
 import:
@@ -3710,4 +3735,6 @@ import:
     표제어: 휭하다
     품사: 형용사
     항목ID: 92179
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말

@@ -22,7 +22,8 @@ import:
     품사: 접사
     항목ID: 74910
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 따갑다__형용사__001
 import:
@@ -1524,7 +1525,8 @@ import:
     품사: 조사
     항목ID: 70311
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 따라가다__동사__001
 import:
@@ -1602,14 +1604,22 @@ import:
     - 형태: 따라가
     - 형태: 따라가니
     - 형태: 따라가거라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 따라가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 따라가다
+    품사: 동사
 ---
 000_KEYWORD: 따라나서다__동사__001
 import:
@@ -1701,7 +1711,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15072_ttaradaniyeo.wav
       형태: 따라다니어
     - 형태: 따라다니니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 따라다니다
     품사: 동사
@@ -1709,6 +1719,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 따라다니다
+    품사: 동사
 ---
 000_KEYWORD: 따라붙다__동사__001
 import:
@@ -1764,7 +1780,7 @@ import:
     - 발음: 따라분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49666_ttarabunneun.wav
       형태: 따라붙는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 따라붙다
     품사: 동사
@@ -1772,6 +1788,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 따라붙다
+    품사: 동사
 ---
 000_KEYWORD: 따라서__부사__001
 import:
@@ -1945,14 +1967,22 @@ import:
     - 형태: 따라와
     - 형태: 따라오니
     - 형태: 따라오너라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 따라오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 따라오다
+    품사: 동사
 ---
 000_KEYWORD: 따라잡다__동사__001
 import:
@@ -1993,16 +2023,20 @@ import:
     - 발음: 따라잠는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49668_ttarajamneun.wav
       형태: 따라잡는
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 따라잡다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 따라잡다
+    품사: 동사
 ---
 000_KEYWORD: 따라잡히다__동사__001
 import:
@@ -2046,7 +2080,7 @@ import:
     - 발음: 따라자피니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/90921_ttarajapini.wav
       형태: 따라잡히니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 따라잡히다
     품사: 동사
@@ -2054,6 +2088,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 따라잡히다
+    품사: 동사
 ---
 000_KEYWORD: 따라지__명사__001
 import:
@@ -2227,7 +2267,9 @@ import:
     표제어: 따로이
     품사: 부사
     항목ID: 92215
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 따르다__동사__001
 import:
@@ -2409,16 +2451,20 @@ import:
     활용:
     - 형태: 따라
     - 형태: 따르니
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 따르다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 으불규칙
+result:
+  맞춤법 검사:
+    속성:
+    - 으불규칙
+    표제어: 따르다
+    품사: 동사
 ---
 000_KEYWORD: 따르다__동사__002
 import:
@@ -2459,8 +2505,6 @@ import:
     - 형태: 따르니
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 따르다
     품사: 동사
 ---
@@ -2651,7 +2695,7 @@ import:
     - 발음: 따멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/49676_ttameongneun.wav
       형태: 따먹는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 따먹다
     품사: 동사
@@ -2659,6 +2703,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 따먹다
+    품사: 동사
 ---
 000_KEYWORD: 따발총__명사__001
 import:
@@ -7360,7 +7410,5 @@ import:
       형태: 땋습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 땋다
     품사: 동사

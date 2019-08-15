@@ -716,7 +716,8 @@ import:
     품사: 조사
     항목ID: 69715
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 깨나다__동사__001
 import:
@@ -1396,7 +1397,7 @@ import:
     - 발음: 깨ː부수니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38538_kkae-busuni.wav
       형태: 깨부수니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 깨부수다
     품사: 동사
@@ -1404,6 +1405,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 깨부수다
+    품사: 동사
 ---
 000_KEYWORD: 깨소금__명사__001
 import:
@@ -1562,7 +1569,7 @@ import:
     활용:
     - 형태: 깨어나
     - 형태: 깨어나니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 깨어나다
     품사: 동사
@@ -1570,6 +1577,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 깨어나다
+    품사: 동사
 ---
 000_KEYWORD: 깨어지다__동사__001
 import:
@@ -1699,14 +1712,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/32569_kkaeeojeo.wav
       형태: 깨어져
     - 형태: 깨어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 깨어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 깨어지다
+    품사: 동사
 ---
 000_KEYWORD: 깨우다__동사__001
 import:
@@ -2108,7 +2129,7 @@ import:
     - 발음: 깨ː지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/85871_kkae-jini.wav
       형태: 깨지니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 깨지다
     품사: 동사
@@ -2116,6 +2137,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 깨지다
+    품사: 동사
 ---
 000_KEYWORD: 깨치다__동사__001
 import:

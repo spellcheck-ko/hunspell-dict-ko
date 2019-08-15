@@ -25,7 +25,8 @@ import:
     품사: 어미
     항목ID: 86107
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -오__어미__001
 import:
@@ -54,7 +55,8 @@ import:
     품사: 어미
     항목ID: 86112
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -옥__접사__001
 import:
@@ -77,7 +79,8 @@ import:
     품사: 접사
     항목ID: 72330
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -옵-__어미__001
 import:
@@ -105,7 +108,8 @@ import:
     품사: 어미
     항목ID: 86109
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -옹__접사__001
 import:
@@ -127,7 +131,8 @@ import:
     품사: 접사
     항목ID: 91778
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 오__감탄사__001
 import:
@@ -296,7 +301,7 @@ import:
     - 발음: 오:만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68168_o-man.wav
       형태: 오만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 오
     품사: 수사
@@ -304,6 +309,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:1
+result:
+  맞춤법 검사:
+    속성:
+    - 수:1
+    표제어: 오
+    품사: 수사
 ---
 000_KEYWORD: 오가다__동사__001
 import:
@@ -405,7 +416,7 @@ import:
     활용:
     - 형태: 오가
     - 형태: 오가니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 오가다
     품사: 동사
@@ -413,6 +424,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 오가다
+    품사: 동사
 ---
 000_KEYWORD: 오각형__명사__001
 import:
@@ -786,7 +803,7 @@ import:
     - 발음: 오그라듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68200_ogeuradeumnida.wav
       형태: 오그라듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 오그라들다
     품사: 동사
@@ -794,6 +811,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 오그라들다
+    품사: 동사
 ---
 000_KEYWORD: 오그라뜨리다__동사__001
 import:
@@ -2211,7 +2234,9 @@ import:
     표제어: 오뎅
     품사: 명사
     항목ID: 70159
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 오도__명사__001
 import:
@@ -2979,7 +3004,9 @@ import:
     표제어: 오똑
     품사: 부사
     항목ID: 92301
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 오똑이__명사__001
 import:
@@ -2995,7 +3022,9 @@ import:
     표제어: 오똑이
     품사: 명사
     항목ID: 92302
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 오뚜기__명사__001
 import:
@@ -3011,7 +3040,9 @@ import:
     표제어: 오뚜기
     품사: 명사
     항목ID: 92304
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 오뚝__부사__001
 import:
@@ -4558,7 +4589,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/21852_oreunaeriyeo.wav
       형태: 오르내리어
     - 형태: 오르내리니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 오르내리다
     품사: 동사
@@ -4566,6 +4597,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 오르내리다
+    품사: 동사
 ---
 000_KEYWORD: 오르다__동사__001
 import:
@@ -6588,7 +6625,9 @@ import:
     표제어: 오무리다
     품사: 동사
     항목ID: 92305
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 오물__명사__001
 import:
@@ -7126,7 +7165,7 @@ import:
     - 발음: 오므라듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/68181_omeuradeumnida.wav
       형태: 오므라듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 오므라들다
     품사: 동사
@@ -7134,6 +7173,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 오므라들다
+    품사: 동사
 ---
 000_KEYWORD: 오므라이스__명사__001
 import:
@@ -8707,7 +8752,7 @@ import:
     - 발음: 오ː심만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/o-simman.wav
       형태: 오십만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 오십
     품사: 수사
@@ -8715,6 +8760,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:10
+result:
+  맞춤법 검사:
+    속성:
+    - 수:10
+    표제어: 오십
+    품사: 수사
 ---
 000_KEYWORD: 오십견__명사__001
 import:
@@ -15524,7 +15575,8 @@ import:
     품사: 접사
     항목ID: 72519
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 올__관형사__001
 import:
@@ -15741,8 +15793,6 @@ import:
       형태: 올곧습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 올곧다
     품사: 형용사
 ---
@@ -16041,14 +16091,22 @@ import:
     - 형태: 올라가
     - 형태: 올라가니
     - 형태: 올라가거라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 올라가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 올라가다
+    품사: 동사
 ---
 000_KEYWORD: 올라붙다__동사__001
 import:
@@ -16166,7 +16224,7 @@ import:
     활용:
     - 형태: 올라서
     - 형태: 올라서니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 올라서다
     품사: 동사
@@ -16174,6 +16232,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 올라서다
+    품사: 동사
 ---
 000_KEYWORD: 올라앉다__동사__001
 import:
@@ -16251,7 +16315,7 @@ import:
     - 발음: 올라안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68014_ollaanjji.wav
       형태: 올라앉지
-result:
+import_derived:
   맞춤법 검사:
     표제어: 올라앉다
     품사: 동사
@@ -16259,6 +16323,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 올라앉다
+    품사: 동사
 ---
 000_KEYWORD: 올라오다__동사__001
 import:
@@ -16450,14 +16520,22 @@ import:
     - 형태: 올라와
     - 형태: 올라오니
     - 형태: 올라오너라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 올라오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 올라오다
+    품사: 동사
 ---
 000_KEYWORD: 올라타다__동사__001
 import:
@@ -16505,7 +16583,7 @@ import:
     활용:
     - 형태: 올라타
     - 형태: 올라타니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 올라타다
     품사: 동사
@@ -16513,6 +16591,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 올라타다
+    품사: 동사
 ---
 000_KEYWORD: 올려놓다__동사__001
 import:
@@ -16640,16 +16724,20 @@ import:
     - 발음: 올려노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/62353_ollyeonosseumnida.wav
       형태: 올려놓습니다
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 올려놓다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 올려놓다
+    품사: 동사
 ---
 000_KEYWORD: 올려다보다__동사__001
 import:
@@ -16703,7 +16791,7 @@ import:
     활용:
     - 형태: 올려다보아
     - 형태: 올려다보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 올려다보다
     품사: 동사
@@ -16711,6 +16799,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 올려다보다
+    품사: 동사
 ---
 000_KEYWORD: 올려붙이다__동사__001
 import:
@@ -18205,7 +18299,7 @@ import:
     - 발음: 올가매니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/68386_olgamaeni.wav
       형태: 옭아매니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 옭아매다
     품사: 동사
@@ -18213,6 +18307,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 옭아매다
+    품사: 동사
 ---
 000_KEYWORD: 옮기다__동사__001
 import:
@@ -18884,7 +18984,9 @@ import:
     표제어: 옴싹달싹
     품사: 부사
     항목ID: 92351
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 옴짝달싹__부사__001
 import:
@@ -18969,8 +19071,7 @@ import:
     항목ID: 92352
 result:
   맞춤법 검사:
-    표제어: 옴쭉달싹
-    품사: 부사
+    제외: 틀린 말
 ---
 000_KEYWORD: 옴츠리다__동사__001
 import:
@@ -21140,14 +21241,15 @@ import:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - 르불규칙
     표제어: 옻오르다
     품사: 동사
     항목ID: 19502
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - 르불규칙
     표제어: 옻오르다
     품사: 동사
 ---

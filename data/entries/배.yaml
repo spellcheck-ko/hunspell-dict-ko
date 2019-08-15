@@ -21,7 +21,8 @@ import:
     품사: 접사
     항목ID: 74950
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -배기__접사__001
 import:
@@ -63,7 +64,8 @@ import:
     품사: 접사
     항목ID: 74951
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -백__접사__001
 import:
@@ -85,7 +87,8 @@ import:
     품사: 접사
     항목ID: 74953
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -뱅이__접사__001
 import:
@@ -109,7 +112,8 @@ import:
     품사: 접사
     항목ID: 74954
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 배__명사__001
 import:
@@ -829,7 +833,7 @@ import:
       형태: 배고프니
     - 발음: 배고픔니다
       형태: 배고픕니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 배고프다
     품사: 형용사
@@ -837,6 +841,12 @@ manual:
   맞춤법 검사:
     속성:
     - 으불규칙
+result:
+  맞춤법 검사:
+    속성:
+    - 으불규칙
+    표제어: 배고프다
+    품사: 형용사
 ---
 000_KEYWORD: 배고픔__명사__001
 import:
@@ -5431,7 +5441,7 @@ import:
     - 발음: 배어듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/59179_baeeodeumnida.wav
       형태: 배어듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 배어들다
     품사: 동사
@@ -5439,6 +5449,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 배어들다
+    품사: 동사
 ---
 000_KEYWORD: 배역__명사__001
 import:
@@ -6055,7 +6071,9 @@ import:
     표제어: 배이다
     품사: 동사
     항목ID: 92238
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 배임__명사__001
 import:
@@ -8498,7 +8516,8 @@ import:
     품사: 접사
     항목ID: 74952
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 백__관형사__001
 import:
@@ -8605,7 +8624,7 @@ import:
     - 발음: 뱅만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/34000/36018_baengman.wav
       형태: 백만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 백
     품사: 수사
@@ -8613,6 +8632,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:100
+result:
+  맞춤법 검사:
+    속성:
+    - 수:100
+    표제어: 백
+    품사: 수사
 ---
 000_KEYWORD: 백골__명사__001
 import:

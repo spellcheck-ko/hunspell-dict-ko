@@ -29,7 +29,8 @@ import:
     품사: 접사
     항목ID: 70313
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -내기__접사__001
 import:
@@ -60,7 +61,8 @@ import:
     품사: 접사
     항목ID: 73348
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 내-__접사__001
 import:
@@ -85,7 +87,8 @@ import:
     품사: 접사
     항목ID: 70319
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 내__대명사__001
 import:
@@ -1480,8 +1483,6 @@ import:
       형태: 내놓습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 내놓다
     품사: 동사
 ---
@@ -2194,7 +2195,7 @@ import:
     - 발음: 내ː다보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/28419_nae-daboni.wav
       형태: 내다보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내다보다
     품사: 동사
@@ -2202,6 +2203,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내다보다
+    품사: 동사
 ---
 000_KEYWORD: 내다보이다__동사__001
 import:
@@ -2697,7 +2704,7 @@ import:
     - 발음: 내ː두르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41855_nae-dureuni.wav
       형태: 내두르니
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -2707,6 +2714,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내두르다
+    품사: 동사
 ---
 000_KEYWORD: 내드리다__동사__001
 import:
@@ -2894,7 +2907,7 @@ import:
     - 발음: 내ː딘는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41863_nae-dinneun.wav
       형태: 내딛는
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - ㄷ불규칙 미확정
@@ -2905,6 +2918,13 @@ manual:
     속성:
     - 규칙
     - 준말용언
+result:
+  맞춤법 검사:
+    속성:
+    - 규칙
+    - 준말용언
+    표제어: 내딛다
+    품사: 동사
 ---
 000_KEYWORD: 내뛰다__동사__001
 import:
@@ -3259,7 +3279,7 @@ import:
     - 형태: 내려가
     - 형태: 내려가니
     - 형태: 내려가거라
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내려가다
     품사: 동사
@@ -3267,6 +3287,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내려가다
+    품사: 동사
 ---
 000_KEYWORD: 내려놓다__동사__001
 import:
@@ -3346,16 +3372,20 @@ import:
     - 발음: 내려노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/59468_naeryeonosseumnida.wav
       형태: 내려놓습니다
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 내려놓다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내려놓다
+    품사: 동사
 ---
 000_KEYWORD: 내려다보다__동사__001
 import:
@@ -3414,7 +3444,7 @@ import:
     활용:
     - 형태: 내려다보아
     - 형태: 내려다보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내려다보다
     품사: 동사
@@ -3422,6 +3452,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내려다보다
+    품사: 동사
 ---
 000_KEYWORD: 내려다보이다__동사__001
 import:
@@ -3551,14 +3587,15 @@ import:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - 용언합성
     표제어: 내려받다
     품사: 동사
     항목ID: 5115
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - 용언합성
     표제어: 내려받다
     품사: 동사
 ---
@@ -3605,7 +3642,7 @@ import:
     활용:
     - 형태: 내려보내어
     - 형태: 내려보내니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내려보내다
     품사: 동사
@@ -3613,6 +3650,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내려보내다
+    품사: 동사
 ---
 000_KEYWORD: 내려서다__동사__001
 import:
@@ -3723,7 +3766,7 @@ import:
     활용:
     - 형태: 내려써
     - 형태: 내려쓰니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내려쓰다
     품사: 동사
@@ -3732,6 +3775,13 @@ manual:
     속성:
     - 용언합성
     - 으불규칙
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    - 으불규칙
+    표제어: 내려쓰다
+    품사: 동사
 ---
 000_KEYWORD: 내려앉다__동사__001
 import:
@@ -3835,7 +3885,7 @@ import:
     - 발음: 내려안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/41884_naeryeoanjji.wav
       형태: 내려앉지
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내려앉다
     품사: 동사
@@ -3843,6 +3893,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내려앉다
+    품사: 동사
 ---
 000_KEYWORD: 내려오다__동사__001
 import:
@@ -3996,7 +4052,7 @@ import:
     - 형태: 내려와
     - 형태: 내려오니
     - 형태: 내려오너라
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내려오다
     품사: 동사
@@ -4004,6 +4060,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내려오다
+    품사: 동사
 ---
 000_KEYWORD: 내려지다__동사__001
 import:
@@ -4084,7 +4146,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/28424_naeryeojeo.wav
       형태: 내려져
     - 형태: 내려지니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내려지다
     품사: 동사
@@ -4092,6 +4154,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내려지다
+    품사: 동사
 ---
 000_KEYWORD: 내려찍다__동사__001
 import:
@@ -4199,7 +4267,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/39515_naericheo.wav
       형태: 내리쳐
     - 형태: 내려치니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내려치다
     품사: 동사
@@ -4207,6 +4275,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내려치다
+    품사: 동사
 ---
 000_KEYWORD: 내려트리다__동사__001
 import:
@@ -8072,8 +8146,6 @@ import:
       형태: 내뻗는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 내뻗다
     품사: 동사
 ---
@@ -8188,8 +8260,6 @@ import:
       형태: 내뽑는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 내뽑다
     품사: 동사
 ---
@@ -8884,8 +8954,6 @@ import:
       형태: 내솟는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 내솟다
     품사: 동사
 ---
@@ -9525,8 +9593,6 @@ import:
       형태: 내쏟는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 내쏟다
     품사: 동사
 ---
@@ -9771,7 +9837,6 @@ import:
 result:
   맞춤법 검사:
     속성:
-    - 규칙
     - 용언합성
     표제어: 내어놓다
     품사: 동사
@@ -12143,7 +12208,7 @@ import:
     - 발음: 내ː주니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/28550_nae-juni.wav
       형태: 내주니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 내주다
     품사: 동사
@@ -12151,6 +12216,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 내주다
+    품사: 동사
 ---
 000_KEYWORD: 내지__명사__001
 import:
@@ -14359,7 +14430,8 @@ import:
     품사: 접사
     항목ID: 88845
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 냉__명사__001
 import:

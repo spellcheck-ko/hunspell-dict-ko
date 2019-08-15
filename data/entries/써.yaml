@@ -163,7 +163,7 @@ import:
     - 발음: 써멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66621_sseomeongneun.wav
       형태: 써먹는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 써먹다
     품사: 동사
@@ -171,6 +171,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 써먹다
+    품사: 동사
 ---
 000_KEYWORD: 썩__부사__001
 import:

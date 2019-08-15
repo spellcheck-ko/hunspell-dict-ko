@@ -46,7 +46,8 @@ import:
     품사: 어미
     항목ID: 80176
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -나__어미__002
 import:
@@ -88,7 +89,8 @@ import:
     품사: 어미
     항목ID: 76116
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -나다__접사__001
 import:
@@ -109,7 +111,8 @@ import:
     품사: 접사
     항목ID: 92149
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -나마__어미__001
 import:
@@ -139,7 +142,8 @@ import:
     품사: 어미
     항목ID: 80167
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -난__접사__001
 import:
@@ -173,7 +177,8 @@ import:
     품사: 접사
     항목ID: 73344
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -남__어미__001
 import:
@@ -212,7 +217,8 @@ import:
     품사: 어미
     항목ID: 73891
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -남__접사__001
 import:
@@ -240,7 +246,8 @@ import:
     품사: 접사
     항목ID: 91482
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -낭__접사__001
 import:
@@ -264,7 +271,8 @@ import:
     품사: 접사
     항목ID: 92148
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 나__대명사__001
 import:
@@ -450,7 +458,8 @@ import:
     품사: 조사
     항목ID: 89218
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 나가다__동사__001
 import:
@@ -915,14 +924,22 @@ import:
     - 발음: 나가떠러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39312_nagatteoreojini.wav
       형태: 나가떨어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 나가떨어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 나가떨어지다
+    품사: 동사
 ---
 000_KEYWORD: 나고야__명사__001
 import:
@@ -2449,7 +2466,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/39358_nadaniyeo.wav
       형태: 나다니어
     - 형태: 나다니니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 나다니다
     품사: 동사
@@ -2457,6 +2474,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 나다니다
+    품사: 동사
 ---
 000_KEYWORD: 나달나달__부사__001
 import:
@@ -3864,7 +3887,8 @@ import:
     품사: 조사
     항목ID: 70309
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 나막신__명사__001
 import:
@@ -6101,7 +6125,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/59497_nappajeo.wav
       형태: 나빠져
     - 형태: 나빠지니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 나빠지다
     품사: 동사
@@ -6109,6 +6133,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 나빠지다
+    품사: 동사
 ---
 000_KEYWORD: 나쁘다__형용사__001
 import:
@@ -6665,14 +6695,22 @@ import:
     활용:
     - 형태: 나아가
     - 형태: 나아가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 나아가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 나아가다
+    품사: 동사
 ---
 000_KEYWORD: 나아지다__동사__001
 import:
@@ -6715,14 +6753,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/16308_naajeo.wav
       형태: 나아져
     - 형태: 나아지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 나아지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 나아지다
+    품사: 동사
 ---
 000_KEYWORD: 나앉다__동사__001
 import:
@@ -6804,7 +6850,7 @@ import:
     - 발음: 나안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38888_naanjji.wav
       형태: 나앉지
-result:
+import_derived:
   맞춤법 검사:
     표제어: 나앉다
     품사: 동사
@@ -6812,6 +6858,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 나앉다
+    품사: 동사
 ---
 000_KEYWORD: 나약하다__형용사__001
 import:
@@ -7583,7 +7635,9 @@ import:
     표제어: 나으리
     품사: 명사
     항목ID: 92170
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 나이__명사__001
 import:
@@ -8218,8 +8272,6 @@ import:
     - 형태: 나자빠지니
 result:
   맞춤법 검사:
-    속성:
-    - 용언합성
     표제어: 나자빠지다
     품사: 동사
 ---
@@ -8372,7 +8424,9 @@ import:
     표제어: 나즈막하다
     품사: 형용사
     항목ID: 92171
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 나지막이__부사__001
 import:
@@ -14033,7 +14087,8 @@ import:
     품사: 접사
     항목ID: 73343
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 난__명사__001
 import:
@@ -17812,7 +17867,8 @@ import:
     품사: 접사
     항목ID: 73345
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 날__명사__001
 import:
@@ -19860,14 +19916,22 @@ import:
     - 발음: 나라가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/58275_naragani.wav
       형태: 날아가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 날아가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 날아가다
+    품사: 동사
 ---
 000_KEYWORD: 날아다니다__동사__001
 import:
@@ -19986,7 +20050,7 @@ import:
     - 발음: 나라듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40855_naradeumnida.wav
       형태: 날아듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 날아들다
     품사: 동사
@@ -19994,6 +20058,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 날아들다
+    품사: 동사
 ---
 000_KEYWORD: 날아오다__동사__001
 import:
@@ -20066,14 +20136,22 @@ import:
     - 발음: 나라오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/59494_naraoni.wav
       형태: 날아오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 날아오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 날아오다
+    품사: 동사
 ---
 000_KEYWORD: 날아오르다__동사__001
 import:
@@ -20112,7 +20190,7 @@ import:
     - 발음: 나라오르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/40857_naraoreuni.wav
       형태: 날아오르니
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -20122,6 +20200,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 날아오르다
+    품사: 동사
 ---
 000_KEYWORD: 날인__명사__001
 import:
@@ -20918,7 +21002,8 @@ import:
     품사: 접사
     항목ID: 73346
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 남__명사__001
 import:
@@ -23323,7 +23408,9 @@ import:
     표제어: 남비
     품사: 명사
     항목ID: 92172
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 남빛__명사__001
 import:
@@ -23878,14 +23965,15 @@ import:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - ㅂ불규칙
     표제어: 남성스럽다
     품사: 형용사
     항목ID: 4989
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - ㅂ불규칙
     표제어: 남성스럽다
     품사: 형용사
 ---
@@ -24211,7 +24299,7 @@ import:
     - 발음: 나마돔니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/37337_namadomnida.wav
       형태: 남아돕니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 남아돌다
     품사: 동사
@@ -24219,6 +24307,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 남아돌다
+    품사: 동사
 ---
 000_KEYWORD: 남아메리카__명사__001
 import:
@@ -29403,14 +29497,22 @@ import:
     - 발음: 나자짐니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/92521_najajimnida.wav
       형태: 낮아집니다
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 낮아지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 낮아지다
+    품사: 동사
 ---
 000_KEYWORD: 낮은음자리표__명사__001
 import:
@@ -29542,8 +29644,6 @@ import:
       형태: 낮잡는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 낮잡다
     품사: 동사
 ---
@@ -30030,7 +30130,9 @@ import:
     표제어: 낯색
     품사: 명사
     항목ID: 92173
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 낯설다__형용사__001
 import:
@@ -30687,7 +30789,5 @@ import:
       형태: 낳았습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 낳다
     품사: 동사

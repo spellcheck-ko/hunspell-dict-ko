@@ -18,7 +18,8 @@ import:
     품사: 접사
     항목ID: 73342
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 끼__명사__001
 import:
@@ -721,7 +722,7 @@ import:
     - 발음: 끼여듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/28298_kkiyeodeumnida.wav
       형태: 끼어듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 끼어들다
     품사: 동사
@@ -729,6 +730,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끼어들다
+    품사: 동사
 ---
 000_KEYWORD: 끼얹다__동사__001
 import:

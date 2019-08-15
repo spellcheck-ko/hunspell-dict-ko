@@ -261,7 +261,7 @@ import:
     - 발음: 뭔ː만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/67416_mwon-man.wav
       형태: 뭣만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 뭣
     품사: 대명사
@@ -269,6 +269,12 @@ manual:
   맞춤법 검사:
     속성:
     - 가산명사
+result:
+  맞춤법 검사:
+    속성:
+    - 가산명사
+    표제어: 뭣
+    품사: 대명사
 ---
 000_KEYWORD: 뭣하다__동사__001
 import:

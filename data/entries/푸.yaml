@@ -106,7 +106,8 @@ import:
     품사: 접사
     항목ID: 83212
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -풍__접사__001
 import:
@@ -137,7 +138,8 @@ import:
     품사: 접사
     항목ID: 83214
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 푸근하다__형용사__001
 import:
@@ -387,7 +389,7 @@ import:
     활용:
     - 형태: 퍼
     - 형태: 푸니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 푸다
     품사: 동사
@@ -395,6 +397,12 @@ manual:
   맞춤법 검사:
     속성:
     - 우불규칙
+result:
+  맞춤법 검사:
+    속성:
+    - 우불규칙
+    표제어: 푸다
+    품사: 동사
 ---
 000_KEYWORD: 푸닥거리__명사__001
 import:
@@ -3338,7 +3346,7 @@ import:
     활용:
     - 형태: 풀려나
     - 형태: 풀려나니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 풀려나다
     품사: 동사
@@ -3346,6 +3354,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 풀려나다
+    품사: 동사
 ---
 000_KEYWORD: 풀려나오다__동사__001
 import:
@@ -4041,16 +4055,22 @@ import:
     - 발음: 푸러노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83636_pureonosseumnida.wav
       형태: 풀어놓습니다
-result:
+import_derived:
   맞춤법 검사:
     속성:
-    - 규칙
+    - 용언합성
     표제어: 풀어놓다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 풀어놓다
+    품사: 동사
 ---
 000_KEYWORD: 풀어쓰다__동사__001
 import:
@@ -4267,14 +4287,22 @@ import:
     - 발음: 푸러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83639_pureojini.wav
       형태: 풀어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 풀어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 풀어지다
+    품사: 동사
 ---
 000_KEYWORD: 풀어헤치다__동사__001
 import:
@@ -4318,14 +4346,22 @@ import:
     - 발음: 푸러헤치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/83641_pureohechini.wav
       형태: 풀어헤치니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 풀어헤치다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 풀어헤치다
+    품사: 동사
 ---
 000_KEYWORD: 풀이__명사__001
 import:
@@ -6053,7 +6089,8 @@ import:
     품사: 접사
     항목ID: 83213
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 풋__부사__001
 import:
@@ -6232,7 +6269,9 @@ import:
     표제어: 풋나기
     품사: 명사
     항목ID: 92322
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 풋나물__명사__001
 import:
@@ -9075,7 +9114,9 @@ import:
     표제어: 풍지박산
     품사: 명사
     항목ID: 84469
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 풍진__명사__001
 import:

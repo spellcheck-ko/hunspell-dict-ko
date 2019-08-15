@@ -31,7 +31,7 @@ import:
     활용:
     - 형태: 펴내어
     - 형태: 펴내니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 펴내다
     품사: 동사
@@ -39,6 +39,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 펴내다
+    품사: 동사
 ---
 000_KEYWORD: 펴낸이__명사__001
 import:
@@ -88,14 +94,15 @@ import:
     - ryu.changwoo
     - ruseel
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - 용언합성
     표제어: 펴놓다
     품사: 동사
     항목ID: 28810
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - 용언합성
     표제어: 펴놓다
     품사: 동사
 ---
@@ -4096,7 +4103,7 @@ import:
     - 발음: 펼처지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/63509_pyeolcheojini.wav
       형태: 펼쳐지니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 펼쳐지다
     품사: 동사
@@ -4104,6 +4111,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 펼쳐지다
+    품사: 동사
 ---
 000_KEYWORD: 펼치다__동사__001
 import:

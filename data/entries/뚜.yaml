@@ -1779,14 +1779,22 @@ import:
     - 발음: 뚜러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54169_ttureojini.wav
       형태: 뚫어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 뚫어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뚫어지다
+    품사: 동사
 ---
 000_KEYWORD: 뚱기다__동사__001
 import:

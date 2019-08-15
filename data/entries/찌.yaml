@@ -22,7 +22,8 @@ import:
     품사: 접사
     항목ID: 88692
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 찌__명사__001
 import:
@@ -247,14 +248,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78971_jjigeureojeo.wav
       형태: 찌그러져
     - 형태: 찌그러지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 찌그러지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 찌그러지다
+    품사: 동사
 ---
 000_KEYWORD: 찌그리다__동사__001
 import:
@@ -4375,7 +4384,7 @@ import:
     - 발음: 찌저발기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80175_jjijeobalgini.wav
       형태: 찢어발기니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 찢어발기다
     품사: 동사
@@ -4383,6 +4392,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 찢어발기다
+    품사: 동사
 ---
 000_KEYWORD: 찢어지다__동사__001
 import:
@@ -4438,14 +4453,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/37225_jjijeojeo.wav
       형태: 찌저져
     - 형태: 찌저지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 찢어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 찢어지다
+    품사: 동사
 ---
 000_KEYWORD: 찧다__동사__001
 import:
@@ -4518,7 +4541,5 @@ import:
       형태: 찧습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 찧다
     품사: 동사

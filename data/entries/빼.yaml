@@ -24,7 +24,8 @@ import:
     품사: 접사
     항목ID: 70679
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 빼곡하다__형용사__001
 import:
@@ -312,7 +313,7 @@ import:
     - 발음: 빼ː내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61757_ppae-naeni.wav
       형태: 빼내니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 빼내다
     품사: 동사
@@ -320,6 +321,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빼내다
+    품사: 동사
 ---
 000_KEYWORD: 빼놓다__동사__001
 import:
@@ -393,16 +400,20 @@ import:
     - 발음: 빼ː노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15647_ppae-nosseumnida.wav
       형태: 빼놓습니다
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 빼놓다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빼놓다
+    품사: 동사
 ---
 000_KEYWORD: 빼다__동사__001
 import:
@@ -886,14 +897,15 @@ import:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - 용언합성
     표제어: 빼먹다
     품사: 명사:보통:서술성
     항목ID: 13122
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - 용언합성
     표제어: 빼먹다
     품사: 명사
 ---
@@ -1276,8 +1288,6 @@ import:
       형태: 빼앗는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 빼앗다
     품사: 동사
 ---
@@ -1320,7 +1330,7 @@ import:
       형태: 빼어나니
     - 발음: 빼어남니다
       형태: 빼어납니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 빼어나다
     품사: 형용사
@@ -1328,6 +1338,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빼어나다
+    품사: 형용사
 ---
 000_KEYWORD: 빽__부사__001
 import:
@@ -1869,8 +1885,6 @@ import:
       형태: 뺏는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 뺏다
     품사: 동사
 ---

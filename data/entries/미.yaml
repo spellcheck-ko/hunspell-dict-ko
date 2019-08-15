@@ -21,7 +21,8 @@ import:
     품사: 접사
     항목ID: 92118
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -민__접사__001
 import:
@@ -60,7 +61,8 @@ import:
     품사: 접사
     항목ID: 74943
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 미-__접사__001
 import:
@@ -86,7 +88,8 @@ import:
     품사: 접사
     항목ID: 92119
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 미__명사__001
 import:
@@ -1275,14 +1278,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/15748_mikkeureojeo.wav
       형태: 미끄러져
     - 형태: 미끄러지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 미끄러지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 미끄러지다
+    품사: 동사
 ---
 000_KEYWORD: 미끄럼__명사__001
 import:
@@ -4966,7 +4977,9 @@ import:
     표제어: 미세스
     품사: 명사
     항목ID: 92233
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 미세조정__명사__001
 import:
@@ -7102,14 +7115,22 @@ import:
     - 발음: 미여터지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/56521_miyeoteojini.wav
       형태: 미어터지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 미어터지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 미어터지다
+    품사: 동사
 ---
 000_KEYWORD: 미역__명사__001
 import:
@@ -7766,7 +7787,7 @@ import:
     활용:
     - 형태: 미워하여
     - 형태: 미워하니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 미워하다
     품사: 동사
@@ -7774,6 +7795,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 미워하다
+    품사: 동사
 ---
 000_KEYWORD: 미음__명사__001
 import:
@@ -7901,7 +7928,9 @@ import:
     표제어: 미이라
     품사: 명사
     항목ID: 92234
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 미인__명사__001
 import:
@@ -10511,7 +10540,8 @@ import:
     품사: 접사
     항목ID: 74942
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 민가__명사__001
 import:
@@ -14284,8 +14314,6 @@ import:
       형태: 믿는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 믿다
     품사: 동사
 ---
@@ -15260,7 +15288,7 @@ import:
     활용:
     - 형태: 밀려와
     - 형태: 밀려오니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 밀려오다
     품사: 동사
@@ -15268,6 +15296,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 밀려오다
+    품사: 동사
 ---
 000_KEYWORD: 밀렵꾼__명사__001
 import:
@@ -16722,7 +16756,7 @@ import:
     - 발음: 미러닥치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/56380_mireodakchini.wav
       형태: 밀어닥치니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 밀어닥치다
     품사: 동사
@@ -16730,6 +16764,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 밀어닥치다
+    품사: 동사
 ---
 000_KEYWORD: 밀어뜨리다__동사__001
 import:
@@ -16833,7 +16873,7 @@ import:
     - 발음: 미러부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/56392_mireobuchini.wav
       형태: 밀어붙이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 밀어붙이다
     품사: 동사
@@ -16841,6 +16881,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 밀어붙이다
+    품사: 동사
 ---
 000_KEYWORD: 밀어젖히다__동사__001
 import:
@@ -17831,8 +17877,6 @@ import:
       형태: 밀쳐놓습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 밀쳐놓다
     품사: 동사
 ---

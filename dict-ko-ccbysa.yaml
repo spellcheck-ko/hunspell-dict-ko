@@ -404,8 +404,6 @@ entries:
 - pos: 부사
   word: 가로
 - pos: 동사
-  props:
-  - 규칙
   word: 가로놓다
 - pos: 동사
   word: 가로놓이다
@@ -632,8 +630,6 @@ entries:
 - pos: 동사
   word: 가불하다
 - pos: 동사
-  props:
-  - 용언합성
   word: 가빠지다
 - pos: 형용사
   word: 가뿐하다
@@ -1701,7 +1697,6 @@ entries:
   word: 갈등하다
 - pos: 동사
   props:
-  - 규칙
   - 용언합성
   word: 갈라놓다
 - pos: 동사
@@ -2651,8 +2646,6 @@ entries:
 - pos: 동사
   word: 강요되다
 - pos: 동사
-  props:
-  - 규칙
   word: 강요받다
 - pos: 동사
   word: 강요하다
@@ -2829,7 +2822,6 @@ entries:
 - pos: 동사
   props:
   - 보조용언:-어
-  - 준말용언
   word: 갖다
 - pos: 명사
   word: 갖바치
@@ -3862,8 +3854,6 @@ entries:
 - pos: 명사
   word: 거머리
 - pos: 동사
-  props:
-  - 규칙
   word: 거머잡다
 - pos: 동사
   word: 거머쥐다
@@ -4246,8 +4236,6 @@ entries:
 - pos: 동사
   word: 건네다
 - pos: 동사
-  props:
-  - 규칙
   word: 건네받다
 - pos: 동사
   props:
@@ -4432,20 +4420,14 @@ entries:
 - pos: 명사
   word: 걷기
 - pos: 동사
-  props:
-  - 규칙
   word: 걷다
 - pos: 동사
   props:
   - ㄷ불규칙
   word: 걷다
 - pos: 동사
-  props:
-  - 규칙
   word: 걷다
 - pos: 동사
-  props:
-  - 규칙
   word: 걷다
 - pos: 동사
   props:
@@ -4460,8 +4442,6 @@ entries:
 - pos: 동사
   word: 걷어치우다
 - pos: 동사
-  props:
-  - 규칙
   word: 걷잡다
 - pos: 동사
   word: 걷히다
@@ -4806,8 +4786,6 @@ entries:
 - pos: 명사
   word: 겉옷
 - pos: 동사
-  props:
-  - 규칙
   word: 겉잡다
 - pos: 명사
   word: 겉장
@@ -8028,8 +8006,6 @@ entries:
 - pos: 부사
   word: 곧
 - pos: 형용사
-  props:
-  - 규칙
   word: 곧다
 - pos: 부사
   word: 곧바로
@@ -8250,16 +8226,12 @@ entries:
 - pos: 명사
   word: 곱
 - pos: 동사
-  props:
-  - 규칙
   word: 곱다
 - pos: 형용사
   props:
   - ㅂ불규칙
   word: 곱다
 - pos: 형용사
-  props:
-  - 규칙
   word: 곱다
 - pos: 형용사
   props:
@@ -8288,8 +8260,6 @@ entries:
 - pos: 명사
   word: 곱슬머리
 - pos: 동사
-  props:
-  - 규칙
   word: 곱씹다
 - pos: 명사
   word: 곱자
@@ -12196,12 +12166,8 @@ entries:
 - pos: 부사
   word: 굳건히
 - pos: 동사
-  props:
-  - 규칙
   word: 굳다
 - pos: 형용사
-  props:
-  - 규칙
   word: 굳다
 - pos: 형용사
   word: 굳세다
@@ -12346,8 +12312,6 @@ entries:
   - ㅂ불규칙
   word: 굽다
 - pos: 동사
-  props:
-  - 규칙
   word: 굽다
 - pos: 부사
   word: 굽슬굽슬
@@ -12447,8 +12411,6 @@ entries:
   word: 궁색하다
 - pos: 명사
   word: 궁수자리
-- pos: 동사
-  word: 궁시렁거리다
 - pos: 명사
   word: 궁여지책
 - pos: 명사
@@ -13335,10 +13297,6 @@ entries:
   word: 그사이
 - pos: 명사
   word: 그새
-- pos: 동사
-  props:
-  - 르불규칙
-  word: 그스르다
 - pos: 동사
   word: 그슬다
 - pos: 동사
@@ -15711,8 +15669,6 @@ entries:
 - pos: 명사
   word: 김밥
 - pos: 동사
-  props:
-  - 용언합성
   word: 김빠지다
 - pos: 동사
   word: 김새다
@@ -15841,8 +15797,6 @@ entries:
 - pos: 명사
   word: 까닭
 - pos: 동사
-  props:
-  - 규칙
   word: 까뒤집다
 - pos: 부사
   word: 까딱
@@ -16454,8 +16408,6 @@ entries:
 - pos: 동사
   word: 껴안다
 - pos: 동사
-  props:
-  - 규칙
   word: 껴입다
 - pos: 동사
   word: 껴입히다
@@ -16584,8 +16536,6 @@ entries:
 - pos: 형용사
   word: 꼬질꼬질하다
 - pos: 동사
-  props:
-  - 규칙
   word: 꼬집다
 - pos: 동사
   word: 꼬집히다
@@ -16690,8 +16640,6 @@ entries:
 - pos: 부사
   word: 꼼틀꼼틀
 - pos: 동사
-  props:
-  - 규칙
   word: 꼽다
 - pos: 명사
   word: 꼽사리
@@ -17148,8 +17096,6 @@ entries:
 - pos: 동사
   word: 끄적이다
 - pos: 동사
-  props:
-  - 규칙
   word: 끄집다
 - pos: 동사
   props:
@@ -17226,8 +17172,6 @@ entries:
   - 용언합성
   word: 끌어내리다
 - pos: 동사
-  props:
-  - 규칙
   word: 끌어넣다
 - pos: 동사
   props:
@@ -17316,8 +17260,6 @@ entries:
 - pos: 동사
   word: 끝내주다
 - pos: 동사
-  props:
-  - 규칙
   word: 끝닿다
 - pos: 명사
   word: 끝동
@@ -17752,8 +17694,6 @@ entries:
 - pos: 명사
   word: 나잇살
 - pos: 동사
-  props:
-  - 용언합성
   word: 나자빠지다
 - pos: 명사
   word: 나절
@@ -18790,8 +18730,6 @@ entries:
 - pos: 명사
   word: 낮잠
 - pos: 동사
-  props:
-  - 규칙
   word: 낮잡다
 - pos: 동사
   word: 낮추다
@@ -18842,8 +18780,6 @@ entries:
 - pos: 명사
   word: 낱장
 - pos: 동사
-  props:
-  - 규칙
   word: 낳다
 - pos: 대명사
   word: 내
@@ -18900,8 +18836,6 @@ entries:
 - pos: 명사
   word: 내년도
 - pos: 동사
-  props:
-  - 규칙
   word: 내놓다
 - pos: 동사
   word: 내다
@@ -19162,14 +19096,10 @@ entries:
 - pos: 동사
   word: 내빼다
 - pos: 동사
-  props:
-  - 규칙
   word: 내뻗다
 - pos: 동사
   word: 내뻗치다
 - pos: 동사
-  props:
-  - 규칙
   word: 내뽑다
 - pos: 동사
   word: 내뿜다
@@ -19198,8 +19128,6 @@ entries:
 - pos: 동사
   word: 내세우다
 - pos: 동사
-  props:
-  - 규칙
   word: 내솟다
 - pos: 명사
   word: 내수
@@ -19232,8 +19160,6 @@ entries:
 - pos: 동사
   word: 내쏘다
 - pos: 동사
-  props:
-  - 규칙
   word: 내쏟다
 - pos: 명사
   word: 내야
@@ -19241,7 +19167,6 @@ entries:
   word: 내야수
 - pos: 동사
   props:
-  - 규칙
   - 용언합성
   word: 내어놓다
 - pos: 명사
@@ -19715,8 +19640,6 @@ entries:
 - pos: 관형사
   word: 넉
 - pos: 동사
-  props:
-  - 규칙
   word: 넉넉잡다
 - pos: 형용사
   word: 넉넉하다
@@ -19782,7 +19705,6 @@ entries:
   word: 널빤지
 - pos: 동사
   props:
-  - 규칙
   - 용언합성
   word: 널어놓다
 - pos: 부사
@@ -19814,8 +19736,6 @@ entries:
 - pos: 동사
   word: 넘겨다보다
 - pos: 동사
-  props:
-  - 규칙
   word: 넘겨받다
 - pos: 동사
   props:
@@ -19902,8 +19822,6 @@ entries:
 - pos: 명사
   word: 넝쿨
 - pos: 동사
-  props:
-  - 규칙
   word: 넣다
 - pos: 감탄사
   word: 네
@@ -20940,12 +20858,9 @@ entries:
   - 러불규칙
   word: 높푸르다
 - pos: 동사
-  props:
-  - 규칙
   word: 놓다
 - pos: 동사
   props:
-  - 규칙
   - 보조용언:-어
   word: 놓다
 - pos: 동사
@@ -21396,7 +21311,6 @@ entries:
   word: 눋다
 - pos: 동사
   props:
-  - 규칙
   - 용언합성
   word: 눌러놓다
 - pos: 동사
@@ -21828,8 +21742,6 @@ entries:
 - pos: 동사
   word: 다니다
 - pos: 동사
-  props:
-  - 규칙
   word: 다다르다
 - pos: 명사
   word: 다다미
@@ -22138,8 +22050,6 @@ entries:
 - pos: 명사
   word: 다작
 - pos: 동사
-  props:
-  - 규칙
   word: 다잡다
 - pos: 형용사
   word: 다재다능하다
@@ -22720,8 +22630,6 @@ entries:
 - pos: 명사
   word: 단화
 - pos: 동사
-  props:
-  - 규칙
   word: 닫다
 - pos: 동사
   word: 닫아걸다
@@ -23063,8 +22971,6 @@ entries:
 - pos: 명사
   word: 담수화
 - pos: 동사
-  props:
-  - 규칙
   word: 담쌓다
 - pos: 동사
   props:
@@ -23379,8 +23285,6 @@ entries:
 - pos: 명사
   word: 닻줄
 - pos: 동사
-  props:
-  - 규칙
   word: 닿다
 - pos: 명사
   word: 닿소리
@@ -24917,8 +24821,6 @@ entries:
 - pos: 부사
   word: 덧없이
 - pos: 동사
-  props:
-  - 규칙
   word: 덧입다
 - pos: 명사
   word: 덧저고리
@@ -26013,8 +25915,6 @@ entries:
 - pos: 명사
   word: 돈푼
 - pos: 동사
-  props:
-  - 규칙
   word: 돋다
 - pos: 명사
   word: 돋보기
@@ -27025,8 +26925,6 @@ entries:
   - 용언합성
   word: 되바라지다
 - pos: 동사
-  props:
-  - 규칙
   word: 되받다
 - pos: 동사
   props:
@@ -27051,8 +26949,6 @@ entries:
 - pos: 동사
   word: 되쏘다
 - pos: 동사
-  props:
-  - 규칙
   word: 되씹다
 - pos: 형용사
   word: 되알지다
@@ -27069,8 +26965,6 @@ entries:
 - pos: 형용사
   word: 되잖다
 - pos: 동사
-  props:
-  - 규칙
   word: 되잡다
 - pos: 형용사
   word: 되지못하다
@@ -27513,8 +27407,6 @@ entries:
   - 용언합성
   word: 뒤따라오다
 - pos: 동사
-  props:
-  - 규칙
   word: 뒤따르다
 - pos: 동사
   props:
@@ -27547,8 +27439,6 @@ entries:
 - pos: 동사
   word: 뒤바뀌다
 - pos: 동사
-  props:
-  - 규칙
   word: 뒤받다
 - pos: 동사
   word: 뒤밟다
@@ -27609,8 +27499,6 @@ entries:
 - pos: 명사
   word: 뒤집개
 - pos: 동사
-  props:
-  - 규칙
   word: 뒤집다
 - pos: 동사
   props:
@@ -28114,8 +28002,6 @@ entries:
   - 용언합성
   word: 들려주다
 - pos: 동사
-  props:
-  - 규칙
   word: 들르다
 - pos: 동사
   word: 들리다
@@ -28775,8 +28661,6 @@ entries:
   - 으불규칙
   word: 따르다
 - pos: 동사
-  props:
-  - 규칙
   word: 따르다
 - pos: 부사
   word: 따르르
@@ -29005,8 +28889,6 @@ entries:
 - pos: 명사
   word: 땅콩
 - pos: 동사
-  props:
-  - 규칙
   word: 땋다
 - pos: 명사
   word: 때
@@ -29175,8 +29057,6 @@ entries:
 - pos: 동사
   word: 떠밀리다
 - pos: 동사
-  props:
-  - 규칙
   word: 떠받다
 - pos: 동사
   word: 떠받들다
@@ -29683,8 +29563,6 @@ entries:
 - pos: 동사
   word: 뜯기다
 - pos: 동사
-  props:
-  - 규칙
   word: 뜯다
 - pos: 동사
   word: 뜯어고치다
@@ -30373,8 +30251,6 @@ entries:
 - pos: 동사
   word: 마름질하다
 - pos: 명사
-  props:
-  - 단위명사
   word: 마리
 - pos: 명사
   word: 마리아
@@ -30495,8 +30371,6 @@ entries:
 - pos: 명사
   word: 마음씨
 - pos: 동사
-  props:
-  - 규칙
   word: 마음잡다
 - pos: 명사
   word: 마이너
@@ -31243,8 +31117,6 @@ entries:
   - 용언합성
   word: 말라비틀어지다
 - pos: 동사
-  props:
-  - 용언합성
   word: 말라빠지다
 - pos: 명사
   word: 말라위
@@ -31625,8 +31497,6 @@ entries:
 - pos: 명사
   word: 맞담배
 - pos: 동사
-  props:
-  - 규칙
   word: 맞닿다
 - pos: 명사
   word: 맞대결
@@ -31653,8 +31523,6 @@ entries:
 - pos: 명사
   word: 맞바람
 - pos: 동사
-  props:
-  - 규칙
   word: 맞받다
 - pos: 동사
   props:
@@ -31701,8 +31569,6 @@ entries:
 - pos: 동사
   word: 맞이하다
 - pos: 동사
-  props:
-  - 규칙
   word: 맞잡다
 - pos: 명사
   word: 맞장구
@@ -35747,12 +35613,8 @@ entries:
 - pos: 명사
   word: 문화체육관광부
 - pos: 동사
-  props:
-  - 규칙
   word: 묻다
 - pos: 동사
-  props:
-  - 규칙
   word: 묻다
 - pos: 동사
   props:
@@ -36033,8 +35895,6 @@ entries:
   - 용언합성
   word: 물어내다
 - pos: 동사
-  props:
-  - 규칙
   word: 물어뜯다
 - pos: 명사
   props:
@@ -37045,8 +36905,6 @@ entries:
 - pos: 동사
   word: 믿기다
 - pos: 동사
-  props:
-  - 규칙
   word: 믿다
 - pos: 동사
   props:
@@ -37229,8 +37087,6 @@ entries:
 - pos: 동사
   word: 밀착하다
 - pos: 동사
-  props:
-  - 규칙
   word: 밀쳐놓다
 - pos: 동사
   word: 밀치다
@@ -37547,8 +37403,6 @@ entries:
 - pos: 부사
   word: 바로바로
 - pos: 동사
-  props:
-  - 규칙
   word: 바로잡다
 - pos: 동사
   word: 바로잡히다
@@ -38435,12 +38289,8 @@ entries:
 - pos: 동사
   word: 반환하다
 - pos: 동사
-  props:
-  - 규칙
   word: 받다
 - pos: 동사
-  props:
-  - 규칙
   word: 받다
 - pos: 동사
   word: 받들다
@@ -38493,8 +38343,6 @@ entries:
 - pos: 동사
   word: 발가벗기다
 - pos: 동사
-  props:
-  - 규칙
   word: 발가벗다
 - pos: 명사
   word: 발가숭이
@@ -40589,8 +40437,6 @@ entries:
   - 보조용언:-어
   word: 버리다
 - pos: 동사
-  props:
-  - 규칙
   word: 버림받다
 - pos: 명사
   word: 버마
@@ -40889,8 +40735,6 @@ entries:
 - pos: 형용사
   word: 번화하다
 - pos: 동사
-  props:
-  - 규칙
   word: 벋다
 - pos: 명사
   word: 벌
@@ -40903,8 +40747,6 @@ entries:
 - pos: 동사
   word: 벌거벗기다
 - pos: 동사
-  props:
-  - 규칙
   word: 벌거벗다
 - pos: 명사
   word: 벌거숭이
@@ -41279,8 +41121,6 @@ entries:
 - pos: 동사
   word: 벗기다
 - pos: 동사
-  props:
-  - 규칙
   word: 벗다
 - pos: 동사
   props:
@@ -43087,8 +42927,6 @@ entries:
 - pos: 명사
   word: 본바탕
 - pos: 동사
-  props:
-  - 규칙
   word: 본받다
 - pos: 명사
   word: 본보기
@@ -43435,8 +43273,6 @@ entries:
 - pos: 동사
   word: 뵈다
 - pos: 동사
-  props:
-  - ㅂ불규칙 미확정
   word: 뵙다
 - pos: 명사
   word: 부
@@ -44015,8 +43851,6 @@ entries:
 - pos: 동사
   word: 부여안다
 - pos: 동사
-  props:
-  - 규칙
   word: 부여잡다
 - pos: 동사
   word: 부여하다
@@ -44477,8 +44311,6 @@ entries:
 - pos: 명사
   word: 북대서양조약기구
 - pos: 동사
-  props:
-  - 규칙
   word: 북돋다
 - pos: 동사
   word: 북돋우다
@@ -45871,8 +45703,6 @@ entries:
 - pos: 명사
   word: 붙임성
 - pos: 동사
-  props:
-  - 규칙
   word: 붙잡다
 - pos: 동사
   word: 붙잡히다
@@ -46291,8 +46121,6 @@ entries:
 - pos: 명사
   word: 비운
 - pos: 동사
-  props:
-  - 규칙
   word: 비웃다
 - pos: 명사
   word: 비웃음
@@ -46359,8 +46187,6 @@ entries:
 - pos: 형용사
   word: 비정하다
 - pos: 형용사
-  props:
-  - 규칙
   word: 비좁다
 - pos: 명사
   word: 비주류
@@ -46389,8 +46215,6 @@ entries:
 - pos: 동사
   word: 비질하다
 - pos: 동사
-  props:
-  - 규칙
   word: 비집다
 - pos: 부사
   word: 비쩍
@@ -46731,8 +46555,6 @@ entries:
   - 용언합성
   word: 빗나가다
 - pos: 동사
-  props:
-  - 규칙
   word: 빗다
 - pos: 동사
   word: 빗대다
@@ -46955,8 +46777,6 @@ entries:
 - pos: 부사
   word: 빤히
 - pos: 동사
-  props:
-  - 규칙
   word: 빨가벗다
 - pos: 명사
   word: 빨간불
@@ -47059,8 +46879,6 @@ entries:
 - pos: 명사
   word: 빵집
 - pos: 동사
-  props:
-  - 규칙
   word: 빻다
 - pos: 형용사
   word: 빼곡하다
@@ -47105,8 +46923,6 @@ entries:
 - pos: 동사
   word: 빼앗기다
 - pos: 동사
-  props:
-  - 규칙
   word: 빼앗다
 - pos: 형용사
   props:
@@ -47131,8 +46947,6 @@ entries:
 - pos: 동사
   word: 뺏기다
 - pos: 동사
-  props:
-  - 규칙
   word: 뺏다
 - pos: 부사
   word: 뺑
@@ -47215,8 +47029,6 @@ entries:
 - pos: 부사
   word: 뻔히
 - pos: 동사
-  props:
-  - 규칙
   word: 뻗다
 - pos: 동사
   word: 뻗대다
@@ -47307,8 +47119,6 @@ entries:
 - pos: 동사
   word: 뽐내다
 - pos: 동사
-  props:
-  - 규칙
   word: 뽑다
 - pos: 동사
   props:
@@ -47791,8 +47601,6 @@ entries:
 - pos: 동사
   word: 사례하다
 - pos: 동사
-  props:
-  - 규칙
   word: 사로잡다
 - pos: 동사
   word: 사로잡히다
@@ -48247,8 +48055,6 @@ entries:
 - pos: 명사
   word: 사이사이
 - pos: 형용사
-  props:
-  - 규칙
   word: 사이좋다
 - pos: 명사
   word: 사이즈
@@ -50387,8 +50193,6 @@ entries:
 - pos: 명사
   word: 샘물
 - pos: 동사
-  props:
-  - 규칙
   word: 샘솟다
 - pos: 명사
   word: 샘터
@@ -52717,8 +52521,6 @@ entries:
 - pos: 명사
   word: 세네갈
 - pos: 동사
-  props:
-  - 규칙
   word: 세놓다
 - pos: 명사
   word: 세뇌
@@ -54219,8 +54021,6 @@ entries:
 - pos: 명사
   word: 손깍지
 - pos: 동사
-  props:
-  - 규칙
   word: 손꼽다
 - pos: 동사
   word: 손꼽히다
@@ -54343,8 +54143,6 @@ entries:
 - pos: 명사
   word: 손자병법
 - pos: 동사
-  props:
-  - 규칙
   word: 손잡다
 - pos: 명사
   word: 손잡이
@@ -54475,8 +54273,6 @@ entries:
 - pos: 동사
   word: 솟구치다
 - pos: 동사
-  props:
-  - 규칙
   word: 솟다
 - pos: 명사
   word: 솟대
@@ -54971,8 +54767,6 @@ entries:
 - pos: 명사
   word: 수놈
 - pos: 동사
-  props:
-  - 규칙
   word: 수놓다
 - pos: 명사
   word: 수뇌
@@ -55819,8 +55613,6 @@ entries:
 - pos: 명사
   word: 수준작
 - pos: 형용사
-  props:
-  - 규칙
   word: 수줍다
 - pos: 동사
   props:
@@ -59849,12 +59641,9 @@ entries:
 - pos: 명사
   word: 쌍화탕
 - pos: 동사
-  props:
-  - 규칙
   word: 쌓다
 - pos: 동사
   props:
-  - 규칙
   - 보조용언:-어
   word: 쌓다
 - pos: 동사
@@ -59942,8 +59731,6 @@ entries:
 - pos: 부사
   word: 쏜살같이
 - pos: 동사
-  props:
-  - 규칙
   word: 쏟다
 - pos: 동사
   props:
@@ -60169,8 +59956,6 @@ entries:
 - pos: 동사
   word: 씰룩하다
 - pos: 동사
-  props:
-  - 규칙
   word: 씹다
 - pos: 동사
   word: 씹히다
@@ -60181,8 +59966,6 @@ entries:
 - pos: 명사
   word: 씻나락
 - pos: 동사
-  props:
-  - 규칙
   word: 씻다
 - pos: 부사
   word: 씽씽
@@ -63118,8 +62901,6 @@ entries:
 - pos: 형용사
   word: 어림없다
 - pos: 동사
-  props:
-  - 규칙
   word: 어림잡다
 - pos: 명사
   word: 어림짐작
@@ -63336,8 +63117,6 @@ entries:
 - pos: 명사
   word: 어죽
 - pos: 형용사
-  props:
-  - 규칙
   word: 어줍다
 - pos: 형용사
   word: 어중간하다
@@ -63646,8 +63425,6 @@ entries:
 - pos: 동사
   word: 얹히다
 - pos: 동사
-  props:
-  - 규칙
   word: 얻다
 - pos: 동사
   word: 얻어걸리다
@@ -63724,8 +63501,6 @@ entries:
 - pos: 동사
   word: 얼버무리다
 - pos: 동사
-  props:
-  - 용언합성
   word: 얼빠지다
 - pos: 동사
   word: 얼싸안다
@@ -63916,8 +63691,6 @@ entries:
 - pos: 동사
   word: 업그레이드하다
 - pos: 동사
-  props:
-  - 규칙
   word: 업다
 - pos: 명사
   word: 업데이트
@@ -64308,8 +64081,6 @@ entries:
 - pos: 명사
   word: 여단장
 - pos: 동사
-  props:
-  - 규칙
   word: 여닫다
 - pos: 명사
   word: 여닫이
@@ -67320,8 +67091,6 @@ entries:
 - pos: 명사
   word: 올겨울
 - pos: 형용사
-  props:
-  - 규칙
   word: 올곧다
 - pos: 명사
   word: 올드미스
@@ -67441,8 +67210,6 @@ entries:
   word: 옴짝달싹
 - pos: 동사
   word: 옴짝하다
-- pos: 부사
-  word: 옴쭉달싹
 - pos: 동사
   word: 옴츠리다
 - pos: 명사
@@ -67568,8 +67335,6 @@ entries:
 - pos: 부사
   word: 와당탕
 - pos: 동사
-  props:
-  - 규칙
   word: 와닿다
 - pos: 부사
   word: 와드득
@@ -69036,8 +68801,6 @@ entries:
 - pos: 동사
   word: 우러러보이다
 - pos: 동사
-  props:
-  - 규칙
   word: 우러르다
 - pos: 명사
   word: 우렁이
@@ -69458,8 +69221,6 @@ entries:
 - pos: 동사
   word: 욱신욱신하다
 - pos: 동사
-  props:
-  - 규칙
   word: 욱여넣다
 - pos: 명사
   word: 욱일승천
@@ -69782,8 +69543,6 @@ entries:
 - pos: 동사
   word: 움츠리다
 - pos: 동사
-  props:
-  - 규칙
   word: 움켜잡다
 - pos: 동사
   word: 움켜쥐다
@@ -69798,8 +69557,6 @@ entries:
 - pos: 동사
   word: 웃기다
 - pos: 동사
-  props:
-  - 규칙
   word: 웃다
 - pos: 명사
   word: 웃돈
@@ -72902,8 +72659,6 @@ entries:
 - pos: 명사
   word: 의종
 - pos: 형용사
-  props:
-  - 규칙
   word: 의좋다
 - pos: 명사
   word: 의중
@@ -74570,8 +74325,6 @@ entries:
 - pos: 명사
   word: 인정미
 - pos: 동사
-  props:
-  - 규칙
   word: 인정받다
 - pos: 명사
   word: 인정사정
@@ -75672,8 +75425,6 @@ entries:
 - pos: 명사
   word: 입냄새
 - pos: 동사
-  props:
-  - 규칙
   word: 입다
 - pos: 명사
   word: 입단
@@ -75970,8 +75721,6 @@ entries:
 - pos: 동사
   word: 잇대다
 - pos: 동사
-  props:
-  - 규칙
   word: 잇따르다
 - pos: 명사
   word: 잇몸
@@ -76406,8 +76155,6 @@ entries:
 - pos: 동사
   word: 자빠뜨리다
 - pos: 동사
-  props:
-  - 용언합성
   word: 자빠지다
 - pos: 동사
   props:
@@ -77264,6 +77011,8 @@ entries:
 - pos: 부사
   word: 잘근잘근
 - pos: 동사
+  props:
+  - 용언합성
   word: 잘나가다
 - pos: 동사
   word: 잘나다
@@ -77450,8 +77199,6 @@ entries:
 - pos: 명사
   word: 잡념
 - pos: 동사
-  props:
-  - 규칙
   word: 잡다
 - pos: 형용사
   word: 잡다하다
@@ -77510,8 +77257,6 @@ entries:
   - 용언합성
   word: 잡아내다
 - pos: 동사
-  props:
-  - 규칙
   word: 잡아넣다
 - pos: 동사
   props:
@@ -77522,8 +77267,6 @@ entries:
 - pos: 동사
   word: 잡아떼다
 - pos: 동사
-  props:
-  - 규칙
   word: 잡아뜯다
 - pos: 동사
   word: 잡아매다
@@ -79930,8 +79673,6 @@ entries:
 - pos: 동사
   word: 전수되다
 - pos: 동사
-  props:
-  - 규칙
   word: 전수받다
 - pos: 동사
   word: 전수하다
@@ -80858,8 +80599,6 @@ entries:
 - pos: 동사
   word: 접근하다
 - pos: 동사
-  props:
-  - 규칙
   word: 접다
 - pos: 명사
   word: 접대
@@ -80931,7 +80670,6 @@ entries:
   word: 접시꽃
 - pos: 동사
   props:
-  - 규칙
   - 용언합성
   word: 접어놓다
 - pos: 동사
@@ -81921,8 +81659,6 @@ entries:
 - pos: 동사
   word: 제공되다
 - pos: 동사
-  props:
-  - 규칙
   word: 제공받다
 - pos: 동사
   word: 제공하다
@@ -83353,16 +83089,12 @@ entries:
 - pos: 명사
   word: 좀팽이
 - pos: 형용사
-  props:
-  - 규칙
   word: 좁다
 - pos: 형용사
   props:
   - ㅎ불규칙
   word: 좁다랗다
 - pos: 형용사
-  props:
-  - 규칙
   word: 좁디좁다
 - pos: 명사
   word: 좁쌀
@@ -83667,8 +83399,6 @@ entries:
 - pos: 동사
   word: 좇다
 - pos: 형용사
-  props:
-  - 규칙
   word: 좋다
 - pos: 감탄사
   word: 좋아
@@ -83805,8 +83535,6 @@ entries:
 - pos: 명사
   word: 죄목
 - pos: 동사
-  props:
-  - 규칙
   word: 죄받다
 - pos: 명사
   word: 죄상
@@ -83909,8 +83637,6 @@ entries:
 - pos: 동사
   word: 주경야독하다
 - pos: 동사
-  props:
-  - 규칙
   word: 주고받다
 - pos: 명사
   word: 주관
@@ -84051,8 +83777,6 @@ entries:
 - pos: 명사
   word: 주름살
 - pos: 동사
-  props:
-  - 규칙
   word: 주름잡다
 - pos: 동사
   word: 주름지다
@@ -87594,8 +87318,6 @@ entries:
 - pos: 명사
   word: 집념
 - pos: 동사
-  props:
-  - 규칙
   word: 집다
 - pos: 명사
   word: 집단
@@ -87820,14 +87542,10 @@ entries:
 - pos: 동사
   word: 짓밟히다
 - pos: 동사
-  props:
-  - 규칙
   word: 짓씹다
 - pos: 동사
   word: 짓이기다
 - pos: 동사
-  props:
-  - 규칙
   word: 짓찧다
 - pos: 명사
   word: 징
@@ -88580,8 +88298,6 @@ entries:
   - 용언합성
   word: 찢어지다
 - pos: 동사
-  props:
-  - 규칙
   word: 찧다
 - pos: 명사
   word: 차
@@ -88664,8 +88380,6 @@ entries:
 - pos: 명사
   word: 차량용
 - pos: 동사
-  props:
-  - 규칙
   word: 차려입다
 - pos: 감탄사
   word: 차렷
@@ -89512,8 +89226,6 @@ entries:
 - pos: 동사
   word: 찾아뵈다
 - pos: 동사
-  props:
-  - ㅂ불규칙 미확정
   word: 찾아뵙다
 - pos: 동사
   props:
@@ -89746,8 +89458,6 @@ entries:
 - pos: 명사
   word: 처남댁
 - pos: 동사
-  props:
-  - 규칙
   word: 처넣다
 - pos: 명사
   word: 처녀
@@ -90235,8 +89945,6 @@ entries:
 - pos: 동사
   word: 철들다
 - pos: 명사
-  props:
-  - 비속어
   word: 철딱서니
 - pos: 부사
   word: 철렁
@@ -93254,8 +92962,6 @@ entries:
 - pos: 명사
   word: 치
 - pos: 동사
-  props:
-  - 규칙
   word: 치고받다
 - pos: 명사
   word: 치골
@@ -93338,8 +93044,6 @@ entries:
 - pos: 명사
   word: 치루
 - pos: 동사
-  props:
-  - 규칙
   word: 치르다
 - pos: 명사
   word: 치마
@@ -93374,12 +93078,8 @@ entries:
 - pos: 부사
   word: 치밀히
 - pos: 동사
-  props:
-  - 규칙
   word: 치받다
 - pos: 동사
-  props:
-  - 규칙
   word: 치받다
 - pos: 동사
   word: 치받치다
@@ -93420,8 +93120,6 @@ entries:
 - pos: 명사
   word: 치석
 - pos: 동사
-  props:
-  - 규칙
   word: 치솟다
 - pos: 명사
   word: 치수
@@ -95950,8 +95648,6 @@ entries:
 - pos: 명사
   word: 터널
 - pos: 동사
-  props:
-  - 규칙
   word: 터놓다
 - pos: 동사
   word: 터덜거리다
@@ -97578,8 +97274,6 @@ entries:
 - pos: 부사
   word: 틀림없이
 - pos: 동사
-  props:
-  - 규칙
   word: 틀어넣다
 - pos: 동사
   word: 틀어막다
@@ -97590,8 +97284,6 @@ entries:
   - 용언합성
   word: 틀어박히다
 - pos: 동사
-  props:
-  - 규칙
   word: 틀어잡다
 - pos: 동사
   word: 틀어쥐다
@@ -103855,8 +103547,6 @@ entries:
 - pos: 동사
   word: 헐떡헐떡하다
 - pos: 동사
-  props:
-  - 규칙
   word: 헐뜯다
 - pos: 동사
   word: 헐렁거리다
@@ -103887,8 +103577,6 @@ entries:
 - pos: 동사
   word: 헐벗기다
 - pos: 동사
-  props:
-  - 규칙
   word: 헐벗다
 - pos: 형용사
   word: 헐하다
@@ -104091,8 +103779,6 @@ entries:
 - pos: 동사
   word: 헤지다
 - pos: 동사
-  props:
-  - 규칙
   word: 헤집다
 - pos: 동사
   word: 헤치다
@@ -107339,8 +107025,6 @@ entries:
 - pos: 동사
   word: 휘어들다
 - pos: 동사
-  props:
-  - 규칙
   word: 휘어잡다
 - pos: 동사
   props:
@@ -107842,8 +107526,8 @@ entries:
   word: 흘러오다
 - pos: 동사
   props:
-  - 용언합성
   - ㄷ불규칙
+  - 용언합성
   word: 흘려듣다
 - pos: 동사
   props:
@@ -107902,8 +107586,6 @@ entries:
 - pos: 부사
   word: 흠씬
 - pos: 동사
-  props:
-  - 규칙
   word: 흠잡다
 - pos: 명사
   word: 흠집
@@ -108400,8 +108082,6 @@ entries:
 - pos: 동사
   word: 힘내다
 - pos: 동사
-  props:
-  - 규칙
   word: 힘닿다
 - pos: 형용사
   word: 힘들다
@@ -108422,8 +108102,6 @@ entries:
 - pos: 부사
   word: 힘없이
 - pos: 동사
-  props:
-  - 규칙
   word: 힘입다
 - pos: 명사
   word: 힘자랑

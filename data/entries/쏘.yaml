@@ -254,7 +254,7 @@ import:
     - 발음: 쏘아부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/66627_ssoabuchini.wav
       형태: 쏘아붙이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 쏘아붙이다
     품사: 동사
@@ -262,6 +262,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 쏘아붙이다
+    품사: 동사
 ---
 000_KEYWORD: 쏘이다__동사__001
 import:
@@ -1002,8 +1008,6 @@ import:
       형태: 쏟는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 쏟다
     품사: 동사
 ---
@@ -1015,7 +1019,7 @@ import:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - ㅅ불규칙
     - 용언합성
     표제어: 쏟아붓다
@@ -1023,7 +1027,9 @@ import:
     항목ID: 17015
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - ㅅ불규칙
+    - 용언합성
     표제어: 쏟아붓다
     품사: 동사
 ---
@@ -1112,14 +1118,22 @@ import:
     - 발음: 쏘다지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/71284_ssodajini.wav
       형태: 쏟아지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 쏟아지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 쏟아지다
+    품사: 동사
 ---
 000_KEYWORD: 쏠리다__동사__001
 import:

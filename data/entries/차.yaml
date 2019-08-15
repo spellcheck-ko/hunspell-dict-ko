@@ -19,7 +19,8 @@ import:
     품사: 접사
     항목ID: 88694
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -창__접사__001
 import:
@@ -44,7 +45,8 @@ import:
     품사: 접사
     항목ID: 73129
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 차-__접사__001
 import:
@@ -69,7 +71,8 @@ import:
     품사: 접사
     항목ID: 88693
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 차__명사__001
 import:
@@ -405,7 +408,9 @@ import:
     표제어: 차겁다
     품사: 형용사
     항목ID: 92350
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 차고__명사__001
 import:
@@ -1700,7 +1705,7 @@ import:
       형태: 차디차니
     - 발음: 차디참니다
       형태: 차디찹니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 차디차다
     품사: 형용사
@@ -1708,6 +1713,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 차디차다
+    품사: 형용사
 ---
 000_KEYWORD: 차라리__부사__001
 import:
@@ -1846,8 +1857,6 @@ import:
       형태: 차려입는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 차려입다
     품사: 동사
 ---
@@ -3012,7 +3021,9 @@ import:
     표제어: 차압
     품사: 명사
     항목ID: 78208
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 차액__명사__001
 import:
@@ -3161,7 +3172,7 @@ import:
       형태: 차오르니
     - 발음: 차오름니다
       형태: 차오릅니다
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -3171,6 +3182,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 차오르다
+    품사: 동사
 ---
 000_KEYWORD: 차올리다__동사__001
 import:
@@ -8888,7 +8905,8 @@ import:
     품사: 접사
     항목ID: 88695
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 찰거머리__명사__001
 import:
@@ -10676,7 +10694,8 @@ import:
     품사: 접사
     항목ID: 73128
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 참__감탄사__001
 import:
@@ -18864,14 +18883,22 @@ import:
     - 발음: 차자가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71812_chajagageora.wav
       형태: 찾아가거라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 찾아가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 찾아가다
+    품사: 동사
 ---
 000_KEYWORD: 찾아내다__동사__001
 import:
@@ -18927,14 +18954,22 @@ import:
     - 발음: 차자내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/89819_chajanaeni.wav
       형태: 찾아내니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 찾아내다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 찾아내다
+    품사: 동사
 ---
 000_KEYWORD: 찾아다니다__동사__001
 import:
@@ -19151,7 +19186,7 @@ import:
     - 발음: 차자보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/29758_chajaboni.wav
       형태: 찾아보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 찾아보다
     품사: 동사
@@ -19159,6 +19194,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 찾아보다
+    품사: 동사
 ---
 000_KEYWORD: 찾아뵈다__동사__001
 import:
@@ -19245,15 +19286,18 @@ import:
     표제어: 찾아뵙다
     품사: 동사
     항목ID: 83942
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - ㅂ불규칙 미확정
     표제어: 찾아뵙다
     품사: 동사
 manual:
   맞춤법 검사:
     FIXME: 제한적 활용.
+result:
+  맞춤법 검사:
+    FIXME: 제한적 활용.
+    표제어: 찾아뵙다
+    품사: 동사
 ---
 000_KEYWORD: 찾아오다__동사__001
 import:
@@ -19346,11 +19390,19 @@ import:
     - 발음: 차자오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/60322_chajaoneora.wav
       형태: 찾아오너라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 찾아오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 찾아오다
+    품사: 동사

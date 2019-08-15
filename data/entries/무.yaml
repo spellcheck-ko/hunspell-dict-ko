@@ -44,7 +44,8 @@ import:
     품사: 접사
     항목ID: 74940
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -물__접사__001
 import:
@@ -164,7 +165,8 @@ import:
     품사: 접사
     항목ID: 74941
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 무-__접사__001
 import:
@@ -197,7 +199,8 @@ import:
     품사: 접사
     항목ID: 92120
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 무__명사__001
 import:
@@ -8533,7 +8536,7 @@ import:
     활용:
     - 형태: 무서워하여
     - 형태: 무서워하니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 무서워하다
     품사: 동사
@@ -8541,6 +8544,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 무서워하다
+    품사: 동사
 ---
 000_KEYWORD: 무선__명사__001
 import:
@@ -12517,7 +12526,9 @@ import:
     표제어: 무우
     품사: 명사
     항목ID: 92230
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 무운__명사__001
 import:
@@ -20911,7 +20922,9 @@ import:
     표제어: 문귀
     품사: 명사
     항목ID: 92231
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 문기둥__명사__001
 import:
@@ -21396,14 +21409,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/55908_mundeureojeo.wav
       형태: 문드러져
     - 형태: 문드러지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 문드러지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 문드러지다
+    품사: 동사
 ---
 000_KEYWORD: 문득__부사__001
 import:
@@ -27410,8 +27431,6 @@ import:
       형태: 묻는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 묻다
     품사: 동사
 ---
@@ -27510,8 +27529,6 @@ import:
       형태: 묻는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 묻다
     품사: 동사
 ---
@@ -30015,14 +30032,22 @@ import:
     활용:
     - 형태: 물러가
     - 형태: 물러가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 물러가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 물러가다
+    품사: 동사
 ---
 000_KEYWORD: 물러나다__동사__001
 import:
@@ -30099,7 +30124,7 @@ import:
     - 발음: 물러남니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/mieum_2005/mulreonada.wav
       형태: 물러납니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 물러나다
     품사: 동사
@@ -30107,6 +30132,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 물러나다
+    품사: 동사
 ---
 000_KEYWORD: 물러서다__동사__001
 import:
@@ -30167,7 +30198,7 @@ import:
     - 발음: 물러섬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/mieum_2005/mulreoseoda.wav
       형태: 물러섭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 물러서다
     품사: 동사
@@ -30175,6 +30206,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 물러서다
+    품사: 동사
 ---
 000_KEYWORD: 물러앉다__동사__001
 import:
@@ -30731,16 +30768,20 @@ import:
     - 발음: 물려반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/56210_mullyeobanneun.wav
       형태: 물려받는
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 물려받다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 물려받다
+    품사: 동사
 ---
 000_KEYWORD: 물려주다__동사__001
 import:
@@ -33310,14 +33351,22 @@ import:
     - 발음: 무러내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/56458_mureonaeni.wav
       형태: 물어내니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 물어내다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 물어내다
+    품사: 동사
 ---
 000_KEYWORD: 물어뜯다__동사__001
 import:
@@ -33388,8 +33437,6 @@ import:
       형태: 물어뜯는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 물어뜯다
     품사: 동사
 ---
@@ -33401,14 +33448,15 @@ import:
     - ryu.changwoo
     - YongSuhb.E
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - 용언합성
     표제어: 물어뜯다
     품사: 명사:보통:서술성
     항목ID: 9931
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - 용언합성
     표제어: 물어뜯다
     품사: 명사
 ---
@@ -33472,7 +33520,7 @@ import:
     - 발음: 무러보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/69473_mureoboni.wav
       형태: 물어보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 물어보다
     품사: 동사
@@ -33480,6 +33528,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 물어보다
+    품사: 동사
 ---
 000_KEYWORD: 물엿__명사__001
 import:

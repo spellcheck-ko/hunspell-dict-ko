@@ -19,7 +19,8 @@ import:
     품사: 접사
     항목ID: 74895
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -도__접사__002
 import:
@@ -44,7 +45,8 @@ import:
     품사: 접사
     항목ID: 74896
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -도__접사__003
 import:
@@ -91,7 +93,8 @@ import:
     품사: 접사
     항목ID: 74897
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -도__접사__004
 import:
@@ -116,7 +119,8 @@ import:
     품사: 접사
     항목ID: 74894
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -도다__어미__001
 import:
@@ -145,7 +149,8 @@ import:
     품사: 어미
     항목ID: 86273
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -도록__어미__001
 import:
@@ -178,7 +183,8 @@ import:
     품사: 어미
     항목ID: 80286
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -동__접사__001
 import:
@@ -200,7 +206,8 @@ import:
     품사: 접사
     항목ID: 74900
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 도__명사__001
 import:
@@ -559,7 +566,8 @@ import:
     품사: 조사
     항목ID: 86258
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 도가니__명사__001
 import:
@@ -3530,7 +3538,7 @@ import:
     활용:
     - 형태: 도려내어
     - 형태: 도려내니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 도려내다
     품사: 동사
@@ -3538,6 +3546,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 도려내다
+    품사: 동사
 ---
 000_KEYWORD: 도련님__명사__001
 import:
@@ -8576,7 +8590,7 @@ import:
     활용:
     - 형태: 도와주어
     - 형태: 도와주니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 도와주다
     품사: 동사
@@ -8584,6 +8598,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 도와주다
+    품사: 동사
 ---
 000_KEYWORD: 도외시__명사__001
 import:
@@ -12472,7 +12492,8 @@ import:
     품사: 접사
     항목ID: 74898
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 독__명사__001
 import:
@@ -18447,7 +18468,9 @@ import:
     표제어: 돈장사
     품사: 명사
     항목ID: 92201
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 돈주머니__명사__001
 import:
@@ -18590,7 +18613,9 @@ import:
     표제어: 돋구다
     품사: 동사
     항목ID: 92202
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 돋다__동사__001
 import:
@@ -18685,8 +18710,6 @@ import:
       형태: 돋는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 돋다
     품사: 동사
 ---
@@ -18914,7 +18937,7 @@ import:
     - 발음: 도다나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/48611_dodanani.wav
       형태: 돋아나니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 돋아나다
     품사: 동사
@@ -18922,6 +18945,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돋아나다
+    품사: 동사
 ---
 000_KEYWORD: 돋우다__동사__001
 import:
@@ -19110,7 +19139,8 @@ import:
     품사: 접사
     항목ID: 74899
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 돌__명사__001
 import:
@@ -20331,16 +20361,20 @@ import:
     - 발음: 돌려노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/92527_dollyeonosseumnida.wav
       형태: 돌려놓습니다
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 돌려놓다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌려놓다
+    품사: 동사
 ---
 000_KEYWORD: 돌려받다__동사__001
 import:
@@ -20387,16 +20421,20 @@ import:
     - 발음: 돌려받씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/92525_dollyeobatsseumnida.wav
       형태: 돌려받습니다
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 돌려받다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌려받다
+    품사: 동사
 ---
 000_KEYWORD: 돌려보내다__동사__001
 import:
@@ -20436,7 +20474,7 @@ import:
     - 발음: 돌려보냄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/92526_dollyeobonaemnida.wav
       형태: 돌려보냅니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 돌려보내다
     품사: 동사
@@ -20444,6 +20482,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌려보내다
+    품사: 동사
 ---
 000_KEYWORD: 돌려주다__동사__001
 import:
@@ -20493,7 +20537,7 @@ import:
     활용:
     - 형태: 돌려주어
     - 형태: 돌려주니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 돌려주다
     품사: 동사
@@ -20501,6 +20545,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌려주다
+    품사: 동사
 ---
 000_KEYWORD: 돌리다__동사__001
 import:
@@ -21597,7 +21647,9 @@ import:
     표제어: 돌뿌리
     품사: 명사
     항목ID: 92203
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 돌사자__명사__001
 import:
@@ -22074,14 +22126,22 @@ import:
       형태: 돌아가니
     - 발음: 도라감니다
       형태: 돌아갑니다
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 돌아가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌아가다
+    품사: 동사
 ---
 000_KEYWORD: 돌아가시다__동사__001
 import:
@@ -22171,7 +22231,7 @@ import:
     - 발음: 도라눔는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/48310_doranumneun.wav
       형태: 돌아눕는
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -22181,6 +22241,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌아눕다
+    품사: 동사
 ---
 000_KEYWORD: 돌아다니다__동사__001
 import:
@@ -22238,7 +22304,7 @@ import:
     - 발음: 도라다니니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/14793_doradanini.wav
       형태: 돌아다니니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 돌아다니다
     품사: 동사
@@ -22246,6 +22312,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌아다니다
+    품사: 동사
 ---
 000_KEYWORD: 돌아다보다__동사__001
 import:
@@ -22483,7 +22555,7 @@ import:
     - 발음: 도라보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/61385_doraboni.wav
       형태: 돌아보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 돌아보다
     품사: 동사
@@ -22491,6 +22563,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌아보다
+    품사: 동사
 ---
 000_KEYWORD: 돌아서다__동사__001
 import:
@@ -22619,7 +22697,7 @@ import:
     - 발음: 도라서니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/62831_doraseoni.wav
       형태: 돌아서니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 돌아서다
     품사: 동사
@@ -22627,6 +22705,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌아서다
+    품사: 동사
 ---
 000_KEYWORD: 돌아앉다__동사__001
 import:
@@ -22841,14 +22925,22 @@ import:
     - 발음: 도라오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/66268_doraoneora.wav
       형태: 돌아오너라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 돌아오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 돌아오다
+    품사: 동사
 ---
 000_KEYWORD: 돌아치다__동사__001
 import:
@@ -22858,14 +22950,15 @@ import:
     - ryu.changwoo
     - ruseel
     라이선스: CC BY 4.0
-    속성: &id001
+    속성:
     - 용언합성
     표제어: 돌아치다
     품사: 동사
     항목ID: 7113
 result:
   맞춤법 검사:
-    속성: *id001
+    속성:
+    - 용언합성
     표제어: 돌아치다
     품사: 동사
 ---
@@ -24423,7 +24516,9 @@ import:
     표제어: 돐
     품사: 명사
     항목ID: 92204
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 돔__명사__001
 import:
@@ -28072,14 +28167,22 @@ import:
       형태: 동떨어지니
     - 발음: 동떠러짐니다
       형태: 동떨어집니다
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 동떨어지다
     품사: 형용사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 동떨어지다
+    품사: 형용사
 ---
 000_KEYWORD: 동량__명사__001
 import:

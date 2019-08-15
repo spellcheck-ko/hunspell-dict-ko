@@ -20,7 +20,8 @@ import:
     품사: 접사
     항목ID: 83206
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -파__접사__002
 import:
@@ -71,7 +72,8 @@ import:
     품사: 접사
     항목ID: 83207
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -판__접사__001
 import:
@@ -100,7 +102,8 @@ import:
     품사: 접사
     항목ID: 88707
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -판__접사__002
 import:
@@ -131,7 +134,8 @@ import:
     품사: 접사
     항목ID: 83208
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 파__명사__001
 import:
@@ -768,7 +772,7 @@ import:
     - 발음: 파고듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82704_pagodeumnida.wav
       형태: 파고듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 파고들다
     품사: 동사
@@ -776,6 +780,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 파고들다
+    품사: 동사
 ---
 000_KEYWORD: 파괴__명사__001
 import:
@@ -1656,7 +1666,7 @@ import:
     활용:
     - 형태: 파내어
     - 형태: 파내니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 파내다
     품사: 동사
@@ -1664,6 +1674,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 파내다
+    품사: 동사
 ---
 000_KEYWORD: 파노라마__명사__001
 import:
@@ -4230,16 +4246,20 @@ import:
     - 발음: 파문는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82343_pamunneun.wav
       형태: 파묻는
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 파묻다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 파묻다
+    품사: 동사
 ---
 000_KEYWORD: 파묻히다__동사__001
 import:
@@ -4330,7 +4350,7 @@ import:
     - 발음: 파무치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82346_pamuchini.wav
       형태: 파묻히니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 파묻히다
     품사: 동사
@@ -4338,6 +4358,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 파묻히다
+    품사: 동사
 ---
 000_KEYWORD: 파벌__명사__001
 import:
@@ -8197,14 +8223,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/80671_pahecheo.wav
       형태: 파헤쳐
     - 형태: 파헤치니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 파헤치다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 파헤치다
+    품사: 동사
 ---
 000_KEYWORD: 파혼__명사__001
 import:
@@ -9337,7 +9371,9 @@ import:
     표제어: 판넬
     품사: 명사
     항목ID: 92332
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 판다__명사__001
 import:
@@ -11581,7 +11617,9 @@ import:
     표제어: 판토마임
     품사: 명사
     항목ID: 92331
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 판판이__부사__001
 import:
@@ -11861,7 +11899,7 @@ import:
     표제어: 팔
     품사: 수사
     항목ID: 31598
-result:
+import_derived:
   맞춤법 검사:
     표제어: 팔
     품사: 수사
@@ -11869,6 +11907,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:1
+result:
+  맞춤법 검사:
+    속성:
+    - 수:1
+    표제어: 팔
+    품사: 수사
 ---
 000_KEYWORD: 팔각정__명사__001
 import:
@@ -12008,7 +12052,9 @@ import:
     표제어: 팔굽
     품사: 명사
     항목ID: 92330
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 팔굽혀펴기__명사__001
 import:
@@ -12321,7 +12367,9 @@ import:
     표제어: 팔뒤꿈치
     품사: 명사
     항목ID: 92329
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 팔등신__명사__001
 import:
@@ -12892,7 +12940,9 @@ import:
     표제어: 팔뚝시계
     품사: 명사
     항목ID: 92328
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 팔랑__부사__001
 import:
@@ -14067,7 +14117,7 @@ import:
     - 발음: 팔씸만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/89597_palssimman.wav
       형태: 팔십만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 팔십
     품사: 수사
@@ -14075,6 +14125,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:10
+result:
+  맞춤법 검사:
+    속성:
+    - 수:10
+    표제어: 팔십
+    품사: 수사
 ---
 000_KEYWORD: 팔씨름__명사__001
 import:
@@ -14206,7 +14262,7 @@ import:
     - 발음: 파라넘기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/82838_paraneomgini.wav
       형태: 팔아넘기니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 팔아넘기다
     품사: 동사
@@ -14214,6 +14270,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 팔아넘기다
+    품사: 동사
 ---
 000_KEYWORD: 팔아먹다__동사__001
 import:
@@ -14403,7 +14465,7 @@ import:
     - 발음: 파라멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/82837_parameongneun.wav
       형태: 팔아먹는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 팔아먹다
     품사: 동사
@@ -14411,6 +14473,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 팔아먹다
+    품사: 동사
 ---
 000_KEYWORD: 팔월__명사__001
 import:
@@ -14947,7 +15015,9 @@ import:
     표제어: 팜플렛
     품사: 명사
     항목ID: 92327
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 팝__명사__001
 import:

@@ -1,3 +1,4 @@
+import copy
 import glob
 import os
 import sys
@@ -14,8 +15,7 @@ class ProcessYamlDocs:
         filenames = glob.glob(os.path.join(self.entries_dir, '*.yaml'))
         filenames.sort()
         for filename in filenames:
-            if filename.endswith('저.yaml'):
-                self.process_file(filename)
+            self.process_file(filename)
 
     def process_file(self, filename):
         docs = list(yaml.load_all(open(filename), Loader=yaml.FullLoader))
@@ -70,7 +70,7 @@ class ProcessYamlDocs:
                 if '활용' in input:
                     inflections = [dd['형태'] for dd in input['활용']]
                     inflection_type = self.detect_inflection_type(word, inflections)
-                    if inflection_type is not None:
+                    if inflection_type is not None and inflection_type != '규칙':
                         props.append(inflection_type)
 
             # 보조용언 타입
@@ -95,6 +95,11 @@ class ProcessYamlDocs:
                     if word == '드리다':
                         props.append('보조용언:-어')
 
+            # 합성용언
+            if pos in ['동사', '형용사']:
+                if self.detect_compound_verb(word):
+                    props.append('용언합성')
+
             if len(props) > 0:
                 props.sort()
                 if '속성' not in output:
@@ -105,17 +110,38 @@ class ProcessYamlDocs:
         pass
 
     def process_doc_galkwidjango(self, input, output):
-        output['표제어'] = input['표제어']
-        output['품사'] = input['품사'].split(':')[0]
+        word = input['표제어']
+        output['표제어'] = word
+
+        pos = input['품사']
+        pos_simplified = input['품사'].split(':')[0]
+        if pos_simplified in ['특수']:
+            output['품사'] = pos
+        else:
+            output['품사'] = pos_simplified
+
         if '속성' in input:
-            output['속성'] = input['속성'].copy()
+            props = copy.deepcopy(input['속성'])
+        else:
+            props = []
+
+        if pos_simplified in ['동사', '형용사']:
+            if '용언합성' not in props:
+                if self.detect_compound_verb(word):
+                    props.append('용언합성')
+        if len(props) > 0:
+            props.sort()
+            output['속성'] = props
 
     def process_doc_manual(self, doc):
-        if 'manual' in doc:
-            pass
-        else:
+        if 'manual' not in doc:
             doc['result'] = doc['import_derived']
             del doc['import_derived']
+        elif 'import_derived' in doc and '맞춤법 검사' in doc['import_derived']:
+            entry = copy.deepcopy(doc['import_derived']['맞춤법 검사'])
+            for key in doc['manual']['맞춤법 검사'].keys():
+                entry[key] = copy.deepcopy(doc['manual']['맞춤법 검사'][key])
+            doc['result']['맞춤법 검사'] = entry
 
     def detect_inflection_type(self, word, inflections):
         if not word.endswith('다'):
@@ -210,7 +236,20 @@ class ProcessYamlDocs:
 
         return result
 
-    #def detect_aux_verbs(self, doc
+    def detect_compound_verb(self, word):
+        if len(word) < 4:
+            return False
+        suspected = False
+        if word.endswith('가다') or word.endswith('오다') or word.endswith('보내다') or word.endswith('치다') or word.endswith('놓다') or word.endswith('내다'):
+            suspected = True
+        if word.endswith('지다') and not word.endswith('빠지다'):
+            suspected = True
+
+        if suspected:
+            prefix_nfd = unicodedata.normalize('NFD', word[:-2])
+            if prefix_nfd[-1] in [V_A, V_AE, V_E, V_EO]:
+                return True
+        return False
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:

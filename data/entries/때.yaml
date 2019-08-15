@@ -21,7 +21,8 @@ import:
     품사: 접사
     항목ID: 74911
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 때__명사__001
 import:
@@ -536,7 +537,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/50375_ttaeryeonupini.wav
       형태: 때려눕히니
     - 형태: ''
-result:
+import_derived:
   맞춤법 검사:
     표제어: 때려눕히다
     품사: 동사
@@ -544,6 +545,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 때려눕히다
+    품사: 동사
 ---
 000_KEYWORD: 때려잡다__동사__001
 import:
@@ -613,16 +620,20 @@ import:
     - 발음: 때려잠는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/50379_ttaeryeojamneun.wav
       형태: 때려잡는
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 때려잡다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 때려잡다
+    품사: 동사
 ---
 000_KEYWORD: 때려죽이다__동사__001
 import:
@@ -702,7 +713,7 @@ import:
     - 형태: 때려치우어
     - 형태: 때려치우니
     - 형태: ''
-result:
+import_derived:
   맞춤법 검사:
     표제어: 때려치우다
     품사: 동사
@@ -710,6 +721,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 때려치우다
+    품사: 동사
 ---
 000_KEYWORD: 때로__부사__001
 import:
@@ -2088,4 +2105,6 @@ import:
     표제어: 땡초
     품사: 명사
     항목ID: 92216
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말

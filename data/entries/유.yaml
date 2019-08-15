@@ -27,7 +27,8 @@ import:
     품사: 접사
     항목ID: 73119
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -율__접사__001
 import:
@@ -49,7 +50,8 @@ import:
     품사: 접사
     항목ID: 88922
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -율__접사__002
 import:
@@ -88,7 +90,8 @@ import:
     품사: 접사
     항목ID: 88923
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 유-__접사__001
 import:
@@ -119,7 +122,8 @@ import:
     품사: 접사
     항목ID: 73118
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 유__명사__001
 import:
@@ -16953,7 +16957,7 @@ import:
     - 발음: 융만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/70820_yungman.wav
       형태: 육만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 육
     품사: 수사
@@ -16961,6 +16965,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:1
+result:
+  맞춤법 검사:
+    속성:
+    - 수:1
+    표제어: 육
+    품사: 수사
 ---
 000_KEYWORD: 육각형__명사__001
 import:
@@ -18300,7 +18310,7 @@ import:
     - 발음: 육씸만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/71105_yukssimman.wav
       형태: 육십만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 육십
     품사: 수사
@@ -18308,6 +18318,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:10
+result:
+  맞춤법 검사:
+    속성:
+    - 수:10
+    표제어: 육십
+    품사: 수사
 ---
 000_KEYWORD: 육십갑자__명사__001
 import:

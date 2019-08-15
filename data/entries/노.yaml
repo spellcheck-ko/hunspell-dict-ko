@@ -21,7 +21,8 @@ import:
     품사: 접사
     항목ID: 88850
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 노-__접사__001
 import:
@@ -47,7 +48,8 @@ import:
     품사: 접사
     항목ID: 88849
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 노__명사__001
 import:
@@ -2487,7 +2489,7 @@ import:
     - 발음: 노려봄니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/40118_noryeobomnida.wav
       형태: 노려봅니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 노려보다
     품사: 동사
@@ -2495,6 +2497,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 노려보다
+    품사: 동사
 ---
 000_KEYWORD: 노력__명사__001
 import:
@@ -9466,7 +9474,7 @@ import:
     - 발음: 노가내림니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/40701_noganaerimnida.wav
       형태: 녹아내립니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 녹아내리다
     품사: 동사
@@ -9474,6 +9482,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 녹아내리다
+    품사: 동사
 ---
 000_KEYWORD: 녹아들다__동사__001
 import:
@@ -9531,7 +9545,7 @@ import:
     - 발음: 노가듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/40702_nogadeumnida.wav
       형태: 녹아듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 녹아들다
     품사: 동사
@@ -9539,6 +9553,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 녹아들다
+    품사: 동사
 ---
 000_KEYWORD: 녹용__명사__001
 import:
@@ -13321,7 +13341,7 @@ import:
       형태: 놀고먹으니
     - 발음: 놀ː고먹슴니다
       형태: 놀고먹습니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 놀고먹다
     품사: 동사
@@ -13329,6 +13349,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 놀고먹다
+    품사: 동사
 ---
 000_KEYWORD: 놀놀하다__형용사__001
 import:
@@ -14450,7 +14476,7 @@ import:
     - 발음: 노라남니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/40780_noranamnida.wav
       형태: 놀아납니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 놀아나다
     품사: 동사
@@ -14458,6 +14484,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 놀아나다
+    품사: 동사
 ---
 000_KEYWORD: 놀이__명사__001
 import:
@@ -15110,7 +15142,9 @@ import:
     표제어: 놈팽이
     품사: 명사
     항목ID: 92187
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 놋__명사__001
 import:
@@ -15319,7 +15353,8 @@ import:
     품사: 접사
     항목ID: 92147
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 농__명사__001
 import:
@@ -20468,8 +20503,6 @@ import:
       형태: 놓습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 놓다
     품사: 동사
 ---
@@ -20525,7 +20558,6 @@ import:
 result:
   맞춤법 검사:
     속성:
-    - 규칙
     - 보조용언:-어
     표제어: 놓다
     품사: 보조 동사
@@ -20667,7 +20699,7 @@ import:
     - 발음: 노아둠니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28325_noadumnida.wav
       형태: 놓아둡니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 놓아두다
     품사: 동사
@@ -20675,6 +20707,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 놓아두다
+    품사: 동사
 ---
 000_KEYWORD: 놓아먹이다__동사__001
 import:

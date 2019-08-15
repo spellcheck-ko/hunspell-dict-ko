@@ -556,7 +556,7 @@ import:
     - 발음: 궤로워하니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/24010_gwerowohani.wav
       형태: 괴로워하니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 괴로워하다
     품사: 동사
@@ -564,6 +564,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 괴로워하다
+    품사: 동사
 ---
 000_KEYWORD: 괴로이__부사__001
 import:
@@ -1999,7 +2005,9 @@ import:
     표제어: 괴퍅하다
     품사: 형용사
     항목ID: 92164
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 괴한__명사__001
 import:

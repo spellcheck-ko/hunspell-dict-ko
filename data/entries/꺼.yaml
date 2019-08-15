@@ -44,7 +44,8 @@ import:
     품사: 접사
     항목ID: 73339
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 꺼꾸러지다__동사__001
 import:
@@ -912,7 +913,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/41592_kkeojeo.wav
       형태: 꺼져
     - 형태: 꺼지니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 꺼지다
     품사: 동사
@@ -920,6 +921,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 꺼지다
+    품사: 동사
 ---
 000_KEYWORD: 꺼지다__동사__002
 import:
@@ -978,7 +985,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/41592_kkeojeo.wav
       형태: 꺼져
     - 형태: 꺼지니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 꺼지다
     품사: 동사
@@ -986,6 +993,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 꺼지다
+    품사: 동사
 ---
 000_KEYWORD: 꺼칠꺼칠하다__형용사__001
 import:

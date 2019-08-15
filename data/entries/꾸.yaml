@@ -25,7 +25,8 @@ import:
     품사: 접사
     항목ID: 73341
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -꾼__접사__001
 import:
@@ -102,7 +103,8 @@ import:
     품사: 접사
     항목ID: 88844
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 꾸기다__동사__001
 import:
@@ -3665,7 +3667,7 @@ import:
     - 발음: 꾸러안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/37899_kkureoanjji.wav
       형태: 꿇어앉지
-result:
+import_derived:
   맞춤법 검사:
     표제어: 꿇어앉다
     품사: 동사
@@ -3673,6 +3675,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 꿇어앉다
+    품사: 동사
 ---
 000_KEYWORD: 꿇어앉히다__동사__001
 import:

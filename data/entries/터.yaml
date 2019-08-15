@@ -235,8 +235,6 @@ import:
       형태: 터놓습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 터놓다
     품사: 동사
 ---
@@ -4082,16 +4080,22 @@ import:
     - 발음: 터러노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80103_teoreonosseumnida.wav
       형태: 털어놓습니다
-result:
+import_derived:
   맞춤법 검사:
     속성:
-    - 규칙
+    - 용언합성
     표제어: 털어놓다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 털어놓다
+    품사: 동사
 ---
 000_KEYWORD: 털어먹다__동사__001
 import:
@@ -4136,7 +4140,7 @@ import:
     - 발음: 터러멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/80105_teoreomeongneun.wav
       형태: 털어먹는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 털어먹다
     품사: 동사
@@ -4144,6 +4148,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 털어먹다
+    품사: 동사
 ---
 000_KEYWORD: 털옷__명사__001
 import:

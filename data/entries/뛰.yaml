@@ -390,14 +390,22 @@ import:
     - 발음: 뛰여가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14439_ttwiyeogageora.wav
       형태: 뛰어가거라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 뛰어가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어가다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어나가다__동사__001
 import:
@@ -457,14 +465,22 @@ import:
     - 발음: 뛰여나가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14442_ttwiyeonagani.wav
       형태: 뛰어나가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 뛰어나가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어나가다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어나다__형용사__001
 import:
@@ -521,7 +537,7 @@ import:
       형태: 뛰어납니다
     - 발음: 뛰여남니다
       형태: 뛰어납니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 뛰어나다
     품사: 형용사
@@ -529,6 +545,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어나다
+    품사: 형용사
 ---
 000_KEYWORD: 뛰어나오다__동사__001
 import:
@@ -591,14 +613,22 @@ import:
     - 발음: 뛰여나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14448_ttwiyeonaoni.wav
       형태: 뛰어나오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 뛰어나오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어나오다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어내리다__동사__001
 import:
@@ -679,7 +709,7 @@ import:
     - 발음: 뛰여내리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/14452_ttwiyeonaerini.wav
       형태: 뛰어내리니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 뛰어내리다
     품사: 동사
@@ -687,6 +717,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어내리다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어넘다__동사__001
 import:
@@ -777,7 +813,7 @@ import:
     - 발음: 뛰여너므니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15196_ttwiyeoneomeuni.wav
       형태: 뛰어넘으니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 뛰어넘다
     품사: 동사
@@ -785,6 +821,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어넘다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어놀다__동사__001
 import:
@@ -841,7 +883,7 @@ import:
     - 발음: 뛰여놈니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15206_ttwiyeonomnida.wav
       형태: 뛰어놉니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 뛰어놀다
     품사: 동사
@@ -849,6 +891,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어놀다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어다니다__동사__001
 import:
@@ -922,7 +970,7 @@ import:
     - 발음: 뛰여다니니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/62374_ttwiyeodanini.wav
       형태: 뛰어다니니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 뛰어다니다
     품사: 동사
@@ -930,6 +978,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어다니다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어들다__동사__001
 import:
@@ -1022,7 +1076,7 @@ import:
     - 발음: 뛰여듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/59467_ttwiyeodeumnida.wav
       형태: 뛰어듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 뛰어들다
     품사: 동사
@@ -1030,6 +1084,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어들다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어오다__동사__001
 import:
@@ -1097,14 +1157,22 @@ import:
     - 발음: 뛰여오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15210_ttwiyeooneora.wav
       형태: 뛰어오너라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 뛰어오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어오다
+    품사: 동사
 ---
 000_KEYWORD: 뛰어오르다__동사__001
 import:
@@ -1178,7 +1246,7 @@ import:
     - 발음: 뛰여오르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15220_ttwiyeooreuni.wav
       형태: 뛰어오르니
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -1188,6 +1256,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰어오르다
+    품사: 동사
 ---
 000_KEYWORD: 뛰쳐나가다__동사__001
 import:
@@ -1241,14 +1315,22 @@ import:
     - 발음: 뛰처나가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53915_ttwicheonagani.wav
       형태: 뛰쳐나가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 뛰쳐나가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰쳐나가다
+    품사: 동사
 ---
 000_KEYWORD: 뛰쳐나오다__동사__001
 import:
@@ -1302,14 +1384,22 @@ import:
     - 발음: 뛰처나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53916_ttwicheonaoni.wav
       형태: 뛰쳐나오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 뛰쳐나오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뛰쳐나오다
+    품사: 동사
 ---
 000_KEYWORD: 뛰치다__동사__001
 import:
@@ -1325,7 +1415,9 @@ import:
     표제어: 뛰치다
     품사: 동사
     항목ID: 92217
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 뜀뛰기__명사__001
 import:

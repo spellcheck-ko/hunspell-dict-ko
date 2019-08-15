@@ -806,14 +806,22 @@ import:
     - 발음: 빠ː저나가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15644_ppa-jeonagani.wav
       형태: 빠져나가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 빠져나가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빠져나가다
+    품사: 동사
 ---
 000_KEYWORD: 빠져나오다__동사__001
 import:
@@ -852,14 +860,22 @@ import:
     - 발음: 빠ː저나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15645_ppa-jeonaoni.wav
       형태: 빠져나오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 빠져나오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빠져나오다
+    품사: 동사
 ---
 000_KEYWORD: 빠져들다__동사__001
 import:
@@ -928,7 +944,7 @@ import:
     - 발음: 빠ː저듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60832_ppa-jeodeumnida.wav
       형태: 빠져듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 빠져들다
     품사: 동사
@@ -936,6 +952,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빠져들다
+    품사: 동사
 ---
 000_KEYWORD: 빠지다__동사__001
 import:
@@ -2772,8 +2794,6 @@ import:
       형태: 빨가벗는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 빨가벗다
     품사: 동사
 ---
@@ -3231,7 +3251,9 @@ import:
     표제어: 빨랑
     품사: 부사
     항목ID: 92252
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 빨랑빨랑__부사__001
 import:
@@ -4141,7 +4163,7 @@ import:
     - 발음: 빠라드리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61195_pparadeurini.wav
       형태: 빨아들이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 빨아들이다
     품사: 동사
@@ -4149,6 +4171,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빨아들이다
+    품사: 동사
 ---
 000_KEYWORD: 빨아먹다__동사__001
 import:
@@ -4645,7 +4673,9 @@ import:
     표제어: 빵꾸
     품사: 명사
     항목ID: 92253
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 빵빵__부사__001
 import:
@@ -5069,7 +5099,5 @@ import:
       형태: 빻습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 빻다
     품사: 동사

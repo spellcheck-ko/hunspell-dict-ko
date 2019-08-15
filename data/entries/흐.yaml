@@ -1590,7 +1590,9 @@ import:
     표제어: 흐리멍텅하다
     품사: 형용사
     항목ID: 92178
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 흐리터분하다__형용사__001
 import:
@@ -2315,14 +2317,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/89202_heuteureojeo.wav
       형태: 흐트러져
     - 형태: 흐트러지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 흐트러지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흐트러지다
+    품사: 동사
 ---
 000_KEYWORD: 흐트리다__동사__001
 import:
@@ -2338,7 +2348,9 @@ import:
     표제어: 흐트리다
     품사: 동사
     항목ID: 92177
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 흐흐__부사__001
 import:
@@ -3977,7 +3989,7 @@ import:
     활용:
     - 형태: 흘겨보아
     - 형태: 흘겨보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 흘겨보다
     품사: 동사
@@ -3985,6 +3997,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흘겨보다
+    품사: 동사
 ---
 000_KEYWORD: 흘금__부사__001
 import:
@@ -5572,14 +5590,22 @@ import:
     활용:
     - 형태: 흘러가
     - 형태: 흘러가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 흘러가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흘러가다
+    품사: 동사
 ---
 000_KEYWORD: 흘러나오다__동사__001
 import:
@@ -5665,14 +5691,22 @@ import:
     활용:
     - 형태: 흘러나와
     - 형태: 흘러나오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 흘러나오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흘러나오다
+    품사: 동사
 ---
 000_KEYWORD: 흘러내리다__동사__001
 import:
@@ -5726,7 +5760,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/89255_heulleonaeriyeo.wav
       형태: 흘러내리어
     - 형태: 흘러내리니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 흘러내리다
     품사: 동사
@@ -5734,6 +5768,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흘러내리다
+    품사: 동사
 ---
 000_KEYWORD: 흘러넘치다__동사__001
 import:
@@ -5819,7 +5859,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/89256_heulleoneomcheo.wav
       형태: 흘러넘쳐
     - 형태: 흘러넘치니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 흘러넘치다
     품사: 동사
@@ -5827,6 +5867,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흘러넘치다
+    품사: 동사
 ---
 000_KEYWORD: 흘러들다__동사__001
 import:
@@ -5906,7 +5952,7 @@ import:
     - 발음: 흘러듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/89257_heulleodeumnida.wav
       형태: 흘러듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 흘러들다
     품사: 동사
@@ -5914,6 +5960,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흘러들다
+    품사: 동사
 ---
 000_KEYWORD: 흘러오다__동사__001
 import:
@@ -5973,14 +6025,22 @@ import:
     활용:
     - 형태: 흘러와
     - 형태: 흘러오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 흘러오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흘러오다
+    품사: 동사
 ---
 000_KEYWORD: 흘려듣다__동사__001
 import:
@@ -5999,8 +6059,8 @@ import:
 result:
   맞춤법 검사:
     속성:
-    - 용언합성
     - ㄷ불규칙
+    - 용언합성
     표제어: 흘려듣다
     품사: 동사
 ---
@@ -6051,7 +6111,7 @@ import:
     활용:
     - 형태: 흘려보내어
     - 형태: 흘려보내니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 흘려보내다
     품사: 동사
@@ -6059,6 +6119,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흘려보내다
+    품사: 동사
 ---
 000_KEYWORD: 흘리다__동사__001
 import:
@@ -7223,8 +7289,6 @@ import:
       형태: 흠잡는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 흠잡다
     품사: 동사
 ---
@@ -10810,7 +10874,7 @@ import:
     - 발음: 흗뿌리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/89652_heutppurini.wav
       형태: 흩뿌리니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 흩뿌리다
     품사: 동사
@@ -10818,6 +10882,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흩뿌리다
+    품사: 동사
 ---
 000_KEYWORD: 흩어지다__동사__001
 import:
@@ -10864,11 +10934,19 @@ import:
     - 발음: 흐터지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/60000/51000/88457_heuteojini.wav
       형태: 흩어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 흩어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 흩어지다
+    품사: 동사

@@ -18,7 +18,8 @@ import:
     품사: 접사
     항목ID: 92135
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -든__어미__001
 import:
@@ -60,7 +61,8 @@ import:
     품사: 어미
     항목ID: 86262
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -든가__어미__001
 import:
@@ -102,7 +104,8 @@ import:
     품사: 어미
     항목ID: 82342
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -든지__어미__001
 import:
@@ -152,7 +155,8 @@ import:
     품사: 어미
     항목ID: 82337
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -들__접사__001
 import:
@@ -175,7 +179,8 @@ import:
     품사: 접사
     항목ID: 74906
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -들이__접사__001
 import:
@@ -197,7 +202,8 @@ import:
     품사: 접사
     항목ID: 74908
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -듯__어미__001
 import:
@@ -224,7 +230,8 @@ import:
     품사: 어미
     항목ID: 80280
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -듯이__어미__001
 import:
@@ -252,7 +259,8 @@ import:
     품사: 어미
     항목ID: 80282
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 드-__접사__001
 import:
@@ -276,7 +284,8 @@ import:
     품사: 접사
     항목ID: 92136
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 드나들다__동사__001
 import:
@@ -352,7 +361,7 @@ import:
     - 발음: 드나듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50930_deunadeumnida.wav
       형태: 드나듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 드나들다
     품사: 동사
@@ -360,6 +369,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 드나들다
+    품사: 동사
 ---
 000_KEYWORD: 드난살이__명사__001
 import:
@@ -1157,7 +1172,7 @@ import:
     - 발음: 드러남니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/deureonada.wav
       형태: 드러납니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 드러나다
     품사: 동사
@@ -1165,6 +1180,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 드러나다
+    품사: 동사
 ---
 000_KEYWORD: 드러내다__동사__001
 import:
@@ -1226,14 +1247,22 @@ import:
     활용:
     - 형태: 드러내어
     - 형태: 드러내니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 드러내다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 드러내다
+    품사: 동사
 ---
 000_KEYWORD: 드러눕다__동사__001
 import:
@@ -1283,7 +1312,7 @@ import:
     - 발음: 드러눔는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/50958_deureonumneun.wav
       형태: 드러눕는
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - ㅂ불규칙
@@ -1293,6 +1322,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 드러눕다
+    품사: 동사
 ---
 000_KEYWORD: 드러머__명사__001
 import:
@@ -3379,7 +3414,7 @@ import:
     표제어: 득점
     품사: 명사
     항목ID: 50536
-result:
+import_derived:
   맞춤법 검사:
     표제어: 득점
     품사: 명사
@@ -3387,6 +3422,12 @@ manual:
   맞춤법 검사:
     속성:
     - 단위명사
+result:
+  맞춤법 검사:
+    속성:
+    - 단위명사
+    표제어: 득점
+    품사: 명사
 ---
 000_KEYWORD: 득점력__명사__001
 import:
@@ -3676,7 +3717,8 @@ import:
     품사: 조사
     항목ID: 86261
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 든가__조사__001
 import:
@@ -3707,7 +3749,8 @@ import:
     품사: 조사
     항목ID: 70330
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 든든하다__형용사__001
 import:
@@ -3944,7 +3987,8 @@ import:
     품사: 조사
     항목ID: 70334
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 듣기__명사__001
 import:
@@ -4248,7 +4292,8 @@ import:
     품사: 접사
     항목ID: 74904
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 들-__접사__002
 import:
@@ -4275,7 +4320,8 @@ import:
     품사: 접사
     항목ID: 74905
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 들__명사__001
 import:
@@ -4395,7 +4441,8 @@ import:
     품사: 조사
     항목ID: 86264
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 들개__명사__001
 import:
@@ -6361,7 +6408,7 @@ import:
     - 발음: 들러분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49870_deulleobunneun.wav
       형태: 들러붙는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들러붙다
     품사: 동사
@@ -6369,6 +6416,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들러붙다
+    품사: 동사
 ---
 000_KEYWORD: 들려오다__동사__001
 import:
@@ -6405,7 +6458,7 @@ import:
     활용:
     - 형태: 들려와
     - 형태: 들려오니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들려오다
     품사: 동사
@@ -6413,6 +6466,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들려오다
+    품사: 동사
 ---
 000_KEYWORD: 들려주다__동사__001
 import:
@@ -6450,7 +6509,7 @@ import:
     활용:
     - 형태: 들려주어
     - 형태: 들려주니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들려주다
     품사: 동사
@@ -6458,6 +6517,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들려주다
+    품사: 동사
 ---
 000_KEYWORD: 들르다__동사__001
 import:
@@ -6498,8 +6563,6 @@ import:
     - 형태: 들르니
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 들르다
     품사: 동사
 ---
@@ -8925,14 +8988,22 @@ import:
     - 발음: 드러가거라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/67877_deureogageora.wav
       형태: 들어가거라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 들어가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들어가다
+    품사: 동사
 ---
 000_KEYWORD: 들어내다__동사__001
 import:
@@ -9033,7 +9104,7 @@ import:
     - 발음: 드러만는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51119_deureomanneun.wav
       형태: 들어맞는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들어맞다
     품사: 동사
@@ -9041,6 +9112,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들어맞다
+    품사: 동사
 ---
 000_KEYWORD: 들어먹다__동사__001
 import:
@@ -9427,7 +9504,7 @@ import:
     - 발음: 드러서니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/58158_deureoseoni.wav
       형태: 들어서니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들어서다
     품사: 동사
@@ -9435,6 +9512,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들어서다
+    품사: 동사
 ---
 000_KEYWORD: 들어앉다__동사__001
 import:
@@ -9521,7 +9604,7 @@ import:
     - 발음: 드러안찌
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51125_deureoanjji.wav
       형태: 들어앉지
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들어앉다
     품사: 동사
@@ -9529,6 +9612,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들어앉다
+    품사: 동사
 ---
 000_KEYWORD: 들어앉히다__동사__001
 import:
@@ -9773,14 +9862,22 @@ import:
     - 발음: 드러오너라
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/74105_deureooneora.wav
       형태: 들어오너라
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 들어오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들어오다
+    품사: 동사
 ---
 000_KEYWORD: 들어주다__동사__001
 import:
@@ -9820,7 +9917,7 @@ import:
     - 발음: 드러주니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15045_deureojuni.wav
       형태: 들어주니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들어주다
     품사: 동사
@@ -9828,6 +9925,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들어주다
+    품사: 동사
 ---
 000_KEYWORD: 들어차다__동사__001
 import:
@@ -9867,7 +9970,7 @@ import:
     - 발음: 드러차니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51127_deureochani.wav
       형태: 들어차니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들어차다
     품사: 동사
@@ -9875,6 +9978,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들어차다
+    품사: 동사
 ---
 000_KEYWORD: 들여가다__동사__001
 import:
@@ -10023,16 +10132,20 @@ import:
     - 발음: 드려노씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15050_deuryeonosseumnida.wav
       형태: 들여놓습니다
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 들여놓다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들여놓다
+    품사: 동사
 ---
 000_KEYWORD: 들여다보다__동사__001
 import:
@@ -10120,7 +10233,7 @@ import:
     - 발음: 드려다보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/64546_deuryeodaboni.wav
       형태: 들여다보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들여다보다
     품사: 동사
@@ -10128,6 +10241,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들여다보다
+    품사: 동사
 ---
 000_KEYWORD: 들여다보이다__동사__001
 import:
@@ -10175,7 +10294,7 @@ import:
     - 발음: 드려다보이니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49634_deuryeodaboini.wav
       형태: 들여다보이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들여다보이다
     품사: 동사
@@ -10183,6 +10302,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들여다보이다
+    품사: 동사
 ---
 000_KEYWORD: 들여다뵈다__동사__001
 import:
@@ -10306,7 +10431,7 @@ import:
     - 발음: 드려보내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49638_deuryeobonaeni.wav
       형태: 들여보내니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들여보내다
     품사: 동사
@@ -10314,6 +10439,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들여보내다
+    품사: 동사
 ---
 000_KEYWORD: 들여쓰기__명사__001
 import:
@@ -10494,7 +10625,8 @@ import:
     품사: 접사
     항목ID: 74907
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 들이다__동사__001
 import:
@@ -10713,7 +10845,7 @@ import:
     - 발음: 드리닥치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49644_deuridakchini.wav
       형태: 들이닥치니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들이닥치다
     품사: 동사
@@ -10721,6 +10853,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들이닥치다
+    품사: 동사
 ---
 000_KEYWORD: 들이대다__동사__001
 import:
@@ -10761,7 +10899,7 @@ import:
     - 발음: 드리대니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/51129_deuridaeni.wav
       형태: 들이대니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들이대다
     품사: 동사
@@ -10769,6 +10907,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들이대다
+    품사: 동사
 ---
 000_KEYWORD: 들이대다__동사__002
 import:
@@ -10903,7 +11047,7 @@ import:
     - 발음: 드리마시니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/15070_deurimasini.wav
       형태: 들이마시니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들이마시다
     품사: 동사
@@ -10911,6 +11055,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들이마시다
+    품사: 동사
 ---
 000_KEYWORD: 들이마시다__동사__002
 import:
@@ -11129,7 +11279,7 @@ import:
     - 발음: 드리방는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49648_deuribangneun.wav
       형태: 들이박는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들이박다
     품사: 동사
@@ -11137,6 +11287,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들이박다
+    품사: 동사
 ---
 000_KEYWORD: 들이받다__동사__001
 import:
@@ -11190,16 +11346,20 @@ import:
     - 발음: 드리반는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49649_deuribanneun.wav
       형태: 들이받는
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 들이받다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들이받다
+    품사: 동사
 ---
 000_KEYWORD: 들이붓다__동사__001
 import:
@@ -11240,7 +11400,7 @@ import:
     - 발음: 드리분는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49664_deuribunneun.wav
       형태: 들이붓는
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - ㅅ불규칙
@@ -11250,6 +11410,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들이붓다
+    품사: 동사
 ---
 000_KEYWORD: 들이비치다__동사__001
 import:
@@ -11293,7 +11459,7 @@ import:
     - 발음: 드리비치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/30000/49854_deuribichini.wav
       형태: 들이비치니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들이비치다
     품사: 동사
@@ -11301,6 +11467,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들이비치다
+    품사: 동사
 ---
 000_KEYWORD: 들이쉬다__동사__001
 import:
@@ -11497,7 +11669,7 @@ import:
     - 발음: 드리켜니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/15074_deurikyeoni.wav
       형태: 들이켜니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 들이켜다
     품사: 동사
@@ -11505,6 +11677,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 들이켜다
+    품사: 동사
 ---
 000_KEYWORD: 들이키다__동사__001
 import:
@@ -11520,7 +11698,9 @@ import:
     표제어: 들이키다
     품사: 동사
     항목ID: 92212
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 들일__명사__001
 import:
@@ -12950,7 +13130,8 @@ import:
     품사: 접사
     항목ID: 74909
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 등__대명사__001
 import:

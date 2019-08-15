@@ -37,7 +37,8 @@ import:
     품사: 접사
     항목ID: 72332
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -구__접사__001
 import:
@@ -73,7 +74,8 @@ import:
     품사: 접사
     항목ID: 92115
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -구__접사__002
 import:
@@ -98,7 +100,8 @@ import:
     품사: 접사
     항목ID: 72334
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -구나__어미__001
 import:
@@ -140,7 +143,8 @@ import:
     품사: 어미
     항목ID: 73807
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -구려__어미__001
 import:
@@ -184,7 +188,8 @@ import:
     품사: 어미
     항목ID: 73809
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -구만__어미__001
 import:
@@ -200,7 +205,9 @@ import:
     표제어: -구만
     품사: 어미
     항목ID: 85029
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: -구먼__어미__001
 import:
@@ -239,7 +246,8 @@ import:
     품사: 어미
     항목ID: 73886
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -국__접사__001
 import:
@@ -272,7 +280,8 @@ import:
     품사: 접사
     항목ID: 72370
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -국__접사__002
 import:
@@ -344,7 +353,8 @@ import:
     품사: 접사
     항목ID: 72371
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -군__어미__001
 import:
@@ -408,7 +418,8 @@ import:
     품사: 어미
     항목ID: 73887
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -군__접사__001
 import:
@@ -430,7 +441,8 @@ import:
     품사: 접사
     항목ID: 72373
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 구-__접사__001
 import:
@@ -464,7 +476,8 @@ import:
     품사: 접사
     항목ID: 72335
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 구__관형사__001
 import:
@@ -689,7 +702,7 @@ import:
     표제어: 구
     품사: 수사
     항목ID: 34882
-result:
+import_derived:
   맞춤법 검사:
     표제어: 구
     품사: 수사
@@ -697,6 +710,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:1
+result:
+  맞춤법 검사:
+    속성:
+    - 수:1
+    표제어: 구
+    품사: 수사
 ---
 000_KEYWORD: 구__의존_명사__001
 import:
@@ -1083,7 +1102,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/43493_gugyeojeo.wav
       형태: 구겨져
     - 형태: 구겨지니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 구겨지다
     품사: 동사
@@ -1091,6 +1110,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 구겨지다
+    품사: 동사
 ---
 000_KEYWORD: 구경__명사__001
 import:
@@ -6585,14 +6610,22 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/35039_gubureojeo.wav
       형태: 구부러져
     - 형태: 구부러지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 구부러지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 구부러지다
+    품사: 동사
 ---
 000_KEYWORD: 구부리다__동사__001
 import:
@@ -10249,7 +10282,7 @@ import:
     - 발음: 구심만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/89598_gusimman.wav
       형태: 구십만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 구십
     품사: 수사
@@ -10257,6 +10290,12 @@ manual:
   맞춤법 검사:
     속성:
     - 수:10
+result:
+  맞춤법 검사:
+    속성:
+    - 수:10
+    표제어: 구십
+    품사: 수사
 ---
 000_KEYWORD: 구애__명사__001
 import:
@@ -22713,7 +22752,8 @@ import:
     품사: 접사
     항목ID: 72372
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 군__대명사__001
 import:
@@ -26506,8 +26546,6 @@ import:
       형태: 굳는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 굳다
     품사: 동사
 ---
@@ -26592,8 +26630,6 @@ import:
       형태: 굳습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 굳다
     품사: 형용사
 ---
@@ -26753,14 +26789,22 @@ import:
     - 발음: 구더지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/36861_gudeojini.wav
       형태: 굳어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 굳어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 굳어지다
+    품사: 동사
 ---
 000_KEYWORD: 굳은살__명사__001
 import:
@@ -27414,7 +27458,7 @@ import:
     - 발음: 굴ː러다니니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/37540_gur-reodanini.wav
       형태: 굴러다니니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 굴러다니다
     품사: 동사
@@ -27422,6 +27466,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 굴러다니다
+    품사: 동사
 ---
 000_KEYWORD: 굴러들다__동사__001
 import:
@@ -27462,7 +27512,7 @@ import:
     - 발음: 굴ː러듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/37543_gur-reodeumnida.wav
       형태: 굴러듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 굴러들다
     품사: 동사
@@ -27470,6 +27520,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 굴러들다
+    품사: 동사
 ---
 000_KEYWORD: 굴러떨어지다__동사__001
 import:
@@ -27592,7 +27648,7 @@ import:
     - 발음: 굴ː러멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/37546_gur-reomeongneun.wav
       형태: 굴러먹는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 굴러먹다
     품사: 동사
@@ -27600,6 +27656,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 굴러먹다
+    품사: 동사
 ---
 000_KEYWORD: 굴러오다__동사__001
 import:
@@ -30182,8 +30244,6 @@ import:
       형태: 굽으니
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 굽다
     품사: 동사
 ---
@@ -32454,8 +32514,7 @@ import:
     항목ID: 34860
 result:
   맞춤법 검사:
-    표제어: 궁시렁거리다
-    품사: 동사
+    제외: 틀린 말
 ---
 000_KEYWORD: 궁여지책__명사__001
 import:

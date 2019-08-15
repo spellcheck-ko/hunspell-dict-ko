@@ -8,6 +8,8 @@ entries:
 - pos: 명사
   word: 가무극
 - pos: 동사
+  props:
+  - 용언합성
   word: 가무러지다
 - pos: 형용사
   word: 가무스름하다
@@ -500,6 +502,8 @@ entries:
 - pos: 명사
   word: 떡갈비
 - pos: 동사
+  props:
+  - 용언합성
   word: 똥그래지다
 - pos: 명사
   word: 똥싸개
@@ -2178,6 +2182,8 @@ entries:
 - pos: 명사
   word: 편제
 - pos: 동사
+  props:
+  - 용언합성
   word: 포개지다
 - pos: 명사
   word: 포도나무

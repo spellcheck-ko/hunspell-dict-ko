@@ -23,7 +23,8 @@ import:
     품사: 접사
     항목ID: 74937
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 모__관형사__001
 import:
@@ -2181,7 +2182,9 @@ import:
     표제어: 모듬
     품사: 명사
     항목ID: 92227
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 모락모락__부사__001
 import:
@@ -5162,7 +5165,7 @@ import:
     - 발음: 모여듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/16141_moyeodeumnida.wav
       형태: 모여듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 모여들다
     품사: 동사
@@ -5170,6 +5173,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 모여들다
+    품사: 동사
 ---
 000_KEYWORD: 모욕__명사__001
 import:
@@ -5606,7 +5615,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/74137_mwa-.wav
       형태: 뫄
     - 형태: 모으니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 모으다
     품사: 동사
@@ -5614,6 +5623,12 @@ manual:
   맞춤법 검사:
     속성:
     - 으불규칙
+result:
+  맞춤법 검사:
+    속성:
+    - 으불규칙
+    표제어: 모으다
+    품사: 동사
 ---
 000_KEYWORD: 모음__명사__001
 import:
@@ -12415,7 +12430,9 @@ import:
     표제어: 몫돈
     품사: 명사
     항목ID: 92228
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 몬순__명사__001
 import:
@@ -12502,7 +12519,8 @@ import:
     품사: 접사
     항목ID: 74938
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 몰-__접사__002
 import:
@@ -12527,7 +12545,8 @@ import:
     품사: 접사
     항목ID: 74939
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 몰개성적__관형사__001
 import:
@@ -12916,7 +12935,7 @@ import:
       형태: 몰라보니
     - 발음: 몰ː라봄니다
       형태: 몰라봅니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 몰라보다
     품사: 동사
@@ -12924,6 +12943,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰라보다
+    품사: 동사
 ---
 000_KEYWORD: 몰라주다__동사__001
 import:
@@ -13458,7 +13483,7 @@ import:
     활용:
     - 형태: 몰려와
     - 형태: 몰려오니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 몰려오다
     품사: 동사
@@ -13466,6 +13491,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰려오다
+    품사: 동사
 ---
 000_KEYWORD: 몰리다__동사__001
 import:
@@ -14152,14 +14183,22 @@ import:
     - 발음: 모라내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57453_moranaeni.wav
       형태: 몰아내니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 몰아내다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰아내다
+    품사: 동사
 ---
 000_KEYWORD: 몰아넣다__동사__001
 import:
@@ -14217,16 +14256,20 @@ import:
     - 발음: 모라너씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57454_moraneosseumnida.wav
       형태: 몰아넣습니다
-result:
+import_derived:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 몰아넣다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰아넣다
+    품사: 동사
 ---
 000_KEYWORD: 몰아닥치다__동사__001
 import:
@@ -14283,7 +14326,7 @@ import:
     - 발음: 모라닥치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57455_moradakchini.wav
       형태: 몰아닥치니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 몰아닥치다
     품사: 동사
@@ -14291,6 +14334,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰아닥치다
+    품사: 동사
 ---
 000_KEYWORD: 몰아붙이다__동사__001
 import:
@@ -14348,7 +14397,7 @@ import:
     - 발음: 모라부치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57456_morabuchini.wav
       형태: 몰아붙이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 몰아붙이다
     품사: 동사
@@ -14356,6 +14405,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰아붙이다
+    품사: 동사
 ---
 000_KEYWORD: 몰아세우다__동사__001
 import:
@@ -14425,7 +14480,7 @@ import:
     - 발음: 모라세우니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57457_moraseuni.wav
       형태: 몰아세우니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 몰아세우다
     품사: 동사
@@ -14433,6 +14488,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰아세우다
+    품사: 동사
 ---
 000_KEYWORD: 몰아쉬다__동사__001
 import:
@@ -14475,7 +14536,7 @@ import:
     - 발음: 모라쉬니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57458_moraswini.wav
       형태: 몰아쉬니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 몰아쉬다
     품사: 동사
@@ -14483,6 +14544,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰아쉬다
+    품사: 동사
 ---
 000_KEYWORD: 몰아오다__동사__001
 import:
@@ -14598,7 +14665,7 @@ import:
     - 발음: 모라주니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57460_morajuni.wav
       형태: 몰아주니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 몰아주다
     품사: 동사
@@ -14606,6 +14673,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰아주다
+    품사: 동사
 ---
 000_KEYWORD: 몰아치다__동사__001
 import:
@@ -14678,14 +14751,22 @@ import:
     - 발음: 모라치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/57461_morachini.wav
       형태: 몰아치니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 몰아치다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 몰아치다
+    품사: 동사
 ---
 000_KEYWORD: 몰염치__명사__001
 import:
@@ -17390,7 +17471,7 @@ import:
     - 발음: 몯ː쓰니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/27000/54781_mod-sseuni.wav
       형태: 못쓰니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 못쓰다
     품사: 동사
@@ -17398,6 +17479,12 @@ manual:
   맞춤법 검사:
     속성:
     - 으불규칙
+result:
+  맞춤법 검사:
+    속성:
+    - 으불규칙
+    표제어: 못쓰다
+    품사: 동사
 ---
 000_KEYWORD: 못자리__명사__001
 import:

@@ -5,14 +5,12 @@ import os
 import yaml
 import sys
 
-def append_entry(entries, yaml):
-    entry = {}
-    if 'import_derived' in yaml and '맞춤법 검사' in yaml['import_derived']:
-        entry = yaml['import_derived']['맞춤법 검사']
-    if 'manual' in yaml and '맞춤법 검사' in yaml['manual']:
-        for key in yaml['manual']['맞춤법 검사'].keys():
-            entry[key] = yaml['manual']['맞춤법 검사'][key]
-    if entry:
+def append_entry(entries, doc):
+    entry = None
+    if 'result' in doc and '맞춤법 검사' in doc['result']:
+        if '제외' not in doc['result']['맞춤법 검사']:
+            entry = doc['result']['맞춤법 검사']
+    if entry is not None:
         keys = entry.keys()
         REPLACE = {'표제어':'word', '품사':'pos', '속성':'props'}
         e = {}
@@ -21,6 +19,8 @@ def append_entry(entries, yaml):
                 e[REPLACE[k]] = entry[k]
         if 'word' not in e or 'pos' not in e:
             print(entry)
+            print(e)
+            print(doc)
             abort()
         if e['pos'] == '의존 명사':
             e['pos'] = '명사'

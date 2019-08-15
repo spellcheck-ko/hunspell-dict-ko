@@ -52,7 +52,8 @@ import:
     품사: 어미
     항목ID: 80289
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: -되다__접사__001
 import:
@@ -232,7 +233,8 @@ import:
     품사: 접사
     항목ID: 74902
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 되-__접사__001
 import:
@@ -275,7 +277,8 @@ import:
     품사: 접사
     항목ID: 74901
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 되__명사__001
 import:
@@ -727,7 +730,9 @@ import:
     표제어: 되뇌이다
     품사: 동사
     항목ID: 92205
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 되는대로__부사__001
 import:
@@ -1583,14 +1588,22 @@ import:
     - 발음: 뒈도라가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14923_dwedoragani.wav
       형태: 되돌아가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 되돌아가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 되돌아가다
+    품사: 동사
 ---
 000_KEYWORD: 되돌아보다__동사__001
 import:
@@ -1651,7 +1664,7 @@ import:
     - 발음: 뒈도라보니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14913_dwedoraboni.wav
       형태: 되돌아보니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 되돌아보다
     품사: 동사
@@ -1659,6 +1672,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 되돌아보다
+    품사: 동사
 ---
 000_KEYWORD: 되돌아서다__동사__001
 import:
@@ -1795,14 +1814,22 @@ import:
     - 발음: 뒈도라오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/14917_dwedoraoni.wav
       형태: 되돌아오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 되돌아오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 되돌아오다
+    품사: 동사
 ---
 000_KEYWORD: 되레__부사__001
 import:
@@ -2093,8 +2120,6 @@ import:
       형태: 되받는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 되받다
     품사: 동사
 ---
@@ -2146,14 +2171,22 @@ import:
     - 발음: 뒈바다치니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48186_dwebadachini.wav
       형태: 되받아치니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 되받아치다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 되받아치다
+    품사: 동사
 ---
 000_KEYWORD: 되살다__동사__001
 import:
@@ -2405,7 +2438,7 @@ import:
     - 발음: 뒈사라나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/48193_dwesaranani.wav
       형태: 되살아나니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 되살아나다
     품사: 동사
@@ -2413,6 +2446,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 되살아나다
+    품사: 동사
 ---
 000_KEYWORD: 되새기다__동사__001
 import:
@@ -2839,8 +2878,6 @@ import:
       형태: 되씹는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 되씹다
     품사: 동사
 ---
@@ -3229,8 +3266,6 @@ import:
       형태: 되잡는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 되잡다
     품사: 동사
 ---

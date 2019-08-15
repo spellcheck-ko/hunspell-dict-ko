@@ -199,14 +199,22 @@ import:
     - 발음: 처드러가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79185_cheodeureogani.wav
       형태: 쳐들어가니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 쳐들어가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 쳐들어가다
+    품사: 동사
 ---
 000_KEYWORD: 쳐들어오다__동사__001
 import:
@@ -244,14 +252,22 @@ import:
     - 발음: 처드러오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/79186_cheodeureooni.wav
       형태: 쳐들어오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 쳐들어오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 쳐들어오다
+    품사: 동사
 ---
 000_KEYWORD: 쳐부수다__동사__001
 import:

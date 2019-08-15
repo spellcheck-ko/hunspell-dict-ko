@@ -78,7 +78,8 @@ import:
     품사: 접사
     항목ID: 70677
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 비-__접사__001
 import:
@@ -119,7 +120,8 @@ import:
     품사: 접사
     항목ID: 70676
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 비__명사__001
 import:
@@ -3245,14 +3247,22 @@ import:
     - 발음: 비뚜러지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60898_bittureojini.wav
       형태: 비뚤어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 비뚤어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 비뚤어지다
+    품사: 동사
 ---
 000_KEYWORD: 비련__명사__001
 import:
@@ -7335,8 +7345,6 @@ import:
       형태: 비웃는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 비웃다
     품사: 동사
 ---
@@ -8532,8 +8540,6 @@ import:
       형태: 비좁습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 비좁다
     품사: 형용사
 ---
@@ -9059,8 +9065,6 @@ import:
       형태: 비집는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 비집다
     품사: 동사
 ---
@@ -15149,7 +15153,9 @@ import:
     표제어: 빌다
     품사: 동사
     항목ID: 92251
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 빌딩__명사__001
 import:
@@ -15671,7 +15677,7 @@ import:
     - 발음: 비러멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60691_bireomeongneun.wav
       형태: 빌어먹는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 빌어먹다
     품사: 동사
@@ -15679,6 +15685,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빌어먹다
+    품사: 동사
 ---
 000_KEYWORD: 빌어먹을__감탄사__001
 import:
@@ -15774,7 +15786,8 @@ import:
     품사: 접사
     항목ID: 70678
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 빗__명사__001
 import:
@@ -16080,8 +16093,6 @@ import:
       형태: 빗는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 빗다
     품사: 동사
 ---
@@ -17961,14 +17972,22 @@ import:
     - 발음: 비저내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60818_bijeonaeni.wav
       형태: 빚어내니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 빚어내다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빚어내다
+    품사: 동사
 ---
 000_KEYWORD: 빚어지다__동사__001
 import:
@@ -18054,14 +18073,22 @@ import:
     - 발음: 비저지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60822_bijeojini.wav
       형태: 빚어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 빚어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 빚어지다
+    품사: 동사
 ---
 000_KEYWORD: 빚쟁이__명사__001
 import:

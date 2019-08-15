@@ -1634,7 +1634,8 @@ import:
     품사: 접사
     항목ID: 88690
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 쪽__명사__001
 import:
@@ -3360,7 +3361,7 @@ import:
     - 발음: 쫃껴나니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37178_jjotkkyeonani.wav
       형태: 쫓겨나니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 쫓겨나다
     품사: 동사
@@ -3368,6 +3369,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 쫓겨나다
+    품사: 동사
 ---
 000_KEYWORD: 쫓기다__동사__001
 import:

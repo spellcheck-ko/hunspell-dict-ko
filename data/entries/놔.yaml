@@ -84,7 +84,7 @@ import:
     - 발음: 놔ː둠니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28326_nwa-dumnida.wav
       형태: 놔둡니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 놔두다
     품사: 동사
@@ -92,6 +92,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 놔두다
+    품사: 동사
 ---
 000_KEYWORD: 놔주다__동사__001
 import:

@@ -449,7 +449,7 @@ import:
     - 발음: 씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/28000/16718_sseumnida.wav
       형태: 씁니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 쓰다
     품사: 형용사
@@ -457,6 +457,12 @@ manual:
   맞춤법 검사:
     속성:
     - 으불규칙
+result:
+  맞춤법 검사:
+    속성:
+    - 으불규칙
+    표제어: 쓰다
+    품사: 형용사
 ---
 000_KEYWORD: 쓰다듬다__동사__001
 import:

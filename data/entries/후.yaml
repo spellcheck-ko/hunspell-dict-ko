@@ -1380,7 +1380,9 @@ import:
     표제어: 후두둑
     품사: 부사
     항목ID: 92310
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 후두부__명사__001
 import:
@@ -1464,7 +1466,9 @@ import:
     표제어: 후둘후둘
     품사: 부사
     항목ID: 92309
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 후드__명사__001
 import:
@@ -1855,7 +1859,9 @@ import:
     표제어: 후라이판
     품사: 명사
     항목ID: 92308
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 후려갈기다__동사__001
 import:
@@ -1984,7 +1990,7 @@ import:
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/88065_huryeocheo.wav
       형태: 후려쳐
     - 형태: 후려치니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 후려치다
     품사: 동사
@@ -1992,6 +1998,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 후려치다
+    품사: 동사
 ---
 000_KEYWORD: 후련하다__형용사__001
 import:

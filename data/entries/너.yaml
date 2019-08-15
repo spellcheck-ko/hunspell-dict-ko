@@ -24,7 +24,8 @@ import:
     품사: 어미
     항목ID: 68835
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 너__관형사__001
 import:
@@ -377,7 +378,9 @@ import:
     표제어: 너댓
     품사: 수사
     항목ID: 40254
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 너더댓__수사__001
 import:
@@ -2438,7 +2441,7 @@ import:
     표제어: 너희
     품사: 대명사
     항목ID: 61180
-result:
+import_derived:
   맞춤법 검사:
     표제어: 너희
     품사: 대명사
@@ -2446,6 +2449,12 @@ manual:
   맞춤법 검사:
     속성:
     - 가산명사
+result:
+  맞춤법 검사:
+    속성:
+    - 가산명사
+    표제어: 너희
+    품사: 대명사
 ---
 000_KEYWORD: 넉__관형사__001
 import:
@@ -2529,8 +2538,6 @@ import:
       형태: 넉넉잡습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 넉넉잡다
     품사: 동사
 ---
@@ -3071,7 +3078,9 @@ import:
     표제어: 넌즈시
     품사: 부사
     항목ID: 92180
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 넌지시__부사__001
 import:
@@ -4030,7 +4039,6 @@ import:
 result:
   맞춤법 검사:
     속성:
-    - 규칙
     - 용언합성
     표제어: 널어놓다
     품사: 동사
@@ -4432,7 +4440,9 @@ import:
     표제어: 넓다랗다
     품사: 형용사
     항목ID: 92181
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 넓디넓다__형용사__001
 import:
@@ -4704,7 +4714,9 @@ import:
     표제어: 넓죽
     품사: 부사
     항목ID: 92182
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 넓직하다__형용사__001
 import:
@@ -4720,7 +4732,9 @@ import:
     표제어: 넓직하다
     품사: 형용사
     항목ID: 92183
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 넓히다__동사__001
 import:
@@ -4976,8 +4990,6 @@ import:
       형태: 넘겨받습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 넘겨받다
     품사: 동사
 ---
@@ -5021,7 +5033,7 @@ import:
     - 발음: 넘겨줌니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28561_neomgyeojumnida.wav
       형태: 넘겨줍니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 넘겨주다
     품사: 동사
@@ -5029,6 +5041,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 넘겨주다
+    품사: 동사
 ---
 000_KEYWORD: 넘겨짚다__동사__001
 import:
@@ -5076,7 +5094,7 @@ import:
     - 발음: 넘겨집씀니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/41227_neomgyeojipsseumnida.wav
       형태: 넘겨짚습니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 넘겨짚다
     품사: 동사
@@ -5084,6 +5102,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 넘겨짚다
+    품사: 동사
 ---
 000_KEYWORD: 넘기다__동사__001
 import:
@@ -5342,7 +5366,7 @@ import:
     - 발음: 넘ː나듬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41233_neom-nadeumnida.wav
       형태: 넘나듭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 넘나들다
     품사: 동사
@@ -5350,6 +5374,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 넘나들다
+    품사: 동사
 ---
 000_KEYWORD: 넘다__동사__001
 import:
@@ -6307,14 +6337,22 @@ import:
     - 발음: 너머감니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/65551_neomeogamnida.wav
       형태: 넘어갑니다
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 넘어가다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 넘어가다
+    품사: 동사
 ---
 000_KEYWORD: 넘어다보다__동사__001
 import:
@@ -6576,7 +6614,7 @@ import:
     - 발음: 너머섬니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/64525_neomeoseomnida.wav
       형태: 넘어섭니다
-result:
+import_derived:
   맞춤법 검사:
     표제어: 넘어서다
     품사: 동사
@@ -6584,6 +6622,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 넘어서다
+    품사: 동사
 ---
 000_KEYWORD: 넘어오다__동사__001
 import:
@@ -6699,14 +6743,22 @@ import:
     - 발음: 너머옴니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/28312_neomeoomnida.wav
       형태: 넘어옵니다
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 넘어오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 넘어오다
+    품사: 동사
 ---
 000_KEYWORD: 넘어지다__동사__001
 import:
@@ -6786,14 +6838,22 @@ import:
       형태: 넘어지니
     - 발음: 넘어짐니다
       형태: 넘어집니다
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 넘어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 넘어지다
+    품사: 동사
 ---
 000_KEYWORD: 넘쳐흐르다__동사__001
 import:
@@ -6875,7 +6935,7 @@ import:
     - 발음: 넘처흐름니다
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41330_neomcheoheureumnida.wav
       형태: 넘쳐흐릅니다
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -6885,6 +6945,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 넘쳐흐르다
+    품사: 동사
 ---
 000_KEYWORD: 넘치다__동사__001
 import:
@@ -7142,7 +7208,9 @@ import:
     표제어: 넙적다리
     품사: 명사
     항목ID: 92184
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 넙적하다__형용사__001
 import:
@@ -7158,7 +7226,9 @@ import:
     표제어: 넙적하다
     품사: 형용사
     항목ID: 92185
-result: {}
+result:
+  맞춤법 검사:
+    제외: 틀린 말
 ---
 000_KEYWORD: 넙죽__부사__001
 import:
@@ -7958,7 +8028,5 @@ import:
       형태: 넣습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 넣다
     품사: 동사

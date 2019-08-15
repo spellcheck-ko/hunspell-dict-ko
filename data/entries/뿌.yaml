@@ -715,7 +715,8 @@ import:
     품사: 조사
     항목ID: 69999
 result:
-  맞춤법 검사: {}
+  맞춤법 검사:
+    제외: 해당 품사 아님
 ---
 000_KEYWORD: 뿔__명사__001
 import:
@@ -1033,14 +1034,22 @@ import:
     - 발음: 뿌머내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61952_ppumeonaeni.wav
       형태: 뿜어내니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 뿜어내다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 뿜어내다
+    품사: 동사
 ---
 000_KEYWORD: 뿡__부사__001
 import:

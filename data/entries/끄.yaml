@@ -780,8 +780,6 @@ import:
       형태: 끄집는
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 끄집다
     품사: 동사
 ---
@@ -852,7 +850,7 @@ import:
     - 발음: 끄ː지버내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/37869_kkeu-jibeonaeni.wav
       형태: 끄집어내니
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - 용언합성
@@ -862,6 +860,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끄집어내다
+    품사: 동사
 ---
 000_KEYWORD: 끄트머리__명사__001
 import:
@@ -2312,14 +2316,22 @@ import:
     - 발음: 끄너지니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/89809_kkeuneojini.wav
       형태: 끊어지니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 끊어지다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끊어지다
+    품사: 동사
 ---
 000_KEYWORD: 끊이다__동사__001
 import:
@@ -2740,7 +2752,7 @@ import:
     - 발음: 끌ː려가니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38021_kkeur-ryeogani.wav
       형태: 끌려가니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 끌려가다
     품사: 동사
@@ -2748,6 +2760,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끌려가다
+    품사: 동사
 ---
 000_KEYWORD: 끌려들다__동사__001
 import:
@@ -3095,14 +3113,22 @@ import:
     - 발음: 끄ː러내니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38025_kkeu-reonaeni.wav
       형태: 끌어내니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 끌어내다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끌어내다
+    품사: 동사
 ---
 000_KEYWORD: 끌어내리다__동사__001
 import:
@@ -3186,7 +3212,7 @@ import:
     - 발음: 끄ː러내리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38026_kkeu-reonaerini.wav
       형태: 끌어내리니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 끌어내리다
     품사: 동사
@@ -3194,6 +3220,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끌어내리다
+    품사: 동사
 ---
 000_KEYWORD: 끌어넣다__동사__001
 import:
@@ -3251,8 +3283,6 @@ import:
       형태: 끌어넣습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 끌어넣다
     품사: 동사
 ---
@@ -3323,7 +3353,7 @@ import:
     - 발음: 끄ː러당기니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/16270_kkeu-reodanggini.wav
       형태: 끌어당기니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 끌어당기다
     품사: 동사
@@ -3331,6 +3361,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끌어당기다
+    품사: 동사
 ---
 000_KEYWORD: 끌어대다__동사__001
 import:
@@ -3487,7 +3523,7 @@ import:
     - 발음: 끄ː러드리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38029_kkeu-reodeurini.wav
       형태: 끌어들이니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 끌어들이다
     품사: 동사
@@ -3495,6 +3531,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끌어들이다
+    품사: 동사
 ---
 000_KEYWORD: 끌어모으다__동사__001
 import:
@@ -3561,7 +3603,7 @@ import:
     - 발음: 끄ː러모으니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38030_kkeu-reomoeuni.wav
       형태: 끌어모으니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 끌어모으다
     품사: 동사
@@ -3569,6 +3611,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끌어모으다
+    품사: 동사
 ---
 000_KEYWORD: 끌어안다__동사__001
 import:
@@ -3636,7 +3684,7 @@ import:
     - 발음: 끄ː러아느니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/38031_kkeu-reoaneuni.wav
       형태: 끌어안으니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 끌어안다
     품사: 동사
@@ -3644,6 +3692,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끌어안다
+    품사: 동사
 ---
 000_KEYWORD: 끌어오다__동사__001
 import:
@@ -3860,7 +3914,7 @@ import:
     - 발음: 끄ː러올리니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38033_kkeu-reoollini.wav
       형태: 끌어올리니
-result:
+import_derived:
   맞춤법 검사:
     표제어: 끌어올리다
     품사: 동사
@@ -3868,6 +3922,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끌어올리다
+    품사: 동사
 ---
 000_KEYWORD: 끓는점__명사__001
 import:
@@ -4108,7 +4168,7 @@ import:
     - 발음: 끄러오르니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/38114_kkeureooreuni.wav
       형태: 끓어오르니
-result:
+import_derived:
   맞춤법 검사:
     속성:
     - 르불규칙
@@ -4118,6 +4178,12 @@ manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 끓어오르다
+    품사: 동사
 ---
 000_KEYWORD: 끓이다__동사__001
 import:
@@ -5682,8 +5748,6 @@ import:
       형태: 끝닿습니다
 result:
   맞춤법 검사:
-    속성:
-    - 규칙
     표제어: 끝닿다
     품사: 동사
 ---

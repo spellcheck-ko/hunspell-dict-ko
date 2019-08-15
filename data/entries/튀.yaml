@@ -566,14 +566,22 @@ import:
     - 발음: 튀여나오니
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82397_twiyeonaoni.wav
       형태: 튀어나오니
-result:
+import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 튀어나오다
     품사: 동사
 manual:
   맞춤법 검사:
     속성:
     - 용언합성
+result:
+  맞춤법 검사:
+    속성:
+    - 용언합성
+    표제어: 튀어나오다
+    품사: 동사
 ---
 000_KEYWORD: 튕기다__동사__001
 import:
