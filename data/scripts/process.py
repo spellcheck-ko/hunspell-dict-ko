@@ -244,7 +244,7 @@ class ProcessYamlDocs:
         if len(word) < 4:
             return False
         suspected = False
-        if word.endswith('가다') or word.endswith('오다') or word.endswith('보내다') or word.endswith('치다') or word.endswith('놓다') or word.endswith('내다'):
+        if word.endswith('가다') or  word.endswith('보내다') or word.endswith('오다') or word.endswith('주다') or word.endswith('치다') or word.endswith('놓다') or word.endswith('내다'):
             suspected = True
         if word.endswith('지다') and not word.endswith('빠지다'):
             suspected = True
