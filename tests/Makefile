@@ -4,16 +4,16 @@ all: test
 
 test:
 	python3 checkhunspellversion.py
-	@for T in $(TESTS); do \
+	@RESULT=0; for T in $(TESTS); do \
 		echo "Testing $$T..."; \
-		python3 runtest.py ../ko $$T; \
-	done
+		python3 runtest.py ../ko $$T || RESULT=1; \
+	done; exit $$RESULT
 
 autopkgtest:
 	python3 checkhunspellversion.py
-	@for T in $(TESTS); do \
+	@RESULT=0; for T in $(TESTS); do \
 		echo "Testing $$T..."; \
-		python3 runtest.py ko $$T; \
-	done
+		python3 runtest.py ko $$T || RESULT=1; \
+	done; exit $$RESULT
 
 .PHONY: all clean test

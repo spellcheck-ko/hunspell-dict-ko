@@ -142,10 +142,13 @@ class ProcessYamlDocs:
             doc['result'] = doc['import_derived']
             del doc['import_derived']
         elif 'import_derived' in doc and '맞춤법 검사' in doc['import_derived']:
-            entry = copy.deepcopy(doc['import_derived']['맞춤법 검사'])
-            for key in doc['manual']['맞춤법 검사'].keys():
-                entry[key] = copy.deepcopy(doc['manual']['맞춤법 검사'][key])
-            doc['result']['맞춤법 검사'] = entry
+            if '맞춤법 검사' in doc['manual'] and '제외' in doc['manual']['맞춤법 검사']:
+                doc['result']['맞춤법 검사'] = copy.deepcopy(doc['manual']['맞춤법 검사'])
+            else:
+                entry = copy.deepcopy(doc['import_derived']['맞춤법 검사'])
+                for key in doc['manual']['맞춤법 검사'].keys():
+                    entry[key] = copy.deepcopy(doc['manual']['맞춤법 검사'][key])
+                doc['result']['맞춤법 검사'] = entry
 
     def detect_inflection_type(self, word, inflections):
         if not word.endswith('다'):

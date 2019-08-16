@@ -1049,10 +1049,6 @@ entries:
   word: 가지각색
 - pos: 동사
   word: 가지다
-- pos: 동사
-  props:
-  - 보조용언:-어
-  word: 가지다
 - pos: 형용사
   word: 가지런하다
 - pos: 부사
@@ -2820,10 +2816,6 @@ entries:
 - pos: 동사
   props:
   - 준말용언
-  word: 갖다
-- pos: 동사
-  props:
-  - 보조용언:-어
   word: 갖다
 - pos: 명사
   word: 갖바치
