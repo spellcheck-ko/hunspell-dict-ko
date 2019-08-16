@@ -100,6 +100,10 @@ class ProcessYamlDocs:
                 if self.detect_compound_verb(word):
                     props.append('용언합성')
 
+            if pos in ['명사', '의존 명사']:
+                if '주제 및 상황 범주' in input and input['주제 및 상황 범주'] == '개념 > 세는 말':
+                    props.append('단위명사')
+
             if len(props) > 0:
                 props.sort()
                 if '속성' not in output:

@@ -1040,6 +1040,8 @@ entries:
 - pos: 명사
   word: 가지
 - pos: 명사
+  props:
+  - 단위명사
   word: 가지
 - pos: 명사
   word: 가지가지
@@ -2852,6 +2854,8 @@ entries:
 - pos: 명사
   word: 개
 - pos: 명사
+  props:
+  - 단위명사
   word: 개
 - pos: 명사
   word: 개가
@@ -3248,6 +3252,8 @@ entries:
 - pos: 동사
   word: 개원하다
 - pos: 명사
+  props:
+  - 단위명사
   word: 개월
 - pos: 동사
   word: 개의하다
@@ -8462,6 +8468,8 @@ entries:
 - pos: 명사
   word: 공기
 - pos: 명사
+  props:
+  - 단위명사
   word: 공기
 - pos: 명사
   word: 공기놀이
@@ -12440,6 +12448,8 @@ entries:
 - pos: 명사
   word: 궂은일
 - pos: 명사
+  props:
+  - 단위명사
   word: 권
 - pos: 명사
   word: 권고
@@ -13076,6 +13086,8 @@ entries:
 - pos: 명사
   word: 그랜드
 - pos: 명사
+  props:
+  - 단위명사
   word: 그램
 - pos: 감탄사
   word: 그러게
@@ -17304,6 +17316,8 @@ entries:
 - pos: 명사
   word: 끝판
 - pos: 명사
+  props:
+  - 단위명사
   word: 끼
 - pos: 명사
   word: 끼
@@ -18156,10 +18170,14 @@ entries:
 - pos: 명사
   word: 낟알
 - pos: 명사
+  props:
+  - 단위명사
   word: 날
 - pos: 명사
   word: 날
 - pos: 명사
+  props:
+  - 단위명사
   word: 날
 - pos: 명사
   word: 날강도
@@ -19914,6 +19932,8 @@ entries:
 - pos: 명사
   word: 년
 - pos: 명사
+  props:
+  - 단위명사
   word: 년
 - pos: 명사
   word: 년대
@@ -22638,8 +22658,12 @@ entries:
 - pos: 동사
   word: 닫히다
 - pos: 명사
+  props:
+  - 단위명사
   word: 달
 - pos: 명사
+  props:
+  - 단위명사
   word: 달
 - pos: 동사
   word: 달가워하다
@@ -23307,6 +23331,8 @@ entries:
 - pos: 명사
   word: 대
 - pos: 명사
+  props:
+  - 단위명사
   word: 대
 - pos: 명사
   word: 대가
@@ -24861,6 +24887,8 @@ entries:
 - pos: 형용사
   word: 덩실하다
 - pos: 명사
+  props:
+  - 단위명사
   word: 덩어리
 - pos: 동사
   word: 덩어리지다
@@ -24981,6 +25009,8 @@ entries:
 - pos: 명사
   word: 도
 - pos: 명사
+  props:
+  - 단위명사
   word: 도
 - pos: 명사
   word: 도가니
@@ -30187,6 +30217,8 @@ entries:
 - pos: 명사
   word: 마드리드
 - pos: 명사
+  props:
+  - 단위명사
   word: 마디
 - pos: 명사
   word: 마디마디
@@ -30251,6 +30283,8 @@ entries:
 - pos: 동사
   word: 마름질하다
 - pos: 명사
+  props:
+  - 단위명사
   word: 마리
 - pos: 명사
   word: 마리아
@@ -32871,6 +32905,8 @@ entries:
 - pos: 명사
   word: 명
 - pos: 명사
+  props:
+  - 단위명사
   word: 명
 - pos: 명사
   word: 명가
@@ -33251,6 +33287,8 @@ entries:
 - pos: 명사
   word: 모금
 - pos: 명사
+  props:
+  - 단위명사
   word: 모금
 - pos: 동사
   word: 모금되다
@@ -36613,6 +36651,8 @@ entries:
 - pos: 명사
   word: 미켈란젤로
 - pos: 명사
+  props:
+  - 단위명사
   word: 미터
 - pos: 명사
   word: 미터기
@@ -36967,6 +37007,8 @@ entries:
 - pos: 명사
   word: 밀리리터
 - pos: 명사
+  props:
+  - 단위명사
   word: 밀리미터
 - pos: 명사
   word: 밀림
@@ -37591,10 +37633,14 @@ entries:
 - pos: 명사
   word: 바쿠스
 - pos: 명사
+  props:
+  - 단위명사
   word: 바퀴
 - pos: 명사
   word: 바퀴
 - pos: 명사
+  props:
+  - 단위명사
   word: 바퀴
 - pos: 명사
   word: 바퀴벌레
@@ -38799,6 +38845,8 @@ entries:
 - pos: 명사
   word: 발짓
 - pos: 명사
+  props:
+  - 단위명사
   word: 발짝
 - pos: 명사
   word: 발찌
@@ -39393,6 +39441,8 @@ entries:
 - pos: 동사
   word: 방영하다
 - pos: 명사
+  props:
+  - 단위명사
   word: 방울
 - pos: 명사
   word: 방울
@@ -39629,6 +39679,8 @@ entries:
 - pos: 명사
   word: 배
 - pos: 명사
+  props:
+  - 단위명사
   word: 배
 - pos: 명사
   word: 배
@@ -40513,6 +40565,8 @@ entries:
   - 용언합성
   word: 벅차오르다
 - pos: 명사
+  props:
+  - 단위명사
   word: 번
 - pos: 동사
   word: 번갈다
@@ -40685,6 +40739,8 @@ entries:
 - pos: 형용사
   word: 번질번질하다
 - pos: 명사
+  props:
+  - 단위명사
   word: 번째
 - pos: 부사
   word: 번쩍
@@ -40717,6 +40773,8 @@ entries:
 - pos: 감탄사
   word: 번호
 - pos: 명사
+  props:
+  - 단위명사
   word: 번호
 - pos: 명사
   word: 번호순
@@ -40743,6 +40801,8 @@ entries:
 - pos: 명사
   word: 벌
 - pos: 명사
+  props:
+  - 단위명사
   word: 벌
 - pos: 동사
   word: 벌거벗기다
@@ -41769,6 +41829,8 @@ entries:
 - pos: 명사
   word: 병
 - pos: 명사
+  props:
+  - 단위명사
   word: 병
 - pos: 명사
   word: 병
@@ -43231,6 +43293,8 @@ entries:
 - pos: 명사
   word: 봉제
 - pos: 명사
+  props:
+  - 단위명사
   word: 봉지
 - pos: 동사
   word: 봉직하다
@@ -44431,8 +44495,12 @@ entries:
 - pos: 명사
   word: 분
 - pos: 명사
+  props:
+  - 단위명사
   word: 분
 - pos: 명사
+  props:
+  - 단위명사
   word: 분
 - pos: 명사
   word: 분가
@@ -48725,6 +48793,8 @@ entries:
 - pos: 명사
   word: 살
 - pos: 명사
+  props:
+  - 단위명사
   word: 살
 - pos: 명사
   word: 살가죽
@@ -49633,6 +49703,8 @@ entries:
 - pos: 명사
   word: 상임위원회
 - pos: 명사
+  props:
+  - 단위명사
   word: 상자
 - pos: 명사
   word: 상장
@@ -52463,6 +52535,8 @@ entries:
 - pos: 명사
   word: 세
 - pos: 명사
+  props:
+  - 단위명사
   word: 세
 - pos: 명사
   word: 세간
@@ -52543,6 +52617,8 @@ entries:
 - pos: 명사
   word: 세대
 - pos: 명사
+  props:
+  - 단위명사
   word: 세대
 - pos: 명사
   word: 세대
@@ -52863,8 +52939,12 @@ entries:
 - pos: 명사
   word: 센트
 - pos: 명사
+  props:
+  - 단위명사
   word: 센티
 - pos: 명사
+  props:
+  - 단위명사
   word: 센티미터
 - pos: 명사
   word: 셀
@@ -54389,6 +54469,8 @@ entries:
 - pos: 명사
   word: 송유관
 - pos: 명사
+  props:
+  - 단위명사
   word: 송이
 - pos: 명사
   word: 송이버섯
@@ -57103,12 +57185,16 @@ entries:
 - pos: 명사
   word: 시
 - pos: 명사
+  props:
+  - 단위명사
   word: 시
 - pos: 명사
   word: 시
 - pos: 명사
   word: 시
 - pos: 명사
+  props:
+  - 단위명사
   word: 시
 - pos: 명사
   word: 시가
@@ -57151,8 +57237,12 @@ entries:
 - pos: 동사
   word: 시각화하다
 - pos: 명사
+  props:
+  - 단위명사
   word: 시간
 - pos: 명사
+  props:
+  - 단위명사
   word: 시간
 - pos: 명사
   word: 시간강사
@@ -59593,6 +59683,8 @@ entries:
 - pos: 형용사
   word: 쌉쌀하다
 - pos: 명사
+  props:
+  - 단위명사
   word: 쌍
 - pos: 명사
   word: 쌍곡선
@@ -69649,6 +69741,8 @@ entries:
 - pos: 명사
   word: 원
 - pos: 명사
+  props:
+  - 단위명사
   word: 원
 - pos: 명사
   word: 원가
@@ -70011,10 +70105,14 @@ entries:
 - pos: 명사
   word: 원흉
 - pos: 명사
+  props:
+  - 단위명사
   word: 월
 - pos: 명사
   word: 월
 - pos: 명사
+  props:
+  - 단위명사
   word: 월
 - pos: 명사
   word: 월간
@@ -73903,6 +74001,8 @@ entries:
 - pos: 명사
   word: 인
 - pos: 명사
+  props:
+  - 단위명사
   word: 인
 - pos: 명사
   word: 인
@@ -74109,6 +74209,8 @@ entries:
 - pos: 명사
   word: 인분
 - pos: 명사
+  props:
+  - 단위명사
   word: 인분
 - pos: 명사
   word: 인사
@@ -74505,12 +74607,16 @@ entries:
 - pos: 명사
   word: 일
 - pos: 명사
+  props:
+  - 단위명사
   word: 일
 - pos: 수사
   props:
   - 수:1
   word: 일
 - pos: 명사
+  props:
+  - 단위명사
   word: 일
 - pos: 명사
   word: 일가
@@ -76869,6 +76975,8 @@ entries:
 - pos: 명사
   word: 작황
 - pos: 명사
+  props:
+  - 단위명사
   word: 잔
 - pos: 명사
   word: 잔
@@ -77349,6 +77457,8 @@ entries:
 - pos: 명사
   word: 장
 - pos: 명사
+  props:
+  - 단위명사
   word: 장
 - pos: 명사
   word: 장가
@@ -82129,6 +82239,8 @@ entries:
 - pos: 관형사
   word: 조
 - pos: 명사
+  props:
+  - 단위명사
   word: 조
 - pos: 명사
   word: 조
@@ -83107,6 +83219,8 @@ entries:
 - pos: 명사
   word: 종
 - pos: 명사
+  props:
+  - 단위명사
   word: 종
 - pos: 명사
   word: 종
@@ -83589,10 +83703,14 @@ entries:
 - pos: 명사
   word: 주
 - pos: 명사
+  props:
+  - 단위명사
   word: 주
 - pos: 명사
   word: 주
 - pos: 명사
+  props:
+  - 단위명사
   word: 주
 - pos: 명사
   word: 주가
@@ -83607,8 +83725,12 @@ entries:
 - pos: 명사
   word: 주간
 - pos: 명사
+  props:
+  - 단위명사
   word: 주간
 - pos: 명사
+  props:
+  - 단위명사
   word: 주간
 - pos: 명사
   word: 주간지
@@ -83691,6 +83813,8 @@ entries:
 - pos: 명사
   word: 주꾸미
 - pos: 명사
+  props:
+  - 단위명사
   word: 주년
 - pos: 명사
   word: 주눅
@@ -84075,10 +84199,14 @@ entries:
 - pos: 명사
   word: 주일
 - pos: 명사
+  props:
+  - 단위명사
   word: 주일
 - pos: 명사
   word: 주일
 - pos: 명사
+  props:
+  - 단위명사
   word: 주일
 - pos: 명사
   word: 주임
@@ -87696,6 +87824,8 @@ entries:
   - ㅂ불규칙
   word: 짜증스럽다
 - pos: 명사
+  props:
+  - 단위명사
   word: 짝
 - pos: 부사
   word: 짝
@@ -89238,6 +89368,8 @@ entries:
 - pos: 부사
   word: 채
 - pos: 명사
+  props:
+  - 단위명사
   word: 채
 - pos: 명사
   word: 채
@@ -90784,6 +90916,8 @@ entries:
 - pos: 명사
   word: 초
 - pos: 명사
+  props:
+  - 단위명사
   word: 초
 - pos: 명사
   word: 초가
@@ -94038,6 +94172,8 @@ entries:
 - pos: 부사
   word: 켜켜이
 - pos: 명사
+  props:
+  - 단위명사
   word: 켤레
 - pos: 명사
   word: 코
@@ -94728,8 +94864,12 @@ entries:
 - pos: 명사
   word: 킬로
 - pos: 명사
+  props:
+  - 단위명사
   word: 킬로그램
 - pos: 명사
+  props:
+  - 단위명사
   word: 킬로미터
 - pos: 명사
   word: 킬로바이트
@@ -96138,6 +96278,8 @@ entries:
 - pos: 명사
   word: 톤
 - pos: 명사
+  props:
+  - 단위명사
   word: 톤
 - pos: 명사
   word: 톨
@@ -96176,6 +96318,8 @@ entries:
 - pos: 명사
   word: 통
 - pos: 명사
+  props:
+  - 단위명사
   word: 통
 - pos: 명사
   word: 통가
@@ -97776,6 +97920,8 @@ entries:
 - pos: 명사
   word: 판
 - pos: 명사
+  props:
+  - 단위명사
   word: 판
 - pos: 명사
   word: 판
@@ -98426,6 +98572,8 @@ entries:
 - pos: 명사
   word: 페이스트
 - pos: 명사
+  props:
+  - 단위명사
   word: 페이지
 - pos: 명사
   word: 페이지
@@ -98482,6 +98630,8 @@ entries:
 - pos: 명사
   word: 편
 - pos: 명사
+  props:
+  - 단위명사
   word: 편
 - pos: 명사
   word: 편견
@@ -98684,6 +98834,8 @@ entries:
 - pos: 명사
   word: 평
 - pos: 명사
+  props:
+  - 단위명사
   word: 평
 - pos: 명사
   word: 평가
@@ -99082,6 +99234,8 @@ entries:
 - pos: 부사
   word: 포근히
 - pos: 명사
+  props:
+  - 단위명사
   word: 포기
 - pos: 명사
   word: 포기
@@ -104399,8 +104553,12 @@ entries:
 - pos: 명사
   word: 호
 - pos: 명사
+  props:
+  - 단위명사
   word: 호
 - pos: 명사
+  props:
+  - 단위명사
   word: 호
 - pos: 명사
   word: 호가
@@ -106115,6 +106273,8 @@ entries:
 - pos: 명사
   word: 회
 - pos: 명사
+  props:
+  - 단위명사
   word: 회
 - pos: 명사
   word: 회갑
