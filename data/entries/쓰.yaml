@@ -779,15 +779,27 @@ result:
 ---
 000_KEYWORD: 쓰러트리다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 쓰러트리다
-    품사: 동사
-    항목ID: 17037
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=211914&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:23:08+09:00'
+    구분: 단어
+    발음:
+    - 쓰러트리다
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: 사람이나 물체를 서 있던 상태에서 바닥에 눕는 상태가 되게 하다.
+      종류: 일반어
+      품사: 동사
+      형태: …을…에
+    종류: 고유어
+    표제어: 쓰러-트리다
+    항목ID: 211914
+    활용:
+    - 약어: 쓰러트려
+      활용: 쓰러트리어
+    - 활용: 쓰러트리니
 result:
   맞춤법 검사:
     표제어: 쓰러트리다
@@ -1492,15 +1504,24 @@ result:
 ---
 000_KEYWORD: 쓴소리__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 쓴소리
-    품사: 명사:보통:서술성
-    항목ID: 17047
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=214824&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:23:08+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=454433&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 쓴소리-하다
+      항목ID: 454433
+    구분: 단어
+    발음:
+    - 쓴소리
+    의미:
+    - 뜻풀이: 듣기에는 거슬리나 도움이 되는 말.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 쓴-소리
+    항목ID: 214824
 result:
   맞춤법 검사:
     표제어: 쓴소리

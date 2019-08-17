@@ -93,15 +93,13 @@ result:
 
 ### 표준국어대사전 가져오기
 
-FIXME
-
  * 표준국어대사전 사이트에서 "자세히 찾기"로 전체 단어를 검색한 후 "사전
    내려받기"를 눌러 XML 포맷으로 다운로드합니다. 진행이 완료되면 ZIP 파일을
    다운로드할 수 있습니다.
 
  * 다운로드한 파일이 123456.zip 파일이라고 할 때 다음을 실행해 가져옵니다.
 
- ```python3 scripts/import-stdict.py ../../123456.zip'
+ ```python3 scripts/import-stdict.py ../../123456.zip scripts/import-stdict-words.csv```
 
 ## 데이터 처리
 

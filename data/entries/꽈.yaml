@@ -37,15 +37,23 @@ result:
 ---
 000_KEYWORD: 꽈리고추__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 꽈리고추
-    품사: 명사:보통:비서술성
-    항목ID: 4558
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=517722&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:01:57+09:00'
+    구분: 단어
+    발음:
+    - 꽈ː리고추
+    의미:
+    - 뜻풀이: 모양이 쭈글쭈글한 풋고추를 이르는 말.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=104397
+        레이블: 꽈리고추
+        종류: 사진
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 꽈리-고추
+    항목ID: 517722
 result:
   맞춤법 검사:
     표제어: 꽈리고추

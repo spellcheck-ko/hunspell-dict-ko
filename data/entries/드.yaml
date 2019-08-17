@@ -518,21 +518,6 @@ result:
     표제어: 드넓다
     품사: 형용사
 ---
-000_KEYWORD: 드높다__동사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 드높다
-    품사: 동사
-    항목ID: 7561
-result:
-  맞춤법 검사:
-    표제어: 드높다
-    품사: 동사
----
 000_KEYWORD: 드높다__형용사__001
 import:
   한국어기초사전:
@@ -1078,15 +1063,22 @@ result:
 ---
 000_KEYWORD: 드래그__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=92486&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: drag
+    의미:
+    - 뜻풀이: 마우스의 버튼을 누른 채 화면 위의 커서를 어떤 점에서 다른 점까지 움직인 후 버튼을 떼는 동작. 데이터를 블록으로 지정하는 데에
+        많이 쓴다.
+      분류: 정보·통신
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 드래그
-    품사: 명사:보통:서술성
-    항목ID: 7570
+    항목ID: 92486
 result:
   맞춤법 검사:
     표제어: 드래그
@@ -1331,15 +1323,20 @@ result:
 ---
 000_KEYWORD: 드러머__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: drummer
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=93047&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: drummer
+    의미:
+    - 뜻풀이: 드럼 연주자.
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 드러머
-    품사: 명사:보통:비서술성
-    항목ID: 7574
+    항목ID: 93047
 result:
   맞춤법 검사:
     표제어: 드러머
@@ -1403,23 +1400,18 @@ import:
     표제어: 드럼
     품사: 명사
     항목ID: 50959
-result:
+import_derived:
   맞춤법 검사:
     표제어: 드럼
     품사: 명사
----
-000_KEYWORD: 드럼__의존_명사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 드럼
-    품사: 명사:의존:단위성
-    항목ID: 32146
+manual:
+  맞춤법 검사:
+    속성:
+    - 단위명사
 result:
   맞춤법 검사:
+    속성:
+    - 단위명사
     표제어: 드럼
     품사: 명사
 ---
@@ -1833,15 +1825,26 @@ result:
 ---
 000_KEYWORD: 드리블__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=93464&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=93465&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 드리블-하다
+      항목ID: 93465
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: dribble
+    의미:
+    - 뜻풀이: 배구에서, 한 사람의 몸에 연속적으로 두 번 이상 공이 닿는 반칙.
+      분류: 체육
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 드리블
-    품사: 명사:보통:서술성
-    항목ID: 7580
+    항목ID: 93464
 result:
   맞춤법 검사:
     표제어: 드리블
@@ -2411,14 +2414,30 @@ result:
 ---
 000_KEYWORD: 득달같다__형용사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 득달같다
-    품사: 형용사
-    항목ID: 7589
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=94938&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=94939&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 득달같-이
+      항목ID: 94939
+    구분: 단어
+    발음:
+    - 득딸갇따
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: 잠시도 늦추지 않다.
+      종류: 일반어
+      품사: 형용사
+    종류: 고유어
+    표제어: 득달-같다
+    항목ID: 94938
+    활용:
+    - 활용: 득달같아
+    - 활용: 득달같으니
 result:
   맞춤법 검사:
     표제어: 득달같다
@@ -3108,16 +3127,22 @@ result:
 ---
 000_KEYWORD: 득실점__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 득점과 실점. 예; 대량 득실점으로 경기가 재미있었다.
-    표제어: 득실점
-    품사: 명사:보통:서술성
-    항목ID: 7598
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=94683&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 득씰쩜
+    원어:
+      언어: 한자
+      원어: 得失點
+    의미:
+    - 뜻풀이: 얻은 점수와 잃은 점수.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 득실-점
+    항목ID: 94683
 result:
   맞춤법 검사:
     표제어: 득실점
@@ -7494,6 +7519,26 @@ result:
     표제어: 들바람
     품사: 명사
 ---
+000_KEYWORD: 들보__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=94086&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 들뽀
+    의미:
+    - 뜻풀이: 남자의 생식기나 항문에 병이 생겼을 때 샅에 차는 헝겊.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 들-보01
+    항목ID: 94086
+result:
+  맞춤법 검사:
+    표제어: 들보
+    품사: 명사
+---
 000_KEYWORD: 들볶다__동사__001
 import:
   한국어기초사전:
@@ -9919,6 +9964,8 @@ import:
       형태: 들어주니
 import_derived:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 들어주다
     품사: 동사
 manual:
@@ -10448,15 +10495,21 @@ result:
 ---
 000_KEYWORD: 들여쓰기__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 컴퓨터
-    표제어: 들여쓰기
-    품사: 명사:보통:서술성
-    항목ID: 7648
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=95362&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 드려쓰기
+    의미:
+    - 뜻풀이: 컴퓨터 프로그램에서, 조건문ㆍ반복문 따위가 발생할 때 의미를 명확하게 표현하기 위하여 왼쪽 끝에서 일정한 간격을 벌려 오른쪽으로
+        들여 쓰는 것.
+      분류: 정보·통신
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 들여-쓰기
+    항목ID: 95362
 result:
   맞춤법 검사:
     표제어: 들여쓰기
@@ -12510,14 +12563,25 @@ result:
 ---
 000_KEYWORD: 들통나다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 들통나다
-    품사: 동사
-    항목ID: 7669
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=518936&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 들통나다
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: 비밀이나 잘못된 일 따위가 드러나다.
+      종류: 일반어
+      품사: 동사
+    종류: 고유어
+    표제어: 들통-나다
+    항목ID: 518936
+    활용:
+    - 활용: 들통나
+    - 활용: 들통나니
 result:
   맞춤법 검사:
     표제어: 들통나다
@@ -13241,6 +13305,107 @@ result:
     표제어: 등
     품사: 명사
 ---
+000_KEYWORD: 등__명사__003
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 속담
+      표제어: 등 시린 절 받기 싫다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 속담
+      표제어: 등에 풀 바른 것 같다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 속담
+      표제어: 등을 쓰다듬어 준 강아지 발등 문다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 속담
+      표제어: 등이 더우랴 배가 부르랴
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 속담
+      표제어: 등이 따스우면 배부르다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 속담
+      표제어: 등 치고 배 만진다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 속담
+      표제어: 등 치고 간 내먹다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등(을) 대다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등(을) 돌리다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등(을) 타다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등(이) 달다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등(이) 닿다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등에 날이 나다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등에 찬물을 끼얹는 듯
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등으로 먹고 배로 먹는다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등을 긁어먹다[갉아먹다]
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등을 떠밀다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등을 벗겨 먹다
+      항목ID: 420969
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
+      종류: 관용구
+      표제어: 등 진 가재
+      항목ID: 420969
+    구분: 단어
+    발음:
+    - 등
+    어원: ＜＜용가＞
+    의미:
+    - 뜻풀이: 물체의 위쪽이나 바깥쪽에 볼록하게 내민 부분.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=196113
+        종류: 삽화
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 등01
+    항목ID: 420969
+result:
+  맞춤법 검사:
+    표제어: 등
+    품사: 명사
+---
 000_KEYWORD: 등__의존_명사__001
 import:
   한국어기초사전:
@@ -13495,15 +13660,22 @@ result:
 ---
 000_KEYWORD: 등고자비__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 등고자비
-    품사: 명사:보통:서술성
-    항목ID: 7682
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=416201&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 등고자비
+    원어:
+      언어: 한자
+      원어: 登高自卑
+    의미:
+    - 뜻풀이: 지위가 높아질수록 자신을 낮춤을 이르는 말.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 등고-자비
+    항목ID: 416201
 result:
   맞춤법 검사:
     표제어: 등고자비
@@ -13881,23 +14053,18 @@ import:
     - 발음: 등ː금만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/50036_deung-geumman.wav
       형태: 등급만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 등급
     품사: 명사
----
-000_KEYWORD: 등급__의존_명사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등급
-    품사: 명사:의존:단위성
-    항목ID: 7689
+manual:
+  맞춤법 검사:
+    속성:
+    - 단위명사
 result:
   맞춤법 검사:
+    속성:
+    - 단위명사
     표제어: 등급
     품사: 명사
 ---
@@ -14022,6 +14189,30 @@ import:
 result:
   맞춤법 검사:
     표제어: 등기부
+    품사: 명사
+---
+000_KEYWORD: 등기소__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=418178&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 등기소
+    원어:
+      언어: 한자
+      원어: 登記所
+    의미:
+    - 뜻풀이: 등기 사무를 맡아보는 관청.
+      분류: 행정
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 등기-소
+    항목ID: 418178
+result:
+  맞춤법 검사:
+    표제어: 등기소
     품사: 명사
 ---
 000_KEYWORD: 등기하다__동사__001
@@ -14318,6 +14509,30 @@ result:
   맞춤법 검사:
     표제어: 등등
     품사: 명사
+---
+000_KEYWORD: 등등__의존 명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=417880&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 등ː등
+    원어:
+      언어: 한자
+      원어: 等等
+    의미:
+    - 뜻풀이: 그 밖의 것을 줄임을 나타내는 말.
+      문법: 명사나 어미 ‘-는’ 뒤에 쓰여
+      종류: 일반어
+      품사: 의존 명사
+    종류: 한자어
+    표제어: 등등01
+    항목ID: 417880
+result:
+  맞춤법 검사:
+    표제어: 등등
+    품사: 의존 명사
 ---
 000_KEYWORD: 등등__의존_명사__001
 import:
@@ -14769,6 +14984,30 @@ result:
     표제어: 등록자
     품사: 명사
 ---
+000_KEYWORD: 등록제__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=96457&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 등녹쩨
+    원어:
+      언어: 한자
+      원어: 登錄制
+    의미:
+    - 뜻풀이: 일정한 법률 사실이나 법률관계를 공증하기 위하여 행정 관서나 공공 기관 따위에 비치한 법정의 공부에 기재하도록 하는 제도.
+      분류: 법률
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 등록-제
+    항목ID: 96457
+result:
+  맞춤법 검사:
+    표제어: 등록제
+    품사: 명사
+---
 000_KEYWORD: 등록증__명사__001
 import:
   한국어기초사전:
@@ -14853,15 +15092,26 @@ result:
 ---
 000_KEYWORD: 등롱__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=94890&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    구분: 단어
+    발음:
+    - 등농
+    원어:
+      언어: 한자
+      원어: 燈籠
+    의미:
+    - 뜻풀이: 등의 하나. 대오리나 쇠로 살을 만들고 겉에 종이나 헝겊을 씌워 안에 등잔불을 넣어서 달아 두기도 하고 들고 다니기도 한다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=97788
+        종류: 사진
+      분류: 없음
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
     표제어: 등롱
-    품사: 명사:보통:비서술성
-    항목ID: 7711
+    항목ID: 94890
 result:
   맞춤법 검사:
     표제어: 등롱
@@ -15288,15 +15538,23 @@ result:
 ---
 000_KEYWORD: 등비수열__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 등비수열
-    품사: 명사:보통:서술성
-    항목ID: 7720
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=95059&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    구분: 단어
+    발음:
+    - 등ː비수열
+    원어:
+      언어: 한자
+      원어: 等比數列
+    의미:
+    - 뜻풀이: 초항부터 차례로 일정한 수를 곱하여 이루어진 수열. 예를 들어 1, 2, 4, 8, 16, 32,…… 따위가 있다.
+      분류: 수학
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 등비-수열
+    항목ID: 95059
 result:
   맞춤법 검사:
     표제어: 등비수열
@@ -16019,16 +16277,28 @@ result:
 ---
 000_KEYWORD: 등원__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - sixt06
-    라이선스: CC BY 4.0
-    설명: 등원하다.
-    표제어: 등원
-    품사: 명사:보통:서술성
-    항목ID: 7733
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=96466&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=416191&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 등원-하다
+      항목ID: 416191
+    구분: 단어
+    발음:
+    - 등원
+    원어:
+      언어: 한자
+      원어: 登院
+    의미:
+    - 뜻풀이: ‘원(院)’의 이름이 붙은 곳에 출석하거나 출두함. 주로 국회 의원이 국회에 나가는 것을 이른다.
+      분류: 없음
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 등원01
+    항목ID: 96466
 result:
   맞춤법 검사:
     표제어: 등원
@@ -16036,16 +16306,28 @@ result:
 ---
 000_KEYWORD: 등원하다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - sixt06
-    라이선스: CC BY 4.0
-    어근: 등원
-    표제어: 등원하다
-    품사: 동사
-    항목ID: 7734
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=416191&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    구분: 단어
+    발음:
+    - 등원하다
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미:
+    - 뜻풀이: ‘원(院)’의 이름이 붙은 곳에 출석하거나 출두하다. 주로 국회 의원이 국회에 나가는 일을 이른다.
+      분류: 없음
+      종류: 일반어
+      품사: 동사
+      형태: …에
+    종류: 혼종어
+    표제어: 등원-하다
+    항목ID: 416191
+    활용:
+    - 약어: 등원해
+      활용: 등원하여
+    - 활용: 등원하니
 result:
   맞춤법 검사:
     표제어: 등원하다
@@ -16733,14 +17015,23 @@ result:
 ---
 000_KEYWORD: 등지__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등지
-    품사: 명사:보통:서술성
-    항목ID: 7741
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=95376&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    구분: 단어
+    발음:
+    - 등지
+    원어:
+      언어: 한자
+      원어: 紙
+    의미:
+    - 뜻풀이: 양장 제본 할 때 표지를 씌우기 전에 책등에 붙이는 종이.
+      분류: 매체
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 등-지01
+    항목ID: 95376
 result:
   맞춤법 검사:
     표제어: 등지
@@ -16970,15 +17261,23 @@ result:
 ---
 000_KEYWORD: 등차수열__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 등차수열
-    품사: 명사:보통:서술성
-    항목ID: 7742
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=96246&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    구분: 단어
+    발음:
+    - 등ː차수열
+    원어:
+      언어: 한자
+      원어: 等差數列
+    의미:
+    - 뜻풀이: 서로 이웃하는 두 항 사이의 차(差)가 일정한 수열. 1, 3, 5, 7, 9,…… 따위가 있다.
+      분류: 수학
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 등차-수열
+    항목ID: 96246
 result:
   맞춤법 검사:
     표제어: 등차수열
@@ -17419,15 +17718,23 @@ result:
 ---
 000_KEYWORD: 등화관제__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 등화관제
-    품사: 명사:보통:서술성
-    항목ID: 7746
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=96422&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    구분: 단어
+    발음:
+    - 등화관제
+    원어:
+      언어: 한자
+      원어: 燈火管制
+    의미:
+    - 뜻풀이: 적의 야간 공습 시, 또는 그런 때에 대비하여 일정한 지역에서 등불을 모두 가리거나 끄게 하는 일.
+      분류: 군사
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 등화-관제
+    항목ID: 96422
 result:
   맞춤법 검사:
     표제어: 등화관제

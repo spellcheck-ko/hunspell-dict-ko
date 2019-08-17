@@ -93,15 +93,20 @@ result:
 ---
 000_KEYWORD: 웨이트리스__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=254156&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:44:07+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: waitress
+    의미:
+    - 뜻풀이: 호텔, 서양식 음식점, 술집, 찻집 따위에서 손님의 시중을 드는 여자 종업원.
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 웨이트리스
-    품사: 명사:보통:비서술성
-    항목ID: 20312
+    항목ID: 254156
 result:
   맞춤법 검사:
     표제어: 웨이트리스
@@ -109,15 +114,24 @@ result:
 ---
 000_KEYWORD: 웨이퍼__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 웨이퍼
-    품사: 명사:보통:비서술성
-    항목ID: 20313
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=468573&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:44:07+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: wafer
+    의미:
+    - 뜻풀이: 양과자의 하나. 밀가루, 설탕, 달걀, 레몬즙 따위를 섞어 틀에 넣고 살짝 구운 다음, 크림이나 초콜릿을 두 쪽 사이에 끼워서
+        만든다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=101547
+        종류: 사진
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 웨이퍼01
+    항목ID: 468573
 result:
   맞춤법 검사:
     표제어: 웨이퍼
@@ -239,15 +253,19 @@ result:
 ---
 000_KEYWORD: 웬만치__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 유의어:웬만큼
-    표제어: 웬만치
-    품사: 부사
-    항목ID: 20315
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=252474&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:44:07+09:00'
+    구분: 단어
+    발음:
+    - 웬ː만치
+    의미:
+    - 뜻풀이: 보통은 넘는 정도로.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 웬-만치
+    항목ID: 252474
 result:
   맞춤법 검사:
     표제어: 웬만치
@@ -479,15 +497,22 @@ result:
 ---
 000_KEYWORD: 웹진__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=515194&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:44:07+09:00'
+    구분: 단어
+    어원: ←web+magazine
+    원어:
+      언어: 영어
+      원어: webzine
+    의미:
+    - 뜻풀이: 출판하지 아니하고 인터넷상으로만 만들어 보급하는 잡지.
+      분류: 매체
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 웹진
-    품사: 명사:보통:비서술성
-    항목ID: 20322
+    항목ID: 515194
 result:
   맞춤법 검사:
     표제어: 웹진

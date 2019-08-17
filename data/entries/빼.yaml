@@ -884,30 +884,20 @@ import:
     - 발음: 빼ː멍는
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61481_ppae-meongneun.wav
       형태: 빼먹는
-result:
+import_derived:
   맞춤법 검사:
     표제어: 빼먹다
     품사: 동사
----
-000_KEYWORD: 빼먹다__명사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+manual:
+  맞춤법 검사:
     속성:
     - 용언합성
-    표제어: 빼먹다
-    품사: 명사:보통:서술성
-    항목ID: 13122
 result:
   맞춤법 검사:
     속성:
     - 용언합성
     표제어: 빼먹다
-    품사: 명사
+    품사: 동사
 ---
 000_KEYWORD: 빼물다__동사__001
 import:
@@ -1976,15 +1966,32 @@ result:
 ---
 000_KEYWORD: 뺑뺑__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 뺑뺑
-    품사: 부사
-    항목ID: 13131
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=437971&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=161848&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 뺑뺑-거리다
+      항목ID: 161848
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=161849&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 뺑뺑-대다
+      항목ID: 161849
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=437982&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 뺑뺑-하다
+      항목ID: 437982
+    구분: 단어
+    발음:
+    - 뺑뺑
+    의미:
+    - 뜻풀이: 요리조리 자꾸 돌아다니는 모양. ‘뱅뱅「2」’보다 센 느낌을 준다.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 뺑-뺑
+    항목ID: 437971
 result:
   맞춤법 검사:
     표제어: 뺑뺑

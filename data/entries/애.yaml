@@ -916,14 +916,19 @@ result:
 ---
 000_KEYWORD: 애꾸눈__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 애꾸눈
-    품사: 명사:보통:비서술성
-    항목ID: 17664
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=220056&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애꾸눈
+    의미:
+    - 뜻풀이: 한쪽이 먼 눈.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 애꾸-눈
+    항목ID: 220056
 result:
   맞춤법 검사:
     표제어: 애꾸눈
@@ -1099,21 +1104,26 @@ result:
 ---
 000_KEYWORD: 애달프다__형용사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    속성:
-    - 으불규칙
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=457855&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애달프다
+    어원: <equ>&#x21BC;</equ>애다＜금삼＞←애+-+-ㅸ-
+    의미:
+    - 뜻풀이: 애처롭고 쓸쓸하다.
+      분류: 없음
+      종류: 일반어
+      품사: 형용사
+    종류: 고유어
     표제어: 애달프다
-    품사: 형용사
-    항목ID: 17668
+    항목ID: 457855
+    활용:
+    - 활용: 애달파
+    - 활용: 애달프니
 result:
   맞춤법 검사:
-    속성:
-    - 으불규칙
     표제어: 애달프다
     품사: 형용사
 ---
@@ -1277,15 +1287,22 @@ result:
 ---
 000_KEYWORD: 애독서__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 애독서
-    품사: 명사:보통:비서술성
-    항목ID: 17672
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=222430&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애ː독써
+    원어:
+      언어: 한자
+      원어: 愛讀書
+    의미:
+    - 뜻풀이: 특히 즐겨 재미있게 읽는 책.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 애독-서
+    항목ID: 222430
 result:
   맞춤법 검사:
     표제어: 애독서
@@ -1326,15 +1343,27 @@ result:
 ---
 000_KEYWORD: 애독하다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 애독하다
-    품사: 동사
-    항목ID: 17673
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=222429&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애ː도카다
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미:
+    - 뜻풀이: 즐겨 재미있게 읽다.
+      종류: 일반어
+      품사: 동사
+      형태: …을
+    종류: 혼종어
+    표제어: 애독-하다
+    항목ID: 222429
+    활용:
+    - 약어: 애독해
+      활용: 애독하여
+    - 활용: 애독하니
 result:
   맞춤법 검사:
     표제어: 애독하다
@@ -1342,16 +1371,21 @@ result:
 ---
 000_KEYWORD: 애드리브__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=458388&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: ad lib
+    의미:
+    - 뜻풀이: 재즈에서, 연주자가 일정한 코드 진행과 테마에 따라 즉흥적으로 행하는 연주.
+      분류: 음악
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 애드리브
-    품사: 명사:보통:서술성
-    항목ID: 17674
+    항목ID: 458388
 result:
   맞춤법 검사:
     표제어: 애드리브
@@ -1482,17 +1516,22 @@ result:
 ---
 000_KEYWORD: 애매어__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - dialektike
-    라이선스: CC BY 4.0
-    설명: 뜻이 여러 가지로 통하여 분명하지 않은 말이나 글
-    어원: 애매하다
-    표제어: 애매어
-    품사: 명사:보통:서술성
-    항목ID: 17676
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=225425&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애ː매어
+    원어:
+      언어: 한자
+      원어: 曖昧語
+    의미:
+    - 뜻풀이: 뜻이 여러 가지로 통하여 분명하지 아니한 말이나 글.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 애매-어
+    항목ID: 225425
 result:
   맞춤법 검사:
     표제어: 애매어
@@ -1683,20 +1722,23 @@ result:
 ---
 000_KEYWORD: 애명__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 어렸을 때의 이름.
-    표제어: 애명
-    품사: 명사:보통:비서술성
-    항목ID: 17680
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=225679&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 名
+    의미:
+    - 뜻풀이: → 아명01.
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 애명01
+    항목ID: 225679
 result:
   맞춤법 검사:
-    표제어: 애명
-    품사: 명사
+    제외: 틀린 말
 ---
 000_KEYWORD: 애무__명사__001
 import:
@@ -1768,6 +1810,29 @@ result:
     표제어: 애무하다
     품사: 동사
 ---
+000_KEYWORD: 애물__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=457008&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애ː물
+    원어:
+      언어: 한자
+      원어: 物
+    의미:
+    - 뜻풀이: 어린 나이로 부모보다 먼저 죽은 자식.
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 애-물01
+    항목ID: 457008
+result:
+  맞춤법 검사:
+    표제어: 애물
+    품사: 명사
+---
 000_KEYWORD: 애물단지__명사__001
 import:
   한국어기초사전:
@@ -1804,15 +1869,20 @@ result:
 ---
 000_KEYWORD: 애벌__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 애벌
-    품사: 명사:보통:서술성
-    항목ID: 17685
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=219901&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애벌
+    어원: ←애[＜아＜훈몽＞]+벌
+    의미:
+    - 뜻풀이: 같은 일을 여러 차례 거듭하여야 할 때에 맨 처음 대강 하여 낸 차례.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 애-벌
+    항목ID: 219901
 result:
   맞춤법 검사:
     표제어: 애벌
@@ -1907,17 +1977,49 @@ result:
   맞춤법 검사:
     제외: 틀린 말
 ---
+000_KEYWORD: 애상__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223407&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223408&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 애상-하다01
+      항목ID: 223408
+    구분: 단어
+    발음:
+    - 애상
+    원어:
+      언어: 한자
+      원어: 哀喪
+    의미:
+    - 뜻풀이: 상사(喪事)를 당하여 슬퍼함.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 애상01
+    항목ID: 223407
+result:
+  맞춤법 검사:
+    표제어: 애상
+    품사: 명사
+---
 000_KEYWORD: 애새끼__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 애새끼
-    품사: 명사:보통:비서술성
-    항목ID: 17689
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=219723&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애ː새끼
+    의미:
+    - 뜻풀이: ‘어린아이’를 속되게 이르는 말.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 애-새끼
+    항목ID: 219723
 result:
   맞춤법 검사:
     표제어: 애새끼
@@ -2183,14 +2285,22 @@ result:
 ---
 000_KEYWORD: 애연가__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 애연가
-    품사: 명사:보통:비서술성
-    항목ID: 17693
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=453477&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애ː연가
+    원어:
+      언어: 한자
+      원어: 愛煙家
+    의미:
+    - 뜻풀이: 담배를 즐겨 피우는 사람.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 애연-가
+    항목ID: 453477
 result:
   맞춤법 검사:
     표제어: 애연가
@@ -2401,14 +2511,22 @@ result:
 ---
 000_KEYWORD: 애용품__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 애용품
-    품사: 명사:보통:비서술성
-    항목ID: 17696
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223036&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애ː용품
+    원어:
+      언어: 한자
+      원어: 愛用品
+    의미:
+    - 뜻풀이: 좋아하여 애착을 가지고 자주 사용하는 물품.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 애용-품
+    항목ID: 223036
 result:
   맞춤법 검사:
     표제어: 애용품
@@ -2523,15 +2641,27 @@ result:
 ---
 000_KEYWORD: 애이불비__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=458209&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=224845&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 애이불비-하다
+      항목ID: 224845
+    구분: 단어
+    발음:
+    - 애이불비
+    원어:
+      언어: 한자
+      원어: 哀而不悲
+    의미:
+    - 뜻풀이: 슬프기는 하나 비참하지는 아니함.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
     표제어: 애이불비
-    품사: 명사:보통:서술성
-    항목ID: 17700
+    항목ID: 458209
 result:
   맞춤법 검사:
     표제어: 애이불비
@@ -2604,16 +2734,23 @@ result:
 ---
 000_KEYWORD: 애자련__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 절연내력을 증가시키기 위해서 애자를 구슬을 꿰듯 연결시킨 것.
-    표제어: 애자련
-    품사: 명사:보통:비서술성
-    항목ID: 17702
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=225149&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애자련
+    원어:
+      언어: 한자
+      원어: 礙子連
+    의미:
+    - 뜻풀이: 애자 여러 개를 덧이은 것.
+      분류: 전기·전자
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 애자-련
+    항목ID: 225149
 result:
   맞춤법 검사:
     표제어: 애자련
@@ -2784,6 +2921,40 @@ result:
     표제어: 애제자
     품사: 명사
 ---
+000_KEYWORD: 애족__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223559&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223560&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 애족-적
+      항목ID: 223560
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223561&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 애족-하다
+      항목ID: 223561
+    구분: 단어
+    발음:
+    - 애ː족
+    원어:
+      언어: 한자
+      원어: 愛族
+    의미:
+    - 뜻풀이: 자기 겨레를 사랑함.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 애족
+    항목ID: 223559
+    활용:
+    - 활용: 애족만
+result:
+  맞춤법 검사:
+    표제어: 애족
+    품사: 명사
+---
 000_KEYWORD: 애주가__명사__001
 import:
   한국어기초사전:
@@ -2814,6 +2985,29 @@ import:
 result:
   맞춤법 검사:
     표제어: 애주가
+    품사: 명사
+---
+000_KEYWORD: 애증__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=456726&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애ː증
+    원어:
+      언어: 한자
+      원어: 愛憎
+    의미:
+    - 뜻풀이: 사랑과 미움을 아울러 이르는 말.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 애증
+    항목ID: 456726
+result:
+  맞춤법 검사:
+    표제어: 애증
     품사: 명사
 ---
 000_KEYWORD: 애지중지__부사__001
@@ -3162,17 +3356,30 @@ result:
 ---
 000_KEYWORD: 애처롭다__형용사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    속성:
-    - ㅂ불규칙
-    표제어: 애처롭다
-    품사: 형용사
-    항목ID: 17710
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=222813&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=457079&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 애처로이
+      항목ID: 457079
+    구분: 단어
+    발음:
+    - 애처롭따
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: 가엾고 불쌍하여 마음이 슬프다.
+      종류: 일반어
+      품사: 형용사
+    종류: 고유어
+    표제어: 애처-롭다
+    항목ID: 222813
+    활용:
+    - 활용: 애처로워
+    - 활용: 애처로우니
 result:
   맞춤법 검사:
     속성:
@@ -3525,15 +3732,22 @@ result:
 ---
 000_KEYWORD: 애틀랜타__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=219507&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Atlanta
+    의미:
+    - 뜻풀이: 미국 동남부 조지아주 북쪽에 있는 상공업 도시. 미국 동남부 제일의 철도ㆍ도로 중심지이다. 타일 및 벽돌을 비롯한 각종 공업이
+        발달하였다. 주도(州都)이다.
+      분류: 지명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 애틀랜타
-    품사: 명사:고유
-    항목ID: 17715
+    항목ID: 219507
 result:
   맞춤법 검사:
     표제어: 애틀랜타
@@ -3541,14 +3755,19 @@ result:
 ---
 000_KEYWORD: 애틋이__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 애틋이
-    품사: 부사
-    항목ID: 17716
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=457471&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애트시
+    의미:
+    - 뜻풀이: 정답고 알뜰한 맛이 있게.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 애틋-이
+    항목ID: 457471
 result:
   맞춤법 검사:
     표제어: 애틋이
@@ -3686,15 +3905,21 @@ result:
 ---
 000_KEYWORD: 애플릿__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: applet
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=220346&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: applet
+    의미:
+    - 뜻풀이: 특정 작업을 하기 위하여 고안된 100KB 정도의 작은 용량의 컴퓨터 프로그램.
+      분류: 정보·통신
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 애플릿
-    품사: 명사:보통:비서술성
-    항목ID: 17720
+    항목ID: 220346
 result:
   맞춤법 검사:
     표제어: 애플릿
@@ -3702,15 +3927,23 @@ result:
 ---
 000_KEYWORD: 애플파이__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 애플파이
-    품사: 명사:보통:서술성
-    항목ID: 17721
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=220390&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: apple pie
+    의미:
+    - 뜻풀이: 설탕을 넣고 조린 사과를, 밀가루에 달걀ㆍ버터 따위를 넣고 반죽하여 넓게 편 것으로 싸서 찐 서양과자.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=101179
+        종류: 사진
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 애플-파이
+    항목ID: 220390
 result:
   맞춤법 검사:
     표제어: 애플파이
@@ -4037,15 +4270,28 @@ result:
 ---
 000_KEYWORD: 액막이__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 액막이
-    품사: 명사:보통:서술성
-    항목ID: 17726
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=458016&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=216226&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 액막이-하다
+      항목ID: 216226
+    구분: 단어
+    발음:
+    - 앵마기
+    원어:
+      언어: 고유어
+      원어: 막이
+    의미:
+    - 뜻풀이: 가정이나 개인에게 닥칠 액을 미리 막는 일.
+      분류: 민속
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 액-막이
+    항목ID: 458016
 result:
   맞춤법 검사:
     표제어: 액막이
@@ -4193,6 +4439,28 @@ result:
     표제어: 액세서리
     품사: 명사
 ---
+000_KEYWORD: 액세스__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=224867&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: access
+    의미:
+    - 뜻풀이: 기억 장치에 데이터를 쓰거나 기억 장치에 들어 있는 데이터를 탐색하고 읽는 과정.
+      분류: 정보·통신
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 액세스
+    항목ID: 224867
+result:
+  맞춤법 검사:
+    표제어: 액세스
+    품사: 명사
+---
 000_KEYWORD: 액세스하다__동사__001
 import:
   갈퀴 Django:
@@ -4262,15 +4530,24 @@ result:
 ---
 000_KEYWORD: 액셀러레이터__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: accelerator
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=458387&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: accelerator
+    의미:
+    - 뜻풀이: 발로 밟는 자동차의 가속 장치. 이것을 밟으면 기화기의 스로틀이 열려 엔진의 회전수와 출력이 높아진다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=198021
+        종류: 사진
+      분류: 기계
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 액셀러레이터
-    품사: 명사:보통:비서술성
-    항목ID: 17733
+    항목ID: 458387
 result:
   맞춤법 검사:
     표제어: 액셀러레이터
@@ -4422,15 +4699,24 @@ result:
 ---
 000_KEYWORD: 액젓__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 액젓
-    품사: 명사:보통:서술성
-    항목ID: 17737
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=515634&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 액쩓
+    원어:
+      언어: 고유어
+      원어: 젓
+    의미:
+    - 뜻풀이: 젓갈을 갈아 액화한 것.
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 액-젓
+    항목ID: 515634
+    활용:
+    - 활용: 액젓만
 result:
   맞춤법 검사:
     표제어: 액젓
@@ -4468,6 +4754,30 @@ import:
 result:
   맞춤법 검사:
     표제어: 액정
+    품사: 명사
+---
+000_KEYWORD: 액제__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=226001&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 액쩨
+    원어:
+      언어: 한자
+      원어: 液劑
+    의미:
+    - 뜻풀이: 액체로 된 약.
+      분류: 약학
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 액제
+    항목ID: 226001
+result:
+  맞춤법 검사:
+    표제어: 액제
     품사: 명사
 ---
 000_KEYWORD: 액체__명사__001
@@ -4559,16 +4869,22 @@ result:
 ---
 000_KEYWORD: 액화__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 예; 액화석유가스
-    표제어: 액화
-    품사: 명사:보통:서술성
-    항목ID: 17742
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223313&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 애콰
+    원어:
+      언어: 한자
+      원어: 厄禍
+    의미:
+    - 뜻풀이: 액으로 입는 재앙.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 액화01
+    항목ID: 223313
 result:
   맞춤법 검사:
     표제어: 액화
@@ -4674,6 +4990,28 @@ result:
     표제어: 앰뷸런스
     품사: 명사
 ---
+000_KEYWORD: 앰프__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=226279&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: ←amplifier
+    의미:
+    - 뜻풀이: 진공관, 트랜지스터 따위를 이용하여 증폭 작용을 하게 하는 장치.
+      분류: 전기·전자
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 앰프
+    항목ID: 226279
+result:
+  맞춤법 검사:
+    표제어: 앰프
+    품사: 명사
+---
 000_KEYWORD: 앳되다__형용사__001
 import:
   한국어기초사전:
@@ -4737,15 +5075,19 @@ result:
 ---
 000_KEYWORD: 앵__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 앵
-    품사: 부사
-    항목ID: 17749
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=457165&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 앵
+    의미:
+    - 뜻풀이: 모기나 벌 따위가 빨리 날아갈 때 나는 소리.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 앵01
+    항목ID: 457165
 result:
   맞춤법 검사:
     표제어: 앵
@@ -4753,15 +5095,21 @@ result:
 ---
 000_KEYWORD: 앵글__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=217844&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: angle
+    의미:
+    - 뜻풀이: 사진 렌즈로 촬영할 수 있는 범위가 렌즈 중심에 이루는 각도.
+      분류: 영상
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 앵글
-    품사: 명사:보통:서술성
-    항목ID: 17750
+    항목ID: 217844
 result:
   맞춤법 검사:
     표제어: 앵글
@@ -4798,6 +5146,32 @@ import:
 result:
   맞춤법 검사:
     표제어: 앵두
+    품사: 명사
+---
+000_KEYWORD: 앵두나무__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=222570&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 앵두나무
+    의미:
+    - 뜻풀이: 장미과의 낙엽 활엽 관목. 높이는 3미터 정도이며, 잎은 어긋나고 표면에 잔털이 있는 도란형이다. 4월에 흰색 또는 연분홍색 꽃이
+        잎보다 먼저 피고, 열매는 핵과(核果)로 작고 둥글게 열린다. 열매는 식용하고 정원수로 기른다. 한국, 일본, 만주 등지에 분포한다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=101052
+        종류: 삽화
+      분류: 식물
+      종류: 일반어
+      품사: 명사
+      학명: Prunus tomentosa
+    종류: 고유어
+    표제어: 앵두-나무
+    항목ID: 222570
+result:
+  맞춤법 검사:
+    표제어: 앵두나무
     품사: 명사
 ---
 000_KEYWORD: 앵무새__명사__001
@@ -4843,15 +5217,28 @@ result:
 ---
 000_KEYWORD: 앵무조개__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 앵무조개
-    품사: 명사:보통:비서술성
-    항목ID: 17754
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=457263&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 앵무조개
+    원어:
+      언어: 고유어
+      원어: 조개
+    의미:
+    - 뜻풀이: 앵무조갯과의 바닷조개. 껍데기의 주둥이는 앵무새의 부리와 비슷하며, 유백색에 갈색 또는 붉은 갈색의 불꽃 모양으로 된 무늬가 있고
+        거죽은 미끄럽다. 누두(漏斗)로 물을 뿜어 이동하고 깊은 바다에 사는데 인도양, 태평양의 열대 수역에 널리 분포한다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=101054
+        종류: 삽화
+      분류: 동물
+      종류: 일반어
+      품사: 명사
+      학명: Nautilus pompilius
+    종류: 혼종어
+    표제어: 앵무-조개
+    항목ID: 457263
 result:
   맞춤법 검사:
     표제어: 앵무조개
@@ -4859,19 +5246,104 @@ result:
 ---
 000_KEYWORD: 앵벌이__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 앵벌이
-    품사: 명사:보통:서술성
-    항목ID: 17755
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223706&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 앵버리
+    의미:
+    - 뜻풀이: 불량배의 부림을 받는 어린이가 구걸이나 도둑질 따위로 돈벌이하는 짓. 또는 그 어린이.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 앵-벌이
+    항목ID: 223706
 result:
   맞춤법 검사:
     표제어: 앵벌이
     품사: 명사
+---
+000_KEYWORD: 앵앵__부사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=219232&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=456453&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 앵앵-거리다
+      항목ID: 456453
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=219244&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 앵앵-대다
+      항목ID: 219244
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=219245&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 앵앵-하다
+      항목ID: 219245
+    구분: 단어
+    발음:
+    - 앵앵
+    의미:
+    - 뜻풀이: 모기나 벌 따위가 빨리 날아갈 때 잇따라 나는 소리.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 앵-앵
+    항목ID: 219232
+result:
+  맞춤법 검사:
+    표제어: 앵앵
+    품사: 부사
+---
+000_KEYWORD: 앵앵거리다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=456453&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 앵앵거리다
+    의미:
+    - 뜻풀이: 모기나 벌 따위가 빨리 날아다니는 소리가 잇따라 나다.
+      종류: 일반어
+      품사: 동사
+    종류: 고유어
+    표제어: 앵앵-거리다
+    항목ID: 456453
+    활용:
+    - 약어: 앵앵거려
+      활용: 앵앵거리어
+    - 활용: 앵앵거리니
+result:
+  맞춤법 검사:
+    표제어: 앵앵거리다
+    품사: 동사
+---
+000_KEYWORD: 앵앵대다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=219244&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:27:48+09:00'
+    구분: 단어
+    발음:
+    - 앵앵대다
+    의미:
+    - 뜻풀이: 모기나 벌 따위가 빨리 날아다니는 소리가 잇따라 나다.
+      종류: 일반어
+      품사: 동사
+    종류: 고유어
+    표제어: 앵앵-대다
+    항목ID: 219244
+    활용:
+    - 약어: 앵앵대
+      활용: 앵앵대어
+    - 활용: 앵앵대니
+result:
+  맞춤법 검사:
+    표제어: 앵앵대다
+    품사: 동사
 ---
 000_KEYWORD: 앵커__명사__001
 import:

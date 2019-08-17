@@ -779,14 +779,22 @@ result:
 ---
 000_KEYWORD: 미공개__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 미공개
-    품사: 명사:보통:서술성
-    항목ID: 9998
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=515968&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미ː공개
+    원어:
+      언어: 한자
+      원어: 未公開
+    의미:
+    - 뜻풀이: 어떤 사실이나 사물, 내용 따위를 여러 사람에게 알리지 아니함.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미-공개
+    항목ID: 515968
 result:
   맞춤법 검사:
     표제어: 미공개
@@ -1011,14 +1019,22 @@ result:
 ---
 000_KEYWORD: 미국인__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 미국인
-    품사: 명사:보통:비서술성
-    항목ID: 10003
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125386&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미구긴
+    원어:
+      언어: 한자
+      원어: 美國人
+    의미:
+    - 뜻풀이: 미국 국적을 가진 사람.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미국-인
+    항목ID: 125386
 result:
   맞춤법 검사:
     표제어: 미국인
@@ -1639,15 +1655,24 @@ result:
 ---
 000_KEYWORD: 미끌미끌__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미끌미끌
-    품사: 부사
-    항목ID: 10014
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428854&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125927&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 미끌미끌-하다
+      항목ID: 125927
+    구분: 단어
+    발음:
+    - 미끌미끌
+    의미:
+    - 뜻풀이: 몹시 미끄러운 모양.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 미끌-미끌
+    항목ID: 428854
 result:
   맞춤법 검사:
     표제어: 미끌미끌
@@ -1908,20 +1933,84 @@ result:
     표제어: 미납금
     품사: 명사
 ---
+000_KEYWORD: 미납되다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127338&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미ː납뙤다
+    - 미ː납뛔다
+    원어:
+      언어: 고유어
+      원어: 되다
+    의미:
+    - 뜻풀이: 내야 할 것이 아직 납부되지 않았거나 납부되지 못하다.
+      종류: 일반어
+      품사: 동사
+    종류: 혼종어
+    표제어: 미납-되다
+    항목ID: 127338
+    활용:
+    - 약어: 미납돼
+      활용: 미납되어
+    - 활용: 미납되니
+result:
+  맞춤법 검사:
+    표제어: 미납되다
+    품사: 동사
+---
 000_KEYWORD: 미납자__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 미납자
-    품사: 명사:보통:비서술성
-    항목ID: 10021
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=425237&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미ː납짜
+    원어:
+      언어: 한자
+      원어: 未納者
+    의미:
+    - 뜻풀이: 내야 할 것을 아직 내지 않았거나 내지 못한 사람.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미납-자
+    항목ID: 425237
 result:
   맞춤법 검사:
     표제어: 미납자
     품사: 명사
+---
+000_KEYWORD: 미납하다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=126275&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미ː나파다
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미:
+    - 뜻풀이: 내야 할 것을 아직 내지 않았거나 내지 못하다.
+      종류: 일반어
+      품사: 동사
+      형태: …을
+    종류: 혼종어
+    표제어: 미납-하다
+    항목ID: 126275
+    활용:
+    - 약어: 미납해
+      활용: 미납하여
+    - 활용: 미납하니
+result:
+  맞춤법 검사:
+    표제어: 미납하다
+    품사: 동사
 ---
 000_KEYWORD: 미네랄__명사__001
 import:
@@ -2008,15 +2097,22 @@ result:
 ---
 000_KEYWORD: 미노타우로스__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127556&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Minotauros
+    의미:
+    - 뜻풀이: 그리스 신화에 나오는, 사람의 몸에 소의 머리를 가진 괴물. 크레타섬의 왕 미노스의 아내가 소와 정교(情交)하여 낳았다. 미노스에
+        의하여 미궁(迷宮)에 갇혔으며 후에 테세우스에게 살해되었다.
+      분류: 문학
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 미노타우로스
-    품사: 명사:고유
-    항목ID: 10025
+    항목ID: 127556
 result:
   맞춤법 검사:
     표제어: 미노타우로스
@@ -2148,15 +2244,20 @@ result:
 ---
 000_KEYWORD: 미니어처__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127102&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: miniature
+    의미:
+    - 뜻풀이: 실물과 같은 모양으로 정교하게 만들어진 작은 모형(模型).
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 미니어처
-    품사: 명사:보통:비서술성
-    항목ID: 10029
+    항목ID: 127102
 result:
   맞춤법 검사:
     표제어: 미니어처
@@ -2382,17 +2483,52 @@ result:
     표제어: 미담
     품사: 명사
 ---
+000_KEYWORD: 미대__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=128747&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미대
+    원어:
+      언어: 한자
+      원어: 米袋
+    의미:
+    - 뜻풀이: 쌀을 담는 부대.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미대01
+    항목ID: 128747
+result:
+  맞춤법 검사:
+    표제어: 미대
+    품사: 명사
+---
 000_KEYWORD: 미더덕__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428428&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미더덕
+    의미:
+    - 뜻풀이: 원삭동물문 미더덕과의 하나. 몸은 누런 갈색으로 가늘고 길며 자루 끝이 바위에 붙어 있다. 겉껍질은 섬유질과 같은 물질로 되어
+        있어 매우 딱딱하고 식용한다. 암수한몸으로 난소는 가늘고 길며 그 사이에 정소가 들어 있다. 우리나라의 전 연안에 분포한다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98626
+        종류: 삽화
+      분류: 동물
+      종류: 일반어
+      품사: 명사
+      학명: Styela clava
+    종류: 고유어
     표제어: 미더덕
-    품사: 명사:보통:비서술성
-    항목ID: 10035
+    항목ID: 428428
+    활용:
+    - 활용: 미더덕만
 result:
   맞춤법 검사:
     표제어: 미더덕
@@ -2556,6 +2692,28 @@ import:
 result:
   맞춤법 검사:
     표제어: 미들급
+    품사: 명사
+---
+000_KEYWORD: 미들웨어__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125352&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: middleware
+    의미:
+    - 뜻풀이: 컴퓨터 제작 회사가 사용자의 특정한 요구대로 만들어 제공하는 소프트웨어.
+      분류: 정보·통신
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 미들웨어
+    항목ID: 125352
+result:
+  맞춤법 검사:
+    표제어: 미들웨어
     품사: 명사
 ---
 000_KEYWORD: 미등__명사__001
@@ -3342,6 +3500,34 @@ result:
     표제어: 미로
     품사: 명사
 ---
+000_KEYWORD: 미루나무__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=425496&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미루나무
+    어원: ←미루[＜美柳]+나무
+    의미:
+    - 뜻풀이: 버드나뭇과의 낙엽 활엽 교목. 줄기는 높이 30미터 정도로 곧게 자라며, 잎은 광택이 난다. 양버들과는 잎의 길이가 나비보다 길고
+        가지가 옆으로 퍼지는 것이 다르며, 이태리포플러와는 구별하기 어렵다. 3~4월에 꽃이 피고 열매는 5월에 익으며 종자에 털이 많다.
+        강변, 촌락 부근에 풍치목으로 많이 심으며 목재는 젓가락, 성냥개비 따위의 재료로 쓴다. 북아메리카가 원산지이다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98628
+        종류: 사진
+      분류: 식물
+      종류: 일반어
+      품사: 명사
+      학명: Populus deltoides
+    종류: 고유어
+    표제어: 미루-나무
+    항목ID: 425496
+result:
+  맞춤법 검사:
+    표제어: 미루나무
+    품사: 명사
+---
 000_KEYWORD: 미루다__동사__001
 import:
   한국어기초사전:
@@ -4125,15 +4311,27 @@ result:
 ---
 000_KEYWORD: 미분__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미분
-    품사: 명사:보통:서술성
-    항목ID: 10059
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=126058&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=126059&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 미분-하다01
+      항목ID: 126059
+    구분: 단어
+    발음:
+    - 미ː분
+    원어:
+      언어: 한자
+      원어: 未分
+    의미:
+    - 뜻풀이: 아직 나뉘지 않음.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미분01
+    항목ID: 126058
 result:
   맞춤법 검사:
     표제어: 미분
@@ -4705,15 +4903,26 @@ result:
 ---
 000_KEYWORD: 미선나무__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - ruseel
-    라이선스: CC BY 4.0
-    표제어: 미선나무
-    품사: 명사:보통:비서술성
-    항목ID: 10067
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127880&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미선나무
+    의미:
+    - 뜻풀이: 물푸레나뭇과의 낙엽 활엽 관목. 높이는 1미터 정도이며, 잎은 마주나고 타원형 또는 달걀 모양이며 톱니가 없다. 3~5월에 흰색
+        또는 담홍색의 꽃이 총상(總狀) 화서로 잎보다 먼저 피고, 열매는 부채 모양으로 가을에 익는다. 충청북도의 진천군 용정리와 괴산군 송덕리
+        군자산에 야생하는데, 우리나라 특산종으로 전 세계에 1속 1종뿐이다. 식물학상 또는 관상용으로 매우 귀중하다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98631
+        종류: 사진
+      분류: 식물
+      종류: 일반어
+      품사: 명사
+      학명: Abeliophyllum distichum
+    종류: 고유어
+    표제어: 미선-나무
+    항목ID: 127880
 result:
   맞춤법 검사:
     표제어: 미선나무
@@ -5099,15 +5308,22 @@ result:
 ---
 000_KEYWORD: 미소녀__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미소녀
-    품사: 명사:보통:비서술성
-    항목ID: 10075
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=128796&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미ː소녀
+    원어:
+      언어: 한자
+      원어: 美少女
+    의미:
+    - 뜻풀이: 용모가 아름다운 소녀.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미-소녀
+    항목ID: 128796
 result:
   맞춤법 검사:
     표제어: 미소녀
@@ -7515,15 +7731,27 @@ result:
 ---
 000_KEYWORD: 미완성되다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미완성되다
-    품사: 동사
-    항목ID: 10111
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127143&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미ː완성되다
+    - 미ː완성뒈다
+    원어:
+      언어: 고유어
+      원어: 되다
+    의미:
+    - 뜻풀이: 아직 덜 되다.
+      종류: 일반어
+      품사: 동사
+    종류: 혼종어
+    표제어: 미완성-되다
+    항목ID: 127143
+    활용:
+    - 약어: 미완성돼
+      활용: 미완성되어
+    - 활용: 미완성되니
 result:
   맞춤법 검사:
     표제어: 미완성되다
@@ -7531,15 +7759,22 @@ result:
 ---
 000_KEYWORD: 미완성품__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미완성품
-    품사: 명사:보통:서술성
-    항목ID: 10112
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428885&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미ː완성품
+    원어:
+      언어: 한자
+      원어: 未完成品
+    의미:
+    - 뜻풀이: 아직 완성되지 않은 작품이나 물건.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미완성-품
+    항목ID: 428885
 result:
   맞춤법 검사:
     표제어: 미완성품
@@ -7706,15 +7941,19 @@ result:
 ---
 000_KEYWORD: 미운털__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미운털
-    품사: 명사:보통:서술성
-    항목ID: 10115
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428181&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미운털
+    의미:
+    - 뜻풀이: 안 좋은 선입관 때문에 어떤 짓을 하여도 밉게 보이는 것.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 미운-털
+    항목ID: 428181
 result:
   맞춤법 검사:
     표제어: 미운털
@@ -8363,6 +8602,56 @@ result:
     표제어: 미적미적하다
     품사: 동사
 ---
+000_KEYWORD: 미적분__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127722&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미적뿐
+    원어:
+      언어: 한자
+      원어: 微積分
+    의미:
+    - 뜻풀이: 미분과 적분을 아울러 이르는 말.
+      분류: 수학
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미-적분
+    항목ID: 127722
+result:
+  맞춤법 검사:
+    표제어: 미적분
+    품사: 명사
+---
+000_KEYWORD: 미적분학__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127723&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:35:30+09:00'
+    구분: 단어
+    발음:
+    - 미적뿐학
+    원어:
+      언어: 한자
+      원어: 微積分學
+    의미:
+    - 뜻풀이: 미분학과 적분학을 아울러 이르는 말.
+      분류: 수학
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미적분-학
+    항목ID: 127723
+    활용:
+    - 활용: 미적분학만
+result:
+  맞춤법 검사:
+    표제어: 미적분학
+    품사: 명사
+---
 000_KEYWORD: 미적지근하다__형용사__001
 import:
   한국어기초사전:
@@ -8779,14 +9068,33 @@ result:
 ---
 000_KEYWORD: 미지급__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 미지급
-    품사: 명사:보통:서술성
-    항목ID: 10131
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127124&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127125&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 미지급-되다
+      항목ID: 127125
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428145&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 미지급-하다
+      항목ID: 428145
+    구분: 단어
+    발음:
+    - 미ː지급
+    원어:
+      언어: 한자
+      원어: 未支給
+    의미:
+    - 뜻풀이: 이미 주도록 되어 있는 돈이나 물건 따위를 아직 내어 주지 아니함.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미-지급
+    항목ID: 127124
+    활용:
+    - 활용: 미지급만
 result:
   맞춤법 검사:
     표제어: 미지급
@@ -8951,15 +9259,24 @@ result:
 ---
 000_KEYWORD: 미천왕__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미천왕
-    품사: 명사:보통:서술성
-    항목ID: 10135
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=126371&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 미처놩
+    원어:
+      언어: 한자
+      원어: 美川王
+    의미:
+    - 뜻풀이: 고구려 제15대 왕(?~331). 이름은 우불(憂弗)ㆍ을불(乙弗)ㆍ을불리(乙弗利). 현도군(玄菟郡)을 공격하고 낙랑군을 점령하는
+        등 고구려의 영토 확장에 큰 공을 세웠다. 재위 기간은 300~331년이다.
+      분류: 인명
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미천-왕
+    항목ID: 126371
 result:
   맞춤법 검사:
     표제어: 미천왕
@@ -9245,15 +9562,85 @@ result:
 ---
 000_KEYWORD: 미친개__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미친개
-    품사: 명사:보통:비서술성
-    항목ID: 10138
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개가 달밤에 달을 보고 짖는다
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개가 천연한 체한다
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개가 호랑이 잡는다
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 고기 나눠 먹듯
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 눈엔 몽둥이만 보인다
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개는 때려잡아야 한다
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 다리 틀리듯
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 몰리듯
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 물 본 듯
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 배때기 같다
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 범 물어 간 것 같다
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개에게는 몽둥이가 제격
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개에게는 몽둥이찜질이 제일
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 친 몽둥이 삼 년 우린다
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 패듯
+      항목ID: 125647
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125647&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친개 풀 먹듯
+      항목ID: 125647
+    구분: 단어
+    발음:
+    - 미친개
+    어원: 미친개＜동신열＞←미치-+-ㄴ+개
+    의미:
+    - 뜻풀이: 하는 짓이 아주 못된 사람을 욕으로 이르는 말.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 미친-개
+    항목ID: 125647
 result:
   맞춤법 검사:
     표제어: 미친개
@@ -9261,15 +9648,44 @@ result:
 ---
 000_KEYWORD: 미친년__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 미친년
-    품사: 명사:보통:비서술성
-    항목ID: 10139
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=427307&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=427307&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친년 널뛰듯
+      항목ID: 427307
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=427307&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친년 달래 캐듯
+      항목ID: 427307
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=427307&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친년 방아 찧듯
+      항목ID: 427307
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=427307&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친년의 속곳 가랑이 빠지듯
+      항목ID: 427307
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=427307&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친년의 치맛자락 같다
+      항목ID: 427307
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=427307&searchKeywordTo=3
+      종류: 속담
+      표제어: 미친년이 아이를 씻어서 죽인다
+      항목ID: 427307
+    구분: 단어
+    발음:
+    - 미친년
+    의미:
+    - 뜻풀이: 말과 행동이 실없거나 도리에 벗어난 짓을 하는 여자를 욕하여 이르는 말.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 미친-년
+    항목ID: 427307
 result:
   맞춤법 검사:
     표제어: 미친년
@@ -9318,15 +9734,22 @@ result:
 ---
 000_KEYWORD: 미켈란젤로__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=126570&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Michelangelo, Buonarroti
+    의미:
+    - 뜻풀이: 이탈리아의 화가ㆍ조각가ㆍ건축가ㆍ시인(1475~1564). 작품에 조각 <다비드>, <모세>, <최후의 심판> 따위가 있으며, 건축가로서
+        산피에트로 대성당의 설계를 맡았고 많은 시작(詩作)도 남겼다.
+      분류: 인명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 미켈란젤로
-    품사: 명사:고유
-    항목ID: 10141
+    항목ID: 126570
 result:
   맞춤법 검사:
     표제어: 미켈란젤로
@@ -9419,15 +9842,23 @@ result:
 ---
 000_KEYWORD: 미터법__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: metric
-    표제어: 미터법
-    품사: 명사:보통:서술성
-    항목ID: 10143
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127168&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 法
+    의미:
+    - 뜻풀이: 길이와 너비 따위는 미터를, 부피는 리터를, 질량은 킬로그램을 기본 단위로 하는 십진법을 사용한 도량형법. 18세기 말엽 프랑스에서
+        처음으로 법으로 제정된 후에, 1875년에 각 나라 사이에 미터 협약을 맺어 세계적으로 널리 쓰게 되었다. 우리나라에서는 1963년
+        5월에 계량에 관한 법률을 제정하여 오늘날까지 채택하고 있다.
+      분류: 물리
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 미터-법
+    항목ID: 127168
 result:
   맞춤법 검사:
     표제어: 미터법
@@ -9435,15 +9866,22 @@ result:
 ---
 000_KEYWORD: 미토콘드리아__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127434&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: mitochondria
+    의미:
+    - 뜻풀이: 진핵 세포 속에 들어 있는 소시지 모양의 알갱이로 세포의 발전소와 같은 역할을 하는 작은 기관. 에이티피(ATP)를 합성하고,
+        디엔에이(DNA)와 아르엔에이(RNA)를 함유하고 있어 세포질 유전에 관여한다.
+      분류: 생명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 미토콘드리아
-    품사: 명사:보통:비서술성
-    항목ID: 10144
+    항목ID: 127434
 result:
   맞춤법 검사:
     표제어: 미토콘드리아
@@ -9666,14 +10104,22 @@ result:
 ---
 000_KEYWORD: 미필자__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 미필자
-    품사: 명사:보통:비서술성
-    항목ID: 10149
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428100&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 미ː필짜
+    원어:
+      언어: 한자
+      원어: 未畢者
+    의미:
+    - 뜻풀이: 어떤 일을 아직 다 끝내지 못한 사람.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미필-자
+    항목ID: 428100
 result:
   맞춤법 검사:
     표제어: 미필자
@@ -9806,16 +10252,25 @@ result:
 ---
 000_KEYWORD: 미합중국__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: = 미국
-    표제어: 미합중국
-    품사: 명사:고유
-    항목ID: 10152
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127450&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 미합쭝국
+    원어:
+      언어: 한자
+      원어: 美合衆國
+    의미:
+    - 뜻풀이: ‘미국03’의 공식 국가명.
+      분류: 지명
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 미-합중국
+    항목ID: 127450
+    활용:
+    - 활용: 미합중국만
 result:
   맞춤법 검사:
     표제어: 미합중국
@@ -10421,14 +10876,29 @@ result:
 ---
 000_KEYWORD: 미흡__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=429255&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=127368&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 미흡-하다
+      항목ID: 127368
+    구분: 단어
+    발음:
+    - 미ː흡
+    원어:
+      언어: 한자
+      원어: 未洽
+    의미:
+    - 뜻풀이: 아직 흡족하지 못하거나 만족스럽지 않음.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
     표제어: 미흡
-    품사: 명사:보통:서술성
-    항목ID: 10164
+    항목ID: 429255
+    활용:
+    - 활용: 미흡만
 result:
   맞춤법 검사:
     표제어: 미흡
@@ -10971,15 +11441,22 @@ result:
 ---
 000_KEYWORD: 민낯__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 민낯
-    품사: 명사:보통:서술성
-    항목ID: 10175
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=128769&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 민낟
+    의미:
+    - 뜻풀이: 화장을 하지 않은 얼굴.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 민-낯
+    항목ID: 128769
+    활용:
+    - 활용: 민낯이
+    - 활용: 민낯만
 result:
   맞춤법 검사:
     표제어: 민낯
@@ -11002,15 +11479,25 @@ result:
 ---
 000_KEYWORD: 민달팽이__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 민달팽이
-    품사: 명사:보통:비서술성
-    항목ID: 10177
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428091&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 민달팽이
+    의미:
+    - 뜻풀이: 민달팽잇과의 하나. 몸의 길이는 6~7cm이며, 껍데기가 없고 밤색의 가로줄이 있다. 머리에는 뿔 모양의 더듬이가 있고 발에는
+        점액샘이 있어 건조할 때 점액을 분비한다. 밤에 식물의 잎을 갉아 먹고 암수한몸으로 여름에 50여 개의 알을 낳는다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98641
+        종류: 삽화
+      분류: 동물
+      종류: 일반어
+      품사: 명사
+      학명: Incilaria bilineata
+    종류: 고유어
+    표제어: 민-달팽이
+    항목ID: 428091
 result:
   맞춤법 검사:
     표제어: 민달팽이
@@ -11291,15 +11778,22 @@ result:
 ---
 000_KEYWORD: 민망히__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - ruseel
-    라이선스: CC BY 4.0
-    표제어: 민망히
-    품사: 부사
-    항목ID: 10180
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=126842&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 민망히
+    원어:
+      언어: 고유어
+      원어: 히
+    의미:
+    - 뜻풀이: 답답하고 딱하여 안타깝게.
+      종류: 일반어
+      품사: 부사
+    종류: 혼종어
+    표제어: 민망-히
+    항목ID: 126842
 result:
   맞춤법 검사:
     표제어: 민망히
@@ -11307,15 +11801,23 @@ result:
 ---
 000_KEYWORD: 민며느리제__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 민며느리제
-    품사: 명사:보통:서술성
-    항목ID: 10181
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125465&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 민며느리제
+    원어:
+      언어: 한자
+      원어: 制
+    의미:
+    - 뜻풀이: 장차 며느리가 될 여자아이를 데려다 키워서 성인이 되면 남자 쪽에서 물품으로 대가를 치르고 혼례를 올리던 매매혼 제도.
+      분류: 역사
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 민며느리-제
+    항목ID: 125465
 result:
   맞춤법 검사:
     표제어: 민며느리제
@@ -11569,6 +12071,30 @@ import:
 result:
   맞춤법 검사:
     표제어: 민방위
+    품사: 명사
+---
+000_KEYWORD: 민방위대__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428324&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 민방위대
+    원어:
+      언어: 한자
+      원어: 民防衛隊
+    의미:
+    - 뜻풀이: 민방위를 수행하기 위하여 민방위 기본법에 의하여 편성한 조직. 20세에서 40세까지의 남자 및 지원한 여자로 편성한다.
+      분류: 없음
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 민방위-대
+    항목ID: 428324
+result:
+  맞춤법 검사:
+    표제어: 민방위대
     품사: 명사
 ---
 000_KEYWORD: 민법__명사__001
@@ -13345,14 +13871,23 @@ result:
 ---
 000_KEYWORD: 민족주의자__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 민족주의자
-    품사: 명사:보통:비서술성
-    항목ID: 10207
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=129086&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 민족쭈의자
+    - 민족쭈이자
+    원어:
+      언어: 한자
+      원어: 民族主義者
+    의미:
+    - 뜻풀이: 민족주의를 믿거나 주장하는 사람.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 민족주의-자
+    항목ID: 129086
 result:
   맞춤법 검사:
     표제어: 민족주의자
@@ -13542,15 +14077,23 @@ result:
 ---
 000_KEYWORD: 민주제__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 민주제
-    품사: 명사:보통:서술성
-    항목ID: 10212
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428080&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 민주제
+    원어:
+      언어: 한자
+      원어: 民主制
+    의미:
+    - 뜻풀이: 민주주의에 의거하여 정치를 행하는 제도.
+      분류: 정치
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 민주-제
+    항목ID: 428080
 result:
   맞춤법 검사:
     표제어: 민주제
@@ -13920,23 +14463,6 @@ result:
     표제어: 민첩성
     품사: 명사
 ---
-000_KEYWORD: 민첩하다__동사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - ruseel
-    라이선스: CC BY 4.0
-    어근: 민첩
-    표제어: 민첩하다
-    품사: 동사
-    항목ID: 10217
-result:
-  맞춤법 검사:
-    표제어: 민첩하다
-    품사: 동사
----
 000_KEYWORD: 민첩하다__형용사__001
 import:
   한국어기초사전:
@@ -14016,16 +14542,23 @@ result:
 ---
 000_KEYWORD: 민트__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어 (=박하)
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428551&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: mint
+    의미:
+    - 뜻풀이: 꿀풀과의 여러해살이풀. 줄기는 높이가 60~100cm이며, 잎은 마주나고 유선(油腺)이 있다. 여름에 옅은 자주색 또는 흰색의
+        작은 꽃이 줄기 윗부분에 윤산(輪繖) 화서로 피고, 열매는 달걀 모양의 수과(瘦果)를 맺는다. 한방에서는 잎을 약용하고 향기가 좋아
+        향료, 음료, 사탕 제조에도 쓴다. 중국이 원산지로 아시아, 유럽, 북아메리카 등지에 분포한다.
+      분류: 식물
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 민트
-    품사: 명사:보통:서술성
-    항목ID: 10218
+    항목ID: 428551
 result:
   맞춤법 검사:
     표제어: 민트
@@ -14661,15 +15194,22 @@ result:
 ---
 000_KEYWORD: 밀고자__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 밀고자
-    품사: 명사:보통:비서술성
-    항목ID: 10228
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=126567&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 밀고자
+    원어:
+      언어: 한자
+      원어: 密告者
+    의미:
+    - 뜻풀이: 남몰래 넌지시 일러바치는 사람.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 밀고-자
+    항목ID: 126567
 result:
   맞춤법 검사:
     표제어: 밀고자
@@ -14934,6 +15474,30 @@ result:
     표제어: 밀담
     품사: 명사
 ---
+000_KEYWORD: 밀대__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125808&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 밀ː때
+    의미:
+    - 뜻풀이: → 대걸레.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98662
+        레이블: 밀대
+        종류: 사진
+      분류: 군사
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 밀-대
+    항목ID: 125808
+result:
+  맞춤법 검사:
+    제외: 틀린 말
+---
 000_KEYWORD: 밀도__명사__001
 import:
   한국어기초사전:
@@ -14993,15 +15557,22 @@ result:
 ---
 000_KEYWORD: 밀라노__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=131587&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Milano
+    의미:
+    - 뜻풀이: 이탈리아 롬바르디아주에 있는 도시. 예로부터 교통의 요지이며 이탈리아 제1의 상업ㆍ금융ㆍ공업 도시로 발전해 왔다. 밀라노 성당과
+        스칼라 극장 따위가 있다. 주도(州都)이다. 면적은 182㎢.
+      분류: 지명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 밀라노
-    품사: 명사:고유
-    항목ID: 10233
+    항목ID: 131587
 result:
   맞춤법 검사:
     표제어: 밀라노
@@ -15693,17 +16264,87 @@ result:
     표제어: 밀매
     품사: 명사
 ---
+000_KEYWORD: 밀매되다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125752&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 밀매되다
+    - 밀매뒈다
+    원어:
+      언어: 고유어
+      원어: 되다
+    의미:
+    - 뜻풀이: 거래가 금지된 물건이 몰래 팔리다.
+      종류: 일반어
+      품사: 동사
+      형태: …에/에게
+    종류: 혼종어
+    표제어: 밀매-되다
+    항목ID: 125752
+    활용:
+    - 약어: 밀매돼
+      활용: 밀매되어
+    - 활용: 밀매되니
+result:
+  맞춤법 검사:
+    표제어: 밀매되다
+    품사: 동사
+---
+000_KEYWORD: 밀매하다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125750&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 밀매하다
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미:
+    - 뜻풀이: 거래가 금지된 물건을 몰래 사다.
+      문법: ‘…에게서’ 대신에 ‘…에게’가 쓰이기도 한다
+      종류: 일반어
+      품사: 동사
+      형태: …에서/에게서…을
+    종류: 혼종어
+    표제어: 밀매-하다01
+    항목ID: 125750
+    활용:
+    - 약어: 밀매해
+      활용: 밀매하여
+    - 활용: 밀매하니
+result:
+  맞춤법 검사:
+    표제어: 밀매하다
+    품사: 동사
+---
 000_KEYWORD: 밀명__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125760&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=125761&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 밀명-하다
+      항목ID: 125761
+    구분: 단어
+    발음:
+    - 밀명
+    원어:
+      언어: 한자
+      원어: 密命
+    의미:
+    - 뜻풀이: 남모르게 명령을 내림. 또는 그 명령.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
     표제어: 밀명
-    품사: 명사:보통:서술성
-    항목ID: 10242
+    항목ID: 125760
 result:
   맞춤법 검사:
     표제어: 밀명
@@ -16408,15 +17049,27 @@ result:
 ---
 000_KEYWORD: 밀수입하다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 밀수입하다
-    품사: 동사
-    항목ID: 10252
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=128300&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 밀쑤이파다
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미:
+    - 뜻풀이: 세관을 거치지 아니하고 몰래 물건을 사들여 오다.
+      종류: 일반어
+      품사: 동사
+      형태: …을…으로
+    종류: 혼종어
+    표제어: 밀수입-하다
+    항목ID: 128300
+    활용:
+    - 약어: 밀수입해
+      활용: 밀수입하여
+    - 활용: 밀수입하니
 result:
   맞춤법 검사:
     표제어: 밀수입하다
@@ -16424,15 +17077,27 @@ result:
 ---
 000_KEYWORD: 밀수출하다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 밀수출하다
-    품사: 동사
-    항목ID: 10253
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=128305&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 밀쑤출하다
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미:
+    - 뜻풀이: 세관을 거치지 아니하고 몰래 물건을 내다 팔다.
+      종류: 일반어
+      품사: 동사
+      형태: …을…으로
+    종류: 혼종어
+    표제어: 밀수출-하다
+    항목ID: 128305
+    활용:
+    - 약어: 밀수출해
+      활용: 밀수출하여
+    - 활용: 밀수출하니
 result:
   맞춤법 검사:
     표제어: 밀수출하다
@@ -16627,15 +17292,30 @@ result:
 ---
 000_KEYWORD: 밀양__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 고유명사/지명/도시
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428476&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=428476&searchKeywordTo=3
+      종류: 속담
+      표제어: 밀양 싸움
+      항목ID: 428476
+    구분: 단어
+    발음:
+    - 미량
+    원어:
+      언어: 한자
+      원어: 密陽
+    의미:
+    - 뜻풀이: 경상남도의 동북부에 있는 도시. 농산물, 축산물 따위와 도자기가 많이 나며, 우리나라 최초로 모직 공업이 시작되었다. 표충사,
+        아랑사, 영남루 따위의 명승지가 있다. 1989년 밀양읍이 승격된 시로, 1995년 1월 행정 구역 개편 때 밀양군과 통합하여 도농
+        복합 형태의 시를 이루었다. 면적은 799㎢.
+      분류: 지명
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
     표제어: 밀양
-    품사: 명사:보통:서술성
-    항목ID: 10258
+    항목ID: 428476
 result:
   맞춤법 검사:
     표제어: 밀양
@@ -17007,6 +17687,8 @@ import:
       형태: 밀어주니
 result:
   맞춤법 검사:
+    속성:
+    - 용언합성
     표제어: 밀어주다
     품사: 동사
 ---
@@ -17177,14 +17859,27 @@ result:
 ---
 000_KEYWORD: 밀입국하다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 밀입국하다
-    품사: 동사
-    항목ID: 10263
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=128505&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:38:03+09:00'
+    구분: 단어
+    발음:
+    - 미립꾸카다
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미:
+    - 뜻풀이: 국가의 허가를 받지 아니하고 몰래 국경을 넘어 들어오다.
+      종류: 일반어
+      품사: 동사
+      형태: …에
+    종류: 혼종어
+    표제어: 밀입국-하다
+    항목ID: 128505
+    활용:
+    - 약어: 밀입국해
+      활용: 밀입국하여
+    - 활용: 밀입국하니
 result:
   맞춤법 검사:
     표제어: 밀입국하다

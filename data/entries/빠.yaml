@@ -1,14 +1,31 @@
 000_KEYWORD: 빠각__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=162710&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=438971&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 빠각-거리다
+      항목ID: 438971
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=162711&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 빠각-대다
+      항목ID: 162711
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=162712&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 빠각-하다
+      항목ID: 162712
+    구분: 단어
+    발음:
+    - 빠각
+    의미:
+    - 뜻풀이: 작고 단단한 물건이나 질기고 빳빳한 물건이 맞닿을 때 나는 소리. ‘바각’보다 센 느낌을 준다.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
     표제어: 빠각
-    품사: 부사
-    항목ID: 13068
+    항목ID: 162710
 result:
   맞춤법 검사:
     표제어: 빠각
@@ -722,19 +739,55 @@ result:
 ---
 000_KEYWORD: 빠릿빠릿하다__형용사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 빠릿빠릿하다
-    품사: 형용사
-    항목ID: 13072
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=440471&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 단어
+    발음:
+    - 빠릳빠리타다
+    의미:
+    - 뜻풀이: 똘똘하고 행동이 날래다.
+      종류: 일반어
+      품사: 형용사
+    종류: 고유어
+    표제어: 빠릿빠릿-하다
+    항목ID: 440471
+    활용:
+    - 약어: 빠릿빠릿해
+      활용: 빠릿빠릿하여
+    - 활용: 빠릿빠릿하니
 result:
   맞춤법 검사:
     표제어: 빠릿빠릿하다
     품사: 형용사
+---
+000_KEYWORD: 빠삭하다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=165965&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 단어
+    발음:
+    - 빠사카다
+    의미:
+    - 뜻풀이: 눈을 조금 세게 밟는 소리가 나다. 또는 그런 소리를 내다.
+      종류: 일반어
+      품사: 동사
+      형태: (…을)
+    - 뜻풀이: 바스러지기 쉬울 정도로 물기가 없이 보송보송하다. ‘바삭하다[Ⅱ]’보다 센 느낌을 준다.
+      종류: 일반어
+      품사: 형용사
+    종류: 고유어
+    표제어: 빠삭-하다01
+    항목ID: 165965
+    활용:
+    - 약어: 빠삭해
+      활용: 빠삭하여
+    - 활용: 빠삭하니
+result:
+  맞춤법 검사:
+    표제어: 빠삭하다
+    품사: 동사
 ---
 000_KEYWORD: 빠삭하다__형용사__001
 import:
@@ -754,15 +807,20 @@ result:
 ---
 000_KEYWORD: 빠이빠이__감탄사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=166523&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: ←bye-bye
+    의미:
+    - 뜻풀이: 어린아이의 말로, 헤어질 때 하는 인사말.
+      종류: 일반어
+      품사: 감탄사
+    종류: 외래어
     표제어: 빠이빠이
-    품사: 감탄사
-    항목ID: 13074
+    항목ID: 166523
 result:
   맞춤법 검사:
     표제어: 빠이빠이
@@ -1329,15 +1387,33 @@ result:
 ---
 000_KEYWORD: 빠짐없다__형용사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 빠짐없다
-    품사: 형용사
-    항목ID: 13079
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=167701&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=441878&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 빠짐없-이
+      항목ID: 441878
+    구분: 단어
+    발음:
+    - 빠ː지멉따
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: 하나도 빠뜨리지 아니하고 모두 다 있다.
+      종류: 일반어
+      품사: 형용사
+    종류: 고유어
+    표제어: 빠짐-없다
+    항목ID: 167701
+    활용:
+    - 활용: 빠짐없어
+    - 활용: 빠짐없으니
+    - 활용: 빠짐없고
+    - 활용: 빠짐없는
+    - 활용: 빠짐없지
 result:
   맞춤법 검사:
     표제어: 빠짐없다
@@ -1487,15 +1563,19 @@ result:
 ---
 000_KEYWORD: 빡__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=437997&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 단어
+    발음:
+    - 빡
+    의미:
+    - 뜻풀이: 이 따위를 야무지게 갈거나 무는 소리. 또는 그 모양.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
     표제어: 빡
-    품사: 부사
-    항목ID: 13082
+    항목ID: 437997
 result:
   맞춤법 검사:
     표제어: 빡
@@ -1659,21 +1739,6 @@ result:
   맞춤법 검사:
     표제어: 빡빡머리
     품사: 명사
----
-000_KEYWORD: 빡빡하다__동사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 빡빡하다
-    품사: 동사
-    항목ID: 13084
-result:
-  맞춤법 검사:
-    표제어: 빡빡하다
-    품사: 동사
 ---
 000_KEYWORD: 빡빡하다__형용사__001
 import:
@@ -3414,14 +3479,19 @@ result:
 ---
 000_KEYWORD: 빨래터__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 빨래터
-    품사: 명사:보통:비서술성
-    항목ID: 13097
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=158772&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 단어
+    발음:
+    - 빨래터
+    의미:
+    - 뜻풀이: 시내나 샘터에서 빨래할 수 있게 마련한 일정한 장소.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 빨래-터
+    항목ID: 158772
 result:
   맞춤법 검사:
     표제어: 빨래터
@@ -4920,6 +4990,31 @@ import:
 result:
   맞춤법 검사:
     표제어: 빵빵대다
+    품사: 동사
+---
+000_KEYWORD: 빵빵하다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=159963&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 단어
+    발음:
+    - 빵빵하다
+    의미:
+    - 뜻풀이: 공 따위를 세게 잇따라 차다.
+      종류: 일반어
+      품사: 동사
+      형태: …을
+    종류: 고유어
+    표제어: 빵빵-하다01
+    항목ID: 159963
+    활용:
+    - 약어: 빵빵해
+      활용: 빵빵하여
+    - 활용: 빵빵하니
+result:
+  맞춤법 검사:
+    표제어: 빵빵하다
     품사: 동사
 ---
 000_KEYWORD: 빵빵하다__형용사__001

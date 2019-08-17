@@ -1,15 +1,30 @@
 000_KEYWORD: 돼먹다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 예; 돼먹지 못한 놈!
-    표제어: 돼먹다
-    품사: 동사
-    항목ID: 7332
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=91315&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:21:09+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=91315&searchKeywordTo=3
+      종류: 관용구
+      표제어: 돼먹지 않다[못하다]
+      항목ID: 91315
+    구분: 단어
+    발음:
+    - 돼ː먹따
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: ‘되다01’를 속되게 이르는 말.
+      종류: 일반어
+      품사: 동사
+    종류: 고유어
+    표제어: 돼-먹다
+    항목ID: 91315
+    활용:
+    - 활용: 돼먹어
+    - 활용: 돼먹으니
+    - 활용: 돼먹는
 result:
   맞춤법 검사:
     표제어: 돼먹다

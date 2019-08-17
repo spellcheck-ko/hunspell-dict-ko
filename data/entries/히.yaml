@@ -257,15 +257,26 @@ result:
 ---
 000_KEYWORD: 히드라__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 동물
-    표제어: 히드라
-    품사: 명사:보통:비서술성
-    항목ID: 31727
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=386405&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: hydra
+    의미:
+    - 뜻풀이: 히드라과의 자포동물. 몸의 길이는 1cm 정도이고 대롱 모양이며 갈색이다. 5~8개의 실 같은 촉수가 있어 물속의 미생물을 잡아먹는다.
+        못이나 늪 속의 나무나 돌 따위에 붙어 사는데 전 세계에 분포한다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=104124
+        종류: 삽화
+      분류: 동물
+      종류: 일반어
+      품사: 명사
+      학명: Hydra vulgaris
+    종류: 외래어
+    표제어: 히드라01
+    항목ID: 386405
 result:
   맞춤법 검사:
     표제어: 히드라
@@ -330,15 +341,21 @@ result:
 ---
 000_KEYWORD: 히브리어__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: Hebrew
-    표제어: 히브리어
-    품사: 명사:보통:서술성
-    항목ID: 31729
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384176&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 語
+    의미:
+    - 뜻풀이: 함ㆍ셈 어족 서북셈 어파의 가나안 어군에 속한 언어. 이스라엘의 공용어로, 세계 각지의 유대인 사회에서도 쓰인다.
+      분류: 언어
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 히브리-어
+    항목ID: 384176
 result:
   맞춤법 검사:
     표제어: 히브리어
@@ -394,16 +411,21 @@ result:
 ---
 000_KEYWORD: 히스토그램__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 수학
-    어원: histogram
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384734&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: histogram
+    의미:
+    - 뜻풀이: 비교할 양이나 수치의 분포를 막대 모양의 도형으로 나타낸 그래프.
+      분류: 수학
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 히스토그램
-    품사: 명사:보통:비서술성
-    항목ID: 31731
+    항목ID: 384734
 result:
   맞춤법 검사:
     표제어: 히스토그램
@@ -411,16 +433,27 @@ result:
 ---
 000_KEYWORD: 히아신스__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 꽃 이름.
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384739&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Hyacinth
+    의미:
+    - 뜻풀이: 백합과의 여러해살이풀. 높이는 15~30cm이며, 잎은 뭉쳐나고 파침 모양이다. 초여름에 청색, 자주색, 붉은색, 노란색, 흰색
+        따위의 종 모양 꽃이 총상(總狀) 화서로 모여 피고 열매는 삭과(蒴果)로 7월에 익는다. 관상용이고 지중해 연안이 원산지이다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=104126
+        레이블: 히아신스
+        종류: 사진
+      분류: 식물
+      종류: 일반어
+      품사: 명사
+      학명: Hyacinthus orientalis
+    종류: 외래어
     표제어: 히아신스
-    품사: 명사:보통:비서술성
-    항목ID: 31732
+    항목ID: 384739
 result:
   맞춤법 검사:
     표제어: 히아신스
@@ -1034,15 +1067,25 @@ result:
 ---
 000_KEYWORD: 히치하이크__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383211&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383212&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 히치하이크-하다
+      항목ID: 383212
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: hitchhike
+    의미:
+    - 뜻풀이: 지나가는 자동차를 얻어 타는 일. 또는 그렇게 해서 목적지까지 가는 무전여행.
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 히치하이크
-    품사: 명사:보통:서술성
-    항목ID: 31736
+    항목ID: 383211
 result:
   맞춤법 검사:
     표제어: 히치하이크
@@ -1228,6 +1271,30 @@ result:
   맞춤법 검사:
     표제어: 히트하다
     품사: 동사
+---
+000_KEYWORD: 히틀러__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383505&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Hitler, Adolf
+    의미:
+    - 뜻풀이: 오스트리아 태생의 독일 정치가(1889~1945). 1919년에 독일 노동당에 입당하여 1921년부터 나치스의 당수를 지냈으며
+        1933년에 독일 연방의 총리가 되고 다음 해 총통이 되었다. 반유대주의와 게르만 민족의 우월성을 내세워 제이 차 세계 대전을 일으켰다.
+        뒤에 연합군의 공격에 밀려 1945년 베를린 함락 직전에 자살하였다. 저서에 ≪나의 투쟁≫이 있다.
+      분류: 인명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 히틀러
+    항목ID: 383505
+result:
+  맞춤법 검사:
+    표제어: 히틀러
+    품사: 명사
 ---
 000_KEYWORD: 히프__명사__001
 import:
@@ -1520,16 +1587,47 @@ result:
     표제어: 히히하다
     품사: 동사
 ---
+000_KEYWORD: 힌두교__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=386567&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 敎
+    의미:
+    - 뜻풀이: 인도의 토착 신앙과 브라만교가 융합한 종교 체계. 구원에 이르는 세 가지 길로 공덕, 지혜, 봉헌을 들고 있으며 사회 제도와의
+        연계가 특징이다.
+      분류: 종교 일반
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 힌두-교
+    항목ID: 386567
+result:
+  맞춤법 검사:
+    표제어: 힌두교
+    품사: 명사
+---
 000_KEYWORD: 힌디어__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 힌디어
-    품사: 명사:보통:서술성
-    항목ID: 31746
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=382861&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 語
+    의미:
+    - 뜻풀이: 인도ㆍ유럽 어족의 인도ㆍ이란 어파에 속한 언어. 힌두스타니어에서 분리하여 독립적으로 쓰이며, 인도 헌법에 규정된 공용어 가운데
+        하나이다.
+      분류: 언어
+      종류: 일반어
+      품사: 명사
+    종류: 혼종어
+    표제어: 힌디-어
+    항목ID: 382861
 result:
   맞춤법 검사:
     표제어: 힌디어
@@ -1570,16 +1668,21 @@ result:
 ---
 000_KEYWORD: 힐__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어
-    표제어: 힐
-    품사: 명사:보통:비서술성
-    항목ID: 31748
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=382879&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: heel
+    의미:
+    - 뜻풀이: 굽이 높은 여자용 구두.
+      분류: 없음
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 힐01
+    항목ID: 382879
 result:
   맞춤법 검사:
     표제어: 힐
@@ -1834,6 +1937,39 @@ result:
   맞춤법 검사:
     표제어: 힐금힐금하다
     품사: 동사
+---
+000_KEYWORD: 힐긋__부사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=507107&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=387285&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 힐긋-거리다
+      항목ID: 387285
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=387286&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 힐긋-대다
+      항목ID: 387286
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=387287&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 힐긋-하다
+      항목ID: 387287
+    구분: 단어
+    발음:
+    - 힐귿
+    의미:
+    - 뜻풀이: 눈에 언뜻 띄는 모양.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 힐긋
+    항목ID: 507107
+result:
+  맞춤법 검사:
+    표제어: 힐긋
+    품사: 부사
 ---
 000_KEYWORD: 힐끔__부사__001
 import:

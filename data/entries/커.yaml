@@ -1,15 +1,20 @@
 000_KEYWORD: 커넥터__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 전기
-    어원: connector
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=339520&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: connector
+    의미:
+    - 뜻풀이: 전기 기구와 코드, 또는 코드와 코드를 연결하여 전기 회로를 구성하기 위한 접속 기구.
+      분류: 전기·전자
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 커넥터
-    품사: 명사:보통:비서술성
-    항목ID: 27405
+    항목ID: 339520
 result:
   맞춤법 검사:
     표제어: 커넥터
@@ -274,14 +279,21 @@ result:
 ---
 000_KEYWORD: 커뮤니티__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=340341&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: community
+    의미:
+    - 뜻풀이: 지연에 의하여 자연 발생적으로 이루어진 공동 사회. 주민은 공통의 사회 관념, 생활 양식, 전통, 공동체 의식을 가진다.
+      분류: 사회 일반
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 커뮤니티
-    품사: 명사:보통:서술성
-    항목ID: 27411
+    항목ID: 340341
 result:
   맞춤법 검사:
     표제어: 커뮤니티
@@ -487,16 +499,23 @@ result:
 ---
 000_KEYWORD: 커스터드__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=341649&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: custard
+    의미:
+    - 뜻풀이: 우유나 달걀노른자에 설탕, 향미료 따위를 섞어 굽거나 쪄서 크림처럼 만든 과자.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103209
+        종류: 사진
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 커스터드
-    품사: 명사:보통:서술성
-    항목ID: 27414
+    항목ID: 341649
 result:
   맞춤법 검사:
     표제어: 커스터드
@@ -564,16 +583,21 @@ result:
 ---
 000_KEYWORD: 커터__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=339082&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: cutter
+    의미:
+    - 뜻풀이: 돛대가 하나인 소형 돛단배로, 외돛대의 앞뒤에 비교적 큰 돛을 단 쾌속 범선.
+      분류: 교통
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 커터
-    품사: 명사:보통:비서술성
-    항목ID: 27416
+    항목ID: 339082
 result:
   맞춤법 검사:
     표제어: 커터
@@ -1245,16 +1269,21 @@ result:
 ---
 000_KEYWORD: 컨설턴트__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=339937&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: consultant
+    의미:
+    - 뜻풀이: 기업 경영에 관한 전문적인 의견이나 조언을 말하여 주는 사람.
+      분류: 경영
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 컨설턴트
-    품사: 명사:보통:서술성
-    항목ID: 27423
+    항목ID: 339937
 result:
   맞춤법 검사:
     표제어: 컨설턴트
@@ -1262,14 +1291,21 @@ result:
 ---
 000_KEYWORD: 컨설팅__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=515471&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: consulting
+    의미:
+    - 뜻풀이: 어떤 분야의 전문가가 고객을 상대로 상세하게 상담하고 도와주는 것.
+      분류: 경영
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 컨설팅
-    품사: 명사:보통:서술성
-    항목ID: 27424
+    항목ID: 515471
 result:
   맞춤법 검사:
     표제어: 컨설팅
@@ -1394,15 +1430,21 @@ result:
 ---
 000_KEYWORD: 컨트롤러__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=340185&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: controller
+    의미:
+    - 뜻풀이: 발전기의 단자 전압을 제어하는 장치.
+      분류: 기계
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 컨트롤러
-    품사: 명사:보통:비서술성
-    항목ID: 27428
+    항목ID: 340185
 result:
   맞춤법 검사:
     표제어: 컨트롤러
@@ -1516,15 +1558,20 @@ result:
 ---
 000_KEYWORD: 컬렉션__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 순화:수집
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=341515&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: collection
+    의미:
+    - 뜻풀이: 관련된 물건들이나 상품들의 집합.
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 컬렉션
-    품사: 명사:보통:비서술성
-    항목ID: 27431
+    항목ID: 341515
 result:
   맞춤법 검사:
     표제어: 컬렉션
@@ -1607,15 +1654,25 @@ result:
 ---
 000_KEYWORD: 컴백__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: comeback
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=341280&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=341281&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 컴백-하다
+      항목ID: 341281
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: comeback
+    의미:
+    - 뜻풀이: 예전의 활동 무대에 다시 돌아옴.
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 컴백
-    품사: 명사:보통:서술성
-    항목ID: 27432
+    항목ID: 341280
 result:
   맞춤법 검사:
     표제어: 컴백
@@ -1720,16 +1777,22 @@ result:
 ---
 000_KEYWORD: 컴파일__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 컴퓨터
-    어원: compile
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=333304&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: compile
+    의미:
+    - 뜻풀이: 프로그램 제작자가 코볼ㆍ포트란 따위의 고급 언어로 쓰인 프로그램을 번역하고, 컴퓨터에서 실행할 수 있는 기계어 프로그램으로 고치는
+        과정.
+      분류: 정보·통신
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 컴파일
-    품사: 명사:보통:서술성
-    항목ID: 27435
+    항목ID: 333304
 result:
   맞춤법 검사:
     표제어: 컴파일
@@ -1737,15 +1800,21 @@ result:
 ---
 000_KEYWORD: 컴파일러__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: compiler
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=333305&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: compiler
+    의미:
+    - 뜻풀이: 고급 언어로 작성된 원시 프로그램을 입력으로 받아 기계어로 된 목적 프로그램을 출력하기 위하여 사용하는 언어 번역 프로그램.
+      분류: 정보·통신
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 컴파일러
-    품사: 명사:보통:서술성
-    항목ID: 27436
+    항목ID: 333305
 result:
   맞춤법 검사:
     표제어: 컴파일러
@@ -1966,23 +2035,18 @@ import:
     - 발음: 컴만
       발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/40000/32792_keomman.wav
       형태: 컵만
-result:
+import_derived:
   맞춤법 검사:
     표제어: 컵
     품사: 명사
----
-000_KEYWORD: 컵__의존_명사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 컵
-    품사: 명사:의존:단위성
-    항목ID: 32165
+manual:
+  맞춤법 검사:
+    속성:
+    - 의존명사
 result:
   맞춤법 검사:
+    속성:
+    - 의존명사
     표제어: 컵
     품사: 명사
 ---

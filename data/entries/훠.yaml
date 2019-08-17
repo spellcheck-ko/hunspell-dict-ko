@@ -1,18 +1,45 @@
 000_KEYWORD: 훠이__감탄사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=381715&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 훠이
+    의미:
+    - 뜻풀이: 닭이나 참새 따위를 쫓을 때 외치는 소리.
+      종류: 일반어
+      품사: 감탄사
+    종류: 고유어
     표제어: 훠이
-    품사: 감탄사
-    항목ID: 31467
+    항목ID: 381715
 result:
   맞춤법 검사:
     표제어: 훠이
     품사: 감탄사
+---
+000_KEYWORD: 훤당__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=382307&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 훤당
+    원어:
+      언어: 한자
+      원어: 萱堂
+    의미:
+    - 뜻풀이: 남의 어머니를 높여 이르는 말.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 훤당
+    항목ID: 382307
+result:
+  맞춤법 검사:
+    표제어: 훤당
+    품사: 명사
 ---
 000_KEYWORD: 훤출하다__형용사__001
 import:

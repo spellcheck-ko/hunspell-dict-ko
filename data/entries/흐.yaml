@@ -1792,15 +1792,23 @@ result:
 ---
 000_KEYWORD: 흐릿흐릿하다__형용사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 흐릿흐릿하다
-    품사: 형용사
-    항목ID: 31564
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=385975&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흐리트리타다
+    의미:
+    - 뜻풀이: 여럿이 다 흐린 듯하다.
+      종류: 일반어
+      품사: 형용사
+    종류: 고유어
+    표제어: 흐릿흐릿-하다
+    항목ID: 385975
+    활용:
+    - 약어: 흐릿흐릿해
+      활용: 흐릿흐릿하여
+    - 활용: 흐릿흐릿하니
 result:
   맞춤법 검사:
     표제어: 흐릿흐릿하다
@@ -2354,14 +2362,32 @@ result:
 ---
 000_KEYWORD: 흐흐__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383322&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=507989&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 흐흐-거리다
+      항목ID: 507989
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383323&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 흐흐-대다
+      항목ID: 383323
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383589&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 흐흐-하다
+      항목ID: 383589
+    구분: 단어
+    발음:
+    - 흐흐
+    의미:
+    - 뜻풀이: 흐뭇함을 참지 못하여 입을 조금 벌리고 은근히 웃는 소리. 또는 그 모양.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
     표제어: 흐흐
-    품사: 부사
-    항목ID: 31573
+    항목ID: 383322
 result:
   맞춤법 검사:
     표제어: 흐흐
@@ -2475,6 +2501,29 @@ result:
     표제어: 흑
     품사: 부사
 ---
+000_KEYWORD: 흑룡__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=382896&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흥뇽
+    원어:
+      언어: 한자
+      원어: 黑龍
+    의미:
+    - 뜻풀이: 검은 빛깔의 용.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 흑룡
+    항목ID: 382896
+result:
+  맞춤법 검사:
+    표제어: 흑룡
+    품사: 명사
+---
 000_KEYWORD: 흑막__명사__001
 import:
   한국어기초사전:
@@ -2530,15 +2579,22 @@ result:
 ---
 000_KEYWORD: 흑발__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=390087&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흑빨
+    원어:
+      언어: 한자
+      원어: 黑髮
+    의미:
+    - 뜻풀이: 검은 빛깔의 머리털.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
     표제어: 흑발
-    품사: 명사:보통:서술성
-    항목ID: 31575
+    항목ID: 390087
 result:
   맞춤법 검사:
     표제어: 흑발
@@ -2655,15 +2711,24 @@ result:
 ---
 000_KEYWORD: 흑사병__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 의학 동의어:페스트
-    표제어: 흑사병
-    품사: 명사:보통:서술성
-    항목ID: 31578
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383453&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흑싸뼝
+    원어:
+      언어: 한자
+      원어: 黑死病
+    의미:
+    - 뜻풀이: 페스트균이 일으키는 급성 전염병. 오한, 고열, 두통에 이어 권태, 현기증이 일어나며 의식이 흐려지게 되어 죽는다. 폐페스트의
+        경우에는 피부가 흑자색으로 변한다.
+      분류: 의학
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 흑사-병
+    항목ID: 383453
 result:
   맞춤법 검사:
     표제어: 흑사병
@@ -2836,15 +2901,27 @@ result:
 ---
 000_KEYWORD: 흑요석__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 흑요석
-    품사: 명사:보통:서술성
-    항목ID: 31584
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=385423&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흐교석
+    원어:
+      언어: 한자
+      원어: 黑曜石
+    의미:
+    - 뜻풀이: 유문암질(流紋巖質) 또는 안산암질(安山巖質) 따위의 마그마가 급격히 식으면서 굳어져 이루어진 화산암. 회색 또는 검은색을 띠고
+        유리 광택이 있으며, 조가비 모양의 단구(斷口)를 가진다. 아름다운 것은 장식품의 돌로 쓰고, 비석ㆍ도장ㆍ그릇ㆍ단열재 따위의 재료로
+        쓴다.
+      분류: 광업
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 흑요-석
+    항목ID: 385423
+    활용:
+    - 활용: 흑요석만
 result:
   맞춤법 검사:
     표제어: 흑요석
@@ -2970,15 +3047,24 @@ result:
 ---
 000_KEYWORD: 흑점__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: '"태양 흑점"'
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=386242&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흑쩜
+    원어:
+      언어: 한자
+      원어: 黑點
+    의미:
+    - 뜻풀이: 태양 표면에 보이는 검은 반점. 광구에 나타나는 현상으로, 광구의 온도보다 2,000℃ 정도 더 낮기 때문에 검게 보인다. 모양은
+        거의 둥글고 길이는 수백에서 수만 km에 이르며, 증감의 주기는 약 11.1년이다. 지구의 기온이나 기후에 영향을 준다.
+      분류: 천문
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
     표제어: 흑점
-    품사: 명사:보통:비서술성
-    항목ID: 31587
+    항목ID: 386242
 result:
   맞춤법 검사:
     표제어: 흑점
@@ -2986,14 +3072,22 @@ result:
 ---
 000_KEYWORD: 흑진주__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 흑진주
-    품사: 명사:보통:비서술성
-    항목ID: 31588
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=386755&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흑찐주
+    원어:
+      언어: 한자
+      원어: 黑眞珠
+    의미:
+    - 뜻풀이: 검은빛의 진주.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 흑-진주
+    항목ID: 386755
 result:
   맞춤법 검사:
     표제어: 흑진주
@@ -6044,23 +6138,31 @@ result:
 ---
 000_KEYWORD: 흘려듣다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    속성:
-    - 용언합성
-    - ㄷ불규칙
-    표제어: 흘려듣다
-    품사: 동사
-    항목ID: 31612
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=385994&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흘려듣따
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: 다른 사람들이 주고받는 소리가 우연히 귀에 들려 어떤 소식을 얻어듣다.
+      종류: 일반어
+      품사: 동사
+      형태: …을
+    종류: 고유어
+    표제어: 흘려-듣다
+    항목ID: 385994
+    활용:
+    - 활용: 흘려들어
+    - 활용: 흘려들으니
+    - 활용: 흘려듣는
 result:
   맞춤법 검사:
     속성:
     - ㄷ불규칙
-    - 용언합성
     표제어: 흘려듣다
     품사: 동사
 ---
@@ -6333,6 +6435,35 @@ import:
 result:
   맞춤법 검사:
     표제어: 흙
+    품사: 명사
+---
+000_KEYWORD: 흙내__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384259&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384259&searchKeywordTo=3
+      종류: 속담
+      표제어: 흙내가 고소하다
+      항목ID: 384259
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384259&searchKeywordTo=3
+      종류: 관용구
+      표제어: 흙내(를) 맡다
+      항목ID: 384259
+    구분: 단어
+    발음:
+    - 흥내
+    의미:
+    - 뜻풀이: 흙에서 나는 냄새.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 흙-내
+    항목ID: 384259
+result:
+  맞춤법 검사:
+    표제어: 흙내
     품사: 명사
 ---
 000_KEYWORD: 흙냄새__명사__001
@@ -6682,15 +6813,20 @@ result:
 ---
 000_KEYWORD: 흙비__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 흙비
-    품사: 명사:보통:서술성
-    항목ID: 31621
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384095&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흑삐
+    어원: ＜비＜훈몽＞←+비
+    의미:
+    - 뜻풀이: 황사가 대기 속의 습기를 만나 내리는 비.
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 흙-비01
+    항목ID: 384095
 result:
   맞춤법 검사:
     표제어: 흙비
@@ -7292,6 +7428,29 @@ result:
     표제어: 흠잡다
     품사: 동사
 ---
+000_KEYWORD: 흠절__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=386765&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흠ː절
+    원어:
+      언어: 한자
+      원어: 欠節
+    의미:
+    - 뜻풀이: 부족하거나 잘못된 점.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 흠절
+    항목ID: 386765
+result:
+  맞춤법 검사:
+    표제어: 흠절
+    품사: 명사
+---
 000_KEYWORD: 흠집__명사__001
 import:
   한국어기초사전:
@@ -7565,6 +7724,39 @@ result:
   맞춤법 검사:
     표제어: 흠흠
     품사: 감탄사
+---
+000_KEYWORD: 흠흠__부사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=507122&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383976&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 흠흠-하다
+      항목ID: 383976
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383974&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 흠흠거리다
+      항목ID: 383974
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=383975&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 흠흠대다
+      항목ID: 383975
+    구분: 단어
+    발음:
+    - 흠흠
+    의미:
+    - 뜻풀이: 냄새를 맡으려고 잇따라 콧숨을 들이쉬는 소리. 또는 그 모양.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 흠-흠01
+    항목ID: 507122
+result:
+  맞춤법 검사:
+    표제어: 흠흠
+    품사: 부사
 ---
 000_KEYWORD: 흡사__부사__001
 import:
@@ -8642,15 +8834,27 @@ result:
 ---
 000_KEYWORD: 흡혈__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384969&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=384970&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 흡혈-하다
+      항목ID: 384970
+    구분: 단어
+    발음:
+    - 흐펼
+    원어:
+      언어: 한자
+      원어: 吸血
+    의미:
+    - 뜻풀이: 피를 빨아들임.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
     표제어: 흡혈
-    품사: 명사:보통:서술성
-    항목ID: 31651
+    항목ID: 384969
 result:
   맞춤법 검사:
     표제어: 흡혈
@@ -9398,16 +9602,24 @@ result:
 ---
 000_KEYWORD: 흥사단__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 항일단체(신민회의 후신).
-    표제어: 흥사단
-    품사: 명사:보통:서술성
-    항목ID: 31665
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=508998&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흥사단
+    원어:
+      언어: 한자
+      원어: 興士團
+    의미:
+    - 뜻풀이: 1913년 안창호가 미국 샌프란시스코에서 창립한 민족 부흥 운동 단체. 신민회의 후신으로 ≪흥사단보≫를 발행하여 흥사단 안팎의
+        소식과 일반 교포의 계몽에 힘쓰다가, 8ㆍ15 광복 후 서울로 본부를 옮겼다.
+      분류: 역사
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 흥사-단
+    항목ID: 508998
 result:
   맞춤법 검사:
     표제어: 흥사단
@@ -10378,14 +10590,24 @@ result:
 ---
 000_KEYWORD: 흥행작__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 흥행작
-    품사: 명사:보통:비서술성
-    항목ID: 31675
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=507057&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 단어
+    발음:
+    - 흥행작
+    원어:
+      언어: 한자
+      원어: 興行作
+    의미:
+    - 뜻풀이: 흥행에 성공한 연극이나 영화의 작품.
+      종류: 일반어
+      품사: 명사
+    종류: 한자어
+    표제어: 흥행-작
+    항목ID: 507057
+    활용:
+    - 활용: 흥행작만
 result:
   맞춤법 검사:
     표제어: 흥행작

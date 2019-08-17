@@ -1678,6 +1678,45 @@ result:
     표제어: 쇠창살
     품사: 명사
 ---
+000_KEYWORD: 쇠털__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=445165&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:13:39+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=445165&searchKeywordTo=3
+      종류: 속담
+      표제어: 쇠털 같은 날
+      항목ID: 445165
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=445165&searchKeywordTo=3
+      종류: 속담
+      표제어: 쇠털같이 많다
+      항목ID: 445165
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=445165&searchKeywordTo=3
+      종류: 속담
+      표제어: 쇠털같이 하고많은[허구한] 날
+      항목ID: 445165
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=445165&searchKeywordTo=3
+      종류: 속담
+      표제어: 쇠털을 뽑아 제 구멍에 박는다
+      항목ID: 445165
+    구분: 단어
+    발음:
+    - 쇠ː털
+    - 쉐ː털
+    의미:
+    - 뜻풀이: 소의 털.
+      분류: 없음
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 쇠-털
+    항목ID: 445165
+result:
+  맞춤법 검사:
+    표제어: 쇠털
+    품사: 명사
+---
 000_KEYWORD: 쇠톱__명사__001
 import:
   한국어기초사전:

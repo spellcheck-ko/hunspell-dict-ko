@@ -76,6 +76,28 @@ result:
     표제어: 메가바이트
     품사: 의존 명사
 ---
+000_KEYWORD: 메가비트__의존 명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421564&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: megabit
+    의미:
+    - 뜻풀이: 데이터의 양을 나타내는 단위. 1메가비트는 1,024킬로비트, 또는 104만 8576비트에 해당한다. 기호는 Mb.
+      분류: 정보·통신
+      종류: 일반어
+      품사: 의존 명사
+    종류: 외래어
+    표제어: 메가-비트
+    항목ID: 421564
+result:
+  맞춤법 검사:
+    표제어: 메가비트
+    품사: 의존 명사
+---
 000_KEYWORD: 메가비트__의존_명사__001
 import:
   갈퀴 Django:
@@ -92,6 +114,28 @@ result:
     표제어: 메가비트
     품사: 명사
 ---
+000_KEYWORD: 메가와트__의존 명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=518435&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: megawatt
+    의미:
+    - 뜻풀이: 전력의 단위. 1메가와트는 1와트의 100만 배이다. 기호는 MW.
+      분류: 전기·전자
+      종류: 일반어
+      품사: 의존 명사
+    종류: 외래어
+    표제어: 메가와트
+    항목ID: 518435
+result:
+  맞춤법 검사:
+    표제어: 메가와트
+    품사: 의존 명사
+---
 000_KEYWORD: 메가와트__의존_명사__001
 import:
   갈퀴 Django:
@@ -107,6 +151,28 @@ result:
   맞춤법 검사:
     표제어: 메가와트
     품사: 명사
+---
+000_KEYWORD: 메가톤__의존 명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421567&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: megaton
+    의미:
+    - 뜻풀이: 핵폭탄의 폭발력을 나타내는 단위. 1메가톤은 티엔티(TNT) 100만 톤의 폭발력이다. 기호는 Mt.
+      분류: 전기·전자
+      종류: 일반어
+      품사: 의존 명사
+    종류: 외래어
+    표제어: 메가-톤
+    항목ID: 421567
+result:
+  맞춤법 검사:
+    표제어: 메가톤
+    품사: 의존 명사
 ---
 000_KEYWORD: 메가톤__의존_명사__001
 import:
@@ -539,14 +605,21 @@ result:
 ---
 000_KEYWORD: 메들리__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=114542&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: medley
+    의미:
+    - 뜻풀이: 여러 노래의 일부를 조금씩 접속하여 한 곡으로 만든 곡.
+      분류: 음악
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 메들리
-    품사: 명사:보통:비서술성
-    항목ID: 8933
+    항목ID: 114542
 result:
   맞춤법 검사:
     표제어: 메들리
@@ -618,16 +691,21 @@ result:
 ---
 000_KEYWORD: 메르헨__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: = 동화, 옛날이야기
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421573&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 독일어
+      원어: Märchen
+    의미:
+    - 뜻풀이: 어린이를 위하여 만든, 공상적이고 신비로운 옛이야기나 동화.
+      분류: 문학
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 메르헨
-    품사: 명사:보통:서술성
-    항목ID: 8936
+    항목ID: 421573
 result:
   맞춤법 검사:
     표제어: 메르헨
@@ -1085,6 +1163,31 @@ result:
     표제어: 메밀꽃
     품사: 명사
 ---
+000_KEYWORD: 메밀묵__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421679&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    발음:
+    - 메밀묵
+    의미:
+    - 뜻풀이: 껍질을 벗긴 메밀을 갈아서 앙금을 앉혀 그것으로 쑤어 만든 묵.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98375
+        종류: 사진
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 메밀-묵
+    항목ID: 421679
+    활용:
+    - 활용: 메밀묵만
+result:
+  맞춤법 검사:
+    표제어: 메밀묵
+    품사: 명사
+---
 000_KEYWORD: 메세지__명사__001
 import:
   갈퀴 Django:
@@ -1102,15 +1205,22 @@ result:
 ---
 000_KEYWORD: 메소포타미아__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115659&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Mesopotamia
+    의미:
+    - 뜻풀이: 서남아시아의 티그리스강과 유프라테스강 사이에 있는 지역. 이라크를 중심으로 시리아 동북부와 이란 서남부를 포함한다. 고대 문명
+        발상지의 하나이다.
+      분류: 지명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 메소포타미아
-    품사: 명사:고유
-    항목ID: 8949
+    항목ID: 115659
 result:
   맞춤법 검사:
     표제어: 메소포타미아
@@ -1229,15 +1339,21 @@ result:
 ---
 000_KEYWORD: 메스실린더__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 메스실린더
-    품사: 명사:보통:비서술성
-    항목ID: 8951
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115115&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: ←measuring cylinder
+    의미:
+    - 뜻풀이: 액체의 부피를 잴 수 있도록 만든, 눈금이 새겨진 원통형의 시험관.
+      분류: 화학
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 메스-실린더
+    항목ID: 115115
 result:
   맞춤법 검사:
     표제어: 메스실린더
@@ -1327,15 +1443,24 @@ result:
 ---
 000_KEYWORD: 메슥메슥__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 메슥메슥
-    품사: 부사
-    항목ID: 8953
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115137&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115138&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 메슥메슥-하다
+      항목ID: 115138
+    구분: 단어
+    발음:
+    - 메승메슥
+    의미:
+    - 뜻풀이: 먹은 것이 되넘어 올 것같이 속이 자꾸 심하게 울렁거리는 모양.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 메슥-메슥
+    항목ID: 115137
 result:
   맞춤법 검사:
     표제어: 메슥메슥
@@ -1434,16 +1559,21 @@ result:
 ---
 000_KEYWORD: 메시에__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 천문학자
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115146&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Messier, Charles
+    의미:
+    - 뜻풀이: 프랑스의 천문학자(1730~1817). 혜성을 관측하여 세계 최초로 성운과 성단의 목록을 작성하였다.
+      분류: 인명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 메시에
-    품사: 명사:고유
-    항목ID: 8955
+    항목ID: 115146
 result:
   맞춤법 검사:
     표제어: 메시에
@@ -1806,15 +1936,28 @@ result:
 ---
 000_KEYWORD: 메이다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 메이다
-    품사: 동사
-    항목ID: 8961
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=113800&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    발음:
+    - 메이다
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: 어떤 책임을 지게 되거나 임무를 맡게 되다. ‘메다02「2」’의 피동사.
+      분류: 없음
+      종류: 일반어
+      품사: 동사
+      형태: …에
+    종류: 고유어
+    표제어: 메-이다01
+    항목ID: 113800
+    활용:
+    - 약어: 메여
+      활용: 메이어
+    - 활용: 메이니
 result:
   맞춤법 검사:
     표제어: 메이다
@@ -1822,16 +1965,21 @@ result:
 ---
 000_KEYWORD: 메이저__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    어원: major
-    표제어: 메이저
-    품사: 명사:보통:서술성
-    항목ID: 8962
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115474&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: major
+    의미:
+    - 뜻풀이: 장음계로 된 곡조.
+      분류: 음악
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 메이저01
+    항목ID: 115474
 result:
   맞춤법 검사:
     표제어: 메이저
@@ -1914,19 +2062,56 @@ result:
 ---
 000_KEYWORD: 메이크업__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: makeup
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115528&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421897&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 메이크업-하다
+      항목ID: 421897
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: makeup
+    의미:
+    - 뜻풀이: 면수에 관계없이 식자한 것을 판 위에서 위치, 체계 따위를 결정하여 한 쪽씩 모으는 일.
+      분류: 매체
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 메이크업
-    품사: 명사:보통:서술성
-    항목ID: 8965
+    항목ID: 115528
 result:
   맞춤법 검사:
     표제어: 메이크업
     품사: 명사
+---
+000_KEYWORD: 메이크업하다__동사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421897&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미:
+    - 뜻풀이: 면수에 관계없이 식자한 것을 판 위에서 위치, 체계 따위를 결정하여 한 쪽씩 모으다.
+      분류: 매체
+      종류: 일반어
+      품사: 동사
+    종류: 혼종어
+    표제어: 메이크업-하다
+    항목ID: 421897
+    활용:
+    - 약어: 메이크업해
+      활용: 메이크업하여
+    - 활용: 메이크업하니
+result:
+  맞춤법 검사:
+    표제어: 메이크업하다
+    품사: 동사
 ---
 000_KEYWORD: 메일__명사__001
 import:
@@ -2052,18 +2237,60 @@ result:
     표제어: 메주
     품사: 명사
 ---
+000_KEYWORD: 메추라기__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=114283&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=114283&searchKeywordTo=3
+      종류: 속담
+      표제어: 메추라기 소 발쪽에 밟히운다
+      항목ID: 114283
+    구분: 단어
+    발음:
+    - 메추라기
+    어원: ＜뫼초라기/뫼라기＜모라기＜두시-초＞
+    의미:
+    - 뜻풀이: 꿩과의 겨울 철새. 몸의 길이는 18cm 정도이며 누런 갈색과 검은색의 가는 세로무늬가 있다. 목 부분이 수컷은 붉은 밤색이고
+        암컷은 갈색을 띤 누런 흰색이다. 몸은 병아리와 비슷하나 꽁지가 짧다. 길들여 가금으로 기르기도 한다. 유럽, 아프리카, 인도, 동부
+        아시아 등지에 분포한다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98380
+        레이블: 매추라기(암)
+        종류: 삽화
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98379
+        레이블: 메추라기(수)
+        종류: 삽화
+      분류: 동물
+      종류: 일반어
+      품사: 명사
+      학명: Coturnix japonica
+    종류: 고유어
+    표제어: 메추라기
+    항목ID: 114283
+result:
+  맞춤법 검사:
+    표제어: 메추라기
+    품사: 명사
+---
 000_KEYWORD: 메카__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    어원: Mecca
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=424331&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Mecca
+    의미:
+    - 뜻풀이: 어떤 분야의 중심이 되어 사람들의 동경ㆍ숭배의 대상이 되는 곳.
+      분류: 지명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 메카
-    품사: 명사:보통:서술성
-    항목ID: 8971
+    항목ID: 424331
 result:
   맞춤법 검사:
     표제어: 메카
@@ -2102,15 +2329,23 @@ result:
 ---
 000_KEYWORD: 메케하다__형용사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - ruseel
-    라이선스: CC BY 4.0
-    표제어: 메케하다
-    품사: 형용사
-    항목ID: 8973
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115716&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    발음:
+    - 메케하다
+    의미:
+    - 뜻풀이: 연기나 곰팡이 따위의 냄새가 맵고 싸하다.
+      종류: 일반어
+      품사: 형용사
+    종류: 고유어
+    표제어: 메케-하다
+    항목ID: 115716
+    활용:
+    - 약어: 메케해
+      활용: 메케하여
+    - 활용: 메케하니
 result:
   맞춤법 검사:
     표제어: 메케하다
@@ -2118,15 +2353,23 @@ result:
 ---
 000_KEYWORD: 메탄__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115827&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: methane
+    의미:
+    - 뜻풀이: 메탄계 탄화수소 가운데 구조가 가장 간단한 물질. 무색무취의 가연성 기체로 물에 녹지 않으며 공기 속에서 불을 붙이면 파란 불꽃을
+        내면서 탄다. 천연적으로는 늪이나 습지의 흙 속에서 유기물의 부패와 발효에 의하여 생기며, 공업적으로는 일산화 탄소와 수소를 반응시켜
+        얻는다. 화학식은 CH<sub style='font-size:11px;'>4</sub>.
+      분류: 화학
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 메탄
-    품사: 명사:보통:서술성
-    항목ID: 8974
+    항목ID: 115827
 result:
   맞춤법 검사:
     표제어: 메탄
@@ -2134,15 +2377,22 @@ result:
 ---
 000_KEYWORD: 메탄올__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=114932&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: methanol
+    의미:
+    - 뜻풀이: 탄소 수가 한 개인 알코올. 목재를 건류할 때 생긴다. 에탄올과 비슷한 향기가 있는 무색의 액체로, 독성이 강하여 소량이라도 마시면
+        시력 장애를 일으킨다. 폼알데하이드 따위의 제조 원료로 쓰인다. 화학식은 CH<sub style='font-size:11px;'>3</sub>OH.
+      분류: 화학
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 메탄올
-    품사: 명사:보통:서술성
-    항목ID: 8975
+    항목ID: 114932
 result:
   맞춤법 검사:
     표제어: 메탄올
@@ -2223,16 +2473,22 @@ result:
 ---
 000_KEYWORD: 멘델__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 예; 멘델의 유전법칙
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=113647&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Mendel, Gregor Johann
+    의미:
+    - 뜻풀이: 오스트리아의 수도 사제ㆍ유전학자(1822~1884). 완두를 재료로 하여 유전이 일정한 법칙에 따른다는 것을 발표하였다. 저서에
+        ≪식물의 잡종(雜種)에 관한 연구≫가 있다.
+      분류: 인명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 멘델
-    품사: 명사:고유
-    항목ID: 8978
+    항목ID: 113647
 result:
   맞춤법 검사:
     표제어: 멘델
@@ -2240,15 +2496,22 @@ result:
 ---
 000_KEYWORD: 멘델레예프__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=115486&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 안 밝힘
+      원어: Mendeleev, Dmitry Ivanovich
+    의미:
+    - 뜻풀이: 제정 러시아의 화학자(1834~1907). 원소 주기율의 이론을 발표하고, 당시에는 아직 발견하지 못했던 갈륨, 스칸듐 따위 원소의
+        존재와 성질을 예언하였다. 저서에 ≪화학의 원리≫가 있다.
+      분류: 인명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 멘델레예프
-    품사: 명사:고유
-    항목ID: 8979
+    항목ID: 115486
 result:
   맞춤법 검사:
     표제어: 멘델레예프
@@ -2285,16 +2548,23 @@ result:
 ---
 000_KEYWORD: 멜라민__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 화학
-    어원: melamine
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421898&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: melamine
+    의미:
+    - 뜻풀이: 암모니아가 있는 요소를 가열하여 얻는 기둥 모양의 무색 결정. 승화성이 있다. 폼알데하이드와 축합하여 멜라민 수지를 만들거나 도료,
+        접착제 따위로 쓴다. 화학식은 C<sub style='font-size:11px;'>3</sub>H<sub style='font-size:11px;'>6</sub>N<sub
+        style='font-size:11px;'>6</sub>.
+      분류: 화학
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 멜라민
-    품사: 명사:보통:서술성
-    항목ID: 8980
+    항목ID: 421898
 result:
   맞춤법 검사:
     표제어: 멜라민
@@ -2302,15 +2572,23 @@ result:
 ---
 000_KEYWORD: 멜라토닌__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421899&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: melatonin
+    의미:
+    - 뜻풀이: 인돌의 유도체. 소의 솔방울샘에서 분비되는 호르몬으로, 성적 충동을 억제하며, 불면증의 치료 따위에 쓰인다. 화학식은 C<sub
+        style='font-size:11px;'>13</sub>H<sub style='font-size:11px;'>16</sub>N<sub
+        style='font-size:11px;'>2</sub>O<sub style='font-size:11px;'>2</sub>.
+      분류: 생명
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 멜라토닌
-    품사: 명사:보통:서술성
-    항목ID: 8981
+    항목ID: 421899
 result:
   맞춤법 검사:
     표제어: 멜라토닌
@@ -2590,16 +2868,20 @@ result:
 ---
 000_KEYWORD: 멤버십__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=424851&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: membership
+    의미:
+    - 뜻풀이: 단체의 구성원인 사실. 또는 구성원으로서의 자격이나 지위.
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 멤버십
-    품사: 명사:보통:서술성
-    항목ID: 8988
+    항목ID: 424851
 result:
   맞춤법 검사:
     표제어: 멤버십

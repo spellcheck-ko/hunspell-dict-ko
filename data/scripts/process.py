@@ -1,9 +1,10 @@
 import copy
 import glob
 import os
+import re
 import sys
-import yaml
 import unicodedata
+import yaml
 
 from jamo import *
 
@@ -18,6 +19,7 @@ class ProcessYamlDocs:
             self.process_file(filename)
 
     def process_file(self, filename):
+        print('Processing %s...' % filename)
         docs = list(yaml.load_all(open(filename), Loader=yaml.FullLoader))
         docs.sort(key=lambda x : x['000_KEYWORD'])
         for doc in docs:
@@ -68,7 +70,7 @@ class ProcessYamlDocs:
             # 불규칙 활용
             if pos in ['동사', '형용사', '보조 형용사', '보조 동사']:
                 if '활용' in input:
-                    inflections = [dd['형태'] for dd in input['활용']]
+                    inflections = [dd['형태'] for dd in input['활용'] if '형태' in dd]
                     inflection_type = self.detect_inflection_type(word, inflections)
                     if inflection_type is not None and inflection_type != '규칙':
                         props.append(inflection_type)
@@ -76,24 +78,8 @@ class ProcessYamlDocs:
             # 보조용언 타입
             if pos.startswith('보조 '):
                 clue = input['의미'][0]['의미 참고']
-
-                examples = []
-                if '뒤에서 ' in clue:
-                    examples = clue.split('뒤에서 ')[1].split('로 쓴다.')[0].split(', ')
-                elif '뒤에 ' in clue:
-                    examples = clue.split('뒤에 ')[1].split('로 쓴다.')[0].split(', ')
-                if examples:
-                    if len(examples) > 0:
-                        examples = [k[1:-1] for k in examples]
-                        for example in examples:
-                            prefixes = example.split(' ')[0].split('/')
-                            for prefix in prefixes:
-                                if prefix[0] != '-':
-                                    prefix = '-' + prefix
-                                props.append('보조용언:' + prefix)
-                else:
-                    if word == '드리다':
-                        props.append('보조용언:-어')
+                detected = self.detect_aux_verb_type(word, clue)
+                props += detected
 
             # 합성용언
             if pos in ['동사', '형용사']:
@@ -111,7 +97,50 @@ class ProcessYamlDocs:
                 output['속성'] += props
 
     def process_doc_stdict(self, input, output):
-        pass
+        word = self.stdict_sanitize_word(input['표제어'])
+        pos = input['의미'][0]['품사']
+
+        if input['의미'][0]['뜻풀이'].startswith('→'):
+            output['제외'] = '틀린 말'
+        elif pos in ['어미', '접사', '조사']:
+            output['제외'] = '해당 품사 아님'
+        else:
+            output['표제어'] = word
+            output['품사'] = pos
+
+            props = []
+
+            # 불규칙 활용
+            if pos in ['동사', '형용사', '보조 형용사', '보조 동사']:
+                if '활용' in input:
+                    inflections = [dd['활용'] for dd in input['활용']]
+                    inflection_type = self.detect_inflection_type(word, inflections)
+                    if inflection_type is not None and inflection_type != '규칙':
+                        props.append(inflection_type)
+
+            # 보조용언 타입
+            if pos.startswith('보조 '):
+                if '문법' in input['의미'][0]:
+                    clue = input['의미'][0]['문법']
+                    detected = self.detect_aux_verb_type(word, clue)
+                    props += detected
+                else:
+                    raise Exception('word: %s, pos: %s, but no 문법' % (word, pos))
+
+            # 합성용언
+            if pos in ['동사', '형용사']:
+                if self.detect_compound_verb(word):
+                    props.append('용언합성')
+
+            if pos in ['명사', '의존 명사']:
+                if '주제 및 상황 범주' in input and input['주제 및 상황 범주'] == '개념 > 세는 말':
+                    props.append('단위명사')
+
+            if len(props) > 0:
+                props.sort()
+                if '속성' not in output:
+                    output['속성'] = []
+                output['속성'] += props
 
     def process_doc_galkwidjango(self, input, output):
         word = input['표제어']
@@ -142,6 +171,7 @@ class ProcessYamlDocs:
             doc['result'] = doc['import_derived']
             del doc['import_derived']
         elif 'import_derived' in doc and '맞춤법 검사' in doc['import_derived']:
+            doc['result'] = {}
             if '맞춤법 검사' in doc['manual'] and '제외' in doc['manual']['맞춤법 검사']:
                 doc['result']['맞춤법 검사'] = copy.deepcopy(doc['manual']['맞춤법 검사'])
             else:
@@ -149,6 +179,11 @@ class ProcessYamlDocs:
                 for key in doc['manual']['맞춤법 검사'].keys():
                     entry[key] = copy.deepcopy(doc['manual']['맞춤법 검사'][key])
                 doc['result']['맞춤법 검사'] = entry
+
+    def stdict_sanitize_word(self, word):
+        word = word[:1] + word[1:].replace('-','').replace('^','')
+        m = re.match('^([^0-9]+)[0-9]*', word)
+        return m.group(1)
 
     def detect_inflection_type(self, word, inflections):
         if not word.endswith('다'):
@@ -242,6 +277,29 @@ class ProcessYamlDocs:
             result = None
 
         return result
+
+
+    def detect_aux_verb_type(self, word, clue):
+        props = []
+        examples = None
+        if '뒤에서 ' in clue:
+            examples = clue.split('뒤에서 ')[1].split('로 쓴다.')[0].split(', ')
+        elif '뒤에 ' in clue:
+            examples = clue.split('뒤에 ')[1].split('로 쓴다.')[0].split(', ')
+        if examples is not None:
+            if len(examples) > 0:
+                examples = [k[1:-1] for k in examples]
+                for example in examples:
+                    prefixes = example.split(' ')[0].split('/')
+                    for prefix in prefixes:
+                        if prefix[0] != '-':
+                            prefix = '-' + prefix
+                        props.append('보조용언:' + prefix)
+        else:
+            if word == '드리다':
+                props.append('보조용언:-어')
+        return props
+
 
     def detect_compound_verb(self, word):
         if len(word) < 4:

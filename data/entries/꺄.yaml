@@ -1,14 +1,18 @@
 000_KEYWORD: 꺅__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 꺅
-    품사: 부사
-    항목ID: 4442
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54431&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:01:57+09:00'
+    구분: 단어
+    발음:
+    - 꺅
+    의미:
+    - 뜻풀이: 먹은 음식이 목까지 찬 모양.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 꺅01
+    항목ID: 54431
 result:
   맞춤법 검사:
     표제어: 꺅
@@ -16,15 +20,32 @@ result:
 ---
 000_KEYWORD: 꺅꺅__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 꺅꺅
-    품사: 부사
-    항목ID: 4443
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54433&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:01:57+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54434&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 꺅꺅-거리다
+      항목ID: 54434
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54435&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 꺅꺅-대다
+      항목ID: 54435
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54436&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 꺅꺅-하다
+      항목ID: 54436
+    구분: 단어
+    발음:
+    - 꺅꺅
+    의미:
+    - 뜻풀이: 사람이나 짐승 따위가 몹시 놀라거나 죽게 될 때 잇따라 지르는 소리.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 꺅-꺅
+    항목ID: 54433
 result:
   맞춤법 검사:
     표제어: 꺅꺅

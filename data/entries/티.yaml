@@ -310,15 +310,25 @@ result:
 ---
 000_KEYWORD: 티라노사우루스__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351488&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:38:06+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: tyrannosaurus
+    의미:
+    - 뜻풀이: 백악기 후기에 생존하였던 육식 공룡. 지상에 존재하였던 공룡 가운데 가장 강하다고 하는 것으로, 몸의 길이는 15미터 정도이며
+        체중은 7톤 정도로 추정된다. 굵은 두 개의 뒷다리로 걸었으며 앞다리는 매우 짧고 발가락이 두 개이다. 북아메리카에서 화석이 발견되었다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103590
+        종류: 삽화
+      분류: 동물
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 티라노사우루스
-    품사: 명사:보통:비서술성
-    항목ID: 28472
+    항목ID: 351488
 result:
   맞춤법 검사:
     표제어: 티라노사우루스
@@ -326,16 +336,23 @@ result:
 ---
 000_KEYWORD: 티백__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어
-    표제어: 티백
-    품사: 명사:보통:비서술성
-    항목ID: 28473
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=352335&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:38:06+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: tea bag
+    의미:
+    - 뜻풀이: 차를 싸서 넣은 종이 주머니. 뜨거운 물에 담그면 차가 우러난다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103363
+        종류: 사진
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
+    표제어: 티-백
+    항목ID: 352335
 result:
   맞춤법 검사:
     표제어: 티백
@@ -453,16 +470,23 @@ result:
 ---
 000_KEYWORD: 티슈__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어 (=화장지, 조직)
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=499734&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:38:06+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: tissue
+    의미:
+    - 뜻풀이: 화장용의 얇고 부드러운 질 좋은 종이.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103364
+        종류: 사진
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 티슈
-    품사: 명사:보통:비서술성
-    항목ID: 28477
+    항목ID: 499734
 result:
   맞춤법 검사:
     표제어: 티슈
@@ -577,14 +601,22 @@ result:
 ---
 000_KEYWORD: 티타늄__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351963&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:38:06+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: titanium
+    의미:
+    - 뜻풀이: 티탄족에 속하는 전이 원소의 하나. 암석이나 흙 속에 들어 있는 윤이 나는 흰색 금속 원소로, 강도와 내식성이 크며 가열하면 강한
+        빛을 내며 탄다. 터빈 날개나 비행기의 기체 재료, 공업 재료로 쓴다. 원자 기호는 Ti, 원자 번호는 22, 원자량은 47.90.
+      분류: 화학
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 티타늄
-    품사: 명사:보통:서술성
-    항목ID: 28480
+    항목ID: 351963
 result:
   맞춤법 검사:
     표제어: 티타늄
@@ -592,15 +624,20 @@ result:
 ---
 000_KEYWORD: 티타임__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351964&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:38:06+09:00'
+    구분: 단어
+    원어:
+      언어: 영어
+      원어: teatime
+    의미:
+    - 뜻풀이: 차 마시는 시간.
+      종류: 일반어
+      품사: 명사
+    종류: 외래어
     표제어: 티타임
-    품사: 명사:보통:서술성
-    항목ID: 28481
+    항목ID: 351964
 result:
   맞춤법 검사:
     표제어: 티타임

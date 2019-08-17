@@ -469,15 +469,30 @@ result:
 ---
 000_KEYWORD: 튀밥__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 튀밥
-    품사: 명사:보통:비서술성
-    항목ID: 28356
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=349280&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:38:06+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=349280&searchKeywordTo=3
+      종류: 관용구
+      표제어: 튀밥 튀기다
+      항목ID: 349280
+    구분: 단어
+    발음:
+    - 튀밥
+    의미:
+    - 뜻풀이: 튀긴 옥수수.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103357
+        레이블: 튀밥
+        종류: 사진
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 튀-밥
+    항목ID: 349280
+    활용:
+    - 활용: 튀밥만
 result:
   맞춤법 검사:
     표제어: 튀밥

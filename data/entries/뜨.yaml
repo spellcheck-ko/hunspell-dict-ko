@@ -422,15 +422,32 @@ result:
 ---
 000_KEYWORD: 뜨끔__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=419919&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=98673&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 뜨끔-거리다
+      항목ID: 98673
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=414524&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 뜨끔-대다
+      항목ID: 414524
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=414677&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 뜨끔-하다
+      항목ID: 414677
+    구분: 단어
+    발음:
+    - 뜨끔
+    의미:
+    - 뜻풀이: 찔리거나 얻어맞은 것처럼 아픈 느낌.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
     표제어: 뜨끔
-    품사: 부사
-    항목ID: 7999
+    항목ID: 419919
 result:
   맞춤법 검사:
     표제어: 뜨끔
@@ -1763,14 +1780,22 @@ result:
 ---
 000_KEYWORD: 뜨락__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=99075&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    구분: 단어
+    발음:
+    - 뜨락
+    의미:
+    - 뜻풀이: 앞말이 가리키는 것이 존재하거나 깃들어 있는 추상적 공간을 비유적으로 이르는 말.
+      문법: "\n\t\t\t\t\t\t\t"
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
     표제어: 뜨락
-    품사: 명사:보통:비서술성
-    항목ID: 8003
+    항목ID: 99075
+    활용:
+    - 활용: 뜨락만
 result:
   맞춤법 검사:
     표제어: 뜨락
@@ -1951,15 +1976,20 @@ result:
 ---
 000_KEYWORD: 뜬공__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 뜬공
-    품사: 명사:보통:서술성
-    항목ID: 8005
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=100734&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:23:37+09:00'
+    구분: 단어
+    발음:
+    - 뜬공
+    의미:
+    - 뜻풀이: 야구에서, 타자가 공을 하늘 높이 쳐 올린 상태. 또는 그 공.
+      분류: 체육
+      종류: 일반어
+      품사: 명사
+    종류: 고유어
+    표제어: 뜬-공
+    항목ID: 100734
 result:
   맞춤법 검사:
     표제어: 뜬공
