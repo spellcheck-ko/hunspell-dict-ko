@@ -1069,15 +1069,28 @@ result:
 ---
 000_KEYWORD: 어군탐지기__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223845&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 魚群探知機
+    의미:
+    - 뜻풀이: 어선 바닥에서 초음파의 반사를 내어 물속의 어군의 존재나 수량ㆍ종류 등을 분석하는 장치.
+      분류: 수산업
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 어군^탐지기
+    항목ID: 223845
+import_derived:
+  맞춤법 검사:
     표제어: 어군탐지기
-    품사: 명사:보통:비서술성
-    항목ID: 18030
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 어군탐지기
@@ -2975,6 +2988,31 @@ result:
   맞춤법 검사:
     표제어: 어떡하다
     품사: 동사
+---
+000_KEYWORD: 어떡하다__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=224595&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘어떠하게 하다’가 줄어든 말.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 어떡-하다
+    항목ID: 224595
+import_derived:
+  맞춤법 검사:
+    표제어: 어떡하다
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 어떡하다
+    품사: 명사
 ---
 000_KEYWORD: 어떤__관형사__001
 import:
@@ -5019,6 +5057,43 @@ result:
     표제어: 어리바리하다
     품사: 형용사
 ---
+000_KEYWORD: 어리벙벙__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=461348&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=461143&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 어리벙벙-하다
+      항목ID: 461143
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=224070&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 어리벙벙-히
+      항목ID: 224070
+    구분: 단어
+    원어:
+      언어: 고유어
+      원어: 'null'
+    의미:
+    - 뜻풀이: ‘어리벙벙하다’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 어리벙벙
+    항목ID: 461348
+import_derived:
+  맞춤법 검사:
+    표제어: 어리벙벙
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 어리벙벙
+    품사: 명사
+---
 000_KEYWORD: 어리벙벙하다__형용사__001
 import:
   한국어기초사전:
@@ -6554,6 +6629,40 @@ import:
 result:
   맞춤법 검사:
     표제어: 어문학
+    품사: 명사
+---
+000_KEYWORD: 어물__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=225360&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=456816&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 어물-거리다
+      항목ID: 456816
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=225361&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 어물-대다
+      항목ID: 225361
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘어물거리다’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 어물01
+    항목ID: 225360
+import_derived:
+  맞춤법 검사:
+    표제어: 어물
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 어물
     품사: 명사
 ---
 000_KEYWORD: 어물거리다__동사__001
@@ -8325,6 +8434,44 @@ result:
     표제어: 어스름하다
     품사: 형용사
 ---
+000_KEYWORD: 어슬렁__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=227802&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=461163&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 어슬렁-거리다
+      항목ID: 461163
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=227803&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 어슬렁-대다
+      항목ID: 227803
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=227804&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 어슬렁-이다
+      항목ID: 227804
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘어슬렁거리다’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 어슬렁
+    항목ID: 227802
+import_derived:
+  맞춤법 검사:
+    표제어: 어슬렁
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 어슬렁
+    품사: 명사
+---
 000_KEYWORD: 어슬렁__부사__001
 import:
   갈퀴 Django:
@@ -9001,15 +9148,28 @@ result:
 ---
 000_KEYWORD: 어업면허__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=231812&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 漁業免許
+    의미:
+    - 뜻풀이: 시장, 군수, 구청장이 어업자에 대하여 특정 수역에서 일정한 어업을 독점 영위할 수 있는 권리를 설정하는 행정 행위.
+      분류: 행정
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 어업^면허
+    항목ID: 231812
+import_derived:
+  맞춤법 검사:
     표제어: 어업면허
-    품사: 명사:보통:서술성
-    항목ID: 18141
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 어업면허
@@ -11615,6 +11775,31 @@ result:
     표제어: 어질어질하다
     품사: 형용사
 ---
+000_KEYWORD: 어째__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223341&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘어찌하여’가 줄어든 말.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 어째
+    항목ID: 223341
+import_derived:
+  맞춤법 검사:
+    표제어: 어째
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 어째
+    품사: 명사
+---
 000_KEYWORD: 어째__부사__001
 import:
   갈퀴 Django:
@@ -11631,6 +11816,31 @@ result:
   맞춤법 검사:
     표제어: 어째
     품사: 부사
+---
+000_KEYWORD: 어째서__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=223342&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘어찌하여서’가 줄어든 말.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 어째서
+    항목ID: 223342
+import_derived:
+  맞춤법 검사:
+    표제어: 어째서
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 어째서
+    품사: 명사
 ---
 000_KEYWORD: 어째서__부사__001
 import:
@@ -24001,15 +24211,25 @@ result:
 ---
 000_KEYWORD: 업어치기__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=461478&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:30:11+09:00'
+    구분: 구
+    의미:
+    - 뜻풀이: 유도에서, 상대편을 등에 업어서 어깨 너머로 크게 원을 그리며 메치는 손 기술.
+      분류: 체육
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 업어^치기
+    항목ID: 461478
+import_derived:
+  맞춤법 검사:
     표제어: 업어치기
-    품사: 명사:보통:서술성
-    항목ID: 18361
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 업어치기

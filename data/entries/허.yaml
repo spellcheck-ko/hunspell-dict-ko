@@ -3905,6 +3905,40 @@ result:
     표제어: 허송하다
     품사: 동사
 ---
+000_KEYWORD: 허수__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=372527&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:47:43+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=372537&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 허수-하다01
+      항목ID: 372537
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=500958&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 허수-히
+      항목ID: 500958
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘허수하다01’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 허수01
+    항목ID: 372527
+import_derived:
+  맞춤법 검사:
+    표제어: 허수
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 허수
+    품사: 명사
+---
 000_KEYWORD: 허수아비__명사__001
 import:
   한국어기초사전:
@@ -7011,15 +7045,30 @@ result:
 ---
 000_KEYWORD: 헌법재판소__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 국가기관
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=371245&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:47:43+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 憲法裁判所
+    의미:
+    - 뜻풀이: 법령의 위헌 여부를 일정한 소송 절차에 따라 심판하기 위하여 설치한 특별 재판소. 법원의 제청에 의한 법률의 위헌 여부, 탄핵,
+        정당의 해산, 국가 기관 상호 간 또는 국가 기관과 지방 자치 단체 간 및 지방 자치 단체 상호 간의 권한 쟁의, 헌법 소원에 관한
+        것을 심판한다.
+      분류: 법률
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 헌법^재판소
+    항목ID: 371245
+import_derived:
+  맞춤법 검사:
     표제어: 헌법재판소
-    품사: 명사:고유
-    항목ID: 30437
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 헌법재판소

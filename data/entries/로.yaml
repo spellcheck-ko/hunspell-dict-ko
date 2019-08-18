@@ -1026,15 +1026,31 @@ result:
 ---
 000_KEYWORD: 로렌츠곡선__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=105566&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:26:06+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 曲線
+    의미:
+    - 뜻풀이: 소득 분포의 불평등한 정도를 나타내는 도수(度數) 곡선. 미국의 경제학자 로렌츠(Lorentz, M. O.)가 고안하였다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98158
+        종류: 삽화
+      분류: 경제
+      종류: 일반어
+      품사: 품사 없음
+    종류: 혼종어
+    표제어: 로렌츠^곡선
+    항목ID: 105566
+import_derived:
+  맞춤법 검사:
     표제어: 로렌츠곡선
-    품사: 명사:보통:서술성
-    항목ID: 8129
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 로렌츠곡선
@@ -1282,15 +1298,28 @@ result:
 ---
 000_KEYWORD: 로봇공학__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421428&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:26:06+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 工學
+    의미:
+    - 뜻풀이: 로봇 제작을 연구하는 학문. 컴퓨터에 의한 정보 처리와 실제의 기계적 움직임을 결부시킨다.
+      분류: 기계
+      종류: 일반어
+      품사: 품사 없음
+    종류: 혼종어
+    표제어: 로봇^공학
+    항목ID: 421428
+import_derived:
+  맞춤법 검사:
     표제어: 로봇공학
-    품사: 명사:보통:서술성
-    항목ID: 8137
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 로봇공학

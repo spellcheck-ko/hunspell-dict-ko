@@ -1491,17 +1491,28 @@ result:
 ---
 000_KEYWORD: 코스튬플레이__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 외래어
-    어원: costume play
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=334272&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:30:54+09:00'
+    구분: 구
+    원어:
+      언어: 영어
+      원어: costume play
+    의미:
+    - 뜻풀이: 배우에게 시대에 맞는 의상을 입혀 볼거리를 제공하는 연극이나 영화.
+      분류: 예체능 일반
+      종류: 일반어
+      품사: 품사 없음
+    종류: 외래어
+    표제어: 코스튬^플레이
+    항목ID: 334272
+import_derived:
+  맞춤법 검사:
     표제어: 코스튬플레이
-    품사: 명사:보통:서술성
-    항목ID: 27487
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 코스튬플레이

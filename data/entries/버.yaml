@@ -4172,6 +4172,40 @@ result:
     표제어: 번득하다
     품사: 동사
 ---
+000_KEYWORD: 번들__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=139033&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:42:48+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=139034&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 번들-거리다01
+      항목ID: 139034
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=139035&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 번들-대다01
+      항목ID: 139035
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘번들거리다01’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 번들01
+    항목ID: 139033
+import_derived:
+  맞춤법 검사:
+    표제어: 번들
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 번들
+    품사: 명사
+---
 000_KEYWORD: 번들거리다__동사__001
 import:
   한국어기초사전:
@@ -13066,15 +13100,28 @@ result:
 ---
 000_KEYWORD: 범죄행위__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=138465&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:45:06+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 犯罪行爲
+    의미:
+    - 뜻풀이: 범죄가 되는 행위.
+      분류: 법률
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 범죄^행위
+    항목ID: 138465
+import_derived:
+  맞춤법 검사:
     표제어: 범죄행위
-    품사: 명사:보통:서술성
-    항목ID: 11345
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 범죄행위
@@ -14021,6 +14068,35 @@ result:
     표제어: 법률적
     품사: 명사
 ---
+000_KEYWORD: 법률행위__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=140351&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:45:06+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 法律行爲
+    의미:
+    - 뜻풀이: 일정한 법률 효과를 발생하게 하려고 의도적으로 하는 행위.
+      분류: 법률
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 법률^행위
+    항목ID: 140351
+import_derived:
+  맞춤법 검사:
+    표제어: 법률행위
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 법률행위
+    품사: 명사
+---
 000_KEYWORD: 법리__명사__001
 import:
   한국어기초사전:
@@ -14229,15 +14305,28 @@ result:
 ---
 000_KEYWORD: 법무행정__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=141583&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:45:06+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 法務行政
+    의미:
+    - 뜻풀이: 법률관계 및 시설의 구성이나 지휘, 감독에 관한 사무를 맡아보는 일.
+      분류: 법률
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 법무^행정
+    항목ID: 141583
+import_derived:
+  맞춤법 검사:
     표제어: 법무행정
-    품사: 명사:보통:서술성
-    항목ID: 11366
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 법무행정
@@ -15342,15 +15431,29 @@ result:
 ---
 000_KEYWORD: 법치국가__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=141944&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:45:06+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 法治國家
+    의미:
+    - 뜻풀이: 국민의 의사에 따라 만든 법률에 의하여 다스려지는 나라. 일반적으로 국민의 기본적 인권이 보장됨을 원칙으로 하여 권력 분립주의와
+        자유주의적 원리를 따르는 나라를 이른다.
+      분류: 정치
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 법치^국가
+    항목ID: 141944
+import_derived:
+  맞춤법 검사:
     표제어: 법치국가
-    품사: 명사:보통:서술성
-    항목ID: 11384
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 법치국가

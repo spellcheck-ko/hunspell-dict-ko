@@ -1450,14 +1450,29 @@ result:
 ---
 000_KEYWORD: 태양에너지__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=341354&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:33:21+09:00'
+    구분: 구
+    원어:
+      언어: 영어
+      원어: energy
+    의미:
+    - 뜻풀이: 태양이 방출하는 에너지. 태양 내부에서 진행하고 있는 핵융합 반응으로 네 개의 수소 원자핵이 헬륨으로 변화할 때 방출된다. 그
+        전량은 매초 3.8×10<sup style='font-size:11px;'>26</sup>줄(J)이다.
+      분류: 전기·전자
+      종류: 일반어
+      품사: 품사 없음
+    종류: 혼종어
+    표제어: 태양^에너지
+    항목ID: 341354
+import_derived:
+  맞춤법 검사:
     표제어: 태양에너지
-    품사: 명사:보통:서술성
-    항목ID: 27917
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 태양에너지
@@ -1501,14 +1516,32 @@ result:
 ---
 000_KEYWORD: 태양전지__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=495378&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:33:21+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 太陽電池
+    의미:
+    - 뜻풀이: 태양의 빛 에너지를 전기로 바꾸는 장치. 실리콘 같은 반도체의 광기전력 효과를 이용한다. 무인 등대, 인공위성 따위의 전원으로
+        쓴다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103434
+        종류: 삽화
+      분류: 물리
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 태양^전지
+    항목ID: 495378
+import_derived:
+  맞춤법 검사:
     표제어: 태양전지
-    품사: 명사:보통:비서술성
-    항목ID: 27919
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 태양전지
@@ -2292,15 +2325,32 @@ result:
 ---
 000_KEYWORD: 태조__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=335348&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:35:41+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=489650&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 태조-하다
+      항목ID: 489650
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 太早
+    의미:
+    - 뜻풀이: ‘태조하다’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 태조01
+    항목ID: 335348
+import_derived:
+  맞춤법 검사:
     표제어: 태조
-    품사: 명사:보통:서술성
-    항목ID: 27929
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 태조

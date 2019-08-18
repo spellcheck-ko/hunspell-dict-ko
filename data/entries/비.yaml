@@ -1231,6 +1231,35 @@ result:
     표제어: 비교적
     품사: 부사
 ---
+000_KEYWORD: 비교종교학__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=437267&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:52:10+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 比較宗敎學
+    의미:
+    - 뜻풀이: 여러 종교의 특성, 의의, 본질 따위를 비교ㆍ연구하는 학문. 종교학의 한 분야이다.
+      분류: 종교 일반
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 비교^종교학
+    항목ID: 437267
+import_derived:
+  맞춤법 검사:
+    표제어: 비교종교학
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 비교종교학
+    품사: 명사
+---
 000_KEYWORD: 비교하다__동사__001
 import:
   한국어기초사전:
@@ -3689,14 +3718,28 @@ result:
 ---
 000_KEYWORD: 비례대표__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=158093&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 比例代表
+    의미:
+    - 뜻풀이: 비례 대표제 선거에서, 정당의 득표수에 따라 선출되는 대의원.
+      분류: 정치
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 비례^대표
+    항목ID: 158093
+import_derived:
+  맞춤법 검사:
     표제어: 비례대표
-    품사: 명사:보통:비서술성
-    항목ID: 12808
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 비례대표
@@ -4505,14 +4548,28 @@ result:
 ---
 000_KEYWORD: 비무장지대__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=164675&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 非武裝地帶
+    의미:
+    - 뜻풀이: 교전국 쌍방이 협정에 따라 군사 시설이나 인원을 배치하지 않은 지대. 충돌을 방지하는 구실을 한다.
+      분류: 군사
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 비무장^지대
+    항목ID: 164675
+import_derived:
+  맞춤법 검사:
     표제어: 비무장지대
-    품사: 명사:보통:서술성
-    항목ID: 12824
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 비무장지대
@@ -6123,6 +6180,39 @@ result:
     표제어: 비석
     품사: 명사
 ---
+000_KEYWORD: 비소__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=159959&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=159960&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 비소-하다01
+      항목ID: 159960
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 卑小
+    의미:
+    - 뜻풀이: ‘비소하다01’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 비소01
+    항목ID: 159959
+import_derived:
+  맞춤법 검사:
+    표제어: 비소
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 비소
+    품사: 명사
+---
 000_KEYWORD: 비소설__명사__001
 import:
   한국어기초사전:
@@ -6974,14 +7064,37 @@ result:
 ---
 000_KEYWORD: 비아냥__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=157683&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=436252&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 비아냥-거리다
+      항목ID: 436252
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=157684&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 비아냥-대다
+      항목ID: 157684
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=157685&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 비아냥-하다
+      항목ID: 157685
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘비아냥거리다’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
     표제어: 비아냥
-    품사: 명사:보통:비서술성
-    항목ID: 12868
+    항목ID: 157683
+import_derived:
+  맞춤법 검사:
+    표제어: 비아냥
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 비아냥
@@ -7515,14 +7628,28 @@ result:
 ---
 000_KEYWORD: 비영리단체__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=437241&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 非營利團體
+    의미:
+    - 뜻풀이: 자체의 이익을 추구하지 아니하고 공익을 목적으로 하는 단체.
+      분류: 사회 일반
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 비영리^단체
+    항목ID: 437241
+import_derived:
+  맞춤법 검사:
     표제어: 비영리단체
-    품사: 명사:보통:비서술성
-    항목ID: 12877
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 비영리단체
@@ -14751,16 +14878,28 @@ result:
 ---
 000_KEYWORD: 빈볼__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 스포츠:야구
-    어원: bean ball
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=164844&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:54:42+09:00'
+    구분: 구
+    원어:
+      언어: 영어
+      원어: bean ball
+    의미:
+    - 뜻풀이: 야구에서, 투수가 타자를 위협하기 위하여 고의로 타자의 머리 쪽으로 던지는 공.
+      분류: 체육
+      종류: 일반어
+      품사: 품사 없음
+    종류: 외래어
+    표제어: 빈^볼
+    항목ID: 164844
+import_derived:
+  맞춤법 검사:
     표제어: 빈볼
-    품사: 명사:보통:비서술성
-    항목ID: 12993
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 빈볼

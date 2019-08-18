@@ -81,33 +81,6 @@ result:
 ---
 000_KEYWORD: 죄다__동사__001
 import:
-  표준국어대사전:
-    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=481757&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:11:47+09:00'
-    구분: 단어
-    발음:
-    - 죄ː다
-    - 줴ː다
-    어원: ＜죄히다＜계축＞
-    의미:
-    - 뜻풀이: 마음이 긴장되다. 또는 그렇게 되게 하다.
-      종류: 일반어
-      품사: 동사
-      형태: (…을)
-    종류: 고유어
-    표제어: 죄다01
-    항목ID: 481757
-    활용:
-    - 약어: 좨
-      활용: 죄어
-    - 활용: 죄니
-result:
-  맞춤법 검사:
-    표제어: 죄다
-    품사: 동사
----
-000_KEYWORD: 죄다__동사__001
-import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90792
     가져온 시각: '2019-08-13T02:07:21+09:00'
@@ -220,14 +193,20 @@ result:
 ---
 000_KEYWORD: 죄다__부사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 죄다
-    품사: 부사
-    항목ID: 24383
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=305551&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:11:47+09:00'
+    구분: 단어
+    발음:
+    - 죄ː다
+    - 줴ː다
+    의미:
+    - 뜻풀이: 남김없이 모조리.
+      종류: 일반어
+      품사: 부사
+    종류: 고유어
+    표제어: 죄-다02
+    항목ID: 305551
 result:
   맞춤법 검사:
     표제어: 죄다

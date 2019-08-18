@@ -647,15 +647,32 @@ result:
 ---
 000_KEYWORD: 요격__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=245307&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:41:48+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=245308&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 요격-하다01
+      항목ID: 245308
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 遼隔
+    의미:
+    - 뜻풀이: ‘요격하다01’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 요격01
+    항목ID: 245307
+import_derived:
+  맞춤법 검사:
     표제어: 요격
-    품사: 명사:보통:서술성
-    항목ID: 19732
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 요격
@@ -663,15 +680,28 @@ result:
 ---
 000_KEYWORD: 요격미사일__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=245572&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:41:48+09:00'
+    구분: 구
+    원어:
+      언어: 영어
+      원어: missile
+    의미:
+    - 뜻풀이: 레이더가 탐지한 대륙 간 탄도 유도탄을 따라가서 격추하는 미사일.
+      분류: 군사
+      종류: 일반어
+      품사: 품사 없음
+    종류: 혼종어
+    표제어: 요격^미사일
+    항목ID: 245572
+import_derived:
+  맞춤법 검사:
     표제어: 요격미사일
-    품사: 명사:보통:비서술성
-    항목ID: 19733
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 요격미사일
@@ -7200,15 +7230,28 @@ result:
 ---
 000_KEYWORD: 요한계시록__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=248422&searchKeywordTo=3
+    가져온 시각: '2019-06-25T09:41:48+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 啓示錄
+    의미:
+    - 뜻풀이: 신약 성경의 마지막 권. 신자들의 박해와 환난을 위로ㆍ격려하고 예수의 재림과 천국의 도래 및 로마의 멸망 따위를 상징적으로 예언하였다.
+      분류: 기독교
+      종류: 일반어
+      품사: 품사 없음
+    종류: 혼종어
+    표제어: 요한^계시록
+    항목ID: 248422
+import_derived:
+  맞춤법 검사:
     표제어: 요한계시록
-    품사: 명사:보통:서술성
-    항목ID: 19812
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 요한계시록

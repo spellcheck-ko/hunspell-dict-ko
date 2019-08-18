@@ -1200,6 +1200,10 @@ entries:
 - pos: 명사
   word: 각개
 - pos: 명사
+  word: 각개격파
+- pos: 명사
+  word: 각개전투
+- pos: 명사
   word: 각계
 - pos: 명사
   word: 각계각층
@@ -3330,6 +3334,8 @@ entries:
 - pos: 명사
   word: 개인행동
 - pos: 명사
+  word: 개인화기
+- pos: 명사
   word: 개입
 - pos: 동사
   word: 개입되다
@@ -4117,6 +4123,8 @@ entries:
   word: 거중기
 - pos: 명사
   word: 거즈
+- pos: 명사
+  word: 거증책임
 - pos: 명사
   word: 거지
 - pos: 명사
@@ -6436,6 +6444,8 @@ entries:
 - pos: 명사
   word: 계급장
 - pos: 명사
+  word: 계급제도
+- pos: 명사
   word: 계기
 - pos: 명사
   word: 계기
@@ -6963,6 +6973,8 @@ entries:
   word: 고등
 - pos: 명사
   word: 고등교육
+- pos: 명사
+  word: 고등법원
 - pos: 명사
   word: 고등어
 - pos: 명사
@@ -9950,6 +9962,8 @@ entries:
 - pos: 동사
   word: 관여하다
 - pos: 명사
+  word: 관엽식물
+- pos: 명사
   word: 관영
 - pos: 명사
   word: 관왕
@@ -11716,6 +11730,8 @@ entries:
 - pos: 명사
   word: 국가보안법
 - pos: 명사
+  word: 국가보훈처
+- pos: 명사
   word: 국가비상사태
 - pos: 명사
   word: 국가사업
@@ -11723,6 +11739,8 @@ entries:
   word: 국가수반
 - pos: 명사
   word: 국가시험
+- pos: 명사
+  word: 국가안전보장회의
 - pos: 명사
   word: 국가원로자문회의
 - pos: 명사
@@ -12213,6 +12231,8 @@ entries:
   word: 군사법원
 - pos: 명사
   word: 군사비
+- pos: 명사
+  word: 군사작전
 - pos: 명사
   word: 군사재판
 - pos: 관형사
@@ -19903,7 +19923,7 @@ entries:
   word: 넋두리
 - pos: 동사
   word: 넋두리하다
-- pos: 부사
+- pos: 특수:파생형
   word: 넌
 - pos: 명사
   word: 넌더리
@@ -21057,6 +21077,8 @@ entries:
   word: 농촌
 - pos: 명사
   word: 농촌문화
+- pos: 명사
+  word: 농촌진흥청
 - pos: 명사
   word: 농축
 - pos: 동사
@@ -25221,6 +25243,8 @@ entries:
 - pos: 명사
   word: 덩치
 - pos: 명사
+  word: 덩크슛
+- pos: 명사
   word: 덫
 - pos: 명사
   word: 덮개
@@ -27159,11 +27183,15 @@ entries:
 - pos: 명사
   word: 동체
 - pos: 명사
+  word: 동축케이블
+- pos: 명사
   word: 동치미
 - pos: 명사
   word: 동침
 - pos: 동사
   word: 동침하다
+- pos: 명사
+  word: 동탁
 - pos: 명사
   word: 동태
 - pos: 명사
@@ -34055,6 +34083,8 @@ entries:
 - pos: 명사
   word: 모음
 - pos: 명사
+  word: 모음조화
+- pos: 명사
   word: 모의
 - pos: 명사
   word: 모의
@@ -35188,6 +35218,8 @@ entries:
   word: 무사히
 - pos: 명사
   word: 무산
+- pos: 명사
+  word: 무산계급
 - pos: 동사
   word: 무산되다
 - pos: 명사
@@ -36150,6 +36182,8 @@ entries:
   word: 문화
 - pos: 명사
   word: 문화계
+- pos: 명사
+  word: 문화관광부
 - pos: 명사
   word: 문화권
 - pos: 명사
@@ -37806,8 +37840,6 @@ entries:
   word: 바글바글
 - pos: 동사
   word: 바글바글하다
-- pos: 명사
-  word: 바깥
 - pos: 명사
   word: 바깥
 - pos: 명사
@@ -40071,6 +40103,8 @@ entries:
 - pos: 명사
   word: 방위비
 - pos: 명사
+  word: 방위사업청
+- pos: 명사
   word: 방위표
 - pos: 동사
   word: 방위하다
@@ -41234,6 +41268,8 @@ entries:
   word: 번득이다
 - pos: 동사
   word: 번득하다
+- pos: 명사
+  word: 번들
 - pos: 동사
   word: 번들거리다
 - pos: 동사
@@ -41704,6 +41740,8 @@ entries:
   word: 법률적
 - pos: 명사
   word: 법률적
+- pos: 명사
+  word: 법률행위
 - pos: 명사
   word: 법리
 - pos: 명사
@@ -45660,6 +45698,10 @@ entries:
   word: 불가마
 - pos: 명사
   word: 불가분
+- pos: 명사
+  word: 불가분채권
+- pos: 명사
+  word: 불가분채무
 - pos: 부사
   word: 불가불
 - pos: 명사
@@ -46227,6 +46269,8 @@ entries:
 - pos: 명사
   word: 불임
 - pos: 명사
+  word: 불임수술
+- pos: 명사
   word: 불임증
 - pos: 명사
   word: 불입
@@ -46622,6 +46666,8 @@ entries:
   word: 비교적
 - pos: 부사
   word: 비교적
+- pos: 명사
+  word: 비교종교학
 - pos: 동사
   word: 비교하다
 - pos: 명사
@@ -46868,6 +46914,8 @@ entries:
   word: 비서실장
 - pos: 명사
   word: 비석
+- pos: 명사
+  word: 비소
 - pos: 명사
   word: 비소설
 - pos: 명사
@@ -52641,6 +52689,8 @@ entries:
 - pos: 명사
   word: 선혈
 - pos: 명사
+  word: 선형대수학
+- pos: 명사
   word: 선호
 - pos: 명사
   word: 선호도
@@ -53252,6 +53302,8 @@ entries:
   word: 성인병
 - pos: 명사
   word: 성인식
+- pos: 명사
+  word: 성인영화
 - pos: 명사
   word: 성자
 - pos: 명사
@@ -54216,6 +54268,8 @@ entries:
   word: 소명
 - pos: 명사
   word: 소명감
+- pos: 명사
+  word: 소명방법
 - pos: 동사
   word: 소명하다
 - pos: 명사
@@ -54268,6 +54322,8 @@ entries:
   word: 소방관
 - pos: 명사
   word: 소방대원
+- pos: 명사
+  word: 소방방재청
 - pos: 명사
   word: 소방서
 - pos: 명사
@@ -59107,6 +59163,8 @@ entries:
 - pos: 명사
   word: 식품
 - pos: 명사
+  word: 식품의약품안전청
+- pos: 명사
   word: 식품점
 - pos: 명사
   word: 식해
@@ -62809,6 +62867,8 @@ entries:
 - pos: 명사
   word: 앞쪽
 - pos: 명사
+  word: 앞차기
+- pos: 명사
   word: 앞치마
 - pos: 명사
   word: 앞판
@@ -63999,6 +64059,8 @@ entries:
   word: 어떠하다
 - pos: 동사
   word: 어떡하다
+- pos: 명사
+  word: 어떡하다
 - pos: 관형사
   word: 어떤
 - pos: 형용사
@@ -64077,6 +64139,8 @@ entries:
   word: 어리바리
 - pos: 형용사
   word: 어리바리하다
+- pos: 명사
+  word: 어리벙벙
 - pos: 형용사
   word: 어리벙벙하다
 - pos: 형용사
@@ -64139,6 +64203,8 @@ entries:
   word: 어묵
 - pos: 명사
   word: 어문학
+- pos: 명사
+  word: 어물
 - pos: 동사
   word: 어물거리다
 - pos: 동사
@@ -64211,6 +64277,8 @@ entries:
   word: 어스름
 - pos: 형용사
   word: 어스름하다
+- pos: 명사
+  word: 어슬렁
 - pos: 부사
   word: 어슬렁
 - pos: 동사
@@ -64357,8 +64425,12 @@ entries:
   word: 어질어질
 - pos: 형용사
   word: 어질어질하다
+- pos: 명사
+  word: 어째
 - pos: 부사
   word: 어째
+- pos: 명사
+  word: 어째서
 - pos: 부사
   word: 어째서
 - pos: 부사
@@ -66051,6 +66123,10 @@ entries:
   word: 연대순
 - pos: 명사
   word: 연대장
+- pos: 명사
+  word: 연대채권
+- pos: 명사
+  word: 연대채무
 - pos: 명사
   word: 연대표
 - pos: 동사
@@ -67975,6 +68051,8 @@ entries:
   word: 오상고절
 - pos: 명사
   word: 오색
+- pos: 명사
+  word: 오색찬란
 - pos: 형용사
   word: 오색찬란하다
 - pos: 명사
@@ -72316,6 +72394,8 @@ entries:
 - pos: 명사
   word: 유산
 - pos: 명사
+  word: 유산계급
+- pos: 명사
   word: 유산균
 - pos: 동사
   word: 유산되다
@@ -74362,6 +74442,8 @@ entries:
 - pos: 명사
   word: 이등
 - pos: 명사
+  word: 이등변삼각형
+- pos: 명사
   word: 이등병
 - pos: 명사
   word: 이등분
@@ -74391,6 +74473,8 @@ entries:
   word: 이래
 - pos: 명사
   word: 이래
+- pos: 명사
+  word: 이래라저래라
 - pos: 특수:파생형
   word: 이래라저래라
 - pos: 부사
@@ -74399,6 +74483,8 @@ entries:
   word: 이랴
 - pos: 부사
   word: 이러나저러나
+- pos: 명사
+  word: 이러니저러니
 - pos: 특수:파생형
   word: 이러니저러니
 - pos: 동사
@@ -75527,6 +75613,8 @@ entries:
   word: 인륜
 - pos: 명사
   word: 인륜대사
+- pos: 명사
+  word: 인마
 - pos: 특수:파생형
   word: 인마
 - pos: 명사
@@ -76349,6 +76437,8 @@ entries:
   word: 일사불란하다
 - pos: 명사
   word: 일사천리
+- pos: 명사
+  word: 일산화탄소
 - pos: 동사
   word: 일삼다
 - pos: 명사
@@ -77145,6 +77235,8 @@ entries:
   word: 입증
 - pos: 동사
   word: 입증되다
+- pos: 명사
+  word: 입증책임
 - pos: 동사
   word: 입증하다
 - pos: 명사
@@ -77483,6 +77575,8 @@ entries:
   word: 자동판매기
 - pos: 명사
   word: 자동화
+- pos: 명사
+  word: 자동화기
 - pos: 동사
   word: 자동화되다
 - pos: 동사
@@ -77519,6 +77613,8 @@ entries:
   word: 자력
 - pos: 명사
   word: 자료
+- pos: 명사
+  word: 자료구조
 - pos: 명사
   word: 자료실
 - pos: 명사
@@ -78416,6 +78512,8 @@ entries:
   - 단위명사
   word: 잔
 - pos: 명사
+  word: 잔 다르크
+- pos: 명사
   word: 잔가지
 - pos: 명사
   word: 잔고
@@ -78903,6 +79001,8 @@ entries:
   props:
   - 단위명사
   word: 장
+- pos: 명사
+  word: 장 발장
 - pos: 명사
   word: 장가
 - pos: 동사
@@ -81350,6 +81450,8 @@ entries:
 - pos: 명사
   word: 전역
 - pos: 명사
+  word: 전역변수
+- pos: 명사
   word: 전역식
 - pos: 동사
   word: 전역하다
@@ -81489,6 +81591,8 @@ entries:
   word: 전자파
 - pos: 명사
   word: 전자현미경
+- pos: 명사
+  word: 전자회로
 - pos: 명사
   word: 전작
 - pos: 명사
@@ -82625,8 +82729,6 @@ entries:
   word: 정미소
 - pos: 동사
   word: 정미하다
-- pos: 관형사
-  word: 정밀
 - pos: 명사
   word: 정밀
 - pos: 명사
@@ -82673,6 +82775,8 @@ entries:
   word: 정보통
 - pos: 명사
   word: 정보통신
+- pos: 명사
+  word: 정보통신부
 - pos: 명사
   word: 정보화
 - pos: 명사
@@ -82847,6 +82951,8 @@ entries:
   word: 정신병원
 - pos: 명사
   word: 정신병자
+- pos: 명사
+  word: 정신분석학
 - pos: 명사
   word: 정신분열증
 - pos: 명사
@@ -84802,6 +84908,8 @@ entries:
 - pos: 명사
   word: 종교
 - pos: 명사
+  word: 종교개혁
+- pos: 명사
   word: 종교계
 - pos: 명사
   word: 종교관
@@ -85199,8 +85307,6 @@ entries:
   word: 죄과
 - pos: 동사
   word: 죄다
-- pos: 동사
-  word: 죄다
 - pos: 부사
   word: 죄다
 - pos: 명사
@@ -85547,6 +85653,8 @@ entries:
   word: 주문형비디오
 - pos: 명사
   word: 주물
+- pos: 명사
+  word: 주물럭
 - pos: 동사
   word: 주물럭거리다
 - pos: 동사
@@ -85839,6 +85947,8 @@ entries:
   word: 주전부리하다
 - pos: 명사
   word: 주전자
+- pos: 명사
+  word: 주절
 - pos: 동사
   word: 주절거리다
 - pos: 동사
@@ -86129,6 +86239,8 @@ entries:
   word: 준비되다
 - pos: 명사
   word: 준비물
+- pos: 명사
+  word: 준비서면
 - pos: 명사
   word: 준비성
 - pos: 동사
@@ -87332,6 +87444,8 @@ entries:
 - pos: 관형사
   word: 지난
 - pos: 명사
+  word: 지난
+- pos: 명사
   word: 지난날
 - pos: 명사
   word: 지난달
@@ -87760,6 +87874,8 @@ entries:
 - pos: 명사
   word: 지역민
 - pos: 명사
+  word: 지역변수
+- pos: 명사
   word: 지역사회
 - pos: 명사
   word: 지역성
@@ -88109,6 +88225,8 @@ entries:
   word: 직
 - pos: 명사
   word: 직각
+- pos: 명사
+  word: 직각삼각형
 - pos: 명사
   word: 직감
 - pos: 동사
@@ -91626,6 +91744,8 @@ entries:
   word: 천주교
 - pos: 명사
   word: 천지
+- pos: 명사
+  word: 천지 창조
 - pos: 명사
   word: 천지개벽
 - pos: 명사
@@ -100142,6 +100262,8 @@ entries:
 - pos: 명사
   word: 패자
 - pos: 명사
+  word: 패자부활전
+- pos: 명사
   word: 패자전
 - pos: 명사
   word: 패잔병
@@ -101889,6 +102011,8 @@ entries:
   word: 품명
 - pos: 명사
   word: 품목
+- pos: 명사
+  word: 품밟기
 - pos: 명사
   word: 품사
 - pos: 명사
@@ -104731,6 +104855,8 @@ entries:
 - pos: 명사
   word: 해양
 - pos: 명사
+  word: 해양경찰청
+- pos: 명사
   word: 해양성
 - pos: 명사
   word: 해양수산부
@@ -105406,6 +105532,8 @@ entries:
   word: 허송세월하다
 - pos: 동사
   word: 허송하다
+- pos: 명사
+  word: 허수
 - pos: 명사
   word: 허수아비
 - pos: 형용사
@@ -106272,6 +106400,8 @@ entries:
   word: 협상하다
 - pos: 명사
   word: 협성
+- pos: 명사
+  word: 협소
 - pos: 형용사
   word: 협소하다
 - pos: 명사
@@ -106437,6 +106567,8 @@ entries:
 - pos: 명사
   word: 형용
 - pos: 명사
+  word: 형용모순
+- pos: 명사
   word: 형용사
 - pos: 동사
   word: 형용하다
@@ -106566,6 +106698,8 @@ entries:
   word: 호두
 - pos: 명사
   word: 호두과자
+- pos: 명사
+  word: 호두까기 인형
 - pos: 명사
   word: 호두까기인형
 - pos: 명사
@@ -108258,6 +108392,8 @@ entries:
   word: 회계
 - pos: 명사
   word: 회계사
+- pos: 명사
+  word: 회계연도
 - pos: 동사
   word: 회계하다
 - pos: 명사

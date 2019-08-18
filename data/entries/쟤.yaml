@@ -1,15 +1,23 @@
 000_KEYWORD: 쟤__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    설명: 예; 쟤들 뭐지?
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=473934&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:00:15+09:00'
+    구분: 단어
+    의미:
+    - 뜻풀이: ‘저 아이’가 줄어든 말.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
     표제어: 쟤
-    품사: 명사:보통:비서술성
-    항목ID: 22858
+    항목ID: 473934
+import_derived:
+  맞춤법 검사:
+    표제어: 쟤
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 쟤

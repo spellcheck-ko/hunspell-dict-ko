@@ -825,14 +825,39 @@ result:
 ---
 000_KEYWORD: 리듬체조__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=418024&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:26:06+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 體操
+    의미:
+    - 뜻풀이: 리본, 공, 훌라후프, 곤봉, 로프, 링 따위의 소도구를 들고 반주 음악의 리듬에 맞추어 연기하는 여자 체조 경기. 1968년부터
+        격년제로 세계 선수권 대회가 열리고 있으며, 1984년 로스앤젤레스 올림픽 경기에서 정식 종목으로 채택되었다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98075
+        레이블: 리듬 체조(리본)
+        종류: 사진
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98076
+        레이블: 리듬 체조(훌라후프)
+        종류: 사진
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98133
+        레이블: 리듬 체조(볼)
+        종류: 사진
+      분류: 체육
+      종류: 일반어
+      품사: 품사 없음
+    종류: 혼종어
+    표제어: 리듬^체조
+    항목ID: 418024
+import_derived:
+  맞춤법 검사:
     표제어: 리듬체조
-    품사: 명사:보통:서술성
-    항목ID: 8188
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 리듬체조

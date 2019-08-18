@@ -3240,15 +3240,29 @@ result:
 ---
 000_KEYWORD: 추수감사절__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 종교:기독교
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=490509&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:26:11+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 秋收感謝節
+    의미:
+    - 뜻풀이: 기독교 신자들이 한 해에 한 번씩 가을 곡식을 거둔 뒤에 하나님께 감사 예배를 올리는 날. 1620년에 영국 청교도들이 미국으로
+        이주한 다음 해 가을에 처음으로 거둔 수확으로 감사제를 지낸 데서 유래한다.
+      분류: 기독교
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 추수^감사절
+    항목ID: 490509
+import_derived:
+  맞춤법 검사:
     표제어: 추수감사절
-    품사: 명사:보통:서술성
-    항목ID: 26775
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 추수감사절
@@ -12941,15 +12955,28 @@ result:
 ---
 000_KEYWORD: 출산휴가__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=336847&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:28:31+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 出産休暇
+    의미:
+    - 뜻풀이: 근로 여성이 아이를 낳기 위하여 얻는 휴가. 근로 기준법에 정하여져 있다.
+      분류: 법률
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 출산^휴가
+    항목ID: 336847
+import_derived:
+  맞춤법 검사:
     표제어: 출산휴가
-    품사: 명사:보통:서술성
-    항목ID: 26912
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 출산휴가
@@ -18409,14 +18436,36 @@ result:
 ---
 000_KEYWORD: 충분__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=331451&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:28:31+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=486375&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 충분-하다01
+      항목ID: 486375
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=331452&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 충분-히
+      항목ID: 331452
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 充分
+    의미:
+    - 뜻풀이: ‘충분하다01’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 충분01
+    항목ID: 331451
+import_derived:
+  맞춤법 검사:
     표제어: 충분
-    품사: 명사:보통:서술성
-    항목ID: 27008
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 충분

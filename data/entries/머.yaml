@@ -7184,16 +7184,31 @@ result:
 ---
 000_KEYWORD: 멍키스패너__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 공구
-    어원: monkey spanner
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=424321&searchKeywordTo=3
+    가져온 시각: '2019-06-25T08:30:53+09:00'
+    구분: 구
+    원어:
+      언어: 영어
+      원어: monkey spanner
+    의미:
+    - 뜻풀이: 목에 나사를 장치하여 아가리를 자유로이 조절할 수 있는 스패너.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=98442
+        종류: 사진
+      분류: 공업
+      종류: 일반어
+      품사: 품사 없음
+    종류: 외래어
+    표제어: 멍키^스패너
+    항목ID: 424321
+import_derived:
+  맞춤법 검사:
     표제어: 멍키스패너
-    품사: 명사:보통:비서술성
-    항목ID: 8920
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 멍키스패너

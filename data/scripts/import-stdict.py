@@ -80,11 +80,15 @@ class ImportStdict:
         if tag is None:
             return
         f = tag.find('pos_info/pos')
-        if f is not None:
-            pos = f.text
-            if pos == '품사 없음':
-                # 활용 형태 등 제외
-                return
+        if f is None:
+            return
+
+        pos = f.text
+        # 표준국어대사전은 일부 명사가 '품사 없음'으로 들어 있다. 어차피 화이트리스트로 가져오므로
+        # 나중에 manual로 추가할 걸 생각하고 명사로 취급
+        if pos == '품사 없음':
+            pos = '명사'
+
         word = self.sanitize_word(entry.find('word_info/word').text)
 
         entry = self.make_rec_from_xml_entry(entry, datetimestr)

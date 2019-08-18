@@ -530,14 +530,35 @@ result:
 ---
 000_KEYWORD: 휴대전화__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=385134&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:56:55+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 携帶電話
+    의미:
+    - 뜻풀이: 손에 들거나 몸에 지니고 다니면서 걸고 받을 수 있는 소형 무선 전화기.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=104492
+        레이블: 휴대 전화
+        종류: 사진
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=197383
+        레이블: 휴대 전화
+        종류: 사진
+      분류: 정보·통신
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 휴대^전화
+    항목ID: 385134
+import_derived:
+  맞춤법 검사:
     표제어: 휴대전화
-    품사: 명사:보통:비서술성
-    항목ID: 31515
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 휴대전화

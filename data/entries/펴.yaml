@@ -748,15 +748,28 @@ result:
 ---
 000_KEYWORD: 편대비행__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351611&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:40:34+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 編隊飛行
+    의미:
+    - 뜻풀이: 비행기가 편대를 이루어 나는 일.
+      분류: 군사
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 편대^비행
+    항목ID: 351611
+import_derived:
+  맞춤법 검사:
     표제어: 편대비행
-    품사: 명사:보통:서술성
-    항목ID: 28817
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 편대비행
@@ -8538,15 +8551,31 @@ result:
 ---
 000_KEYWORD: 평행사변형__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 수학
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=355477&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:40:34+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 平行四邊形
+    의미:
+    - 뜻풀이: 서로 마주 대하는 두 쌍의 변이 각각 평행인 사각형.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103728
+        종류: 삽화
+      분류: 수학
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 평행^사변형
+    항목ID: 355477
+import_derived:
+  맞춤법 검사:
     표제어: 평행사변형
-    품사: 명사:보통:비서술성
-    항목ID: 28932
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 평행사변형

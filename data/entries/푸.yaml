@@ -5512,6 +5512,32 @@ result:
     표제어: 품목
     품사: 명사
 ---
+000_KEYWORD: 품밟기__명사__001
+import:
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=503205&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:42:54+09:00'
+    구분: 구
+    의미:
+    - 뜻풀이: 택견에서, 먹이를 덮치는 맹수의 앞발처럼 매서우면서도 보기에 우습게 발을 움직이는 기술.
+      분류: 체육
+      종류: 일반어
+      품사: 품사 없음
+    종류: 고유어
+    표제어: 품^밟기
+    항목ID: 503205
+import_derived:
+  맞춤법 검사:
+    표제어: 품밟기
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 품밟기
+    품사: 명사
+---
 000_KEYWORD: 품사__명사__001
 import:
   한국어기초사전:
@@ -6011,15 +6037,29 @@ result:
 ---
 000_KEYWORD: 품질관리__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351932&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:42:54+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 品質管理
+    의미:
+    - 뜻풀이: 일정한 조건 아래에 최저 비용으로써 가급적 최량 품질의 제품을 획득할 수 있도록 생산 활동을 통계 숫자에 의하여서 관리ㆍ통제하는
+        경영 관리 방식.
+      분류: 경영
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 품질^관리
+    항목ID: 351932
+import_derived:
+  맞춤법 검사:
     표제어: 품질관리
-    품사: 명사:보통:서술성
-    항목ID: 29263
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 품질관리
@@ -7311,15 +7351,33 @@ result:
 ---
 000_KEYWORD: 풍력발전__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=357943&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:42:54+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 風力發電
+    의미:
+    - 뜻풀이: 바람으로 풍차를 회전하여 전기를 일으키는 방법.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=195474
+        종류: 사진
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=195476
+        종류: 사진
+      분류: 전기·전자
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 풍력^발전
+    항목ID: 357943
+import_derived:
+  맞춤법 검사:
     표제어: 풍력발전
-    품사: 명사:보통:서술성
-    항목ID: 29282
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 풍력발전

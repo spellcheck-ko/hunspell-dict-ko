@@ -5531,14 +5531,32 @@ result:
 ---
 000_KEYWORD: 탁월__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=344311&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:33:21+09:00'
+    관련어:
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=497540&searchKeywordTo=3
+      종류: 부표제어
+      표제어: 탁월-하다
+      항목ID: 497540
+    구분: 단어
+    원어:
+      언어: 한자
+      원어: 卓越
+    의미:
+    - 뜻풀이: ‘탁월하다’의 어근.
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
     표제어: 탁월
-    품사: 명사:보통:서술성
-    항목ID: 27754
+    항목ID: 344311
+import_derived:
+  맞춤법 검사:
+    표제어: 탁월
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 탁월
@@ -7045,15 +7063,28 @@ result:
 ---
 000_KEYWORD: 탄소섬유__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  표준국어대사전:
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=344292&searchKeywordTo=3
+    가져온 시각: '2019-06-25T10:33:21+09:00'
+    구분: 구
+    원어:
+      언어: 한자
+      원어: 炭素纖維
+    의미:
+    - 뜻풀이: 아크릴 섬유, 피치 섬유, 레이온 섬유, 리그닌 섬유 따위를 800~1,800℃에서 소성한 섬유.
+      분류: 화학
+      종류: 일반어
+      품사: 품사 없음
+    종류: 한자어
+    표제어: 탄소^섬유
+    항목ID: 344292
+import_derived:
+  맞춤법 검사:
     표제어: 탄소섬유
-    품사: 명사:보통:비서술성
-    항목ID: 27778
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 탄소섬유
