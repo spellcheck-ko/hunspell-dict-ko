@@ -7813,6 +7813,37 @@ result:
     표제어: 꽃집
     품사: 명사
 ---
+000_KEYWORD: 꽃처녀__명사__001
+import:
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1097972
+    가져온 시각: '2019-08-04T13:38:03+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1097970
+      종류: 반대말
+      표제어: 꽃-도령001
+      항목ID: 1097970
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=24142
+      종류: 상위어
+      표제어: 처녀001
+      항목ID: 24142
+    구분: 어휘
+    뜻풀이: 용모가 아름다운 처녀를 비유적으로 이르는 말.
+    발음:
+    - 꼳처녀
+    원어:
+      언어: 한자
+      원어: 處女
+    의미 번호: 1
+    종류: 일반어
+    표제어: 꽃-처녀
+    품사: 명사
+    항목ID: 1097972
+result:
+  맞춤법 검사:
+    표제어: 꽃처녀
+    품사: 명사
+---
 000_KEYWORD: 꽃피다__동사__001
 import:
   표준국어대사전:

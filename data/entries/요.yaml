@@ -648,31 +648,28 @@ result:
 000_KEYWORD: 요격__명사__001
 import:
   표준국어대사전:
-    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=245307&searchKeywordTo=3
+    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=245568&searchKeywordTo=3
     가져온 시각: '2019-06-25T09:41:48+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=245308&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=245569&searchKeywordTo=3
       종류: 부표제어
-      표제어: 요격-하다01
-      항목ID: 245308
+      표제어: 요격-하다02
+      항목ID: 245569
     구분: 단어
+    발음:
+    - 요격
     원어:
       언어: 한자
-      원어: 遼隔
+      원어: 邀擊
     의미:
-    - 뜻풀이: ‘요격하다01’의 어근.
+    - 뜻풀이: 공격해 오는 대상을 기다리고 있다가 도중에서 맞받아침.
       종류: 일반어
-      품사: 품사 없음
+      품사: 명사
     종류: 한자어
-    표제어: 요격01
-    항목ID: 245307
-import_derived:
-  맞춤법 검사:
-    표제어: 요격
-    품사: 품사 없음
-manual:
-  맞춤법 검사:
-    품사: 명사
+    표제어: 요격02
+    항목ID: 245568
+    활용:
+    - 활용: 요격만
 result:
   맞춤법 검사:
     표제어: 요격
@@ -709,15 +706,52 @@ result:
 ---
 000_KEYWORD: 요격하다__동사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
-    표제어: 요격하다
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=239300
+    가져온 시각: '2019-08-05T00:17:45+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=226254
+      종류: 비슷한말
+      표제어: 역격-하다001
+      항목ID: 226254
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=18379
+      종류: 비슷한말
+      표제어: 영격-하다002
+      항목ID: 18379
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=237157
+      종류: 비슷한말
+      표제어: 요액-하다001
+      항목ID: 237157
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=237165
+      종류: 비슷한말
+      표제어: 요파-하다001
+      항목ID: 237165
+    구분: 어휘
+    뜻풀이: 공격해 오는 대상을 기다리고 있다가 도중에서 맞받아치다.
+    발음:
+    - 요겨카다
+    용례:
+    - 발음: 요겨카니
+      활용: 요격하니
+    - 용례: 적의 미사일을 {요격하다}.
+    원어:
+      언어: 고유어
+      원어: 하다
+    의미 번호: 2
+    종류: 일반어
+    표제어: 요격-하다
     품사: 동사
-    항목ID: 19734
+    항목ID: 239300
+    활용:
+    - 발음:
+      - 요겨카여
+      약어: 요격해
+      약어 발음:
+      - 요겨캐
+      활용: 요격하여
+    - 발음:
+      - 요겨카니
+      활용: 요격하니
 result:
   맞춤법 검사:
     표제어: 요격하다
@@ -1120,14 +1154,32 @@ result:
 ---
 000_KEYWORD: 요금제__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 요금제
-    품사: 명사:보통:서술성
-    항목ID: 19742
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=720240
+    가져온 시각: '2019-08-05T00:17:45+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=705121
+      종류: 비슷한말
+      표제어: 요금^제도001
+      항목ID: 705121
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=433750
+      종류: 상위어
+      표제어: 제도001
+      항목ID: 433750
+    구분: 어휘
+    뜻풀이: 전력 또는 통신 서비스의 이용에 대한 요금 체계. 총비용을 설비 이용 상황에 따라 이용자에게 적절히 배분하는 총괄 비용법과 시장 원리
+      및 생산 원리에 따라 운전비 또는 운영비만을 회수하는 한계 비용법으로 나눌 수 있다.
+    발음:
+    - 요ː금제
+    분류: 경제
+    원어:
+      언어: 한자
+      원어: 料金制
+    의미 번호: 1
+    종류: 일반어
+    표제어: 요금-제
+    품사: 명사
+    항목ID: 720240
 result:
   맞춤법 검사:
     표제어: 요금제
@@ -5291,14 +5343,21 @@ result:
 ---
 000_KEYWORD: 요약문__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 요약문
-    품사: 명사:보통:비서술성
-    항목ID: 19778
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=854683
+    가져온 시각: '2019-08-05T00:17:45+09:00'
+    구분: 어휘
+    뜻풀이: 말이나 글의 요점을 잡아서 간추린 내용을 적은 글.
+    발음:
+    - 요양문
+    원어:
+      언어: 한자
+      원어: 要約文
+    의미 번호: 1
+    종류: 일반어
+    표제어: 요약-문
+    품사: 명사
+    항목ID: 854683
 result:
   맞춤법 검사:
     표제어: 요약문
@@ -10145,14 +10204,24 @@ result:
 ---
 000_KEYWORD: 용산구__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 용산구
-    품사: 명사:고유
-    항목ID: 19858
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1387034
+    가져온 시각: '2019-08-05T00:17:45+09:00'
+    구분: 어휘
+    뜻풀이: 서울특별시 중부에 있는 구. 남쪽으로는 한강, 북쪽으로는 남산과 접해 있으며, 한남 대교ㆍ반포 대교ㆍ동작 대교 등이 있어 교통의 중심지
+      역할을 한다. 다수의 외국 공관 및 문화원을 비롯하여 효창 공원, 용산 가족 공원, 국립 중앙 박물관, 국립 한글 박물관 등이 위치해 있다.
+      면적은 21.87㎢.
+    발음:
+    - 용산구
+    분류: 지명
+    원어:
+      언어: 한자
+      원어: 龍山區
+    의미 번호: 1
+    종류: 일반어
+    표제어: 용산-구
+    품사: 명사
+    항목ID: 1387034
 result:
   맞춤법 검사:
     표제어: 용산구
@@ -10680,15 +10749,34 @@ result:
 ---
 000_KEYWORD: 용어집__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - jihui.choi
-    라이선스: CC BY 4.0
-    표제어: 용어집
-    품사: 명사:보통:서술성
-    항목ID: 19867
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=674939
+    가져온 시각: '2019-08-05T00:17:45+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1087170
+      종류: 비슷한말
+      표제어: 글로서리001
+      항목ID: 1087170
+    구분: 어휘
+    뜻풀이: 정보 처리 분야의 데이터 사전.
+    발음:
+    - 용ː어집
+    번역:
+    - 번역: ' glossary'
+      언어: 영어
+    분류: 정보·통신
+    원어:
+      언어: 한자
+      원어: 用語集
+    의미 번호: 1
+    종류: 일반어
+    표제어: 용어-집
+    품사: 명사
+    항목ID: 674939
+    활용:
+    - 발음:
+      - 용ː어짐만
+      활용: 용어집만
 result:
   맞춤법 검사:
     표제어: 용어집

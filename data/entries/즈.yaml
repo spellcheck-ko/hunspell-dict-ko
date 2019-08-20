@@ -1875,14 +1875,40 @@ result:
 ---
 000_KEYWORD: 증강현실__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=629527
+    가져온 시각: '2019-08-05T03:12:28+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1324139
+      종류: 비슷한말
+      표제어: 혼합^현실001
+      항목ID: 1324139
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=331530
+      종류: 상위어
+      표제어: 기술001
+      항목ID: 331530
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=28285
+      종류: 상위어
+      표제어: 현실003
+      항목ID: 28285
+    구분: 구
+    뜻풀이: 현재 실제로 존재하는 사물이나 환경에 가상의 사물이나 환경을 덧입혀서, 마치 실제로 존재하는 것처럼 보여 주는 컴퓨터 그래픽 기술.
+      또는 그러한 기술로 조성된 현실.
+    분류: 정보·통신
+    원어:
+      언어: 한자
+      원어: 增強現實
+    의미 번호: 1
+    종류: 일반어
+    표제어: 증강^현실
+    항목ID: 629527
+import_derived:
+  맞춤법 검사:
     표제어: 증강현실
-    품사: 명사:보통:서술성
-    항목ID: 31922
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 증강현실

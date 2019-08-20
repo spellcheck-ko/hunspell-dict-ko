@@ -3872,16 +3872,32 @@ result:
 ---
 000_KEYWORD: 애플__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - dialektike
-    라이선스: CC BY 4.0
-    설명: 사과
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=767070
+    가져온 시각: '2019-08-04T22:20:44+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=662844
+      종류: 비슷한말
+      표제어: 애플리케이션001
+      항목ID: 662844
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=927988
+      종류: 비슷한말
+      표제어: 앱001
+      항목ID: 927988
+    구분: 어휘
+    뜻풀이: 스마트폰 따위의 운영 체제에서 사용자의 편의를 위해 개발된 다양한 응용 프로그램.
+    순화 정보:
+      근거: 정부ㆍ언론 외래어 심의 공동 위원회 제104차 회의(2012년 8월 29일)
+      설명: ‘애플’로 표기하기로 정하였다.
+      종류: 외래어 표기
+    원어:
+      언어: 영어
+      원어: ←application
+    의미 번호: 1
+    종류: 일반어
     표제어: 애플
-    품사: 명사:보통:서술성
-    항목ID: 17718
+    품사: 명사
+    항목ID: 767070
 result:
   맞춤법 검사:
     표제어: 애플
@@ -3889,15 +3905,32 @@ result:
 ---
 000_KEYWORD: 애플리케이션__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: application
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=662844
+    가져온 시각: '2019-08-04T22:20:44+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=767070
+      종류: 비슷한말
+      표제어: 애플001
+      항목ID: 767070
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=927988
+      종류: 비슷한말
+      표제어: 앱001
+      항목ID: 927988
+    구분: 어휘
+    뜻풀이: 스마트폰 따위의 운영 체제에서 사용자의 편의를 위해 개발된 다양한 응용 프로그램.
+    순화 정보:
+      근거: 편수 자료(1987년)
+      설명: ‘애플리케이션’으로 올라 있다.
+      종류: 외래어 표기
+    원어:
+      언어: 영어
+      원어: application
+    의미 번호: 1
+    종류: 일반어
     표제어: 애플리케이션
-    품사: 명사:보통:비서술성
-    항목ID: 17719
+    품사: 명사
+    항목ID: 662844
 result:
   맞춤법 검사:
     표제어: 애플리케이션
@@ -5039,6 +5072,33 @@ import:
 result:
   맞춤법 검사:
     표제어: 앰프
+    품사: 명사
+---
+000_KEYWORD: 앱스토어__명사__001
+import:
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=618153
+    가져온 시각: '2019-08-04T22:20:44+09:00'
+    구분: 구
+    뜻풀이: 스마트폰에 탑재할 수 있는 다양한 응용 프로그램을 판매하는, 온라인상의 <FL>모바일</FL> 콘텐츠 시장.
+    분류: 경제
+    원어:
+      언어: 영어
+      원어: app store
+    의미 번호: 1
+    종류: 일반어
+    표제어: 앱^스토어
+    항목ID: 618153
+import_derived:
+  맞춤법 검사:
+    표제어: 앱스토어
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
+result:
+  맞춤법 검사:
+    표제어: 앱스토어
     품사: 명사
 ---
 000_KEYWORD: 앳되다__형용사__001

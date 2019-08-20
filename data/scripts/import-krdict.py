@@ -96,7 +96,7 @@ class ImportKrdict:
 
         for i in range(0,len(docs)):
             doc = docs[i]
-            if 'import' in doc and doc['import'] and '한국어기초사전' in doc['import']:
+            if 'import' in doc and doc['import']:
                 kw = doc['000_KEYWORD']
                 if kw_prefix == kw[:-5]:
                     last_serial = int(kw[-3:])

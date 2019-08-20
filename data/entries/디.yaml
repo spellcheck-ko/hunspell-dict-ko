@@ -87,15 +87,34 @@ result:
 ---
 000_KEYWORD: 디도스__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: DDOS
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=820246
+    가져온 시각: '2019-08-21T03:41:46+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=773978
+      종류: 비슷한말
+      표제어: 분산^서비스^거부001
+      항목ID: 773978
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=820244
+      종류: 비슷한말
+      표제어: 분산^서비스^거부^공격001
+      항목ID: 820244
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=634585
+      종류: 비슷한말
+      표제어: 서비스^거부^공격001
+      항목ID: 634585
+    구분: 어휘
+    뜻풀이: 여러 크래커를 분산 배치 하여 컴퓨터 시스템이 본래의 용도로 사용되지 못하게 하는 방식의 해킹.
+    분류: 정보·통신
+    어원: distribute denial of service
+    원어:
+      언어: 영어
+      원어: DDOS
+    의미 번호: 1
+    종류: 일반어
     표제어: 디도스
-    품사: 명사:보통:서술성
-    항목ID: 31875
+    품사: 명사
+    항목ID: 820246
 result:
   맞춤법 검사:
     표제어: 디도스
@@ -975,15 +994,24 @@ result:
 ---
 000_KEYWORD: 디카__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: digital_camera
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=617973
+    가져온 시각: '2019-08-21T03:41:46+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=596461
+      종류: 비슷한말
+      표제어: 디지털-카메라001
+      항목ID: 596461
+    구분: 어휘
+    뜻풀이: 필름 없이 디지털 방식으로 사진을 찍는 카메라. 사진을 컴퓨터 파일 형식으로 저장할 수 있다.
+    원어:
+      언어: 영어
+      원어: ←digital camera
+    의미 번호: 1
+    종류: 일반어
     표제어: 디카
-    품사: 명사:보통:서술성
-    항목ID: 7761
+    품사: 명사
+    항목ID: 617973
 result:
   맞춤법 검사:
     표제어: 디카

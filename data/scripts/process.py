@@ -34,7 +34,7 @@ class ProcessYamlDocs:
         self.process_doc_manual(doc)
 
     def process_doc_import(self, doc):
-        supported = [ x in doc for x in [ '한국어기초사전', '표준국어대사전', '갈퀴 Django'] ]
+        supported = [ x in doc for x in [ '한국어기초사전', '표준국어대사전', '우리말샘', '갈퀴 Django'] ]
         if supported:
             if 'import_derived' not in doc:
                 doc['import_derived'] = {}
@@ -48,6 +48,11 @@ class ProcessYamlDocs:
             elif '표준국어대사전' in doc['import']:
                 input = doc['import']['표준국어대사전']
                 self.process_doc_stdict(input, output)
+            elif '우리말샘' in doc['import']:
+                input = doc['import']['우리말샘']
+                # if '품사' not in input and 'manual' not in doc:
+                #     doc['manual'] = { '맞춤법 검사': { '품사': '명사' } }
+                self.process_doc_opendict(input, output)
             elif '갈퀴 Django' in doc['import']:
                 input = doc['import']['갈퀴 Django']
                 self.process_doc_galkwidjango(input, output)
@@ -134,6 +139,55 @@ class ProcessYamlDocs:
 
             if pos in ['명사', '의존 명사']:
                 if '주제 및 상황 범주' in input and input['주제 및 상황 범주'] == '개념 > 세는 말':
+                    props.append('단위명사')
+
+            if len(props) > 0:
+                props.sort()
+                if '속성' not in output:
+                    output['속성'] = []
+                output['속성'] += props
+
+    def process_doc_opendict(self, input, output):
+        word = self.stdict_sanitize_word(input['표제어'])
+        if '품사' in input:
+            pos = input['품사']
+        else:
+            pos = '품사 없음'
+
+        if '⇒규범 표기는 \‘' in input['뜻풀이']:
+            output['제외'] = '틀린 말'
+        elif pos in ['어미', '접사', '조사']:
+            output['제외'] = '해당 품사 아님'
+        else:
+            output['표제어'] = word
+            output['품사'] = pos
+
+            props = []
+
+            # 불규칙 활용
+            if pos in ['동사', '형용사', '보조 형용사', '보조 동사']:
+                if '활용' in input:
+                    inflections = [dd['활용'] for dd in input['활용']]
+                    inflection_type = self.detect_inflection_type(word, inflections)
+                    if inflection_type is not None and inflection_type != '규칙':
+                        props.append(inflection_type)
+
+            # 보조용언 타입
+            if pos.startswith('보조 '):
+                if '문법' in input:
+                    clue = input['문법']
+                    detected = self.detect_aux_verb_type(word, clue)
+                    props += detected
+                else:
+                    raise Exception('word: %s, pos: %s, but no 문법' % (word, pos))
+
+            # 합성용언
+            if pos in ['동사', '형용사']:
+                if self.detect_compound_verb(word):
+                    props.append('용언합성')
+
+            if pos in ['명사', '의존 명사']:
+                if '뜻풀이' in input and '세는 단위' in input['뜻풀이']:
                     props.append('단위명사')
 
             if len(props) > 0:
@@ -282,19 +336,22 @@ class ProcessYamlDocs:
     def detect_aux_verb_type(self, word, clue):
         props = []
         examples = None
+        clue = clue.replace('‘','\'').replace('’','\'')
         if '뒤에서 ' in clue:
-            examples = clue.split('뒤에서 ')[1].split('로 쓴다.')[0].split(', ')
+            examples = clue.split('뒤에서 ')[1].split('\'')[1::2]
         elif '뒤에 ' in clue:
-            examples = clue.split('뒤에 ')[1].split('로 쓴다.')[0].split(', ')
-        if examples is not None:
-            if len(examples) > 0:
-                examples = [k[1:-1] for k in examples]
-                for example in examples:
-                    prefixes = example.split(' ')[0].split('/')
-                    for prefix in prefixes:
-                        if prefix[0] != '-':
-                            prefix = '-' + prefix
-                        props.append('보조용언:' + prefix)
+            examples = clue.split('뒤에 ')[1].split('\'')[1::2]
+        if examples is not None and len(examples) > 0:
+            for example in examples:
+                if example.endswith(word):
+                    example = example[:-len(word)]
+                prefixes = example.split(' ')[0].split('/')
+                for prefix in prefixes:
+                    if prefix[0] != '-':
+                        prefix = '-' + prefix
+                    if prefix in ['-ㄴ', '-는', '-ㅁ']:
+                        continue
+                    props.append('보조용언:' + prefix)
         else:
             if word == '드리다':
                 props.append('보조용언:-어')

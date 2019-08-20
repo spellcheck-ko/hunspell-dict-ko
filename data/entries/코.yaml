@@ -421,15 +421,22 @@ result:
 ---
 000_KEYWORD: 코덱__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: codec
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=774399
+    가져온 시각: '2019-08-21T15:42:18+09:00'
+    구분: 어휘
+    뜻풀이: 음성이나 영상을 디지털 신호로 변환하는 기능과 그 반대로 변환하는 기능을 함께 갖춘 기술. 또는 그런 처리를 목적으로 하는 소프트웨어.
+      ⇒규범 표기는 미확정이다.
+    분류: 정보·통신
+    어원: ←coder+decoder
+    원어:
+      언어: 영어
+      원어: codec
+    의미 번호: 1
+    종류: 일반어
     표제어: 코덱
-    품사: 명사:보통:비서술성
-    항목ID: 27462
+    품사: 명사
+    항목ID: 774399
 result:
   맞춤법 검사:
     표제어: 코덱
@@ -890,22 +897,6 @@ import:
 result:
   맞춤법 검사:
     제외: 틀린 말
----
-000_KEYWORD: 코멘트__명사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: comment
-    표제어: 코멘트
-    품사: 명사:보통:서술성
-    항목ID: 27473
-result:
-  맞춤법 검사:
-    표제어: 코멘트
-    품사: 명사
 ---
 000_KEYWORD: 코미디__명사__001
 import:
@@ -1520,14 +1511,36 @@ result:
 ---
 000_KEYWORD: 코스피__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=671475
+    가져온 시각: '2019-08-21T15:42:30+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=671452
+      종류: 참고 어휘
+      표제어: 거래소^시장001
+      항목ID: 671452
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=671473
+      종류: 참고 어휘
+      표제어: 코스피^시장001
+      항목ID: 671473
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=23380
+      종류: 상위어
+      표제어: 지표003
+      항목ID: 23380
+    구분: 어휘
+    뜻풀이: 한국 거래소 상장 기업들의 주식 가격 변동을 파악하기 위한 지표. 비교 시점의 시가 총액을 기준 시점인 1980년 1월 4일의 시가
+      총액과 비교하여 백분율로 나타낸다. ⇒규범 표기는 미확정이다.
+    분류: 경제
+    수어 URL: http://sldict.korean.go.kr/front/sign/signContentsView.do?origin_no=22099
+    어원: Korea Composite Stock Price Index
+    원어:
+      언어: 영어
+      원어: KOSPI
+    의미 번호: 1
+    종류: 일반어
     표제어: 코스피
-    품사: 명사:보통:서술성
-    항목ID: 31904
+    품사: 명사
+    항목ID: 671475
 result:
   맞춤법 검사:
     표제어: 코스피
@@ -2956,16 +2969,19 @@ result:
 ---
 000_KEYWORD: 콘퍼런스__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 컨퍼런스 아님, 외국어 표기법 참고
-    어원: conference
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1374087
+    가져온 시각: '2019-08-21T15:44:10+09:00'
+    구분: 어휘
+    뜻풀이: 공통의 전문적인 주제를 가지고 비교적 긴 시간에 걸쳐 열리는 대규모 회의.
+    원어:
+      언어: 영어
+      원어: conference
+    의미 번호: 2
+    종류: 일반어
     표제어: 콘퍼런스
-    품사: 명사:보통:비서술성
-    항목ID: 27525
+    품사: 명사
+    항목ID: 1374087
 result:
   맞춤법 검사:
     표제어: 콘퍼런스

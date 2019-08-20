@@ -13068,7 +13068,6 @@ import:
 result:
   맞춤법 검사:
     속성:
-    - 보조용언:-는
     - 보조용언:-은
     - 보조용언:-을
     표제어: 듯싶다
@@ -13168,7 +13167,6 @@ import:
 result:
   맞춤법 검사:
     속성:
-    - 보조용언:-는
     - 보조용언:-은
     - 보조용언:-을
     표제어: 듯하다
@@ -13196,21 +13194,6 @@ import:
 result:
   맞춤법 검사:
     제외: 해당 품사 아님
----
-000_KEYWORD: 등__대명사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등
-    품사: 대명사
-    항목ID: 7678
-result:
-  맞춤법 검사:
-    표제어: 등
-    품사: 대명사
 ---
 000_KEYWORD: 등__명사__001
 import:
@@ -13300,107 +13283,6 @@ import:
     표제어: 등
     품사: 명사
     항목ID: 49993
-result:
-  맞춤법 검사:
-    표제어: 등
-    품사: 명사
----
-000_KEYWORD: 등__명사__003
-import:
-  표준국어대사전:
-    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:21:09+09:00'
-    관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 속담
-      표제어: 등 시린 절 받기 싫다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 속담
-      표제어: 등에 풀 바른 것 같다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 속담
-      표제어: 등을 쓰다듬어 준 강아지 발등 문다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 속담
-      표제어: 등이 더우랴 배가 부르랴
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 속담
-      표제어: 등이 따스우면 배부르다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 속담
-      표제어: 등 치고 배 만진다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 속담
-      표제어: 등 치고 간 내먹다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등(을) 대다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등(을) 돌리다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등(을) 타다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등(이) 달다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등(이) 닿다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등에 날이 나다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등에 찬물을 끼얹는 듯
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등으로 먹고 배로 먹는다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등을 긁어먹다[갉아먹다]
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등을 떠밀다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등을 벗겨 먹다
-      항목ID: 420969
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420969&searchKeywordTo=3
-      종류: 관용구
-      표제어: 등 진 가재
-      항목ID: 420969
-    구분: 단어
-    발음:
-    - 등
-    어원: ＜＜용가＞
-    의미:
-    - 뜻풀이: 물체의 위쪽이나 바깥쪽에 볼록하게 내민 부분.
-      멀티미디어:
-      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=196113
-        종류: 삽화
-      종류: 일반어
-      품사: 명사
-    종류: 고유어
-    표제어: 등01
-    항목ID: 420969
 result:
   맞춤법 검사:
     표제어: 등
@@ -14081,6 +13963,31 @@ result:
     표제어: 등급
     품사: 명사
 ---
+000_KEYWORD: 등급제__명사__001
+import:
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1169962
+    가져온 시각: '2019-08-21T03:41:46+09:00'
+    구분: 어휘
+    뜻풀이: 성과 폭력, 범죄 등 영화가 다루는 주제나 소재에 따라 관객에게 미칠 악영향을 고려하여 사전에 관람을 허용하는 관객층을 연령별로 분류하는
+      제도. 우리나라는 영상물 등급 위원회를 통해 결정되는데, 전체 관람 가, 12세 이상 관람 가, 15세 이상 관람 가, 청소년 관람 불가,
+      제한 상영가로 나누고 있다.
+    발음:
+    - 등ː급쩨
+    분류: 영상
+    원어:
+      언어: 한자
+      원어: 等級制
+    의미 번호: 1
+    종류: 일반어
+    표제어: 등급-제
+    품사: 명사
+    항목ID: 1169962
+result:
+  맞춤법 검사:
+    표제어: 등급제
+    품사: 명사
+---
 000_KEYWORD: 등기__명사__001
 import:
   한국어기초사전:
@@ -14508,45 +14415,6 @@ result:
     표제어: 등덜미
     품사: 명사
 ---
-000_KEYWORD: 등등__명사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등등
-    품사: 명사:보통:서술성
-    항목ID: 7697
-result:
-  맞춤법 검사:
-    표제어: 등등
-    품사: 명사
----
-000_KEYWORD: 등등__의존 명사__001
-import:
-  표준국어대사전:
-    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=417880&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:21:09+09:00'
-    구분: 단어
-    발음:
-    - 등ː등
-    원어:
-      언어: 한자
-      원어: 等等
-    의미:
-    - 뜻풀이: 그 밖의 것을 줄임을 나타내는 말.
-      문법: 명사나 어미 ‘-는’ 뒤에 쓰여
-      종류: 일반어
-      품사: 의존 명사
-    종류: 한자어
-    표제어: 등등01
-    항목ID: 417880
-result:
-  맞춤법 검사:
-    표제어: 등등
-    품사: 의존 명사
----
 000_KEYWORD: 등등__의존_명사__001
 import:
   한국어기초사전:
@@ -14703,14 +14571,23 @@ result:
 ---
 000_KEYWORD: 등락률__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등락률
-    품사: 명사:보통:서술성
-    항목ID: 7700
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=679881
+    가져온 시각: '2019-08-21T03:41:46+09:00'
+    구분: 어휘
+    뜻풀이: 일정한 기간에 어떠한 기준 값이 오르거나 내리는 비율. 주식 시장에서 자주 사용되는데, 전일 종가와 비교하여 현재 가격이 얼마나 오르고
+      내렸는지를 나타낸다.
+    발음:
+    - 등낭뉼
+    분류: 경제
+    원어:
+      언어: 한자
+      원어: 騰落率
+    의미 번호: 1
+    종류: 일반어
+    표제어: 등락-률
+    품사: 명사
+    항목ID: 679881
 result:
   맞춤법 검사:
     표제어: 등락률
@@ -14718,18 +14595,23 @@ result:
 ---
 000_KEYWORD: 등락폭__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등락폭
-    품사: 명사:보통:서술성
-    항목ID: 7701
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=854737
+    가져온 시각: '2019-08-21T03:41:46+09:00'
+    구분: 구
+    뜻풀이: 물가 따위가 오르고 내리는 범위.
+    분류: 경제
+    원어:
+      언어: 한자
+      원어: 騰落幅
+    의미 번호: 1
+    종류: 일반어
+    표제어: 등락^폭
+    항목ID: 854737
 result:
   맞춤법 검사:
     표제어: 등락폭
-    품사: 명사
+    품사: 품사 없음
 ---
 000_KEYWORD: 등락하다__동사__001
 import:
@@ -14904,18 +14786,26 @@ result:
 ---
 000_KEYWORD: 등록번호__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등록번호
-    품사: 명사:보통:비서술성
-    항목ID: 7705
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1025150
+    가져온 시각: '2019-08-21T03:41:46+09:00'
+    구분: 구
+    뜻풀이: 등록한 순서대로 주어지는 번호.
+    번역:
+    - 번역: ' registration number'
+      언어: 영어
+    분류: 행정
+    원어:
+      언어: 한자
+      원어: 登錄番號
+    의미 번호: 1
+    종류: 일반어
+    표제어: 등록^번호
+    항목ID: 1025150
 result:
   맞춤법 검사:
     표제어: 등록번호
-    품사: 명사
+    품사: 품사 없음
 ---
 000_KEYWORD: 등록비__명사__001
 import:
@@ -14984,14 +14874,21 @@ result:
 ---
 000_KEYWORD: 등록자__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등록자
-    품사: 명사:보통:비서술성
-    항목ID: 7707
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1120025
+    가져온 시각: '2019-08-21T03:41:46+09:00'
+    구분: 어휘
+    뜻풀이: 등록한 사람.
+    발음:
+    - 등녹짜
+    원어:
+      언어: 한자
+      원어: 登錄者
+    의미 번호: 3
+    종류: 일반어
+    표제어: 등록-자
+    품사: 명사
+    항목ID: 1120025
 result:
   맞춤법 검사:
     표제어: 등록자
@@ -15258,14 +15155,25 @@ result:
 ---
 000_KEYWORD: 등반객__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 등반객
-    품사: 명사:보통:비서술성
-    항목ID: 7714
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=719464
+    가져온 시각: '2019-08-21T03:41:46+09:00'
+    구분: 어휘
+    뜻풀이: 취미나 운동 삼아 험한 산이나 절벽 따위를 오르는 사람.
+    발음:
+    - 등반객
+    원어:
+      언어: 한자
+      원어: 登攀客
+    의미 번호: 1
+    종류: 일반어
+    표제어: 등반-객
+    품사: 명사
+    항목ID: 719464
+    활용:
+    - 발음:
+      - 등반갱만
+      활용: 등반객만
 result:
   맞춤법 검사:
     표제어: 등반객

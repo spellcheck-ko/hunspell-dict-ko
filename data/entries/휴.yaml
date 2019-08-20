@@ -477,14 +477,42 @@ result:
 ---
 000_KEYWORD: 휴대기기__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=983094
+    가져온 시각: '2019-08-05T07:43:37+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=983093
+      종류: 비슷한말
+      표제어: 휴대^장치001
+      항목ID: 983093
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=987533
+      종류: 비슷한말
+      표제어: 휴대용^기기002
+      항목ID: 987533
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=983092
+      종류: 비슷한말
+      표제어: 휴대형^기기001
+      항목ID: 983092
+    구분: 구
+    뜻풀이: 손에 들거나 몸에 간편하게 지니고 다닐 수 있는 기기.
+    번역:
+    - 번역: ' portable equipment'
+      언어: 영어
+    분류: 기계
+    원어:
+      언어: 한자
+      원어: 携帶機器
+    의미 번호: 1
+    종류: 일반어
+    표제어: 휴대^기기
+    항목ID: 983094
+import_derived:
+  맞춤법 검사:
     표제어: 휴대기기
-    품사: 명사:보통:비서술성
-    항목ID: 31513
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 휴대기기
@@ -684,14 +712,21 @@ result:
 ---
 000_KEYWORD: 휴대형__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 휴대형
-    품사: 명사:보통:서술성
-    항목ID: 31518
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=748314
+    가져온 시각: '2019-08-05T07:43:37+09:00'
+    구분: 어휘
+    뜻풀이: 손에 들거나 몸에 지니고 다님. 또는 그런 물건.
+    발음:
+    - 휴대형
+    원어:
+      언어: 한자
+      원어: 携帶形
+    의미 번호: 1
+    종류: 일반어
+    표제어: 휴대-형
+    품사: 명사
+    항목ID: 748314
 result:
   맞춤법 검사:
     표제어: 휴대형

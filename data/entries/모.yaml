@@ -3474,14 +3474,20 @@ result:
 ---
 000_KEYWORD: 모바일__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=617817
+    가져온 시각: '2019-08-04T16:31:57+09:00'
+    구분: 어휘
+    뜻풀이: 이동성을 가진 정보 통신 수단의 모든 것을 이르는 말. ⇒규범 표기는 미확정이다.
+    분류: 정보·통신
+    원어:
+      언어: 영어
+      원어: mobile
+    의미 번호: 1
+    종류: 일반어
     표제어: 모바일
-    품사: 명사:보통:서술성
-    항목ID: 9203
+    품사: 명사
+    항목ID: 617817
 result:
   맞춤법 검사:
     표제어: 모바일
@@ -3917,14 +3923,34 @@ result:
 ---
 000_KEYWORD: 모병제__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 모병제
-    품사: 명사:보통:서술성
-    항목ID: 9212
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=734359
+    가져온 시각: '2019-08-04T16:31:57+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=398714
+      종류: 참고 어휘
+      표제어: 징병-제001
+      항목ID: 398714
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=509272
+      종류: 참고 어휘
+      표제어: 징병^제도001
+      항목ID: 509272
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=168310
+      종류: 상위어
+      표제어: 병역^제도001
+      항목ID: 168310
+    구분: 어휘
+    뜻풀이: 징병에 의하지 아니하고 모병으로 군대를 유지하는 병역 제도.
+    발음:
+    - 모병제
+    원어:
+      언어: 한자
+      원어: 募兵制
+    의미 번호: 1
+    종류: 일반어
+    표제어: 모병-제
+    품사: 명사
+    항목ID: 734359
 result:
   맞춤법 검사:
     표제어: 모병제

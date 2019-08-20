@@ -1378,14 +1378,49 @@ result:
 ---
 000_KEYWORD: 벤더__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1312126
+    가져온 시각: '2019-08-04T18:28:23+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=444653
+      종류: 비슷한말
+      표제어: 곡구002
+      항목ID: 444653
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1309290
+      종류: 비슷한말
+      표제어: 다우너001
+      항목ID: 1309290
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1319951
+      종류: 비슷한말
+      표제어: 스네이크003
+      항목ID: 1319951
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=57705
+      종류: 비슷한말
+      표제어: 커브002
+      항목ID: 57705
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=296889
+      종류: 비슷한말
+      표제어: 커브^볼001
+      항목ID: 296889
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1320701
+      종류: 비슷한말
+      표제어: 트위스트003
+      항목ID: 1320701
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1321837
+      종류: 비슷한말
+      표제어: 프레첼001
+      항목ID: 1321837
+    구분: 어휘
+    뜻풀이: 야구에서, 투수가 던진 공이 타자 가까이에 와서 변화하면서 갑자기 꺾이는 것. 또는 그런 공. ⇒규범 표기는 미확정이다.
+    분류: 체육
+    원어:
+      언어: 영어
+      원어: bender
+    의미 번호: 2
+    종류: 일반어
     표제어: 벤더
-    품사: 명사:보통:비서술성
-    항목ID: 11434
+    품사: 명사
+    항목ID: 1312126
 result:
   맞춤법 검사:
     표제어: 벤더

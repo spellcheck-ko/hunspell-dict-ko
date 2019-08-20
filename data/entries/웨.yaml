@@ -429,16 +429,28 @@ result:
 ---
 000_KEYWORD: 웰빙__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    설명: 순화:삶의질
-    어원: well-being
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1068193
+    가져온 시각: '2019-08-05T00:17:45+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=794212
+      종류: 비슷한말
+      표제어: 참-살이001
+      항목ID: 794212
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=12987
+      종류: 상위어
+      표제어: 삶001
+      항목ID: 12987
+    구분: 어휘
+    뜻풀이: 몸과 마음의 건강을 통해 행복을 추구하며 살아가는 일. ⇒규범 표기는 미확정이다.
+    원어:
+      언어: 영어
+      원어: well-being
+    의미 번호: 1
+    종류: 일반어
     표제어: 웰빙
-    품사: 명사:보통:서술성
-    항목ID: 20319
+    품사: 명사
+    항목ID: 1068193
 result:
   맞춤법 검사:
     표제어: 웰빙
@@ -481,15 +493,37 @@ result:
 ---
 000_KEYWORD: 웹사이트__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: web site
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=735010
+    가져온 시각: '2019-08-05T00:17:45+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=596765
+      종류: 하위어
+      표제어: 홈페이지001
+      항목ID: 596765
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=597695
+      종류: 상위어
+      표제어: 사이트001
+      항목ID: 597695
+    구분: 구
+    뜻풀이: 사용자들이 인터넷에서 정보가 필요할 때 언제든지 그것을 제공받을 수 있도록 웹 서버에 정보를 저장해 놓은 집합체. 인터넷을 통해 정보를
+      제공하는 프로그램인 웹 서버에 접속한 다음 특정 사이트에 들어가 정보를 검색한다.
+    분류: 정보·통신
+    수어 URL: http://sldict.korean.go.kr/front/sign/signContentsView.do?origin_no=15659
+    원어:
+      언어: 영어
+      원어: website
+    의미 번호: 1
+    종류: 일반어
+    표제어: 웹^사이트
+    항목ID: 735010
+import_derived:
+  맞춤법 검사:
     표제어: 웹사이트
-    품사: 명사:보통:비서술성
-    항목ID: 20321
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 웹사이트
@@ -520,15 +554,26 @@ result:
 ---
 000_KEYWORD: 웹페이지__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    어원: web page
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=880182
+    가져온 시각: '2019-08-05T00:17:45+09:00'
+    구분: 구
+    뜻풀이: 웹 사이트에 연결되어서 누구든지 볼 수 있도록 브라우저에 표시되는 문서.
+    분류: 정보·통신
+    원어:
+      언어: 영어
+      원어: web page
+    의미 번호: 1
+    종류: 일반어
+    표제어: 웹^페이지
+    항목ID: 880182
+import_derived:
+  맞춤법 검사:
     표제어: 웹페이지
-    품사: 명사:보통:비서술성
-    항목ID: 20323
+    품사: 품사 없음
+manual:
+  맞춤법 검사:
+    품사: 명사
 result:
   맞춤법 검사:
     표제어: 웹페이지

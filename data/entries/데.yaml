@@ -76,42 +76,6 @@ result:
   맞춤법 검사:
     제외: 해당 품사 아님
 ---
-000_KEYWORD: 데__명사__001
-import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    라이선스: CC BY 4.0
-    표제어: 데
-    품사: 명사:보통:서술성
-    항목ID: 6751
-result:
-  맞춤법 검사:
-    표제어: 데
-    품사: 명사
----
-000_KEYWORD: 데__의존 명사__001
-import:
-  표준국어대사전:
-    URL: https://stdict.korean.go.kr/search/searchView.do?word_no=83809&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:16:12+09:00'
-    구분: 단어
-    발음:
-    - 데
-    어원: ＜＜용가＞
-    의미:
-    - 뜻풀이: ‘경우’의 뜻을 나타내는 말.
-      종류: 일반어
-      품사: 의존 명사
-    종류: 고유어
-    표제어: 데01
-    항목ID: 83809
-result:
-  맞춤법 검사:
-    표제어: 데
-    품사: 의존 명사
----
 000_KEYWORD: 데__의존_명사__001
 import:
   한국어기초사전:
@@ -1329,15 +1293,29 @@ result:
 ---
 000_KEYWORD: 데자뷔__명사__001
 import:
-  갈퀴 Django:
-    가져온 시각: '2017-10-20T21:46:15.309170+09:00'
-    기여자:
-    - ryu.changwoo
-    - YongSuhb.E
-    라이선스: CC BY 4.0
+  우리말샘:
+    URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1121805
+    가져온 시각: '2019-08-21T15:38:30+09:00'
+    관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=106279
+      종류: 비슷한말
+      표제어: 기시-감001
+      항목ID: 106279
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=106283
+      종류: 비슷한말
+      표제어: 기시-체험001
+      항목ID: 106283
+    구분: 어휘
+    뜻풀이: 한 번도 경험한 일이 없는 상황이나 장면이 언제, 어디에선가 이미 경험한 것처럼 친숙하게 느껴지는 일.
+    분류: 심리
+    원어:
+      언어: 프랑스어
+      원어: déjà vu
+    의미 번호: 1
+    종류: 일반어
     표제어: 데자뷔
-    품사: 명사:보통:서술성
-    항목ID: 6775
+    품사: 명사
+    항목ID: 1121805
 result:
   맞춤법 검사:
     표제어: 데자뷔
