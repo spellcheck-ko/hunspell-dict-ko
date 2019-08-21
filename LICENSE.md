@@ -22,8 +22,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 The generating source codes and some word data files
 (data/entries/*-legacy.yaml) are distributed under the
-MPL-1.1/GPL-2.0/LGPL-2.1 tri-license. See LICENSE.MPL, LICENSE.GPL and
-LICENSE.LGPL for terms.
+MPL-1.1/GPL-2.0/LGPL-2.1 tri-license. See LICENSE.MPL-1.1, LICENSE.GPL-2 and
+LICENSE.LGPL-2.1 for terms.
 
 ### CC-BY-SA-4.0
 
