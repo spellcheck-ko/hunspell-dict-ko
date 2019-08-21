@@ -67,12 +67,12 @@ hunspell 1.3.1 이상 버전에서는 구현된 모든 기능이 동작합니다
 
 전체 결과물은 GNU General Public License 3.0 라이선스에 따라 배포됩니다.
 
-개별 파일의 경우 각각의 라이선스에 따라 배포될 수 있습니다. 사전 생성 코드와
-일부 단어 데이터는 Mozilla Public License 1.1, GNU General Public License 2.0
-또는 그 이후 버전, GNU Lesser General Public License 2.1 또는 그 이후 버전의
-(MPL 1.1/GPL 2.0/LGPL 2.1) 3중 라이선스에 따라 배포됩니다. 국립국어원 사전
-데이터를 비롯한 그 외 대부분 단어 데이터는 CreativeCommons
-Attribution-ShareAlike 4.0 (CC BY-SA 4.0) 라이선스에 따라 배포됩니다.
+개별 파일의 경우 각각의 라이선스에 따라 배포될 수 있습니다. 사전 생성 코드는
+Mozilla Public License 1.1, GNU General Public License 2.0 또는 그 이후 버전,
+GNU Lesser General Public License 2.1 또는 그 이후 버전의 (MPL 1.1/GPL
+2.0/LGPL 2.1) 3중 라이선스에 따라 배포됩니다. 국립국어원 사전 데이터를 비롯한
+그 외 단어 데이터는 CreativeCommons Attribution-ShareAlike 4.0 라이선스에 따라
+배포됩니다.
 
 자세한 정보는 LICENSE.md 파일을 참고하십시오.
 
