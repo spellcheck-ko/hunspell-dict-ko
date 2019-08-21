@@ -20,14 +20,16 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ### MPL-1.1/GPL-2.0/LGPL-2.1 tri-license
 
-The generating source codes are distributed under the MPL-1.1/GPL-2.0/LGPL-2.1
-tri-license. See LICENSE.MPL, LICENSE.GPL and LICENSE.LGPL for terms.
+The generating source codes and some word data files
+(data/entries/*-legacy.yaml) are distributed under the
+MPL-1.1/GPL-2.0/LGPL-2.1 tri-license. See LICENSE.MPL, LICENSE.GPL and
+LICENSE.LGPL for terms.
 
 ### CC-BY-SA-4.0
 
-The combined word data files (dict-ko-*.yaml and data/entries/*.yaml) are
-distributed under the Creative Commons Attribution-ShareAlike 4.0
-International license.
+The most word data files (dict-ko-builtin.yaml and data/entries/*.yaml without
+'-legacy') are distributed under the Creative Commons Attribution-ShareAlike
+4.0 International license.
 
 ### original licenses: CC-BY-SA-2.0-KR and CC-BY-4.0
 
@@ -40,6 +42,10 @@ Creative Commons Attribution 4.0 International license. See LICENSE.CC-BY-4.0
 for terms.
 
 ### GPL-3.0 for the combined work
+
+The combined dict-ko-data.yaml in the source code and the built files (ko.aff
+and ko.dic) are licensed under the GPL version 3. See LICENSE.GPL-3.0 for
+terms.
 
 Works under CC BY 4.0 and CC BY-SA 2.0 KR can be adapted under CC BY-SA 4.0.
 And CC BY-SA 4.0 declares the GPL version 3 as an one-way compatible license.
