@@ -30,25 +30,10 @@ def append_entry(entries, doc):
             e['pos'] = '형용사'
         entries.append(e)
 
-def process_file(filename, entries_ccbysa, entries_mplgpllgpl):
+def process_file(filename, entries_ccbysa):
     documents = yaml.load_all(open(filename), Loader=yaml.FullLoader)
     for k in documents:
-        license = 'ccbysa'
-        if 'import' in k:
-            if '한국어기초사전' in k['import']:
-                license = 'ccbysa'
-            if '갈퀴 Django' in k['import']:
-                if k['import']['갈퀴 Django']['라이선스'] == 'CC BY 4.0':
-                    license = 'ccbysa'
-                elif  k['import']['갈퀴 Django']['라이선스'] == 'MPL 1.1/GPL 2.0/LGPL 2.1':
-                    license = 'mplgpllgpl'
-        if license == 'ccbysa':
-            append_entry(entries_ccbysa, k)
-        elif license == 'mplgpllgpl':
-            append_entry(entries_mplgpllgpl, k)
-        else:
-            print(k)
-            assert()
+        append_entry(entries_ccbysa, k)
 
 def output_file(filename, entries):
     entries.sort(key=lambda x : x['word'])
@@ -59,23 +44,20 @@ def output_file(filename, entries):
         yaml.dump(yaml_entry, outfile, allow_unicode=True, default_flow_style=False, indent=2)
     print(filename)
 
-def find_and_save(dir, filename_ccbysa, filename_mplgpllgpl):
+def find_and_save(dir, filename_ccbysa):
     yaml_filenames = glob.glob(dir + '/*.yaml')
     entries_ccbysa = []
-    entries_mplgpllgpl = []
     print('Total %d files...' % len(yaml_filenames))
     count = 0
     for yaml_filename in yaml_filenames:
-        process_file(yaml_filename, entries_ccbysa, entries_mplgpllgpl)
+        process_file(yaml_filename, entries_ccbysa)
         count += 1
         sys.stdout.write('%d...' % count)
         sys.stdout.flush()
     sys.stdout.write('\n')
     output_file(filename_ccbysa, entries_ccbysa)
-    output_file(filename_mplgpllgpl, entries_mplgpllgpl)
 
 if __name__ == '__main__':
     dir = './entries'
     outfile_ccbysa = '../dict-ko-ccbysa.yaml'
-    outfile_mplgpllgpl = '../dict-ko-mplgpllgpl.yaml'
-    find_and_save(dir, outfile_ccbysa, outfile_mplgpllgpl)
+    find_and_save(dir, outfile_ccbysa)
