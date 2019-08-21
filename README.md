@@ -26,7 +26,7 @@
    <http://packages.debian.org/hunspell-ko>
  * 우분투: hunspell-ko 패키지 설치, 9.10 (karmic) 이후,
    <http://packages.ubuntu.com/hunspell-ko>
- * 페도라: hunspell-ko 패키지 설치, 페도라 12 (Constantine) 이후,
+ * 페도라/CentOS/RHEL: hunspell-ko 패키지 설치, 페도라 12 (Constantine) 이후,
    <https://apps.fedoraproject.org/packages/hunspell-ko/>
  * Mac OS X 10.5: BaramSpellChecker
  * Mac OS X 10.6 이상: /Library/Spelling 또는 홈폴더/Library/Spelling
