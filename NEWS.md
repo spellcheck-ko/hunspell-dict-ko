@@ -1,3 +1,28 @@
+# 0.7.92
+
+https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.92
+
+내부적인 단어 정보 정리를 테스트하는 버전입니다.
+
+## 변경 사항
+
+- 데이터 정리
+  - 단어 정보 처리 스크립트 정리
+    - 불규칙용언 찾기, 합성용언 찾기, 제외할 단어 찾기, 단위명사 찾기
+  - 한국어기초사전 업데이트 2019/08/13
+  - 구 갈퀴 단어의 일부를 표준국어대사전 및 우리말샘 단어로 대체
+    - 표준국어대사전 2019/06/25
+    - 우리말샘 2019/08/21
+    - 대체하는 과정에서 발견된 잘못된 항목 바로잡음
+    - MPL/GPL/LGPL에서 라이선스 전환하지 않은 단어 22개
+    - CC BY SA 라이선스로 전환한 단어 427개
+
+- 기타
+  - testsuite를 호스트에 설치된 hunspell 사전에 대해 실행할 수 있도록 조정
+    - make hosttest HOST_DICT_PATH=/usr/share/hunspell/ko
+    - 데비안 패키지 테스트 중 하나인 autopkgtest에서 사용
+  - 문서 정리
+
 # 0.7.91
 
 https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.91
