@@ -19,7 +19,7 @@ https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.92
 
 - 기타
   - testsuite를 호스트에 설치된 hunspell 사전에 대해 실행할 수 있도록 조정
-    - make hosttest HOST_DICT_PATH=/usr/share/hunspell/ko
+    - make hosttest DICT=/usr/share/hunspell/ko
     - 데비안 패키지 테스트 중 하나인 autopkgtest에서 사용
   - 문서 정리
 
