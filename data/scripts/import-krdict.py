@@ -174,7 +174,7 @@ class ImportKrdict:
                 elif item.get('att') == 'origin':
                     rec['원어'] = item.get('val').strip()
                 elif item.get('att') == 'annotation':
-                    rec['전체 참고'] = item.get('val').strip()
+                    rec['참고'] = item.get('val').strip()
                 else:
                     raise Exception('Unknown att ' + item.get('att'))
             elif item.tag == 'Lemma':
@@ -262,7 +262,7 @@ class ImportKrdict:
                 for subitem in item:
                     if subitem.tag == 'feat':
                         if subitem.get('att') == 'annotation':
-                            sense['의미 참고'] = subitem.get('val').strip()
+                            sense['참고'] = subitem.get('val').strip()
                         elif subitem.get('att') == 'definition':
                             sense['뜻풀이'] = subitem.get('val').strip()
                         elif subitem.get('att') == 'syntacticAnnotation':

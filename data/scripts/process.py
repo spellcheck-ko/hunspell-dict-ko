@@ -82,7 +82,7 @@ class ProcessYamlDocs:
 
             # 보조용언 타입
             if pos.startswith('보조 '):
-                clue = input['의미'][0]['의미 참고']
+                clue = input['의미'][0]['참고']
                 detected = self.detect_aux_verb_type(word, clue)
                 props += detected
 
