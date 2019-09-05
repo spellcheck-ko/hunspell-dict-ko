@@ -39,7 +39,8 @@ class ImportKrdict:
         sys.stdout.write('\n')
 
     def do_merge_xml_string(self, xml_str):
-        xml_str = self.xml_workaround(xml_str)
+        # 2019/09/05 다운로드 기준 XML valid
+        #xml_str = self.xml_workaround(xml_str)
         root = ElementTree.fromstring(xml_str)
         createdString = root.find('GlobalInformation/feat[@att="creationDate"]').get('val')
         created = datetime.datetime.strptime(createdString, '%Y/%m/%d %H:%M:%S')
@@ -68,11 +69,8 @@ class ImportKrdict:
         yaml_doc = self.yaml_cache_find_yaml_doc(krdict_id, word, pos)
         self.insert_or_replace_entry(yaml_doc, entry)
 
-    def xml_workaround(self, s):
-        # 2019/08/13 다운로드 기준
-        if '<système de chauffage par le sol>' in s:
-            s = s.replace('<système de chauffage par le sol>', '&lt;système de chauffage par le sol&gt;')
-        return s
+    #def xml_workaround(self, s):
+    #    return s
 
     def yaml_cache_find_yaml_doc(self, krdict_id, word, pos):
         # 첫 음절에서 받침 제외
