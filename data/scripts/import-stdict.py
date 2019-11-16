@@ -154,7 +154,7 @@ class ImportStdict:
             with open(os.path.join(self.outdir, filename)) as infile:
                 sys.stdout.write('r..')
                 sys.stdout.flush()
-                yaml_docs = list(yaml.load_all(infile, Loader=yaml.FullLoader))
+                yaml_docs = list(yaml.load_all(infile))
                 yaml_docs.sort(key=lambda x : x['000_KEYWORD'])
                 self.yaml_output_recently_used.append(filename)
                 self.yaml_output_cache[filename] = yaml_docs

@@ -20,7 +20,7 @@ class ProcessYamlDocs:
 
     def process_file(self, filename):
         print('Processing %s...' % filename)
-        docs = list(yaml.load_all(open(filename), Loader=yaml.FullLoader))
+        docs = list(yaml.load_all(open(filename)))
         docs.sort(key=lambda x : x['000_KEYWORD'])
         for doc in docs:
             self.process_doc(doc)

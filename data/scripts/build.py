@@ -31,7 +31,7 @@ def append_entry(entries, doc):
         entries.append(e)
 
 def process_file(filename, entries):
-    documents = yaml.load_all(open(filename), Loader=yaml.FullLoader)
+    documents = yaml.load_all(open(filename))
     for k in documents:
         append_entry(entries, k)
 

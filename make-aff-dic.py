@@ -205,7 +205,7 @@ class Dictionary:
             self.words.add(w)
 
     def load_yaml(self, infile):
-        d = yaml.load(infile, Loader=yaml.FullLoader)
+        d = yaml.load(infile)
         for entry in d['entries']:
             w = Word()
             w.word = entry['word']
