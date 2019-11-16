@@ -9,8 +9,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: make
+    - name: install dependencies
+      run: sudo apt install hunspell
+    - name: build
       run: make
-    - name: make test
+    - name: test
       run: make test
-
