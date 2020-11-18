@@ -28,7 +28,7 @@
    <http://packages.ubuntu.com/hunspell-ko>
  * 페도라/CentOS/RHEL: hunspell-ko 패키지 설치, 페도라 12 (Constantine) 이후,
    <https://apps.fedoraproject.org/packages/hunspell-ko/>
- * 아치리눅스: hunspell-ko AUR 패키지 설치
+ * 아치리눅스: hunspell-ko AUR 패키지 설치,
    <https://aur.archlinux.org/packages/hunspell-ko/>
    ```sh
    $ git clone ssh://aur@aur.archlinux.org/hunspell-ko.git
