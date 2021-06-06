@@ -30,11 +30,6 @@
    <https://apps.fedoraproject.org/packages/hunspell-ko/>
  * 아치리눅스: hunspell-ko AUR 패키지 설치,
    <https://aur.archlinux.org/packages/hunspell-ko/>
-   ```sh
-   $ git clone ssh://aur@aur.archlinux.org/hunspell-ko.git
-   $ cd hunspell-ko
-   $ makepkg -sir
-   ```
  * Mac OS X 10.5: BaramSpellChecker
  * Mac OS X 10.6 이상: /Library/Spelling 또는 홈폴더/Library/Spelling
    아래 aff/dic 파일 복사
