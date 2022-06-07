@@ -456,7 +456,7 @@ def find_flags(word, pos, props):
     return result
 
 
-def get_ida_rules(flagaliases):
+def _get_ida_rules(flagaliases):
     ida_josas = []
     ida_josas_t = []
     # 주격조사 ('이다') 활용을 조사 목록에 덧붙이기
@@ -506,5 +506,5 @@ def get_output(flagaliases):
     result = []
     for klass in klasses:
         result.append(klass.output())
-    result += get_ida_rules(flagaliases)
+    result += _get_ida_rules(flagaliases)
     return '\n'.join(result)

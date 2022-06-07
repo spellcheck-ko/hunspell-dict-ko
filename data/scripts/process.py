@@ -440,9 +440,6 @@ class ProcessYamlDocs:
             if '뒤에 붙여 ' in s:
                 s = s.split(' 뒤에 붙여 ')[0]
                 prefix_found = True
-            elif  '뒤에 붙어 ' in s:
-                s = s.split(' 뒤에 붙어 ')[0]
-                prefix_found = True
             elif '에 붙여 쓴다' in s:
                 s = s.split('에 붙여 쓴다')[0]
                 prefix_found = True
