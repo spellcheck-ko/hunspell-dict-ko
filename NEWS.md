@@ -1,3 +1,21 @@
+# 0.7.93
+
+https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.93
+
+## 변경 사항
+
+- 국립국어원 단어 데이터 업데이트
+  - 2023년 5월 1일 기준
+
+- 데이터 정리
+  - 이스터에그 정보 제거 - 너무 긴 단어로 문제 발생
+  - 조사 정보 이제 하드 코딩하지 않고 단어 데이터에서 추출된 정보 사용
+
+- 기타
+  - 다시 최근 버전 PyYAML에서 동작하도록 스크립트 바로잡음. 이제 Loader= arg가 없으면
+    동작하지 않음.
+  - 문서 업데이트
+
 # 0.7.92
 
 https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.92
