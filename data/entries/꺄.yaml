@@ -2,12 +2,14 @@
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54431&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     구분: 단어
     발음:
     - 꺅
     의미:
     - 뜻풀이: 먹은 음식이 목까지 찬 모양.
+      원뜻풀이: 먹은 음식이 목까지 찬 모양.
+      의미코드: 108602
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -22,17 +24,17 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54433&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54434&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54434&searchKeywordTo=1
       종류: 부표제어
       표제어: 꺅꺅-거리다
       항목ID: 54434
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54435&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54435&searchKeywordTo=1
       종류: 부표제어
       표제어: 꺅꺅-대다
       항목ID: 54435
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54436&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=54436&searchKeywordTo=1
       종류: 부표제어
       표제어: 꺅꺅-하다
       항목ID: 54436
@@ -41,6 +43,8 @@ import:
     - 꺅꺅
     의미:
     - 뜻풀이: 사람이나 짐승 따위가 몹시 놀라거나 죽게 될 때 잇따라 지르는 소리.
+      원뜻풀이: 사람이나 짐승 따위가 몹시 놀라거나 죽게 될 때 잇따라 지르는 소리.
+      의미코드: 108603
       종류: 일반어
       품사: 부사
     종류: 고유어

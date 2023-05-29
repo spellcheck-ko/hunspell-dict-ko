@@ -26,12 +26,24 @@ entries:
   word: ㄲ
 - pos: 명사
   word: ㄴ
+- pos: 조사
+  word: ㄴ
+- pos: 조사
+  word: ㄴ커녕
 - pos: 명사
   word: ㄷ
 - pos: 명사
   word: ㄸ
 - pos: 명사
   word: ㄹ
+- pos: 조사
+  word: ㄹ
+- pos: 조사
+  word: ㄹ더러
+- pos: 조사
+  word: ㄹ랑
+- pos: 조사
+  word: ㄹ랑은
 - pos: 명사
   word: ㅁ
 - pos: 명사
@@ -103,6 +115,8 @@ entries:
 - pos: 명사
   word: 가
 - pos: 명사
+  word: 가
+- pos: 조사
   word: 가
 - pos: 명사
   word: 가가대소
@@ -2888,6 +2902,8 @@ entries:
   word: 같아지다
 - pos: 부사
   word: 같이
+- pos: 조사
+  word: 같이
 - pos: 동사
   word: 같이하다
 - pos: 형용사
@@ -4872,6 +4888,8 @@ entries:
   word: 게
 - pos: 명사
   word: 게
+- pos: 조사
+  word: 게
 - pos: 명사
   word: 게거품
 - pos: 형용사
@@ -4892,6 +4910,8 @@ entries:
   word: 게다가
 - pos: 명사
   word: 게딱지
+- pos: 조사
+  word: 게로
 - pos: 명사
   word: 게르마늄
 - pos: 명사
@@ -4906,6 +4926,8 @@ entries:
   word: 게맛살
 - pos: 명사
   word: 게살
+- pos: 조사
+  word: 게서
 - pos: 명사
   word: 게스트
 - pos: 부사
@@ -6711,6 +6733,8 @@ entries:
 - pos: 관형사
   word: 고
 - pos: 관형사
+  word: 고
+- pos: 조사
   word: 고
 - pos: 명사
   word: 고가
@@ -9340,6 +9364,8 @@ entries:
   word: 과
 - pos: 명사
   word: 과
+- pos: 조사
+  word: 과
 - pos: 명사
   word: 과감성
 - pos: 형용사
@@ -11814,6 +11840,8 @@ entries:
   word: 국론
 - pos: 명사
   word: 국립
+- pos: 명사
+  word: 국립국어원
 - pos: 명사
   word: 국립대
 - pos: 명사
@@ -16135,6 +16163,8 @@ entries:
   word: 까옥까옥
 - pos: 동사
   word: 까이다
+- pos: 조사
+  word: 까지
 - pos: 감탄사
   word: 까짓
 - pos: 관형사
@@ -16398,6 +16428,8 @@ entries:
   word: 깨끗해지다
 - pos: 특수:금지어
   word: 깨끗히
+- pos: 조사
+  word: 깨나
 - pos: 동사
   word: 깨나다
 - pos: 동사
@@ -16484,6 +16516,8 @@ entries:
   word: 꺼려지다
 - pos: 동사
   word: 꺼리다
+- pos: 형용사
+  word: 꺼림직하다
 - pos: 부사
   word: 꺼림칙이
 - pos: 형용사
@@ -16606,10 +16640,16 @@ entries:
   word: 껑충대다
 - pos: 형용사
   word: 껑충하다
+- pos: 조사
+  word: 께
+- pos: 형용사
+  word: 께름직하다
 - pos: 형용사
   word: 께름칙하다
 - pos: 형용사
   word: 께름하다
+- pos: 조사
+  word: 께서
 - pos: 동사
   word: 껴들다
 - pos: 명사
@@ -17622,6 +17662,8 @@ entries:
   word: 낑낑하다
 - pos: 대명사
   word: 나
+- pos: 조사
+  word: 나
 - pos: 동사
   word: 나가다
 - pos: 동사
@@ -17752,6 +17794,8 @@ entries:
   word: 나리
 - pos: 명사
   word: 나리분지
+- pos: 조사
+  word: 나마
 - pos: 명사
   word: 나막신
 - pos: 명사
@@ -21760,6 +21804,10 @@ entries:
   word: 늑약
 - pos: 명사
   word: 늑장
+- pos: 조사
+  word: 는
+- pos: 조사
+  word: 는커녕
 - pos: 부사
   word: 늘
 - pos: 명사
@@ -21948,6 +21996,8 @@ entries:
   word: 닁큼
 - pos: 부사
   word: 닁큼닁큼
+- pos: 조사
+  word: 니
 - pos: 동사
   word: 니글거리다
 - pos: 부사
@@ -21985,6 +22035,8 @@ entries:
 - pos: 명사
   word: 다
 - pos: 부사
+  word: 다
+- pos: 조사
   word: 다
 - pos: 동사
   props:
@@ -23219,7 +23271,7 @@ entries:
   word: 닮은꼴
 - pos: 동사
   word: 닳다
-- pos: 형용사
+- pos: 동사
   props:
   - 용언합성
   word: 닳아빠지다
@@ -23949,6 +24001,8 @@ entries:
   word: 대로
 - pos: 명사
   word: 대로
+- pos: 조사
+  word: 대로
 - pos: 명사
   word: 대로변
 - pos: 동사
@@ -24227,6 +24281,8 @@ entries:
   word: 대신하다
 - pos: 명사
   word: 대실
+- pos: 명사
+  word: 대안
 - pos: 명사
   word: 대안
 - pos: 명사
@@ -24888,6 +24944,8 @@ entries:
 - pos: 형용사
   word: 더디다
 - pos: 부사
+  word: 더러
+- pos: 조사
   word: 더러
 - pos: 명사
   word: 더러움
@@ -28326,10 +28384,16 @@ entries:
   word: 득표자
 - pos: 동사
   word: 득표하다
+- pos: 조사
+  word: 든
+- pos: 조사
+  word: 든가
 - pos: 형용사
   word: 든든하다
 - pos: 부사
   word: 든든히
+- pos: 조사
+  word: 든지
 - pos: 명사
   word: 듣기
 - pos: 동사
@@ -28347,6 +28411,8 @@ entries:
 - pos: 명사
   word: 들
 - pos: 명사
+  word: 들
+- pos: 조사
   word: 들
 - pos: 명사
   word: 들개
@@ -29049,6 +29115,8 @@ entries:
   word: 따뜻하다
 - pos: 특수:금지어
   word: 따뜻히
+- pos: 조사
+  word: 따라
 - pos: 동사
   props:
   - 용언합성
@@ -30079,10 +30147,16 @@ entries:
   word: 띵하다
 - pos: 명사
   word: 라
+- pos: 조사
+  word: 라고
 - pos: 명사
   word: 라니냐
+- pos: 조사
+  word: 라도
 - pos: 명사
   word: 라돈
+- pos: 조사
+  word: 라든지
 - pos: 명사
   word: 라디오
 - pos: 명사
@@ -30093,6 +30167,10 @@ entries:
   word: 라벤더
 - pos: 명사
   word: 라스베이거스
+- pos: 조사
+  word: 라야
+- pos: 조사
+  word: 라야만
 - pos: 명사
   word: 라오스
 - pos: 명사
@@ -30135,10 +30213,14 @@ entries:
   word: 라틴어
 - pos: 명사
   word: 란
+- pos: 조사
+  word: 란
 - pos: 명사
   word: 란제리
 - pos: 명사
   word: 람바다
+- pos: 조사
+  word: 랑
 - pos: 명사
   word: 랑데부
 - pos: 명사
@@ -30279,6 +30361,8 @@ entries:
   props:
   - 단위명사
   word: 렘
+- pos: 조사
+  word: 로
 - pos: 명사
   word: 로고
 - pos: 명사
@@ -30291,6 +30375,10 @@ entries:
   word: 로그인
 - pos: 동사
   word: 로그인하다
+- pos: 조사
+  word: 로까지
+- pos: 조사
+  word: 로다가
 - pos: 명사
   word: 로더
 - pos: 명사
@@ -30319,8 +30407,12 @@ entries:
   word: 로봇
 - pos: 명사
   word: 로봇공학
+- pos: 조사
+  word: 로부터
 - pos: 명사
   word: 로비
+- pos: 조사
+  word: 로서
 - pos: 명사
   word: 로션
 - pos: 명사
@@ -30329,6 +30421,8 @@ entries:
   word: 로스쿨
 - pos: 명사
   word: 로스트비프
+- pos: 조사
+  word: 로써
 - pos: 명사
   word: 로열티
 - pos: 명사
@@ -30411,6 +30505,8 @@ entries:
   word: 르완다어
 - pos: 명사
   word: 르포
+- pos: 조사
+  word: 를
 - pos: 명사
   word: 리
 - pos: 명사
@@ -30597,6 +30693,8 @@ entries:
   word: 마나님
 - pos: 부사
   word: 마냥
+- pos: 조사
+  word: 마냥
 - pos: 명사
   word: 마네
 - pos: 명사
@@ -30615,6 +30713,8 @@ entries:
   word: 마니아
 - pos: 명사
   word: 마님
+- pos: 조사
+  word: 마다
 - pos: 동사
   word: 마다하다
 - pos: 명사
@@ -30866,6 +30966,8 @@ entries:
 - pos: 명사
   word: 마장
 - pos: 부사
+  word: 마저
+- pos: 조사
   word: 마저
 - pos: 명사
   word: 마적
@@ -31337,6 +31439,8 @@ entries:
   word: 만신창이
 - pos: 명사
   word: 만약
+- pos: 부사
+  word: 만약
 - pos: 명사
   word: 만연
 - pos: 명사
@@ -31358,6 +31462,8 @@ entries:
 - pos: 명사
   word: 만인
 - pos: 명사
+  word: 만일
+- pos: 부사
   word: 만일
 - pos: 명사
   word: 만장
@@ -31421,7 +31527,11 @@ entries:
   word: 만취하다
 - pos: 명사
   word: 만치
+- pos: 조사
+  word: 만치
 - pos: 명사
+  word: 만큼
+- pos: 조사
   word: 만큼
 - pos: 명사
   word: 만파식적
@@ -33183,6 +33293,8 @@ entries:
   word: 멧돼지
 - pos: 명사
   word: 멧새
+- pos: 조사
+  word: 며
 - pos: 명사
   word: 며느리
 - pos: 명사
@@ -33204,6 +33316,8 @@ entries:
 - pos: 명사
   word: 면
 - pos: 명사
+  word: 면
+- pos: 조사
   word: 면
 - pos: 형용사
   props:
@@ -33363,6 +33477,8 @@ entries:
   word: 멸종하다
 - pos: 명사
   word: 멸치
+- pos: 명사
+  word: 멸치볶음
 - pos: 명사
   word: 멸치젓
 - pos: 명사
@@ -38383,6 +38499,8 @@ entries:
   word: 박히다
 - pos: 명사
   word: 밖
+- pos: 조사
+  word: 밖에
 - pos: 명사
   word: 반
 - pos: 명사
@@ -42705,6 +42823,8 @@ entries:
   word: 보고
 - pos: 명사
   word: 보고
+- pos: 조사
+  word: 보고
 - pos: 동사
   word: 보고되다
 - pos: 명사
@@ -42784,6 +42904,8 @@ entries:
   - 보조용언:-은가
   word: 보다
 - pos: 부사
+  word: 보다
+- pos: 조사
   word: 보다
 - pos: 명사
   word: 보답
@@ -44078,6 +44200,10 @@ entries:
 - pos: 동사
   word: 부결하다
 - pos: 명사
+  word: 부경대
+- pos: 품사 없음
+  word: 부경대학교
+- pos: 명사
   word: 부계
 - pos: 명사
   word: 부고
@@ -44975,6 +45101,8 @@ entries:
   word: 부탄
 - pos: 명사
   word: 부탄가스
+- pos: 조사
+  word: 부터
 - pos: 명사
   word: 부통령
 - pos: 명사
@@ -48045,6 +48173,8 @@ entries:
   word: 뿌지직
 - pos: 명사
   word: 뿐
+- pos: 조사
+  word: 뿐
 - pos: 명사
   word: 뿔
 - pos: 명사
@@ -48847,6 +48977,8 @@ entries:
   word: 사업하다
 - pos: 명사
   word: 사역
+- pos: 명사
+  word: 사연
 - pos: 명사
   word: 사연
 - pos: 명사
@@ -51597,6 +51729,10 @@ entries:
   word: 서
 - pos: 명사
   word: 서
+- pos: 조사
+  word: 서
+- pos: 조사
+  word: 서
 - pos: 명사
   word: 서가
 - pos: 명사
@@ -51785,6 +51921,8 @@ entries:
   word: 서부
 - pos: 명사
   word: 서부극
+- pos: 조사
+  word: 서부터
 - pos: 명사
   word: 서북
 - pos: 명사
@@ -52727,6 +52865,10 @@ entries:
   word: 설득력
 - pos: 동사
   word: 설득하다
+- pos: 조사
+  word: 설랑
+- pos: 조사
+  word: 설랑은
 - pos: 부사
   word: 설렁설렁
 - pos: 명사
@@ -53190,6 +53332,8 @@ entries:
 - pos: 동사
   word: 성숙시키다
 - pos: 동사
+  word: 성숙하다
+- pos: 형용사
   word: 성숙하다
 - pos: 형용사
   props:
@@ -58677,6 +58821,8 @@ entries:
   word: 시어머니
 - pos: 명사
   word: 시에라리온
+- pos: 조사
+  word: 시여
 - pos: 명사
   word: 시연
 - pos: 동사
@@ -59064,6 +59210,8 @@ entries:
 - pos: 명사
   word: 식상
 - pos: 동사
+  word: 식상하다
+- pos: 형용사
   word: 식상하다
 - pos: 명사
   word: 식생활
@@ -61113,6 +61261,8 @@ entries:
   word: 아
 - pos: 명사
   word: 아
+- pos: 조사
+  word: 아
 - pos: 명사
   word: 아가
 - pos: 명사
@@ -63141,6 +63291,10 @@ entries:
   word: 야
 - pos: 명사
   word: 야
+- pos: 조사
+  word: 야
+- pos: 조사
+  word: 야
 - pos: 명사
   word: 야간
 - pos: 명사
@@ -63217,6 +63371,8 @@ entries:
   word: 야만적
 - pos: 명사
   word: 야만적
+- pos: 조사
+  word: 야말로
 - pos: 명사
   word: 야망
 - pos: 명사
@@ -63407,7 +63563,7 @@ entries:
   word: 약식
 - pos: 명사
   word: 약식기소
-- pos: 형용사
+- pos: 동사
   props:
   - 용언합성
   word: 약아빠지다
@@ -63643,6 +63799,8 @@ entries:
   word: 양미간
 - pos: 명사
   word: 양반
+- pos: 명사
+  word: 양반다리
 - pos: 명사
   word: 양방
 - pos: 명사
@@ -65095,6 +65253,18 @@ entries:
   word: 에
 - pos: 명사
   word: 에
+- pos: 조사
+  word: 에
+- pos: 조사
+  word: 에게
+- pos: 조사
+  word: 에게다
+- pos: 조사
+  word: 에게다가
+- pos: 조사
+  word: 에게로
+- pos: 조사
+  word: 에게서
 - pos: 명사
   word: 에게해
 - pos: 명사
@@ -65117,8 +65287,14 @@ entries:
   word: 에너지원
 - pos: 명사
   word: 에누리
+- pos: 조사
+  word: 에는
 - pos: 동사
   word: 에다
+- pos: 조사
+  word: 에다
+- pos: 조사
+  word: 에다가
 - pos: 명사
   word: 에덴
 - pos: 동사
@@ -65137,12 +65313,16 @@ entries:
   word: 에러
 - pos: 명사
   word: 에로
+- pos: 조사
+  word: 에로
 - pos: 명사
   word: 에로스
 - pos: 명사
   word: 에로티시즘
 - pos: 형용사
   word: 에로틱하다
+- pos: 조사
+  word: 에를
 - pos: 명사
   word: 에리트레아
 - pos: 명사
@@ -65151,6 +65331,12 @@ entries:
   word: 에밀레종
 - pos: 명사
   word: 에베레스트
+- pos: 조사
+  word: 에서
+- pos: 조사
+  word: 에서부터
+- pos: 조사
+  word: 에설랑
 - pos: 명사
   word: 에세이
 - pos: 명사
@@ -65171,6 +65357,8 @@ entries:
   word: 에스페란토
 - pos: 명사
   word: 에스프레소
+- pos: 조사
+  word: 에야
 - pos: 명사
   word: 에어로빅
 - pos: 명사
@@ -65187,6 +65375,8 @@ entries:
   word: 에워싸다
 - pos: 동사
   word: 에워싸이다
+- pos: 조사
+  word: 에의
 - pos: 감탄사
   word: 에이
 - pos: 감탄사
@@ -65237,6 +65427,8 @@ entries:
   word: 엑스포
 - pos: 명사
   word: 엔
+- pos: 조사
+  word: 엔
 - pos: 명사
   word: 엔도르핀
 - pos: 명사
@@ -65251,6 +65443,8 @@ entries:
   word: 엔트로피
 - pos: 명사
   word: 엔트리
+- pos: 조사
+  word: 엘
 - pos: 명사
   word: 엘니뇨
 - pos: 명사
@@ -65272,6 +65466,8 @@ entries:
 - pos: 명사
   word: 여
 - pos: 명사
+  word: 여
+- pos: 조사
   word: 여
 - pos: 명사
   word: 여가
@@ -66269,6 +66465,10 @@ entries:
   word: 연성
 - pos: 명사
   word: 연세
+- pos: 명사
+  word: 연세대
+- pos: 품사 없음
+  word: 연세대학교
 - pos: 명사
   word: 연소
 - pos: 동사
@@ -68683,6 +68883,8 @@ entries:
   word: 와
 - pos: 부사
   word: 와
+- pos: 조사
+  word: 와
 - pos: 부사
   word: 와그르르
 - pos: 동사
@@ -69484,6 +69686,8 @@ entries:
 - pos: 명사
   word: 요
 - pos: 명사
+  word: 요
+- pos: 조사
   word: 요
 - pos: 명사
   word: 요가
@@ -73159,6 +73363,18 @@ entries:
   word: 으뜸음
 - pos: 부사
   word: 으레
+- pos: 조사
+  word: 으로
+- pos: 조사
+  word: 으로까지
+- pos: 조사
+  word: 으로다가
+- pos: 조사
+  word: 으로부터
+- pos: 조사
+  word: 으로서
+- pos: 조사
+  word: 으로써
 - pos: 동사
   props:
   - 르불규칙
@@ -73236,6 +73452,8 @@ entries:
   - 르불규칙
   word: 윽박지르다
 - pos: 명사
+  word: 은
+- pos: 조사
   word: 은
 - pos: 명사
   word: 은거
@@ -73343,6 +73561,8 @@ entries:
   word: 은제
 - pos: 명사
   word: 은총
+- pos: 조사
+  word: 은커녕
 - pos: 명사
   word: 은퇴
 - pos: 명사
@@ -73393,6 +73613,12 @@ entries:
   word: 은혼식
 - pos: 명사
   word: 은화
+- pos: 조사
+  word: 을
+- pos: 조사
+  word: 을랑
+- pos: 조사
+  word: 을랑은
 - pos: 동사
   word: 을러대다
 - pos: 동사
@@ -73788,6 +74014,8 @@ entries:
 - pos: 명사
   word: 의
 - pos: 명사
+  word: 의
+- pos: 조사
   word: 의
 - pos: 명사
   word: 의거
@@ -74209,6 +74437,8 @@ entries:
   word: 이
 - pos: 명사
   word: 이
+- pos: 조사
+  word: 이
 - pos: 명사
   word: 이간
 - pos: 명사
@@ -74235,6 +74465,8 @@ entries:
   word: 이견
 - pos: 명사
   word: 이경
+- pos: 조사
+  word: 이고
 - pos: 명사
   word: 이골
 - pos: 대명사
@@ -74303,7 +74535,11 @@ entries:
   word: 이끌리다
 - pos: 명사
   word: 이끼
+- pos: 조사
+  word: 이나
 - pos: 부사
+  word: 이나마
+- pos: 조사
   word: 이나마
 - pos: 부사
   word: 이나저나
@@ -74343,11 +74579,17 @@ entries:
   word: 이농하다
 - pos: 명사
   word: 이뇨제
+- pos: 조사
+  word: 이니
 - pos: 명사
   word: 이니셜
 - pos: 명사
   word: 이닝
 - pos: 동사
+  word: 이다
+- pos: 조사
+  word: 이다
+- pos: 조사
   word: 이다
 - pos: 명사
   word: 이다음
@@ -74399,6 +74641,10 @@ entries:
   word: 이두
 - pos: 명사
   word: 이득
+- pos: 조사
+  word: 이든
+- pos: 조사
+  word: 이든지
 - pos: 명사
   word: 이듬해
 - pos: 명사
@@ -74425,11 +74671,29 @@ entries:
   word: 이때
 - pos: 부사
   word: 이때껏
+- pos: 조사
+  word: 이라
+- pos: 조사
+  word: 이라고
+- pos: 조사
+  word: 이라도
+- pos: 조사
+  word: 이라든가
+- pos: 조사
+  word: 이라든지
+- pos: 조사
+  word: 이라야
+- pos: 조사
+  word: 이라야만
 - pos: 명사
   word: 이라크
 - pos: 명사
   word: 이란
+- pos: 조사
+  word: 이란
 - pos: 명사
+  word: 이랑
+- pos: 조사
   word: 이랑
 - pos: 명사
   word: 이래
@@ -74625,7 +74889,11 @@ entries:
   word: 이맥스
 - pos: 명사
   word: 이메일
+- pos: 조사
+  word: 이며
 - pos: 명사
+  word: 이면
+- pos: 조사
   word: 이면
 - pos: 명사
   word: 이면지
@@ -74885,6 +75153,8 @@ entries:
   word: 이승
 - pos: 명사
   word: 이승만
+- pos: 조사
+  word: 이시여
 - pos: 명사
   word: 이식
 - pos: 동사
@@ -74915,6 +75185,8 @@ entries:
   word: 이앙기
 - pos: 감탄사
   word: 이야
+- pos: 조사
+  word: 이야
 - pos: 명사
   word: 이야기
 - pos: 명사
@@ -74930,6 +75202,8 @@ entries:
 - pos: 명사
   word: 이야깃거리
 - pos: 부사
+  word: 이야말로
+- pos: 조사
   word: 이야말로
 - pos: 명사
   word: 이양
@@ -74955,6 +75229,8 @@ entries:
   word: 이어폰
 - pos: 부사
   word: 이에
+- pos: 조사
+  word: 이여
 - pos: 명사
   word: 이역만리
 - pos: 명사
@@ -76229,6 +76505,10 @@ entries:
   word: 일람
 - pos: 명사
   word: 일람표
+- pos: 조사
+  word: 일랑
+- pos: 조사
+  word: 일랑은
 - pos: 명사
   word: 일러두기
 - pos: 동사
@@ -76727,6 +77007,8 @@ entries:
   word: 일행
 - pos: 명사
   word: 일화
+- pos: 명사
+  word: 일확천금
 - pos: 명사
   word: 일확천금
 - pos: 명사
@@ -78656,7 +78938,7 @@ entries:
   word: 잘못짚다
 - pos: 동사
   word: 잘못하다
-- pos: 형용사
+- pos: 동사
   word: 잘빠지다
 - pos: 동사
   word: 잘살다
@@ -83763,6 +84045,8 @@ entries:
 - pos: 명사
   word: 제철
 - pos: 명사
+  word: 제철
+- pos: 명사
   word: 제철소
 - pos: 명사
   word: 제청
@@ -84538,6 +84822,8 @@ entries:
   word: 조쯤
 - pos: 부사
   word: 조쯤
+- pos: 조사
+  word: 조차
 - pos: 명사
   word: 조찬
 - pos: 명사
@@ -84850,7 +85136,7 @@ entries:
   word: 좁디좁다
 - pos: 명사
   word: 좁쌀
-- pos: 형용사
+- pos: 동사
   props:
   - 용언합성
   word: 좁아터지다
@@ -85979,6 +86265,8 @@ entries:
 - pos: 명사
   word: 주주총회
 - pos: 명사
+  word: 주중
+- pos: 명사
   word: 주지
 - pos: 명사
   word: 주지
@@ -86786,7 +87074,7 @@ entries:
   word: 중임되다
 - pos: 동사
   word: 중임하다
-- pos: 명사
+- pos: 동사
   word: 중임하다
 - pos: 명사
   word: 중장
@@ -87300,6 +87588,8 @@ entries:
   word: 지각생
 - pos: 명사
   word: 지각운동
+- pos: 동사
+  word: 지각하다
 - pos: 동사
   word: 지각하다
 - pos: 명사
@@ -91352,6 +91642,8 @@ entries:
   word: 처담다
 - pos: 형용사
   word: 처량하다
+- pos: 조사
+  word: 처럼
 - pos: 명사
   word: 처리
 - pos: 명사
@@ -94908,8 +95200,14 @@ entries:
   word: 치
 - pos: 명사
   word: 치
+- pos: 조사
+  word: 치고
+- pos: 조사
+  word: 치고는
 - pos: 동사
   word: 치고받다
+- pos: 조사
+  word: 치고서
 - pos: 명사
   word: 치골
 - pos: 명사
@@ -95166,6 +95464,8 @@ entries:
   word: 치켜뜨다
 - pos: 동사
   word: 치켜세우다
+- pos: 동사
+  word: 치켜올리다
 - pos: 동사
   word: 치키다
 - pos: 명사
@@ -95836,6 +96136,8 @@ entries:
   word: 캥거루
 - pos: 명사
   word: 커넥터
+- pos: 조사
+  word: 커녕
 - pos: 명사
   word: 커닝
 - pos: 동사
@@ -96046,6 +96348,8 @@ entries:
   word: 코린내
 - pos: 명사
   word: 코맹맹이
+- pos: 명사
+  word: 코멘트
 - pos: 명사
   word: 코미디
 - pos: 명사
@@ -97978,6 +98282,8 @@ entries:
   word: 토로
 - pos: 동사
   word: 토로하다
+- pos: 조사
+  word: 토록
 - pos: 명사
   word: 토론
 - pos: 동사
@@ -98999,6 +99305,8 @@ entries:
 - pos: 동사
   word: 튀다
 - pos: 명사
+  word: 튀르키예
+- pos: 명사
   word: 튀밥
 - pos: 동사
   props:
@@ -99210,6 +99518,8 @@ entries:
   word: 특정되다
 - pos: 명사
   word: 특정인
+- pos: 동사
+  word: 특정하다
 - pos: 형용사
   word: 특정하다
 - pos: 명사
@@ -102926,6 +103236,10 @@ entries:
   word: 하계
 - pos: 명사
   word: 하계
+- pos: 조사
+  word: 하고
+- pos: 조사
+  word: 하고는
 - pos: 형용사
   props:
   - 용언합성
@@ -103103,6 +103417,8 @@ entries:
   word: 하마터면
 - pos: 명사
   word: 하마평
+- pos: 조사
+  word: 하며
 - pos: 명사
   word: 하명
 - pos: 동사
@@ -103961,6 +104277,16 @@ entries:
   word: 한턱
 - pos: 동사
   word: 한턱내다
+- pos: 조사
+  word: 한테
+- pos: 조사
+  word: 한테다
+- pos: 조사
+  word: 한테다가
+- pos: 조사
+  word: 한테로
+- pos: 조사
+  word: 한테서
 - pos: 명사
   word: 한통
 - pos: 명사

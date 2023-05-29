@@ -2,7 +2,7 @@
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=185690&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:08:56+09:00'
+    가져온 시각: '2023-05-01T04:31:09+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -10,6 +10,20 @@ import:
     의미:
     - 뜻풀이: 점토(粘土)가 굳어져 이루어진 수성암(水成巖). 회색이나 검은 갈색을 띠며, 흔히 얇은 층(層)으로 되어 잘 벗겨지는 성질이 있다.
       분류: 광업
+      어휘정보:
+      - 기준: 의미
+        단어: 이판-암
+        대상항목ID: 542388
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=269856&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 혈암
+        대상항목ID: 366463
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=370229&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 점토(粘土)가 굳어져 이루어진 수성암(水成巖). 회색이나 검은 갈색을 띠며, 흔히 얇은 층(層)으로 되어 잘 벗겨지는 성질이
+        있다.
+      의미코드: 425833
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -24,7 +38,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=447440&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:08:56+09:00'
+    가져온 시각: '2023-05-01T04:31:09+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -37,6 +51,16 @@ import:
       - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=100175
         종류: 삽화
       분류: 동물
+      어휘정보:
+      - 기준: 의미
+        단어: 독일-셰퍼드
+        대상항목ID: 589086
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=509915&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 개 품종의 하나. 늑대와 비슷한데 어깨높이는 60cm, 몸무게는 40kg 정도이며, 털의 색깔은 검은색, 회색, 갈색 따위이다.
+        몸은 근육질이고 주둥이는 뾰족한데 귀는 똑바로 서 있다. 용감하고 영리하며 주인에게 충성스럽고 특히 후각이 예민하다. 원래는 목양견이었는데
+        번견(番犬), 경찰견, 군용견, 맹도견 따위로 쓴다. 독일이 원산지이다.
+      의미코드: 197148
       종류: 일반어
       품사: 명사
     종류: 외래어

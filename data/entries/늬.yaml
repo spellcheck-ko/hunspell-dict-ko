@@ -2,11 +2,11 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=63280
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/nilriri.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2006/nilriri.wav
       발음: 닐리리
     어휘 등급: 없음
     의미:
@@ -34,13 +34,22 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=410516&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:11:33+09:00'
+    가져온 시각: '2023-05-01T02:31:59+09:00'
     구분: 단어
     발음:
     - 닐리리야
     의미:
     - 뜻풀이: ‘늴리리야’를 후렴구로 가진 경기 민요의 하나. 본래 창부 타령이었던 것이 변하여 된 것으로, 굿거리장단으로 부른다.
       분류: 음악
+      어휘정보:
+      - 기준: 의미
+        단어: 늴리리^타령
+        대상항목ID: 528112
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=71364&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: ‘<sense_no>344442</sense_no>늴리리야’를 후렴구로 가진 경기 민요의 하나. 본래 창부 타령이었던 것이 변하여
+        된 것으로, 굿거리장단으로 부른다.
+      의미코드: 344442
       종류: 일반어
       품사: 명사
     종류: 고유어
@@ -55,12 +64,20 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=406526&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:11:33+09:00'
+    가져온 시각: '2023-05-01T02:31:59+09:00'
     구분: 단어
     발음:
     - 닝큼
+    어휘정보:
+    - 기준: 어휘
+      단어: 냉큼
+      대상항목ID: 404505
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=404505&searchKeywordTo=3
+      종류: 참고 어휘
     의미:
     - 뜻풀이: 머뭇거리지 않고 단번에 빨리.
+      원뜻풀이: 머뭇거리지 않고 단번에 빨리.
+      의미코드: 123456
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -75,12 +92,20 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=71368&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:11:33+09:00'
+    가져온 시각: '2023-05-01T02:31:59+09:00'
     구분: 단어
     발음:
     - 닝큼닝큼
+    어휘정보:
+    - 기준: 어휘
+      단어: 냉큼-냉큼
+      대상항목ID: 63398
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=63398&searchKeywordTo=3
+      종류: 참고 어휘
     의미:
     - 뜻풀이: 머뭇거리지 않고 잇따라 빨리.
+      원뜻풀이: 머뭇거리지 않고 잇따라 빨리.
+      의미코드: 123457
       종류: 일반어
       품사: 부사
     종류: 고유어

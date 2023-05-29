@@ -2,11 +2,11 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85817
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang.wav
       발음: 향
     어휘 등급: 중급
     원어: 香
@@ -75,11 +75,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85818
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyangga.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyangga.wav
       발음: 향가
     어휘 등급: 없음
     원어: 鄕歌
@@ -114,11 +114,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92317
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
-    원어: 香 그럽다
+    원어: 香그럽다
     의미:
     - 뜻풀이: → 향기롭다
       의미ID: 1
@@ -133,11 +133,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85073
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyanggeutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyanggeutada.wav
       발음: 향그타다
     어휘 등급: 없음
     의미:
@@ -178,11 +178,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72483
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyanggi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyanggi.wav
       발음: 향기
     어휘 등급: 중급
     원어: 香氣
@@ -229,14 +229,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85074
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyanggiroptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyanggiroptta.wav
       발음: 향기롭따
     어휘 등급: 고급
-    원어: 香氣 롭다
+    원어: 香氣롭다
     의미:
     - 뜻풀이: 좋은 냄새가 있다.
       문형: 1이 향기롭다
@@ -259,10 +259,10 @@ import:
     - 발음: 향기로운
       형태: 향기로운
     - 발음: 향기로워
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85074_hyanggirowo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85074_hyanggirowo.wav
       형태: 향기로워
     - 발음: 향기로우니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85074_hyanggirouni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85074_hyanggirouni.wav
       형태: 향기로우니
     - 발음: 향기롭씀니다
       형태: 향기롭습니다
@@ -277,7 +277,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=503434&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향나무
@@ -292,6 +292,16 @@ import:
       - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103817
         종류: 사진
       분류: 식물
+      어휘정보:
+      - 기준: 의미
+        단어: 향목
+        대상항목ID: 319241
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=373148&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 측백나뭇과의 상록 침엽 교목. 높이는 20미터 정도이며, 잎은 마주나거나 돌려나고 비늘 조각 또는 바늘 모양이다. 4월에 단성화가
+        가지 끝에 피고 열매는 구과(毬果)로 다음 해 10월에 익는다. 재목은 조각재, 가구재, 향료로 쓰며 약용한다. 산기슭이나 평지에서
+        자라는데 한국, 일본, 만주 등지에 분포한다.
+      의미코드: 439417
       종류: 일반어
       품사: 명사
       학명: Juniperus chinensis
@@ -307,7 +317,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=369289&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향낭
@@ -318,6 +328,20 @@ import:
     - 뜻풀이: 사향노루의 수컷이나 사향고양이 따위의 생식샘 부근에 있는 달걀 모양의 분비샘. 번식기에만 발달하는데 사향을 분비하여 이성(異性)을
         유인하는 구실을 한다. 말려서 사향 또는 영묘향을 만든다.
       분류: 동물
+      어휘정보:
+      - 기준: 의미
+        단어: 향-주머니
+        대상항목ID: 317543
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=506422&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 사향-샘
+        대상항목ID: 187804
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=172398&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 사향노루의 수컷이나 사향고양이 따위의 생식샘 부근에 있는 달걀 모양의 분비샘. 번식기에만 발달하는데 사향을 분비하여 이성(異性)을
+        유인하는 구실을 한다. 말려서 사향 또는 영묘향을 만든다.
+      의미코드: 557770
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -332,14 +356,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85075
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyangnae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyangnae.wav
       발음: 향내
     어휘 등급: 없음
-    원어: 香 내
+    원어: 香내
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -394,14 +418,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85076
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyangnaemsae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyangnaemsae.wav
       발음: 향냄새
     어휘 등급: 없음
-    원어: 香 냄새
+    원어: 香냄새
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -432,11 +456,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85077
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyang-nyeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyang-nyeon.wav
       발음: 향ː년
     어휘 등급: 없음
     원어: 享年
@@ -465,11 +489,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85078
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-nak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-nak.wav
       발음: 향ː낙
     어휘 등급: 없음
     원어: 享樂
@@ -497,13 +521,13 @@ import:
     항목ID: 85078
     활용:
     - 발음: 향ː나기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85078_hyang-nagi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85078_hyang-nagi.wav
       형태: 향락이
     - 발음: 향ː낙또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85078_hyang-naktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85078_hyang-naktto.wav
       형태: 향락도
     - 발음: 향ː낭만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85078_hyang-nangman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85078_hyang-nangman.wav
       형태: 향락만
 result:
   맞춤법 검사:
@@ -514,11 +538,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85079
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-nakjjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-nakjjeok.wav
       발음: 향ː낙쩍
     어휘 등급: 없음
     원어: 享樂的
@@ -548,11 +572,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85082
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-nakjjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-nakjjeok.wav
       발음: 향ː낙쩍
     어휘 등급: 없음
     원어: 享樂的
@@ -583,7 +607,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=503627&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향ː낙쭈의
@@ -594,6 +618,19 @@ import:
     의미:
     - 뜻풀이: 쾌락의 추구를 인생의 목적으로 하는 생활 방식. 고통을 피하고 낙(樂)으로 인생을 즐기려는 태도이다.
       분류: 철학
+      어휘정보:
+      - 기준: 의미
+        단어: 향락-설
+        대상항목ID: 28535
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=365455&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 향락-설
+        대상항목ID: 59126
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=365455&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 쾌락의 추구를 인생의 목적으로 하는 생활 방식. 고통을 피하고 낙(樂)으로 인생을 즐기려는 태도이다.
+      의미코드: 59127
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -608,11 +645,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85083
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyangno.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyangno.wav
       발음: 향노
     어휘 등급: 없음
     원어: 香爐
@@ -645,11 +682,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85084
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyangnyo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyangnyo.wav
       발음: 향뇨
     어휘 등급: 없음
     원어: 香料
@@ -680,11 +717,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85085
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyang-bang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyang-bang.wav
       발음: 향ː방
     어휘 등급: 없음
     원어: 向方
@@ -726,11 +763,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85086
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyang-bae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyang-bae.wav
       발음: 향ː배
     어휘 등급: 없음
     원어: 向背
@@ -761,11 +798,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85087
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-sang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-sang.wav
       발음: 향ː상
     어휘 등급: 중급
     원어: 向上
@@ -798,16 +835,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85089
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-sangdoeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-sangdoeda.wav
       발음: 향ː상되다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-sangdweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-sangdweda.wav
       발음: 향ː상뒈다
     어휘 등급: 없음
-    원어: 向上 되다
+    원어: 向上되다
     의미:
     - 뜻풀이: 실력, 수준, 기술 등이 더 나아지다.
       문형: 1이 향상되다
@@ -839,14 +876,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85090
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-sanghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-sanghada.wav
       발음: 향ː상하다
     어휘 등급: 없음
-    원어: 向上 하다
+    원어: 向上하다
     의미:
     - 뜻풀이: 실력, 수준, 기술 등이 더 나아지다. 또는 나아지게 하다.
       문형: 1이 2를 향상하다
@@ -876,11 +913,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73067
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyangsu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyangsu.wav
       발음: 향수
     어휘 등급: 중급
     원어: 香水
@@ -915,11 +952,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93422
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyangsu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyangsu.wav
       발음: 향수
     어휘 등급: 고급
     원어: 鄕愁
@@ -950,11 +987,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85091
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyangsuppyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyangsuppyeong.wav
       발음: 향수뼝
     어휘 등급: 없음
     원어: 鄕愁病
@@ -984,11 +1021,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85092
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyangsinnyo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyangsinnyo.wav
       발음: 향신뇨
     어휘 등급: 없음
     원어: 香辛料
@@ -1018,7 +1055,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=370290&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향안
@@ -1030,6 +1067,14 @@ import:
       멀티미디어:
       - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=103868
         종류: 사진
+      어휘정보:
+      - 기준: 의미
+        단어: 향상02
+        대상항목ID: 315895
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=370348&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 제사 때에 향로나 향합(香盒)을 올려놓는 상.
+      의미코드: 512925
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -1044,7 +1089,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=505790&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향약
@@ -1055,6 +1100,9 @@ import:
     - 뜻풀이: 조선 시대에, 권선징악과 상부상조를 목적으로 만든 향촌의 자치 규약. 중국 송나라 때의 여씨향약(呂氏鄕約)을 본뜬 것으로, 조선
         중종 때 조광조를 비롯한 사림파의 주장으로 추진되어 영ㆍ정조 때까지 전국 각지에서 실시하였다.
       분류: 역사
+      원뜻풀이: 조선 시대에, 권선징악과 상부상조를 목적으로 만든 향촌의 자치 규약. 중국 송나라 때의 여씨향약(呂氏鄕約)을 본뜬 것으로, 조선
+        중종 때 조광조를 비롯한 사림파의 주장으로 추진되어 영ㆍ정조 때까지 전국 각지에서 실시하였다.
+      의미코드: 586280
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -1071,11 +1119,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85093
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyang-yeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyang-yeon.wav
       발음: 향ː연
     어휘 등급: 없음
     원어: 饗宴
@@ -1108,11 +1156,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85094
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyang-yu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyang-yu.wav
       발음: 향ː유
     어휘 등급: 없음
     원어: 享有
@@ -1144,7 +1192,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=371204&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향유고래
@@ -1156,6 +1204,21 @@ import:
         머리 앞 끝은 칼로 자른 것처럼 뭉툭하고 꼬리지느러미발이 크며 아래턱에만 50쌍 정도의 둥근 원뿔 모양의 이가 나 있다. 전 세계에
         분포한다.
       분류: 동물
+      어휘정보:
+      - 기준: 의미
+        단어: 말향-경
+        대상항목ID: 144867
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=110252&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 말향-고래
+        대상항목ID: 144869
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=110480&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 향유고랫과의 포유류. 몸의 길이는 11~20미터이며, 몸무게는 20~27톤 정도이다. 등 쪽은 검은 회색, 배 쪽은 연한 붉은색이다.
+        머리 앞 끝은 칼로 자른 것처럼 뭉툭하고 꼬리지느러미발이 크며 아래턱에만 50쌍 정도의 둥근 원뿔 모양의 이가 나 있다. 전 세계에
+        분포한다.
+      의미코드: 317098
       종류: 일반어
       품사: 명사
       학명: Physeter catodon
@@ -1171,14 +1234,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85096
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyang-yuhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyang-yuhada.wav
       발음: 향ː유하다
     어휘 등급: 없음
-    원어: 享有 하다
+    원어: 享有하다
     의미:
     - 뜻풀이: 좋은 것을 가져서 누리다.
       문형: 1이 2를 향유하다
@@ -1209,11 +1272,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85097
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyang-eung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyang-eung.wav
       발음: 향ː응
     어휘 등급: 없음
     원어: 饗應
@@ -1243,14 +1306,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85098
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85098_hyang-eunghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85098_hyang-eunghada.wav
       발음: 향ː응하다
     어휘 등급: 없음
-    원어: 饗應 하다
+    원어: 饗應하다
     의미:
     - 뜻풀이: 특별히 극진하게 대접하다.
       문형: 1이 2를 향응하다
@@ -1275,7 +1338,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=372090&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향임
@@ -1285,6 +1348,14 @@ import:
     의미:
     - 뜻풀이: 향소(鄕所)의 일을 맡아보던 사람. 이에는 좌수(座首), 별감(別監) 따위가 있다.
       분류: 역사
+      어휘정보:
+      - 기준: 의미
+        단어: 향원02
+        대상항목ID: 316887
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=371195&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 향소(鄕所)의 일을 맡아보던 사람. 이에는 좌수(座首), 별감(別監) 따위가 있다.
+      의미코드: 476199
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -1299,7 +1370,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=506422&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향쭈머니
@@ -1308,6 +1379,14 @@ import:
       원어: 주머니
     의미:
     - 뜻풀이: 향을 넣어 몸에 차는 주머니.
+      어휘정보:
+      - 기준: 의미
+        단어: 향낭
+        대상항목ID: 554272
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=369289&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 향을 넣어 몸에 차는 주머니.
+      의미코드: 317543
       종류: 일반어
       품사: 명사
     종류: 혼종어
@@ -1322,16 +1401,29 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=503431&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향찰
+    어휘정보:
+    - 기준: 어휘
+      단어: 구결01
+      대상항목ID: 34640
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=34640&searchKeywordTo=3
+      종류: 참고 어휘
+    - 기준: 어휘
+      단어: 이두01
+      대상항목ID: 268298
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=268298&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 한자
       원어: 鄕札
     의미:
     - 뜻풀이: 신라 때에, 한자의 음과 뜻을 빌려 국어 문장 전체를 적은 표기법. 특히 향가의 표기에 쓴 것을 이른다.
       분류: 언어
+      원뜻풀이: 신라 때에, 한자의 음과 뜻을 빌려 국어 문장 전체를 적은 표기법. 특히 향가의 표기에 쓴 것을 이른다.
+      의미코드: 317785
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -1346,11 +1438,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85099
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyangchon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyangchon.wav
       발음: 향촌
     어휘 등급: 없음
     원어: 鄕村
@@ -1381,11 +1473,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85100
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyangchwi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyangchwi.wav
       발음: 향취
     어휘 등급: 없음
     원어: 香臭
@@ -1426,11 +1518,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85101
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2005/hyangto.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2005/hyangto.wav
       발음: 향토
     어휘 등급: 없음
     원어: 鄕土
@@ -1474,7 +1566,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=375769&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:47:43+09:00'
+    가져온 시각: '2023-05-01T07:40:19+09:00'
     구분: 단어
     발음:
     - 향토사
@@ -1484,6 +1576,14 @@ import:
     의미:
     - 뜻풀이: 향토에 관한 역사.
       분류: 역사
+      어휘정보:
+      - 기준: 의미
+        단어: 지방-사
+        대상항목ID: 280520
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=308250&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 향토에 관한 역사.
+      의미코드: 318025
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -1498,11 +1598,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85103
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyangtosaek.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyangtosaek.wav
       발음: 향토색
     어휘 등급: 없음
     원어: 鄕土色
@@ -1525,13 +1625,13 @@ import:
     항목ID: 85103
     활용:
     - 발음: 향토새기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85103_hyangtosaegi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85103_hyangtosaegi.wav
       형태: 향토색이
     - 발음: 향토색또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85103_hyangtosaektto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85103_hyangtosaektto.wav
       형태: 향토색도
     - 발음: 향토생만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/85103_hyangtosaengman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/85103_hyangtosaengman.wav
       형태: 향토색만
 result:
   맞춤법 검사:
@@ -1542,14 +1642,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89810
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-hada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-hada.wav
       발음: 향ː하다
     어휘 등급: 중급
-    원어: 向 하다
+    원어: 向하다
     의미:
     - 뜻풀이: 어느 쪽을 정면이 되게 대하다.
       문형: 1이 2에/에게/로/를 향하다
@@ -1619,11 +1719,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85104
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-hangnyeol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-hangnyeol.wav
       발음: 향ː항녈
     어휘 등급: 없음
     원어: 向學熱
@@ -1654,11 +1754,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=85105
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/hieut_2006/hyang-hu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/hieut_2006/hyang-hu.wav
       발음: 향ː후
     어휘 등급: 고급
     원어: 向後

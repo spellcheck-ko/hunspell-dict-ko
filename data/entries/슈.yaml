@@ -2,7 +2,7 @@
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=446926&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:16:14+09:00'
+    가져온 시각: '2023-05-01T04:44:40+09:00'
     구분: 단어
     원어:
       언어: 안 밝힘
@@ -11,6 +11,9 @@ import:
     - 뜻풀이: 오스트리아의 물리학자(1887~1961). 물질 파동(物質波動) 개념을 기초로, 슈뢰딩거 방정식을 발견하여 파동 역학을 수립하였다.
         1933년 노벨 물리학상을 받았으며, 저서에 ≪파동에 관한 연구≫가 있다.
       분류: 인명
+      원뜻풀이: 오스트리아의 물리학자(1887~1961). 물질 파동(物質波動) 개념을 기초로, 슈뢰딩거 방정식을 발견하여 파동 역학을 수립하였다.
+        1933년 노벨 물리학상을 받았으며, 저서에 ≪파동에 관한 연구≫가 있다.
+      의미코드: 353754
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -25,13 +28,15 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=203330&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:16:14+09:00'
+    가져온 시각: '2023-05-01T04:44:40+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: cream
     의미:
     - 뜻풀이: 서양 과자의 하나. 반죽한 밀가루를 구워 내어 그 속에 크림을 넣어 만든다.
+      원뜻풀이: 서양 과자의 하나. 반죽한 밀가루를 구워 내어 그 속에 크림을 넣어 만든다.
+      의미코드: 208280
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -46,7 +51,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65275
-    가져온 시각: '2019-09-05T09:42:20+09:00'
+    가져온 시각: '2023-05-01T01:45:29+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -81,7 +86,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65285
-    가져온 시각: '2019-09-05T09:42:20+09:00'
+    가져온 시각: '2023-05-01T01:45:29+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -120,7 +125,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62509
-    가져온 시각: '2019-09-05T09:42:20+09:00'
+    가져온 시각: '2023-05-01T01:45:29+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 초급
@@ -162,7 +167,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65287
-    가져온 시각: '2019-09-05T09:42:20+09:00'
+    가져온 시각: '2023-05-01T01:45:29+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -193,7 +198,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65517
-    가져온 시각: '2019-09-05T09:42:20+09:00'
+    가져온 시각: '2023-05-01T01:45:29+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -224,14 +229,32 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=450973&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:16:14+09:00'
+    가져온 시각: '2023-05-01T04:44:40+09:00'
     구분: 단어
+    어휘정보:
+    - 기준: 어휘
+      단어: 마이크로-컴퓨터
+      대상항목ID: 420416
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=420416&searchKeywordTo=3
+      종류: 참고 어휘
+    - 기준: 어휘
+      단어: 메인^프레임^컴퓨터
+      대상항목ID: 421083
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=421083&searchKeywordTo=3
+      종류: 참고 어휘
+    - 기준: 어휘
+      단어: 미니컴퓨터
+      대상항목ID: 425324
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=425324&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 영어
       원어: supercomputer
     의미:
     - 뜻풀이: 많은 양의 데이터를 초고속으로 처리할 수 있는 컴퓨터. 연산 속도가 빠르며, 기상 예보ㆍ우주 개발ㆍ원자력 계산 따위에 쓰인다.
       분류: 정보·통신
+      원뜻풀이: 많은 양의 데이터를 초고속으로 처리할 수 있는 컴퓨터. 연산 속도가 빠르며, 기상 예보ㆍ우주 개발ㆍ원자력 계산 따위에 쓰인다.
+      의미코드: 500950
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -246,7 +269,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65290
-    가져온 시각: '2019-09-05T09:42:20+09:00'
+    가져온 시각: '2023-05-01T01:45:29+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -283,14 +306,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65294
-    가져온 시각: '2019-09-05T09:42:20+09:00'
+    가져온 시각: '2023-05-01T01:45:29+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2012/20000/017134.mp3
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2012/20000/017134.mp3
       발음: ''
     어휘 등급: 없음
-    원어: shoot 하다
+    원어: shoot하다
     의미:
     - 뜻풀이: 축구나 농구 등 공을 사용하는 경기에서 골이나 바스켓으로 공을 차거나 던지다.
       문형: 1이 슛하다

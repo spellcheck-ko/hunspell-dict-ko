@@ -2,9 +2,9 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72700
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
-    동형어 번호: 2
+    동형어 번호: 1
     어휘 등급: 중급
     원어: 員
     의미:
@@ -20,7 +20,6 @@ import:
       - 공작원
       - 교직원
       - 기관원
-      - 노조원
       - 매표원
       - 미화원
       - 배달원
@@ -34,7 +33,6 @@ import:
       - 연구원
       - 외판원
       - 종업원
-      - 은행원
       - 정보원
       - 조사원
       - 주재원
@@ -42,8 +40,16 @@ import:
       - 통신원
       - 특파원
       - 판매원
-      - 회사원
       의미ID: 1
+    - 뜻풀이: '''그 조직이나 단체 등을 이루고 있는 사람''의 뜻을 더하는 접미사.'
+      용례.구:
+      - 가족원
+      - 구성원
+      - 노조원
+      - 은행원
+      - 조직원
+      - 회사원
+      의미ID: 2
     주제 및 상황 범주: 인간 > 사람의 종류
     참고: 일부 명사 뒤에 붙는다.
     표제어: -원
@@ -57,9 +63,9 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72701
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
-    동형어 번호: 1
+    동형어 번호: 2
     어휘 등급: 중급
     원어: 院
     의미:
@@ -93,7 +99,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72702
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 3
     어휘 등급: 고급
@@ -122,11 +128,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68791
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/21000/68791_wo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/21000/68791_wo.wav
       발음: 워
     어휘 등급: 없음
     의미:
@@ -144,11 +150,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26711
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonak.wav
       발음: 워낙
     어휘 등급: 중급
     의미:
@@ -194,7 +200,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=464854&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     원어:
       언어: 안 밝힘
@@ -203,6 +209,9 @@ import:
     - 뜻풀이: 미국의 선원(1831~1862). 1860년 중국 상하이에서 거상(巨商) 양방(楊坊)을 도와 외인부대를 조직하고, 이홍장과 협력하여
         태평천국군을 무찔렀다. 그 부대는 ‘상승군’이란 이름을 얻었다.
       분류: 인명
+      원뜻풀이: 미국의 선원(1831~1862). 1860년 중국 상하이에서 거상(巨商) 양방(楊坊)을 도와 외인부대를 조직하고, 이홍장과 협력하여
+        태평천국군을 무찔렀다. 그 부대는 ‘상승군’이란 이름을 얻었다.
+      의미코드: 242365
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -217,7 +226,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=251124&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 구
     원어:
       언어: 영어
@@ -225,6 +234,14 @@ import:
     의미:
     - 뜻풀이: 컴퓨터를 이용하여 문서의 작성ㆍ수정ㆍ조작 및 인쇄를 할 수 있게 해 주는 프로그램.
       분류: 정보·통신
+      어휘정보:
+      - 기준: 의미
+        단어: 워드^프로세싱^프로그램
+        대상항목ID: 242590
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=465032&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 컴퓨터를 이용하여 문서의 작성ㆍ수정ㆍ조작 및 인쇄를 할 수 있게 해 주는 프로그램.
+      의미코드: 372975
       종류: 일반어
       품사: 품사 없음
     종류: 외래어
@@ -246,7 +263,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=247327&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     원어:
       언어: 안 밝힘
@@ -255,6 +272,9 @@ import:
     - 뜻풀이: 미국의 초대 대통령(1732~1799). 건국의 아버지로 불린다. 대통령 취임 후에는 연방 정부의 기초 확립에 노력하였고, 프랑스
         혁명에 따른 영불(英佛) 전쟁 때는 중립을 지켰다. 3선을 끝내 사양하고 은퇴하였다. 재임 기간은 1789~1797년이다.
       분류: 인명
+      원뜻풀이: 미국의 초대 대통령(1732~1799). 건국의 아버지로 불린다. 대통령 취임 후에는 연방 정부의 기초 확립에 노력하였고, 프랑스
+        혁명에 따른 영불(英佛) 전쟁 때는 중립을 지켰다. 3선을 끝내 사양하고 은퇴하였다. 재임 기간은 1789~1797년이다.
+      의미코드: 242793
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -269,12 +289,20 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=252276&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 워ː워
+    어휘정보:
+    - 기준: 어휘
+      단어: 와-와
+      대상항목ID: 465915
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=465915&searchKeywordTo=3
+      종류: 참고 어휘
     의미:
     - 뜻풀이: ‘우어우어’의 준말.
+      원뜻풀이: ‘<sense_no>243118</sense_no>우어우어’의 준말.
+      의미코드: 242799
       종류: 일반어
       품사: 감탄사
     종류: 고유어
@@ -289,11 +317,12 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1376782
-    가져온 시각: '2019-08-05T00:17:45+09:00'
+    가져온 시각: '2023-05-01T17:20:47+09:00'
     구분: 어휘
     뜻풀이: 모든 군사적 긴급 사태에 즉각 대응할 수 있도록 평상시부터 전시까지 다섯 단계로 나눈 정보 감시 태세. ⇒규범 표기는 미확정이다.
     분류: 군사
     어원: Watch Condition
+    원뜻풀이: 모든 군사적 긴급 사태에 즉각 대응할 수 있도록 평상시부터 전시까지 다섯 단계로 나눈 정보 감시 태세. ⇒규범 표기는 미확정이다.
     원어:
       언어: 영어
       원어: WATCHCON
@@ -311,7 +340,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69871
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     검색용 이형태: 워크샵, 워크샾, 웍숍, 웍샵, 웍숖, 웍샾
     구분: 단어
     동형어 번호: 0
@@ -345,7 +374,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=72699
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 고급
@@ -373,11 +402,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69828
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 4
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won.wav
       발음: 원
     어휘 등급: 없음
     의미:
@@ -404,11 +433,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26713
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won.wav
       발음: 원
     어휘 등급: 중급
     원어: 圓
@@ -436,11 +465,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91853
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-.wav
       발음: 원ː
     어휘 등급: 없음
     원어: 願
@@ -475,11 +504,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=27771
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won.wav
       발음: 원
     어휘 등급: 초급
     의미:
@@ -513,11 +542,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69829
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/wonkka.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/wonkka.wav
       발음: 원까
     어휘 등급: 고급
     원어: 原價
@@ -562,11 +591,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69830
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-geori.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-geori.wav
       발음: 원ː거리
     어휘 등급: 없음
     원어: 遠距離
@@ -610,11 +639,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69831
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-gyeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-gyeok.wav
       발음: 원ː격
     어휘 등급: 고급
     원어: 遠隔
@@ -639,13 +668,13 @@ import:
     항목ID: 69831
     활용:
     - 발음: 원ː겨기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69831_won-gyeogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69831_won-gyeogi.wav
       형태: 원격이
     - 발음: 원ː격또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69831_won-gyeoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69831_won-gyeoktto.wav
       형태: 원격도
     - 발음: 원ː경만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69831_won-gyeongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69831_won-gyeongman.wav
       형태: 원격만
 result:
   맞춤법 검사:
@@ -656,11 +685,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69832
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-gyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-gyeong.wav
       발음: 원ː경
     어휘 등급: 없음
     원어: 遠景
@@ -710,11 +739,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26716
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wongo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wongo.wav
       발음: 원고
     어휘 등급: 고급
     원어: 原告
@@ -749,11 +778,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91717
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wongo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wongo.wav
       발음: 원고
     어휘 등급: 없음
     원어: 原稿
@@ -801,11 +830,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69833
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wongoryo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wongoryo.wav
       발음: 원고료
     어휘 등급: 없음
     원어: 原稿料
@@ -841,11 +870,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69834
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wongoji.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wongoji.wav
       발음: 원고지
     어휘 등급: 없음
     원어: 原稿紙
@@ -882,11 +911,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69835
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-gun.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-gun.wav
       발음: 원ː군
     어휘 등급: 없음
     원어: 援軍
@@ -923,11 +952,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69836
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-gwi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-gwi.wav
       발음: 원ː귀
     어휘 등급: 없음
     원어: 冤鬼
@@ -957,12 +986,12 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69837
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     검색용 이형태: 원그라프
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
-    원어: 圓 graph
+    원어: 圓graph
     의미:
     - 다중 매체 정보:사진:
       - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120122/12623/IMG000101917_700X466.jpg
@@ -1001,11 +1030,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69838
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-geun.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-geun.wav
       발음: 원ː근
     어휘 등급: 없음
     원어: 遠近
@@ -1046,11 +1075,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69839
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/won-geungam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/won-geungam.wav
       발음: 원ː근감
     어휘 등급: 없음
     원어: 遠近感
@@ -1083,11 +1112,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69840
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-geunppeop.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-geunppeop.wav
       발음: 원ːː근뻡
     어휘 등급: 없음
     원어: 遠近法
@@ -1111,13 +1140,13 @@ import:
     항목ID: 69840
     활용:
     - 발음: 원ː근뻐비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69840_won-geunppeobi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69840_won-geunppeobi.wav
       형태: 원근법이
     - 발음: 원ː근뻡또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69840_won-geunppeoptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69840_won-geunppeoptto.wav
       형태: 원근법도
     - 발음: 원ː근뻠만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69840_won-geunppeomman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69840_won-geunppeomman.wav
       형태: 원근법만
 result:
   맞춤법 검사:
@@ -1128,11 +1157,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69841
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wongeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wongeum.wav
       발음: 원금
     어휘 등급: 고급
     원어: 元金
@@ -1173,11 +1202,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69842
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wongi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wongi.wav
       발음: 원기
     어휘 등급: 없음
     원어: 元氣
@@ -1221,14 +1250,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69843
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69843_wongidung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69843_wongidung.wav
       발음: 원기둥
     어휘 등급: 없음
-    원어: 圓 기둥
+    원어: 圓기둥
     의미:
     - 관련어:참고어:
       - 동형어 번호: 0
@@ -1263,7 +1292,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=258321&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원나라
@@ -1274,6 +1303,15 @@ import:
     - 뜻풀이: 1271년에 몽고 제국의 제5대 황제 쿠빌라이가 대도(大都)에 도읍하고 세운 나라. 1279년에 남송을 멸망시키고, 중국 본토를
         중심으로 몽고, 티베트를 영유하여 몽고 지상주의 입장에서 민족적 신분제를 세웠으나 1368년에 주원장을 중심으로 한 한족의 봉기로 망하였다.
       분류: 역사
+      어휘정보:
+      - 기준: 의미
+        단어: 원06
+        대상항목ID: 357384
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=468638&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 1271년에 몽고 제국의 제5대 황제 쿠빌라이가 대도(大都)에 도읍하고 세운 나라. 1279년에 남송을 멸망시키고, 중국 본토를
+        중심으로 몽고, 티베트를 영유하여 몽고 지상주의 입장에서 민족적 신분제를 세웠으나 1368년에 주원장을 중심으로 한 한족의 봉기로 망하였다.
+      의미코드: 241916
       종류: 일반어
       품사: 명사
     종류: 혼종어
@@ -1288,11 +1326,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69844
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonnae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonnae.wav
       발음: 원내
     어휘 등급: 없음
     원어: 院內
@@ -1328,10 +1366,11 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=755096
-    가져온 시각: '2019-08-05T00:17:45+09:00'
+    가져온 시각: '2023-05-01T17:20:47+09:00'
     구분: 구
     뜻풀이: 국회 교섭 단체를 대표하는 국회 의원.
     분류: 정치
+    원뜻풀이: 국회 교섭 단체를 대표하는 국회 의원.
     원어:
       언어: 한자
       원어: 院內代表
@@ -1355,11 +1394,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69845
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonnyeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonnyeon.wav
       발음: 원년
     어휘 등급: 없음
     원어: 元年
@@ -1411,11 +1450,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69846
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wondan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wondan.wav
       발음: 원단
     어휘 등급: 없음
     원어: 元旦
@@ -1446,14 +1485,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69847
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-daehada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-daehada.wav
       발음: 원ː대하다
     어휘 등급: 없음
-    원어: 遠大 하다
+    원어: 遠大하다
     의미:
     - 뜻풀이: 미래에 대한 계획이나 꿈 등이 무척 크다.
       문형: 1이 원대하다
@@ -1494,7 +1533,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=251974&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원동기
@@ -1505,6 +1544,9 @@ import:
     - 뜻풀이: 자연계에 존재하는 수력, 풍력, 조력 따위의 에너지를 기계적 에너지로 바꾸는 장치. 열기관, 수력 기관, 전동기, 가스 터빈,
         원자력 기관 따위가 있다.
       분류: 건설
+      원뜻풀이: 자연계에 존재하는 수력, 풍력, 조력 따위의 에너지를 기계적 에너지로 바꾸는 장치. 열기관, 수력 기관, 전동기, 가스 터빈,
+        원자력 기관 따위가 있다.
+      의미코드: 242609
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -1519,11 +1561,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69848
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/wondongnyeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/wondongnyeok.wav
       발음: 원동녁
     어휘 등급: 고급
     원어: 原動力
@@ -1561,13 +1603,13 @@ import:
     항목ID: 69848
     활용:
     - 발음: 원동녀기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69848_wondongnyeogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69848_wondongnyeogi.wav
       형태: 원동력이
     - 발음: 원동녁또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69848_wondongnyeoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69848_wondongnyeoktto.wav
       형태: 원동력도
     - 발음: 원동녕만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69848_wondongnyeongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69848_wondongnyeongman.wav
       형태: 원동력만
 result:
   맞춤법 검사:
@@ -1578,11 +1620,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69849
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69849_wondu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69849_wondu.wav
       발음: 원두
     어휘 등급: 없음
     원어: 原豆
@@ -1619,11 +1661,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69850
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wondumak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wondumak.wav
       발음: 원두막
     어휘 등급: 없음
     원어: 園頭幕
@@ -1652,13 +1694,13 @@ import:
     항목ID: 69850
     활용:
     - 발음: 원두마기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69850_wondumagi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69850_wondumagi.wav
       형태: 원두막이
     - 발음: 원두막또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69850_wondumaktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69850_wondumaktto.wav
       형태: 원두막도
     - 발음: 원두망만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69850_wondumangman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69850_wondumangman.wav
       형태: 원두막만
 result:
   맞춤법 검사:
@@ -1669,15 +1711,15 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69851
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     검색용 이형태: 원두코피
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2012/10000/008900.mp3
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2012/10000/008900.mp3
       발음: ''
     어휘 등급: 없음
-    원어: 原豆 coffee
+    원어: 原豆coffee
     의미:
     - 뜻풀이: 커피 열매를 볶은 후 갈거나 빻은 가루를 뜨거운 물에 우려내서 마시는 커피.
       용례.구:
@@ -1705,14 +1747,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69852
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69852_wondulle.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69852_wondulle.wav
       발음: 원둘레
     어휘 등급: 없음
-    원어: 圓 둘레
+    원어: 圓둘레
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -1743,14 +1785,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69853
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wontteut.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wontteut.wav
       발음: 원뜯
     어휘 등급: 없음
-    원어: 元 뜻
+    원어: 元뜻
     의미:
     - 뜻풀이: 원래 가지고 있는 뜻.
       용례.구:
@@ -1772,13 +1814,13 @@ import:
     항목ID: 69853
     활용:
     - 발음: 원뜨시
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69853_wontteusi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69853_wontteusi.wav
       형태: 원뜻이
     - 발음: 원뜯또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69853_wontteuttto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69853_wontteuttto.wav
       형태: 원뜻도
     - 발음: 원뜬만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69853_wontteunman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69853_wontteunman.wav
       형태: 원뜻만
 result:
   맞춤법 검사:
@@ -1789,11 +1831,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49297
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolrae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolrae.wav
       발음: 월래
     어휘 등급: 중급
     원어: 元來/原來
@@ -1833,11 +1875,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53768
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolrae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolrae.wav
       발음: 월래
     어휘 등급: 중급
     원어: 元來/原來
@@ -1878,11 +1920,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69854
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/wolro.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/wolro.wav
       발음: 월로
     어휘 등급: 없음
     원어: 元老
@@ -1932,11 +1974,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69855
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolron.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolron.wav
       발음: 월론
     어휘 등급: 없음
     원어: 原論
@@ -1966,11 +2008,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69856
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolronjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolronjeok.wav
       발음: 월론적
     어휘 등급: 없음
     원어: 原論的
@@ -2001,11 +2043,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69857
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolronjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolronjeok.wav
       발음: 월론적
     어휘 등급: 없음
     원어: 原論的
@@ -2035,11 +2077,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69858
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolryo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolryo.wav
       발음: 월료
     어휘 등급: 고급
     원어: 原料
@@ -2071,11 +2113,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69859
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolryobi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolryobi.wav
       발음: 월료비
     어휘 등급: 없음
     원어: 原料費
@@ -2105,7 +2147,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69860
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     검색용 이형태: 원루움, 완룸
     구분: 단어
     동형어 번호: 0
@@ -2145,11 +2187,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69861
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolri.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolri.wav
       발음: 월리
     어휘 등급: 중급
     원어: 原理
@@ -2202,11 +2244,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69862
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolrigeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolrigeum.wav
       발음: 월리금
     어휘 등급: 없음
     원어: 元利金
@@ -2238,14 +2280,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69863
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonmanhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonmanhada.wav
       발음: 원만하다
     어휘 등급: 중급
-    원어: 圓滿 하다
+    원어: 圓滿하다
     의미:
     - 뜻풀이: 성격이 부드럽고 너그럽다.
       문형: 1이 원만하다
@@ -2310,14 +2352,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69864
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonmanhi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonmanhi.wav
       발음: 원만히
     어휘 등급: 없음
-    원어: 圓滿 히
+    원어: 圓滿히
     의미:
     - 뜻풀이: 성격이 부드럽고 너그럽게.
       용례.구:
@@ -2366,11 +2408,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69866
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-mang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-mang.wav
       발음: 원ː망
     어휘 등급: 고급
     원어: 怨望
@@ -2404,14 +2446,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69870
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/won-mangseureoptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/won-mangseureoptta.wav
       발음: 원ː망스럽따
     어휘 등급: 없음
-    원어: 怨望 스럽다
+    원어: 怨望스럽다
     의미:
     - 뜻풀이: 마음에 들지 않아서 탓하거나 미워하는 마음이 있다.
       문형: 1이 2가 원망스럽다
@@ -2434,10 +2476,10 @@ import:
     - 발음: 원ː망스러운
       형태: 원망스러운
     - 발음: 원ː망스러워
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69870_won-mangseureowo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69870_won-mangseureowo.wav
       형태: 원망스러워
     - 발음: 원ː망스러우니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69870_won-mangseureouni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69870_won-mangseureouni.wav
       형태: 원망스러우니
     - 발음: 원ː망스럽씀니다
       형태: 원망스럽습니다
@@ -2452,14 +2494,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69794
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-mangseure.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-mangseure.wav
       발음: 원ː망스레
     어휘 등급: 없음
-    원어: 怨望 스레
+    원어: 怨望스레
     의미:
     - 뜻풀이: 마음에 들지 않아서 탓하거나 미워하는 마음으로.
       용례.구:
@@ -2486,14 +2528,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69798
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-manghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-manghada.wav
       발음: 원ː망하다
     어휘 등급: 없음
-    원어: 怨望 하다
+    원어: 怨望하다
     의미:
     - 뜻풀이: 마음에 들지 않아서 탓하거나 미워하다.
       문형: 1이 2-고 원망하다
@@ -2522,13 +2564,15 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=252738&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: one-man show
     의미:
     - 뜻풀이: 다른 사람에 비하여 너무 혼자 나섬을 비꼬아 이르는 말.
+      원뜻풀이: 다른 사람에 비하여 너무 혼자 나섬을 비꼬아 이르는 말.
+      의미코드: 50442
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -2543,11 +2587,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69803
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonmok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonmok.wav
       발음: 원목
     어휘 등급: 없음
     원어: 原木
@@ -2574,13 +2618,13 @@ import:
     항목ID: 69803
     활용:
     - 발음: 원모기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69803_wonmogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69803_wonmogi.wav
       형태: 원목이
     - 발음: 원목또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69803_wonmoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69803_wonmoktto.wav
       형태: 원목도
     - 발음: 원몽만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69803_wonmongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69803_wonmongman.wav
       형태: 원목만
 result:
   맞춤법 검사:
@@ -2591,11 +2635,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69804
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonmun.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonmun.wav
       발음: 원문
     어휘 등급: 없음
     원어: 原文
@@ -2638,16 +2682,24 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=253036&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원물
+    어휘정보:
+    - 기준: 어휘
+      단어: 원본01
+      대상항목ID: 254005
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=254005&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 한자
       원어: 元物
     의미:
     - 뜻풀이: 어떤 이익을 얻을 수 있는 근원이 되는 물건. 우유에 대하여 젖소, 과일에 대하여 과실나무 따위이다.
       분류: 법률
+      원뜻풀이: 어떤 이익을 얻을 수 있는 근원이 되는 물건. 우유에 대하여 젖소, 과일에 대하여 과실나무 따위이다.
+      의미코드: 240376
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -2662,11 +2714,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69805
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonban.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonban.wav
       발음: 원반
     어휘 등급: 없음
     원어: 圓盤
@@ -2698,7 +2750,7 @@ import:
       용례.문장:
       - 나는 강아지와 원반을 던지고 받는 놀이를 했다.
       - 아들은 아빠가 날린 원반을 잡으러 앞으로 달려갔다.
-      - 우리집 강아지는 하늘 높이 날고 있는 원반을 쫓아갔다.
+      - 우리 집 강아지는 하늘 높이 날고 있는 원반을 쫓아갔다.
       의미ID: 2
     표제어: 원반
     품사: 명사
@@ -2712,14 +2764,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69806
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonbandeonjigi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonbandeonjigi.wav
       발음: 원반던지기
     어휘 등급: 없음
-    원어: 圓盤 던지기
+    원어: 圓盤던지기
     의미:
     - 뜻풀이: 원 안에서 접시처럼 둥글고 넓적하게 생긴 원반을 던져 멀리 가기를 겨루는 운동 경기.
       용례.구:
@@ -2745,11 +2797,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69807
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonbon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonbon.wav
       발음: 원본
     어휘 등급: 고급
     원어: 原本
@@ -2826,11 +2878,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69808
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/wonbulgyo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/wonbulgyo.wav
       발음: 원불교
     어휘 등급: 없음
     원어: 圓佛敎
@@ -2861,14 +2913,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69809
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69809_wonppul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69809_wonppul.wav
       발음: 원뿔
     어휘 등급: 없음
-    원어: 圓 뿔
+    원어: 圓뿔
     의미:
     - 다중 매체 정보:사진:
       - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120122/12626/IMG000101920_700X466.jpg
@@ -2896,14 +2948,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69810
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69810_wonppulhyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69810_wonppulhyeong.wav
       발음: 원뿔형
     어휘 등급: 없음
-    원어: 圓 뿔 形
+    원어: 圓뿔形
     의미:
     - 다중 매체 정보:사진:
       - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120204/20767/PIC000196064_700X466.jpg
@@ -2932,11 +2984,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69811
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69811_wonsa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69811_wonsa.wav
       발음: 원사
     어휘 등급: 없음
     원어: 元士
@@ -2967,7 +3019,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=258002&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원산
@@ -2978,6 +3030,9 @@ import:
     - 뜻풀이: 함경남도 남쪽에 있는 시. 수륙 교통 중심지로 상공업이 발달하였고, 명태ㆍ청어ㆍ대구ㆍ연어 따위도 많이 잡힌다. 명승지로 송도원
         해수욕장, 명사십리, 석왕사 따위가 있다. 면적은 126.1㎢. 북한에서는 1946년 9월 행정 구역 개편 때 강원도의 한 시로 재편성하였다.
       분류: 지명
+      원뜻풀이: 함경남도 남쪽에 있는 시. 수륙 교통 중심지로 상공업이 발달하였고, 명태ㆍ청어ㆍ대구ㆍ연어 따위도 많이 잡힌다. 명승지로 송도원
+        해수욕장, 명사십리, 석왕사 따위가 있다. 면적은 126.1㎢. 북한에서는 1946년 9월 행정 구역 개편 때 강원도의 한 시로 재편성하였다.
+      의미코드: 241473
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -2992,11 +3047,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69812
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsanji.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsanji.wav
       발음: 원산지
     어휘 등급: 고급
     원어: 原産地
@@ -3038,11 +3093,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69813
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsam.wav
       발음: 원삼
     어휘 등급: 없음
     원어: 圓衫
@@ -3076,11 +3131,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69814
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsang.wav
       발음: 원상
     어휘 등급: 없음
     원어: 原狀
@@ -3138,13 +3193,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69945
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsanghoebok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsanghoebok.wav
       발음: 원상회복
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsanghwebok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsanghwebok.wav
       발음: 원상훼복
     어휘 등급: 없음
     원어: 原狀回復
@@ -3166,22 +3221,22 @@ import:
     항목ID: 69945
     활용:
     - 발음: 원상회보기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69945_wonsanghoebogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69945_wonsanghoebogi.wav
       형태: 원상회복이
     - 발음: 원상훼보기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69945_wonsanghwebogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69945_wonsanghwebogi.wav
       형태: 원상회복이
     - 발음: 원상회복또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69945_wonsanghoeboktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69945_wonsanghoeboktto.wav
       형태: 원상회복도
     - 발음: 원상훼복또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69945_wonsanghweboktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69945_wonsanghweboktto.wav
       형태: 원상회복도
     - 발음: 원상회봉만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69945_wonsanghoebongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69945_wonsanghoebongman.wav
       형태: 원상회복만
     - 발음: 원상훼봉만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69945_wonsanghwebongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69945_wonsanghwebongman.wav
       형태: 원상회복만
 result:
   맞춤법 검사:
@@ -3192,11 +3247,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69816
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsaek.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsaek.wav
       발음: 원색
     어휘 등급: 없음
     원어: 原色
@@ -3245,13 +3300,13 @@ import:
     항목ID: 69816
     활용:
     - 발음: 원새기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69816_wonsaegi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69816_wonsaegi.wav
       형태: 원색이
     - 발음: 원색또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69816_wonsaektto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69816_wonsaektto.wav
       형태: 원색도
     - 발음: 원생만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69816_wonsaengman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69816_wonsaengman.wav
       형태: 원색만
 result:
   맞춤법 검사:
@@ -3262,11 +3317,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69817
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsaekjjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsaekjjeok.wav
       발음: 원색쩍
     어휘 등급: 고급
     원어: 原色的
@@ -3308,11 +3363,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69818
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsaekjjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsaekjjeok.wav
       발음: 원색쩍
     어휘 등급: 고급
     원어: 原色的
@@ -3355,11 +3410,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69819
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsaeng.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsaeng.wav
       발음: 원생
     어휘 등급: 없음
     원어: 院生
@@ -3398,11 +3453,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69820
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonseo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonseo.wav
       발음: 원서
     어휘 등급: 없음
     원어: 原書
@@ -3438,11 +3493,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26718
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-seo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-seo.wav
       발음: 원ː서
     어휘 등급: 중급
     원어: 願書
@@ -3472,11 +3527,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69949
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonseok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonseok.wav
       발음: 원석
     어휘 등급: 없음
     원어: 原石
@@ -3509,13 +3564,13 @@ import:
     항목ID: 69949
     활용:
     - 발음: 원서기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69949_wonseogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69949_wonseogi.wav
       형태: 원석이
     - 발음: 원석또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69949_wonseoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69949_wonseoktto.wav
       형태: 원석도
     - 발음: 원성만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69949_wonseongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69949_wonseongman.wav
       형태: 원석만
 result:
   맞춤법 검사:
@@ -3526,11 +3581,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69950
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-seong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-seong.wav
       발음: 원ː성
     어휘 등급: 없음
     원어: 怨聲
@@ -3558,11 +3613,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69951
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonso.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonso.wav
       발음: 원소
     어휘 등급: 없음
     원어: 元素
@@ -3575,7 +3630,7 @@ import:
       - 원소를 알다.
       - 원소를 적다.
       용례.문장:
-      - 다음 집합 중 원소의 갯수를 구하시오.
+      - 다음 집합 중 원소의 개수를 구하시오.
       - 각 원소가 만들 수 있는 부분 집합의 수를 구하시오.
       의미ID: 1
     - 뜻풀이: 철학에서, 만물의 근원이 되는, 항상 변하지 않는 구성 요소.
@@ -3612,7 +3667,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=258140&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 구
     원어:
       언어: 한자
@@ -3620,6 +3675,24 @@ import:
     의미:
     - 뜻풀이: 원소를 간단히 표시하기 위하여 하나 또는 두 개의 로마자로 표기하는 기호. 수소는 H, 산소는 O, 철은 Fe와 같이 나타낸다.
       분류: 화학
+      어휘정보:
+      - 기준: 의미
+        단어: 원자^기호
+        대상항목ID: 242416
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=468393&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 화학^기호
+        대상항목ID: 323813
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=380091&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 화학^부호
+        대상항목ID: 323911
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=378073&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 원소를 간단히 표시하기 위하여 하나 또는 두 개의 로마자로 표기하는 기호. 수소는 H, 산소는 O, 철은 Fe와 같이 나타낸다.
+      의미코드: 242166
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -3641,11 +3714,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69953
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsu.wav
       발음: 원수
     어휘 등급: 없음
     원어: 元帥
@@ -3674,11 +3747,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69954
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsu.wav
       발음: 원수
     어휘 등급: 없음
     원어: 元首
@@ -3713,11 +3786,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69955
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-su.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-su.wav
       발음: 원ː수
     어휘 등급: 고급
     원어: 怨讐
@@ -3746,14 +3819,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69956
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69956_won-sujida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69956_won-sujida.wav
       발음: 원ː수지다
     어휘 등급: 없음
-    원어: 怨讐 지다
+    원어: 怨讐지다
     의미:
     - 뜻풀이: 서로 원한이 맺힌 사이가 되다.
       문형: 1이 (2와) 원수지다
@@ -3773,16 +3846,16 @@ import:
     항목ID: 69956
     활용:
     - 발음: 원ː수지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69956_won-sujieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69956_won-sujieo.wav
       형태: 원수지어
     - 발음: 원ː수지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69956_won-sujiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69956_won-sujiyeo.wav
       형태: 원수지어
     - 발음: 원ː수저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69956_won-sujeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69956_won-sujeo.wav
       형태: 원수져
     - 발음: 원ː수지니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69956_won-sujini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69956_won-sujini.wav
       형태: 원수지니
 result:
   맞춤법 검사:
@@ -3793,11 +3866,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69957
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsukkki.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsukkki.wav
       발음: 원숙끼
     어휘 등급: 없음
     원어: 圓熟期
@@ -3841,14 +3914,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69958
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsukada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsukada.wav
       발음: 원수카다
     어휘 등급: 없음
-    원어: 圓熟 하다
+    원어: 圓熟하다
     의미:
     - 뜻풀이: 일이나 기술 등이 매우 익숙하다.
       문형: 1이 원숙하다
@@ -3899,11 +3972,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69959
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/won-sungi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/won-sungi.wav
       발음: 원ː숭이
     어휘 등급: 중급
     의미:
@@ -3938,11 +4011,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68727
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-sungitti.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-sungitti.wav
       발음: 원ː숭이띠
     어휘 등급: 없음
     의미:
@@ -3971,11 +4044,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69960
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsi.wav
       발음: 원시
     어휘 등급: 고급
     원어: 原始/元始
@@ -4019,11 +4092,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69961
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69961_won-si.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69961_won-si.wav
       발음: 원ː시
     어휘 등급: 없음
     원어: 遠視
@@ -4063,11 +4136,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69962
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsirim.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsirim.wav
       발음: 원시림
     어휘 등급: 없음
     원어: 原始林
@@ -4095,11 +4168,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69964
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsisaenghwal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsisaenghwal.wav
       발음: 원시생활
     어휘 등급: 없음
     원어: 原始生活
@@ -4127,11 +4200,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69965
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsiin.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsiin.wav
       발음: 원시인
     어휘 등급: 없음
     원어: 原始人
@@ -4173,11 +4246,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69966
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsijeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsijeok.wav
       발음: 원시적
     어휘 등급: 없음
     원어: 原始的/元始的
@@ -4205,11 +4278,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69967
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsijeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsijeok.wav
       발음: 원시적
     어휘 등급: 없음
     원어: 原始的/元始的
@@ -4245,11 +4318,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69973
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonsim.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonsim.wav
       발음: 원심
     어휘 등급: 없음
     원어: 原審
@@ -4280,11 +4353,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69974
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/won-simnyeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/won-simnyeok.wav
       발음: 원ː심녁
     어휘 등급: 고급
     원어: 遠心力
@@ -4315,13 +4388,13 @@ import:
     항목ID: 69974
     활용:
     - 발음: 원ː심녀기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69974_won-simnyeogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69974_won-simnyeogi.wav
       형태: 원심력이
     - 발음: 원ː심녁또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69974_won-simnyeoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69974_won-simnyeoktto.wav
       형태: 원심력도
     - 발음: 원ː심녕만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69974_won-simnyeongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69974_won-simnyeongman.wav
       형태: 원심력만
 result:
   맞춤법 검사:
@@ -4332,7 +4405,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=253672&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 구
     원어:
       언어: 한자
@@ -4344,6 +4417,9 @@ import:
       - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=101925
         종류: 삽화
       분류: 물리
+      원뜻풀이: 원심력을 이용하여 섞여 있는 액체와 고체 또는 비중이 서로 다른 액체 혼합을 분리하는 장치. 여과, 농축, 탈수, 정제 따위에
+        쓴다.
+      의미코드: 240386
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -4365,7 +4441,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=466229&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 워나
@@ -4374,6 +4450,8 @@ import:
       원어: 院兒
     의미:
     - 뜻풀이: 육아원, 고아원과 같은 수용 시설에서 기르는 어린이.
+      원뜻풀이: 육아원, 고아원과 같은 수용 시설에서 기르는 어린이.
+      의미코드: 240620
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -4388,11 +4466,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69976
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonan.wav
       발음: 워난
     어휘 등급: 없음
     원어: 原案
@@ -4424,11 +4502,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69977
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69977_wonang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69977_wonang.wav
       발음: 워낭
     어휘 등급: 없음
     원어: 鴛鴦
@@ -4479,11 +4557,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69978
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonanggeumchim.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonanggeumchim.wav
       발음: 워낭금침
     어휘 등급: 없음
     원어: 鴛鴦衾枕
@@ -4523,14 +4601,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69979
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69979_wonangsae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69979_wonangsae.wav
       발음: 워낭새
     어휘 등급: 없음
-    원어: 鴛鴦 새
+    원어: 鴛鴦새
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -4566,11 +4644,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69980
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonaek.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonaek.wav
       발음: 워낵
     어휘 등급: 없음
     원어: 原液
@@ -4596,13 +4674,13 @@ import:
     항목ID: 69980
     활용:
     - 발음: 워내기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69980_wonaegi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69980_wonaegi.wav
       형태: 원액이
     - 발음: 워낵또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69980_wonaektto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69980_wonaektto.wav
       형태: 원액도
     - 발음: 워냉만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69980_wonaengman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69980_wonaengman.wav
       형태: 원액만
 result:
   맞춤법 검사:
@@ -4613,11 +4691,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70253
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wo-nyang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wo-nyang.wav
       발음: 워ː냥
     어휘 등급: 없음
     원어: 遠洋
@@ -4647,14 +4725,28 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=257720&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 구
+    어휘정보:
+    - 기준: 어휘
+      단어: 연안^어업
+      대상항목ID: 463319
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=463319&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 한자
       원어: 遠洋漁業
     의미:
     - 뜻풀이: 먼바다를 장기간에 걸쳐 항해하며 하는 어업. 잡은 어획물을 자체에서 가공ㆍ저장하는 시설을 갖춘 어선을 이용한다.
       분류: 수산업
+      어휘정보:
+      - 기준: 의미
+        단어: 원해^어업
+        대상항목ID: 239798
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=252770&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 먼바다를 장기간에 걸쳐 항해하며 하는 어업. 잡은 어획물을 자체에서 가공ㆍ저장하는 시설을 갖춘 어선을 이용한다.
+      의미코드: 241052
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -4676,11 +4768,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70256
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/woneo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/woneo.wav
       발음: 워너
     어휘 등급: 없음
     원어: 原語
@@ -4711,11 +4803,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70257
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70257_woneomin.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70257_woneomin.wav
       발음: 워너민
     어휘 등급: 고급
     원어: 原語民
@@ -4749,11 +4841,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70259
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonye.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonye.wav
       발음: 워녜
     어휘 등급: 없음
     원어: 園藝
@@ -4783,11 +4875,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70260
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonyesa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonyesa.wav
       발음: 워녜사
     어휘 등급: 없음
     원어: 園藝師
@@ -4818,11 +4910,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70261
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70261_wonyeeop.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70261_wonyeeop.wav
       발음: 워녜업
     어휘 등급: 없음
     원어: 園藝業
@@ -4845,13 +4937,13 @@ import:
     항목ID: 70261
     활용:
     - 발음: 워녜어비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70261_wonyeeobi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70261_wonyeeobi.wav
       형태: 원예업이
     - 발음: 워녜업또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70261_wonyeeoptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70261_wonyeeoptto.wav
       형태: 원예업도
     - 발음: 워녜엄만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70261_wonyeeomman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70261_wonyeeomman.wav
       형태: 원예업만
 result:
   맞춤법 검사:
@@ -4862,13 +4954,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70262
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonoe.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonoe.wav
       발음: 워뇌
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonwe.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonwe.wav
       발음: 워눼
     어휘 등급: 없음
     원어: 院外
@@ -4901,11 +4993,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70263
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70263_wonwichi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70263_wonwichi.wav
       발음: 워뉘치
     어휘 등급: 없음
     원어: 原位置
@@ -4935,11 +5027,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70264
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonyu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonyu.wav
       발음: 워뉴
     어휘 등급: 고급
     원어: 原油
@@ -4975,11 +5067,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70265
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/woneum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/woneum.wav
       발음: 워늠
     어휘 등급: 없음
     원어: 原音
@@ -5023,14 +5115,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70266
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/70266_wonnireum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/70266_wonnireum.wav
       발음: 원니름
     어휘 등급: 없음
-    원어: 原 이름
+    원어: 原이름
     의미:
     - 뜻풀이: 고치기 전의 이름.
       용례.구:
@@ -5058,11 +5150,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70268
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonin.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonin.wav
       발음: 워닌
     어휘 등급: 중급
     원어: 原因
@@ -5127,11 +5219,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70270
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonja.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonja.wav
       발음: 원자
     어휘 등급: 없음
     원어: 原子
@@ -5170,7 +5262,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=252908&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원자까
@@ -5181,6 +5273,15 @@ import:
     - 뜻풀이: 원자의 원자량 또는 원자단의 원자량 총량을 화학 당량으로 나눈 수. 보통 수소를 기준으로 하여 수소 원자 n개와 치환 또는 결합하는
         원소의 것을 n가라고 한다.
       분류: 화학
+      어휘정보:
+      - 기준: 의미
+        단어: 원잣-값
+        대상항목ID: 357387
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=253372&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 원자의 원자량 또는 원자단의 원자량 총량을 화학 당량으로 나눈 수. 보통 수소를 기준으로 하여 수소 원자 n개와 치환 또는 결합하는
+        원소의 것을 n가라고 한다.
+      의미코드: 242404
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -5195,10 +5296,16 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=468394&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원자량
+    어휘정보:
+    - 기준: 어휘
+      단어: 분자-량
+      대상항목ID: 435159
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=435159&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 한자
       원어: 原子量
@@ -5206,6 +5313,8 @@ import:
     - 뜻풀이: 원자의 상대적인 질량. 질량수 12의 탄소 원자 <sup style='font-size:11px;'>12</sup>C를 기준으로
         하고 이것과의 비율에 따라 각 원자의 질량을 나타낸다.
       분류: 물리
+      원뜻풀이: 원자의 상대적인 질량. 질량수 12의 탄소 원자 **12**C를 기준으로 하고 이것과의 비율에 따라 각 원자의 질량을 나타낸다.
+      의미코드: 541380
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -5220,11 +5329,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70271
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjaryeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjaryeok.wav
       발음: 원자력
     어휘 등급: 고급
     원어: 原子力
@@ -5251,13 +5360,13 @@ import:
     항목ID: 70271
     활용:
     - 발음: 원자려기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70271_wonjaryeogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70271_wonjaryeogi.wav
       형태: 원자력이
     - 발음: 원자력또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70271_wonjaryeoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70271_wonjaryeoktto.wav
       형태: 원자력도
     - 발음: 원자령만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70271_wonjaryeongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70271_wonjaryeongman.wav
       형태: 원자력만
 result:
   맞춤법 검사:
@@ -5268,7 +5377,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=253548&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 구
     원어:
       언어: 한자
@@ -5276,6 +5385,8 @@ import:
     의미:
     - 뜻풀이: 원자력을 응용한 발전. 원자핵 분열에 의하여 발생한 열에너지로 만든 증기로 발전기를 돌려 전력을 생산하는 방식이다.
       분류: 전기·전자
+      원뜻풀이: 원자력을 응용한 발전. 원자핵 분열에 의하여 발생한 열에너지로 만든 증기로 발전기를 돌려 전력을 생산하는 방식이다.
+      의미코드: 504659
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -5297,14 +5408,27 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=253549&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 구
+    어휘정보:
+    - 기준: 어휘
+      단어: 수력^발전소
+      대상항목ID: 190156
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=190156&searchKeywordTo=3
+      종류: 참고 어휘
+    - 기준: 어휘
+      단어: 화력^발전소
+      대상항목ID: 505703
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=505703&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 한자
       원어: 原子力發電所
     의미:
     - 뜻풀이: 원자핵이 붕괴할 때 생기는 열에너지를 동력으로 하여 전기를 얻는 발전소.
       분류: 전기·전자
+      원뜻풀이: 원자핵이 붕괴할 때 생기는 열에너지를 동력으로 하여 전기를 얻는 발전소.
+      의미코드: 242632
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -5326,7 +5450,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=252381&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원자로
@@ -5338,6 +5462,16 @@ import:
         연료로 하고 중성자를 연료의 촉매로 하는 장치이다. 중성자나 감마선 조사(照射)를 목적으로 하는 연구용 원자로와, 발전용ㆍ선박용 동력을
         목적으로 하는 동력로가 있다.
       분류: 물리
+      어휘정보:
+      - 기준: 의미
+        단어: 원자^가마
+        대상항목ID: 242407
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=252911&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 원자핵 분열 연쇄 반응의 진행 속도를 인위적으로 제어하여 원자력을 서서히 끌어내는 장치. 우라늄, 플루토늄 따위의 핵분열 물질을
+        연료로 하고 중성자를 연료의 촉매로 하는 장치이다. 중성자나 감마선 조사(照射)를 목적으로 하는 연구용 원자로와, 발전용ㆍ선박용 동력을
+        목적으로 하는 동력로가 있다.
+      의미코드: 578190
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -5352,9 +5486,9 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=252383&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=259283&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=259283&searchKeywordTo=1
       종류: 부표제어
       표제어: 원자론-적
       항목ID: 259283
@@ -5367,6 +5501,14 @@ import:
     의미:
     - 뜻풀이: 세계의 모든 사상(事象)을 원자와 그 운동으로 설명하려는 학설.
       분류: 철학
+      어휘정보:
+      - 기준: 의미
+        단어: 원자-설
+        대상항목ID: 50740
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=259586&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 세계의 모든 사상(事象)을 원자와 그 운동으로 설명하려는 학설.
+      의미코드: 242837
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -5381,7 +5523,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=259293&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 구
     원어:
       언어: 한자
@@ -5389,6 +5531,8 @@ import:
     의미:
     - 뜻풀이: 원소의 종류를 나타내는 수. 원자핵을 구성하는 양성자의 수를 나타내고, 중성 원자의 경우에는 전자의 수와 같다.
       분류: 화학
+      원뜻풀이: 원소의 종류를 나타내는 수. 원자핵을 구성하는 양성자의 수를 나타내고, 중성 원자의 경우에는 전자의 수와 같다.
+      의미코드: 394219
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -5410,11 +5554,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70274
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjajae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjajae.wav
       발음: 원자재
     어휘 등급: 없음
     원어: 原資材
@@ -5447,7 +5591,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=473415&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 구
     원어:
       언어: 한자
@@ -5458,6 +5602,17 @@ import:
         열복사에 의한 화재와 화상, 충격파로 인한 파괴 따위가 일어난다. 휴대용의 대전차용과 방공 미사일용 탄두도 있고, 수소 폭탄의 기폭
         장치에도 쓴다.
       분류: 군사
+      어휘정보:
+      - 기준: 의미
+        단어: 원자-탄
+        대상항목ID: 430625
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=468995&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 원자핵이 분열할 때 생기는 에너지를 이용한 폭탄. 주로 쓰이는 원료로는 우라늄 235와 플루토늄 239이며, 1kg의 우라늄
+        235가 폭발하여 방출하는 에너지는 티엔티(TNT) 2만 톤이 폭발할 때의 에너지와 맞먹는다. 핵분열 때에 발생하는 방사선에 의한 방사선
+        장애, 열복사에 의한 화재와 화상, 충격파로 인한 파괴 따위가 일어난다. 휴대용의 대전차용과 방공 미사일용 탄두도 있고, 수소 폭탄의
+        기폭 장치에도 쓴다.
+      의미코드: 239786
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -5479,7 +5634,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=253053&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원자핵
@@ -5494,6 +5649,15 @@ import:
         레이블: 원자핵
         종류: 삽화
       분류: 물리
+      어휘정보:
+      - 기준: 의미
+        단어: 핵
+        대상항목ID: 338164
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=502886&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 원자의 중심부를 이루는 입자. 양자와 중성자가 강한 핵력으로 결합한 것으로 원자의 대부분을 차지하며 양(陽)의 전하를 갖는다.
+        크기는 원자의 1만분의 1 정도이나 질량은 원자 질량의 99% 이상이다.
+      의미코드: 239978
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -5510,11 +5674,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70275
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjak.wav
       발음: 원작
     어휘 등급: 고급
     원어: 原作
@@ -5543,13 +5707,13 @@ import:
     항목ID: 70275
     활용:
     - 발음: 원자기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70275_wonjagi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70275_wonjagi.wav
       형태: 원작이
     - 발음: 원작또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70275_wonjaktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70275_wonjaktto.wav
       형태: 원작도
     - 발음: 원장만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70275_wonjangman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70275_wonjangman.wav
       형태: 원작만
 result:
   맞춤법 검사:
@@ -5560,11 +5724,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70276
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjakjja.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjakjja.wav
       발음: 원작짜
     어휘 등급: 없음
     원어: 原作者
@@ -5599,11 +5763,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70277
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjang.wav
       발음: 원장
     어휘 등급: 고급
     원어: 院長
@@ -5652,11 +5816,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70278
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjang.wav
       발음: 원장
     어휘 등급: 없음
     원어: 園長
@@ -5674,7 +5838,7 @@ import:
       - 동형어 번호: 0
         표제어: 학장
         항목ID: 84148
-      뜻풀이: 유치원이나 병원같이 ‘-원(園)’자가 붙은 기관의 최고 책임자.
+      뜻풀이: 유치원이나 동물원, 식물원같이 ‘-원(園)’자가 붙은 기관의 최고 책임자.
       용례.구:
       - 동물원 원장.
       - 식물원 원장.
@@ -5704,11 +5868,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70279
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70279_wonjaeryo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70279_wonjaeryo.wav
       발음: 원재료
     어휘 등급: 없음
     원어: 原材料
@@ -5739,15 +5903,23 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=253987&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원저
+    어휘정보:
+    - 기준: 어휘
+      단어: 원작
+      대상항목ID: 465817
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=465817&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 한자
       원어: 原著
     의미:
     - 뜻풀이: 번역하거나 번안한 것의 근본이 되는 저작.
+      원뜻풀이: 번역하거나 번안한 것의 근본이 되는 저작.
+      의미코드: 240188
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -5762,11 +5934,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70280
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjeoja.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjeoja.wav
       발음: 원저자
     어휘 등급: 없음
     원어: 原著者
@@ -5804,11 +5976,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70281
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjeok.wav
       발음: 원적
     어휘 등급: 없음
     원어: 原籍
@@ -5853,13 +6025,13 @@ import:
     항목ID: 70281
     활용:
     - 발음: 원저기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70281_wonjeogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70281_wonjeogi.wav
       형태: 원적이
     - 발음: 원적또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70281_wonjeoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70281_wonjeoktto.wav
       형태: 원적도
     - 발음: 원정만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70281_wonjeongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70281_wonjeongman.wav
       형태: 원적만
 result:
   맞춤법 검사:
@@ -5870,13 +6042,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70282
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/won-jeogoeseon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/won-jeogoeseon.wav
       발음: 원ː저괴선
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70282_won-jeogweseon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70282_won-jeogweseon.wav
       발음: 원ː저궤선
     어휘 등급: 없음
     원어: 遠赤外線
@@ -5906,11 +6078,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70284
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjeon.wav
       발음: 원전
     어휘 등급: 없음
     원어: 原典
@@ -5962,11 +6134,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70285
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjeon.wav
       발음: 원전
     어휘 등급: 없음
     원어: 原電
@@ -5996,11 +6168,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70286
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjjeom.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjjeom.wav
       발음: 원쩜
     어휘 등급: 없음
     원어: 原點
@@ -6057,11 +6229,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70287
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70287_won-jeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70287_won-jeong.wav
       발음: 원ː정
     어휘 등급: 없음
     원어: 遠征
@@ -6123,11 +6295,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70288
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70288_won-jeonggun.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70288_won-jeonggun.wav
       발음: 원ː정군
     어휘 등급: 없음
     원어: 遠征軍
@@ -6171,11 +6343,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70289
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70289_won-jeongdae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70289_won-jeongdae.wav
       발음: 원ː정대
     어휘 등급: 없음
     원어: 遠征隊
@@ -6205,11 +6377,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70290
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonje.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonje.wav
       발음: 원제
     어휘 등급: 없음
     원어: 原題
@@ -6239,11 +6411,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70291
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjo.wav
       발음: 원조
     어휘 등급: 없음
     원어: 元祖
@@ -6316,11 +6488,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70292
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70292_won-jo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70292_won-jo.wav
       발음: 원ː조
     어휘 등급: 고급
     원어: 援助
@@ -6364,16 +6536,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70293
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2012/70000/063870.mp3
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2012/70000/063870.mp3
       발음: 원ː조되다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70293_won-jodweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70293_won-jodweda.wav
       발음: 원ː조뒈다
     어휘 등급: 없음
-    원어: 援助 되다
+    원어: 援助되다
     의미:
     - 뜻풀이: 어려움을 겪는 사람이나 단체가 물건이나 돈 등으로 도움을 받다.
       문형: 1이 2에/에게 원조되다
@@ -6401,14 +6573,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70294
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70294_won-johada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70294_won-johada.wav
       발음: 원ː조하다
     어휘 등급: 없음
-    원어: 援助 하다
+    원어: 援助하다
     의미:
     - 뜻풀이: 어려움을 겪는 사람이나 단체에 물건이나 돈 등을 주어 돕다.
       문형: 1이 2에/에게 3을 원조하다
@@ -6437,7 +6609,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=466201&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원종
@@ -6449,6 +6621,10 @@ import:
         몽고에 입조(入朝)하여 굴욕을 당한 뒤 즉위하였다. 재위 기간 중 임연(林衍)의 난, 삼별초(三別抄)의 난 따위로 화평한 날이 없었다.
         재위 기간은 1259~1274년이다.
       분류: 인명
+      원뜻풀이: 고려 제24대 왕(1219~1274). 이름은 식(植). 초명은 전(倎). 자는 일신(日新). 고종 46년(1259)에 왕의
+        대리로 몽고에 입조(入朝)하여 굴욕을 당한 뒤 즉위하였다. 재위 기간 중 임연(林衍)의 난, 삼별초(三別抄)의 난 따위로 화평한 날이
+        없었다. 재위 기간은 1259~1274년이다.
+      의미코드: 240851
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -6463,13 +6639,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70295
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjoe.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjoe.wav
       발음: 원죄
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonjwe.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonjwe.wav
       발음: 원줴
     어휘 등급: 없음
     원어: 原罪
@@ -6514,11 +6690,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70296
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70296_wonju.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70296_wonju.wav
       발음: 원주
     어휘 등급: 없음
     원어: 圓周
@@ -6552,11 +6728,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70297
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70297_wonjumin.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70297_wonjumin.wav
       발음: 원주민
     어휘 등급: 고급
     원어: 原住民
@@ -6594,11 +6770,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70298
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70298_wonjuyul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70298_wonjuyul.wav
       발음: 원주율
     어휘 등급: 없음
     원어: 圓周率
@@ -6629,11 +6805,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70302
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70302_wonjuin.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70302_wonjuin.wav
       발음: 원주인
     어휘 등급: 없음
     원어: 原主人
@@ -6663,11 +6839,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70303
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/woncheon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/woncheon.wav
       발음: 원천
     어휘 등급: 없음
     원어: 源泉
@@ -6715,11 +6891,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70305
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70305_woncheonjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70305_woncheonjeok.wav
       발음: 원천적
     어휘 등급: 없음
     원어: 源泉的
@@ -6749,11 +6925,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70304
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70305_woncheonjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70305_woncheonjeok.wav
       발음: 원천적
     어휘 등급: 없음
     원어: 源泉的
@@ -6787,11 +6963,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70306
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonche.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonche.wav
       발음: 원체
     어휘 등급: 없음
     원어: 元體
@@ -6849,11 +7025,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70429
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/woncho.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/woncho.wav
       발음: 원초
     어휘 등급: 없음
     원어: 原初
@@ -6884,11 +7060,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70430
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70430_wonchojeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70430_wonchojeok.wav
       발음: 원초적
     어휘 등급: 없음
     원어: 原初的
@@ -6920,11 +7096,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70431
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70430_wonchojeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70430_wonchojeok.wav
       발음: 원초적
     어휘 등급: 없음
     원어: 原初的
@@ -6955,11 +7131,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69552
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69552_wonchik.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69552_wonchik.wav
       발음: 원칙
     어휘 등급: 중급
     원어: 原則
@@ -6986,13 +7162,13 @@ import:
     항목ID: 69552
     활용:
     - 발음: 원치기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69552_wonchigi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69552_wonchigi.wav
       형태: 원칙이
     - 발음: 원칙또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69552_wonchiktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69552_wonchiktto.wav
       형태: 원칙도
     - 발음: 원칭만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69552_wonchingman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69552_wonchingman.wav
       형태: 원칙만
 result:
   맞춤법 검사:
@@ -7003,11 +7179,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69553
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69553_wonchikjjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69553_wonchikjjeok.wav
       발음: 원칙쩍
     어휘 등급: 없음
     원어: 原則的
@@ -7038,11 +7214,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69554
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69553_wonchikjjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69553_wonchikjjeok.wav
       발음: 원칙쩍
     어휘 등급: 없음
     원어: 原則的
@@ -7072,14 +7248,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69555
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/69555_won-keondae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/69555_won-keondae.wav
       발음: 원ː컨대
     어휘 등급: 없음
-    원어: 願 컨대
+    원어: 願컨대
     의미:
     - 뜻풀이: 바라건대.
       용례.대화:
@@ -7101,11 +7277,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69556
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wontak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wontak.wav
       발음: 원탁
     어휘 등급: 없음
     원어: 圓卓
@@ -7131,13 +7307,13 @@ import:
     항목ID: 69556
     활용:
     - 발음: 원타기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69556_wontagi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69556_wontagi.wav
       형태: 원탁이
     - 발음: 원탁또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69556_wontaktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69556_wontaktto.wav
       형태: 원탁도
     - 발음: 원탕만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69556_wontangman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69556_wontangman.wav
       형태: 원탁만
 result:
   맞춤법 검사:
@@ -7148,13 +7324,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69557
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wontakoeui.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wontakoeui.wav
       발음: 원타쾨의
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wontakwei.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wontakwei.wav
       발음: 원타퀘이
     어휘 등급: 없음
     원어: 圓卓會議
@@ -7184,7 +7360,7 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1255075
-    가져온 시각: '2019-08-05T00:17:45+09:00'
+    가져온 시각: '2023-05-01T17:20:47+09:00'
     관련어:
     - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1316100
       종류: 비슷한말
@@ -7193,6 +7369,7 @@ import:
     구분: 구
     뜻풀이: 영화나 드라마 따위에서 혼자 주연을 맡아 극의 전반적인 흐름을 책임지는 배우. 또는 그런 일.
     분류: 영상
+    원뜻풀이: 영화나 드라마 따위에서 혼자 주연을 맡아 극의 전반적인 흐름을 책임지는 배우. 또는 그런 일.
     원어:
       언어: 영어
       원어: one top
@@ -7216,11 +7393,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69560
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wontong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wontong.wav
       발음: 원통
     어휘 등급: 없음
     원어: 冤痛
@@ -7250,14 +7427,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69561
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69561_wontonghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69561_wontonghada.wav
       발음: 원통하다
     어휘 등급: 없음
-    원어: 冤痛 하다
+    원어: 冤痛하다
     의미:
     - 뜻풀이: 분하고 억울하다.
       문형: 1이 2가 원통하다
@@ -7296,11 +7473,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69562
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69562_wontonghyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69562_wontonghyeong.wav
       발음: 원통형
     어휘 등급: 없음
     원어: 圓筒形
@@ -7332,11 +7509,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69563
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonpan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonpan.wav
       발음: 원판
     어휘 등급: 없음
     원어: 原版
@@ -7389,11 +7566,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69564
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonpan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonpan.wav
       발음: 원판
     어휘 등급: 없음
     원어: 圓板
@@ -7423,11 +7600,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69568
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonpok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonpok.wav
       발음: 원폭
     어휘 등급: 없음
     원어: 原爆
@@ -7452,13 +7629,13 @@ import:
     항목ID: 69568
     활용:
     - 발음: 원포기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69568_wonpogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69568_wonpogi.wav
       형태: 원폭이
     - 발음: 원폭또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69568_wonpoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69568_wonpoktto.wav
       형태: 원폭도
     - 발음: 원퐁만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69568_wonpongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69568_wonpongman.wav
       형태: 원폭만
 result:
   맞춤법 검사:
@@ -7469,7 +7646,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26721
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     검색용 이형태: 원피이스, 완피스
     구분: 단어
     동형어 번호: 0
@@ -7514,14 +7691,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69570
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/69570_won-hada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/69570_won-hada.wav
       발음: 원ː하다
     어휘 등급: 초급
-    원어: 願 하다
+    원어: 願하다
     의미:
     - 관련어:유의어:
       - 동형어 번호: 1
@@ -7555,11 +7732,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69571
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69571_won-han.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69571_won-han.wav
       발음: 원ː한
     어휘 등급: 없음
     원어: 怨恨
@@ -7597,11 +7774,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69572
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69572_won-haeng.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69572_won-haeng.wav
       발음: 원ː행
     어휘 등급: 없음
     원어: 遠行
@@ -7631,11 +7808,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69581
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonhyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonhyeong.wav
       발음: 원형
     어휘 등급: 고급
     원어: 原形
@@ -7695,11 +7872,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69582
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonhyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonhyeong.wav
       발음: 원형
     어휘 등급: 고급
     원어: 圓形
@@ -7731,11 +7908,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69584
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69584_won-hon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69584_won-hon.wav
       발음: 원ː혼
     어휘 등급: 없음
     원어: 冤魂
@@ -7765,14 +7942,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69585
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/03000/69585_wonhwa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/03000/69585_wonhwa.wav
       발음: 원화
     어휘 등급: 고급
-    원어: 원 貨
+    원어: 원貨
     의미:
     - 뜻풀이: 원을 단위로 하는 한국의 화폐.
       용례.구:
@@ -7802,11 +7979,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69586
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonhwal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonhwal.wav
       발음: 원활
     어휘 등급: 고급
     원어: 圓滑
@@ -7851,14 +8028,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69587
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69587_wonhwalhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69587_wonhwalhada.wav
       발음: 원활하다
     어휘 등급: 없음
-    원어: 圓滑 하다
+    원어: 圓滑하다
     의미:
     - 뜻풀이: 까다로운 데가 없이 원만하다.
       문형: 1이 원활하다
@@ -7911,14 +8088,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69588
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69588_wonhwalhi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69588_wonhwalhi.wav
       발음: 원활히
     어휘 등급: 없음
-    원어: 圓滑 히
+    원어: 圓滑히
     의미:
     - 뜻풀이: 까다로운 데가 없이 원만하게.
       용례.구:
@@ -7959,7 +8136,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=472924&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 원효
@@ -7971,6 +8148,10 @@ import:
         불교 사상의 융합과 그 실천에도 노력하였다. 저서로 ≪금강삼매경론소(金剛三昧經論疏)≫, ≪십문화쟁론(十門和諍論)≫, ≪화엄경소(華嚴經疏)≫
         따위가 있다.
       분류: 인명
+      원뜻풀이: 신라의 승려(617~686). 속성은 설(薛). 신라 십성의 한 사람으로 꼽히며, 해동종(海東宗)을 제창하여 불교의 대중화에
+        힘썼으며, 불교 사상의 융합과 그 실천에도 노력하였다. 저서로 ≪금강삼매경론소(金剛三昧經論疏)≫, ≪십문화쟁론(十門和諍論)≫, ≪화엄경소(華嚴經疏)≫
+        따위가 있다.
+      의미코드: 240869
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -7985,11 +8166,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69601
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wonhyung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wonhyung.wav
       발음: 원흉
     어휘 등급: 없음
     원어: 元兇
@@ -8027,11 +8208,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69602
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69603_wol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69603_wol.wav
       발음: 월
     어휘 등급: 초급
     원어: 月
@@ -8074,11 +8255,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69604
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69603_wol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69603_wol.wav
       발음: 월
     어휘 등급: 중급
     원어: 月
@@ -8114,11 +8295,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69603
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69603_wol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69603_wol.wav
       발음: 월
     어휘 등급: 초급
     원어: 月
@@ -8132,7 +8313,7 @@ import:
         항목ID: 62598
       뜻풀이: 달을 세는 단위.
       용례.대화:
-      - 팔 월 십 일이요.
+      - 그러게, 나도 기억이 안 나네. 달력 좀 보자.
       용례.문장:
       - 지수는 이번 달이 몇 월인지도 모를 만큼 정신없이 바쁘게 지냈다.
       - 승규는 시위 운동을 주도했다는 이유로 징역 오 월을 선고 받았다.
@@ -8154,11 +8335,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69605
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgan.wav
       발음: 월간
     어휘 등급: 고급
     원어: 月刊
@@ -8227,11 +8408,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69606
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgan.wav
       발음: 월간
     어휘 등급: 없음
     원어: 月間
@@ -8278,11 +8459,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69607
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69607_wolganji.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69607_wolganji.wav
       발음: 월간지
     어휘 등급: 없음
     원어: 月刊誌
@@ -8323,11 +8504,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69608
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgyeong.wav
       발음: 월경
     어휘 등급: 없음
     원어: 月經
@@ -8366,13 +8547,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69609
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69609_wolgyegwan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69609_wolgyegwan.wav
       발음: 월계관
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69609_wolgegwan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69609_wolgegwan.wav
       발음: 월게관
     어휘 등급: 없음
     원어: 月桂冠
@@ -8418,13 +8599,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69610
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgyesu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgyesu.wav
       발음: 월계수
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgesu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgesu.wav
       발음: 월게수
     어휘 등급: 없음
     원어: 月桂樹
@@ -8457,11 +8638,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69611
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgwang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgwang.wav
       발음: 월광
     어휘 등급: 없음
     원어: 月光
@@ -8496,11 +8677,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69616
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/wolkkwon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/wolkkwon.wav
       발음: 월꿘
     어휘 등급: 없음
     원어: 越權
@@ -8531,14 +8712,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69617
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69617_wolkkwonhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69617_wolkkwonhada.wav
       발음: 월꿘하다
     어휘 등급: 없음
-    원어: 越權 하다
+    원어: 越權하다
     의미:
     - 뜻풀이: 자신의 권력이 미치는 범위 밖의 일에 관여하다.
       문형: 1이 월권하다
@@ -8566,11 +8747,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69618
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolkkwonhaengwi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolkkwonhaengwi.wav
       발음: 월꿘행위
     어휘 등급: 없음
     원어: 越權行爲
@@ -8602,11 +8783,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69619
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgeup.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgeup.wav
       발음: 월급
     어휘 등급: 초급
     원어: 月給
@@ -8644,13 +8825,13 @@ import:
     항목ID: 69619
     활용:
     - 발음: 월그비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69619_wolgeubi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69619_wolgeubi.wav
       형태: 월급이
     - 발음: 월급또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69619_wolgeuptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69619_wolgeuptto.wav
       형태: 월급도
     - 발음: 월금만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69619_wolgeumman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69619_wolgeumman.wav
       형태: 월급만
 result:
   맞춤법 검사:
@@ -8661,14 +8842,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69620
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/wolgeumnal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/wolgeumnal.wav
       발음: 월금날
     어휘 등급: 없음
-    원어: 月給 날
+    원어: 月給날
     의미:
     - 뜻풀이: 일한 대가로 한 달마다 지급하는 보수를 받는 날.
       용례.구:
@@ -8695,11 +8876,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69621
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgeupppongtu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgeupppongtu.wav
       발음: 월급뽕투
     어휘 등급: 없음
     원어: 月給封套
@@ -8729,14 +8910,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69622
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolgeupjjaengi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolgeupjjaengi.wav
       발음: 월급쨍이
     어휘 등급: 없음
-    원어: 月給 쟁이
+    원어: 月給쟁이
     의미:
     - 뜻풀이: (낮잡아 이르는 말로) 월급을 받고 일하는 사람.
       용례.구:
@@ -8763,11 +8944,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69624
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69624_wolgeupjje.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69624_wolgeupjje.wav
       발음: 월급쩨
     어휘 등급: 없음
     원어: 月給制
@@ -8798,11 +8979,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69675
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69676_wollam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69676_wollam.wav
       발음: 월람
     어휘 등급: 없음
     원어: 越南
@@ -8851,11 +9032,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69676
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69676_wollam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69676_wollam.wav
       발음: 월람
     어휘 등급: 없음
     원어: 越南
@@ -8878,14 +9059,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69677
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolramhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolramhada.wav
       발음: 월람하다
     어휘 등급: 없음
-    원어: 越南 하다
+    원어: 越南하다
     의미:
     - 관련어:반대말:
       - 동형어 번호: 0
@@ -8936,11 +9117,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69678
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolrae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolrae.wav
       발음: 월래
     어휘 등급: 없음
     원어: 月內
@@ -8983,11 +9164,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69679
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69679_wolttong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69679_wolttong.wav
       발음: 월똥
     어휘 등급: 없음
     원어: 越冬
@@ -9025,14 +9206,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69680
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/wolttonghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/wolttonghada.wav
       발음: 월똥하다
     어휘 등급: 없음
-    원어: 越冬 하다
+    원어: 越冬하다
     의미:
     - 뜻풀이: 겨울을 보내다.
       문형: 1이 월동하다
@@ -9060,7 +9241,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69987
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -9096,11 +9277,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69991
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/69991_woltteung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/69991_woltteung.wav
       발음: 월뜽
     어휘 등급: 없음
     원어: 越等
@@ -9135,14 +9316,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69993
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/woltteunghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/woltteunghada.wav
       발음: 월뜽하다
     어휘 등급: 없음
-    원어: 越等 하다
+    원어: 越等하다
     의미:
     - 뜻풀이: 수준이 다른 것이나 보통보다 훨씬 뛰어나다.
       문형: 1이 2보다 월등하다
@@ -9183,11 +9364,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69994
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/woltteunghi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/woltteunghi.wav
       발음: 월뜽히
     어휘 등급: 없음
     의미:
@@ -9226,11 +9407,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69998
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolrye.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolrye.wav
       발음: 월례
     어휘 등급: 없음
     원어: 月例
@@ -9265,11 +9446,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70003
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolmal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolmal.wav
       발음: 월말
     어휘 등급: 중급
     원어: 月末
@@ -9312,11 +9493,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70012
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70012_wolban.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70012_wolban.wav
       발음: 월반
     어휘 등급: 없음
     원어: 越班
@@ -9347,14 +9528,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70016
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70016_wolbanhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70016_wolbanhada.wav
       발음: 월반하다
     어휘 등급: 없음
-    원어: 越班 하다
+    원어: 越班하다
     의미:
     - 뜻풀이: 성적이 뛰어나서 원래 올라가야 하는 학년보다 더 높은 학년으로 올라가다.
       문형: 1이 월반하다
@@ -9382,11 +9563,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70028
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolbyeol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolbyeol.wav
       발음: 월별
     어휘 등급: 없음
     원어: 月別
@@ -9416,11 +9597,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70031
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolbu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolbu.wav
       발음: 월부
     어휘 등급: 없음
     원어: 月賦
@@ -9451,11 +9632,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70034
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70034_wolbugeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70034_wolbugeum.wav
       발음: 월부금
     어휘 등급: 없음
     원어: 月賦金
@@ -9485,11 +9666,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70058
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolbuk.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolbuk.wav
       발음: 월북
     어휘 등급: 없음
     원어: 越北
@@ -9536,13 +9717,13 @@ import:
     항목ID: 70058
     활용:
     - 발음: 월부기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70058_wolbugi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70058_wolbugi.wav
       형태: 월북이
     - 발음: 월북또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70058_wolbuktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70058_wolbuktto.wav
       형태: 월북도
     - 발음: 월붕만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70058_wolbungman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70058_wolbungman.wav
       형태: 월북만
 result:
   맞춤법 검사:
@@ -9553,15 +9734,23 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=249403&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     발음:
     - 월북짜
+    어휘정보:
+    - 기준: 어휘
+      단어: 월남-자
+      대상항목ID: 466710
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=466710&searchKeywordTo=3
+      종류: 반대말
     원어:
       언어: 한자
       원어: 越北者
     의미:
     - 뜻풀이: 삼팔선 또는 휴전선의 북쪽으로 넘어간 사람.
+      원뜻풀이: 삼팔선 또는 휴전선의 북쪽으로 넘어간 사람.
+      의미코드: 50643
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -9576,14 +9765,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70059
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolbukada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolbukada.wav
       발음: 월부카다
     어휘 등급: 없음
-    원어: 越北 하다
+    원어: 越北하다
     의미:
     - 관련어:반대말:
       - 동형어 번호: 0
@@ -9635,11 +9824,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70061
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolssageum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolssageum.wav
       발음: 월싸금
     어휘 등급: 없음
     원어: 月謝金
@@ -9685,11 +9874,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70062
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolssaek.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolssaek.wav
       발음: 월쌕
     어휘 등급: 없음
     원어: 月色
@@ -9723,13 +9912,13 @@ import:
     항목ID: 70062
     활용:
     - 발음: 월쌔기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70062_wolssaegi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70062_wolssaegi.wav
       형태: 월색이
     - 발음: 월쌕또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70062_wolssaektto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70062_wolssaektto.wav
       형태: 월색도
     - 발음: 월쌩만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70062_wolssaengman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70062_wolssaengman.wav
       형태: 월색만
 result:
   맞춤법 검사:
@@ -9740,11 +9929,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26723
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolsse.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolsse.wav
       발음: 월쎄
     어휘 등급: 중급
     원어: 月貰
@@ -9806,11 +9995,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70063
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70063_wolsseppang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70063_wolsseppang.wav
       발음: 월쎄빵
     어휘 등급: 없음
     원어: 月貰房
@@ -9848,11 +10037,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70064
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70064_wolssu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70064_wolssu.wav
       발음: 월쑤
     어휘 등급: 없음
     원어: 月收
@@ -9908,11 +10097,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70065
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolssuip.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolssuip.wav
       발음: 월쑤입
     어휘 등급: 없음
     원어: 月收入
@@ -9939,13 +10128,13 @@ import:
     항목ID: 70065
     활용:
     - 발음: 월쑤이비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70065_wolssuibi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70065_wolssuibi.wav
       형태: 월수입이
     - 발음: 월쑤입또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70065_wolssuiptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70065_wolssuiptto.wav
       형태: 월수입도
     - 발음: 월쑤임만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70065_wolssuimman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70065_wolssuimman.wav
       형태: 월수입만
 result:
   맞춤법 검사:
@@ -9956,11 +10145,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70066
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2006/wolssik.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2006/wolssik.wav
       발음: 월씩
     어휘 등급: 없음
     원어: 月蝕/月食
@@ -9990,13 +10179,13 @@ import:
     항목ID: 70066
     활용:
     - 발음: 월씨기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70066_wolssigi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70066_wolssigi.wav
       형태: 월식이
     - 발음: 월씩또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70066_wolssiktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70066_wolssiktto.wav
       형태: 월식도
     - 발음: 월씽만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70066_wolssingman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70066_wolssingman.wav
       형태: 월식만
 result:
   맞춤법 검사:
@@ -10007,11 +10196,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70068
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70068_woryoppyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70068_woryoppyeong.wav
       발음: 워료뼝
     어휘 등급: 없음
     원어: 月曜病
@@ -10041,11 +10230,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70069
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/woryoil.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/woryoil.wav
       발음: 워료일
     어휘 등급: 초급
     원어: 月曜日
@@ -10078,11 +10267,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70071
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/woljjung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/woljjung.wav
       발음: 월쭝
     어휘 등급: 없음
     원어: 月中
@@ -10112,11 +10301,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70107
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70107_wolcha.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70107_wolcha.wav
       발음: 월차
     어휘 등급: 고급
     원어: 月次
@@ -10129,7 +10318,7 @@ import:
       - 월차를 쓰다.
       - 월차로 빠지다.
       용례.대화:
-      - 응, 월차를 안 쓰고 모아 놨다가 여름에 한번에 쓸 생각이야.
+      - 응, 월차를 안 쓰고 모아 놨다가 여름에 한 번에 쓸 생각이야.
       용례.문장:
       - 나는 몸이 너무 안 좋아서 월차를 내고 집에서 쉬었다.
       - 민준이는 매달 마지막 주에 월차를 신청하고 여행을 간다.
@@ -10148,11 +10337,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70108
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolcheok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolcheok.wav
       발음: 월척
     어휘 등급: 없음
     원어: 越尺
@@ -10176,13 +10365,13 @@ import:
     항목ID: 70108
     활용:
     - 발음: 월처기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70108_wolcheogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70108_wolcheogi.wav
       형태: 월척이
     - 발음: 월척또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70108_wolcheoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70108_wolcheoktto.wav
       형태: 월척도
     - 발음: 월청만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70108_wolcheongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70108_wolcheongman.wav
       형태: 월척만
 result:
   맞춤법 검사:
@@ -10193,11 +10382,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70109
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wolcho.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wolcho.wav
       발음: 월초
     어휘 등급: 없음
     원어: 月初
@@ -10239,11 +10428,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70110
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70110_wolchul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70110_wolchul.wav
       발음: 월출
     어휘 등급: 없음
     원어: 月出
@@ -10273,11 +10462,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=70111
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/24000/70111_wolpyeonggyun.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/24000/70111_wolpyeonggyun.wav
       발음: 월평균
     어휘 등급: 없음
     원어: 月平均
@@ -10309,7 +10498,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=260735&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:44:07+09:00'
+    가져온 시각: '2023-05-01T05:38:37+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -10317,6 +10506,8 @@ import:
     의미:
     - 뜻풀이: 한 줄 또는 여러 줄로 된 나사 모양의 비틀린 이를 가진 톱니바퀴. 웜 기어와 맞물려 운동을 전달한다.
       분류: 기계
+      원뜻풀이: 한 줄 또는 여러 줄로 된 나사 모양의 비틀린 이를 가진 톱니바퀴. 웜 기어와 맞물려 운동을 전달한다.
+      의미코드: 241763
       종류: 일반어
       품사: 명사
     종류: 외래어

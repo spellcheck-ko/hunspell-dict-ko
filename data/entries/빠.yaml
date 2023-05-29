@@ -2,17 +2,17 @@
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=162710&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:54:42+09:00'
+    가져온 시각: '2023-05-01T04:03:34+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=438971&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=438971&searchKeywordTo=1
       종류: 부표제어
       표제어: 빠각-거리다
       항목ID: 438971
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=162711&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=162711&searchKeywordTo=1
       종류: 부표제어
       표제어: 빠각-대다
       항목ID: 162711
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=162712&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=162712&searchKeywordTo=1
       종류: 부표제어
       표제어: 빠각-하다
       항목ID: 162712
@@ -21,6 +21,9 @@ import:
     - 빠각
     의미:
     - 뜻풀이: 작고 단단한 물건이나 질기고 빳빳한 물건이 맞닿을 때 나는 소리. ‘바각’보다 센 느낌을 준다.
+      원뜻풀이: 작고 단단한 물건이나 질기고 빳빳한 물건이 맞닿을 때 나는 소리. ‘<sense_no>495727</sense_no>바각’보다
+        센 느낌을 준다.
+      의미코드: 181004
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -35,11 +38,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60830
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppagaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppagaeda.wav
       발음: 빠개다
     어휘 등급: 없음
     의미:
@@ -77,11 +80,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60831
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60831_ppagaejida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60831_ppagaejida.wav
       발음: 빠개지다
     어휘 등급: 없음
     의미:
@@ -104,13 +107,13 @@ import:
     항목ID: 60831
     활용:
     - 발음: 빠개지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60831_ppagaejieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60831_ppagaejieo.wav
       형태: 빠개지어
     - 발음: 빠개지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60831_ppagaejiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60831_ppagaejiyeo.wav
       형태: 빠개지어
     - 발음: 빠개저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/60831_ppagaejeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/60831_ppagaejeo.wav
       형태: 빠개져
     - 형태: 빠개지니
 result:
@@ -124,11 +127,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60794
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60794_ppakkeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60794_ppakkeum.wav
       발음: 빠끔
     어휘 등급: 없음
     의미:
@@ -193,11 +196,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60795
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60794_ppakkeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60794_ppakkeum.wav
       발음: 빠끔
     어휘 등급: 없음
     의미:
@@ -239,11 +242,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60798
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppakkeumppakkeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppakkeumppakkeum.wav
       발음: 빠끔빠끔
     어휘 등급: 없음
     의미:
@@ -286,11 +289,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60803
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60803_ppakkeumhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60803_ppakkeumhada.wav
       발음: 빠끔하다
     어휘 등급: 없음
     의미:
@@ -337,11 +340,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60806
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60806_ppakkeumhi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60806_ppakkeumhi.wav
       발음: 빠끔히
     어휘 등급: 없음
     의미:
@@ -414,11 +417,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60808
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppadeutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppadeutada.wav
       발음: 빠드타다
     어휘 등급: 고급
     의미:
@@ -479,11 +482,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15643
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/15643_ppa-tteurida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/15643_ppa-tteurida.wav
       발음: 빠ː뜨리다
     어휘 등급: 중급
     의미:
@@ -577,16 +580,16 @@ import:
     항목ID: 15643
     활용:
     - 발음: 빠ː뜨리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15643_ppa-tteurieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/15643_ppa-tteurieo.wav
       형태: 빠뜨리어
     - 발음: 빠ː뜨리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15643_ppa-tteuriyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/15643_ppa-tteuriyeo.wav
       형태: 빠뜨리어
     - 발음: 빠ː뜨려
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/15643_ppa-tteuryeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/15643_ppa-tteuryeo.wav
       형태: 빠뜨려
     - 발음: 빠ː뜨리니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15643_ppa-tteurini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/15643_ppa-tteurini.wav
       형태: 빠뜨리니
 result:
   맞춤법 검사:
@@ -597,11 +600,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68755
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppareuda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppareuda.wav
       발음: 빠르다
     어휘 등급: 초급
     의미:
@@ -622,7 +625,7 @@ import:
       용례.문장:
       - 그가 빠르게 음식을 먹어치웠다.
       - 해가 저물자 일꾼들의 손놀림이 빨랐다.
-      - 지수는 일처리가 빠르고 확실해서 같이 일하는 사람들로부터 좋은 평을 듣는다.
+      - 지수는 일 처리가 빠르고 확실해서 같이 일하는 사람들로부터 좋은 평을 듣는다.
       의미ID: 1
     - 관련어:반대말:
       - 동형어 번호: 0
@@ -707,14 +710,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60809
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/60809_ppareunupyeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/60809_ppareunupyeon.wav
       발음: 빠르누편
     어휘 등급: 없음
-    원어: 빠른 郵便
+    원어: 빠른郵便
     의미:
     - 뜻풀이: 우편물을 접수한 다음 날에 배달되는 우편.
       용례.구:
@@ -741,12 +744,14 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=440471&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:54:42+09:00'
+    가져온 시각: '2023-05-01T04:03:34+09:00'
     구분: 단어
     발음:
     - 빠릳빠리타다
     의미:
     - 뜻풀이: 똘똘하고 행동이 날래다.
+      원뜻풀이: 똘똘하고 행동이 날래다.
+      의미코드: 182063
       종류: 일반어
       품사: 형용사
     종류: 고유어
@@ -765,16 +770,27 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=165965&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:54:42+09:00'
+    가져온 시각: '2023-05-01T04:03:34+09:00'
     구분: 단어
     발음:
     - 빠사카다
+    어휘정보:
+    - 기준: 어휘
+      단어: 빠사삭-하다
+      대상항목ID: 165961
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=165961&searchKeywordTo=3
+      종류: 본말
     의미:
     - 뜻풀이: 눈을 조금 세게 밟는 소리가 나다. 또는 그런 소리를 내다.
+      원뜻풀이: 눈을 조금 세게 밟는 소리가 나다. 또는 그런 소리를 내다.
+      의미코드: 375016
       종류: 일반어
       품사: 동사
       형태: (…을)
     - 뜻풀이: 바스러지기 쉬울 정도로 물기가 없이 보송보송하다. ‘바삭하다[Ⅱ]’보다 센 느낌을 준다.
+      원뜻풀이: 바스러지기 쉬울 정도로 물기가 없이 보송보송하다. ‘<sense_no>421616</sense_no>바삭하다’보다 센 느낌을
+        준다.
+      의미코드: 424159
       종류: 일반어
       품사: 형용사
     종류: 고유어
@@ -793,13 +809,15 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=166523&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:54:42+09:00'
+    가져온 시각: '2023-05-01T04:03:34+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: ←bye-bye
     의미:
     - 뜻풀이: 어린아이의 말로, 헤어질 때 하는 인사말.
+      원뜻풀이: 어린아이의 말로, 헤어질 때 하는 인사말.
+      의미코드: 182241
       종류: 일반어
       품사: 감탄사
     종류: 외래어
@@ -814,11 +832,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15644
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/15644_ppa-jeonagada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/15644_ppa-jeonagada.wav
       발음: 빠ː저나가다
     어휘 등급: 중급
     의미:
@@ -843,10 +861,10 @@ import:
     항목ID: 15644
     활용:
     - 발음: 빠ː저나가
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15644_ppa-jeonaga.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/15644_ppa-jeonaga.wav
       형태: 빠져나가
     - 발음: 빠ː저나가니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15644_ppa-jeonagani.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/15644_ppa-jeonagani.wav
       형태: 빠져나가니
 import_derived:
   맞춤법 검사:
@@ -869,11 +887,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15645
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/15645_ppa-jeonaoda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/15645_ppa-jeonaoda.wav
       발음: 빠ː저나오다
     어휘 등급: 중급
     의미:
@@ -897,10 +915,10 @@ import:
     항목ID: 15645
     활용:
     - 발음: 빠ː저나와
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/15645_ppa-jeonawa.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/15645_ppa-jeonawa.wav
       형태: 빠져나와
     - 발음: 빠ː저나오니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/15645_ppa-jeonaoni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/15645_ppa-jeonaoni.wav
       형태: 빠져나오니
 import_derived:
   맞춤법 검사:
@@ -923,11 +941,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60832
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60832_ppa-jeodeulda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60832_ppa-jeodeulda.wav
       발음: 빠ː저들다
     어휘 등급: 없음
     의미:
@@ -978,13 +996,13 @@ import:
     항목ID: 60832
     활용:
     - 발음: 빠ː저드러
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60832_ppa-jeodeureo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60832_ppa-jeodeureo.wav
       형태: 빠져들어
     - 발음: 빠ː저드니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60832_ppa-jeodeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60832_ppa-jeodeuni.wav
       형태: 빠져드니
     - 발음: 빠ː저듬니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60832_ppa-jeodeumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60832_ppa-jeodeumnida.wav
       형태: 빠져듭니다
 import_derived:
   맞춤법 검사:
@@ -1005,11 +1023,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66637
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/66637_ppa-jida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/66637_ppa-jida.wav
       발음: 빠ː지다
     어휘 등급: 중급
     의미:
@@ -1196,19 +1214,19 @@ import:
     항목ID: 66637
     활용:
     - 발음: 빠ː지는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/66637_ppa-jieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/66637_ppa-jieo.wav
       형태: 빠지는
     - 발음: 빠ː지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/66637_ppa-jieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/66637_ppa-jieo.wav
       형태: 빠지어
     - 발음: 빠ː지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/66637_ppa-jiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/66637_ppa-jiyeo.wav
       형태: 빠지어
     - 발음: 빠ː저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/66637_ppa-jeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/66637_ppa-jeo.wav
       형태: 빠져
     - 발음: 빠ː지니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/66637_ppa-jini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/66637_ppa-jini.wav
       형태: 빠지니
     - 발음: 빠ː짐니다
       형태: 빠집니다
@@ -1221,11 +1239,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71273
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppa-jida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppa-jida.wav
       발음: 빠ː지다
     어휘 등급: 초급
     의미:
@@ -1306,16 +1324,16 @@ import:
     항목ID: 71273
     활용:
     - 발음: 빠ː지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppa-jieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppa-jieo.wav
       형태: 빠지어
     - 발음: 빠ː지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppa-jiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppa-jiyeo.wav
       형태: 빠지어
     - 발음: 빠ː저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppa-jeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppa-jeo.wav
       형태: 빠져
     - 발음: 빠ː지니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppa-jini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppa-jini.wav
       형태: 빠지니
 result:
   맞춤법 검사:
@@ -1326,11 +1344,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73404
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppa-jida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppa-jida.wav
       발음: 빠ː지다
     어휘 등급: 없음
     의미:
@@ -1346,24 +1364,22 @@ import:
       - 아버지의 낡아 빠진 구두를 보니 마음이 아파 새 구두를 하나 사 드렸다.
       - 뇌물을 요구하는 몇몇 썩어 빠진 경찰들이 열심히 일하는 다른 경찰들의 명예까지 더럽힌다.
       의미ID: 1
-      참고: 일부 형용사 뒤에서 '-어 빠지다'로 쓴다.
+      참고: 일부 동사나 형용사 뒤에서 '-어 빠지다'로 쓴다.
     표제어: 빠지다
     품사: 보조 동사
     항목ID: 73404
     활용:
-    - 발음: 빠ː진
-      형태: 빠진
     - 발음: 빠ː지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/66637_ppa-jieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/66637_ppa-jieo.wav
       형태: 빠지어
     - 발음: 빠ː지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/66637_ppa-jiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/66637_ppa-jiyeo.wav
       형태: 빠지어
     - 발음: 빠ː저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/66637_ppa-jeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/66637_ppa-jeo.wav
       형태: 빠져
     - 발음: 빠ː지니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/66637_ppa-jini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/66637_ppa-jini.wav
       형태: 빠지니
     - 발음: 빠ː짐니다
       형태: 빠집니다
@@ -1378,9 +1394,9 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=167701&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:54:42+09:00'
+    가져온 시각: '2023-05-01T04:03:34+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=441878&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=441878&searchKeywordTo=1
       종류: 부표제어
       표제어: 빠짐없-이
       항목ID: 441878
@@ -1392,6 +1408,8 @@ import:
       원어: 'null'
     의미:
     - 뜻풀이: 하나도 빠뜨리지 아니하고 모두 다 있다.
+      원뜻풀이: 하나도 빠뜨리지 아니하고 모두 다 있다.
+      의미코드: 182623
       종류: 일반어
       품사: 형용사
     종류: 고유어
@@ -1412,11 +1430,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60833
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60833_ppa-jimeopssi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60833_ppa-jimeopssi.wav
       발음: 빠ː지멉씨
     어휘 등급: 중급
     의미:
@@ -1446,11 +1464,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60923
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60923_ppa-teurida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60923_ppa-teurida.wav
       발음: 빠ː트리다
     어휘 등급: 없음
     의미:
@@ -1534,16 +1552,16 @@ import:
     항목ID: 60923
     활용:
     - 발음: 빠ː트리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60923_ppa-teurieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60923_ppa-teurieo.wav
       형태: 빠트리어
     - 발음: 빠ː트리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60923_ppa-teuriyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60923_ppa-teuriyeo.wav
       형태: 빠트리어
     - 발음: 빠ː트려
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/60923_ppa-teuryeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/60923_ppa-teuryeo.wav
       형태: 빠트려
     - 발음: 빠ː트리니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/60923_ppa-teurini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/60923_ppa-teurini.wav
       형태: 빠트리니
 result:
   맞춤법 검사:
@@ -1554,12 +1572,14 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=437997&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:54:42+09:00'
+    가져온 시각: '2023-05-01T04:03:34+09:00'
     구분: 단어
     발음:
     - 빡
     의미:
     - 뜻풀이: 이 따위를 야무지게 갈거나 무는 소리. 또는 그 모양.
+      원뜻풀이: 이 따위를 야무지게 갈거나 무는 소리. 또는 그 모양.
+      의미코드: 484986
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -1574,11 +1594,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60924
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60924_ppakppak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60924_ppakppak.wav
       발음: 빡빡
     어휘 등급: 없음
     의미:
@@ -1693,11 +1713,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89910
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppakppangmeori.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppakppangmeori.wav
       발음: 빡빵머리
     어휘 등급: 없음
     의미:
@@ -1733,11 +1753,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60925
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppakppakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppakppakada.wav
       발음: 빡빠카다
     어휘 등급: 고급
     의미:
@@ -1850,11 +1870,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61002
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61002_ppanjilgeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61002_ppanjilgeorida.wav
       발음: 빤질거리다
     어휘 등급: 없음
     의미:
@@ -1916,11 +1936,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88779
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88779_ppanjildaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88779_ppanjildaeda.wav
       발음: 빤질대다
     어휘 등급: 없음
     의미:
@@ -1976,11 +1996,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88790
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88790_ppanjilppanjil.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88790_ppanjilppanjil.wav
       발음: 빤질빤질
     어휘 등급: 없음
     의미:
@@ -2039,11 +2059,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88780
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88780_ppanjilppanjilhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88780_ppanjilppanjilhada.wav
       발음: 빤질빤질하다
     어휘 등급: 없음
     의미:
@@ -2085,11 +2105,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88781
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88780_ppanjilppanjilhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88780_ppanjilppanjilhada.wav
       발음: 빤질빤질하다
     어휘 등급: 없음
     의미:
@@ -2152,11 +2172,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61010
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61010_ppanjjak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61010_ppanjjak.wav
       발음: 빤짝
     어휘 등급: 없음
     의미:
@@ -2270,11 +2290,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61007
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppanjjakkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppanjjakkkeorida.wav
       발음: 빤짝꺼리다
     어휘 등급: 없음
     의미:
@@ -2310,11 +2330,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88782
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88782_ppanjjakttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88782_ppanjjakttaeda.wav
       발음: 빤짝때다
     어휘 등급: 없음
     의미:
@@ -2349,11 +2369,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61011
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61011_ppanjjakppanjjak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61011_ppanjjakppanjjak.wav
       발음: 빤짝빤짝
     어휘 등급: 없음
     의미:
@@ -2448,11 +2468,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88783
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88783_ppanjjakppanjjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88783_ppanjjakppanjjakada.wav
       발음: 빤짝빤짜카다
     어휘 등급: 없음
     의미:
@@ -2487,11 +2507,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88784
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88784_ppanjjakppanjjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88784_ppanjjakppanjjakada.wav
       발음: 빤짝빤짜카다
     어휘 등급: 없음
     의미:
@@ -2553,11 +2573,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88785
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88785_ppanjjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88785_ppanjjakada.wav
       발음: 빤짜카다
     어휘 등급: 없음
     의미:
@@ -2678,11 +2698,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61012
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61012_ppan-hada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61012_ppan-hada.wav
       발음: 빤ː하다
     어휘 등급: 없음
     의미:
@@ -2749,11 +2769,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60505
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60505_ppan-hi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60505_ppan-hi.wav
       발음: 빤ː히
     어휘 등급: 고급
     의미:
@@ -2807,11 +2827,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60674
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalgabeottta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalgabeottta.wav
       발음: 빨가벋따
     어휘 등급: 없음
     의미:
@@ -2838,13 +2858,13 @@ import:
     항목ID: 60674
     활용:
     - 발음: 빨가버서
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60674_ppalgabeoseo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60674_ppalgabeoseo.wav
       형태: 빨가벗어
     - 발음: 빨가버스니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60674_ppalgabeoseuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60674_ppalgabeoseuni.wav
       형태: 빨가벗으니
     - 발음: 빨가번는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60674_ppalgabeonneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60674_ppalgabeonneun.wav
       형태: 빨가벗는
 result:
   맞춤법 검사:
@@ -2855,11 +2875,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60383
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60383_ppalganbul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60383_ppalganbul.wav
       발음: 빨간불
     어휘 등급: 없음
     의미:
@@ -2922,14 +2942,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26849
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/26849_ppalgansaek.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/26849_ppalgansaek.wav
       발음: 빨간색
     어휘 등급: 초급
-    원어: 빨간 色
+    원어: 빨간色
     의미:
     - 뜻풀이: 흐르는 피나 잘 익은 사과, 고추처럼 붉은 색.
       용례.구:
@@ -2959,13 +2979,13 @@ import:
     항목ID: 26849
     활용:
     - 발음: 빨간새기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/26849_ppalgansaegi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/26849_ppalgansaegi.wav
       형태: 빨간색이
     - 발음: 빨간색또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/26849_ppalgansaektto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/26849_ppalgansaektto.wav
       형태: 빨간색도
     - 발음: 빨간생만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/26849_ppalgansaengman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/26849_ppalgansaengman.wav
       형태: 빨간색만
 result:
   맞춤법 검사:
@@ -2976,11 +2996,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60326
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalgang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalgang.wav
       발음: 빨강
     어휘 등급: 중급
     의미:
@@ -3011,11 +3031,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71070
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/71070_ppar-gata.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/71070_ppar-gata.wav
       발음: 빨ː가타
     어휘 등급: 초급
     의미:
@@ -3045,13 +3065,13 @@ import:
     - 발음: 빨ː간
       형태: 빨간
     - 발음: 빨ː개
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/71070_ppar-gae.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/71070_ppar-gae.wav
       형태: 빨개
     - 발음: 빨ː가니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/71070_ppar-gani.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/71070_ppar-gani.wav
       형태: 빨가니
     - 발음: 빨ː가씀니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/71070_ppar-gasseumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/71070_ppar-gasseumnida.wav
       형태: 빨갛습니다
 result:
   맞춤법 검사:
@@ -3064,11 +3084,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60585
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60585_ppar-gaejida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60585_ppar-gaejida.wav
       발음: 빨ː개지다
     어휘 등급: 중급
     의미:
@@ -3097,16 +3117,16 @@ import:
     항목ID: 60585
     활용:
     - 발음: 빨ː개지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60585_ppar-gaejieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60585_ppar-gaejieo.wav
       형태: 빨개지어
     - 발음: 빨ː개지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/60585_ppar-gaejiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/60585_ppar-gaejiyeo.wav
       형태: 빨개지어
     - 발음: 빨ː개저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/60585_ppar-gaejeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/60585_ppar-gaejeo.wav
       형태: 빨개져
     - 발음: 빨ː개지니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/60585_ppar-gaejini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/60585_ppar-gaejini.wav
       형태: 빨개지니
 result:
   맞춤법 검사:
@@ -3119,11 +3139,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60382
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalgaengi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalgaengi.wav
       발음: 빨갱이
     어휘 등급: 없음
     의미:
@@ -3152,11 +3172,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15646
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalda.wav
       발음: 빨다
     어휘 등급: 중급
     의미:
@@ -3198,11 +3218,11 @@ import:
     항목ID: 15646
     활용:
     - 발음: 빠라
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/65866_ppara.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/65866_ppara.wav
       형태: 빨아
     - 형태: 빠니
     - 발음: 빰니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/65866_ppamnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/65866_ppamnida.wav
       형태: 빱니다
 result:
   맞춤법 검사:
@@ -3213,11 +3233,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=65866
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalda.wav
       발음: 빨다
     어휘 등급: 초급
     의미:
@@ -3243,11 +3263,11 @@ import:
     항목ID: 65866
     활용:
     - 발음: 빠라
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/65866_ppara.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/65866_ppara.wav
       형태: 빨아
     - 형태: 빠니
     - 발음: 빰니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/65866_ppamnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/65866_ppamnida.wav
       형태: 빱니다
 result:
   맞춤법 검사:
@@ -3258,11 +3278,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60378
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalttae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalttae.wav
       발음: 빨때
     어휘 등급: 없음
     의미:
@@ -3295,7 +3315,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92252
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -3313,11 +3333,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60379
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/60379_ppallangppallang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/60379_ppallangppallang.wav
       발음: 빨랑빨랑
     어휘 등급: 없음
     의미:
@@ -3347,11 +3367,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66638
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalrae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalrae.wav
       발음: 빨래
     어휘 등급: 초급
     의미:
@@ -3395,14 +3415,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60380
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalraebang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalraebang.wav
       발음: 빨래방
     어휘 등급: 없음
-    원어: 빨래 房
+    원어: 빨래房
     의미:
     - 다중 매체 정보:사진:
       - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120203/20307/PIC000195800_700X466.jpg
@@ -3435,11 +3455,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=60381
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalraejipkke.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalraejipkke.wav
       발음: 빨래집께
     어휘 등급: 없음
     의미:
@@ -3470,12 +3490,20 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=158772&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:54:42+09:00'
+    가져온 시각: '2023-05-01T04:03:34+09:00'
     구분: 단어
     발음:
     - 빨래터
     의미:
     - 뜻풀이: 시내나 샘터에서 빨래할 수 있게 마련한 일정한 장소.
+      어휘정보:
+      - 기준: 의미
+        단어: 세탁-장
+        대상항목ID: 425900
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=189937&searchKeywordTo=3
+        종류: 비슷한말
+      원뜻풀이: 시내나 샘터에서 빨래할 수 있게 마련한 일정한 장소.
+      의미코드: 387737
       종류: 일반어
       품사: 명사
     종류: 고유어
@@ -3490,14 +3518,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61004
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalraepan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalraepan.wav
       발음: 빨래판
     어휘 등급: 없음
-    원어: 빨래 板
+    원어: 빨래板
     의미:
     - 다중 매체 정보:사진:
       - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120114/7864/IMG000099534_700X466.jpg
@@ -3527,11 +3555,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61003
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61003_ppallaehada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61003_ppallaehada.wav
       발음: 빨래하다
     어휘 등급: 없음
     의미:
@@ -3563,13 +3591,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61008
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalraekkam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalraekkam.wav
       발음: 빨래깜
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalraetkkam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalraetkkam.wav
       발음: 빨랟깜
     어휘 등급: 없음
     의미:
@@ -3606,13 +3634,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61059
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalraeppangmangi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalraeppangmangi.wav
       발음: 빨래빵망이
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalraetppangmangi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalraetppangmangi.wav
       발음: 빨랟빵망이
     어휘 등급: 없음
     의미:
@@ -3645,13 +3673,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61062
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalraeppinu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalraeppinu.wav
       발음: 빨래삐누
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalraetppinu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalraetppinu.wav
       발음: 빨랟삐누
     어휘 등급: 없음
     의미:
@@ -3692,13 +3720,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61064
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalraejjul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalraejjul.wav
       발음: 빨래쭐
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalraetjjul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalraetjjul.wav
       발음: 빨랟쭐
     어휘 등급: 없음
     의미:
@@ -3737,11 +3765,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57305
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalri.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalri.wav
       발음: 빨리
     어휘 등급: 초급
     의미:
@@ -3772,11 +3800,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61087
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalrida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalrida.wav
       발음: 빨리다
     어휘 등급: 없음
     의미:
@@ -3827,10 +3855,10 @@ import:
     항목ID: 61087
     활용:
     - 발음: 빨리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61087_ppallieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61087_ppallieo.wav
       형태: 빨리어
     - 발음: 빨리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
       형태: 빨리어
     - 형태: 빨리니
 result:
@@ -3842,11 +3870,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91949
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalrida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalrida.wav
       발음: 빨리다
     어휘 등급: 없음
     의미:
@@ -3871,10 +3899,10 @@ import:
     항목ID: 91949
     활용:
     - 발음: 빨리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61087_ppallieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61087_ppallieo.wav
       형태: 빨리어
     - 발음: 빨리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
       형태: 빨리어
     - 형태: 빨리니
 result:
@@ -3886,11 +3914,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61088
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppalrida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppalrida.wav
       발음: 빨리다
     어휘 등급: 없음
     의미:
@@ -3911,10 +3939,10 @@ import:
     항목ID: 61088
     활용:
     - 발음: 빨리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61087_ppallieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61087_ppallieo.wav
       형태: 빨리어
     - 발음: 빨리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/61087_ppalliyeo.wav
       형태: 빨리어
     - 형태: 빨리니
 result:
@@ -3926,11 +3954,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61184
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61184_ppallippalli.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61184_ppallippalli.wav
       발음: 빨리빨리
     어휘 등급: 없음
     의미:
@@ -3966,11 +3994,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61185
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61185_ppallihada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61185_ppallihada.wav
       발음: 빨리하다
     어휘 등급: 없음
     의미:
@@ -4007,11 +4035,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61192
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalppal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalppal.wav
       발음: 빨빨
     어휘 등급: 없음
     의미:
@@ -4044,11 +4072,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61193
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61193_ppalppalgeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61193_ppalppalgeorida.wav
       발음: 빨빨거리다
     어휘 등급: 없음
     의미:
@@ -4083,11 +4111,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88786
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88786_ppalppaldaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88786_ppalppaldaeda.wav
       발음: 빨빨대다
     어휘 등급: 없음
     의미:
@@ -4121,11 +4149,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61194
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61194_pparanaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61194_pparanaeda.wav
       발음: 빠라내다
     어휘 등급: 없음
     의미:
@@ -4149,13 +4177,13 @@ import:
     항목ID: 61194
     활용:
     - 발음: 빠라내어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61194_pparanaeeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61194_pparanaeeo.wav
       형태: 빨아내어
     - 발음: 빠라내
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/61194_pparanae.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/61194_pparanae.wav
       형태: 빨아내
     - 발음: 빠라내니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61194_pparanaeni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61194_pparanaeni.wav
       형태: 빨아내니
 result:
   맞춤법 검사:
@@ -4168,11 +4196,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61195
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/pparadeurida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/pparadeurida.wav
       발음: 빠라드리다
     어휘 등급: 없음
     의미:
@@ -4211,16 +4239,16 @@ import:
     항목ID: 61195
     활용:
     - 발음: 빠라드리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61195_pparadeurieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61195_pparadeurieo.wav
       형태: 빨아들이어
     - 발음: 빠라드리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61195_pparadeuriyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/61195_pparadeuriyeo.wav
       형태: 빨아들이어
     - 발음: 빠라드려
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/61195_pparadeuryeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/61195_pparadeuryeo.wav
       형태: 빨아들여
     - 발음: 빠라드리니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61195_pparadeurini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61195_pparadeurini.wav
       형태: 빨아들이니
 import_derived:
   맞춤법 검사:
@@ -4241,11 +4269,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61210
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/pparameoktta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/pparameoktta.wav
       발음: 빠라먹따
     어휘 등급: 없음
     의미:
@@ -4268,13 +4296,13 @@ import:
     항목ID: 61210
     활용:
     - 발음: 빠라머거
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61210_pparameogeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61210_pparameogeo.wav
       형태: 빨아먹어
     - 발음: 빠라머그니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61210_pparameogeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61210_pparameogeuni.wav
       형태: 빨아먹으니
     - 발음: 빠라멍는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61210_pparameongneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61210_pparameongneun.wav
       형태: 빨아먹는
 result:
   맞춤법 검사:
@@ -4285,11 +4313,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61214
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/pparaolrida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/pparaolrida.wav
       발음: 빠라올리다
     어휘 등급: 없음
     의미:
@@ -4315,16 +4343,16 @@ import:
     항목ID: 61214
     활용:
     - 발음: 빠라올리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61214_pparaollieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/61214_pparaollieo.wav
       형태: 빨아올리어
     - 발음: 빠라올리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61214_pparaolliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61214_pparaolliyeo.wav
       형태: 빨아올리어
     - 발음: 빠라올려
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/61214_pparaollyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/61214_pparaollyeo.wav
       형태: 빨아올려
     - 발음: 빠라올리니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61214_pparaollini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61214_pparaollini.wav
       형태: 빨아올리니
 result:
   맞춤법 검사:
@@ -4335,11 +4363,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61220
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2012/20000/012546.mp3
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2012/20000/012546.mp3
       발음: ''
     어휘 등급: 없음
     원어: ←partizan
@@ -4380,11 +4408,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67362
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppalpan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppalpan.wav
       발음: 빨판
     어휘 등급: 없음
     의미:
@@ -4419,11 +4447,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61244
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppatppasi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppatppasi.wav
       발음: 빧빠시
     어휘 등급: 없음
     의미:
@@ -4469,11 +4497,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61245
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/61245_ppatppatada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/61245_ppatppatada.wav
       발음: 빧빠타다
     어휘 등급: 없음
     의미:
@@ -4540,11 +4568,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23402
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppang.wav
       발음: 빵
     어휘 등급: 초급
     의미:
@@ -4600,11 +4628,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61246
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppang.wav
       발음: 빵
     어휘 등급: 없음
     의미:
@@ -4683,11 +4711,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61249
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup2_2005/ppangkkaru.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup2_2005/ppangkkaru.wav
       발음: 빵까루
     어휘 등급: 없음
     의미:
@@ -4721,7 +4749,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92253
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -4740,11 +4768,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61247
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppangppang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppangppang.wav
       발음: 빵빵
     어휘 등급: 없음
     의미:
@@ -4837,11 +4865,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61248
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2006/ppangppanggeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2006/ppangppanggeorida.wav
       발음: 빵빵거리다
     어휘 등급: 없음
     의미:
@@ -4912,11 +4940,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88787
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/88787_ppangppangdaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/88787_ppangppangdaeda.wav
       발음: 빵빵대다
     어휘 등급: 없음
     의미:
@@ -4985,12 +5013,20 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=159963&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:54:42+09:00'
+    가져온 시각: '2023-05-01T04:03:34+09:00'
     구분: 단어
     발음:
     - 빵빵하다
+    어휘정보:
+    - 기준: 어휘
+      단어: 빵빵-거리다
+      대상항목ID: 162139
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=162139&searchKeywordTo=3
+      종류: 비슷한말
     의미:
     - 뜻풀이: 공 따위를 세게 잇따라 차다.
+      원뜻풀이: 공 따위를 세게 잇따라 차다.
+      의미코드: 182248
       종류: 일반어
       품사: 동사
       형태: …을
@@ -5010,14 +5046,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61251
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/12000/61251_ppangjjeom.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/12000/61251_ppangjjeom.wav
       발음: 빵쩜
     어휘 등급: 없음
-    원어: 빵 點
+    원어: 빵點
     의미:
     - 뜻풀이: 받은 점수가 없음.
       용례.구:
@@ -5064,11 +5100,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61250
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/bieup_2005/ppangjjip.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/bieup_2005/ppangjjip.wav
       발음: 빵찝
     어휘 등급: 초급
     의미:
@@ -5104,13 +5140,13 @@ import:
     항목ID: 61250
     활용:
     - 발음: 빵찌비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61250_ppangjjibi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61250_ppangjjibi.wav
       형태: 빵집이
     - 발음: 빵찝또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/49000/61250_ppangjjiptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/49000/61250_ppangjjiptto.wav
       형태: 빵집도
     - 발음: 빵찜만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61250_ppangjjimman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61250_ppangjjimman.wav
       형태: 빵집만
 result:
   맞춤법 검사:
@@ -5121,11 +5157,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=61509
-    가져온 시각: '2019-09-05T09:38:54+09:00'
+    가져온 시각: '2023-05-01T01:38:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/20000/61509_ppa-ta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/20000/61509_ppa-ta.wav
       발음: 빠ː타
     어휘 등급: 없음
     의미:
@@ -5154,16 +5190,16 @@ import:
     항목ID: 61509
     활용:
     - 발음: 빠아
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/61509_ppaa.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/61509_ppaa.wav
       형태: 빻아
     - 발음: 빠으니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61509_ppaeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61509_ppaeuni.wav
       형태: 빻으니
     - 발음: 빤ː는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61509_ppan-neun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61509_ppan-neun.wav
       형태: 빻는
     - 발음: 빠ː씀니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/29000/61509_ppa-sseumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/29000/61509_ppa-sseumnida.wav
       형태: 빻습니다
 result:
   맞춤법 검사:

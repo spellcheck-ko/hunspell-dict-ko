@@ -2,13 +2,13 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24647
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/24647_joe-.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/24647_joe-.wav
       발음: 죄ː
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/24647_jwe-.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/24647_jwe-.wav
       발음: 줴ː
     어휘 등급: 중급
     원어: 罪
@@ -46,13 +46,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90791
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90791_joe-gwa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90791_joe-gwa.wav
       발음: 죄ː과
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90791_jwe-gwa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90791_jwe-gwa.wav
       발음: 줴ː과
     어휘 등급: 없음
     원어: 罪過
@@ -83,13 +83,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90792
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/90792_joe-da.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/26000/90792_joe-da.wav
       발음: 죄ː다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/90792_jwe-da.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/26000/90792_jwe-da.wav
       발음: 줴ː다
     어휘 등급: 없음
     의미:
@@ -97,15 +97,15 @@ import:
       - 동형어 번호: 0
         표제어: 조이다
         항목ID: 75409
-      뜻풀이: 느슨하거나 헐거운 것이 비틀리거나 잡아당겨져 단단해지거나 팽팽해지다. 또는 그렇게 되게 하다.
+      뜻풀이: 느슨하거나 헐거운 것을 비틀거나 잡아당겨서 단단하거나 팽팽하게 하다. 또는 그렇게 되다.
       문형: 1이 2를 죄다
       용례.구:
       - 죄는 옷.
-      - 바지가 죄다.
-      - 신발이 죄다.
       - 나사를 죄다.
       - 수도꼭지를 죄다.
+      - 신발이 발을 죄다.
       - 허리를 죄다.
+      - 바지가 배를 죄다.
       - 꽉 죄다.
       용례.대화:
       - 그럼 한 치수 더 큰 걸로 입어 봐.
@@ -117,7 +117,7 @@ import:
       - 동형어 번호: 0
         표제어: 조이다
         항목ID: 75409
-      뜻풀이: 차지하고 있던 공간이나 자리가 좁아지다. 또는 그렇게 되게 하다.
+      뜻풀이: 차지하고 있는 공간이나 자리를 좁히다. 또는 그렇게 되다.
       문형: 1이 2를 죄다
       용례.구:
       - 자리가 죄다.
@@ -135,7 +135,7 @@ import:
       - 동형어 번호: 0
         표제어: 조이다
         항목ID: 75409
-      뜻풀이: 마음이 초조해지고 긴장되다. 또는 그렇게 되게 하다.
+      뜻풀이: 긴장하거나 마음을 초조해하다. 또는 그렇게 되다.
       문형: 1이 2를 죄다
       용례.구:
       - 죄는 상황.
@@ -171,21 +171,29 @@ import:
     품사: 동사
     항목ID: 90792
     활용:
+    - 발음: 죄ː는
+      형태: 죄는
+    - 발음: 줴ː는
+      형태: 죄는
     - 발음: 죄어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90792_joeeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90792_joeeo.wav
       형태: 죄어
     - 발음: 줴여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90792_jweyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90792_jweyeo.wav
       형태: 죄어
     - 발음: 좨ː
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/90792_jwae-.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/90792_jwae-.wav
       형태: 좨
     - 발음: 죄ː니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90792_joe-ni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90792_joe-ni.wav
       형태: 죄니
     - 발음: 줴ː니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90792_jwe-ni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90792_jwe-ni.wav
       형태: 죄니
+    - 발음: 죔ː니다
+      형태: 죕니다
+    - 발음: 쥄ː니다
+      형태: 죕니다
 result:
   맞춤법 검사:
     표제어: 죄다
@@ -195,13 +203,31 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=305551&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:11:47+09:00'
+    가져온 시각: '2023-05-01T06:32:14+09:00'
     구분: 단어
     발음:
     - 죄ː다
     - 줴ː다
     의미:
     - 뜻풀이: 남김없이 모조리.
+      어휘정보:
+      - 기준: 의미
+        단어: 무비03
+        대상항목ID: 457821
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=122352&searchKeywordTo=3
+        종류: 비슷한말
+      - 기준: 의미
+        단어: 일병02
+        대상항목ID: 432398
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=270912&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 죄01
+        대상항목ID: 275481
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=308201&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 남김없이 모조리.
+      의미코드: 275731
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -216,13 +242,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90793
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90793_joe-myeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90793_joe-myeong.wav
       발음: 죄ː명
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90793_jwe-myeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90793_jwe-myeong.wav
       발음: 줴ː명
     어휘 등급: 없음
     원어: 罪名
@@ -252,13 +278,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90794
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90794_joe-mok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90794_joe-mok.wav
       발음: 죄ː목
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90794_jwe-mok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90794_jwe-mok.wav
       발음: 줴ː목
     어휘 등급: 없음
     원어: 罪目
@@ -280,22 +306,22 @@ import:
     항목ID: 90794
     활용:
     - 발음: 죄ː모기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90794_joe-mogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90794_joe-mogi.wav
       형태: 죄목이
     - 발음: 줴ː모기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90794_jwe-mogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90794_jwe-mogi.wav
       형태: 죄목이
     - 발음: 죄ː목또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90794_joe-moktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90794_joe-moktto.wav
       형태: 죄목도
     - 발음: 줴ː목또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90794_jwe-moktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90794_jwe-moktto.wav
       형태: 죄목도
     - 발음: 죄ː몽만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90794_joe-mongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90794_joe-mongman.wav
       형태: 죄목만
     - 발음: 줴ː몽만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90794_jwe-mongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90794_jwe-mongman.wav
       형태: 죄목만
 result:
   맞춤법 검사:
@@ -306,16 +332,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90795
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_joe-battta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90795_joe-battta.wav
       발음: 죄ː받따
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_jwe-battta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90795_jwe-battta.wav
       발음: 줴ː받따
     어휘 등급: 없음
-    원어: 罪 받다
+    원어: 罪받다
     의미:
     - 뜻풀이: 죄에 대하여 벌을 받다.
       문형: 1이 죄받다
@@ -335,22 +361,22 @@ import:
     항목ID: 90795
     활용:
     - 발음: 죄ː바다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_joe-bada.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90795_joe-bada.wav
       형태: 죄받아
     - 발음: 줴ː바다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_jwe-bada.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90795_jwe-bada.wav
       형태: 죄받아
     - 발음: 죄ː바드니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_joe-badeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90795_joe-badeuni.wav
       형태: 죄받으니
     - 발음: 줴ː바드니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_jwe-badeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90795_jwe-badeuni.wav
       형태: 죄받으니
     - 발음: 죄ː반는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_joe-banneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90795_joe-banneun.wav
       형태: 죄받는
     - 발음: 줴ː반는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90795_jwe-banneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90795_jwe-banneun.wav
       형태: 죄받는
 result:
   맞춤법 검사:
@@ -361,13 +387,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90796
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90796_joe-sang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90796_joe-sang.wav
       발음: 죄ː상
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90796_jwe-sang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90796_jwe-sang.wav
       발음: 줴ː상
     어휘 등급: 없음
     원어: 罪狀
@@ -398,16 +424,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90797
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90797_joe-songseureoptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90797_joe-songseureoptta.wav
       발음: 죄ː송스럽따
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90797_jwe-songseureoptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90797_jwe-songseureoptta.wav
       발음: 줴ː송스럽따
     어휘 등급: 고급
-    원어: 罪悚 스럽다
+    원어: 罪悚스럽다
     의미:
     - 뜻풀이: 죄를 지은 것처럼 미안한 마음이 들다.
       문형: 1이 2가 3에/에게 죄송스럽다
@@ -434,16 +460,16 @@ import:
     - 발음: 줴ː송스러운
       형태: 죄송스러운
     - 발음: 죄ː송스러워
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90797_joe-songseureowo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90797_joe-songseureowo.wav
       형태: 죄송스러워
     - 발음: 줴ː송스러워
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90797_jwe-songseureowo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90797_jwe-songseureowo.wav
       형태: 죄송스러워
     - 발음: 죄ː송스러우니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90797_joe-songseureouni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90797_joe-songseureouni.wav
       형태: 죄송스러우니
     - 발음: 줴ː송스러우니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90797_jwe-songseureouni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90797_jwe-songseureouni.wav
       형태: 죄송스러우니
     - 발음: 죄ː송스럽씀니다
       형태: 죄송스럽습니다
@@ -460,16 +486,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91763
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/91763_joe-songhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/91763_joe-songhada.wav
       발음: 죄ː송하다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/91763_jwe-songhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/91763_jwe-songhada.wav
       발음: 줴ː송하다
     어휘 등급: 초급
-    원어: 罪悚 하다
+    원어: 罪悚하다
     의미:
     - 뜻풀이: 죄를 지은 것처럼 몹시 미안하다.
       문형: 1이 2가 3에/에게 죄송하다
@@ -519,13 +545,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90798
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90798_joe-su.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90798_joe-su.wav
       발음: 죄ː수
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90798_jwe-su.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90798_jwe-su.wav
       발음: 줴ː수
     어휘 등급: 없음
     원어: 罪囚
@@ -555,13 +581,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90799
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90799_joe-subok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90799_joe-subok.wav
       발음: 죄ː수복
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90799_jwe-subok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90799_jwe-subok.wav
       발음: 줴ː수복
     어휘 등급: 없음
     원어: 罪囚服
@@ -588,22 +614,22 @@ import:
     항목ID: 90799
     활용:
     - 발음: 죄ː수보기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90799_joe-subogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90799_joe-subogi.wav
       형태: 죄수복이
     - 발음: 줴ː수보기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90799_jwe-subogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90799_jwe-subogi.wav
       형태: 죄수복이
     - 발음: 죄ː수복또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90799_joe-suboktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90799_joe-suboktto.wav
       형태: 죄수복도
     - 발음: 줴ː수복또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90799_jwe-suboktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90799_jwe-suboktto.wav
       형태: 죄수복도
     - 발음: 죄ː수봉만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90799_joe-subongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90799_joe-subongman.wav
       형태: 죄수복만
     - 발음: 줴ː수봉만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90799_jwe-subongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90799_jwe-subongman.wav
       형태: 죄수복만
 result:
   맞춤법 검사:
@@ -614,16 +640,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90800
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90800_joe-seureoptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90800_joe-seureoptta.wav
       발음: 죄ː스럽따
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90800_jwe-seureoptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90800_jwe-seureoptta.wav
       발음: 줴ː스럽따
     어휘 등급: 없음
-    원어: 罪 스럽다
+    원어: 罪스럽다
     의미:
     - 뜻풀이: 죄를 지은 것 같이 마음이 편하지 않다.
       문형: 1이 2가 죄스럽다
@@ -648,16 +674,16 @@ import:
     - 발음: 줴ː스러운
       형태: 죄스러운
     - 발음: 죄ː스러워
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90800_joe-seureowo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90800_joe-seureowo.wav
       형태: 죄스러워
     - 발음: 줴ː스러워
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90800_jwe-seureowo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90800_jwe-seureowo.wav
       형태: 죄스러워
     - 발음: 죄ː스러우니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90800_joe-seureouni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90800_joe-seureouni.wav
       형태: 죄스러우니
     - 발음: 줴ː스러우니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90800_jwe-seureouni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90800_jwe-seureouni.wav
       형태: 죄스러우니
     - 발음: 죄ː스럽씀니다
       형태: 죄스럽습니다
@@ -674,13 +700,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90801
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90801_joe-ak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90801_joe-ak.wav
       발음: 죄ː악
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90801_jwe-ak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90801_jwe-ak.wav
       발음: 줴ː악
     어휘 등급: 없음
     원어: 罪惡
@@ -704,22 +730,22 @@ import:
     항목ID: 90801
     활용:
     - 발음: 죄ː아기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90801_joe-agi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90801_joe-agi.wav
       형태: 죄악이
     - 발음: 줴ː아기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90801_jwe-agi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90801_jwe-agi.wav
       형태: 죄악이
     - 발음: 죄ː악또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90801_joe-aktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90801_joe-aktto.wav
       형태: 죄악도
     - 발음: 줴ː악또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90801_jwe-aktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90801_jwe-aktto.wav
       형태: 죄악도
     - 발음: 죄ː앙만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90801_joe-angman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90801_joe-angman.wav
       형태: 죄악만
     - 발음: 줴ː앙만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90801_jwe-angman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90801_jwe-angman.wav
       형태: 죄악만
 result:
   맞춤법 검사:
@@ -730,13 +756,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90802
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90802_joe-akkkam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90802_joe-akkkam.wav
       발음: 죄ː악깜
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90802_jwe-akkkam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90802_jwe-akkkam.wav
       발음: 줴ː악깜
     어휘 등급: 없음
     원어: 罪惡感
@@ -770,13 +796,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90803
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90803_joe-akssi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90803_joe-akssi.wav
       발음: 죄ː악씨
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90803_jwe-akssi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90803_jwe-akssi.wav
       발음: 줴ː악씨
     어휘 등급: 없음
     원어: 罪惡視
@@ -806,16 +832,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90804
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90804_joe-akssidoeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90804_joe-akssidoeda.wav
       발음: 죄ː악씨되다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90804_jwe-akssidweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90804_jwe-akssidweda.wav
       발음: 줴ː악씨뒈다
     어휘 등급: 없음
-    원어: 罪惡視 되다
+    원어: 罪惡視되다
     의미:
     - 뜻풀이: 죄악으로 여겨지다.
       문형: 1이 죄악시되다
@@ -843,16 +869,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90805
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90805_joe-akssihada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90805_joe-akssihada.wav
       발음: 죄ː악씨하다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90805_jwe-akssihada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90805_jwe-akssihada.wav
       발음: 줴ː악씨하다
     어휘 등급: 없음
-    원어: 罪惡視 하다
+    원어: 罪惡視하다
     의미:
     - 뜻풀이: 죄악으로 보거나 여기다.
       문형: 1이 2를 죄악시하다
@@ -881,13 +907,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90806
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/joeeodeulda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/joeeodeulda.wav
       발음: 죄어들다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/joeeodeulda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/joeeodeulda.wav
       발음: 줴어들다
     어휘 등급: 없음
     의미:
@@ -950,22 +976,22 @@ import:
     항목ID: 90806
     활용:
     - 발음: 죄어드러
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90806_joeeodeureo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90806_joeeodeureo.wav
       형태: 죄어들어
     - 발음: 줴어드러
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90806_jweeodeureo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90806_jweeodeureo.wav
       형태: 죄어들어
     - 발음: 죄어드니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90806_joeeodeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90806_joeeodeuni.wav
       형태: 죄어드니
     - 발음: 줴어드니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90806_jweeodeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90806_jweeodeuni.wav
       형태: 죄어드니
     - 발음: 죄어듬니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90806_joeeodeumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90806_joeeodeumnida.wav
       형태: 죄어듭니다
     - 발음: 줴어듬니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/90806_jweeodeumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/90806_jweeodeumnida.wav
       형태: 죄어듭니다
 result:
   맞춤법 검사:
@@ -976,13 +1002,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90808
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90808_joe-uisik.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90808_joe-uisik.wav
       발음: 죄ː의식
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90808_jwe-isik.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90808_jwe-isik.wav
       발음: 줴ː이식
     어휘 등급: 없음
     원어: 罪意識
@@ -1005,22 +1031,22 @@ import:
     항목ID: 90808
     활용:
     - 발음: 죄ː의시기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90808_joe-uisigi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90808_joe-uisigi.wav
       형태: 죄의식이
     - 발음: 줴ː이시기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90808_jwe-isigi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90808_jwe-isigi.wav
       형태: 죄의식이
     - 발음: 죄ː의식또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90808_joe-uisiktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90808_joe-uisiktto.wav
       형태: 죄의식도
     - 발음: 줴ː이식또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90808_jwe-isiktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90808_jwe-isiktto.wav
       형태: 죄의식도
     - 발음: 죄ː의싱만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90808_joe-uisingman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90808_joe-uisingman.wav
       형태: 죄의식만
     - 발음: 줴ː이싱만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90808_jwe-isingman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90808_jwe-isingman.wav
       형태: 죄의식만
 result:
   맞춤법 검사:
@@ -1031,13 +1057,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24649
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/24649_joe-in.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/24649_joe-in.wav
       발음: 죄ː인
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/24649_jwe-in.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/24649_jwe-in.wav
       발음: 줴ː인
     어휘 등급: 고급
     원어: 罪人
@@ -1081,13 +1107,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90810
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90810_joe-jil.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90810_joe-jil.wav
       발음: 죄ː질
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90810_jwe-jil.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90810_jwe-jil.wav
       발음: 줴ː질
     어휘 등급: 없음
     원어: 罪質
@@ -1117,16 +1143,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90811
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/joe-jittta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/joe-jittta.wav
       발음: 죄ː짇따
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90811_jwe-jittta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90811_jwe-jittta.wav
       발음: 줴ː짇따
     어휘 등급: 없음
-    원어: 罪 짓다
+    원어: 罪짓다
     의미:
     - 뜻풀이: 죄를 저지르다.
       문형: 1이 죄짓다
@@ -1147,22 +1173,22 @@ import:
     항목ID: 90811
     활용:
     - 발음: 죄ː지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90811_joe-jieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90811_joe-jieo.wav
       형태: 죄지어
     - 발음: 줴ː지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90811_jwe-jieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90811_jwe-jieo.wav
       형태: 죄지어
     - 발음: 죄ː지으니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90811_joe-jieuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90811_joe-jieuni.wav
       형태: 죄지으니
     - 발음: 줴ː지으니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90811_jwe-jieuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90811_jwe-jieuni.wav
       형태: 죄지으니
     - 발음: 죄ː진는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90811_joe-jinneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90811_joe-jinneun.wav
       형태: 죄짓는
     - 발음: 줴ː진는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90811_jwe-jinneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90811_jwe-jinneun.wav
       형태: 죄짓는
 result:
   맞춤법 검사:
@@ -1175,13 +1201,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90812
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/14000/90812_joe-chaekkkam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/14000/90812_joe-chaekkkam.wav
       발음: 죄ː책깜
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90812_jwe-chaekkkam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90812_jwe-chaekkkam.wav
       발음: 줴ː책깜
     어휘 등급: 고급
     원어: 罪責感
@@ -1219,13 +1245,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92535
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/92535_joem-joem.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/39000/92535_joem-joem.wav
       발음: 죔ː죔
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/92535_jwem-jwem.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/39000/92535_jwem-jwem.wav
       발음: 쥄ː쥄
     어휘 등급: 없음
     의미:
@@ -1248,13 +1274,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92536
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/92536_joem-joem.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/39000/92536_joem-joem.wav
       발음: 죔ː죔
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/39000/92536_jwem-jwem.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/39000/92536_jwem-jwem.wav
       발음: 쥄ː쥄
     어휘 등급: 없음
     의미:
@@ -1268,7 +1294,7 @@ import:
       용례.대화:
       - 와. 작은 손을 쥐었다 폈다 하는 게 정말 귀여워요.
       용례.문장:
-      - 십 개월이 되니 지수가 죔죔을 곧잘 따라한다.
+      - 십 개월이 되니 지수가 죔죔을 곧잘 따라 한다.
       - 아기가 처음에는 죔죔을 흉내내다가도 다시 짝짜꿍을 해버렸다.
       의미ID: 1
     표제어: 죔죔
@@ -1283,16 +1309,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90813
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/joe-kkap.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/joe-kkap.wav
       발음: 죄ː깝
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jwet-kkap.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jwet-kkap.wav
       발음: 줻ː깝
     어휘 등급: 없음
-    원어: 罪 값
+    원어: 罪값
     의미:
     - 뜻풀이: 지은 죄에 대하여 치르는 대가.
       용례.구:
@@ -1312,22 +1338,22 @@ import:
     항목ID: 90813
     활용:
     - 발음: 죄ː까비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90813_joe-kkabi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90813_joe-kkabi.wav
       형태: 죗값이
     - 발음: 줻ː까비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90813_jwed-kkabi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90813_jwed-kkabi.wav
       형태: 죗값이
     - 발음: 죄ː깝또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90813_joe-kkaptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90813_joe-kkaptto.wav
       형태: 죄값도
     - 발음: 줻ː깝또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90813_jwed-kkaptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90813_jwed-kkaptto.wav
       형태: 죄값도
     - 발음: 죄ː깜만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90813_joe-kkamman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90813_joe-kkamman.wav
       형태: 죗값만
     - 발음: 줻ː깜만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/09000/90813_jwed-kkamman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/09000/90813_jwed-kkamman.wav
       형태: 죗값만
 result:
   맞춤법 검사:

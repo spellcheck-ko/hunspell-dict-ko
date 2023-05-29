@@ -2,7 +2,7 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88687
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -28,29 +28,34 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88688
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     어휘 등급: 중급
     의미:
-    - 뜻풀이: ‘차례’의 뜻을 더하는 접미사.
+    - 뜻풀이: ‘차례’나 ‘등급’의 뜻을 더하는 접미사.
       용례.구:
       - 넷째
       - 다섯째
       - 둘째
-      - 며칠째
       - 몇째
-      - 사흘째
       - 셋째
       - 아홉째
       - 여덟째
       - 여섯째
       - 일곱째
       - 첫째
-      - 다섯 달째
       - 두 잔째
       - 여덟 바퀴째
       의미ID: 1
+    - 뜻풀이: ‘동안’의 뜻을 더하는 접미사.
+      용례.구:
+      - 사흘째
+      - 며칠째
+      - 보름째
+      - 한 달째
+      - 다섯 달째
+      의미ID: 2
     주제 및 상황 범주: 개념 > 순서
     참고: 수량, 기간을 나타내는 명사 또는 명사구 뒤와 수사 뒤에 붙는다.
     표제어: -째
@@ -64,12 +69,14 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=319329&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:18:59+09:00'
+    가져온 시각: '2023-05-01T06:45:57+09:00'
     구분: 단어
     발음:
     - 째깍
     의미:
     - 뜻풀이: ‘째까닥01’의 준말.
+      원뜻풀이: ‘<sense_no>398775</sense_no>째까닥’의 준말.
+      의미코드: 284559
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -84,11 +91,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78937
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/78937_jjae-da.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/26000/78937_jjae-da.wav
       발음: 째ː다
     어휘 등급: 없음
     의미:
@@ -112,10 +119,10 @@ import:
     활용:
     - 형태: 째어
     - 발음: 째ː
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78937_jjae-.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78937_jjae-.wav
       형태: 째
     - 발음: 째ː니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78937_jjae-ni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78937_jjae-ni.wav
       형태: 째니
 result:
   맞춤법 검사:
@@ -126,11 +133,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78938
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjae-da.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjae-da.wav
       발음: 째ː다
     어휘 등급: 없음
     의미:
@@ -170,7 +177,7 @@ import:
     - 발음: 째ː
       형태: 째
     - 발음: 째ː니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjae-ni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjae-ni.wav
       형태: 째니
 result:
   맞춤법 검사:
@@ -181,11 +188,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78939
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjaeryeoboda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjaeryeoboda.wav
       발음: 째려보다
     어휘 등급: 고급
     의미:
@@ -231,11 +238,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78940
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjae-rida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjae-rida.wav
       발음: 째ː리다
     어휘 등급: 없음
     의미:
@@ -258,16 +265,16 @@ import:
     항목ID: 78940
     활용:
     - 발음: 째ː리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78940_jjae-rieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78940_jjae-rieo.wav
       형태: 째리어
     - 발음: 째ː리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78940_jjae-riyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78940_jjae-riyeo.wav
       형태: 째리어
     - 발음: 째ː려
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78940_jjae-ryeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78940_jjae-ryeo.wav
       형태: 째려
     - 발음: 째ː리니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78940_jjae-rini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78940_jjae-rini.wav
       형태: 째리니
 result:
   맞춤법 검사:
@@ -278,11 +285,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78941
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjae-jida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjae-jida.wav
       발음: 째ː지다
     어휘 등급: 없음
     의미:
@@ -333,16 +340,16 @@ import:
     항목ID: 78941
     활용:
     - 발음: 째ː지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78941_jjae-jieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78941_jjae-jieo.wav
       형태: 째지어
     - 발음: 째ː지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78941_jjae-jiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78941_jjae-jiyeo.wav
       형태: 째지어
     - 발음: 째ː저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78941_jjae-jeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78941_jjae-jeo.wav
       형태: 째져
     - 발음: 째ː지니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78941_jjae-jini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78941_jjae-jini.wav
       형태: 째지니
 result:
   맞춤법 검사:
@@ -353,7 +360,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92372
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -371,11 +378,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78942
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjaekjjaek.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjaekjjaek.wav
       발음: 짹짹
     어휘 등급: 없음
     의미:
@@ -403,11 +410,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78943
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjaekjjaekkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjaekjjaekkkeorida.wav
       발음: 짹짹꺼리다
     어휘 등급: 없음
     의미:
@@ -444,11 +451,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91043
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/48000/91043_jjaekjjaekttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/48000/91043_jjaekjjaekttaeda.wav
       발음: 짹짹때다
     어휘 등급: 없음
     의미:
@@ -485,11 +492,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91044
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/91044_jjaekjjaekada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/26000/91044_jjaekjjaekada.wav
       발음: 짹째카다
     어휘 등급: 없음
     의미:
@@ -526,11 +533,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78944
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjaeng.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjaeng.wav
       발음: 쨍
     어휘 등급: 없음
     의미:
@@ -582,11 +589,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78945
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjaeng.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjaeng.wav
       발음: 쨍
     어휘 등급: 없음
     의미:
@@ -614,11 +621,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78946
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjaenggeurang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjaenggeurang.wav
       발음: 쨍그랑
     어휘 등급: 없음
     의미:
@@ -648,11 +655,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78947
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjaenggeuranggeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjaenggeuranggeorida.wav
       발음: 쨍그랑거리다
     어휘 등급: 없음
     의미:
@@ -690,11 +697,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90112
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjaenggeurangdaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjaenggeurangdaeda.wav
       발음: 쨍그랑대다
     어휘 등급: 없음
     의미:
@@ -732,11 +739,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90113
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/90113_jjaenggeurangjjaenggeurang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/26000/90113_jjaenggeurangjjaenggeurang.wav
       발음: 쨍그랑쨍그랑
     어휘 등급: 없음
     의미:
@@ -765,11 +772,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90114
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/90114_jjaenggeurangjjaenggeuranghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/26000/90114_jjaenggeurangjjaenggeuranghada.wav
       발음: 쨍그랑쨍그랑하다
     어휘 등급: 없음
     의미:
@@ -806,11 +813,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78948
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjaenggeuranghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjaenggeuranghada.wav
       발음: 쨍그랑하다
     어휘 등급: 없음
     의미:
@@ -842,11 +849,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78949
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjaengjjaeng.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjaengjjaeng.wav
       발음: 쨍쨍
     어휘 등급: 없음
     의미:
@@ -875,11 +882,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91523
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjaengjjaenghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjaengjjaenghada.wav
       발음: 쨍쨍하다
     어휘 등급: 없음
     의미:
@@ -920,11 +927,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78950
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/78950_jjaenghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/26000/78950_jjaenghada.wav
       발음: 쨍하다
     어휘 등급: 없음
     의미:
@@ -981,11 +988,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78951
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/26000/78950_jjaenghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/26000/78950_jjaenghada.wav
       발음: 쨍하다
     어휘 등급: 없음
     의미:

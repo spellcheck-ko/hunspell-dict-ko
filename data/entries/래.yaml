@@ -2,7 +2,7 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77309
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -54,7 +54,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=81093
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -90,7 +90,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421344&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     어원: local area network
     원어:
@@ -100,6 +100,15 @@ import:
     - 뜻풀이: 사무실이나 연구실, 건물, 공장 따위와 같이 제한된 지역 내에 분산 배치된 컴퓨터를 비롯한 각종 정보 통신 기기를 통신 회선으로
         연결하여 정보를 교환하는 정보 통신망.
       분류: 정보·통신
+      어휘정보:
+      - 기준: 의미
+        단어: 근거리^통신망
+        대상항목ID: 103026
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=44798&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 사무실이나 연구실, 건물, 공장 따위와 같이 제한된 지역 내에 분산 배치된 컴퓨터를 비롯한 각종 정보 통신 기기를 통신 회선으로
+        연결하여 정보를 교환하는 정보 통신망.
+      의미코드: 140638
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -114,13 +123,26 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=99863&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: lantern
     의미:
     - 뜻풀이: 손에 들고 다니는 등. 보통 투명하거나 반투명한 유리 덮개를 씌우고 손잡이가 달려 있다.
+      어휘정보:
+      - 기준: 의미
+        단어: 각등
+        대상항목ID: 338998
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=4149&searchKeywordTo=3
+        종류: 비슷한말
+      - 기준: 의미
+        단어: 제등01
+        대상항목ID: 516930
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=477464&searchKeywordTo=3
+        종류: 비슷한말
+      원뜻풀이: 손에 들고 다니는 등. 보통 투명하거나 반투명한 유리 덮개를 씌우고 손잡이가 달려 있다.
+      의미코드: 456213
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -135,7 +157,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=418239&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -143,6 +165,8 @@ import:
     의미:
     - 뜻풀이: 권투에서, 서로 계속 때리는 일.
       분류: 체육
+      원뜻풀이: 권투에서, 서로 계속 때리는 일.
+      의미코드: 64421
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -157,13 +181,15 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=99865&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: lamb
     의미:
     - 뜻풀이: 어린양의 고기. 고기가 연하여 별미로 친다.
+      원뜻풀이: 어린양의 고기. 고기가 연하여 별미로 친다.
+      의미코드: 408261
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -178,7 +204,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52770
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -237,7 +263,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=102081&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -245,6 +271,14 @@ import:
     의미:
     - 뜻풀이: 중장거리 경주에서, 트랙을 한 바퀴 돌 때 걸리는 시간. 이것으로 경기 중인 선수의 기록을 예측할 수 있다.
       분류: 체육
+      어휘정보:
+      - 기준: 의미
+        단어: 랩^타임
+        대상항목ID: 137745
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=421255&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 중장거리 경주에서, 트랙을 한 바퀴 돌 때 걸리는 시간. 이것으로 경기 중인 선수의 기록을 예측할 수 있다.
+      의미코드: 64423
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -259,13 +293,15 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=101238&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 고유어
       원어: 되다
     의미:
     - 뜻풀이: 일정한 순위에 위치하게 되다.
+      원뜻풀이: 일정한 순위에 위치하게 되다.
+      의미코드: 382656
       종류: 일반어
       품사: 동사
       형태: …에
@@ -285,7 +321,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52063
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음

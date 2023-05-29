@@ -2,7 +2,7 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52068
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -28,7 +28,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52073
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -60,7 +60,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=99908&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 안 밝힘
@@ -68,6 +68,8 @@ import:
     의미:
     - 뜻풀이: ‘상트페테르부르크’의 전 이름.
       분류: 지명
+      원뜻풀이: ‘<sense_no>189160</sense_no>상트페테르부르크’의 전 이름.
+      의미코드: 137990
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -82,7 +84,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52081
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -109,7 +111,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52275
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -141,7 +143,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52276
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -177,13 +179,15 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=101463&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 고유어
       원어: 차
     의미:
     - 뜻풀이: 레몬즙을 탄 홍차.
+      원뜻풀이: 레몬즙을 탄 홍차.
+      의미코드: 138641
       종류: 일반어
       품사: 명사
     종류: 혼종어
@@ -198,7 +202,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52764
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -238,14 +242,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68342
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
     원어: Lebanon
     의미:
     - 다중 매체 정보:사진:
-      - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120109/5096/IMG000098152_700X466.jpg
+      - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20220622/985471/IMG000098152_700X466.jpg
         레이블: 레바논
       뜻풀이: 지중해에 면하고 있는, 아시아 서쪽에 있는 나라. 주요 생산물로는 담배, 목화 등이 있다. 공용어는 아랍어, 프랑스어, 영어,
         아르메니아어이고 수도는 베이루트이다.
@@ -262,13 +266,21 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=101485&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: lever
     의미:
     - 뜻풀이: 무거운 물건을 움직이는 데에 쓰는 막대기.
+      어휘정보:
+      - 기준: 의미
+        단어: 지렛-대
+        대상항목ID: 406502
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=306278&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 무거운 물건을 움직이는 데에 쓰는 막대기.
+      의미코드: 138649
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -283,7 +295,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52579
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -311,7 +323,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52573
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 초급
@@ -350,7 +362,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52571
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -380,7 +392,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52568
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 고급
@@ -418,7 +430,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92440
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -457,7 +469,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52566
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -490,14 +502,22 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=418404&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 한자
       원어: 網
     의미:
-    - 뜻풀이: 여러 지역에 있는 레이더를 한곳으로 집중하고 연결하여 목표에 대한 통합 정보 자료를 제공할 수 있게 한 조직망.
+    - 뜻풀이: 여러 지역에 있는 레이다를 한곳으로 집중하고 연결하여 목표에 대한 통합 정보 자료를 제공할 수 있게 한 조직망.
       분류: 군사
+      어휘정보:
+      - 기준: 의미
+        단어: 레이다-망
+        대상항목ID: 1394089
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=533639&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 여러 지역에 있는 레이다를 한곳으로 집중하고 연결하여 목표에 대한 통합 정보 자료를 제공할 수 있게 한 조직망.
+      의미코드: 529957
       종류: 일반어
       품사: 명사
     종류: 혼종어
@@ -512,7 +532,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420608&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -520,6 +540,19 @@ import:
     의미:
     - 뜻풀이: 파일의 관리나 처리의 편의를 위하여 파일에 붙이는 특별한 항목 표시 기록.
       분류: 경영
+      어휘정보:
+      - 기준: 의미
+        단어: 라벨01
+        대상항목ID: 2250
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=102076&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 라벨01
+        대상항목ID: 38759
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=102076&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 파일의 관리나 처리의 편의를 위하여 파일에 붙이는 특별한 항목 표시 기록.
+      의미코드: 1358427
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -534,7 +567,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52564
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -566,7 +599,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52562
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 2
     어휘 등급: 없음
@@ -593,7 +626,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=102324&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -601,6 +634,8 @@ import:
     의미:
     - 뜻풀이: 양재(洋裁)에서, 패턴(pattern) 종이를 배열하는 일.
       분류: 복식
+      원뜻풀이: 양재(洋裁)에서, 패턴(pattern) 종이를 배열하는 일.
+      의미코드: 64466
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -615,7 +650,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15534
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -647,7 +682,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52561
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -691,7 +726,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90235
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -723,7 +758,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52555
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -770,7 +805,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=103105&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 구
     원어:
       언어: 영어
@@ -779,6 +814,9 @@ import:
     - 뜻풀이: 활주(滑走) 레일을 이용하는 전자 포(電磁砲). 두 레일 사이에 강한 전류를 흐르게 하고, 거기서 발생하는 전자기력으로 포탄을
         가속하여 발사한다. 빠른 속도로 계속 발사할 수 있다는 장점이 있다.
       분류: 군사
+      원뜻풀이: 활주(滑走) 레일을 이용하는 전자 포(電磁砲). 두 레일 사이에 강한 전류를 흐르게 하고, 거기서 발생하는 전자기력으로 포탄을
+        가속하여 발사한다. 빠른 속도로 계속 발사할 수 있다는 장점이 있다.
+      의미코드: 493172
       종류: 일반어
       품사: 품사 없음
     종류: 외래어
@@ -800,7 +838,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52552
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -830,7 +868,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15537
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 고급
@@ -866,13 +904,26 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=101350&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
+    어휘정보:
+    - 기준: 어휘
+      단어: 게이01
+      대상항목ID: 14671
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=14671&searchKeywordTo=3
+      종류: 참고 어휘
+    - 기준: 어휘
+      단어: 호모04
+      대상항목ID: 373452
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=373452&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 영어
       원어: lesbian
     의미:
     - 뜻풀이: 여성 동성애자를 이르는 말. 고대에 여성의 동성애가 성행하였다는 에게해의 레스보스섬과 관련지어 붙여진 이름이다.
+      원뜻풀이: 여성 동성애자를 이르는 말. 고대에 여성의 동성애가 성행하였다는 에게해의 레스보스섬과 관련지어 붙여진 이름이다.
+      의미코드: 138209
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -887,7 +938,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52551
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -920,7 +971,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52548
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -946,7 +997,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420576&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -954,6 +1005,8 @@ import:
     의미:
     - 뜻풀이: 특정한 목적으로 외부 정보를 일시적으로 기억하는 장치. 데이터를 읽고 쓰는 기능이 매우 빠르며, 중앙 처리 장치 안에 사용된다.
       분류: 정보·통신
+      원뜻풀이: 특정한 목적으로 외부 정보를 일시적으로 기억하는 장치. 데이터를 읽고 쓰는 기능이 매우 빠르며, 중앙 처리 장치 안에 사용된다.
+      의미코드: 39382
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -968,7 +1021,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52775
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1001,11 +1054,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52544
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
-    원어: record 板
+    원어: record板
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -1037,7 +1090,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=100582&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 라틴어
@@ -1045,6 +1098,29 @@ import:
     의미:
     - 뜻풀이: 죽은 사람의 영혼을 위로하기 위한 미사 음악.
       분류: 음악
+      어휘정보:
+      - 기준: 의미
+        단어: 위령-곡
+        대상항목ID: 578172
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=252958&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 위혼-곡
+        대상항목ID: 504915
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=466488&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 진혼-곡
+        대상항목ID: 435450
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=315514&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 진혼^미사곡
+        대상항목ID: 283352
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=315843&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 죽은 사람의 영혼을 위로하기 위한 미사 음악.
+      의미코드: 138443
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -1059,7 +1135,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52541
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1094,7 +1170,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52540
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1136,7 +1212,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=100279&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -1145,6 +1221,9 @@ import:
     - 뜻풀이: 아직 제품화되지 않고 계획 단계에 있는 공업 제품을, 누구나 그 외관을 이해할 수 있도록 실물 그대로 그린 완성 예상도. 주로
         디자인 용어로 쓴다.
       분류: 공업
+      원뜻풀이: 아직 제품화되지 않고 계획 단계에 있는 공업 제품을, 누구나 그 외관을 이해할 수 있도록 실물 그대로 그린 완성 예상도. 주로
+        디자인 용어로 쓴다.
+      의미코드: 566706
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -1159,7 +1238,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52537
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -1213,7 +1292,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52535
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -1242,11 +1321,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=52533
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
-    원어: rent 하다
+    원어: rent하다
     의미:
     - 관련어:참고어:
       - 동형어 번호: 0
@@ -1276,8 +1355,14 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=421197&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
+    어휘정보:
+    - 기준: 어휘
+      단어: 렙
+      대상항목ID: 421199
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=421199&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 영어
       원어: rem
@@ -1285,6 +1370,9 @@ import:
     - 뜻풀이: 생물학적으로 인체에 영향을 미치는 방사선의 양을 나타내는 단위. 1렘은 여러 종류의 방사선이 인체에 미치는 영향 또는 장애를 엑스선으로
         환산하여 엑스선 1래드(rad)와 같은 정도의 영향을 미치는 방사선의 양이다.
       분류: 의학
+      원뜻풀이: 생물학적으로 인체에 영향을 미치는 방사선의 양을 나타내는 단위. 1렘은 여러 종류의 방사선이 인체에 미치는 영향 또는 장애를
+        엑스선으로 환산하여 엑스선 1래드(rad)와 같은 정도의 영향을 미치는 방사선의 양이다.
+      의미코드: 139456
       종류: 일반어
       품사: 의존 명사
     종류: 외래어

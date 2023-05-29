@@ -2,18 +2,31 @@
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=121104&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:33:12+09:00'
+    가져온 시각: '2023-05-01T03:22:25+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=121104&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=521436&searchKeywordTo=1
       종류: 관용구
       표제어: 뫼(를) 쓰다
-      항목ID: 121104
+      항목ID: 521436
     구분: 단어
     발음:
     - 뫼ː
     - 뭬ː
     의미:
     - 뜻풀이: 사람의 무덤.
+      어휘정보:
+      - 기준: 의미
+        단어: 묘06
+        대상항목ID: 151496
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=120258&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 탑파
+        대상항목ID: 333589
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=497360&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 사람의 무덤.
+      의미코드: 531504
       종류: 일반어
       품사: 명사
     종류: 고유어
@@ -28,7 +41,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=426414&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:33:12+09:00'
+    가져온 시각: '2023-05-01T03:22:25+09:00'
     구분: 단어
     원어:
       언어: 안 밝힘
@@ -38,6 +51,10 @@ import:
         기하학적 친연성의 계통적 연구, 쌍대 원리의 고찰 등 수학에 많은 업적을 남겼다. 뫼비우스의 띠로 유명하다. 저서로는 ≪중심 해석≫이
         있다.
       분류: 인명
+      원뜻풀이: 독일의 천문학자ㆍ수학자(1790~1868). 가우스(Gauss, K. F.)에게 천문학을 배웠으며, 동차 좌표 개념의 도입,
+        도형의 기하학적 친연성의 계통적 연구, 쌍대 원리의 고찰 등 수학에 많은 업적을 남겼다. 뫼비우스의 띠로 유명하다. 저서로는 ≪중심
+        해석≫이 있다.
+      의미코드: 154171
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -52,13 +69,21 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=119911&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:33:12+09:00'
+    가져온 시각: '2023-05-01T03:22:25+09:00'
     구분: 단어
     발음:
     - 뫼ː짜리
     - 뭳ː짜리
     의미:
     - 뜻풀이: 뫼를 쓸 자리. 또는 쓴 자리.
+      어휘정보:
+      - 기준: 의미
+        단어: 묫-자리
+        대상항목ID: 775988
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=518482&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 뫼를 쓸 자리. 또는 쓴 자리.
+      의미코드: 154828
       종류: 일반어
       품사: 명사
     종류: 고유어

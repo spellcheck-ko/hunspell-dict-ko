@@ -2,7 +2,7 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83205
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -33,7 +33,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92333
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -51,11 +51,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82420
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82420_teuda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82420_teuda.wav
       발음: 트다
     어휘 등급: 고급
     의미:
@@ -133,11 +133,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82422
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82420_teuda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82420_teuda.wav
       발음: 트다
     어휘 등급: 고급
     의미:
@@ -232,7 +232,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82424
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -266,12 +266,15 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1089507
-    가져온 시각: '2019-08-21T15:21:22+09:00'
+    가져온 시각: '2023-05-01T22:29:15+09:00'
     구분: 어휘
     뜻풀이: 영국의 록 밴드(1967~1969, 1970~1974, 1994). 비틀스의 영향을 받아 사이키델릭 록 음악으로 시작하였고 재즈적인
       즉흥 연주의 키보드 사운드를 더하였으며, 다양한 장르와 록의 융합을 시도한 실험 정신이 강한 밴드로 널리 알려져 있다. 2004년 로큰롤
       명예의 전당에 올랐다.
     분류: 음악
+    원뜻풀이: 영국의 록 밴드(1967~1969, 1970~1974, 1994). 비틀스의 영향을 받아 <sense_no>1015301</sense_no>사이키델릭록_
+      음악으로 시작하였고 재즈적인 즉흥 연주의 키보드 사운드를 더하였으며, 다양한 장르와 록의 융합을 시도한 실험 정신이 강한 밴드로 널리 알려져
+      있다. 2004년 로큰롤 명예의 전당에 올랐다.
     원어:
       언어: 안 밝힘
       원어: Traffic
@@ -289,7 +292,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82430
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -333,14 +336,28 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=349543&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 구
+    어휘정보:
+    - 기준: 어휘
+      단어: 트랙^업
+      대상항목ID: 349300
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=349300&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 영어
       원어: track back
     의미:
     - 뜻풀이: 영화에서, 대상으로부터 뒤로 물러가면서 하는 이동 촬영 방법.
       분류: 영상
+      어휘정보:
+      - 기준: 의미
+        단어: 트랙^아웃
+        대상항목ID: 511643
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=349299&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 영화에서, 대상으로부터 뒤로 물러가면서 하는 이동 촬영 방법.
+      의미코드: 511642
       종류: 일반어
       품사: 품사 없음
     종류: 외래어
@@ -362,14 +379,26 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=492246&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: tractor
     의미:
     - 뜻풀이: 기체의 앞부분에 프로펠러를 장치한 항공기.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=356477
+        레이블: 트랙터
+        종류: 사진
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=356478
+        레이블: 트랙터
+        종류: 사진
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=356479
+        레이블: 트랙터
+        종류: 사진
       분류: 군사
+      원뜻풀이: 기체의 앞부분에 프로펠러를 장치한 항공기.
+      의미코드: 557602
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -384,7 +413,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82432
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     검색용 이형태: 트렌스
     구분: 단어
     동형어 번호: 0
@@ -419,7 +448,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=495886&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -431,6 +460,19 @@ import:
         레이블: 트랜지스터
         종류: 삽화
       분류: 없음
+      어휘정보:
+      - 기준: 의미
+        단어: 결정^삼극관
+        대상항목ID: 84510
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=18275&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 트랜지스터-라디오
+        대상항목ID: 364496
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=349868&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: ‘「1」’을 사용한 라디오 수신기.
+      의미코드: 373837
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -445,7 +487,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=350122&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -453,6 +495,8 @@ import:
     의미:
     - 뜻풀이: 스프링이 달린 사각형 또는 육각형 모양의 매트 위에서 뛰어오르거나 공중회전 따위를 하는 체조 경기. 또는 그 경기에 쓰는 기구.
       분류: 체육
+      원뜻풀이: 스프링이 달린 사각형 또는 육각형 모양의 매트 위에서 뛰어오르거나 공중회전 따위를 하는 체조 경기. 또는 그 경기에 쓰는 기구.
+      의미코드: 474889
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -467,7 +511,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82435
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -503,7 +547,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82436
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 초급
@@ -541,7 +585,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82437
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -575,7 +619,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82438
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -609,7 +653,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82439
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -662,7 +706,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=350691&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -670,6 +714,8 @@ import:
     의미:
     - 뜻풀이: 기차 바퀴가 선로에 닿는 부분이나 자동차 타이어가 노면에 닿는 부분. 타이어의 경우에 미끄러움을 방지하기 위하여 홈을 판다.
       분류: 기계
+      원뜻풀이: 기차 바퀴가 선로에 닿는 부분이나 자동차 타이어가 노면에 닿는 부분. 타이어의 경우에 미끄러움을 방지하기 위하여 홈을 판다.
+      의미코드: 520993
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -684,7 +730,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82440
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -723,7 +769,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82441
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -755,14 +801,16 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=346921&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 고유어
       원어: 하다
     의미:
-    - 뜻풀이: 프로 팀 사이에서 전력을 향상시킬 목적으로 소속 선수를 이적시키거나 교환하다.
+    - 뜻풀이: 프로 팀 사이에서 전력을 향상할 목적으로 소속 선수를 이적시키거나 교환하다.
       분류: 체육
+      원뜻풀이: 프로 팀 사이에서 전력을 향상할 목적으로 소속 선수를 이적시키거나 교환하다.
+      의미코드: 305453
       종류: 일반어
       품사: 동사
     종류: 혼종어
@@ -781,7 +829,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82442
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     검색용 이형태: 트래일러
     구분: 단어
     동형어 번호: 0
@@ -815,7 +863,7 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=619000
-    가져온 시각: '2019-08-21T15:21:22+09:00'
+    가져온 시각: '2023-05-01T22:29:15+09:00'
     관련어:
     - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=4506
       종류: 비슷한말
@@ -834,7 +882,8 @@ import:
       표제어: 방향002
       항목ID: 41445
     구분: 어휘
-    뜻풀이: 사람들의 사고, 사상, 활동이나 일의 형세 따위가 움직여 가는 방향이나 추세. ⇒규범 표기는 미확정이다.
+    뜻풀이: 사람들의 사고, 사상, 활동이나 일의 형세 따위가 움직여 가는 방향이나 추세.
+    원뜻풀이: 사람들의 사고, 사상, 활동이나 일의 형세 따위가 움직여 가는 방향이나 추세.
     원어:
       언어: 영어
       원어: trend
@@ -852,7 +901,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82443
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     검색용 이형태: 트랜치코트
     구분: 단어
     동형어 번호: 0
@@ -887,13 +936,15 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=347525&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: troy
     의미:
     - 뜻풀이: 영국에서 금, 은, 보석 따위를 다는 저울. 프랑스의 지명에서 나온 말이다.
+      원뜻풀이: 영국에서 금, 은, 보석 따위를 다는 저울. 프랑스의 지명에서 나온 말이다.
+      의미코드: 302475
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -908,7 +959,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90173
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -962,7 +1013,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82444
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     검색용 이형태: 트롯
     구분: 단어
     동형어 번호: 0
@@ -996,7 +1047,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82969
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1033,7 +1084,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=348074&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -1041,6 +1092,14 @@ import:
     의미:
     - 뜻풀이: 바다 밑바닥으로 끌고 다니면서 깊은 바닷속의 물고기를 잡는 그물.
       분류: 수산업
+      어휘정보:
+      - 기준: 의미
+        단어: 저인-망
+        대상항목ID: 359916
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=476377&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 바다 밑바닥으로 끌고 다니면서 깊은 바닷속의 물고기를 잡는 그물.
+      의미코드: 364629
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -1055,7 +1114,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82970
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     검색용 이형태: 트럼본
     구분: 단어
     동형어 번호: 0
@@ -1090,7 +1149,7 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1010351
-    가져온 시각: '2019-08-21T15:21:22+09:00'
+    가져온 시각: '2023-05-01T22:29:15+09:00'
     구분: 어휘
     뜻풀이: 모든 꼭짓점들이 서로 연결되어 있고 회로를 포함하지 않는 그래프.
     분류: 수학
@@ -1098,6 +1157,7 @@ import:
       근거: 편수 자료(1987년)
       설명: ‘트리’로 올라 있다.
       종류: 외래어 표기
+    원뜻풀이: 모든 꼭짓점들이 서로 연결되어 있고 회로를 포함하지 않는 그래프.
     원어:
       언어: 영어
       원어: tree
@@ -1115,7 +1175,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90174
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1166,7 +1226,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=496789&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 안 밝힘
@@ -1175,6 +1235,9 @@ import:
     - 뜻풀이: 아프리카 북부 지중해에 접하여 있는 중요 항구 도시. 페니키아 시대 이래의 유적이 많이 있으며, 사하라 사막을 지나는 대상(隊商)
         무역 기지이다. 리비아의 수도이다.
       분류: 지명
+      원뜻풀이: 아프리카 북부 지중해에 접하여 있는 중요 항구 도시. 페니키아 시대 이래의 유적이 많이 있으며, 사하라 사막을 지나는 대상(隊商)
+        무역 기지이다. 리비아의 수도이다.
+      의미코드: 307338
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -1189,12 +1252,15 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1317323
-    가져온 시각: '2019-08-21T15:21:22+09:00'
+    가져온 시각: '2023-05-01T22:29:15+09:00'
     구분: 어휘
     뜻풀이: 작가들이 작품에서 말하고자 하는 바를 흥미롭게 제시하기 위해 사용하는 서사적 전략의 하나. 짐짓 독자를 속이며 딴청을 피우는 기법이다.
       오 헨리의 <목걸이>는 목걸이를 잃어버린 여인이 이를 보상하기 위해 생애를 탕진했으나 결국에는 목걸이가 가짜였다는 사실을 소설의 결말부에
       제시하는 트릭을 사용하고 있다.
     분류: 문학
+    원뜻풀이: 작가들이 작품에서 말하고자 하는 바를 흥미롭게 제시하기 위해 사용하는 서사적 전략의 하나. 짐짓 독자를 속이며 딴청을 피우는 기법이다.
+      <sense_no>235218</sense_no>오헨리_의 <목걸이>는 목걸이를 잃어버린 여인이 이를 보상하기 위해 생애를 탕진했으나 결국에는
+      목걸이가 가짜였다는 사실을 소설의 결말부에 제시하는 트릭을 사용하고 있다.
     원어:
       언어: 영어
       원어: trick
@@ -1212,11 +1278,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82971
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82971_teu-rim.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82971_teu-rim.wav
       발음: 트ː림
     어휘 등급: 고급
     의미:
@@ -1248,11 +1314,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82972
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82972_teu-rimhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82972_teu-rimhada.wav
       발음: 트ː림하다
     어휘 등급: 없음
     의미:
@@ -1281,15 +1347,18 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=346802&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     원어:
       언어: 영어
       원어: twist
     의미:
-    - 뜻풀이: 상체와 하체를 좌우로 비틀면서 추는 춤. 1960년대 초부터 미국을 비롯하여 세계 각국에서 유행한 춤으로, 4분의4박자의 리듬이
+    - 뜻풀이: 상체와 하체를 좌우로 비틀면서 추는 춤. 1960년대 초부터 미국을 비롯하여 세계 각국에서 유행한 춤으로, 4분의4 박자의 리듬이
         뚜렷하고 빠른 음악에 맞추어 춘다.
       분류: 무용
+      원뜻풀이: 상체와 하체를 좌우로 비틀면서 추는 춤. 1960년대 초부터 미국을 비롯하여 세계 각국에서 유행한 춤으로, 4분의4 박자의 리듬이
+        뚜렷하고 빠른 음악에 맞추어 춘다.
+      의미코드: 585396
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -1304,10 +1373,11 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=979539
-    가져온 시각: '2019-08-21T15:21:22+09:00'
+    가져온 시각: '2023-05-01T22:29:15+09:00'
     구분: 어휘
     뜻풀이: 높은 주파수 음역대의 음을 재생하는 데 쓰는 스피커. ⇒규범 표기는 미확정이다.
     분류: 예체능 일반
+    원뜻풀이: 높은 주파수 음역대의 음을 재생하는 데 쓰는 스피커. ⇒규범 표기는 미확정이다.
     원어:
       언어: 영어
       원어: tweeter
@@ -1325,11 +1395,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82973
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82973_teuida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82973_teuida.wav
       발음: 트이다
     어휘 등급: 고급
     의미:
@@ -1476,10 +1546,10 @@ import:
     항목ID: 82973
     활용:
     - 발음: 트이어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82973_teuieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82973_teuieo.wav
       형태: 트이어
     - 발음: 트이여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82973_teuiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82973_teuiyeo.wav
       형태: 트이어
     - 형태: 트이니
 result:
@@ -1491,11 +1561,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82974
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teujip.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teujip.wav
       발음: 트집
     어휘 등급: 고급
     의미:
@@ -1518,13 +1588,13 @@ import:
     항목ID: 82974
     활용:
     - 발음: 트지비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82974_teujibi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/82974_teujibi.wav
       형태: 트집이
     - 발음: 트집또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82974_teujiptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82974_teujiptto.wav
       형태: 트집도
     - 발음: 트짐만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82974_teujimman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82974_teujimman.wav
       형태: 트집만
 result:
   맞춤법 검사:
@@ -1535,11 +1605,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82975
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukkkang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukkkang.wav
       발음: 특깡
     어휘 등급: 고급
     원어: 特講
@@ -1572,11 +1642,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90672
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/90672_teukkkeom.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/90672_teukkkeom.wav
       발음: 특껌
     어휘 등급: 없음
     원어: 特檢
@@ -1606,11 +1676,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82976
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukkkongdae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukkkongdae.wav
       발음: 특꽁대
     어휘 등급: 없음
     원어: 特攻隊
@@ -1642,11 +1712,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82977
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukkkwon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukkkwon.wav
       발음: 특꿘
     어휘 등급: 고급
     원어: 特權
@@ -1680,11 +1750,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82978
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukkkwoncheung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukkkwoncheung.wav
       발음: 특꿘층
     어휘 등급: 없음
     원어: 特權層
@@ -1716,11 +1786,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82979
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukkkeun.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukkkeun.wav
       발음: 특끈
     어휘 등급: 없음
     원어: 特勤
@@ -1751,11 +1821,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82980
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukkkeup.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukkkeup.wav
       발음: 특끕
     어휘 등급: 없음
     원어: 特級
@@ -1778,13 +1848,13 @@ import:
     항목ID: 82980
     활용:
     - 발음: 특끄비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82980_teukkkeubi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82980_teukkkeubi.wav
       형태: 특급이
     - 발음: 특끕또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82980_teukkkeuptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82980_teukkkeuptto.wav
       형태: 특급도
     - 발음: 특끔만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82980_teukkkeumman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82980_teukkkeumman.wav
       형태: 특급만
 result:
   맞춤법 검사:
@@ -1795,11 +1865,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92094
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukkkeup.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukkkeup.wav
       발음: 특끕
     어휘 등급: 없음
     원어: 特急
@@ -1823,13 +1893,13 @@ import:
     항목ID: 92094
     활용:
     - 발음: 특끄비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82980_teukkkeubi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82980_teukkkeubi.wav
       형태: 특급이
     - 발음: 특끕또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82980_teukkkeuptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82980_teukkkeuptto.wav
       형태: 특급도
     - 발음: 특끔만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82980_teukkkeumman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82980_teukkkeumman.wav
       형태: 특급만
 result:
   맞춤법 검사:
@@ -1840,11 +1910,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82981
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukkki.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukkki.wav
       발음: 특끼
     어휘 등급: 중급
     원어: 特技
@@ -1880,11 +1950,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82982
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukkki.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukkki.wav
       발음: 특끼
     어휘 등급: 없음
     원어: 特記
@@ -1914,11 +1984,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82983
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82983_teukkkisaeng.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82983_teukkkisaeng.wav
       발음: 특끼생
     어휘 등급: 없음
     원어: 特技生
@@ -1948,14 +2018,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82984
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukkkihada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukkkihada.wav
       발음: 특끼하다
     어휘 등급: 없음
-    원어: 特記 하다
+    원어: 特記하다
     의미:
     - 뜻풀이: 특별히 다루어 기록하다.
       문형: 1이 특기하다
@@ -1983,11 +2053,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82985
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukttan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukttan.wav
       발음: 특딴
     어휘 등급: 없음
     원어: 特段
@@ -2023,11 +2093,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82986
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teuktteung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teuktteung.wav
       발음: 특뜽
     어휘 등급: 없음
     원어: 特等
@@ -2057,11 +2127,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82987
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teungnye.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teungnye.wav
       발음: 틍녜
     어휘 등급: 없음
     원어: 特例
@@ -2092,11 +2162,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82988
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teungnyeppeop.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teungnyeppeop.wav
       발음: 틍녜뻡
     어휘 등급: 없음
     원어: 特例法
@@ -2125,13 +2195,13 @@ import:
     항목ID: 82988
     활용:
     - 발음: 틍녜뻐비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82988_teungnyeppeobi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82988_teungnyeppeobi.wav
       형태: 특례법이
     - 발음: 틍녜뻡또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82988_teungnyeppeoptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82988_teungnyeppeoptto.wav
       형태: 특례법도
     - 발음: 틍녜뻠만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82988_teungnyeppeomman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82988_teungnyeppeomman.wav
       형태: 특례법만
 result:
   맞춤법 검사:
@@ -2142,11 +2212,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82989
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teungmyeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teungmyeong.wav
       발음: 틍명
     어휘 등급: 없음
     원어: 特命
@@ -2192,11 +2262,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82990
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teungmu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teungmu.wav
       발음: 틍무
     어휘 등급: 없음
     원어: 特務
@@ -2228,11 +2298,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=49420
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukppyeol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukppyeol.wav
       발음: 특뼐
     어휘 등급: 고급
     원어: 特別
@@ -2268,14 +2338,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82991
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukppyeolrada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukppyeolrada.wav
       발음: 특뼐라다
     어휘 등급: 없음
-    원어: 特別 나다
+    원어: 特別나다
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -2307,10 +2377,10 @@ import:
     - 발음: 특뼐란
       형태: 특별난
     - 발음: 특뼐라
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82991_teukppyeolla.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82991_teukppyeolla.wav
       형태: 특별나
     - 발음: 특뼐라니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82991_teukppyeollani.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82991_teukppyeollani.wav
       형태: 특별나니
     - 발음: 특뼐람니다
       형태: 특별납니다
@@ -2323,11 +2393,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82992
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82992_teukppyeolppeop.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82992_teukppyeolppeop.wav
       발음: 특뼐뻡
     어휘 등급: 없음
     원어: 特別法
@@ -2359,13 +2429,13 @@ import:
     항목ID: 82992
     활용:
     - 발음: 특뼐뻐비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82992_teukppyeolppeobi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82992_teukppyeolppeobi.wav
       형태: 특별법이
     - 발음: 특뼐뻡또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82992_teukppyeolppeoptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82992_teukppyeolppeoptto.wav
       형태: 특별법도
     - 발음: 특뼐뻠만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82992_teukppyeolppeomman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82992_teukppyeolppeomman.wav
       형태: 특별법만
 result:
   맞춤법 검사:
@@ -2376,7 +2446,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=347215&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 특뼐상
@@ -2385,6 +2455,14 @@ import:
       원어: 特別賞
     의미:
     - 뜻풀이: 정식으로 지정된 상 외에 특별히 주는 상.
+      어휘정보:
+      - 기준: 의미
+        단어: 특상02
+        대상항목ID: 306469
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=345088&searchKeywordTo=3
+        종류: 비슷한말
+      원뜻풀이: 정식으로 지정된 상 외에 특별히 주는 상.
+      의미코드: 364952
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -2399,7 +2477,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=496164&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 구
     원어:
       언어: 한자
@@ -2407,6 +2485,8 @@ import:
     의미:
     - 뜻풀이: ‘개별 소비세’의 전 용어.
       분류: 법률
+      원뜻풀이: ‘<sense_no>600080</sense_no>개별소비세’의 전 용어.
+      의미코드: 364603
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -2428,11 +2508,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82995
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukppyeolsi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukppyeolsi.wav
       발음: 특뼐시
     어휘 등급: 없음
     원어: 特別市
@@ -2464,14 +2544,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71297
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/71297_teukppyeolhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/71297_teukppyeolhada.wav
       발음: 특뼐하다
     어휘 등급: 초급
-    원어: 特別 하다
+    원어: 特別하다
     의미:
     - 뜻풀이: 보통과 차이가 나게 다르다.
       문형: 1이 특별하다
@@ -2516,14 +2596,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71298
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/71298_teukppyeolhi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/71298_teukppyeolhi.wav
       발음: 특뼐히
     어휘 등급: 초급
-    원어: 特別 히
+    원어: 特別히
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -2556,11 +2636,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82997
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukppo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukppo.wav
       발음: 특뽀
     어휘 등급: 없음
     원어: 特報
@@ -2591,11 +2671,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82998
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukssa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukssa.wav
       발음: 특싸
     어휘 등급: 없음
     원어: 特使
@@ -2625,11 +2705,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82999
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukssa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukssa.wav
       발음: 특싸
     어휘 등급: 없음
     원어: 特赦
@@ -2661,11 +2741,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83000
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukssan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukssan.wav
       발음: 특싼
     어휘 등급: 없음
     원어: 特産
@@ -2696,11 +2776,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83001
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukssanmul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukssanmul.wav
       발음: 특싼물
     어휘 등급: 고급
     원어: 特産物
@@ -2732,11 +2812,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83002
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukssanpum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukssanpum.wav
       발음: 특싼품
     어휘 등급: 없음
     원어: 特産品
@@ -2767,11 +2847,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83003
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83003_teukssaek.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83003_teukssaek.wav
       발음: 특쌕
     어휘 등급: 고급
     원어: 特色
@@ -2805,13 +2885,13 @@ import:
     항목ID: 83003
     활용:
     - 발음: 특쌔기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83003_teukssaegi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83003_teukssaegi.wav
       형태: 특색이
     - 발음: 특쌕또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83003_teukssaektto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83003_teukssaektto.wav
       형태: 특색도
     - 발음: 특쌩만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83003_teukssaengman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83003_teukssaengman.wav
       형태: 특색만
 result:
   맞춤법 검사:
@@ -2822,11 +2902,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83004
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teuksseok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teuksseok.wav
       발음: 특썩
     어휘 등급: 없음
     원어: 特席
@@ -2850,13 +2930,13 @@ import:
     항목ID: 83004
     활용:
     - 발음: 특써기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83004_teuksseogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83004_teuksseogi.wav
       형태: 특석이
     - 발음: 특썩또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83004_teuksseoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83004_teuksseoktto.wav
       형태: 특석도
     - 발음: 특썽만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83004_teuksseongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83004_teuksseongman.wav
       형태: 특석만
 result:
   맞춤법 검사:
@@ -2867,11 +2947,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83005
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teuksseon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teuksseon.wav
       발음: 특썬
     어휘 등급: 없음
     원어: 特選
@@ -2921,11 +3001,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83006
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teuksseol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teuksseol.wav
       발음: 특썰
     어휘 등급: 없음
     원어: 特設
@@ -2958,11 +3038,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83007
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83007_teuksseong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83007_teuksseong.wav
       발음: 특썽
     어휘 등급: 중급
     원어: 特性
@@ -2998,7 +3078,7 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1218439
-    가져온 시각: '2019-08-21T15:28:16+09:00'
+    가져온 시각: '2023-05-01T22:29:15+09:00'
     관련어:
     - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=364603
       종류: 본말
@@ -3008,6 +3088,7 @@ import:
     뜻풀이: ‘특별 소비세’를 줄여 이르는 말.
     발음:
     - 특쏘세
+    원뜻풀이: ‘<sense_no>364603</sense_no>특별 소비세’를 줄여 이르는 말.
     원어:
       언어: 한자
       원어: 特消稅
@@ -3025,20 +3106,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83008
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83008_teukssu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83008_teukssu.wav
       발음: 특쑤
     어휘 등급: 중급
     원어: 特殊
     의미:
-    - 관련어:반대말:
-      - 동형어 번호: 0
-        표제어: 보편
-        항목ID: 59633
-      관련어:유의어:
+    - 관련어:유의어:
       - 동형어 번호: 0
         표제어: 특이
         항목ID: 83023
@@ -3073,11 +3150,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83009
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83008_teukssu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83008_teukssu.wav
       발음: 특쑤
     어휘 등급: 없음
     원어: 特需
@@ -3109,7 +3186,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351895&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 구
     원어:
       언어: 한자
@@ -3117,6 +3194,14 @@ import:
     의미:
     - 뜻풀이: 특수 작전을 수행하기 위하여 훈련된 부대.
       분류: 군사
+      어휘정보:
+      - 기준: 의미
+        단어: 특수^작전^부대
+        대상항목ID: 307351
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=350295&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 특수 작전을 수행하기 위하여 훈련된 부대.
+      의미코드: 364714
       종류: 일반어
       품사: 품사 없음
     종류: 한자어
@@ -3138,11 +3223,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83012
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83012_teukssusseong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83012_teukssusseong.wav
       발음: 특쑤썽
     어휘 등급: 고급
     원어: 特殊性
@@ -3175,14 +3260,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83013
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukssuhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukssuhada.wav
       발음: 특쑤하다
     어휘 등급: 없음
-    원어: 特秀 하다
+    원어: 特秀하다
     의미:
     - 뜻풀이: 보통과 매우 차이가 나게 뛰어나다.
       문형: 1이 특수하다
@@ -3223,14 +3308,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83014
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukssuhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukssuhada.wav
       발음: 특쑤하다
     어휘 등급: 없음
-    원어: 特殊 하다
+    원어: 特殊하다
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -3277,11 +3362,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83015
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukssuhwa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukssuhwa.wav
       발음: 특쑤화
     어휘 등급: 없음
     원어: 特殊化
@@ -3311,16 +3396,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83016
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukssuhwadoeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukssuhwadoeda.wav
       발음: 특쑤화되다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/83016_teukssuhwadweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/83016_teukssuhwadweda.wav
       발음: 특쑤화뒈다
     어휘 등급: 없음
-    원어: 特殊化 되다
+    원어: 特殊化되다
     의미:
     - 뜻풀이: 보통과 매우 차이가 나게 다르게 되다.
       문형: 1이 특수화되다
@@ -3348,14 +3433,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83017
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukssuhwahada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukssuhwahada.wav
       발음: 특쑤화하다
     어휘 등급: 없음
-    원어: 特殊化 하다
+    원어: 特殊化하다
     의미:
     - 뜻풀이: 보통과 매우 차이가 나게 다르게 되다. 또는 그렇게 되게 하다.
       문형: 1이 2를 특수화하다
@@ -3384,11 +3469,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83018
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukssil.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukssil.wav
       발음: 특씰
     어휘 등급: 없음
     원어: 特室
@@ -3422,11 +3507,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83019
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teugyak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teugyak.wav
       발음: 트갹
     어휘 등급: 없음
     원어: 特約
@@ -3463,13 +3548,13 @@ import:
     항목ID: 83019
     활용:
     - 발음: 트갸기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83019_teugyagi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83019_teugyagi.wav
       형태: 특약이
     - 발음: 트갹또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83019_teugyaktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83019_teugyaktto.wav
       형태: 특약도
     - 발음: 트걍만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83019_teugyangman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83019_teugyangman.wav
       형태: 특약만
 result:
   맞춤법 검사:
@@ -3480,11 +3565,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83021
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83021_teugyu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83021_teugyu.wav
       발음: 트규
     어휘 등급: 고급
     원어: 特有
@@ -3517,14 +3602,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83022
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teugyuhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teugyuhada.wav
       발음: 트규하다
     어휘 등급: 없음
-    원어: 特有 하다
+    원어: 特有하다
     의미:
     - 뜻풀이: 일정한 사람이나 사물만이 특별히 갖추고 있다.
       문형: 1이 특유하다
@@ -3565,11 +3650,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83023
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teugi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teugi.wav
       발음: 트기
     어휘 등급: 고급
     원어: 特異
@@ -3605,7 +3690,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351485&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 트기썽
@@ -3614,6 +3699,19 @@ import:
       원어: 特異性
     의미:
     - 뜻풀이: 일정한 사물에만 있는 특수한 성질.
+      어휘정보:
+      - 기준: 의미
+        단어: 특수-성
+        대상항목ID: 307122
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=351908&searchKeywordTo=3
+        종류: 비슷한말
+      - 기준: 의미
+        단어: 특성01
+        대상항목ID: 364669
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=348489&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 일정한 사물에만 있는 특수한 성질.
+      의미코드: 58606
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -3628,7 +3726,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351771&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 트기쩜
@@ -3640,6 +3738,10 @@ import:
         곡선을 가로지르는 따위의 이상한 성질을 나타내는 곡선 위의 점. 곡선, 함수, 미분 방정식에 있어서 다른 것에 비하여 특이한 형태를
         나타내는 점을 모두 이른다. 중복점, 고립점, 각점, 변곡점 따위가 있다.
       분류: 수학
+      원뜻풀이: 접점에서 접선이 하나 이상이거나 하나도 없는 경우, 또는 접선의 방향이 접점의 위치에 따라 불연속적으로 변화하거나 접선이 접점에서
+        곡선을 가로지르는 따위의 이상한 성질을 나타내는 곡선 위의 점. 곡선, 함수, 미분 방정식에 있어서 다른 것에 비하여 특이한 형태를
+        나타내는 점을 모두 이른다. 중복점, 고립점, 각점, 변곡점 따위가 있다.
+      의미코드: 337130
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -3654,14 +3756,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83024
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83024_teugihada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83024_teugihada.wav
       발음: 트기하다
     어휘 등급: 없음
-    원어: 特異 하다
+    원어: 特異하다
     의미:
     - 관련어:유의어:
       - 동형어 번호: 2
@@ -3708,11 +3810,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83025
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjeon.wav
       발음: 특쩐
     어휘 등급: 없음
     원어: 特典
@@ -3760,11 +3862,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83026
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjeong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjeong.wav
       발음: 특쩡
     어휘 등급: 중급
     원어: 特定
@@ -3800,16 +3902,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83027
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83027_teukjjeongdoeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83027_teukjjeongdoeda.wav
       발음: 특쩡되다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/83027_teukjjeongdweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/83027_teukjjeongdweda.wav
       발음: 특쩡뒈다
     어휘 등급: 없음
-    원어: 特定 되다
+    원어: 特定되다
     의미:
     - 뜻풀이: 특별히 가리켜져 분명하게 정해지다.
       문형: 1이 특정되다
@@ -3839,11 +3941,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83029
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjeongin.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjeongin.wav
       발음: 특쩡인
     어휘 등급: 없음
     원어: 特定人
@@ -3873,18 +3975,51 @@ result:
     표제어: 특정인
     품사: 명사
 ---
+000_KEYWORD: 특정하다__동사__001
+import:
+  한국어기초사전:
+    URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93769
+    가져온 시각: '2023-05-01T02:14:03+09:00'
+    구분: 단어
+    동형어 번호: 1
+    발음:
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjeonghada.wav
+      발음: 특쩡하다
+    어휘 등급: 없음
+    원어: 特定하다
+    의미:
+    - 뜻풀이: 특별히 가리켜 분명하게 지정하다.
+      문형: 1이 2를 특정하다
+      용례.구:
+      - 목격자를 특정하다.
+      - 범인을 특정하다.
+      - 시간을 특정하다.
+      용례.대화:
+      - 따로 수당을 주는 것도 아닌데 누군가를 특정하는 것이 어려워서 아직 고민하고 있습니다.
+      용례.문장:
+      - 어떤 인물을 특정하여 근거 없는 내용을 무분별하게 퍼뜨리는 것은 범죄이다.
+      - 증인이 진술에서 피해자를 따로 특정하지 않아 사건이 점점 미궁으로 빠졌다.
+      의미ID: 1
+    표제어: 특정하다
+    품사: 동사
+    항목ID: 93769
+result:
+  맞춤법 검사:
+    표제어: 특정하다
+    품사: 동사
+---
 000_KEYWORD: 특정하다__형용사__001
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83028
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
-    동형어 번호: 0
+    동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjeonghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjeonghada.wav
       발음: 특쩡하다
     어휘 등급: 없음
-    원어: 特定 하다
+    원어: 特定하다
     의미:
     - 뜻풀이: 특별히 가리켜져 분명하게 정해져 있다.
       문형: 1이 특정하다
@@ -3925,11 +4060,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82559
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82559_teukjje.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82559_teukjje.wav
       발음: 특쩨
     어휘 등급: 없음
     원어: 特製
@@ -3959,11 +4094,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82561
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjong.wav
       발음: 특쫑
     어휘 등급: 없음
     원어: 特種
@@ -4011,11 +4146,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82565
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjin.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjin.wav
       발음: 특찐
     어휘 등급: 없음
     원어: 特診
@@ -4045,11 +4180,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82566
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjin.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjin.wav
       발음: 특찐
     어휘 등급: 없음
     원어: 特進
@@ -4080,14 +4215,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82568
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82568_teukjjinhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82568_teukjjinhada.wav
       발음: 특찐하다
     어휘 등급: 없음
-    원어: 特診 하다
+    원어: 特診하다
     의미:
     - 뜻풀이: 종합 병원에서 환자의 요청에 따라 특정한 의사가 진료하다.
       문형: 1이 2를 특진하다
@@ -4115,14 +4250,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82569
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82568_teukjjinhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82568_teukjjinhada.wav
       발음: 특찐하다
     어휘 등급: 없음
-    원어: 特進 하다
+    원어: 特進하다
     의미:
     - 뜻풀이: 뛰어난 공로를 세워 특별히 계급이나 등급이 올라가다.
       문형: 1이 특진하다
@@ -4146,11 +4281,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82571
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82571_teukjjil.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82571_teukjjil.wav
       발음: 특찔
     어휘 등급: 고급
     원어: 特質
@@ -4182,11 +4317,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82577
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukjjip.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukjjip.wav
       발음: 특찝
     어휘 등급: 고급
     원어: 特輯
@@ -4210,13 +4345,13 @@ import:
     항목ID: 82577
     활용:
     - 발음: 특찌비
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82577_teukjjibi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82577_teukjjibi.wav
       형태: 특집이
     - 발음: 특찝또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82577_teukjjiptto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82577_teukjjiptto.wav
       형태: 특집도
     - 발음: 특찜만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82577_teukjjimman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82577_teukjjimman.wav
       형태: 특집만
 result:
   맞춤법 검사:
@@ -4227,11 +4362,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82578
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82578_teukjjipkkeuk.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82578_teukjjipkkeuk.wav
       발음: 특찝끅
     어휘 등급: 없음
     원어: 特輯劇
@@ -4255,13 +4390,13 @@ import:
     항목ID: 82578
     활용:
     - 발음: 특찝끄기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82578_teukjjipkkeugi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82578_teukjjipkkeugi.wav
       형태: 특집극이
     - 발음: 특찝끅또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82578_teukjjipkkeuktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82578_teukjjipkkeuktto.wav
       형태: 특집극도
     - 발음: 특찝끙만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82578_teukjjipkkeungman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82578_teukjjipkkeungman.wav
       형태: 특집극만
 result:
   맞춤법 검사:
@@ -4272,11 +4407,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82589
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjipo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjipo.wav
       발음: 특찌포
     어휘 등급: 없음
     원어: 特輯號
@@ -4306,11 +4441,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71299
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/71299_teukjjing.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/71299_teukjjing.wav
       발음: 특찡
     어휘 등급: 중급
     원어: 特徵
@@ -4347,11 +4482,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82590
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjingjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjingjeok.wav
       발음: 특찡적
     어휘 등급: 고급
     원어: 特徵的
@@ -4381,11 +4516,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82592
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjingjeok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjingjeok.wav
       발음: 특찡적
     어휘 등급: 고급
     원어: 特徵的
@@ -4415,14 +4550,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82594
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukjjingjittta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukjjingjittta.wav
       발음: 특찡짇따
     어휘 등급: 없음
-    원어: 特徵 짓다
+    원어: 特徵짓다
     의미:
     - 뜻풀이: 어떤 사물이 가지는 특징을 밝혀 정하다.
       문형: 1이 2를 특징짓다
@@ -4443,13 +4578,13 @@ import:
     항목ID: 82594
     활용:
     - 발음: 특찡지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82594_teukjjingjieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82594_teukjjingjieo.wav
       형태: 특징지어
     - 발음: 특찡지으니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82594_teukjjingjieuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82594_teukjjingjieuni.wav
       형태: 특징지으니
     - 발음: 특찡진는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82594_teukjjingjinneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82594_teukjjingjinneun.wav
       형태: 특징짓는
 result:
   맞춤법 검사:
@@ -4462,11 +4597,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82596
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukchae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukchae.wav
       발음: 특채
     어휘 등급: 없음
     원어: 特採
@@ -4497,16 +4632,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82598
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukchaedoeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukchaedoeda.wav
       발음: 특채되다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/82598_teukchaedweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/82598_teukchaedweda.wav
       발음: 특채뒈다
     어휘 등급: 없음
-    원어: 特採 되다
+    원어: 特採되다
     의미:
     - 뜻풀이: 어떤 사람이 특별히 뽑혀서 쓰이다.
       문형: 1이 2로 특채되다
@@ -4534,14 +4669,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82599
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82599_teukchaehada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82599_teukchaehada.wav
       발음: 특채하다
     어휘 등급: 없음
-    원어: 特採 하다
+    원어: 特採하다
     의미:
     - 뜻풀이: 어떤 사람을 특별히 뽑아서 쓰다.
       문형: 1이 2를 3으로 특채하다
@@ -4569,14 +4704,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82601
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82601_teukchulhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82601_teukchulhada.wav
       발음: 특출하다
     어휘 등급: 없음
-    원어: 特出 하다
+    원어: 特出하다
     의미:
     - 뜻풀이: 특별히 뛰어나다.
       문형: 1이 특출하다
@@ -4616,11 +4751,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82603
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukpa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukpa.wav
       발음: 특파
     어휘 등급: 없음
     원어: 特派
@@ -4650,16 +4785,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82604
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukpadoeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukpadoeda.wav
       발음: 특파되다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/82604_teukpadweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/82604_teukpadweda.wav
       발음: 특파뒈다
     어휘 등급: 없음
-    원어: 特派 되다
+    원어: 特派되다
     의미:
     - 뜻풀이: 특별한 임무가 주어져 사람이 보내어지다.
       문형: 1이 2에/로 특파되다
@@ -4688,11 +4823,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82605
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukpawon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukpawon.wav
       발음: 특파원
     어휘 등급: 없음
     원어: 特派員
@@ -4735,14 +4870,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82606
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teukpahada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teukpahada.wav
       발음: 특파하다
     어휘 등급: 없음
-    원어: 特派 하다
+    원어: 特派하다
     의미:
     - 뜻풀이: 특별한 임무를 주어 사람을 보내다.
       문형: 1이 2를 3에/으로 특파하다
@@ -4770,11 +4905,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82609
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82609_teukeo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82609_teukeo.wav
       발음: 트커
     어휘 등급: 고급
     원어: 特許
@@ -4827,11 +4962,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82610
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukeokkwon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukeokkwon.wav
       발음: 트커꿘
     어휘 등급: 없음
     원어: 特許權
@@ -4866,7 +5001,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=354282&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 트커청
@@ -4877,6 +5012,9 @@ import:
     - 뜻풀이: 중앙 행정 기관의 하나. 산업 통상 자원부 소속으로, 특허, 실용신안, 의장(意匠) 및 상표에 관한 사무와 이에 대한 심사, 심판
         사무를 맡아본다.
       분류: 행정
+      원뜻풀이: 중앙 행정 기관의 하나. 산업 통상 자원부 소속으로, 특허, 실용신안, 의장(意匠) 및 상표에 관한 사무와 이에 대한 심사,
+        심판 사무를 맡아본다.
+      의미코드: 305876
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -4891,7 +5029,7 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1032405
-    가져온 시각: '2019-08-21T15:28:31+09:00'
+    가져온 시각: '2023-05-01T23:26:19+09:00'
     구분: 어휘
     뜻풀이: 특허청의 장으로서 특허청의 소관 업무를 총괄하는 사람.
     발음:
@@ -4900,6 +5038,7 @@ import:
     - 번역: ' commissioner of the korean intellectual property office'
       언어: 영어
     분류: 법률
+    원뜻풀이: 특허청의 장으로서 특허청의 소관 업무를 총괄하는 사람.
     원어:
       언어: 한자
       원어: 特許廳長
@@ -4917,7 +5056,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=350948&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 트커하다
@@ -4927,6 +5066,8 @@ import:
     의미:
     - 뜻풀이: 특정인에 대하여 새로운 일정한 권리, 능력을 주거나 포괄적인 법령 관계를 설정하는 행정 행위를 하다.
       분류: 법률
+      원뜻풀이: 특정인에 대하여 새로운 일정한 권리, 능력을 주거나 포괄적인 법령 관계를 설정하는 행정 행위를 하다.
+      의미코드: 512113
       종류: 일반어
       품사: 동사
       형태: …을…에게
@@ -4946,13 +5087,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82611
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82611_teukye.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82611_teukye.wav
       발음: 트켸
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82611_teuke.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82611_teuke.wav
       발음: 트케
     어휘 등급: 고급
     원어: 特惠
@@ -4984,11 +5125,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82613
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukwa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukwa.wav
       발음: 트콰
     어휘 등급: 없음
     원어: 特化
@@ -5020,7 +5161,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=354579&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 트콰되다
@@ -5030,6 +5171,8 @@ import:
       원어: 되다
     의미:
     - 뜻풀이: 한 나라의 산업 구조나 수출 구성에서 특정 산업이나 상품이 상대적으로 큰 비중을 차지하게 되다.
+      원뜻풀이: 한 나라의 산업 구조나 수출 구성에서 특정 산업이나 상품이 상대적으로 큰 비중을 차지하게 되다.
+      의미코드: 511753
       종류: 일반어
       품사: 동사
     종류: 혼종어
@@ -5048,7 +5191,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=354580&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 트콰하다
@@ -5057,6 +5200,8 @@ import:
       원어: 하다
     의미:
     - 뜻풀이: 한 나라의 산업 구조나 수출 구성에서 특정 산업이나 상품이 상대적으로 큰 비중을 차지하다.
+      원뜻풀이: 한 나라의 산업 구조나 수출 구성에서 특정 산업이나 상품이 상대적으로 큰 비중을 차지하다.
+      의미코드: 305884
       종류: 일반어
       품사: 동사
       형태: …을
@@ -5076,11 +5221,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82615
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukwal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukwal.wav
       발음: 트콸
     어휘 등급: 없음
     원어: 特活
@@ -5110,11 +5255,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82617
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukyo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukyo.wav
       발음: 트쿄
     어휘 등급: 없음
     원어: 特效
@@ -5141,11 +5286,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82620
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teukyoyak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teukyoyak.wav
       발음: 트쿄약
     어휘 등급: 없음
     원어: 特效藥
@@ -5169,13 +5314,13 @@ import:
     항목ID: 82620
     활용:
     - 발음: 트쿄야기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82620_teukyoyagi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82620_teukyoyagi.wav
       형태: 특효약이
     - 발음: 트쿄약또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82620_teukyoyaktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82620_teukyoyaktto.wav
       형태: 특효약도
     - 발음: 트쿄양만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/82620_teukyoyangman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/82620_teukyoyangman.wav
       형태: 특효약만
 result:
   맞춤법 검사:
@@ -5186,7 +5331,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=515510&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 트쿤
@@ -5195,6 +5340,14 @@ import:
       원어: 特訓
     의미:
     - 뜻풀이: 특별히 하는 훈련.
+      어휘정보:
+      - 기준: 의미
+        단어: 특별-훈련
+        대상항목ID: 596642
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=515505&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 특별히 하는 훈련.
+      의미코드: 596649
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -5209,14 +5362,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71300
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/01000/71300_teuki.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/01000/71300_teuki.wav
       발음: 트키
     어휘 등급: 초급
-    원어: 特 히
+    원어: 特히
     의미:
     - 관련어:유의어:
       - 동형어 번호: 0
@@ -5248,11 +5401,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71480
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/71480_teunteunhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/71480_teunteunhada.wav
       발음: 튼튼하다
     어휘 등급: 초급
     의미:
@@ -5307,7 +5460,6 @@ import:
       용례.문장:
       - 경제가 튼튼한 미국은 높은 신용 등급을 받았다.
       - 그가 운영하는 회사는 사업적 기반이 아주 튼튼한 회사였다.
-      - 자동차 부품을 전 세계에 수출하는 그 회사는
       의미ID: 3
     - 뜻풀이: 사상이나 정신이 흔들리지 않을 정도로 굳고 확실하다.
       문형: 1이 튼튼하다
@@ -5348,11 +5500,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82621
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82621_teunteunhi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82621_teunteunhi.wav
       발음: 튼튼히
     어휘 등급: 고급
     의미:
@@ -5420,11 +5572,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82623
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teul.wav
       발음: 틀
     어휘 등급: 고급
     의미:
@@ -5497,11 +5649,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82624
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2006/teulri.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2006/teulri.wav
       발음: 틀리
     어휘 등급: 없음
     의미:
@@ -5537,11 +5689,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89816
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/89816_teulda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/89816_teulda.wav
       발음: 틀다
     어휘 등급: 초급
     의미:
@@ -5698,11 +5850,11 @@ import:
     항목ID: 89816
     활용:
     - 발음: 트러
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/89816_teureo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/89816_teureo.wav
       형태: 틀어
     - 형태: 트니
     - 발음: 틈니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/89816_teumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/89816_teumnida.wav
       형태: 틉니다
 result:
   맞춤법 검사:
@@ -5713,7 +5865,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=351405&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 틀려먹따
@@ -5722,6 +5874,8 @@ import:
       원어: 'null'
     의미:
     - 뜻풀이: ‘틀리다01[Ⅰ]「3」’를 속되게 이르는 말.
+      원뜻풀이: ‘<sense_no>598488</sense_no>틀리다’를 속되게 이르는 말.
+      의미코드: 447419
       종류: 일반어
       품사: 동사
     종류: 고유어
@@ -5739,11 +5893,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71481
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teulrida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teulrida.wav
       발음: 틀리다
     어휘 등급: 초급
     의미:
@@ -5792,10 +5946,10 @@ import:
     항목ID: 71481
     활용:
     - 발음: 틀리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71481_teullieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71481_teullieo.wav
       형태: 틀리어
     - 발음: 틀리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71481_teulliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/71481_teulliyeo.wav
       형태: 틀리어
     - 형태: 틀리니
 result:
@@ -5807,11 +5961,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82625
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teulrida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teulrida.wav
       발음: 틀리다
     어휘 등급: 없음
     의미:
@@ -5873,10 +6027,10 @@ import:
     항목ID: 82625
     활용:
     - 발음: 틀리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71481_teullieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71481_teullieo.wav
       형태: 틀리어
     - 발음: 틀리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71481_teulliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/71481_teulliyeo.wav
       형태: 틀리어
     - 형태: 틀리니
 result:
@@ -5888,11 +6042,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71301
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/71301_teullimeoptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/71301_teullimeoptta.wav
       발음: 틀리멉따
     어휘 등급: 중급
     의미:
@@ -5926,21 +6080,21 @@ import:
     항목ID: 71301
     활용:
     - 발음: 틀리멈는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/71301_teullimeomneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/71301_teullimeomneun.wav
       형태: 틀림없는
     - 발음: 틀리멉써
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71301_teullimeopsseo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71301_teullimeopsseo.wav
       형태: 틀림없어
     - 발음: 틀리멉쓰니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71301_teullimeopsseuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71301_teullimeopsseuni.wav
       형태: 틀림없으니
     - 발음: 틀리멉씀니다
       형태: 틀림없습니다
     - 발음: 틀리멉꼬
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71301_teullimeopkko.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71301_teullimeopkko.wav
       형태: 틀림없고
     - 발음: 틀리멉찌
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71301_teullimeopjji.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71301_teullimeopjji.wav
       형태: 틀림없지
 result:
   맞춤법 검사:
@@ -5951,11 +6105,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82627
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82627_teullimeopssi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82627_teullimeopssi.wav
       발음: 틀리멉씨
     어휘 등급: 중급
     의미:
@@ -5970,7 +6124,7 @@ import:
       용례.문장:
       - 그 여인은 틀림없이 지수가 분명했다.
       - 이번 경기에서는 틀림없이 우리 팀이 승리할 것이다.
-      - 그는 자신이 알려준 대로만 한다면 틀림없이 성공할 것이라고 했다.
+      - 그는 자신이 알려 준 대로만 한다면 틀림없이 성공할 것이라고 했다.
       의미ID: 1
     표제어: 틀림없이
     품사: 부사
@@ -5984,11 +6138,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82629
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82629_teureoneota.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82629_teureoneota.wav
       발음: 트러너타
     어휘 등급: 없음
     의미:
@@ -6012,16 +6166,16 @@ import:
     항목ID: 82629
     활용:
     - 발음: 트러너어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82629_teureoneoeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82629_teureoneoeo.wav
       형태: 틀어넣어
     - 발음: 트러너으니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82629_teureoneoeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82629_teureoneoeuni.wav
       형태: 틀어넣으니
     - 발음: 트러넌는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82629_teureoneonneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82629_teureoneonneun.wav
       형태: 틀어넣는
     - 발음: 트러너씀니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82629_teureoneosseumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82629_teureoneosseumnida.wav
       형태: 틀어넣습니다
 result:
   맞춤법 검사:
@@ -6032,11 +6186,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82631
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teureomaktta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teureomaktta.wav
       발음: 트러막따
     어휘 등급: 고급
     의미:
@@ -6070,13 +6224,13 @@ import:
     항목ID: 82631
     활용:
     - 발음: 트러마가
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82631_teureomaga.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/82631_teureomaga.wav
       형태: 틀어막아
     - 발음: 트러마그니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82631_teureomageuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82631_teureomageuni.wav
       형태: 틀어막으니
     - 발음: 트러망는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82631_teureomangneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82631_teureomangneun.wav
       형태: 틀어막는
 result:
   맞춤법 검사:
@@ -6087,11 +6241,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82632
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82632_teureobaktta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82632_teureobaktta.wav
       발음: 트러박따
     어휘 등급: 없음
     의미:
@@ -6129,13 +6283,13 @@ import:
     항목ID: 82632
     활용:
     - 발음: 트러바가
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82632_teureobaga.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82632_teureobaga.wav
       형태: 틀어박아
     - 발음: 트러바그니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82632_teureobageuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/82632_teureobageuni.wav
       형태: 틀어박으니
     - 발음: 트러방는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82632_teureobangneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82632_teureobangneun.wav
       형태: 틀어박는
 result:
   맞춤법 검사:
@@ -6146,11 +6300,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82634
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teureobakida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teureobakida.wav
       발음: 트러바키다
     어휘 등급: 고급
     의미:
@@ -6219,16 +6373,16 @@ import:
     항목ID: 82634
     활용:
     - 발음: 트러바키어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82634_teureobakieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82634_teureobakieo.wav
       형태: 틀어박히어
     - 발음: 트러바키여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82634_teureobakiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82634_teureobakiyeo.wav
       형태: 틀어박히어
     - 발음: 트러바켜
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82634_teureobakyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/82634_teureobakyeo.wav
       형태: 틀어박혀
     - 발음: 트러바키니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82634_teureobakini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82634_teureobakini.wav
       형태: 틀어박히니
 import_derived:
   맞춤법 검사:
@@ -6249,11 +6403,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82636
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teureojaptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teureojaptta.wav
       발음: 트러잡따
     어휘 등급: 없음
     의미:
@@ -6292,13 +6446,13 @@ import:
     항목ID: 82636
     활용:
     - 발음: 트러자바
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82636_teureojaba.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/82636_teureojaba.wav
       형태: 틀어잡아
     - 발음: 트러자브니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82636_teureojabeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82636_teureojabeuni.wav
       형태: 틀어잡으니
     - 발음: 트러잠는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82636_teureojamneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82636_teureojamneun.wav
       형태: 틀어잡는
 result:
   맞춤법 검사:
@@ -6309,11 +6463,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82637
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teureojwida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teureojwida.wav
       발음: 트러쥐다
     어휘 등급: 없음
     의미:
@@ -6340,7 +6494,7 @@ import:
       - 결정권을 틀어쥐다.
       - 무력으로 틀어쥐다.
       용례.대화:
-      - 응. 회장님이 갑자기 쓰려지셔서 그렇게 됐어.
+      - 응. 회장님이 갑자기 쓰러지셔서 그렇게 됐어.
       용례.문장:
       - 그들은 권력을 틀어쥔 후 모든 것을 자신들의 뜻대로 했다.
       - 철도의 소유권과 경영권 및 관리권을 모두 정부가 틀어쥐고 있다.
@@ -6350,13 +6504,13 @@ import:
     항목ID: 82637
     활용:
     - 발음: 트러쥐어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82637_teureojwieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82637_teureojwieo.wav
       형태: 틀어쥐어
     - 발음: 트러쥐여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82637_teureojwiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/82637_teureojwiyeo.wav
       형태: 틀어쥐어
     - 발음: 트러쥐니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82637_teureojwini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82637_teureojwini.wav
       형태: 틀어쥐니
 result:
   맞춤법 검사:
@@ -6367,11 +6521,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82639
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teureojida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teureojida.wav
       발음: 트러지다
     어휘 등급: 없음
     의미:
@@ -6447,16 +6601,16 @@ import:
     항목ID: 82639
     활용:
     - 발음: 트러지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82639_teureojieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82639_teureojieo.wav
       형태: 틀어지어
     - 발음: 트러지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82639_teureojiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82639_teureojiyeo.wav
       형태: 틀어지어
     - 발음: 트러저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/82639_teureojeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/82639_teureojeo.wav
       형태: 틀어져
     - 발음: 트러지니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/82639_teureojini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/82639_teureojini.wav
       형태: 틀어지니
 result:
   맞춤법 검사:
@@ -6469,11 +6623,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82641
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82643_teum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82643_teum.wav
       발음: 틈
     어휘 등급: 중급
     의미:
@@ -6573,11 +6727,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82643
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82643_teum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82643_teum.wav
       발음: 틈
     어휘 등급: 중급
     의미:
@@ -6608,11 +6762,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82645
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82645_teumnada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82645_teumnada.wav
       발음: 틈나다
     어휘 등급: 없음
     의미:
@@ -6643,11 +6797,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82647
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teumbaguni.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teumbaguni.wav
       발음: 틈바구니
     어휘 등급: 없음
     의미:
@@ -6751,11 +6905,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82648
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82648_teumbagwi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82648_teumbagwi.wav
       발음: 틈바귀
     어휘 등급: 없음
     의미:
@@ -6833,11 +6987,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82650
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teumsae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teumsae.wav
       발음: 틈새
     어휘 등급: 고급
     의미:
@@ -6925,14 +7079,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82651
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/06000/82651_teumsaesijang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/06000/82651_teumsaesijang.wav
       발음: 틈새시장
     어휘 등급: 없음
-    원어: 틈새 市場
+    원어: 틈새市場
     의미:
     - 뜻풀이: 비슷한 상품이 많지만 수요자가 원하는 바로 그 상품이 없어서 공급이 틈새처럼 비어 있는 시장.
       용례.구:
@@ -6958,11 +7112,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82652
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/38000/82652_teumseori.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/38000/82652_teumseori.wav
       발음: 틈서리
     어휘 등급: 없음
     의미:
@@ -6998,9 +7152,9 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=349762&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=500714&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=500714&searchKeywordTo=1
       종류: 부표제어
       표제어: 틈입-하다
       항목ID: 500714
@@ -7012,6 +7166,9 @@ import:
       원어: 闖入
     의미:
     - 뜻풀이: 기회를 타서 느닷없이 함부로 들어감.
+      분류: 없음
+      원뜻풀이: 기회를 타서 느닷없이 함부로 들어감.
+      의미코드: 585316
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -7028,7 +7185,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=500714&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:38:06+09:00'
+    가져온 시각: '2023-05-01T07:22:15+09:00'
     구분: 단어
     발음:
     - 트미파다
@@ -7037,6 +7194,8 @@ import:
       원어: 하다
     의미:
     - 뜻풀이: 기회를 타서 느닷없이 함부로 들어가다.
+      원뜻풀이: 기회를 타서 느닷없이 함부로 들어가다.
+      의미코드: 306915
       종류: 일반어
       품사: 동사
       형태: …을
@@ -7056,11 +7215,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82654
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/82654_teumtada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/82654_teumtada.wav
       발음: 틈타다
     어휘 등급: 없음
     의미:
@@ -7088,11 +7247,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82656
-    가져온 시각: '2019-09-05T09:56:13+09:00'
+    가져온 시각: '2023-05-01T02:14:03+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/tieut_2005/teumteumi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/tieut_2005/teumteumi.wav
       발음: 틈트미
     어휘 등급: 중급
     의미:

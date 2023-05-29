@@ -2,11 +2,11 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67849
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wae-.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wae-.wav
       발음: 왜ː
     어휘 등급: 없음
     의미:
@@ -27,11 +27,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68787
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wae.wav
       발음: 왜
     어휘 등급: 없음
     의미:
@@ -49,11 +49,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68027
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 4
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wae.wav
       발음: 왜
     어휘 등급: 없음
     원어: 倭
@@ -88,11 +88,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67848
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/wae-.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/wae-.wav
       발음: 왜ː
     어휘 등급: 초급
     의미:
@@ -117,12 +117,12 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=242635&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:39:26+09:00'
+    가져온 시각: '2023-05-01T05:29:39+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=242635&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=523367&searchKeywordTo=1
       종류: 속담
       표제어: 왜가리 새 여울목 넘어다보듯
-      항목ID: 242635
+      항목ID: 523367
     구분: 단어
     발음:
     - 왜ː가리
@@ -134,6 +134,45 @@ import:
       - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=101375
         종류: 삽화
       분류: 동물
+      어휘정보:
+      - 기준: 의미
+        단어: 노사11
+        대상항목ID: 490945
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=408894&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 사금04
+        대상항목ID: 351224
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=166220&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 설객01
+        대상항목ID: 198874
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=179500&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 용서03
+        대상항목ID: 577519
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=253960&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 창계
+        대상항목ID: 55855
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=320114&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 창괄
+        대상항목ID: 56091
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=322668&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 창로02
+        대상항목ID: 286825
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=326882&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 왜가릿과의 새. 몸의 길이는 90~100cm이고 다리와 부리가 길다. 정수리ㆍ목ㆍ가슴ㆍ배는 흰색, 등은 청회색이며 머리에서 목덜미에
+        이르기까지 검은 줄이 있다. 한국, 일본, 러시아의 동부 시베리아, 유럽, 아프리카, 호주 등지에 분포한다.
+      의미코드: 237088
       종류: 일반어
       품사: 명사
       학명: Ardea cinerea
@@ -149,14 +188,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68028
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68028_waeganjang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/68028_waeganjang.wav
       발음: 왜간장
     어휘 등급: 없음
-    원어: 倭 간 醬
+    원어: 倭간醬
     의미:
     - 뜻풀이: 재래식 방식이 아닌 일본식으로 만든 간장.
       용례.구:
@@ -183,11 +222,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68031
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/waegok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/waegok.wav
       발음: 왜곡
     어휘 등급: 고급
     원어: 歪曲
@@ -215,13 +254,13 @@ import:
     항목ID: 68031
     활용:
     - 발음: 왜고기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/68031_waegogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/68031_waegogi.wav
       형태: 왜곡이
     - 발음: 왜곡또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68031_waegoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/68031_waegoktto.wav
       형태: 왜곡도
     - 발음: 왜공만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68031_waegongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/68031_waegongman.wav
       형태: 왜곡만
 result:
   맞춤법 검사:
@@ -232,16 +271,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68032
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/waegokttoeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/waegokttoeda.wav
       발음: 왜곡뙤다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/waegokttweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/waegokttweda.wav
       발음: 왜곡뛔다
     어휘 등급: 없음
-    원어: 歪曲 되다
+    원어: 歪曲되다
     의미:
     - 뜻풀이: 사실과 다르게 해석되거나 사실에서 멀어지게 되다.
       문형: 1이 왜곡되다
@@ -269,14 +308,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68034
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/waegokada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/waegokada.wav
       발음: 왜고카다
     어휘 등급: 없음
-    원어: 歪曲 하다
+    원어: 歪曲하다
     의미:
     - 뜻풀이: 사실과 다르게 해석하거나 사실에서 멀어지게 하다.
       문형: 1이 2를 왜곡하다
@@ -304,7 +343,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=462612&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:39:26+09:00'
+    가져온 시각: '2023-05-01T05:29:39+09:00'
     구분: 단어
     발음:
     - 왜구
@@ -314,6 +353,14 @@ import:
     의미:
     - 뜻풀이: 13세기부터 16세기까지 우리나라 연안을 무대로 약탈을 일삼던 일본 해적.
       분류: 역사
+      어휘정보:
+      - 기준: 의미
+        단어: 일구05
+        대상항목ID: 542433
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=268775&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 13세기부터 16세기까지 우리나라 연안을 무대로 약탈을 일삼던 일본 해적.
+      의미코드: 577637
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -345,11 +392,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=67850
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/21000/67850_waenyahamyeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/21000/67850_waenyahamyeon.wav
       발음: 왜냐하면
     어휘 등급: 초급
     의미:
@@ -373,11 +420,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68035
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/68035_waeran.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/68035_waeran.wav
       발음: 왜란
     어휘 등급: 없음
     원어: 倭亂
@@ -418,11 +465,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68036
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/waesaek.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/waesaek.wav
       발음: 왜색
     어휘 등급: 없음
     원어: 倭色
@@ -444,13 +491,13 @@ import:
     항목ID: 68036
     활용:
     - 발음: 왜새기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68036_waesaegi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/68036_waesaegi.wav
       형태: 왜색이
     - 발음: 왜색또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68036_waesaektto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/68036_waesaektto.wav
       형태: 왜색도
     - 발음: 왜생만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68036_waesaengman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/68036_waesaengman.wav
       형태: 왜색만
 result:
   맞춤법 검사:
@@ -461,14 +508,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68037
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/68037_waesohada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/68037_waesohada.wav
       발음: 왜소하다
     어휘 등급: 고급
-    원어: 矮小 하다
+    원어: 矮小하다
     의미:
     - 뜻풀이: 몸집이 작다.
       문형: 1이 왜소하다
@@ -508,11 +555,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68039
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68039_waesohwa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/68039_waesohwa.wav
       발음: 왜소화
     어휘 등급: 없음
     원어: 矮小化
@@ -542,16 +589,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68041
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/waesohwadoeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/waesohwadoeda.wav
       발음: 왜소화되다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/ieung_2005/waesohwadweda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/ieung_2005/waesohwadweda.wav
       발음: 왜소화뒈다
     어휘 등급: 없음
-    원어: 矮小化 되다
+    원어: 矮小化되다
     의미:
     - 뜻풀이: 작고 초라해지다.
       문형: 1이 왜소화되다
@@ -578,14 +625,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68042
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/68042_waesohwahada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/68042_waesohwahada.wav
       발음: 왜소화하다
     어휘 등급: 없음
-    원어: 矮小化 하다
+    원어: 矮小化하다
     의미:
     - 뜻풀이: 작고 초라해지다. 또는 그렇게 만들다.
       문형: 1이 2를 왜소화하다
@@ -612,7 +659,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=250156&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:39:26+09:00'
+    가져온 시각: '2023-05-01T05:29:39+09:00'
     구분: 단어
     발음:
     - 왜양일체론
@@ -623,6 +670,9 @@ import:
     - 뜻풀이: 일본과 서양은 한 무리이므로 서양은 물론 일본에게도 문호를 개방해서는 안 된다는 주장. 조선 후기에 위정척사파들이 외국과의 통상을
         반대하면서 제기한 주장으로 최익현의 주장이 대표적이다.
       분류: 역사
+      원뜻풀이: 일본과 서양은 한 무리이므로 서양은 물론 일본에게도 문호를 개방해서는 안 된다는 주장. 조선 후기에 위정척사파들이 외국과의 통상을
+        반대하면서 제기한 주장으로 최익현의 주장이 대표적이다.
+      의미코드: 239234
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -637,7 +687,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=463853&searchKeywordTo=3
-    가져온 시각: '2019-06-25T09:39:26+09:00'
+    가져온 시각: '2023-05-01T05:29:39+09:00'
     구분: 단어
     발음:
     - 왜적
@@ -646,6 +696,8 @@ import:
       원어: 倭賊
     의미:
     - 뜻풀이: 도둑질하는 일본 사람을 낮잡아 이르는 말.
+      원뜻풀이: 도둑질하는 일본 사람을 낮잡아 이르는 말.
+      의미코드: 239455
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -662,11 +714,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=21994
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/21000/21994_waenji.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/21000/21994_waenji.wav
       발음: 왠지
     어휘 등급: 중급
     의미:
@@ -690,11 +742,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68046
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/21000/68046_waengwaeng.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/21000/68046_waengwaeng.wav
       발음: 왱왱
     어휘 등급: 없음
     의미:
@@ -742,11 +794,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68047
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/21000/68047_waengwaenggeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/21000/68047_waengwaenggeorida.wav
       발음: 왱왱거리다
     어휘 등급: 없음
     의미:
@@ -819,11 +871,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91415
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/91415_waengwaengdaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/91415_waengwaengdaeda.wav
       발음: 왱왱대다
     어휘 등급: 없음
     의미:
@@ -885,11 +937,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91416
-    가져온 시각: '2019-09-05T09:45:44+09:00'
+    가져온 시각: '2023-05-01T01:52:20+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/21000/91416_waengwaenghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/21000/91416_waengwaenghada.wav
       발음: 왱왱하다
     어휘 등급: 없음
     의미:

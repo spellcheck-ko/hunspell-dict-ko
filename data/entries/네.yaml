@@ -2,7 +2,7 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77333
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -39,27 +39,32 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88846
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     어휘 등급: 고급
     의미:
-    - 뜻풀이: ‘같은 처지의 사람’의 뜻을 더하는 접미사.
+    - 뜻풀이: ‘그러한 부류 또는 그러한 부류에 속하는 사람’의 뜻을 더하는 접미사.
       용례.구:
       - 남정네
       - 동갑네
       - 아낙네
       - 여인네
       - 여편네
+      - 우리네
+      - 당신네
       의미ID: 1
-      참고: 일부 명사 뒤에 붙는다.
-    - 뜻풀이: '''그 사람이 속한 무리''의 뜻을 더하는 접미사.'
+      참고: 일부 명사 또는 대명사 뒤에 붙는다.
+    - 뜻풀이: '''그 사람이 속한 가족 등의 무리''의 뜻을 더하는 접미사.'
       용례.구:
-      - 김 서방네
-      - 아저씨네
       - 철수네
+      - 아저씨네
+      - 언니네
+      - 누구네
+      - 김 서방네.
+      - 박 사장네.
       의미ID: 2
-      참고: 사람을 나타내는 대다수 명사 뒤에 붙는다.
+      참고: 사람을 가리키는 명사, 대명사 또는 명사구 뒤에 붙는다.
     표제어: -네
     품사: 접사
     항목ID: 88846
@@ -71,11 +76,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17294
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/ne.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/ne.wav
       발음: 네
     어휘 등급: 초급
     의미:
@@ -136,11 +141,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64556
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/64556_ne-.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/64556_ne-.wav
       발음: 네ː
     어휘 등급: 초급
     의미:
@@ -177,11 +182,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89180
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/ne.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/ne.wav
       발음: 네
     어휘 등급: 초급
     의미:
@@ -203,7 +208,7 @@ import:
     항목ID: 89180
     활용:
     - 발음: 네가
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/92077_nega.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/92077_nega.wav
       형태: 네가
 result:
   맞춤법 검사:
@@ -214,11 +219,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41416
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/41416_ne-geori.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/41416_ne-geori.wav
       발음: 네ː거리
     어휘 등급: 없음
     의미:
@@ -251,7 +256,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=66712&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:06:57+09:00'
+    가져온 시각: '2023-05-01T02:21:16+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -259,6 +264,8 @@ import:
     의미:
     - 뜻풀이: 사진의 원판.
       분류: 영상
+      원뜻풀이: 사진의 원판.
+      의미코드: 404926
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -290,11 +297,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41424
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nekkajit.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nekkajit.wav
       발음: 네까짇
     어휘 등급: 없음
     의미:
@@ -326,11 +333,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41438
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nekkat.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nekkat.wav
       발음: 네깓
     어휘 등급: 없음
     의미:
@@ -393,11 +400,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41446
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nenom.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nenom.wav
       발음: 네놈
     어휘 등급: 없음
     의미:
@@ -434,12 +441,20 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=406594&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:06:57+09:00'
+    가져온 시각: '2023-05-01T02:21:16+09:00'
     구분: 단어
     발음:
     - 네ː눈바기
     의미:
     - 뜻풀이: 양쪽 눈 위에 흰 점이 있어 언뜻 보기에 눈이 넷으로 보이는 개.
+      어휘정보:
+      - 기준: 의미
+        단어: 네눈-이
+        대상항목ID: 9685
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=406940&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 양쪽 눈 위에 흰 점이 있어 언뜻 보기에 눈이 넷으로 보이는 개.
+      의미코드: 9684
       종류: 일반어
       품사: 명사
     종류: 고유어
@@ -454,11 +469,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88337
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/88337_ne-daseot.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/88337_ne-daseot.wav
       발음: 네ː다섣
     어휘 등급: 없음
     의미:
@@ -494,11 +509,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=87362
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/ne-daseot.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/ne-daseot.wav
       발음: 네ː다섣
     어휘 등급: 없음
     의미:
@@ -524,13 +539,13 @@ import:
     항목ID: 87362
     활용:
     - 발음: 네ː다서시
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/87362_ne-daseosi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/87362_ne-daseosi.wav
       형태: 네다섯이
     - 발음: 네ː다섣또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/87362_ne-daseottto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/87362_ne-daseottto.wav
       형태: 네다섯도
     - 발음: 네ː다선만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/87362_ne-daseonman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/87362_ne-daseonman.wav
       형태: 네다섯만
 result:
   맞춤법 검사:
@@ -541,11 +556,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88336
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/ne-daet.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/ne-daet.wav
       발음: 네ː댇
     어휘 등급: 없음
     의미:
@@ -581,11 +596,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41451
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/41451_ne-daet.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/41451_ne-daet.wav
       발음: 네ː댇
     어휘 등급: 없음
     의미:
@@ -611,13 +626,13 @@ import:
     항목ID: 41451
     활용:
     - 발음: 네ː대시
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41451_ne-daesi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41451_ne-daesi.wav
       형태: 네댓이
     - 발음: 네ː댇또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41451_ne-daettto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41451_ne-daettto.wav
       형태: 네댓도
     - 발음: 네ː댄만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41451_ne-daenman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41451_ne-daenman.wav
       형태: 네댓만
 result:
   맞춤법 검사:
@@ -628,7 +643,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68318
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -652,11 +667,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=93477
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
-    원어: Netherlands 語
+    원어: Netherlands語
     의미:
     - 뜻풀이: 주로 네덜란드 사람들이 쓰는 언어.
       용례.구:
@@ -692,11 +707,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41454
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/41454_ne-mo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/41454_ne-mo.wav
       발음: 네ː모
     어휘 등급: 중급
     의미:
@@ -720,7 +735,7 @@ import:
       - 동형어 번호: 0
         표제어: 사각형
         항목ID: 61127
-      뜻풀이: 네 개의 모서리와 네 개의 면으로 이루어진 모양.
+      뜻풀이: 네 개의 선분으로 둘러싸인 도형.
       용례.구:
       - 네모 모양.
       - 네모 형태.
@@ -746,13 +761,21 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=65298&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:06:57+09:00'
+    가져온 시각: '2023-05-01T02:21:16+09:00'
     구분: 단어
     발음:
     - 네ː모꼴
     의미:
     - 뜻풀이: 네 개의 선분으로 둘러싸인 평면 도형.
       분류: 수학
+      어휘정보:
+      - 기준: 의미
+        단어: 사각-형
+        대상항목ID: 571523
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=164280&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 네 개의 선분으로 둘러싸인 평면 도형.
+      의미코드: 588852
       종류: 일반어
       품사: 명사
     종류: 고유어
@@ -767,11 +790,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41457
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/41457_ne-monada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/41457_ne-monada.wav
       발음: 네ː모나다
     어휘 등급: 고급
     의미:
@@ -801,16 +824,16 @@ import:
     항목ID: 41457
     활용:
     - 발음: 네ː모난
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41457_ne-monan.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41457_ne-monan.wav
       형태: 네모난
     - 발음: 네ː모나
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41457_ne-mona.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41457_ne-mona.wav
       형태: 네모나
     - 발음: 네ː모나니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41457_ne-monani.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41457_ne-monani.wav
       형태: 네모나니
     - 발음: 네ː모남니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41457_ne-monamnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41457_ne-monamnida.wav
       형태: 네모납니다
 result:
   맞춤법 검사:
@@ -821,11 +844,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41475
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/41475_ne-mobandeutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/41475_ne-mobandeutada.wav
       발음: 네ː모반드타다
     어휘 등급: 없음
     의미:
@@ -848,19 +871,19 @@ import:
     항목ID: 41475
     활용:
     - 발음: 네ː모반드탄
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41475_ne-mobandeutan.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41475_ne-mobandeutan.wav
       형태: 네모반듯한
     - 발음: 네ː모반드타여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41475_ne-mobandeutayeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41475_ne-mobandeutayeo.wav
       형태: 네모반듯하여
     - 발음: 네ː모반드태
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/41475_ne-mobandeutae.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/41475_ne-mobandeutae.wav
       형태: 네모반듯해
     - 발음: 네ː모반드타니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41475_ne-mobandeutani.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41475_ne-mobandeutani.wav
       형태: 네모반듯하니
     - 발음: 네ː모반드탐니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41475_ne-mobandeutamnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41475_ne-mobandeutamnida.wav
       형태: 네모반듯합니다
 result:
   맞춤법 검사:
@@ -871,11 +894,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41545
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/41545_ne-mojida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/41545_ne-mojida.wav
       발음: 네ː모지다
     어휘 등급: 없음
     의미:
@@ -903,22 +926,22 @@ import:
     항목ID: 41545
     활용:
     - 발음: 네ː모진
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41545_ne-mojin.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41545_ne-mojin.wav
       형태: 네모진
     - 발음: 네ː모지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41545_ne-mojieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41545_ne-mojieo.wav
       형태: 네모지어
     - 발음: 네ː모지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41545_ne-mojiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41545_ne-mojiyeo.wav
       형태: 네모지어
     - 발음: 네ː모저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/41545_ne-mojeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/41545_ne-mojeo.wav
       형태: 네모져
     - 발음: 네ː모지니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41545_ne-mojini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41545_ne-mojini.wav
       형태: 네모지니
     - 발음: 네ː모짐니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/41545_ne-mojimnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/41545_ne-mojimnida.wav
       형태: 네모집니다
 result:
   맞춤법 검사:
@@ -929,11 +952,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20513
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/20513_ne-bal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/20513_ne-bal.wav
       발음: 네ː발
     어휘 등급: 없음
     의미:
@@ -960,11 +983,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20535
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/20535_ne-baljimseung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/20535_ne-baljimseung.wav
       발음: 네ː발짐승
     어휘 등급: 없음
     의미:
@@ -991,7 +1014,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=65794&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:06:57+09:00'
+    가져온 시각: '2023-05-01T02:21:16+09:00'
     구분: 단어
     원어:
       언어: 한자
@@ -1000,6 +1023,9 @@ import:
     - 뜻풀이: 1856년 독일 네안데르탈의 석회암 동굴에서 머리뼈가 발견된 화석 인류. 제4빙하기에 살아 있었던 것으로 보며, 지금의 인류와
         유인원의 중간 형질로 유럽 각지와 소아시아에서도 발견되었다.
       분류: 생명
+      원뜻풀이: 1856년 독일 네안데르탈의 석회암 동굴에서 머리뼈가 발견된 화석 인류. 제4빙하기에 살아 있었던 것으로 보며, 지금의 인류와
+        유인원의 중간 형질로 유럽 각지와 소아시아에서도 발견되었다.
+      의미코드: 116858
       종류: 일반어
       품사: 명사
     종류: 혼종어
@@ -1014,7 +1040,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=20538
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1059,7 +1085,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41555
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1112,7 +1138,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41563
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1172,7 +1198,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41570
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     검색용 이형태: 네트웍, 네트웤
     구분: 단어
     동형어 번호: 0
@@ -1246,7 +1272,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41575
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -1284,7 +1310,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=68321
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1308,7 +1334,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=17258
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 초급
@@ -1352,7 +1378,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41581
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1386,11 +1412,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=34873
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/net-.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/net-.wav
       발음: 넫ː
     어휘 등급: 초급
     의미:
@@ -1407,13 +1433,13 @@ import:
     항목ID: 34873
     활용:
     - 발음: 네ː시
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/34873_ne-si.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/34873_ne-si.wav
       형태: 넷이
     - 발음: 넫ː또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/34873_ned-tto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/34873_ned-tto.wav
       형태: 넷도
     - 발음: 넨ː만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/34873_nen-man.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/34873_nen-man.wav
       형태: 넷만
 import_derived:
   맞춤법 검사:
@@ -1434,11 +1460,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71735
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/net-jjae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/net-jjae.wav
       발음: 넫ː째
     어휘 등급: 초급
     의미:
@@ -1469,11 +1495,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90892
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/net-jjae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/net-jjae.wav
       발음: 넫ː째
     어휘 등급: 초급
     의미:
@@ -1495,11 +1521,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26821
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/net-jjae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/net-jjae.wav
       발음: 넫ː째
     어휘 등급: 초급
     의미:

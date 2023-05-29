@@ -2,7 +2,7 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92117
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -26,7 +26,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=73338
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -49,11 +49,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26512
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/26512_kkakkameoli.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/26512_kkakkameoli.wav
       발음: 까까머리
     어휘 등급: 없음
     의미:
@@ -89,11 +89,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83302
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/83302_kkakkajung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/83302_kkakkajung.wav
       발음: 까까중
     어휘 등급: 없음
     의미:
@@ -121,11 +121,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83303
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkakkung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkakkung.wav
       발음: 까꿍
     어휘 등급: 없음
     의미:
@@ -148,17 +148,25 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53600&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53204&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53204&searchKeywordTo=1
       종류: 부표제어
       표제어: 까끌까끌-하다
       항목ID: 53204
     구분: 단어
     발음:
     - 까끌까끌
+    어휘정보:
+    - 기준: 어휘
+      단어: 꺼끌-꺼끌
+      대상항목ID: 54155
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=54155&searchKeywordTo=3
+      종류: 참고 어휘
     의미:
     - 뜻풀이: 표면이 매우 거칠고 깔끄러운 모양.
+      원뜻풀이: 표면이 매우 거칠고 깔끄러운 모양.
+      의미코드: 107327
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -173,7 +181,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53206&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     구분: 단어
     발음:
     - 까나리
@@ -184,6 +192,9 @@ import:
       - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=96537
         종류: 삽화
       분류: 동물
+      원뜻풀이: 까나릿과의 바닷물고기. 몸은 원통형으로 길며, 등은 녹색을 띤 갈색이고 배는 은빛 흰색이다. 4~6월에 산란한다. 모래 속에
+        숨어 사는데 한국, 일본 등지에 분포한다.
+      의미코드: 107329
       종류: 일반어
       품사: 명사
       학명: Ammodytes personatus
@@ -199,11 +210,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=83304
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkanota.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkanota.wav
       발음: 까노타
     어휘 등급: 없음
     의미:
@@ -243,15 +254,18 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32546
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkada.wav
       발음: 까다
     어휘 등급: 중급
     의미:
-    - 뜻풀이: 껍질이나 껍데기를 벗기다.
+    - 다중 매체 정보:동영상:
+      - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20200214/658798/MOV000356623_700X466.mp4
+        레이블: 까다
+      뜻풀이: 껍질이나 껍데기를 벗기다.
       문형: 1이 2를 까다
       용례.구:
       - 껍데기를 까다.
@@ -340,8 +354,17 @@ import:
     품사: 동사
     항목ID: 32546
     활용:
-    - 형태: 까
-    - 형태: 까니
+    - 발음: 까는
+      형태: 까는
+    - 발음: 까
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/32546_kka.wav
+      형태: 까
+    - 발음: 까니
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/32546_kkani.wav
+      형태: 까니
+    - 발음: 깜니다
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/32553_kkamnida.wav
+      형태: 깝니다
 result:
   맞춤법 검사:
     표제어: 까다
@@ -351,11 +374,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45184
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkada.wav
       발음: 까다
     어휘 등급: 없음
     의미:
@@ -387,11 +410,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45185
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/45185_kka-dalobtta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/45185_kka-dalobtta.wav
       발음: 까ː다롭따
     어휘 등급: 중급
     의미:
@@ -436,10 +459,10 @@ import:
     - 발음: 까ː다로운
       형태: 까다로운
     - 발음: 까ː다로워
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kka-darowo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kka-darowo.wav
       형태: 까다로워
     - 발음: 까ː다로우니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kka-darouni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kka-darouni.wav
       형태: 까다로우니
     - 발음: 까ː다롭씀니다
       형태: 까다롭습니다
@@ -454,11 +477,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45187
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkadak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkadak.wav
       발음: 까닥
     어휘 등급: 없음
     의미:
@@ -507,11 +530,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45188
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkadakkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkadakkkeorida.wav
       발음: 까닥꺼리다
     어휘 등급: 없음
     의미:
@@ -552,11 +575,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45189
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/45189_kkadagkkadag.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/45189_kkadagkkadag.wav
       발음: 까닥까닥
     어휘 등급: 없음
     의미:
@@ -594,11 +617,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=91329
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/91329_kkadagkkadakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/91329_kkadagkkadakada.wav
       발음: 까닥까다카다
     어휘 등급: 없음
     의미:
@@ -636,11 +659,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45192
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkadakttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkadakttaeda.wav
       발음: 까닥때다
     어휘 등급: 없음
     의미:
@@ -678,11 +701,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45194
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkadagida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkadagida.wav
       발음: 까다기다
     어휘 등급: 없음
     의미:
@@ -714,11 +737,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45196
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkadakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkadakada.wav
       발음: 까다카다
     어휘 등급: 없음
     의미:
@@ -770,11 +793,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62453
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkadak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkadak.wav
       발음: 까닥
     어휘 등급: 중급
     의미:
@@ -801,13 +824,13 @@ import:
     항목ID: 62453
     활용:
     - 발음: 까달기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/62453_kkadalgi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/62453_kkadalgi.wav
       형태: 까닭이
     - 발음: 까닥또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/62453_kkadaktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/62453_kkadaktto.wav
       형태: 까닭도
     - 발음: 까당만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/62453_kkadangman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/62453_kkadangman.wav
       형태: 까닭만
 result:
   맞춤법 검사:
@@ -818,11 +841,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45200
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkadwijiptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkadwijiptta.wav
       발음: 까뒤집따
     어휘 등급: 없음
     의미:
@@ -872,13 +895,13 @@ import:
     항목ID: 45200
     활용:
     - 발음: 까뒤지버
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45200_kkadwijibeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/45200_kkadwijibeo.wav
       형태: 까뒤집어
     - 발음: 까뒤지브니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/45200_kkadwijibeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/45200_kkadwijibeuni.wav
       형태: 까뒤집으니
     - 발음: 까뒤짐는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45200_kkadwijimneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/45200_kkadwijimneun.wav
       형태: 까뒤집는
 result:
   맞춤법 검사:
@@ -889,11 +912,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45201
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkattak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkattak.wav
       발음: 까딱
     어휘 등급: 고급
     의미:
@@ -940,11 +963,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45202
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/45202_kkattagkkeolida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/45202_kkattagkkeolida.wav
       발음: 까딱꺼리다
     어휘 등급: 없음
     의미:
@@ -1005,11 +1028,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45203
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/45203_kkattagkkattag.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/45203_kkattagkkattag.wav
       발음: 까딱까딱
     어휘 등급: 없음
     의미:
@@ -1042,11 +1065,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88514
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88514_kkattagkkattakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88514_kkattagkkattakada.wav
       발음: 까딱까따카다
     어휘 등급: 없음
     의미:
@@ -1083,11 +1106,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45204
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/45204_kkattagttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/45204_kkattagttaeda.wav
       발음: 까딱때다
     어휘 등급: 없음
     의미:
@@ -1144,11 +1167,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45206
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkattageoptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkattageoptta.wav
       발음: 까따겁따
     어휘 등급: 없음
     의미:
@@ -1175,21 +1198,21 @@ import:
     항목ID: 45206
     활용:
     - 발음: 까따검는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/45206_kkattageomneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/45206_kkattageomneun.wav
       형태: 까딱없는
     - 발음: 까따겁써
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45206_kkattageopsseo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/45206_kkattageopsseo.wav
       형태: 까딱없어
     - 발음: 까따겁쓰니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45206_kkattageopsseuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/45206_kkattageopsseuni.wav
       형태: 까딱없으니
     - 발음: 까따겁씀니다
       형태: 까딱없습니다
     - 발음: 까따겁꼬
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45206_kkattageopkko.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/45206_kkattageopkko.wav
       형태: 까딱없고
     - 발음: 까따겁찌
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45206_kkattageopjji.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/45206_kkattageopjji.wav
       형태: 까딱없지
 result:
   맞춤법 검사:
@@ -1200,11 +1223,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89887
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/89887_kkattageobssi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/89887_kkattageobssi.wav
       발음: 까따겁씨
     어휘 등급: 없음
     의미:
@@ -1233,11 +1256,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45210
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/45210_kkattagida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/45210_kkattagida.wav
       발음: 까따기다
     어휘 등급: 없음
     의미:
@@ -1278,11 +1301,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45212
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkattakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkattakada.wav
       발음: 까따카다
     어휘 등급: 없음
     의미:
@@ -1335,11 +1358,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45214
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkattakamyeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkattakamyeon.wav
       발음: 까따카면
     어휘 등급: 없음
     의미:
@@ -1368,11 +1391,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45216
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/45216_kkalajida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/45216_kkalajida.wav
       발음: 까라지다
     어휘 등급: 없음
     의미:
@@ -1395,13 +1418,13 @@ import:
     항목ID: 45216
     활용:
     - 발음: 까라지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45216_kkarajieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/45216_kkarajieo.wav
       형태: 까라지어
     - 발음: 까라지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/45216_kkarajiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/45216_kkarajiyeo.wav
       형태: 까라지어
     - 발음: 까라저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/45216_kkarajeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/45216_kkarajeo.wav
       형태: 까라져
     - 형태: 까라지니
 result:
@@ -1415,17 +1438,25 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=400433&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53532&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53532&searchKeywordTo=1
       종류: 부표제어
       표제어: 까랑까랑-하다
       항목ID: 53532
     구분: 단어
     발음:
     - 까랑까랑
+    어휘정보:
+    - 기준: 어휘
+      단어: 카랑-카랑02
+      대상항목ID: 338862
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=338862&searchKeywordTo=3
+      종류: 참고 어휘
     의미:
     - 뜻풀이: 목소리가 날카롭고 힘이 있는 모양.
+      원뜻풀이: 목소리가 날카롭고 힘이 있는 모양.
+      의미코드: 379214
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -1440,12 +1471,14 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53532&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     구분: 단어
     발음:
     - 까랑까랑하다
     의미:
     - 뜻풀이: 목소리가 날카롭고 힘이 있다.
+      원뜻풀이: 목소리가 날카롭고 힘이 있다.
+      의미코드: 415913
       종류: 일반어
       품사: 형용사
     종류: 고유어
@@ -1464,11 +1497,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38356
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkareureu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkareureu.wav
       발음: 까르르
     어휘 등급: 없음
     의미:
@@ -1496,11 +1529,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89888
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkareureugeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkareureugeorida.wav
       발음: 까르르거리다
     어휘 등급: 없음
     의미:
@@ -1534,11 +1567,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89889
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkareureudaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkareureudaeda.wav
       발음: 까르르대다
     어휘 등급: 없음
     의미:
@@ -1572,11 +1605,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89890
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkareureuhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkareureuhada.wav
       발음: 까르르하다
     어휘 등급: 없음
     의미:
@@ -1606,11 +1639,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38358
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkareureuk.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkareureuk.wav
       발음: 까르륵
     어휘 등급: 없음
     의미:
@@ -1650,11 +1683,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89891
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/89891_kkaleuleugkkeolida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/89891_kkaleuleugkkeolida.wav
       발음: 까르륵꺼리다
     어휘 등급: 없음
     의미:
@@ -1705,11 +1738,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89892
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/89892_kkaleuleugttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/89892_kkaleuleugttaeda.wav
       발음: 까르륵때다
     어휘 등급: 없음
     의미:
@@ -1760,11 +1793,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89893
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/89893_kkaleuleukada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/89893_kkaleuleukada.wav
       발음: 까르르카다
     어휘 등급: 없음
     의미:
@@ -1806,11 +1839,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38363
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamagwi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamagwi.wav
       발음: 까마귀
     어휘 등급: 없음
     의미:
@@ -1842,11 +1875,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38365
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamadeukada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamadeukada.wav
       발음: 까마드카다
     어휘 등급: 고급
     의미:
@@ -1947,11 +1980,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38642
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamadeuki.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamadeuki.wav
       발음: 까마드키
     어휘 등급: 없음
     의미:
@@ -1989,7 +2022,7 @@ import:
       - 까마득히 생각되다.
       - 까마득히 인식되다.
       용례.대화:
-      - 아무리 까마득히 생각되어도 열심히 하면 제대로 해낼 수 있을거야.
+      - 아무리 까마득히 생각되어도 열심히 하면 제대로 해낼 수 있을 거야.
       용례.문장:
       - 해고를 당한 민준은 앞으로 살아나갈 일이 까마득히 느껴졌다.
       - 나는 할 일들이 산더미 같이 쌓이자 어떻게 해야 할지 까마득히 느껴졌다.
@@ -2019,11 +2052,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38367
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38367_kkamagkkachi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38367_kkamagkkachi.wav
       발음: 까막까치
     어휘 등급: 없음
     의미:
@@ -2052,11 +2085,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38368
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamangnun.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamangnun.wav
       발음: 까망눈
     어휘 등급: 없음
     의미:
@@ -2108,11 +2141,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38643
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38643_kkamangnuni.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38643_kkamangnuni.wav
       발음: 까망누니
     어휘 등급: 없음
     의미:
@@ -2164,14 +2197,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32548
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/32548_kkamansaeg.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/32548_kkamansaeg.wav
       발음: 까만색
     어휘 등급: 초급
-    원어: 까만 色
+    원어: 까만色
     의미:
     - 관련어:반대말:
       - 동형어 번호: 0
@@ -2200,13 +2233,13 @@ import:
     항목ID: 32548
     활용:
     - 발음: 까만새기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/32548_kkamansaegi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/32548_kkamansaegi.wav
       형태: 까만색이
     - 발음: 까만색또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/32548_kkamansaektto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/32548_kkamansaektto.wav
       형태: 까만색도
     - 발음: 까만생만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/32548_kkamansaengman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/32548_kkamansaengman.wav
       형태: 까만색만
 result:
   맞춤법 검사:
@@ -2217,7 +2250,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38369
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -2235,11 +2268,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64358
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/64358_kka-mata.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/64358_kka-mata.wav
       발음: 까ː마타
     어휘 등급: 초급
     의미:
@@ -2346,13 +2379,13 @@ import:
     - 발음: 까ː만
       형태: 까만
     - 발음: 까ː매
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64358_kka-mae.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/64358_kka-mae.wav
       형태: 까매
     - 발음: 까ː마니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/64358_kka-mani.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/64358_kka-mani.wav
       형태: 까마니
     - 발음: 까ː마씀니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64358_kka-masseumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/64358_kka-masseumnida.wav
       형태: 까맣습니다
 result:
   맞춤법 검사:
@@ -2365,11 +2398,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32549
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkameoktta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkameoktta.wav
       발음: 까먹따
     어휘 등급: 중급
     의미:
@@ -2432,13 +2465,13 @@ import:
     항목ID: 32549
     활용:
     - 발음: 까머거
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/32549_kkameogeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/32549_kkameogeo.wav
       형태: 까먹어
     - 발음: 까머그니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/32549_kkameogeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/32549_kkameogeuni.wav
       형태: 까먹으니
     - 발음: 까멍는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/32549_kkameongneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/32549_kkameongneun.wav
       형태: 까먹는
 result:
   맞춤법 검사:
@@ -2449,11 +2482,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38370
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38370_kkamuleojida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38370_kkamuleojida.wav
       발음: 까무러지다
     어휘 등급: 없음
     의미:
@@ -2476,13 +2509,13 @@ import:
     항목ID: 38370
     활용:
     - 발음: 까무러지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38370_kkamureojieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38370_kkamureojieo.wav
       형태: 까무러지어
     - 발음: 까무러지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38370_kkamureojiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38370_kkamureojiyeo.wav
       형태: 까무러지어
     - 발음: 까무러저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/38370_kkamureojeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/38370_kkamureojeo.wav
       형태: 까무러져
     - 형태: 까무러지니
 result:
@@ -2496,11 +2529,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38371
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkamureochida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkamureochida.wav
       발음: 까무러치다
     어휘 등급: 고급
     의미:
@@ -2524,16 +2557,21 @@ import:
     품사: 동사
     항목ID: 38371
     활용:
+    - 발음: 까무러치는
+      형태: 까무러치는
     - 발음: 까무러치어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38371_kkamureochieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38371_kkamureochieo.wav
       형태: 까무러치어
     - 발음: 까무러치여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/38371_kkamureochiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/38371_kkamureochiyeo.wav
       형태: 까무러치어
     - 발음: 까무러처
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/38371_kkamureocheo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/38371_kkamureocheo.wav
       형태: 까무러쳐
-    - 형태: 까무러치니
+    - 발음: 까무러치니
+      형태: 까무러치니
+    - 발음: 까무러침니다
+      형태: 까무러칩니다
 result:
   맞춤법 검사:
     속성:
@@ -2545,11 +2583,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38373
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamuruk.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamuruk.wav
       발음: 까무룩
     어휘 등급: 없음
     의미:
@@ -2577,11 +2615,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38375
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamujapjjapada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamujapjjapada.wav
       발음: 까무잡짜파다
     어휘 등급: 없음
     의미:
@@ -2630,11 +2668,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38376
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38376_kkamuchigchikada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38376_kkamuchigchikada.wav
       발음: 까무칙치카다
     어휘 등급: 없음
     의미:
@@ -2684,13 +2722,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38378
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38378_kkamutoetoehada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38378_kkamutoetoehada.wav
       발음: 까무퇴퇴하다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38378_kkamutwetwehada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38378_kkamutwetwehada.wav
       발음: 까무퉤퉤하다
     어휘 등급: 없음
     의미:
@@ -2747,11 +2785,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38380
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38380_kkamulgeolida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38380_kkamulgeolida.wav
       발음: 까물거리다
     어휘 등급: 없음
     의미:
@@ -2836,11 +2874,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42136
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/42136_kkamulkkamul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/42136_kkamulkkamul.wav
       발음: 까물까물
     어휘 등급: 없음
     의미:
@@ -2899,11 +2937,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64574
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/64574_kkamulkkamulhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/64574_kkamulkkamulhada.wav
       발음: 까물까물하다
     어휘 등급: 없음
     의미:
@@ -2989,11 +3027,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64575
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/64574_kkamulkkamulhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/64574_kkamulkkamulhada.wav
       발음: 까물까물하다
     어휘 등급: 없음
     의미:
@@ -3063,11 +3101,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88515
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88515_kkamuldaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88515_kkamuldaeda.wav
       발음: 까물대다
     어휘 등급: 없음
     의미:
@@ -3146,11 +3184,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38384
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38384_kkamudkkamud.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38384_kkamudkkamud.wav
       발음: 까묻까묻
     어휘 등급: 없음
     의미:
@@ -3178,11 +3216,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38645
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38645_kkamudkkamutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38645_kkamudkkamutada.wav
       발음: 까묻까무타다
     어휘 등급: 없음
     의미:
@@ -3224,11 +3262,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38385
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38385_kkaballida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38385_kkaballida.wav
       발음: 까발리다
     어휘 등급: 없음
     의미:
@@ -3263,10 +3301,10 @@ import:
     항목ID: 38385
     활용:
     - 발음: 까발리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38385_kkaballieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38385_kkaballieo.wav
       형태: 까발리어
     - 발음: 까발리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38385_kkaballiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38385_kkaballiyeo.wav
       형태: 까발리어
     - 형태: 까발리니
 result:
@@ -3278,11 +3316,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38388
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38388_kkabulajida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38388_kkabulajida.wav
       발음: 까부라지다
     어휘 등급: 없음
     의미:
@@ -3303,13 +3341,13 @@ import:
     항목ID: 38388
     활용:
     - 발음: 까부라지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38388_kkaburajieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38388_kkaburajieo.wav
       형태: 까부라지어
     - 발음: 까부라지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38388_kkaburajiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38388_kkaburajiyeo.wav
       형태: 까부라지어
     - 발음: 까부라저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/38388_kkaburajeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/38388_kkaburajeo.wav
       형태: 까부라져
     - 형태: 까부라지니
 result:
@@ -3323,11 +3361,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38648
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38648_kkabuleuda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38648_kkabuleuda.wav
       발음: 까부르다
     어휘 등급: 없음
     의미:
@@ -3378,11 +3416,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64581
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/64581_kkabusuda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/64581_kkabusuda.wav
       발음: 까부수다
     어휘 등급: 없음
     의미:
@@ -3414,11 +3452,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38649
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38649_kkabulgeolida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38649_kkabulgeolida.wav
       발음: 까불거리다
     어휘 등급: 없음
     의미:
@@ -3475,11 +3513,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88516
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88516_kkabulkkabul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88516_kkabulkkabul.wav
       발음: 까불까불
     어휘 등급: 없음
     의미:
@@ -3519,11 +3557,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88517
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88517_kkabulkkabulhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88517_kkabulkkabulhada.wav
       발음: 까불까불하다
     어휘 등급: 없음
     의미:
@@ -3580,11 +3618,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42138
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkabulda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkabulda.wav
       발음: 까불다
     어휘 등급: 없음
     의미:
@@ -3607,11 +3645,11 @@ import:
     항목ID: 42138
     활용:
     - 발음: 까부러
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/42138_kkabureo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/42138_kkabureo.wav
       형태: 까불어
     - 형태: 까부니
     - 발음: 까붐니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/42138_kkabumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/42138_kkabumnida.wav
       형태: 까붑니다
 result:
   맞춤법 검사:
@@ -3622,11 +3660,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38390
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkabulda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkabulda.wav
       발음: 까불다
     어휘 등급: 없음
     의미:
@@ -3666,11 +3704,11 @@ import:
     항목ID: 38390
     활용:
     - 발음: 까부러
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/42138_kkabureo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/42138_kkabureo.wav
       형태: 까불어
     - 형태: 까부니
     - 발음: 까붐니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/42138_kkabumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/42138_kkabumnida.wav
       형태: 까붑니다
 result:
   맞춤법 검사:
@@ -3681,11 +3719,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=42139
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/42139_kkabuldaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/42139_kkabuldaeda.wav
       발음: 까불대다
     어휘 등급: 없음
     의미:
@@ -3744,11 +3782,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38393
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38393_kkabuli.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38393_kkabuli.wav
       발음: 까부리
     어휘 등급: 없음
     의미:
@@ -3776,11 +3814,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38395
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38395_kkaseulkkaseul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38395_kkaseulkkaseul.wav
       발음: 까슬까슬
     어휘 등급: 없음
     의미:
@@ -3809,11 +3847,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38396
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38396_kkaseulkkaseulhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38396_kkaseulkkaseulhada.wav
       발음: 까슬까슬하다
     어휘 등급: 없음
     의미:
@@ -3857,12 +3895,25 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=52899&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     구분: 단어
     발음:
     - 까옥꺼리다
     의미:
     - 뜻풀이: 까마귀가 우는 소리가 잇따라 나다.
+      어휘정보:
+      - 기준: 의미
+        단어: 까옥까옥-하다
+        대상항목ID: 489708
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=53200&searchKeywordTo=3
+        종류: 비슷한말
+      - 기준: 의미
+        단어: 까옥-대다
+        대상항목ID: 489707
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=52900&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 까마귀가 우는 소리가 잇따라 나다.
+      의미코드: 452835
       종류: 일반어
       품사: 동사
     종류: 고유어
@@ -3881,9 +3932,9 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53199&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     관련어:
-    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53200&searchKeywordTo=3
+    - URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53200&searchKeywordTo=1
       종류: 부표제어
       표제어: 까옥까옥-하다
       항목ID: 53200
@@ -3892,6 +3943,8 @@ import:
     - 까옥까옥
     의미:
     - 뜻풀이: 까마귀가 잇따라 우는 소리.
+      원뜻풀이: 까마귀가 잇따라 우는 소리.
+      의미코드: 415767
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -3906,11 +3959,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64359
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkaida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkaida.wav
       발음: 까이다
     어휘 등급: 없음
     의미:
@@ -3925,7 +3978,7 @@ import:
       용례.대화:
       - 어머! 그 이후로 건강이 안 좋아지신 거군요.
       용례.문장:
-      - 김 씨 아저씨는 일본 순사에게 사정없이 까였다.
+      - 주영이는 친구를 놀리다가 친구에게 정강이를 까였다.
       - 승규는 불량배들에게 집단으로 까이다가 정신을 잃고 말았다.
       의미ID: 1
     표제어: 까이다
@@ -3933,10 +3986,10 @@ import:
     항목ID: 64359
     활용:
     - 발음: 까이어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64359_kkaieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/64359_kkaieo.wav
       형태: 까이어
     - 발음: 까이여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64359_kkaiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/64359_kkaiyeo.wav
       형태: 까이어
     - 형태: 까이니
 result:
@@ -3948,7 +4001,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69698
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -4002,11 +4055,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38403
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38403_kkajid.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38403_kkajid.wav
       발음: 까짇
     어휘 등급: 없음
     의미:
@@ -4033,11 +4086,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38401
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38403_kkajid.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38403_kkajid.wav
       발음: 까짇
     어휘 등급: 없음
     의미:
@@ -4059,11 +4112,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38407
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38407_kkajidkkeod.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38407_kkajidkkeod.wav
       발음: 까짇껃
     어휘 등급: 없음
     의미:
@@ -4090,11 +4143,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38405
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38407_kkajidkkeod.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38407_kkajidkkeod.wav
       발음: 까짇껃
     어휘 등급: 없음
     의미:
@@ -4110,13 +4163,13 @@ import:
     항목ID: 38405
     활용:
     - 발음: 까짇꺼시
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38405_kkajitkkeosi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38405_kkajitkkeosi.wav
       형태: 까짓것이
     - 발음: 까찓껃또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/38405_kkajjitkkeottto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/38405_kkajjitkkeottto.wav
       형태: 까짓것도
     - 발음: 까짇껀만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38405_kkajitkkeonman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38405_kkajitkkeonman.wav
       형태: 까짓것만
 result:
   맞춤법 검사:
@@ -4127,11 +4180,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32550
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/32550_kka-chi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/32550_kka-chi.wav
       발음: 까ː치
     어휘 등급: 고급
     의미:
@@ -4164,11 +4217,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38408
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38408_kka-chibal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38408_kka-chibal.wav
       발음: 까ː치발
     어휘 등급: 없음
     의미:
@@ -4198,11 +4251,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64686
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/64686_kkachilkkachil.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/64686_kkachilkkachil.wav
       발음: 까칠까칠
     어휘 등급: 없음
     의미:
@@ -4229,11 +4282,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38410
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38410_kkachilkkachilhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38410_kkachilkkachilhada.wav
       발음: 까칠까칠하다
     어휘 등급: 없음
     의미:
@@ -4274,11 +4327,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38414
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkachilhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkachilhada.wav
       발음: 까칠하다
     어휘 등급: 없음
     의미:
@@ -4333,11 +4386,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26514
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkatal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkatal.wav
       발음: 까탈
     어휘 등급: 없음
     의미:
@@ -4385,11 +4438,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64687
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkatalseureopda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkatalseureopda.wav
       발음: 까탈스럽다
     어휘 등급: 없음
     의미:
@@ -4444,11 +4497,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38416
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkaturi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkaturi.wav
       발음: 까투리
     어휘 등급: 없음
     의미:
@@ -4488,11 +4541,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89894
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/89894_kkapul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/89894_kkapul.wav
       발음: 까풀
     어휘 등급: 없음
     의미:
@@ -4542,11 +4595,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38418
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkakkkak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkakkkak.wav
       발음: 깍깍
     어휘 등급: 없음
     의미:
@@ -4574,11 +4627,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32551
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkakttugi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkakttugi.wav
       발음: 깍뚜기
     어휘 등급: 없음
     의미:
@@ -4623,11 +4676,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38420
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkakttukkkakttuk.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkakttukkkakttuk.wav
       발음: 깍뚝깍뚝
     어휘 등급: 없음
     의미:
@@ -4654,12 +4707,19 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=52207&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     구분: 단어
     발음:
     - 깍뚝썰기
     의미:
     - 뜻풀이: 무 따위의 야채를 써는 방법의 하나. 깍두기처럼 네모반듯한 모양으로 써는 것을 이른다.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=355902
+        레이블: 깍둑썰기
+        종류: 사진
+      분류: 없음
+      원뜻풀이: 무 따위의 야채를 써는 방법의 하나. 깍두기처럼 네모반듯한 모양으로 써는 것을 이른다.
+      의미코드: 108576
       종류: 일반어
       품사: 명사
     종류: 고유어
@@ -4674,11 +4734,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89895
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkaktteusi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkaktteusi.wav
       발음: 깍뜨시
     어휘 등급: 없음
     의미:
@@ -4710,11 +4770,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38421
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkaktteutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkaktteutada.wav
       발음: 깍뜨타다
     어휘 등급: 없음
     의미:
@@ -4755,11 +4815,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26517
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkakjjaengi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkakjjaengi.wav
       발음: 깍쨍이
     어휘 등급: 없음
     의미:
@@ -4800,11 +4860,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26518
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkakjji.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkakjji.wav
       발음: 깍찌
     어휘 등급: 없음
     의미:
@@ -4830,11 +4890,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26519
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkakjji.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkakjji.wav
       발음: 깍찌
     어휘 등급: 없음
     의미:
@@ -4868,11 +4928,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=57278
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkaktta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkaktta.wav
       발음: 깍따
     어휘 등급: 초급
     의미:
@@ -4956,13 +5016,13 @@ import:
     항목ID: 57278
     활용:
     - 발음: 까까
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/57278_kkakka.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/57278_kkakka.wav
       형태: 깎아
     - 발음: 까끄니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/57278_kkakkeuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/57278_kkakkeuni.wav
       형태: 깎으니
     - 발음: 깡는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/57278_kkangneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/57278_kkangneun.wav
       형태: 깎는
 result:
   맞춤법 검사:
@@ -4973,11 +5033,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38426
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkakkanaerida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkakkanaerida.wav
       발음: 까까내리다
     어휘 등급: 없음
     의미:
@@ -5012,16 +5072,16 @@ import:
     항목ID: 38426
     활용:
     - 발음: 까까내리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38426_kkakkanaerieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38426_kkakkanaerieo.wav
       형태: 깎아내리어
     - 발음: 까까내리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38426_kkakkanaeriyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38426_kkakkanaeriyeo.wav
       형태: 깎아내리어
     - 발음: 까까내려
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/38426_kkakkanaeryeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/38426_kkakkanaeryeo.wav
       형태: 깎아내려
     - 발음: 까까내리니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/38426_kkakkanaerini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/38426_kkakkanaerini.wav
       형태: 깎아내리니
 import_derived:
   맞춤법 검사:
@@ -5042,11 +5102,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38430
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkakkajireuda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkakkajireuda.wav
       발음: 까까지르다
     어휘 등급: 없음
     의미:
@@ -5093,11 +5153,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64360
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/64360_kkakkida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/64360_kkakkida.wav
       발음: 까끼다
     어휘 등급: 없음
     의미:
@@ -5161,16 +5221,16 @@ import:
     항목ID: 64360
     활용:
     - 발음: 까끼어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64360_kkakkieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/64360_kkakkieo.wav
       형태: 깎이어
     - 발음: 까끼여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64360_kkakkiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/64360_kkakkiyeo.wav
       형태: 깎이어
     - 발음: 까껴
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/64360_kkakkyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/64360_kkakkyeo.wav
       형태: 깎여
     - 발음: 까끼니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/64360_kkakkini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/64360_kkakkini.wav
       형태: 깎이니
 result:
   맞춤법 검사:
@@ -5181,11 +5241,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38432
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38432_kkan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38432_kkan.wav
       발음: 깐
     어휘 등급: 없음
     의미:
@@ -5217,11 +5277,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38433
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/38433_kkankkanhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/38433_kkankkanhada.wav
       발음: 깐깐하다
     어휘 등급: 없음
     의미:
@@ -5262,11 +5322,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38435
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38435_kkankkanhi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38435_kkankkanhi.wav
       발음: 깐깐히
     어휘 등급: 없음
     의미:
@@ -5295,7 +5355,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38437
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -5329,11 +5389,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38438
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkalgae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkalgae.wav
       발음: 깔개
     어휘 등급: 없음
     의미:
@@ -5362,11 +5422,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38441
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkalkkal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkalkkal.wav
       발음: 깔깔
     어휘 등급: 없음
     의미:
@@ -5395,11 +5455,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38442
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38442_kkalkkalgeolida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38442_kkalkkalgeolida.wav
       발음: 깔깔거리다
     어휘 등급: 없음
     의미:
@@ -5436,11 +5496,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38443
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38443_kkalkkaldaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38443_kkalkkaldaeda.wav
       발음: 깔깔대다
     어휘 등급: 없음
     의미:
@@ -5478,11 +5538,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88518
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkalkkalhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkalkkalhada.wav
       발음: 깔깔하다
     어휘 등급: 없음
     의미:
@@ -5516,11 +5576,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38444
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkalkkalhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkalkkalhada.wav
       발음: 깔깔하다
     어휘 등급: 없음
     의미:
@@ -5578,11 +5638,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32552
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/32552_kkalkkeumhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/32552_kkalkkeumhada.wav
       발음: 깔끔하다
     어휘 등급: 중급
     의미:
@@ -5638,12 +5698,14 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=53301&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     구분: 단어
     발음:
     - 깔끔히
     의미:
     - 뜻풀이: 솜씨가 야물고 알뜰하게.
+      원뜻풀이: 솜씨가 야물고 알뜰하게.
+      의미코드: 35621
       종류: 일반어
       품사: 부사
     종류: 고유어
@@ -5658,11 +5720,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32553
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkalda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkalda.wav
       발음: 깔다
     어휘 등급: 중급
     의미:
@@ -5776,11 +5838,11 @@ import:
     항목ID: 32553
     활용:
     - 발음: 까라
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/32553_kkara.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/32553_kkara.wav
       형태: 깔아
     - 형태: 까니
     - 발음: 깜니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/32553_kkamnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/32553_kkamnida.wav
       형태: 깝니다
 result:
   맞춤법 검사:
@@ -5791,11 +5853,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=64688
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkalttak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkalttak.wav
       발음: 깔딱
     어휘 등급: 없음
     의미:
@@ -5836,11 +5898,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38447
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkalttakkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkalttakkkeorida.wav
       발음: 깔딱꺼리다
     어휘 등급: 없음
     의미:
@@ -5901,11 +5963,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88519
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/88519_kkalttakttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/88519_kkalttakttaeda.wav
       발음: 깔딱때다
     어휘 등급: 없음
     의미:
@@ -5967,11 +6029,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88520
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkalttagida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkalttagida.wav
       발음: 깔따기다
     어휘 등급: 없음
     의미:
@@ -6020,11 +6082,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88521
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkalttakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkalttakada.wav
       발음: 깔따카다
     어휘 등급: 없음
     의미:
@@ -6077,11 +6139,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38450
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkalttaegi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkalttaegi.wav
       발음: 깔때기
     어휘 등급: 없음
     의미:
@@ -6115,11 +6177,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32554
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/32554_kkallida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/32554_kkallida.wav
       발음: 깔리다
     어휘 등급: 중급
     의미:
@@ -6177,7 +6239,7 @@ import:
       용례.대화:
       - 회사에서 상사한테 깔려서 살 수가 없어.
       용례.문장:
-      - 아버지는 밖에서는 큰소리를 치시다가도 집에서는 어머니에게 깔려 꼼짝 못하신다.
+      - 아버지는 밖에서는 큰소리를 치시다가도 집에서는 어머니에게 깔려 꼼짝 못 하신다.
       - 역사를 돌이켜 보면 권력에 깔려 신음하는 백성들을 방치한 왕조는 살아남지 못했다.
       의미ID: 5
     - 뜻풀이: 널리 퍼져 있다.
@@ -6216,10 +6278,10 @@ import:
     항목ID: 32554
     활용:
     - 발음: 깔리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/32554_kkallieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/32554_kkallieo.wav
       형태: 깔리어
     - 발음: 깔리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/32554_kkalliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/32554_kkalliyeo.wav
       형태: 깔리어
     - 형태: 깔리니
 result:
@@ -6231,11 +6293,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38452
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkalboda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkalboda.wav
       발음: 깔보다
     어휘 등급: 없음
     의미:
@@ -6278,11 +6340,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38453
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkaramunggaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkaramunggaeda.wav
       발음: 까라뭉개다
     어휘 등급: 없음
     의미:
@@ -6333,13 +6395,13 @@ import:
     항목ID: 38453
     활용:
     - 발음: 까라뭉개어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38453_kkaramunggaeeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38453_kkaramunggaeeo.wav
       형태: 깔아뭉개어
     - 발음: 까라뭉개
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/38453_kkaramunggae.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/38453_kkaramunggae.wav
       형태: 깔아뭉개
     - 발음: 까라뭉개니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38453_kkaramunggaeni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38453_kkaramunggaeni.wav
       형태: 깔아뭉개니
 import_derived:
   맞춤법 검사:
@@ -6360,11 +6422,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38454
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38454_kkaljjagkkeolida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38454_kkaljjagkkeolida.wav
       발음: 깔짝꺼리다
     어휘 등급: 없음
     의미:
@@ -6422,11 +6484,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88522
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88522_kkaljjagkkaljjag.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88522_kkaljjagkkaljjag.wav
       발음: 깔짝깔짝
     어휘 등급: 없음
     의미:
@@ -6468,11 +6530,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88523
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/88523_kkaljjagkkaljjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/88523_kkaljjagkkaljjakada.wav
       발음: 깔짝깔짜카다
     어휘 등급: 없음
     의미:
@@ -6530,11 +6592,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38456
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38456_kkaljjagttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38456_kkaljjagttaeda.wav
       발음: 깔짝때다
     어휘 등급: 없음
     의미:
@@ -6592,11 +6654,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88524
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88524_kkaljjagida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88524_kkaljjagida.wav
       발음: 깔짜기다
     어휘 등급: 없음
     의미:
@@ -6626,12 +6688,22 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=400416&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:01:57+09:00'
+    가져온 시각: '2023-05-01T02:10:09+09:00'
     구분: 단어
     발음:
     - 깔창
     의미:
     - 뜻풀이: 신발의 바닥에 까는 물건.
+      멀티미디어:
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=355903
+        레이블: 깔창
+        종류: 사진
+      - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=355904
+        레이블: 깔창
+        종류: 사진
+      분류: 없음
+      원뜻풀이: 신발의 바닥에 까는 물건.
+      의미코드: 379134
       종류: 일반어
       품사: 명사
     종류: 고유어
@@ -6646,11 +6718,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38457
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkamkkam.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkamkkam.wav
       발음: 깜깜
     어휘 등급: 없음
     의미:
@@ -6691,14 +6763,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38460
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38460_kkamkkamjeolbyeog.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38460_kkamkkamjeolbyeog.wav
       발음: 깜깜절벽
     어휘 등급: 없음
-    원어: 깜깜 絕壁
+    원어: 깜깜絕壁
     의미:
     - 뜻풀이: 아무것도 보이지 않음.
       용례.구:
@@ -6727,13 +6799,13 @@ import:
     항목ID: 38460
     활용:
     - 발음: 깜깜절벼기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/38460_kkamkkamjeolbyeogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/38460_kkamkkamjeolbyeogi.wav
       형태: 깜깜절벽이
     - 발음: 깜깜절벽또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38460_kkamkkamjeolbyeoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38460_kkamkkamjeolbyeoktto.wav
       형태: 깜깜절벽도
     - 발음: 깜깜절병만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/38460_kkamkkamjeolbyeongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/38460_kkamkkamjeolbyeongman.wav
       형태: 깜깜절벽만
 result:
   맞춤법 검사:
@@ -6744,11 +6816,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38462
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38462_kkamkkamhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38462_kkamkkamhada.wav
       발음: 깜깜하다
     어휘 등급: 중급
     의미:
@@ -6836,11 +6908,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26520
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamnyang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamnyang.wav
       발음: 깜냥
     어휘 등급: 없음
     의미:
@@ -6874,11 +6946,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=38464
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/38464_kkamdungi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/38464_kkamdungi.wav
       발음: 깜둥이
     어휘 등급: 없음
     의미:
@@ -6948,11 +7020,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37725
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkambak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkambak.wav
       발음: 깜박
     어휘 등급: 없음
     의미:
@@ -7019,11 +7091,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37726
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkambakkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkambakkkeorida.wav
       발음: 깜박꺼리다
     어휘 등급: 없음
     의미:
@@ -7130,11 +7202,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37727
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37727_kkambagkkambag.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37727_kkambagkkambag.wav
       발음: 깜박깜박
     어휘 등급: 없음
     의미:
@@ -7206,11 +7278,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37728
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/37728_kkambagkkambakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/37728_kkambagkkambakada.wav
       발음: 깜박깜바카다
     어휘 등급: 없음
     의미:
@@ -7317,11 +7389,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37729
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/17000/37729_kkambakttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/17000/37729_kkambakttaeda.wav
       발음: 깜박때다
     어휘 등급: 없음
     의미:
@@ -7426,11 +7498,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37730
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkambagida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkambagida.wav
       발음: 깜바기다
     어휘 등급: 없음
     의미:
@@ -7524,11 +7596,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37731
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkambakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkambakada.wav
       발음: 깜바카다
     어휘 등급: 중급
     의미:
@@ -7609,11 +7681,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32556
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamppak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamppak.wav
       발음: 깜빡
     어휘 등급: 중급
     의미:
@@ -7676,11 +7748,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37733
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamppakkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamppakkkeorida.wav
       발음: 깜빡꺼리다
     어휘 등급: 없음
     의미:
@@ -7772,11 +7844,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37734
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamppakkkamppak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamppakkkamppak.wav
       발음: 깜빡깜빡
     어휘 등급: 없음
     의미:
@@ -7834,11 +7906,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37735
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkamppakkkamppakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkamppakkkamppakada.wav
       발음: 깜빡깜빠카다
     어휘 등급: 없음
     의미:
@@ -7928,11 +8000,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88525
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkamppakttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkamppakttaeda.wav
       발음: 깜빡때다
     어휘 등급: 없음
     의미:
@@ -8022,11 +8094,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26521
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamppagi.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamppagi.wav
       발음: 깜빠기
     어휘 등급: 없음
     의미:
@@ -8060,11 +8132,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37736
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamppagida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamppagida.wav
       발음: 깜빠기다
     어휘 등급: 없음
     의미:
@@ -8133,11 +8205,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37737
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamppakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamppakada.wav
       발음: 깜빠카다
     어휘 등급: 없음
     의미:
@@ -8207,11 +8279,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37738
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37738_kkamjag.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37738_kkamjag.wav
       발음: 깜작
     어휘 등급: 없음
     의미:
@@ -8242,11 +8314,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37740
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37740_kkamjagkkeolida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37740_kkamjagkkeolida.wav
       발음: 깜작꺼리다
     어휘 등급: 없음
     의미:
@@ -8283,11 +8355,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88528
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88528_kkamjagkkamjag.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88528_kkamjagkkamjag.wav
       발음: 깜작깜작
     어휘 등급: 없음
     의미:
@@ -8317,11 +8389,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88529
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88529_kkamjagkkamjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88529_kkamjagkkamjakada.wav
       발음: 깜작깜자카다
     어휘 등급: 없음
     의미:
@@ -8358,11 +8430,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88526
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88526_kkamjagttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88526_kkamjagttaeda.wav
       발음: 깜작때다
     어휘 등급: 없음
     의미:
@@ -8399,11 +8471,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88527
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/88527_kkamjagida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/88527_kkamjagida.wav
       발음: 깜자기다
     어휘 등급: 없음
     의미:
@@ -8437,11 +8509,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37741
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37741_kkamjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37741_kkamjakada.wav
       발음: 깜자카다
     어휘 등급: 없음
     의미:
@@ -8471,11 +8543,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37742
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjang.wav
       발음: 깜장
     어휘 등급: 없음
     의미:
@@ -8509,11 +8581,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37744
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjjak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjjak.wav
       발음: 깜짝
     어휘 등급: 초급
     의미:
@@ -8540,11 +8612,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37743
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjjak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjjak.wav
       발음: 깜짝
     어휘 등급: 없음
     의미:
@@ -8573,11 +8645,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37745
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkamjjakkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkamjjakkkeorida.wav
       발음: 깜짝꺼리다
     어휘 등급: 없음
     의미:
@@ -8615,11 +8687,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37747
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjjakkkamjjak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjjakkkamjjak.wav
       발음: 깜짝깜짝
     어휘 등급: 없음
     의미:
@@ -8645,11 +8717,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37746
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjjakkkamjjak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjjakkkamjjak.wav
       발음: 깜짝깜짝
     어휘 등급: 없음
     의미:
@@ -8679,11 +8751,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89896
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37748_kkamjjagkkamjjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37748_kkamjjagkkamjjakada.wav
       발음: 깜짝깜짜카다
     어휘 등급: 없음
     의미:
@@ -8714,11 +8786,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37748
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37748_kkamjjagkkamjjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37748_kkamjjagkkamjjakada.wav
       발음: 깜짝깜짜카다
     어휘 등급: 없음
     의미:
@@ -8757,11 +8829,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88530
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkamjjakttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkamjjakttaeda.wav
       발음: 깜짝때다
     어휘 등급: 없음
     의미:
@@ -8801,11 +8873,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88531
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkamjjagida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkamjjagida.wav
       발음: 깜짜기다
     어휘 등급: 없음
     의미:
@@ -8838,11 +8910,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37749
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjjagiya.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjjagiya.wav
       발음: 깜짜기야
     어휘 등급: 없음
     의미:
@@ -8865,11 +8937,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37751
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjjakada.wav
       발음: 깜짜카다
     어휘 등급: 없음
     의미:
@@ -8895,11 +8967,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37750
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjjakada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjjakada.wav
       발음: 깜짜카다
     어휘 등급: 고급
     의미:
@@ -8931,11 +9003,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37753
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkamjjiksseureoptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkamjjiksseureoptta.wav
       발음: 깜찍쓰럽따
     어휘 등급: 없음
     의미:
@@ -8974,10 +9046,10 @@ import:
     - 발음: 깜찍쓰러운
       형태: 깜찍스러운
     - 발음: 깜찍쓰러워
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/37753_kkamjjiksseureowo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/37753_kkamjjiksseureowo.wav
       형태: 깜찍스러워
     - 발음: 깜찍쓰러우니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/37753_kkamjjiksseureouni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/37753_kkamjjiksseureouni.wav
       형태: 깜찍스러우니
     - 발음: 깜찍쓰럽씀니다
       형태: 깜찍스럽습니다
@@ -8992,11 +9064,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37755
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkamjjikada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkamjjikada.wav
       발음: 깜찌카다
     어휘 등급: 없음
     의미:
@@ -9051,11 +9123,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37756
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkapjjukkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkapjjukkkeorida.wav
       발음: 깝쭉꺼리다
     어휘 등급: 없음
     의미:
@@ -9114,11 +9186,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88533
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88533_kkabjjugkkabjjug.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88533_kkabjjugkkabjjug.wav
       발음: 깝쭉깝쭉
     어휘 등급: 없음
     의미:
@@ -9158,11 +9230,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88534
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/88534_kkabjjugkkabjjukada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/88534_kkabjjugkkabjjukada.wav
       발음: 깝쭉깝쭈카다
     어휘 등급: 없음
     의미:
@@ -9218,11 +9290,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37758
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkapjjukttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkapjjukttaeda.wav
       발음: 깝쭉때다
     어휘 등급: 없음
     의미:
@@ -9281,11 +9353,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88532
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2006/kkapjjugida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2006/kkapjjugida.wav
       발음: 깝쭈기다
     어휘 등급: 없음
     의미:
@@ -9328,11 +9400,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26522
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkang.wav
       발음: 깡
     어휘 등급: 없음
     의미:
@@ -9365,11 +9437,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37760
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkanggeuri.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkanggeuri.wav
       발음: 깡그리
     어휘 등급: 없음
     의미:
@@ -9399,11 +9471,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37761
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkangkkang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkangkkang.wav
       발음: 깡깡
     어휘 등급: 없음
     의미:
@@ -9441,11 +9513,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=26524
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/26524_kkangdagu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/26524_kkangdagu.wav
       발음: 깡다구
     어휘 등급: 없음
     의미:
@@ -9478,11 +9550,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37765
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37765_kkangmaleuda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37765_kkangmaleuda.wav
       발음: 깡마르다
     어휘 등급: 없음
     의미:
@@ -9532,10 +9604,10 @@ import:
     - 발음: 깡마른
       형태: 깡마른
     - 발음: 깡말라
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/15000/37765_kkangmalla.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/15000/37765_kkangmalla.wav
       형태: 깡말라
     - 발음: 깡마르니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/37765_kkangmareuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/37765_kkangmareuni.wav
       형태: 깡마르니
     - 발음: 깡마름니다
       형태: 깡마릅니다
@@ -9550,7 +9622,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92168
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -9568,7 +9640,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92169
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -9586,11 +9658,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=89897
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/89897_kkangchung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/89897_kkangchung.wav
       발음: 깡충
     어휘 등급: 없음
     의미:
@@ -9616,11 +9688,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37769
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37769_kkangchunggeolida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37769_kkangchunggeolida.wav
       발음: 깡충거리다
     어휘 등급: 없음
     의미:
@@ -9657,11 +9729,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37770
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/37770_kkangchungkkangchung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/37770_kkangchungkkangchung.wav
       발음: 깡충깡충
     어휘 등급: 고급
     의미:
@@ -9693,11 +9765,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88536
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/22000/88536_kkangchungkkangchunghada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/22000/88536_kkangchungkkangchunghada.wav
       발음: 깡충깡충하다
     어휘 등급: 없음
     의미:
@@ -9734,11 +9806,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88535
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/13000/88535_kkangchungdaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/13000/88535_kkangchungdaeda.wav
       발음: 깡충대다
     어휘 등급: 없음
     의미:
@@ -9775,14 +9847,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=41466
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkangtong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkangtong.wav
       발음: 깡통
     어휘 등급: 고급
-    원어: 깡 筒
+    원어: 깡筒
     의미:
     - 다중 매체 정보:사진:
       - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120104/2134/IMG000096675_700X466.jpg
@@ -9827,14 +9899,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=32557
-    가져온 시각: '2019-09-05T09:28:02+09:00'
+    가져온 시각: '2023-05-01T01:17:21+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/giyeok_2005/kkangpae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/giyeok_2005/kkangpae.wav
       발음: 깡패
     어휘 등급: 없음
-    원어: 깡 牌
+    원어: 깡牌
     의미:
     - 뜻풀이: (속된 말로) 폭력을 쓰면서 나쁜 짓을 하는 사람이나 무리.
       용례.구:

@@ -2,11 +2,11 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78877
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/chieut2_2005/chwe-jang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/chieut2_2005/chwe-jang.wav
       발음: 췌ː장
     어휘 등급: 없음
     원어: 膵臟
@@ -36,7 +36,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=494416&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:28:31+09:00'
+    가져온 시각: '2023-05-01T07:04:28+09:00'
     구분: 단어
     발음:
     - 췌ː장암
@@ -46,6 +46,14 @@ import:
     의미:
     - 뜻풀이: 이자에 생기는 악성 종양.
       분류: 의학
+      어휘정보:
+      - 기준: 의미
+        단어: 이자-암
+        대상항목ID: 252991
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=260619&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 이자에 생기는 악성 종양.
+      의미코드: 292231
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -60,11 +68,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78878
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/10000/04000/78878_chwe-jangnyeom.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/10000/04000/78878_chwe-jangnyeom.wav
       발음: 췌ː장념
     어휘 등급: 없음
     원어: 膵臟炎

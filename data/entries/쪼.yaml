@@ -2,11 +2,11 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77963
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjogari.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjogari.wav
       발음: 쪼가리
     어휘 등급: 없음
     의미:
@@ -50,11 +50,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77983
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjogaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjogaeda.wav
       발음: 쪼개다
     어휘 등급: 고급
     의미:
@@ -62,6 +62,9 @@ import:
       - 동형어 번호: 0
         표제어: 뻐개다
         항목ID: 62009
+      다중 매체 정보:동영상:
+      - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20200214/658872/MOV000356651_700X466.mp4
+        레이블: 쪼개다
       뜻풀이: 둘 이상으로 나누다.
       문형: 1이 2를 쪼개다
       용례.구:
@@ -108,8 +111,18 @@ import:
     품사: 동사
     항목ID: 77983
     활용:
-    - 형태: 쪼개어
-    - 형태: 쪼개니
+    - 발음: 쪼개는
+      형태: 쪼개는
+    - 발음: 쪼개어
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77983_jjogaeeo.wav
+      형태: 쪼개어
+    - 발음: 쪼개
+      형태: 쪼개
+    - 발음: 쪼개니
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/77983_jjogaeni.wav
+      형태: 쪼개니
+    - 발음: 쪼갬니다
+      형태: 쪼갭니다
 result:
   맞춤법 검사:
     표제어: 쪼개다
@@ -119,11 +132,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77984
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/77984_jjogaeeojida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/77984_jjogaeeojida.wav
       발음: 쪼개어지다
     어휘 등급: 없음
     의미:
@@ -152,13 +165,13 @@ import:
     항목ID: 77984
     활용:
     - 발음: 쪼개어지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77984_jjogaeeojieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77984_jjogaeeojieo.wav
       형태: 쪼개어지어
     - 발음: 쪼개어지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77984_jjogaeeojiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77984_jjogaeeojiyeo.wav
       형태: 쪼개어지어
     - 발음: 쪼개어저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/77984_jjogaeeojeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/77984_jjogaeeojeo.wav
       형태: 쪼개어져
     - 형태: 쪼개어지니
 result:
@@ -172,11 +185,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77985
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/77985_jjogaejida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/77985_jjogaejida.wav
       발음: 쪼개지다
     어휘 등급: 없음
     의미:
@@ -203,13 +216,13 @@ import:
     항목ID: 77985
     활용:
     - 발음: 쪼개지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/77985_jjogaejieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/77985_jjogaejieo.wav
       형태: 쪼개지어
     - 발음: 쪼개지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77985_jjogaejiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77985_jjogaejiyeo.wav
       형태: 쪼개지어
     - 발음: 쪼개저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/77985_jjogaejeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/77985_jjogaejeo.wav
       형태: 쪼개져
     - 형태: 쪼개지니
 result:
@@ -223,11 +236,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77986
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjogeuradeulda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjogeuradeulda.wav
       발음: 쪼그라들다
     어휘 등급: 없음
     의미:
@@ -278,11 +291,11 @@ import:
     항목ID: 77986
     활용:
     - 발음: 쪼그라드러
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77986_jjogeuradeureo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77986_jjogeuradeureo.wav
       형태: 쪼그라들어
     - 형태: 쪼그라드니
     - 발음: 쪼그라듬니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77986_jjogeuradeumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77986_jjogeuradeumnida.wav
       형태: 쪼그라듭니다
 result:
   맞춤법 검사:
@@ -293,11 +306,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77987
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/77987_jjogeurajida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/77987_jjogeurajida.wav
       발음: 쪼그라지다
     어휘 등급: 없음
     의미:
@@ -336,20 +349,20 @@ import:
       - 제가 사실은 피부에 신경을 좀 많이 쓰는 편이에요.
       용례.문장:
       - 연세가 많으신 할머니의 손등은 쪼그라져서 쭈글쭈글했다.
-      - 그 노파의 얼굴은 주름이 자글자글하고 매우 쪼그라져 있는 상태였다.
+      - 그 노파의 얼굴은 주름이 많고 매우 쪼그라져 있는 상태였다.
       의미ID: 2
     표제어: 쪼그라지다
     품사: 동사
     항목ID: 77987
     활용:
     - 발음: 쪼그라지어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77987_jjogeurajieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77987_jjogeurajieo.wav
       형태: 쪼그라지어
     - 발음: 쪼그라지여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77987_jjogeurajiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77987_jjogeurajiyeo.wav
       형태: 쪼그라지어
     - 발음: 쪼그라저
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/77987_jjogeurajeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/77987_jjogeurajeo.wav
       형태: 쪼그라져
     - 형태: 쪼그라지니
 result:
@@ -363,11 +376,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77988
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjogeurida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjogeurida.wav
       발음: 쪼그리다
     어휘 등급: 고급
     의미:
@@ -412,10 +425,10 @@ import:
     항목ID: 77988
     활용:
     - 발음: 쪼그리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77988_jjogeurieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77988_jjogeurieo.wav
       형태: 쪼그리어
     - 발음: 쪼그리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77988_jjogeuriyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77988_jjogeuriyeo.wav
       형태: 쪼그리어
     - 형태: 쪼그리니
 result:
@@ -427,11 +440,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77989
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjogeumata.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjogeumata.wav
       발음: 쪼그마타
     어휘 등급: 없음
     의미:
@@ -465,7 +478,7 @@ import:
     - 발음: 쪼그마니
       형태: 쪼그마니
     - 발음: 쪼그마씀니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/77989_jjogeumasseumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/77989_jjogeumasseumnida.wav
       형태: 쪼그맣습니다
 result:
   맞춤법 검사:
@@ -478,11 +491,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77999
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/77999_jjogeuljjogeul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/77999_jjogeuljjogeul.wav
       발음: 쪼글쪼글
     어휘 등급: 없음
     의미:
@@ -515,11 +528,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78002
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78002_jjogeuljjogeulhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78002_jjogeuljjogeulhada.wav
       발음: 쪼글쪼글하다
     어휘 등급: 없음
     의미:
@@ -560,11 +573,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78005
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjogeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjogeum.wav
       발음: 쪼금
     어휘 등급: 없음
     의미:
@@ -616,11 +629,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78006
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjogeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjogeum.wav
       발음: 쪼금
     어휘 등급: 없음
     의미:
@@ -670,11 +683,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78007
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjokkeumata.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjokkeumata.wav
       발음: 쪼끄마타
     어휘 등급: 없음
     의미:
@@ -705,7 +718,7 @@ import:
     - 발음: 쪼끄마니
       형태: 쪼끄마니
     - 발음: 쪼끄마씀니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78007_jjokkeumasseumnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78007_jjokkeumasseumnida.wav
       형태: 쪼끄맣습니다
 result:
   맞춤법 검사:
@@ -718,11 +731,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78872
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjokkeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjokkeum.wav
       발음: 쪼끔
     어휘 등급: 없음
     의미:
@@ -773,11 +786,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78883
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjokkeum.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjokkeum.wav
       발음: 쪼끔
     어휘 등급: 없음
     의미:
@@ -830,11 +843,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78009
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78009_jjo-da.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78009_jjo-da.wav
       발음: 쪼ː다
     어휘 등급: 고급
     의미:
@@ -861,10 +874,10 @@ import:
     활용:
     - 형태: 쪼아
     - 발음: 쫘ː
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78009_jjwa-.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78009_jjwa-.wav
       형태: 쫘
     - 발음: 쪼ː니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78009_jjo-ni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78009_jjo-ni.wav
       형태: 쪼니
 result:
   맞춤법 검사:
@@ -875,11 +888,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78008
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78008_jjoda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78008_jjoda.wav
       발음: 쪼다
     어휘 등급: 없음
     의미:
@@ -908,11 +921,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78010
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjodeulrida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjodeulrida.wav
       발음: 쪼들리다
     어휘 등급: 없음
     의미:
@@ -939,10 +952,10 @@ import:
     항목ID: 78010
     활용:
     - 발음: 쪼들리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78010_jjodeullieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78010_jjodeullieo.wav
       형태: 쪼들리어
     - 발음: 쪼들리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78010_jjodeulliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78010_jjodeulliyeo.wav
       형태: 쪼들리어
     - 형태: 쪼들리니
 result:
@@ -954,11 +967,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78011
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjoreureu.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjoreureu.wav
       발음: 쪼르르
     어휘 등급: 없음
     의미:
@@ -1045,11 +1058,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78815
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjoreureuk.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjoreureuk.wav
       발음: 쪼르륵
     어휘 등급: 없음
     의미:
@@ -1109,11 +1122,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78805
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78805_jjoreureukkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78805_jjoreureukkkeorida.wav
       발음: 쪼르륵꺼리다
     어휘 등급: 없음
     의미:
@@ -1171,11 +1184,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90126
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/90126_jjoreureukttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/90126_jjoreureukttaeda.wav
       발음: 쪼르륵때다
     어휘 등급: 없음
     의미:
@@ -1233,11 +1246,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90128
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/90128_jjoreureukjjoreureuk.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/90128_jjoreureukjjoreureuk.wav
       발음: 쪼르륵쪼르륵
     어휘 등급: 없음
     의미:
@@ -1289,11 +1302,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90129
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/90129_jjoreureukjjoreureukada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/90129_jjoreureukjjoreureukada.wav
       발음: 쪼르륵쪼르르카다
     어휘 등급: 없음
     의미:
@@ -1348,11 +1361,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90127
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/90127_jjoreureukada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/90127_jjoreureukada.wav
       발음: 쪼르르카다
     어휘 등급: 없음
     의미:
@@ -1393,11 +1406,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78012
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjoida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjoida.wav
       발음: 쪼이다
     어휘 등급: 없음
     의미:
@@ -1442,10 +1455,10 @@ import:
     항목ID: 78012
     활용:
     - 발음: 쪼이어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78013_jjoieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78013_jjoieo.wav
       형태: 쪼이어
     - 발음: 쪼이여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78013_jjoiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78013_jjoiyeo.wav
       형태: 쪼이어
     - 형태: 쪼이니
 result:
@@ -1457,11 +1470,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78013
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjoida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjoida.wav
       발음: 쪼이다
     어휘 등급: 없음
     의미:
@@ -1542,10 +1555,10 @@ import:
     항목ID: 78013
     활용:
     - 발음: 쪼이어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78013_jjoieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78013_jjoieo.wav
       형태: 쪼이어
     - 발음: 쪼이여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78013_jjoiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78013_jjoiyeo.wav
       형태: 쪼이어
     - 형태: 쪼이니
 result:
@@ -1557,11 +1570,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78034
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78034_jjojanhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78034_jjojanhada.wav
       발음: 쪼잔하다
     어휘 등급: 없음
     의미:
@@ -1602,7 +1615,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88690
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1641,11 +1654,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78035
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjok.wav
       발음: 쪽
     어휘 등급: 없음
     의미:
@@ -1670,13 +1683,13 @@ import:
     항목ID: 78035
     활용:
     - 발음: 쪼기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjogi.wav
       형태: 쪽이
     - 발음: 쪽또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
       형태: 쪽도
     - 발음: 쫑만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
 result:
   맞춤법 검사:
@@ -1687,11 +1700,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71582
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjok.wav
       발음: 쪽
     어휘 등급: 중급
     의미:
@@ -1734,13 +1747,13 @@ import:
     항목ID: 71582
     활용:
     - 발음: 쪼기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjogi.wav
       형태: 쪽이
     - 발음: 쪽또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
       형태: 쪽도
     - 발음: 쫑만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
 result:
   맞춤법 검사:
@@ -1751,11 +1764,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71718
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 3
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjok.wav
       발음: 쪽
     어휘 등급: 중급
     의미:
@@ -1780,13 +1793,13 @@ import:
     항목ID: 71718
     활용:
     - 발음: 쪼기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjogi.wav
       형태: 쪽이
     - 발음: 쪽또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
       형태: 쪽도
     - 발음: 쫑만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
 result:
   맞춤법 검사:
@@ -1797,11 +1810,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71734
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 4
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjok.wav
       발음: 쪽
     어휘 등급: 중급
     의미:
@@ -1824,13 +1837,13 @@ import:
     항목ID: 71734
     활용:
     - 발음: 쪼기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjogi.wav
       형태: 쪽이
     - 발음: 쪽또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
       형태: 쪽도
     - 발음: 쫑만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
 result:
   맞춤법 검사:
@@ -1841,11 +1854,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58147
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 5
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjok.wav
       발음: 쪽
     어휘 등급: 초급
     의미:
@@ -1891,13 +1904,13 @@ import:
     항목ID: 58147
     활용:
     - 발음: 쪼기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjogi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjogi.wav
       형태: 쪽이
     - 발음: 쪽또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjoktto.wav
       형태: 쪽도
     - 발음: 쫑만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/71582_jjongman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/71582_jjongman.wav
       형태: 쪽만
 result:
   맞춤법 검사:
@@ -1908,11 +1921,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78036
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjongmaru.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjongmaru.wav
       발음: 쫑마루
     어휘 등급: 없음
     의미:
@@ -1950,14 +1963,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78037
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjongmun.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjongmun.wav
       발음: 쫑문
     어휘 등급: 없음
-    원어: 쪽 門
+    원어: 쪽門
     의미:
     - 다중 매체 정보:사진:
       - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20150929/201405/PIC000197686_700X466.jpg
@@ -1971,7 +1984,7 @@ import:
       - 쪽문을 밀치다.
       - 쪽문으로 드나들다.
       용례.대화:
-      - 네. 쪽문까지 모조리 다 잠궜어요.
+      - 네. 쪽문까지 모조리 다 잠갔어요.
       용례.문장:
       - 대문이 잠겨서 하는 수 없이 쪽문을 열고 안으로 들어왔다.
       - 이 집에는 만일의 사태를 대비하여 비상 탈출을 할 수 있는 쪽문이 나 있다.
@@ -1988,11 +2001,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78038
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjokppak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjokppak.wav
       발음: 쪽빡
     어휘 등급: 없음
     의미:
@@ -2014,13 +2027,13 @@ import:
     항목ID: 78038
     활용:
     - 발음: 쪽빠기
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78038_jjokppagi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78038_jjokppagi.wav
       형태: 쪽박이
     - 발음: 쪽빡또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78038_jjokppaktto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78038_jjokppaktto.wav
       형태: 쪽박도
     - 발음: 쪽빵만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78038_jjokppangman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78038_jjokppangman.wav
       형태: 쪽박만
 result:
   맞춤법 검사:
@@ -2031,7 +2044,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=515409&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:18:59+09:00'
+    가져온 시각: '2023-05-01T06:45:57+09:00'
     구분: 단어
     발음:
     - 쪽빵
@@ -2041,6 +2054,9 @@ import:
     의미:
     - 뜻풀이: 방을 여러 개의 작은 크기로 나누어서 한두 사람 들어갈 크기로 만들어 놓는 방. 보통 3㎡ 전후의 작은 방으로 보증금 없이 월세로
         운영되는 것이 일반적이다.
+      원뜻풀이: 방을 여러 개의 작은 크기로 나누어서 한두 사람 들어갈 크기로 만들어 놓는 방. 보통 3㎡ 전후의 작은 방으로 보증금 없이 월세로
+        운영되는 것이 일반적이다.
+      의미코드: 596533
       종류: 일반어
       품사: 명사
     종류: 혼종어
@@ -2055,11 +2071,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78039
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjokppae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjokppae.wav
       발음: 쪽빼
     어휘 등급: 없음
     의미:
@@ -2089,11 +2105,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78041
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjokppit.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjokppit.wav
       발음: 쪽삗
     어휘 등급: 없음
     의미:
@@ -2121,13 +2137,13 @@ import:
     항목ID: 78041
     활용:
     - 발음: 쪽삐치
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78041_jjokppichi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78041_jjokppichi.wav
       형태: 쪽빛이
     - 발음: 쪽삗또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78041_jjokppittto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78041_jjokppittto.wav
       형태: 쪽빛도
     - 발음: 쪽삔만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78041_jjokppinman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78041_jjokppinman.wav
       형태: 쪽빛만
 result:
   맞춤법 검사:
@@ -2138,14 +2154,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78042
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjokjji.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjokjji.wav
       발음: 쪽찌
     어휘 등급: 고급
-    원어: 쪽 紙
+    원어: 쪽紙
     의미:
     - 뜻풀이: 작은 종잇조각.
       용례.구:
@@ -2187,11 +2203,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90170
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/90170_jjokjjok.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/90170_jjokjjok.wav
       발음: 쪽쪽
     어휘 등급: 없음
     의미:
@@ -2303,7 +2319,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=312176&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:18:59+09:00'
+    가져온 시각: '2023-05-01T06:45:57+09:00'
     구분: 단어
     발음:
     - 쪽파
@@ -2311,6 +2327,9 @@ import:
     - 뜻풀이: 파의 하나. 길이는 30cm 정도이며, 잎은 좁고 비늘줄기는 좁은 달걀 모양이다. 꽃은 거의 피지 않는데 특이한 향기와 자극성이
         있어 양념으로 쓰인다.
       분류: 식물
+      원뜻풀이: 파의 하나. 길이는 30cm 정도이며, 잎은 좁고 비늘줄기는 좁은 달걀 모양이다. 꽃은 거의 피지 않는데 특이한 향기와 자극성이
+        있어 양념으로 쓰인다.
+      의미코드: 583124
       종류: 일반어
       품사: 명사
     종류: 고유어
@@ -2325,11 +2344,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78044
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78044_jjokpallida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78044_jjokpallida.wav
       발음: 쪽팔리다
     어휘 등급: 없음
     의미:
@@ -2352,10 +2371,10 @@ import:
     항목ID: 78044
     활용:
     - 발음: 쪽팔리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78044_jjokpallieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78044_jjokpallieo.wav
       형태: 쪽팔리어
     - 발음: 쪽팔리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78044_jjokpalliyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78044_jjokpalliyeo.wav
       형태: 쪽팔리어
     - 형태: 쪽팔리니
 result:
@@ -2367,11 +2386,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78048
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78048_jjondeukjjondeuk.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78048_jjondeukjjondeuk.wav
       발음: 쫀득쫀득
     어휘 등급: 없음
     의미:
@@ -2400,12 +2419,14 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=486149&searchKeywordTo=3
-    가져온 시각: '2019-06-25T10:18:59+09:00'
+    가져온 시각: '2023-05-01T06:45:57+09:00'
     구분: 단어
     발음:
     - 쫀드카다
     의미:
     - 뜻풀이: 음식물 따위가 검질겨서 끈기 있고 졸깃하다. ‘존득하다’보다 센 느낌을 준다.
+      원뜻풀이: 음식물 따위가 검질겨서 끈기 있고 졸깃하다. ‘<sense_no>272092</sense_no>존득하다’보다 센 느낌을 준다.
+      의미코드: 509629
       종류: 일반어
       품사: 형용사
     종류: 고유어
@@ -2424,11 +2445,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78894
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78894_jjonjjonhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78894_jjonjjonhada.wav
       발음: 쫀쫀하다
     어휘 등급: 없음
     의미:
@@ -2500,11 +2521,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78050
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjolgitjjolgit.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjolgitjjolgit.wav
       발음: 쫄긷쫄긷
     어휘 등급: 없음
     의미:
@@ -2533,11 +2554,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78051
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjolgitjjolgitada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjolgitjjolgitada.wav
       발음: 쫄긷쫄기타다
     어휘 등급: 없음
     의미:
@@ -2578,11 +2599,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78052
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjolgitada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjolgitada.wav
       발음: 쫄기타다
     어휘 등급: 없음
     의미:
@@ -2623,11 +2644,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78053
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78053_jjolttak.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78053_jjolttak.wav
       발음: 쫄딱
     어휘 등급: 없음
     의미:
@@ -2656,11 +2677,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78190
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78190_jjollangjjollang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78190_jjollangjjollang.wav
       발음: 쫄랑쫄랑
     어휘 등급: 없음
     의미:
@@ -2709,14 +2730,14 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78055
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/42000/78055_jjolmyeon.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/42000/78055_jjolmyeon.wav
       발음: 쫄면
     어휘 등급: 없음
-    원어: 쫄 麵
+    원어: 쫄麵
     의미:
     - 다중 매체 정보:사진:
       - URL: http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120206/21902/PIC000196605_700X466.jpg
@@ -2749,11 +2770,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78049
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78049_jjolbaji.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78049_jjolbaji.wav
       발음: 쫄바지
     어휘 등급: 없음
     의미:
@@ -2782,11 +2803,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78056
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjoljjol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjoljjol.wav
       발음: 쫄쫄
     어휘 등급: 없음
     의미:
@@ -2814,11 +2835,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78191
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78191_jjonggeurida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78191_jjonggeurida.wav
       발음: 쫑그리다
     어휘 등급: 없음
     의미:
@@ -2852,10 +2873,10 @@ import:
     항목ID: 78191
     활용:
     - 발음: 쫑그리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78191_jjonggeurieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78191_jjonggeurieo.wav
       형태: 쫑그리어
     - 발음: 쫑그리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78191_jjonggeuriyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78191_jjonggeuriyeo.wav
       형태: 쫑그리어
     - 형태: 쫑그리니
 result:
@@ -2867,11 +2888,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78192
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjonggeut.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjonggeut.wav
       발음: 쫑귿
     어휘 등급: 없음
     의미:
@@ -2900,11 +2921,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78193
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjonggeutkkeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjonggeutkkeorida.wav
       발음: 쫑귿꺼리다
     어휘 등급: 없음
     의미:
@@ -2941,11 +2962,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90138
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/90138_jjonggeutttaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/90138_jjonggeutttaeda.wav
       발음: 쫑귿때다
     어휘 등급: 없음
     의미:
@@ -2982,11 +3003,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78194
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78194_jjonggeutjjonggeut.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78194_jjonggeutjjonggeut.wav
       발음: 쫑귿쫑귿
     어휘 등급: 없음
     의미:
@@ -3015,11 +3036,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78195
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78195_jjonggeutjjonggeutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78195_jjonggeutjjonggeutada.wav
       발음: 쫑귿쫑그타다
     어휘 등급: 없음
     의미:
@@ -3056,11 +3077,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78196
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78195_jjonggeutjjonggeutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78195_jjonggeutjjonggeutada.wav
       발음: 쫑귿쫑그타다
     어휘 등급: 없음
     의미:
@@ -3101,11 +3122,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78821
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 1
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78821_jjonggeutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78821_jjonggeutada.wav
       발음: 쫑그타다
     어휘 등급: 없음
     의미:
@@ -3134,11 +3155,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78833
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 2
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78821_jjonggeutada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78821_jjonggeutada.wav
       발음: 쫑그타다
     어휘 등급: 없음
     의미:
@@ -3179,11 +3200,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78057
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/78057_jjongalgeorida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/78057_jjongalgeorida.wav
       발음: 쫑알거리다
     어휘 등급: 없음
     의미:
@@ -3224,11 +3245,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90139
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjongaldaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjongaldaeda.wav
       발음: 쫑알대다
     어휘 등급: 없음
     의미:
@@ -3269,11 +3290,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78058
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2006/jjongaljjongal.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2006/jjongaljjongal.wav
       발음: 쫑알쫑알
     어휘 등급: 없음
     의미:
@@ -3307,11 +3328,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=90140
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/37000/90140_jjongaljjongalhada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/37000/90140_jjongaljjongalhada.wav
       발음: 쫑알쫑알하다
     어휘 등급: 없음
     의미:
@@ -3352,11 +3373,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37178
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjotkkyeonada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjotkkyeonada.wav
       발음: 쫃껴나다
     어휘 등급: 중급
     의미:
@@ -3379,10 +3400,10 @@ import:
     항목ID: 37178
     활용:
     - 발음: 쫃껴나
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37178_jjotkkyeona.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/37178_jjotkkyeona.wav
       형태: 쫓겨나
     - 발음: 쫃껴나니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37178_jjotkkyeonani.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/37178_jjotkkyeonani.wav
       형태: 쫓겨나니
 import_derived:
   맞춤법 검사:
@@ -3403,11 +3424,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37185
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjotkkida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjotkkida.wav
       발음: 쫃끼다
     어휘 등급: 중급
     의미:
@@ -3461,16 +3482,16 @@ import:
     항목ID: 37185
     활용:
     - 발음: 쫃끼어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37185_jjotkkieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/37185_jjotkkieo.wav
       형태: 쫓기어
     - 발음: 쫃끼여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37185_jjotkkiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/37185_jjotkkiyeo.wav
       형태: 쫓기어
     - 발음: 쫃껴
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/37185_jjotkkyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/37185_jjotkkyeo.wav
       형태: 쫓겨
     - 발음: 쫃끼니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37185_jjotkkini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/37185_jjotkkini.wav
       형태: 쫓기니
 result:
   맞춤법 검사:
@@ -3481,11 +3502,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37198
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut_2005/jjottta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut_2005/jjottta.wav
       발음: 쫃따
     어휘 등급: 중급
     의미:
@@ -3536,13 +3557,13 @@ import:
     항목ID: 37198
     활용:
     - 발음: 쪼차
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37198_jjocha.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/37198_jjocha.wav
       형태: 쫓아
     - 발음: 쪼츠니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37198_jjocheuni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/37198_jjocheuni.wav
       형태: 쫓으니
     - 발음: 쫀는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/37198_jjonneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/37198_jjonneun.wav
       형태: 쫓는
 result:
   맞춤법 검사:
@@ -3553,11 +3574,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78197
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjochagada.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjochagada.wav
       발음: 쪼차가다
     어휘 등급: 중급
     의미:
@@ -3597,13 +3618,13 @@ import:
     항목ID: 78197
     활용:
     - 발음: 쪼차가
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78197_jjochaga.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78197_jjochaga.wav
       형태: 쫓아가
     - 발음: 쪼차가니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78197_jjochagani.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78197_jjochagani.wav
       형태: 쫓아가니
     - 발음: 쪼차가거라
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78197_jjochagageora.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78197_jjochagageora.wav
       형태: 쫓아가거라
 result:
   맞춤법 검사:
@@ -3616,11 +3637,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78895
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjochanaeda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjochanaeda.wav
       발음: 쪼차내다
     어휘 등급: 중급
     의미:
@@ -3675,13 +3696,13 @@ import:
     항목ID: 78895
     활용:
     - 발음: 쪼차내어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78895_jjochanaeeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78895_jjochanaeeo.wav
       형태: 쫓아내어
     - 발음: 쪼차내
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78895_jjochanae.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78895_jjochanae.wav
       형태: 쫓아내
     - 발음: 쪼차내니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78895_jjochanaeni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78895_jjochanaeni.wav
       형태: 쫓아내니
 result:
   맞춤법 검사:
@@ -3694,11 +3715,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78198
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjochadanida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjochadanida.wav
       발음: 쪼차다니다
     어휘 등급: 중급
     의미:
@@ -3736,16 +3757,16 @@ import:
     항목ID: 78198
     활용:
     - 발음: 쪼차다니어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78198_jjochadanieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78198_jjochadanieo.wav
       형태: 쫓아다니어
     - 발음: 쪼차다니여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78198_jjochadaniyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78198_jjochadaniyeo.wav
       형태: 쫓아다니어
     - 발음: 쪼차다녀
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/47000/78198_jjochadanyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/47000/78198_jjochadanyeo.wav
       형태: 쫓아다녀
     - 발음: 쪼차다니니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78198_jjochadanini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78198_jjochadanini.wav
       형태: 쫓아다니니
 result:
   맞춤법 검사:
@@ -3756,11 +3777,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78199
-    가져온 시각: '2019-09-05T09:52:38+09:00'
+    가져온 시각: '2023-05-01T02:06:18+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/jieut2_2005/jjochaoda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/jieut2_2005/jjochaoda.wav
       발음: 쪼차오다
     어휘 등급: 중급
     의미:
@@ -3798,13 +3819,13 @@ import:
     항목ID: 78199
     활용:
     - 발음: 쪼차와
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78199_jjochawa.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78199_jjochawa.wav
       형태: 쫓아와
     - 발음: 쪼차오니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78199_jjochaoni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78199_jjochaoni.wav
       형태: 쫓아오니
     - 발음: 쪼차오너라
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/50000/78199_jjochaoneora.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/50000/78199_jjochaoneora.wav
       형태: 쫓아오너라
 result:
   맞춤법 검사:

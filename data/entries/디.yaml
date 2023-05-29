@@ -2,7 +2,7 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=86265
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 1
     어휘 등급: 없음
@@ -16,9 +16,11 @@ import:
       - 패배한 선수는 쓰디쓰게 웃음을 지었다.
       - 그는 넓디넓은 바다를 바라보며 생각에 잠겼다.
       - 차디찬 방은 주인이 오랜 시간 방을 비웠음을 충분히 짐작하게 했다.
+      - 잘나디잘난 동기들은 앞다투어 승진을 하는데 나만 제자리인 것 같다.
+      - 겉모습만 보면 늙디늙은 노인이지만 체력은 젊은이들 못지않다.
       의미ID: 1
       참고: 주로 '-디-은', '-디-게', '-디-다'로 쓴다.
-    참고: 일부 형용사 뒤에 붙여 쓴다.
+    참고: 일부 동사와 형용사 뒤에 붙여 쓴다.
     표제어: -디
     품사: 어미
     항목ID: 86265
@@ -30,7 +32,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=77063
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 2
     어휘 등급: 없음
@@ -57,11 +59,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=69076
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2006/digeut.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/digeut_2006/digeut.wav
       발음: 디귿
     어휘 등급: 없음
     의미:
@@ -72,13 +74,13 @@ import:
     항목ID: 69076
     활용:
     - 발음: 디그시
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/69076_digeusi.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/69076_digeusi.wav
       형태: 디귿이
     - 발음: 디귿또
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/69076_digeuttto.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/69076_digeuttto.wav
       형태: 디귿도
     - 발음: 디근만
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/69076_digeunman.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/69076_digeunman.wav
       형태: 디귿만
 result:
   맞춤법 검사:
@@ -89,8 +91,12 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=820246
-    가져온 시각: '2019-08-21T03:41:46+09:00'
+    가져온 시각: '2023-05-01T07:31:48+09:00'
     관련어:
+    - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=1409895
+      종류: 비슷한말
+      표제어: 디도스^공격001
+      항목ID: 1409895
     - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=773978
       종류: 비슷한말
       표제어: 분산^서비스^거부001
@@ -107,6 +113,8 @@ import:
     뜻풀이: 여러 크래커를 분산 배치 하여 컴퓨터 시스템이 본래의 용도로 사용되지 못하게 하는 방식의 해킹.
     분류: 정보·통신
     어원: distribute denial of service
+    원뜻풀이: 여러 <sense_no>301344</sense_no>크래커_를 분산 배치 하여 컴퓨터 시스템이 본래의 용도로 사용되지 못하게 하는
+      방식의 해킹.
     원어:
       언어: 영어
       원어: DDOS
@@ -124,11 +132,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53919
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2006/didida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/digeut_2006/didida.wav
       발음: 디디다
     어휘 등급: 고급
     의미:
@@ -192,10 +200,10 @@ import:
     항목ID: 53919
     활용:
     - 발음: 디디어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53919_didieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/53919_didieo.wav
       형태: 디디어
     - 발음: 디디여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/53919_didiyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/53919_didiyeo.wav
       형태: 디디어
     - 형태: 디디니
 result:
@@ -207,11 +215,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53929
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/didilppanga.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/digeut_2005/didilppanga.wav
       발음: 디딜빵아
     어휘 등급: 없음
     의미:
@@ -245,11 +253,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53931
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/digeut_2005/didimttol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/digeut_2005/didimttol.wav
       발음: 디딤똘
     어휘 등급: 없음
     의미:
@@ -305,7 +313,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=420965&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -313,6 +321,14 @@ import:
     의미:
     - 뜻풀이: 파일 시스템을 관리하고, 각 파일이 있는 장소를 쉽게 찾도록 디스크의 요소를 분할ㆍ검색하는 정보를 포함하는 레코드의 집합.
       분류: 정보·통신
+      어휘정보:
+      - 기준: 의미
+        단어: 목록
+        대상항목ID: 41031
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=118413&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 파일 시스템을 관리하고, 각 파일이 있는 장소를 쉽게 찾도록 디스크의 요소를 분할ㆍ검색하는 정보를 포함하는 레코드의 집합.
+      의미코드: 136968
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -327,11 +343,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54466
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/19000/54466_di-milda.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/19000/54466_di-milda.wav
       발음: 디ː밀다
     어휘 등급: 없음
     의미:
@@ -411,13 +427,13 @@ import:
     항목ID: 54466
     활용:
     - 발음: 디ː미러
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54466_di-mireo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/54466_di-mireo.wav
       형태: 디밀어
     - 발음: 디ː미니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54466_di-mini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/54466_di-mini.wav
       형태: 디미니
     - 발음: 디ː밈니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54466_di-mimnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/54466_di-mimnida.wav
       형태: 디밉니다
 result:
   맞춤법 검사:
@@ -428,7 +444,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=96231&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -437,6 +453,15 @@ import:
     - 뜻풀이: 만든 프로그램들이 정확한가를 조사하는 과정. 프로그램 순서도를 살피는 검사, 컴파일러를 사용한 검사, 실제 데이터를 사용한 검사의
         세 단계로 이루어진다.
       분류: 정보·통신
+      어휘정보:
+      - 기준: 의미
+        단어: 오류^수정
+        대상항목ID: 234530
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=242752&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 만든 프로그램들이 정확한가를 조사하는 과정. 프로그램 순서도를 살피는 검사, 컴파일러를 사용한 검사, 실제 데이터를 사용한 검사의
+        세 단계로 이루어진다.
+      의미코드: 455869
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -451,7 +476,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53935
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     검색용 이형태: DVD
     구분: 단어
     동형어 번호: 0
@@ -487,7 +512,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53938
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -519,7 +544,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53941
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -549,7 +574,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=28102
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -630,7 +655,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53946
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -670,7 +695,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=53957
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     검색용 이형태: DNA
     구분: 단어
     동형어 번호: 0
@@ -702,8 +727,14 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=94471&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
+    어휘정보:
+    - 기준: 어휘
+      단어: 바커스
+      대상항목ID: 130090
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=130090&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 안 밝힘
       원어: Dionysos
@@ -711,6 +742,9 @@ import:
     - 뜻풀이: 그리스 신화에 나오는 술의 신. 제우스와 세멜레의 아들로 자연의 생성력 및 포도, 포도주를 다스린다고 한다. 로마 신화의 바쿠스에
         해당한다.
       분류: 문학
+      원뜻풀이: 그리스 신화에 나오는 술의 신. 제우스와 세멜레의 아들로 자연의 생성력 및 포도, 포도주를 다스린다고 한다. 로마 신화의 바쿠스에
+        해당한다.
+      의미코드: 419009
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -725,15 +759,16 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15059
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
     원어: designer
     의미:
-    - 뜻풀이: 사람의 유행하는 머리 모양이나 제품의 디자인을 전문적으로 하는 사람.
+    - 뜻풀이: 의상, 공업 제품, 건축 등의 실용적인 목적을 가진 작품의 설계나 도안 등을 전문으로 하는 사람.
       용례.구:
       - 웹 디자이너.
+      - 컴퓨터 디자이너.
       - 패션 디자이너.
       - 헤어 디자이너.
       - 유명한 디자이너.
@@ -758,7 +793,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54448
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 초급
@@ -791,11 +826,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54449
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
-    원어: design 하다
+    원어: design하다
     의미:
     - 뜻풀이: 의상, 공업 제품, 건축 등의 실용적인 목적을 가진 작품을 설계하거나 도안하다.
       문형: 1이 2를 디자인하다
@@ -823,7 +858,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54450
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -858,7 +893,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=94830&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 안 밝힘
@@ -866,6 +901,9 @@ import:
     의미:
     - 뜻풀이: 독일의 기계 기술자(1858~1913). 내연 기관을 연구하여 1897년에 중유를 연료로 사용하는 ‘디젤 기관’을 발명하였다.
       분류: 인명
+      원뜻풀이: 독일의 기계 기술자(1858~1913). 내연 기관을 연구하여 1897년에 중유를 연료로 사용하는 ‘<sense_no>136560</sense_no>디젤기관’을
+        발명하였다.
+      의미코드: 529537
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -880,7 +918,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=96117&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -889,6 +927,9 @@ import:
     - 뜻풀이: 컴퓨터에 그림이나 도형의 위치 관계를 부호화하여 입력하는 장치. 평면 판과 펜으로 구성되어 있으며 면 위에서 펜을 이동하면 그
         좌표가 디지털 데이터로 바뀌어 입력된다. 주로 캐드(CAD)나 캠(CAM)에 쓴다.
       분류: 정보·통신
+      원뜻풀이: 컴퓨터에 그림이나 도형의 위치 관계를 부호화하여 입력하는 장치. 평면 판과 펜으로 구성되어 있으며 면 위에서 펜을 이동하면 그
+        좌표가 디지털 데이터로 바뀌어 입력된다. 주로 캐드(CAD)나 캠(CAM)에 쓴다.
+      의미코드: 136753
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -903,7 +944,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92213
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -921,7 +962,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54451
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 중급
@@ -958,7 +999,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54452
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -996,7 +1037,7 @@ result:
 import:
   우리말샘:
     URL: http://opendict.korean.go.kr/dictionary/view?sense_no=617973
-    가져온 시각: '2019-08-21T03:41:46+09:00'
+    가져온 시각: '2023-05-01T07:31:48+09:00'
     관련어:
     - URL: http://opendict.korean.go.kr/dictionary/view?sense_no=596461
       종류: 비슷한말
@@ -1004,6 +1045,7 @@ import:
       항목ID: 596461
     구분: 어휘
     뜻풀이: 필름 없이 디지털 방식으로 사진을 찍는 카메라. 사진을 컴퓨터 파일 형식으로 저장할 수 있다.
+    원뜻풀이: 필름 없이 디지털 방식으로 사진을 찍는 카메라. 사진을 컴퓨터 파일 형식으로 저장할 수 있다.
     원어:
       언어: 영어
       원어: ←digital camera
@@ -1021,7 +1063,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=95968&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 영어
@@ -1029,6 +1071,14 @@ import:
     의미:
     - 뜻풀이: 암호화된 정보를 복원하거나 다른 형태로 변환하거나 하는 장치.
       분류: 정보·통신
+      어휘정보:
+      - 기준: 의미
+        단어: 해독-기
+        대상항목ID: 365862
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=503120&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 암호화된 정보를 복원하거나 다른 형태로 변환하거나 하는 장치.
+      의미코드: 137180
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -1043,7 +1093,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=94539&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
     원어:
       언어: 안 밝힘
@@ -1052,6 +1102,9 @@ import:
     - 뜻풀이: 미국 미시간주의 동남부에 있는 공업 도시. 오대호 연안의 중심지이며, 세계 최대 규모인 자동차 공업을 비롯하여 기계와 항공기 제조
         공업 따위가 발달하였다.
       분류: 지명
+      원뜻풀이: 미국 미시간주의 동남부에 있는 공업 도시. 오대호 연안의 중심지이며, 세계 최대 규모인 자동차 공업을 비롯하여 기계와 항공기
+        제조 공업 따위가 발달하였다.
+      의미코드: 137396
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -1066,14 +1119,33 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=95810&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:23:37+09:00'
+    가져온 시각: '2023-05-01T03:01:34+09:00'
     구분: 단어
+    어휘정보:
+    - 기준: 어휘
+      단어: 인플레이션
+      대상항목ID: 265771
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=265771&searchKeywordTo=3
+      종류: 참고 어휘
     원어:
       언어: 영어
       원어: deflation
     의미:
     - 뜻풀이: 경기 과열이나 인플레이션의 억제를 위하여 팽창한 화폐를 정책적으로 줄이는 일. 또는 그런 현상.
       분류: 경제
+      어휘정보:
+      - 기준: 의미
+        단어: 통화^수축
+        대상항목ID: 26387
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=495228&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 통화^수축
+        대상항목ID: 57827
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=495228&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 경기 과열이나 인플레이션의 억제를 위하여 팽창한 화폐를 정책적으로 줄이는 일. 또는 그런 현상.
+      의미코드: 39363
       종류: 일반어
       품사: 명사
     종류: 외래어
@@ -1088,11 +1160,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54454
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/19000/54454_dittta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/19000/54454_dittta.wav
       발음: 딛따
     어휘 등급: 고급
     의미:
@@ -1156,7 +1228,7 @@ import:
     항목ID: 54454
     활용:
     - 발음: 딘는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/31000/54454_dinneun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/31000/54454_dinneun.wav
       형태: 딛는
 import_derived:
   맞춤법 검사:
@@ -1181,7 +1253,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54455
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1225,7 +1297,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54456
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1252,11 +1324,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54457
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/19000/54457_diptta.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/19000/54457_diptta.wav
       발음: 딥따
     어휘 등급: 없음
     의미:
@@ -1289,7 +1361,7 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=92214
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     어휘 등급: 없음
@@ -1307,11 +1379,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54461
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/19000/54461_dingdong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/19000/54461_dingdong.wav
       발음: 딩동
     어휘 등급: 없음
     의미:
@@ -1340,11 +1412,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54459
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/19000/54459_dingdongdaeng.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/19000/54459_dingdongdaeng.wav
       발음: 딩동댕
     어휘 등급: 없음
     의미:
@@ -1384,11 +1456,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=54460
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/19000/54460_dingdongdingdong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/19000/54460_dingdongdingdong.wav
       발음: 딩동딩동
     어휘 등급: 없음
     의미:

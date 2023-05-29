@@ -2,13 +2,13 @@
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=23869
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/noe.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2006/noe.wav
       발음: 뇌
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/nwe.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2006/nwe.wav
       발음: 눼
     어휘 등급: 중급
     원어: 腦
@@ -52,7 +52,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=68773&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:09:16+09:00'
+    가져온 시각: '2023-05-01T02:26:36+09:00'
     구분: 단어
     발음:
     - 뇌간
@@ -63,6 +63,14 @@ import:
     의미:
     - 뜻풀이: 척수와 대뇌 사이에 줄기처럼 연결된 뇌의 부분. 중간뇌, 다리뇌, 숨뇌로 이루어져 있다.
       분류: 의학
+      어휘정보:
+      - 기준: 의미
+        단어: 뇌-줄기
+        대상항목ID: 588551
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=509535&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 척수와 대뇌 사이에 줄기처럼 연결된 뇌의 부분. 중간뇌, 다리뇌, 숨뇌로 이루어져 있다.
+      의미코드: 564362
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -77,7 +85,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=409887&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:09:16+09:00'
+    가져온 시각: '2023-05-01T02:26:36+09:00'
     구분: 단어
     발음:
     - 뇌경색
@@ -89,6 +97,15 @@ import:
     - 뜻풀이: 뇌에 혈액을 보내는 동맥이 막혀 혈액이 흐르지 못하거나 방해를 받아 그 앞쪽의 뇌 조직이 괴사(壞死)하는 병. 뇌혈전과 뇌색전이
         있다.
       분류: 의학
+      어휘정보:
+      - 기준: 의미
+        단어: 뇌-연화증
+        대상항목ID: 120020
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=70375&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 뇌에 혈액을 보내는 동맥이 막혀 혈액이 흐르지 못하거나 방해를 받아 그 앞쪽의 뇌 조직이 괴사(壞死)하는 병. 뇌혈전과 뇌색전이
+        있다.
+      의미코드: 118494
       종류: 일반어
       품사: 명사
     종류: 한자어
@@ -105,13 +122,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24448
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noegwan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noegwan.wav
       발음: 뇌관
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nwegwan.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nwegwan.wav
       발음: 눼관
     어휘 등급: 없음
     원어: 雷管
@@ -144,13 +161,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45304
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noekkarida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noekkarida.wav
       발음: 뇌까리다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nwekkarida.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nwekkarida.wav
       발음: 눼까리다
     어휘 등급: 없음
     의미:
@@ -173,30 +190,30 @@ import:
     항목ID: 45304
     활용:
     - 발음: 뇌까리는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45304_noekkarineun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45304_noekkarineun.wav
       형태: 뇌까리는
     - 발음: 눼까리는
       형태: 뇌까리는
     - 발음: 뇌까리어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45304_noekkarieo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45304_noekkarieo.wav
       형태: 뇌까리어
     - 발음: 눼까리여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45304_nwekkariyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45304_nwekkariyeo.wav
       형태: 뇌까리어
     - 발음: 눼까려
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/45304_nwekkaryeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/45304_nwekkaryeo.wav
       형태: 뇌까려
     - 발음: 뇌까리니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45304_noekkarini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45304_noekkarini.wav
       형태: 뇌까리니
     - 발음: 눼까리니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45304_nwekkarini.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45304_nwekkarini.wav
       형태: 뇌까리니
     - 발음: 뇌까림니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45304_noekkarimnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45304_noekkarimnida.wav
       형태: 뇌까립니다
     - 발음: 눼까림니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45304_nwekkarimnida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45304_nwekkarimnida.wav
       형태: 뇌까립니다
 result:
   맞춤법 검사:
@@ -207,13 +224,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45306
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/45306_noe-da.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/45306_noe-da.wav
       발음: 뇌ː다
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/30000/23000/45306_nwe-da.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/30000/23000/45306_nwe-da.wav
       발음: 눼ː다
     어휘 등급: 없음
     의미:
@@ -238,31 +255,31 @@ import:
     항목ID: 45306
     활용:
     - 발음: 뇌ː는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45306_noe-neun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45306_noe-neun.wav
       형태: 뇌는
     - 발음: 눼ː는
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45306_nwe-neun.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45306_nwe-neun.wav
       형태: 뇌는
     - 발음: 뇌어
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45306_noeeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45306_noeeo.wav
       형태: 뇌어
     - 발음: 눼여
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45306_nweyeo.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45306_nweyeo.wav
       형태: 뇌어
     - 발음: 놰ː
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/50000/46000/45306_nwae-.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/50000/46000/45306_nwae-.wav
       형태: 놰
     - 발음: 뇌ː니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45306_noe-ni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45306_noe-ni.wav
       형태: 뇌니
     - 발음: 눼ː니
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45306_nwe-ni.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45306_nwe-ni.wav
       형태: 뇌니
     - 발음: 뇜ː니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45306_noem-nida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45306_noem-nida.wav
       형태: 뇝니다
     - 발음: 뉌ː니다
-      발음 URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/20000/16000/45306_nwem-nida.wav
+      발음 URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/20000/16000/45306_nwem-nida.wav
       형태: 뇝니다
 result:
   맞춤법 검사:
@@ -273,13 +290,21 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=409908&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:09:16+09:00'
+    가져온 시각: '2023-05-01T02:26:36+09:00'
     구분: 단어
     발음:
     - 뇌ː라타
     - 눼ː라타
+    어휘정보:
+    - 기준: 어휘
+      단어: 뉘렇다
+      대상항목ID: 403091
+      링크: https://stdict.korean.go.kr/search/searchView.do?word_no=403091&searchKeywordTo=3
+      종류: 참고 어휘
     의미:
     - 뜻풀이: 생기가 없이 몹시 노랗다.
+      원뜻풀이: 생기가 없이 몹시 노랗다.
+      의미코드: 118964
       종류: 일반어
       품사: 형용사
     종류: 고유어
@@ -300,13 +325,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45307
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noeri.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noeri.wav
       발음: 뇌리
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nweri.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nweri.wav
       발음: 눼리
     어휘 등급: 없음
     원어: 腦裏
@@ -338,13 +363,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45308
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/noemul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2006/noemul.wav
       발음: 뇌물
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/nwemul.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2006/nwemul.wav
       발음: 눼물
     어휘 등급: 고급
     원어: 賂物
@@ -377,13 +402,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24449
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noesa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noesa.wav
       발음: 뇌사
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nwesa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nwesa.wav
       발음: 눼사
     어휘 등급: 고급
     원어: 腦死
@@ -417,13 +442,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24451
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noesaja.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noesaja.wav
       발음: 뇌사자
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nwesaja.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nwesaja.wav
       발음: 눼사자
     어휘 등급: 없음
     원어: 腦死者
@@ -453,7 +478,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=71174&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:09:16+09:00'
+    가져온 시각: '2023-05-01T02:26:36+09:00'
     구분: 단어
     발음:
     - 뇌사하다
@@ -463,6 +488,14 @@ import:
       원어: 하다
     의미:
     - 뜻풀이: 감옥살이를 하다가 감옥에서 죽다.
+      어휘정보:
+      - 기준: 의미
+        단어: 옥사-하다
+        대상항목ID: 430044
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=239503&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 감옥살이를 하다가 감옥에서 죽다.
+      의미코드: 380455
       종류: 일반어
       품사: 동사
     종류: 혼종어
@@ -481,13 +514,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24453
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noeseong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noeseong.wav
       발음: 뇌성
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nweseong.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nweseong.wav
       발음: 눼성
     어휘 등급: 없음
     원어: 雷聲
@@ -522,13 +555,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24457
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/24457_noesepo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/33000/24457_noesepo.wav
       발음: 뇌세포
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/24457_nwesepo.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/33000/24457_nwesepo.wav
       발음: 눼세포
     어휘 등급: 없음
     원어: 腦細胞
@@ -558,13 +591,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24460
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noeswae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noeswae.wav
       발음: 뇌쇄
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nweswae.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nweswae.wav
       발음: 눼쇄
     어휘 등급: 없음
     원어: 惱殺
@@ -589,13 +622,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24466
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noesingyeongoekkwa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noesingyeongoekkwa.wav
       발음: 뇌신경외꽈
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nwesingyeongwekkwa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nwesingyeongwekkwa.wav
       발음: 눼신경웨꽈
     어휘 등급: 없음
     원어: 腦神經外科
@@ -625,13 +658,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45312
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noeyeom.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noeyeom.wav
       발음: 뇌염
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nweyeom.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nweyeom.wav
       발음: 눼염
     어휘 등급: 없음
     원어: 腦炎
@@ -662,11 +695,11 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45314
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/naver/2016/40000/33000/45314_noejoljjung.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/naver/2016/40000/33000/45314_noejoljjung.wav
       발음: 뇌졸쭝
     어휘 등급: 고급
     원어: 腦卒中
@@ -698,13 +731,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=24468
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noejongyang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noejongyang.wav
       발음: 뇌종양
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nwejongyang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nwejongyang.wav
       발음: 눼종양
     어휘 등급: 없음
     원어: 腦腫瘍
@@ -735,13 +768,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45315
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/noejintang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2006/noejintang.wav
       발음: 뇌진탕
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2006/nwejintang.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2006/nwejintang.wav
       발음: 눼진탕
     어휘 등급: 없음
     원어: 腦震蕩
@@ -771,13 +804,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45316
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noechulhyeol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noechulhyeol.wav
       발음: 뇌출혈
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nwechulhyeol.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nwechulhyeol.wav
       발음: 눼출혈
     어휘 등급: 없음
     원어: 腦出血
@@ -808,13 +841,13 @@ result:
 import:
   한국어기초사전:
     URL: https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=45317
-    가져온 시각: '2019-09-05T09:31:45+09:00'
+    가져온 시각: '2023-05-01T01:24:38+09:00'
     구분: 단어
     동형어 번호: 0
     발음:
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/noepa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/noepa.wav
       발음: 뇌파
-    - URL: http://dicmedia.korean.go.kr:8899/multimedia/sound_file/nieun_2005/nwepa.wav
+    - URL: https://dicmedia.korean.go.kr/multimedia/sound_file/nieun_2005/nwepa.wav
       발음: 눼파
     어휘 등급: 없음
     원어: 腦波
@@ -846,7 +879,7 @@ result:
 import:
   표준국어대사전:
     URL: https://stdict.korean.go.kr/search/searchView.do?word_no=409301&searchKeywordTo=3
-    가져온 시각: '2019-06-25T08:09:16+09:00'
+    가져온 시각: '2023-05-01T02:26:36+09:00'
     구분: 단어
     발음:
     - 뇌하수체
@@ -861,6 +894,20 @@ import:
       - URL: http://media.korean.go.kr/front/view/mediaView.do?file_no=104425
         종류: 삽화
       분류: 의학
+      어휘정보:
+      - 기준: 의미
+        단어: 골밑-샘
+        대상항목ID: 561290
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=26251&searchKeywordTo=3
+        종류: 동의어
+      - 기준: 의미
+        단어: 하수-체
+        대상항목ID: 586008
+        링크: https://stdict.korean.go.kr/search/searchView.do?word_no=361716&searchKeywordTo=3
+        종류: 동의어
+      원뜻풀이: 사이뇌의 시상 하부 아래쪽 가운데에 가느다란 줄기로 연결된 짝이 없는 콩알만 한 샘. 기원이 다른 두 부분으로 이루어져 있으며,
+        앞엽은 여러 가지 호르몬을 분비하고 뒤엽은 시상 하부에서 만든 신경 호르몬을 받아 분비한다.
+      의미코드: 117433
       종류: 일반어
       품사: 명사
     종류: 한자어
