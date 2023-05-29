@@ -95,6 +95,9 @@ class ImportOpendict:
         self.insert_or_replace_entry(yaml_doc, entry)
 
     def xml_workaround(self, s):
+        # 잘못된 XML 수정
+        s = s.replace('', ' ').replace('', '')
+        s = re.sub('.', '', s)
         return s
 
     def sanitize_word(self, word):
@@ -153,7 +156,7 @@ class ImportOpendict:
             with open(os.path.join(self.outdir, filename)) as infile:
                 sys.stdout.write('r..')
                 sys.stdout.flush()
-                yaml_docs = list(yaml.load_all(infile))
+                yaml_docs = list(yaml.load_all(infile, Loader=yaml.FullLoader))
                 yaml_docs.sort(key=lambda x : x['000_KEYWORD'])
                 self.yaml_output_recently_used.append(filename)
                 self.yaml_output_cache[filename] = yaml_docs
@@ -265,6 +268,8 @@ class ImportOpendict:
                 rec['종류'] = item.text
             elif item.tag == 'definition':
                 rec['뜻풀이'] = item.text
+            elif item.tag == 'definition_original':
+                rec['원뜻풀이'] = item.text
             elif item.tag == 'cat_info':
                 for subitem in item:
                     if subitem.tag == 'cat':

@@ -154,7 +154,7 @@ class ImportStdict:
             with open(os.path.join(self.outdir, filename)) as infile:
                 sys.stdout.write('r..')
                 sys.stdout.flush()
-                yaml_docs = list(yaml.load_all(infile))
+                yaml_docs = list(yaml.load_all(infile, Loader=yaml.FullLoader))
                 yaml_docs.sort(key=lambda x : x['000_KEYWORD'])
                 self.yaml_output_recently_used.append(filename)
                 self.yaml_output_cache[filename] = yaml_docs
@@ -261,6 +261,8 @@ class ImportStdict:
                                 subrecord['종류'] = subsubitem.text
                             elif subsubitem.tag == 'definition':
                                 subrecord['뜻풀이'] = subsubitem.text
+                            elif subsubitem.tag == 'definition_original':
+                                subrecord['원뜻풀이'] = subsubitem.text
                             elif subsubitem.tag == 'example_info':
                                 for subsubsubitem in subsubitem:
                                     # 출처가 표시된 예제는 독점적 저작권이 있는 출처의 문헌, 제외한다
@@ -306,6 +308,26 @@ class ImportStdict:
                                         subrecord['문법'] = subsubitem.text
                                     else:
                                         raise Exception('Unknown cat_info subitem tag ' + subsubsubitem.tag)
+                            elif subsubitem.tag == 'sense_code':
+                                subrecord['의미코드'] = int(subsubitem.text)
+                            elif subsubitem.tag == 'lexical_info':
+                                if '어휘정보' not in subrecord:
+                                    subrecord['어휘정보'] = []
+                                subsubrecord = {}
+                                for subsubsubitem in subsubitem:
+                                    if subsubsubitem.tag == 'word':
+                                        subsubrecord['단어'] = subsubsubitem.text
+                                    elif subsubsubitem.tag == 'type':
+                                        subsubrecord['종류'] = subsubsubitem.text
+                                    elif subsubsubitem.tag == 'unit':
+                                        subsubrecord['기준'] = subsubsubitem.text
+                                    elif subsubsubitem.tag == 'link_target_code':
+                                        subsubrecord['대상항목ID'] = int(subsubsubitem.text)
+                                    elif subsubsubitem.tag == 'link':
+                                        subsubrecord['링크'] = subsubsubitem.text
+                                    else:
+                                        raise Exception('Unknown lexical_info subitem tag ' + subsubsubitem.tag)
+                                subrecord['어휘정보'].append(subsubrecord)
                             else:
                                 raise Exception('Unknown sense_info subitem tag ' + subsubitem.tag)
                     elif subitem.tag == 'pattern_info':
@@ -321,6 +343,24 @@ class ImportStdict:
                             else:
                                 raise Exception('Unknown grammar_info subitem tag ' + subsubitem.tag)
                 rec['의미'].append(subrecord)
+            elif item.tag == 'lexical_info':
+                if '어휘정보' not in rec:
+                    rec['어휘정보'] = []
+                subrecord = {}
+                for subitem in item:
+                    if subitem.tag == 'word':
+                        subrecord['단어'] = subitem.text
+                    elif subitem.tag == 'type':
+                        subrecord['종류'] = subitem.text
+                    elif subitem.tag == 'unit':
+                        subrecord['기준'] = subitem.text
+                    elif subitem.tag == 'link_target_code':
+                        subrecord['대상항목ID'] = int(subitem.text)
+                    elif subitem.tag == 'link':
+                        subrecord['링크'] = subitem.text
+                    else:
+                        raise Exception('Unknown lexical_info subitem tag ' + subitem.tag)
+                rec['어휘정보'].append(subrecord)
             else:
                 print(rec['항목ID'])
                 raise Exception('Unknown tag ' + item.tag)
