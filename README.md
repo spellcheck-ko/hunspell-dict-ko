@@ -83,8 +83,3 @@ hunspell 1.3.1 이상 버전에서는 구현된 모든 기능이 동작합니다
  * [프로젝트 정보](https://spellcheck-ko.github.io/)
  * [Github 프로젝트](https://github.com/spellcheck-ko/hunspell-dict-ko/)
  * [의견 교환](https://groups.google.com/group/spellcheck-ko)
-
-## 기타 정보
-
- * 이 프로젝트는 2017년에 과학기술정보통신부에서 지원하는 공개SW개발자Lab
-   글로벌오픈프론티어 프로그램의 지원을 받았습니다. <https://kosslab.kr>
