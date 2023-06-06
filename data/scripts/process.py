@@ -9,14 +9,11 @@ import yaml
 from jamo import *
 
 class ProcessYamlDocs:
-    def __init__(self, yaml_dir):
-        self.entries_dir = entries_dir
+    def __init__(self, yaml_filename):
+        self.yaml_filename = yaml_filename
 
     def run(self):
-        filenames = glob.glob(os.path.join(self.entries_dir, '*.yaml'))
-        filenames.sort()
-        for filename in filenames:
-            self.process_file(filename)
+        self.process_file(self.yaml_filename)
 
     def process_file(self, filename):
         print('Processing %s...' % filename)
@@ -498,9 +495,9 @@ class ProcessYamlDocs:
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print('Usage: %s <entries_dir>')
+        print('Usage: %s <filename.yaml>')
         sys.exit(1)
 
-    entries_dir = sys.argv[1]
-    processor = ProcessYamlDocs(entries_dir)
+    yaml_filename = sys.argv[1]
+    processor = ProcessYamlDocs(yaml_filename)
     processor.run()

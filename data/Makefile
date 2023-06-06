@@ -1,3 +1,5 @@
+MAKEFLAGS += -j$(shell nproc)
+
 PYTHON=python3
 SCRIPTSDIR=scripts
 ENTRIESDIR=entries
@@ -12,8 +14,10 @@ help:
 	@echo "    make build"
 	@echo "      - build hunspell-dict-ko word files from raw files"
 
-build:
+build::
 	$(PYTHON) $(SCRIPTSDIR)/build.py
 
-process:
-	$(PYTHON) $(SCRIPTSDIR)/process.py $(ENTRIESDIR)
+process:: $(ENTRIESDIR)/*.yaml
+
+$(ENTRIESDIR)/*.yaml::
+	$(PYTHON) $(SCRIPTSDIR)/process.py $@
