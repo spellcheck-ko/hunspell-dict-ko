@@ -96,7 +96,9 @@ class ImportOpendict:
 
     def xml_workaround(self, s):
         # 잘못된 XML 수정
-        s = s.replace('', ' ').replace('', '')
+        s = s.replace(' ', ' ')
+        s = s.replace('', ' ')
+        s = s.replace('', '')
         s = re.sub('.', '', s)
         return s
 
