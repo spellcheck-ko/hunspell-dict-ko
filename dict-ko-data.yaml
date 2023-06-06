@@ -3865,8 +3865,6 @@ entries:
 - pos: 명사
   word: 거란
 - pos: 명사
-  word: 거란족
-- pos: 명사
   word: 거래
 - pos: 동사
   word: 거래되다
@@ -5771,15 +5769,11 @@ entries:
   - ㅂ불규칙
   word: 겹다
 - pos: 명사
-  word: 겹모음
-- pos: 명사
   word: 겹문장
 - pos: 명사
   word: 겹받침
 - pos: 명사
   word: 겹사돈
-- pos: 명사
-  word: 겹자음
 - pos: 동사
   word: 겹쳐지다
 - pos: 동사
@@ -13915,8 +13909,6 @@ entries:
 - pos: 명사
   word: 근위병
 - pos: 명사
-  word: 근위사단
-- pos: 명사
   word: 근육
 - pos: 명사
   word: 근육질
@@ -14203,8 +14195,6 @@ entries:
   word: 금세기
 - pos: 명사
   word: 금속
-- pos: 명사
-  word: 금속노조
 - pos: 명사
   word: 금속성
 - pos: 명사
@@ -24572,6 +24562,8 @@ entries:
 - pos: 명사
   word: 대진표
 - pos: 명사
+  word: 대진항
+- pos: 명사
   word: 대질
 - pos: 동사
   word: 대질하다
@@ -27103,8 +27095,6 @@ entries:
   word: 동이
 - pos: 동사
   word: 동이다
-- pos: 명사
-  word: 동이족
 - pos: 명사
   word: 동인
 - pos: 명사
@@ -36388,8 +36378,6 @@ entries:
 - pos: 동사
   word: 물다
 - pos: 명사
-  word: 물담배
-- pos: 명사
   word: 물독
 - pos: 명사
   word: 물동량
@@ -40182,8 +40170,6 @@ entries:
 - pos: 명사
   word: 방위각
 - pos: 명사
-  word: 방위대
-- pos: 명사
   word: 방위력
 - pos: 명사
   word: 방위비
@@ -42255,8 +42241,6 @@ entries:
   word: 변란
 - pos: 명사
   word: 변론
-- pos: 명사
-  word: 변론기일
 - pos: 동사
   word: 변론하다
 - pos: 명사
@@ -44973,8 +44957,6 @@ entries:
   word: 부족액
 - pos: 형용사
   word: 부족하다
-- pos: 명사
-  word: 부존재
 - pos: 명사
   word: 부주의
 - pos: 형용사
@@ -57894,8 +57876,6 @@ entries:
 - pos: 명사
   word: 스킨십
 - pos: 명사
-  word: 스킴
-- pos: 명사
   word: 스타
 - pos: 명사
   word: 스타디움
@@ -61784,8 +61764,6 @@ entries:
 - pos: 명사
   word: 아이템
 - pos: 명사
-  word: 아이폰
-- pos: 명사
   word: 아이피
 - pos: 명사
   word: 아인슈타인
@@ -63261,6 +63239,8 @@ entries:
   word: 앰뷸런스
 - pos: 명사
   word: 앰프
+- pos: 명사
+  word: 앱
 - pos: 명사
   word: 앱스토어
 - pos: 형용사
@@ -77857,8 +77837,6 @@ entries:
 - pos: 명사
   word: 자료집
 - pos: 명사
-  word: 자료형
-- pos: 명사
   word: 자루
 - pos: 명사
   word: 자루
@@ -77962,7 +77940,7 @@ entries:
   word: 자민련
 - pos: 명사
   word: 자바
-- pos: 명사
+- pos: 품사 없음
   word: 자바스크립트
 - pos: 부사
   word: 자박자박
@@ -79306,8 +79284,6 @@ entries:
   word: 장기수
 - pos: 명사
   word: 장기이식
-- pos: 명사
-  word: 장기자랑
 - pos: 관형사
   word: 장기적
 - pos: 명사
@@ -81915,8 +81891,6 @@ entries:
 - pos: 명사
   word: 전주대
 - pos: 명사
-  word: 전주대학교
-- pos: 명사
   word: 전지
 - pos: 명사
   word: 전지전능
@@ -82670,8 +82644,6 @@ entries:
   word: 접지
 - pos: 명사
   word: 접지력
-- pos: 명사
-  word: 접지면
 - pos: 동사
   word: 접질리다
 - pos: 명사
@@ -85676,8 +85648,6 @@ entries:
   word: 주객전도
 - pos: 명사
   word: 주거
-- pos: 명사
-  word: 주거래
 - pos: 명사
   word: 주거비
 - pos: 명사
@@ -98199,8 +98169,6 @@ entries:
 - pos: 명사
   word: 테킬라
 - pos: 명사
-  word: 테트리스
-- pos: 명사
   word: 테프론
 - pos: 명사
   word: 텍사스
@@ -100791,8 +100759,6 @@ entries:
 - pos: 명사
   word: 페이스
 - pos: 명사
-  word: 페이스북
-- pos: 명사
   word: 페이스트
 - pos: 명사
   props:
@@ -102270,8 +102236,6 @@ entries:
   word: 풀잎
 - pos: 명사
   word: 풀장
-- pos: 명사
-  word: 풀줄기
 - pos: 부사
   word: 풀쩍풀쩍
 - pos: 명사
@@ -104472,8 +104436,6 @@ entries:
 - pos: 명사
   word: 함수
 - pos: 명사
-  word: 함수형
-- pos: 명사
   word: 함숫값
 - pos: 명사
   word: 함양
@@ -104559,8 +104521,6 @@ entries:
   word: 합동
 - pos: 명사
   word: 합동참모의장
-- pos: 명사
-  word: 합동채무
 - pos: 동사
   word: 합동하다
 - pos: 동사
@@ -107741,8 +107701,6 @@ entries:
   word: 화가
 - pos: 명사
   word: 화강암
-- pos: 명사
-  word: 화개장터
 - pos: 명사
   word: 화공
 - pos: 명사
