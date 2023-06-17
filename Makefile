@@ -31,20 +31,24 @@ build: $(KO_AFF) $(KO_DIC)
 $(KO_AFF) $(KO_DIC): $(DICT_DATA) $(SOURCES)
 	$(PYTHON) make-aff-dic.py $(KO_AFF) $(KO_DIC) $(DICT_DATA) 
 
-distdir:
+distdir::
 	if ! [ -d $(DISTDIR) ]; then mkdir $(DISTDIR); fi
 
 clean: 
 	rm -f $(CLEANFILES)
 	rm -rf $(DISTDIR)
 
-dist:: distdir $(BIN_DISTCONTENT)
-	git -c 'tar.tar.xz.command=xz -c' archive --format=tar.xz --prefix=$(SRC_DISTNAME)/ -o $(SRC_DISTFILE) $(RELEASETAG)
+dist:: bdist sdist
+
+bdist:: distdir $(BIN_DISTCONTENT)
 	rm -f $(BIN_DISTFILE)
 	mkdir -p $(BIN_DISTNAME)
 	install -m644 $(BIN_DISTCONTENT) $(BIN_DISTNAME)/
 	$(ZIP) $(BIN_DISTFILE) $(BIN_DISTNAME)
 	rm -rf $(BIN_DISTNAME)
+
+sdist:: distdir $(BIN_DISTCONTENT)
+	git -c 'tar.tar.xz.command=xz -c' archive --format=tar.xz --prefix=$(SRC_DISTNAME)/ -o $(SRC_DISTFILE) $(RELEASETAG)
 
 test: build
 	$(MAKE) -C tests test
