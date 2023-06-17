@@ -1,3 +1,17 @@
+# 0.7.94
+
+https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.94
+
+## 변경 사항
+
+- 데이터 정리
+  - 우리말샘에서 사용하는 단어 정리
+  - MPL/GPL/LGPL legacy 단어 삭제
+
+- 기타
+  - 병렬 빌드로 속도 개선
+  - hunspell 1.7.2에서 실패하는 서술형 조사 + 보조 용언 테스트 넘어가기
+
 # 0.7.93
 
 https://github.com/spellcheck-ko/hunspell-dict-ko/releases/tag/0.7.93
