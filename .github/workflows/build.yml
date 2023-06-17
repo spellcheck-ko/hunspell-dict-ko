@@ -1,0 +1,30 @@
+name: make test
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: install dependencies
+      run: sudo apt install hunspell
+
+    - name: build
+      run: make
+
+    - name: test
+      run: make test
+
+    - name: build dist
+      if: startsWith(github.ref, 'refs/tags/')
+      run: make bdist
+
+    - uses: actions/upload-artifact@v3
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+        name: ko-aff-dic
+        path: dist/ko-*.zip
