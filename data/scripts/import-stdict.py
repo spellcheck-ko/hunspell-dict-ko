@@ -100,7 +100,7 @@ class ImportStdict:
 
     def sanitize_word(self, word):
         word = word[:1] + word[1:].replace('-','').replace('^','')
-        m = re.match('^([^0-9]+)[0-9]*', word)
+        m = re.match(r'^([^0-9]+)[0-9]*', word)
         return m.group(1)
 
     def yaml_cache_find_yaml_doc(self, stdict_id, word, pos):

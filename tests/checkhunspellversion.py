@@ -19,7 +19,7 @@ def main():
     first_line = hunspell.stdout.readline().decode('UTF-8')
     hunspell.kill()
 
-    m = re.match('^.*Hunspell ([0-9\.]+).$', first_line)
+    m = re.match(r'^.*Hunspell ([0-9\.]+).$', first_line)
     numbers = [int(s) for s in m.group(1).split('.')]
     if len(numbers) >= 3:
         if check_version(numbers, [1, 6, 2]):
